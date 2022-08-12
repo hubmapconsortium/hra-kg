@@ -1,0 +1,33 @@
+{
+    "data":
+    [
+        {
+            "id": "https://entity.api.hubmapconsortium.org/entities/c8a7cb9e644eb7bf0a5015eeee0f24c5",
+            "label": "Registered 2/16/2022, Dana L Jackson, TMC-CalTech",
+            "description": "10 x 25 x 10 millimeter, 10 millimeter, flash_frozen_liquid_nitrogen, 0 Sections",
+            "link": "https://portal.hubmapconsortium.org/browse/sample/c8a7cb9e644eb7bf0a5015eeee0f24c5",
+            "section_count": 0,
+            "section_size": 10,
+            "section_size_unit": "millimeter",
+            "registration_location": {
+              "id": "http://purl.org/ccf/1.5/b6d2c18b-2e33-4156-b652-b4d5f9c2a9e1",
+              "collides_with": [
+                "http://purl.obolibrary.org/obo/UBERON_0001150"
+              ],
+              "creation_date": "2022-02-16",
+              "creator_full_name": "Yiing Lin",
+              "creator_first_name": "Yiing",
+              "creator_last_name": "Lin",
+              "placement": {
+                "id": "http://purl.org/ccf/1.5/026751c5-ef86-4f35-a810-5f8adc2887a5_placement",
+                "placement_date": "2022-02-16",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_unit": "ratio",
+                "placement_for": "http://purl.org/ccf/latest/ccf.owl#VHMSpleen"
+              }
+            }
+        }
+    ]
+}
