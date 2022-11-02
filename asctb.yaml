@@ -1,0 +1,107 @@
+d: http://purl.org/ccf/schema/asctb
+name: asctb
+prefixes:
+  ccf: http://purl.org/ccf/
+  pav: http://purl.org/pav/
+  rdfs: http://www.w3.org/2000/01/rdf-schema#
+  linkml: https://w3id.org/linkml/
+imports:
+  - linkml:types
+default_prefix: ccf
+default_range: string
+  
+classes:
+  AsctbRecord
+    class_uri: ccf:AsctbRecord
+    slots:
+      - anatomical_structures
+      - cell_types
+      - biomarkers
+      - biomarkers_protein
+      - biomarkers_gene
+      - biomarkers_lipids
+      - biomarkers_meta
+      - biomarkers_prot
+      - references
+  AsctbProvenanceInfo
+    class_uri: ccf:AsctbProvenanceInfo
+    slots:
+      - title
+      - author_names
+      - author_orcids
+      - reviewer_names
+      - reviewer_orcids
+      - general_publications
+      - data_doi
+      - date
+      - version
+  Container:
+    attributes:
+      data:
+        multivalued: true
+        inlined_as_list: true
+        range: AsctbRecord
+      metadata:
+        range: AsctbProvenanceInfo
+slots:
+  anatomical_structures:
+    required: true
+    slot_uri: ccf:contains_anatomical_structure_list
+    inlined_as_list: true
+  cell_types:
+    required: true
+    slot_uri: ccf:contains_cell_type_list
+    inlined_as_list: true
+  biomarkers:
+    required: true
+    slot_uri: ccf:contains_biomarker_list
+    inlined_as_list: true
+  biomarkers_protein:
+    slot_uri: ccf:contains_protein_biomarker_list
+    inlined_as_list: true
+  biomarkers_gene:
+    slot_uri: ccf:contains_gene_biomarker_list
+    inlined_as_list: true
+  biomarkers_lipids:
+    slot_uri: ccf:contains_lipid_biomarker_list
+    inlined_as_list: true
+  biomarkers_meta:
+    slot_uri: ccf:contains_meta_biomarker_list
+    inlined_as_list: true  
+  biomarkers_prot:
+    slot_uri: ccf:contains_prot_biomarker_list
+    inlined_as_list: true
+  references:
+    slot_uri: ccf:contains_reference_list
+    inlined_as_list: true    
+  title:
+    required: true
+    slot_uri: rdfs:label
+  author_names:
+    required: true
+    slot_uri: ccf:contains_author_full_name_list
+    inlined_as_list: true 
+  author_orcids:
+    required: true
+    slot_uri: ccf:contains_author_orcid_list
+    inlined_as_list: true 
+  reviewer_names:
+    slot_uri: ccf:contains_reviewer_full_name_list
+    inlined_as_list: true 
+  reviewer_orcids:
+    slot_uri: ccf:contains_reviewer_orcid_list
+    inlined_as_list: true 
+  general_publications:
+    slot_uri: ccf:contains_publication_list
+    inlined_as_list: true 
+  data_doi:
+    required: true
+    slot_uri: ccf:contains_doi
+  date:
+    required: true
+    slot_uri: pav:authoredOn
+  version:
+    required: true
+    slot_uri: pav:version
+
+
