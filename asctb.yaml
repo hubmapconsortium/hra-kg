@@ -46,57 +46,57 @@ classes:
 slots:
   anatomical_structures:
     required: true
-    slot_uri: ccf:contains_anatomical_structure_list
+    slot_uri: ccf:contains_anatomical_structures
     inlined_as_list: true
   cell_types:
     required: true
-    slot_uri: ccf:contains_cell_type_list
+    slot_uri: ccf:contains_cell_types
     inlined_as_list: true
   biomarkers:
     required: true
-    slot_uri: ccf:contains_biomarker_list
+    slot_uri: ccf:contains_biomarkers
     inlined_as_list: true
   biomarkers_protein:
-    slot_uri: ccf:contains_protein_biomarker_list
+    slot_uri: ccf:contains_protein_biomarkers
     inlined_as_list: true
   biomarkers_gene:
-    slot_uri: ccf:contains_gene_biomarker_list
+    slot_uri: ccf:contains_gene_biomarkers
     inlined_as_list: true
   biomarkers_lipids:
-    slot_uri: ccf:contains_lipid_biomarker_list
+    slot_uri: ccf:contains_lipid_biomarkers
     inlined_as_list: true
   biomarkers_meta:
-    slot_uri: ccf:contains_meta_biomarker_list
+    slot_uri: ccf:contains_meta_biomarkers
     inlined_as_list: true  
   biomarkers_prot:
-    slot_uri: ccf:contains_prot_biomarker_list
+    slot_uri: ccf:contains_prot_biomarkers
     inlined_as_list: true
   references:
-    slot_uri: ccf:contains_reference_list
+    slot_uri: ccf:contains_references
     inlined_as_list: true    
   title:
     required: true
     slot_uri: rdfs:label
   author_names:
     required: true
-    slot_uri: ccf:contains_author_full_name_list
+    slot_uri: ccf:author_full_names
     inlined_as_list: true 
   author_orcids:
     required: true
-    slot_uri: ccf:contains_author_orcid_list
+    slot_uri: ccf:author_orcids
     inlined_as_list: true 
   reviewer_names:
-    slot_uri: ccf:contains_reviewer_full_name_list
+    slot_uri: ccf:reviewer_full_names
     inlined_as_list: true 
   reviewer_orcids:
-    slot_uri: ccf:contains_reviewer_orcid_list
+    slot_uri: ccf:reviewer_orcids
     inlined_as_list: true 
   general_publications:
-    slot_uri: ccf:contains_publication_list
+    slot_uri: ccf:publications
     inlined_as_list: true 
   data_doi:
     required: true
-    slot_uri: ccf:contains_doi
+    slot_uri: ccf:data_doi
   date:
     required: true
     slot_uri: pav:authoredOn
