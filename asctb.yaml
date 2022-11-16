@@ -11,6 +11,10 @@ default_prefix: ccf
 default_range: string
   
 classes:
+  AsctbTable
+    class_uri: ccf:AsctbTable
+    slots:
+      - data
   AsctbRecord
     class_uri: ccf:AsctbRecord
     slots:
@@ -44,6 +48,10 @@ classes:
       metadata:
         range: AsctbProvenanceInfo
 slots:
+  data:
+    required: true
+    slot_uri: ccf:contains_records
+    inlined_as_list: true
   anatomical_structures:
     required: true
     slot_uri: ccf:contains_anatomical_structures
