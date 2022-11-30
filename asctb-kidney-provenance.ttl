@@ -16,7 +16,7 @@ hra_agent:A0000200C
 	schema:givenName "Ellen" ;
 	schema:familyName "Quardokus" ;
 	schema:email "ellenmq@iu.edu" ;
-	schema:sameAs <https://orcid.org/0000-0001-7655-4833>
+	schema:sameAs <https://orcid.org/0000-0001-7655-4833> ;
 	prov:actedOnBehalfOf wikidata:Q6608367 .
 
 hra_agent:A0000300D
@@ -24,7 +24,7 @@ hra_agent:A0000300D
 	schema:givenName "Bruce" ;
 	schema:familyName "Herr" ;
 	schema:email "bherr@iu.edu" ;
-	schema:sameAs <https://orcid.org/0000-0002-6703-7647>
+	schema:sameAs <https://orcid.org/0000-0002-6703-7647> ;
 	prov:actedOnBehalfOf wikidata:Q6608367 .
 
 wikidata:Q6608367
@@ -35,7 +35,7 @@ hra_agent:A0004500J
 	schema:givenName "Yongqun" ;
 	schema:familyName "He" ;
 	schema:email "yongqunh@umich.edu" ;
-	schema:sameAs <https://orcid.org/0000-0001-9189-9661>
+	schema:sameAs <https://orcid.org/0000-0001-9189-9661> ;
 	prov:actedOnBehalfOf wikidata:Q230492 .
 
 wikidata:Q230492
@@ -46,16 +46,16 @@ hra_agent:A0002200E
 	schema:givenName "Josef" ;
 	schema:familyName "Hardi" ;
 	schema:email "johardi@stanford.edu" ;
-	schema:sameAs <https://orcid.org/0000-0002-2533-6681>
+	schema:sameAs <https://orcid.org/0000-0002-2533-6681> ;
 	prov:actedOnBehalfOf wikidata:Q41506 .
 
 wikidata:Q41506
-	a prov:Organization, prov:Agent.
+	a prov:Organization, prov:Agent .
 
 hra_agent:A1002200F
-	a prov:SoftwareAgent, prov:Agent
+	a prov:SoftwareAgent, prov:Agent ;
 	schema:name "ASCT+B Normalization Python Script" ;
-	pav:hasCurrentVersion hra_agent:A0002201F
+	pav:hasCurrentVersion hra_agent:A0002201F .
 
 hra_agent:A0002201F
 	a schema:SoftwareApplication, prov:SoftwareAgent, prov:Agent ;
