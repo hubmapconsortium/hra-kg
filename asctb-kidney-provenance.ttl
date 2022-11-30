@@ -68,7 +68,7 @@ hra_activity:B0000201E
 	schema:description "Normalizing ASCT+B kidney table v1.3 data to RDF triples" ;
 	prov:wasAssociatedWith hra_agent:A0002201F ;
 	prov:used hra_asctb:D0010503P ;
-	prov:wasStaredBy hra_agent:A0000300D ;
+	prov:wasStartedBy hra_agent:A0000300D ;
 	prov:startedAtTime "2022-11-23T11:05:04Z"^^xsd:dateTime ;
 	prov:endedAtTime "2022-11-23T11:06:55Z"^^xsd:dateTime ;
 	prov:generated hra_asctb:D1010503Q .
