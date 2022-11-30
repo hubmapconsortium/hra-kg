@@ -5,51 +5,54 @@
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix wikidata: <https://www.wikidata.org/wiki/> .
-@prefix orcid: <https://orcid.org/> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix hra:  <http://purl.humanatlas.io/> .
 @prefix hra_asctb:  <http://purl.humanatlas.io/asctb/> .
 @prefix hra_agent:  <http://purl.humanatlas.io/agent/> .
 @prefix hra_activity:  <http://purl.humanatlas.io/activity/> .
 
-orcid:0000-0001-7655-4833
+hra_agent:A0000200C
 	a schema:Person, prov:Person, prov:Agent ;
 	schema:givenName "Ellen" ;
 	schema:familyName "Quardokus" ;
 	schema:email "ellenmq@iu.edu" ;
+	schema:sameAs <https://orcid.org/0000-0001-7655-4833>
 	prov:actedOnBehalfOf wikidata:Q6608367 .
 
-orcid:0000-0002-6703-7647
+hra_agent:A0000300D
 	a schema:Person, prov:Person, prov:Agent ;
 	schema:givenName "Bruce" ;
 	schema:familyName "Herr" ;
 	schema:email "bherr@iu.edu" ;
+	schema:sameAs <https://orcid.org/0000-0002-6703-7647>
 	prov:actedOnBehalfOf wikidata:Q6608367 .
 
 wikidata:Q6608367
 	a prov:Organization, prov:Agent .
 
-orcid:0000-0001-9189-9661
+hra_agent:A0004500J
 	a schema:Person, prov:Person, prov:Agent ;
 	schema:givenName "Yongqun" ;
 	schema:familyName "He" ;
 	schema:email "yongqunh@umich.edu" ;
+	schema:sameAs <https://orcid.org/0000-0001-9189-9661>
 	prov:actedOnBehalfOf wikidata:Q230492 .
 
 wikidata:Q230492
 	a prov:Organization, prov:Agent .
 
-orcid:0000-0002-2533-6681
+hra_agent:A0002200E
 	a schema:Person, prov:Person, prov:Agent ;
 	schema:givenName "Josef" ;
 	schema:familyName "Hardi" ;
 	schema:email "johardi@stanford.edu" ;
+	schema:sameAs <https://orcid.org/0000-0002-2533-6681>
 	prov:actedOnBehalfOf wikidata:Q41506 .
 
 wikidata:Q41506
 	a prov:Organization, prov:Agent.
 
-hra_agent:A0002200E
+hra_agent:A1002200F
 	a prov:SoftwareAgent, prov:Agent
 	schema:name "ASCT+B Normalization Python Script" ;
 	pav:hasCurrentVersion hra_agent:A0002201F
@@ -57,7 +60,7 @@ hra_agent:A0002200E
 hra_agent:A0002201F
 	a schema:SoftwareApplication, prov:SoftwareAgent, prov:Agent ;
 	schema:name "ASCT+B Normalization Python Script v1.0" ;
-	schema:creator orcid:0000-0002-2533-6681 ;
+	schema:creator hra_agent:A0002200E ;
 	schema:softwareVersion "1.0" .
 
 hra_activity:B0000201E
@@ -65,7 +68,7 @@ hra_activity:B0000201E
 	schema:description "Normalizing ASCT+B kidney table v1.3 data to RDF triples" ;
 	prov:wasAssociatedWith hra_agent:A0002201F ;
 	prov:used hra_asctb:D0010503P ;
-	prov:wasStaredBy orcid:0000-0002-6703-7647 ;
+	prov:wasStaredBy hra_agent:A0000300D ;
 	prov:startedAtTime "2022-11-23T11:05:04Z"^^xsd:dateTime ;
 	prov:endedAtTime "2022-11-23T11:06:55Z"^^xsd:dateTime ;
 	prov:generated hra_asctb:D1010503Q .
@@ -84,11 +87,11 @@ obo:UBERON_0002113
 hra_asctb:D0010503P
 	a dcat:Dataset, prov:Entity ;
 	dct:title "Anatomical Structures, Cell Types and Biomarkers Table for Kidney v1.3" ;
-	prov:wasAttributedTo orcid:0000-0001-7655-4833,
-					     orcid:0000-0001-9189-9661 ;
-	dcat:creator orcid:0000-0001-9189-9661 ;
-	schema:creator orcid:0000-0001-9189-9661 ;
-	schema:editor orcid:0000-0001-7655-4833 ;
+	prov:wasAttributedTo hra_agent:A0000200C,
+					     hra_agent:A0004500J ;
+	dcat:creator hra_agent:A0004500J ;
+	schema:creator hra_agent:A0004500J ;
+	schema:editor hra_agent:A0000200C ;
 	schema:license wikidata:Q6905323 ;
 	dct:issued "2022-11-15"^^xsd:date ;
 	dct:modified "2022-11-18"^^xsd:date ;
@@ -104,11 +107,11 @@ hra_asctb:E0010503Q
 hra_asctb:D0010502L
 	a dcat:Dataset, prov:Entity ;
 	dct:title "Anatomical Structures, Cell Types and Biomarkers Table for Kidney v1.2" ;
-	prov:wasAttributedTo orcid:0000-0001-7655-4833,
-					     orcid:0000-0001-9189-9661 ;
-	dcat:creator orcid:0000-0001-9189-9661 ;
-	schema:creator orcid:0000-0001-9189-9661 ;
-	schema:editor orcid:0000-0001-7655-4833 ;
+	prov:wasAttributedTo hra_agent:A0000200C,
+					     hra_agent:A0004500J ;
+	dcat:creator hra_agent:A0004500J ;
+	schema:creator hra_agent:A0004500J ;
+	schema:editor hra_agent:A0000200C ;
 	schema:license wikidata:Q6905323 ;
 	dct:issued "2021-05-15"^^xsd:date ;
 	dct:modified "2021-05-15"^^xsd:date ;
