@@ -105,6 +105,13 @@ hra_asctb:E0010503M
 	a dcat:Distribution, prov:Entity ;
 	dcat:accessURL <https://docs.google.com/spreadsheets/d/1NMfu1bEGNFcTYTFT-jCao_lSbFD8n0ti630iIpRj-hw/edit#gid=949267305> .
 
+hra_asctb:D1010500N
+	a prov:Entity ;
+	dct:title "Normalized ASCT+B table for kidney" ;
+	prov:wasDerivedFrom hra_asctb:D0010500M ;
+	schema:about obo:UBERON_0002113 ;
+	pav:hasCurrentVersion hra_asctb:D1010503Q .
+
 hra_asctb:D1010503Q
 	a dcat:Dataset, schema:Dataset, prov:Entity ;
 	dct:title "Normalized ASCT+B table for kidney v1.3" ;
