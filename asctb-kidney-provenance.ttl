@@ -6,6 +6,7 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix wikidata: <https://www.wikidata.org/wiki/> .
 @prefix orcid: <https://orcid.org/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix hra:  <http://purl.humanatlas.io/> .
 @prefix hra_asctb:  <http://purl.humanatlas.io/asctb/> .
 @prefix hra_agent:  <http://purl.humanatlas.io/agent/> .
@@ -56,7 +57,12 @@ hra_activity:B0000201E
 hra_asctb:D0010500M
 	a prov:Entity ;
 	dct:title "Anatomical Structures, Cell Types and Biomarkers Table for Kidney" ;
+	schema:about obo:UBERON_0002113 ;
 	pav:hasCurrentVersion hra_asctb:D0010503P .
+
+obo:UBERON_0002113
+	a schema:Thing ;
+	schema:name "Kidney" .
 
 # D = dataset, 0 = raw, 01 = asctb, 05 = kidney, 03 = 3rd release, P = checksum
 hra_asctb:D0010503P
@@ -112,6 +118,3 @@ hra_asctb:E0010503N
 	dcat:downloadURL <https://lod.humanatlas.io/asctb/E0010503M.rdf> ;
 	dcat:mediaType <https://www.iana.org/assignments/media-types/application/x-turtle> ;
 	dcat:byteSize "10231"^^xsd:decimal .
-
-
-
