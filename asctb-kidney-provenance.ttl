@@ -1,0 +1,117 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix wikidata: <https://www.wikidata.org/wiki/> .
+@prefix orcid: <https://orcid.org/> .
+@prefix hra:  <http://purl.humanatlas.io/> .
+@prefix hra_asctb:  <http://purl.humanatlas.io/asctb/> .
+@prefix hra_agent:  <http://purl.humanatlas.io/agent/> .
+@prefix hra_activity:  <http://purl.humanatlas.io/activity/> .
+
+orcid:0000-0001-7655-4833
+	a schema:Person, prov:Person, prov:Agent ;
+	schema:givenName "Ellen" ;
+	schema:familyName "Quardokus" ;
+	schema:email "ellenmq@iu.edu" ;
+	prov:actedOnBehalfOf wikidata:Q6608367 .
+
+wikidata:Q6608367
+	a prov:Organization, prov:Agent .
+
+orcid:0000-0001-9189-9661
+	a schema:Person, prov:Person, prov:Agent ;
+	schema:givenName "Yongqun" ;
+	schema:familyName "He" ;
+	schema:email "yongqunh@umich.edu" ;
+	prov:actedOnBehalfOf wikidata:Q230492 .
+
+wikidata:Q230492
+	a prov:Organization, prov:Agent .
+
+orcid:0000-0002-2533-6681
+	a schema:Person, prov:Person, prov:Agent ;
+	schema:givenName "Josef" ;
+	schema:familyName "Hardi" ;
+	schema:email "johardi@stanford.edu" ;
+	prov:actedOnBehalfOf wikidata:Q41506 .
+
+wikidata:Q41506
+	a prov:Organization, prov:Agent.
+
+hra_agent:A0000023F
+	a schema:SoftwareApplication, prov:SoftwareAgent, prov:Agent ;
+	schema:name "ASCT+B Normalization Python Script" ;
+	schema:creator orcid:0000-0002-2533-6681 ;
+	schema:softwareVersion "1.0" .
+
+hra_activity:B0000201E
+	a prov:Activity ;
+	schema:description "Normalizing ASCT+B kidney table data to RDF triples" ;
+	prov:wasAssociatedWith hra_agent:A0000023F ;
+	prov:used hra_asctb:D0010503P .
+
+hra_asctb:D0010500M
+	a prov:Entity ;
+	dct:title "Anatomical Structures, Cell Types and Biomarkers Table for Kidney" ;
+	pav:hasCurrentVersion hra_asctb:D0010503P .
+
+# D = dataset, 0 = raw, 01 = asctb, 05 = kidney, 03 = 3rd release, P = checksum
+hra_asctb:D0010503P
+	a dcat:Dataset, prov:Entity ;
+	dct:title "Anatomical Structures, Cell Types and Biomarkers Table for Kidney v1.3" ;
+	prov:wasAttributedTo orcid:0000-0001-7655-4833,
+					     orcid:0000-0001-9189-9661 ;
+	dcat:creator orcid:0000-0001-9189-9661 ;
+	schema:creator orcid:0000-0001-9189-9661 ;
+	schema:editor orcid:0000-0001-7655-4833 ;
+	schema:license wikidata:Q6905323 ;
+	dct:issued "2022-11-15"^^xsd:date ;
+	dct:modified "2022-11-18"^^xsd:date ;
+	dct:license wikidata:Q6905323 ;
+	dcat:distribution hra_asctb:E0010503Q ;
+	prov:specializtionOf hra_asctb:D0010500M ;
+	pav:previousVersion hra_asctb:D0010502L .
+
+hra_asctb:E0010503Q
+	a dcat:Distribution, prov:Entity ;
+	dcat:accessURL <https://docs.google.com/spreadsheets/d/1aXnWkwArSRmDnhyq0n_ptISWnmRwXvD4X0BPa9WQfmg/edit#gid=949267305> .
+
+hra_asctb:D0010502L
+	a dcat:Dataset, prov:Entity ;
+	dct:title "Anatomical Structures, Cell Types and Biomarkers Table for Kidney v1.2" ;
+	prov:wasAttributedTo orcid:0000-0001-7655-4833,
+					     orcid:0000-0001-9189-9661 ;
+	dcat:creator orcid:0000-0001-9189-9661 ;
+	schema:creator orcid:0000-0001-9189-9661 ;
+	schema:editor orcid:0000-0001-7655-4833 ;
+	schema:license wikidata:Q6905323 ;
+	dct:issued "2021-05-15"^^xsd:date ;
+	dct:modified "2021-05-15"^^xsd:date ;
+	dct:license wikidata:Q6905323 ;
+	dcat:distribution hra_asctb:E0010502M ;
+	prov:specializtionOf hra_asctb:D0010500M ;
+	pav:previousVersion hra_asctb:D0010501K .
+
+hra_asctb:E0010503M
+	a dcat:Distribution, prov:Entity ;
+	dcat:accessURL <https://docs.google.com/spreadsheets/d/1NMfu1bEGNFcTYTFT-jCao_lSbFD8n0ti630iIpRj-hw/edit#gid=949267305> .
+
+hra_asctb:D1010503Q
+	a dcat:Dataset, schema:Dataset, prov:Entity ;
+	dct:title "Normalized ASCT+B table for kidney v1.3" ;
+	prov:wasGeneratedBy hra_activity:B0000201E ;
+	prov:wasDerivedFrom hra_asctb:D0010503P ;
+	dcat:distribution hra_asctb:E0010503N .
+
+hra_asctb:E0010503N
+	a dcat:Distribution, prov:Entity ;
+	dct:title "RDF distribution of normalized ASCT+B table for kidney v1.3" ;
+	dcat:downloadURL <https://lod.humanatlas.io/asctb/E0010503M.rdf> ;
+	dcat:mediaType <https://www.iana.org/assignments/media-types/application/x-turtle> ;
+	dcat:byteSize "10231"^^xsd:decimal .
+
+
+
