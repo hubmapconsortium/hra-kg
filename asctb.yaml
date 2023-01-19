@@ -1,4 +1,4 @@
-d: http://purl.org/ccf/schema/asctb
+id: http://purl.org/ccf/schema/asctb
 name: asctb
 prefixes:
   ccf: http://purl.org/ccf/
@@ -111,5 +111,3 @@ slots:
   version:
     required: true
     slot_uri: pav:version
-
-
