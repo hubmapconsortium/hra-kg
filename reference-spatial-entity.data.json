@@ -1,0 +1,1325 @@
+[
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHBothSexes",
+        "@type": "SpatialEntity",
+        "label": "Visual Human (Both Sexes)",
+        "creator": "Bruce Herr - https://orcid.org/0000-0002-6703-7647",
+        "creator_first_name": "Bruce",
+        "creator_last_name": "Herr",
+        "creator_orcid": "https://orcid.org/0000-0002-6703-7647",
+        "creation_date": "2020-01-01",
+        "representation_of": "obo:UBERON_0005172",
+        "x_dimension": 1000,
+        "y_dimension": 1000,
+        "z_dimension": 200,
+        "dimension_units": "millimeter"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMale",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Male",
+        "creator": "Bruce Herr - https://orcid.org/0000-0002-6703-7647",
+        "creator_first_name": "Bruce",
+        "creator_last_name": "Herr",
+        "creator_orcid": "https://orcid.org/0000-0002-6703-7647",
+        "creation_date": "2020-01-01",
+        "representation_of": "obo:UBERON_0005172",
+        "x_dimension": 1000,
+        "y_dimension": 1000,
+        "z_dimension": 200,
+        "dimension_units": "millimeter",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHMaleGlobalPlacement2",
+                "@type": "SpatialPlacement",
+                "target": "#VHBothSexes",
+                "placement_date": "2020-01-01",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": -400,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFemale",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female",
+        "creator": "Bruce Herr - https://orcid.org/0000-0002-6703-7647",
+        "creator_first_name": "Bruce",
+        "creator_last_name": "Herr",
+        "creator_orcid": "https://orcid.org/0000-0002-6703-7647",
+        "creation_date": "2020-01-01",
+        "representation_of": "obo:UBERON_0005172",
+        "x_dimension": 1000,
+        "y_dimension": 1000,
+        "z_dimension": 200,
+        "dimension_units": "millimeter",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFemaleGlobalPlacement2",
+                "@type": "SpatialPlacement",
+                "target": "#VHBothSexes",
+                "placement_date": "2020-01-01",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 400,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFemaleOrgans",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Organs",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 1000,
+        "y_dimension": 1000,
+        "z_dimension": 200,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHFemaleOrgansObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/VH_F_United.glb",
+            "file_format": "model/gltf-binary",
+            "placement":
+            {
+                "@id": "#VHFemaleOrgansObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFemaleOrgans",
+                "placement_date": "2020-01-01",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFemaleOrgansGlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFemale",
+                "placement_date": "2020-01-01",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMaleOrgans",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Male Organs",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 1000,
+        "y_dimension": 1000,
+        "z_dimension": 200,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHMaleOrgansObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/VH_M_United.glb",
+            "file_format": "model/gltf-binary",
+            "placement":
+            {
+                "@id": "#VHMaleOrgansObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHMaleOrgans",
+                "placement_date": "2020-01-01",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHMaleOrgansGlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHMale",
+                "placement_date": "2020-01-01",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFRightKidney_Patch",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Right Kidney (RUI 0.5)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 60,
+        "y_dimension": 100,
+        "z_dimension": 60,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004539",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFRightKidney_PatchGlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFRightKidney",
+                "placement_date": "2021-05-20",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -19,
+                "y_rotation": -13,
+                "z_rotation": -21,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 38.191,
+                "y_translation": 48.288,
+                "z_translation": 36.989,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFLeftKidney_Patch",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Left Kidney (RUI 0.5)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 60,
+        "y_dimension": 100,
+        "z_dimension": 60,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004538",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFLeftKidney_PatchGlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFLeftKidney",
+                "placement_date": "2021-05-20",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -19,
+                "y_rotation": -13,
+                "z_rotation": 22,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 41.487,
+                "y_translation": 54.422,
+                "z_translation": 42.942,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFSpleenCC1",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Spleen (CC1)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 59.9,
+        "y_dimension": 40.7,
+        "z_dimension": 9.04,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002106",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFSpleenCC1GlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFSpleen",
+                "placement_date": "2021-05-20",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": 95,
+                "y_rotation": 52,
+                "z_rotation": 17,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 70.632,
+                "y_translation": 27.839,
+                "z_translation": 39.67,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFSpleenCC2",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Spleen (CC2)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 63,
+        "y_dimension": 40.1,
+        "z_dimension": 8.89,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002106",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFSpleenCC2GlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFSpleen",
+                "placement_date": "2021-05-20",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": 82,
+                "y_rotation": 52,
+                "z_rotation": 0,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 51.588,
+                "y_translation": 45.941,
+                "z_translation": 24.708,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFSpleenCC3",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Spleen (CC3)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 58.7,
+        "y_dimension": 43.4,
+        "z_dimension": 9.54,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002106",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFSpleenCC3GlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFSpleen",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": 82,
+                "y_rotation": 52,
+                "z_rotation": 0,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 18.965,
+                "y_translation": 53.593,
+                "z_translation": 23.302,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMRightKidney_Patch",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Male Right Kidney (RUI 0.5)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 60,
+        "y_dimension": 100,
+        "z_dimension": 60,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004539",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHMRightKidney_PatchGlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHMRightKidney",
+                "placement_date": "2021-05-20",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -19,
+                "y_rotation": -13,
+                "z_rotation": -3,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 34.043,
+                "y_translation": 55.763,
+                "z_translation": 38.177,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMLeftKidney_Patch",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Male Left Kidney (RUI 0.5)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 60,
+        "y_dimension": 100,
+        "z_dimension": 60,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004538",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHMLeftKidney_PatchGlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHMLeftKidney",
+                "placement_date": "2021-05-20",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -19,
+                "y_rotation": -13,
+                "z_rotation": 25,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 39.312,
+                "y_translation": 57.719,
+                "z_translation": 39.893,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMSpleenCC1",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Male Spleen (CC1)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 59.9,
+        "y_dimension": 40.7,
+        "z_dimension": 9.04,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002106",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHMSpleenCC1GlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHMSpleen",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": 80,
+                "y_rotation": 44,
+                "z_rotation": 52,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 82.817,
+                "y_translation": 46.604,
+                "z_translation": 50.735,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMSpleenCC2",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Male Spleen (CC2)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 63,
+        "y_dimension": 40.1,
+        "z_dimension": 8.89,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002106",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHMSpleenCC2GlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHMSpleen",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": 92,
+                "y_rotation": 50,
+                "z_rotation": 25,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 56.195,
+                "y_translation": 53.744,
+                "z_translation": 29.145,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMSpleenCC3",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Male Spleen (CC3)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 58.7,
+        "y_dimension": 43.4,
+        "z_dimension": 9.54,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002106",
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHMSpleenCC3GlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHMSpleen",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": 77,
+                "y_rotation": 48,
+                "z_rotation": 18,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 32.901,
+                "y_translation": 70.721,
+                "z_translation": 26.551,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFColon",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Colon",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2021-05-21",
+        "x_dimension": 258.804,
+        "y_dimension": 265.788741,
+        "z_dimension": 205.763701,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHFColonObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/SBU_F_Intestine_Large.glb",
+            "file_format": "model/gltf-binary",
+            "file_subpath": "VHF_colon",
+            "placement":
+            {
+                "@id": "#VHFColonObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFColon",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 128.4465,
+                "y_translation": 9.303741,
+                "z_translation": 106.358871,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFColonToVHFLargeIntestinePlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFLargeIntestine",
+                "placement_date": "2022-01-21",
+                "x_scaling": 0.94,
+                "y_scaling": 1.11,
+                "z_scaling": 0.94,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ],
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0000059",
+        "sex": "Female"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFLeftKidney",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Left Kidney v1.0",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2021-05-21",
+        "x_dimension": 77.80807099999998,
+        "y_dimension": 113.767684,
+        "z_dimension": 82.56403309999999,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHFLeftKidneyObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/VH_F_Kidney_Left.glb",
+            "file_format": "model/gltf-binary",
+            "file_subpath": "VHF_left_kidney",
+            "placement":
+            {
+                "@id": "#VHFLeftKidneyObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFLeftKidney",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": -50.004270000000005,
+                "y_translation": -161.083072,
+                "z_translation": 98.10036,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFLeftKidneyV1.0ToV1.1Placement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFLeftKidneyV1.1",
+                "placement_date": "2022-01-21",
+                "x_scaling": 0.94,
+                "y_scaling": 1.097,
+                "z_scaling": 0.94,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ],
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004538",
+        "sex": "Female",
+        "side": "Left"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFRightKidney",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Right Kidney v1.0",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2021-05-21",
+        "x_dimension": 78.07521999999999,
+        "y_dimension": 90.21970599999997,
+        "z_dimension": 73.978892,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHFRightKidneyObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/VH_F_Kidney_Right.glb",
+            "file_format": "model/gltf-binary",
+            "file_subpath": "VHF_right_kidney",
+            "placement":
+            {
+                "@id": "#VHFRightKidneyObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFRightKidney",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 110.29311999999999,
+                "y_translation": -181.13952899999998,
+                "z_translation": 93.10112,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFRightKidneyV1.0ToV1.1Placement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFRightKidneyV1.1",
+                "placement_date": "2022-01-21",
+                "x_scaling": 0.94,
+                "y_scaling": 1.097,
+                "z_scaling": 0.94,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ],
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004539",
+        "sex": "Female",
+        "side": "Right"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFHeart",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Heart v1.0",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2021-05-21",
+        "x_dimension": 159.4432075,
+        "y_dimension": 104.94750699999997,
+        "z_dimension": 113.5317981,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHFHeartObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/VH_F_Heart.glb",
+            "file_format": "model/gltf-binary",
+            "file_subpath": "VHF_heart",
+            "placement":
+            {
+                "@id": "#VHFHeartObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFHeart",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 32.2587565,
+                "y_translation": -362.738043,
+                "z_translation": 58.1609346,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFHeartV1.0ToV1.1Placement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFHeartV1.1",
+                "placement_date": "2022-01-21",
+                "x_scaling": 0.894,
+                "y_scaling": 1.048,
+                "z_scaling": 0.894,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ],
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0000948",
+        "sex": "Female"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFSpleen",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Spleen v1.0",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2021-05-21",
+        "x_dimension": 95.27728320000003,
+        "y_dimension": 93.26813600000003,
+        "z_dimension": 75.4693561,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHFSpleenObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/VH_F_Spleen.glb",
+            "file_format": "model/gltf-binary",
+            "file_subpath": "VHF_spleen",
+            "placement":
+            {
+                "@id": "#VHFSpleenObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFSpleen",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": -46.2159328,
+                "y_translation": -260.7147,
+                "z_translation": 112.87268999999999,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFSpleenV1.0ToV1.1Placement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFSpleenV1.1",
+                "placement_date": "2022-01-21",
+                "x_scaling": 0.94,
+                "y_scaling": 1.097,
+                "z_scaling": 0.94,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ],
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002106",
+        "sex": "Female"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMLeftLymphNodeToV1.1Placement",
+        "@type": "SpatialPlacement",
+        "source": "#VHMLeftLymphNode",
+        "target": "#VHMLymphNode",
+        "placement_date": "2022-01-21",
+        "x_scaling": 1,
+        "y_scaling": 1,
+        "z_scaling": 1,
+        "scaling_units": "ratio",
+        "x_rotation": 0,
+        "y_rotation": 0,
+        "z_rotation": 0,
+        "rotation_units": "degree",
+        "x_translation": 0,
+        "y_translation": 0,
+        "z_translation": 0,
+        "translation_units": "millimeter"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMRightLymphNode",
+        "@type": "RetiredSpatialEntity",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002509"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFRightLymphNode",
+        "@type": "RetiredSpatialEntity",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002509"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMLeftLymphNode",
+        "@type": "RetiredSpatialEntity",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002509"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFLeftLymphNode",
+        "@type": "RetiredSpatialEntity",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002509"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHRightKidney",
+        "@type": "RetiredSpatialEntity",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004539"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHLeftKidney",
+        "@type": "RetiredSpatialEntity",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004538"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMRightLymphNodeToV1.1Placement",
+        "@type": "SpatialPlacement",
+        "source": "#VHMRightLymphNode",
+        "target": "#VHMLymphNode",
+        "placement_date": "2022-01-21",
+        "x_scaling": 1,
+        "y_scaling": 1,
+        "z_scaling": 1,
+        "scaling_units": "ratio",
+        "x_rotation": 0,
+        "y_rotation": 0,
+        "z_rotation": 0,
+        "rotation_units": "degree",
+        "x_translation": 0,
+        "y_translation": 0,
+        "z_translation": 0,
+        "translation_units": "millimeter"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFLeftLymphNodeToV1.1Placement",
+        "@type": "SpatialPlacement",
+        "source": "#VHFLeftLymphNode",
+        "target": "#VHFLymphNode",
+        "placement_date": "2022-01-21",
+        "x_scaling": 1,
+        "y_scaling": 1,
+        "z_scaling": 1,
+        "scaling_units": "ratio",
+        "x_rotation": 0,
+        "y_rotation": 0,
+        "z_rotation": 0,
+        "rotation_units": "degree",
+        "x_translation": 0,
+        "y_translation": 0,
+        "z_translation": 0,
+        "translation_units": "millimeter"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFRightLymphNodeToV1.1Placement",
+        "@type": "SpatialPlacement",
+        "source": "#VHFRightLymphNode",
+        "target": "#VHFLymphNode",
+        "placement_date": "2022-01-21",
+        "x_scaling": 1,
+        "y_scaling": 1,
+        "z_scaling": 1,
+        "scaling_units": "ratio",
+        "x_rotation": 0,
+        "y_rotation": 0,
+        "z_rotation": 0,
+        "rotation_units": "degree",
+        "x_translation": 0,
+        "y_translation": 0,
+        "z_translation": 0,
+        "translation_units": "millimeter"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFThymus",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Thymus v1.0",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2021-05-21",
+        "x_dimension": 92.2596518,
+        "y_dimension": 110.93869800000004,
+        "z_dimension": 57.62370858,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHFThymusObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/VH_F_Thymus.glb",
+            "file_format": "model/gltf-binary",
+            "file_subpath": "VHF_thymus",
+            "placement":
+            {
+                "@id": "#VHFThymusObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFThymus",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 19.7924618,
+                "y_translation": -418.427736,
+                "z_translation": -3.1155776200000003,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFThymusV1.0ToV1.1Placement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFThymusV1.1",
+                "placement_date": "2022-01-21",
+                "x_scaling": 0.933,
+                "y_scaling": 1.114,
+                "z_scaling": 0.933,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ],
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002370",
+        "sex": "Female"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFSkin",
+        "@type": "SpatialEntity",
+        "label": "Skin",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2021-05-21",
+        "x_dimension": 1042.391896,
+        "y_dimension": 1723.483092,
+        "z_dimension": 331.7520168,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHFSkinObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/VH_F_Skin.glb",
+            "file_format": "model/gltf-binary",
+            "file_subpath": "VHF_skin",
+            "placement":
+            {
+                "@id": "#VHFSkinObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFSkin",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 521.195948,
+                "y_translation": 861.5408,
+                "z_translation": 165.8621876,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFSkinV1.0ToV1.1Placement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFSkinV1.1",
+                "placement_date": "2022-01-21",
+                "x_scaling": 0.9277,
+                "y_scaling": 0.9670,
+                "z_scaling": 0.9920,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ],
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002097",
+        "sex": "Female"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHMSkin",
+        "@type": "SpatialEntity",
+        "label": "Skin",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2021-05-21",
+        "x_dimension": 1048.4487,
+        "y_dimension": 1807.2938,
+        "z_dimension": 345.317066,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHMSkinObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/VH_M_Skin.glb",
+            "file_format": "model/gltf-binary",
+            "file_subpath": "VHM_skin",
+            "placement":
+            {
+                "@id": "#VHMSkinObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHMSkin",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 524.2243,
+                "y_translation": 898.1607,
+                "z_translation": 172.658533,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHMSkinV1.0ToV1.1Placement",
+                "@type": "SpatialPlacement",
+                "target": "#VHMSkinV1.1",
+                "placement_date": "2022-01-21",
+                "x_scaling": 0.9981,
+                "y_scaling": 1.0125,
+                "z_scaling": 0.9020,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ],
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002097",
+        "sex": "Male"
+    },
+    {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "#VHFLung",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Lung",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2021-05-21",
+        "x_dimension": 280.9113349481441,
+        "y_dimension": 299.75201360194984,
+        "z_dimension": 180.3005439485608,
+        "dimension_units": "millimeter",
+        "object":
+        {
+            "@id": "#VHFLungObj",
+            "@type": "SpatialObjectReference",
+            "file": "https://ccf-ontology.hubmapconsortium.org/objects/v1.0/VH_F_Lung.glb",
+            "file_format": "model/gltf-binary",
+            "file_subpath": "VHF_respiratory_system",
+            "placement":
+            {
+                "@id": "#VHFLungObjPlacement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFLung",
+                "placement_date": "2021-05-21",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -90,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 139.35168303452733,
+                "y_translation": -341.66131132658,
+                "z_translation": 113.28999709117299,
+                "translation_units": "millimeter"
+            }
+        },
+        "placement":
+        [
+            {
+                "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+                "@id": "#VHFLungV1.0ToV1.1Placement",
+                "@type": "SpatialPlacement",
+                "target": "#VHFLungV1.1",
+                "placement_date": "2022-01-21",
+                "x_scaling": 0.8940,
+                "y_scaling": 0.9902,
+                "z_scaling": 0.8494,
+                "scaling_units": "ratio",
+                "x_rotation": 0,
+                "y_rotation": 0,
+                "z_rotation": 0,
+                "rotation_units": "degree",
+                "x_translation": 0,
+                "y_translation": 0,
+                "z_translation": 0,
+                "translation_units": "millimeter"
+            }
+        ],
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001004",
+        "sex": "Female"
+    }
+]
