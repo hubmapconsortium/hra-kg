@@ -9,7 +9,7 @@
             "creator_last_name": "Herr",
             "creator_orcid": "https://orcid.org/0000-0002-6703-7647",
             "creation_date": "2020-01-01",
-            "representation_of": "http://purl.obolibrary.org/obo/UBERON_0005172",
+            "representation_of": "obo:UBERON_0005172",
             "x_dimension": 1000,
             "y_dimension": 1000,
             "z_dimension": 200,
@@ -23,7 +23,7 @@
             "creator_last_name": "Herr",
             "creator_orcid": "https://orcid.org/0000-0002-6703-7647",
             "creation_date": "2020-01-01",
-            "representation_of": "http://purl.obolibrary.org/obo/UBERON_0005172",
+            "representation_of": "obo:UBERON_0005172",
             "x_dimension": 1000,
             "y_dimension": 1000,
             "z_dimension": 200,
@@ -57,7 +57,7 @@
             "creator_last_name": "Herr",
             "creator_orcid": "https://orcid.org/0000-0002-6703-7647",
             "creation_date": "2020-01-01",
-            "representation_of": "http://purl.obolibrary.org/obo/UBERON_0005172",
+            "representation_of": "obo:UBERON_0005172",
             "x_dimension": 1000,
             "y_dimension": 1000,
             "z_dimension": 200,
@@ -98,7 +98,6 @@
             {
                 "id": "http://purl.org/ccf/#VHFemaleOrgansObj",
                 "file": "https://ccf-ontology.hubmapconsortium.org/object_references/v1.0/VH_F_United.glb",
-                "file_subpath": "VHF_United",
                 "file_format": "model/gltf-binary",
                 "placement":
                 {
@@ -155,7 +154,6 @@
             {
                 "id": "http://purl.org/ccf/#VHMaleOrgansObj",
                 "file": "https://ccf-ontology.hubmapconsortium.org/object_references/v1.0/VH_M_United.glb",
-                "file_subpath": "VHM_United",
                 "file_format": "model/gltf-binary",
                 "placement":
                 {
@@ -833,6 +831,102 @@
             ],
             "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002106",
             "organ_owner_sex": "Female"
+        },
+        {
+            "id": "http://purl.org/ccf/#VHMLeftLymphNodeToV1.1Placement",
+            "source": "http://purl.org/ccf/#VHMLeftLymphNode",
+            "target": "http://purl.org/ccf/#VHMLymphNode",
+            "placement_date": "2022-01-21",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_unit": "ratio",
+            "x_rotation": 0,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_unit": "degree",
+            "x_translation": 0,
+            "y_translation": 0,
+            "z_translation": 0,
+            "translation_unit": "millimeter"
+        },
+        {
+            "id": "http://purl.org/ccf/#VHMRightLymphNode",
+            "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002509"
+        },
+        {
+            "id": "http://purl.org/ccf/#VHFRightLymphNode",
+            "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002509"
+        },
+        {
+            "id": "http://purl.org/ccf/#VHMLeftLymphNode",
+            "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002509"
+        },
+        {
+            "id": "http://purl.org/ccf/#VHFLeftLymphNode",
+            "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002509"
+        },
+        {
+            "id": "http://purl.org/ccf/#VHRightKidney",
+            "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004539"
+        },
+        {
+            "id": "http://purl.org/ccf/#VHLeftKidney",
+            "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004538"
+        },
+        {
+            "id": "http://purl.org/ccf/#VHMRightLymphNodeToV1.1Placement",
+            "source": "http://purl.org/ccf/#VHMRightLymphNode",
+            "target": "http://purl.org/ccf/#VHMLymphNode",
+            "placement_date": "2022-01-21",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_unit": "ratio",
+            "x_rotation": 0,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_unit": "degree",
+            "x_translation": 0,
+            "y_translation": 0,
+            "z_translation": 0,
+            "translation_unit": "millimeter"
+        },
+        {
+            "id": "http://purl.org/ccf/#VHFLeftLymphNodeToV1.1Placement",
+            "source": "http://purl.org/ccf/#VHFLeftLymphNode",
+            "target": "http://purl.org/ccf/#VHFLymphNode",
+            "placement_date": "2022-01-21",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_unit": "ratio",
+            "x_rotation": 0,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_unit": "degree",
+            "x_translation": 0,
+            "y_translation": 0,
+            "z_translation": 0,
+            "translation_unit": "millimeter"
+        },
+        {
+            "id": "http://purl.org/ccf/#VHFRightLymphNodeToV1.1Placement",
+            "source": "http://purl.org/ccf/#VHFRightLymphNode",
+            "target": "http://purl.org/ccf/#VHFLymphNode",
+            "placement_date": "2022-01-21",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_unit": "ratio",
+            "x_rotation": 0,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_unit": "degree",
+            "x_translation": 0,
+            "y_translation": 0,
+            "z_translation": 0,
+            "translation_unit": "millimeter"
         },
         {
             "id": "http://purl.org/ccf/#VHFThymus",
