@@ -2,6 +2,7 @@ id: http://purl.org/ccf/schema/spatial-reference-organ
 name: spatial-reference-organ
 prefixes:
   ccf: http://purl.org/ccf/
+  dcterms: http://purl.org/dc/terms/
   pav: http://purl.org/pav/
   rdfs: http://www.w3.org/2000/01/rdf-schema#
   xsd: http://www.w3.org/2001/XMLSchema#
@@ -135,7 +136,7 @@ slots:
     range: decimal
   z_rotation:
     required: true
-    slot_uri: ccf:x_rotation
+    slot_uri: ccf:z_rotation
     range: decimal
   rotation_unit:
     required: true
