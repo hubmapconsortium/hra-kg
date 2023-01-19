@@ -1,0 +1,216 @@
+{
+    "$defs": {
+        "Container": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "data": {
+                    "items": {
+                        "$ref": "#/$defs/SpatialEntity"
+                    },
+                    "type": "array"
+                }
+            },
+            "title": "Container",
+            "type": "object"
+        },
+        "SpatialEntity": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "creation_date": {
+                    "type": "string"
+                },
+                "creator": {
+                    "type": "string"
+                },
+                "creator_first_name": {
+                    "type": "string"
+                },
+                "creator_last_name": {
+                    "type": "string"
+                },
+                "creator_orcid": {
+                    "type": "string"
+                },
+                "dimension_unit": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "object_reference": {
+                    "$ref": "#/$defs/SpatialObjectReference"
+                },
+                "organ_owner_sex": {
+                    "type": "string"
+                },
+                "organ_side": {
+                    "type": "string"
+                },
+                "placements": {
+                    "items": {
+                        "$ref": "#/$defs/SpatialPlacement"
+                    },
+                    "type": "array"
+                },
+                "representation_of": {
+                    "type": "string"
+                },
+                "x_dimension": {
+                    "minimum": 0,
+                    "type": "number"
+                },
+                "y_dimension": {
+                    "minimum": 0,
+                    "type": "number"
+                },
+                "z_dimension": {
+                    "minimum": 0,
+                    "type": "number"
+                }
+            },
+            "required": [
+                "id",
+                "label",
+                "creator",
+                "creator_first_name",
+                "creator_last_name",
+                "creation_date",
+                "x_dimension",
+                "y_dimension",
+                "z_dimension",
+                "dimension_unit"
+            ],
+            "title": "SpatialEntity",
+            "type": "object"
+        },
+        "SpatialObjectReference": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "file": {
+                    "type": "string"
+                },
+                "file_format": {
+                    "type": "string"
+                },
+                "file_subpath": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "placement": {
+                    "$ref": "#/$defs/SpatialPlacement"
+                }
+            },
+            "required": [
+                "id",
+                "file",
+                "file_subpath",
+                "file_format",
+                "placement"
+            ],
+            "title": "SpatialObjectReference",
+            "type": "object"
+        },
+        "SpatialPlacement": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "placement_date": {
+                    "type": "string"
+                },
+                "rotation_order": {
+                    "type": "string"
+                },
+                "rotation_unit": {
+                    "type": "string"
+                },
+                "scaling_unit": {
+                    "type": "string"
+                },
+                "source": {
+                    "type": "string"
+                },
+                "target": {
+                    "type": "string"
+                },
+                "translation_unit": {
+                    "type": "string"
+                },
+                "x_rotation": {
+                    "type": "number"
+                },
+                "x_scaling": {
+                    "minimum": 0,
+                    "type": "number"
+                },
+                "x_translation": {
+                    "type": "number"
+                },
+                "y_rotation": {
+                    "type": "number"
+                },
+                "y_scaling": {
+                    "minimum": 0,
+                    "type": "number"
+                },
+                "y_translation": {
+                    "type": "number"
+                },
+                "z_rotation": {
+                    "type": "number"
+                },
+                "z_scaling": {
+                    "minimum": 0,
+                    "type": "number"
+                },
+                "z_translation": {
+                    "type": "number"
+                }
+            },
+            "required": [
+                "id",
+                "target",
+                "placement_date",
+                "x_scaling",
+                "y_scaling",
+                "z_scaling",
+                "scaling_unit",
+                "x_rotation",
+                "y_rotation",
+                "z_rotation",
+                "rotation_unit",
+                "x_translation",
+                "y_translation",
+                "z_translation",
+                "translation_unit"
+            ],
+            "title": "SpatialPlacement",
+            "type": "object"
+        }
+    },
+    "$id": "http://purl.org/ccf/schema/spatial-reference-organ",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "additionalProperties": true,
+    "metamodel_version": "1.7.0",
+    "properties": {
+        "data": {
+            "items": {
+                "$ref": "#/$defs/SpatialEntity"
+            },
+            "type": "array"
+        }
+    },
+    "title": "spatial-reference-organ",
+    "type": "object",
+    "version": null
+}
