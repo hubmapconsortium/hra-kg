@@ -17,10 +17,6 @@
                     "type": "string"
                 }
             },
-            "required": [
-                "id",
-                "label"
-            ],
             "title": "AnatomicalStructure",
             "type": "object"
         },
@@ -120,10 +116,6 @@
                     "type": "string"
                 }
             },
-            "required": [
-                "id",
-                "label"
-            ],
             "title": "Biomarker",
             "type": "object"
         },
@@ -144,10 +136,6 @@
                     "type": "string"
                 }
             },
-            "required": [
-                "id",
-                "label"
-            ],
             "title": "CellType",
             "type": "object"
         },
@@ -179,10 +167,6 @@
                     "type": "string"
                 }
             },
-            "required": [
-                "id",
-                "label"
-            ],
             "title": "FtuType",
             "type": "object"
         },
@@ -206,10 +190,6 @@
                     "type": "string"
                 }
             },
-            "required": [
-                "id",
-                "label"
-            ],
             "title": "GeneBiomarker",
             "type": "object"
         },
@@ -233,10 +213,6 @@
                     "type": "string"
                 }
             },
-            "required": [
-                "id",
-                "label"
-            ],
             "title": "LipidBiomarker",
             "type": "object"
         },
@@ -260,10 +236,6 @@
                     "type": "string"
                 }
             },
-            "required": [
-                "id",
-                "label"
-            ],
             "title": "MetaBiomarker",
             "type": "object"
         },
@@ -287,10 +259,6 @@
                     "type": "string"
                 }
             },
-            "required": [
-                "id",
-                "label"
-            ],
             "title": "ProtBiomarker",
             "type": "object"
         },
@@ -314,10 +282,6 @@
                     "type": "string"
                 }
             },
-            "required": [
-                "id",
-                "label"
-            ],
             "title": "ProteinBiomarker",
             "type": "object"
         },
@@ -336,7 +300,6 @@
                 }
             },
             "required": [
-                "id",
                 "doi"
             ],
             "title": "StudyReference",

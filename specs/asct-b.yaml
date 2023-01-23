@@ -175,10 +175,10 @@ slots:
     multivalued: true
     inlined_as_list: true
   id:
-    required: true
-    identifier: true
+    required: false
+    slot_uri: ccf:id
   label:
-    required: true
+    required: false
     slot_uri: rdfs:label
   preferred_name:
     required: false
@@ -192,5 +192,3 @@ slots:
   notes:
     required: false
     slot_uri: ccf:notes
-
-
