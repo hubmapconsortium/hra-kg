@@ -7,7 +7,7 @@
 URI: [ccf:AnatomicalStructure](http://purl.org/ccf/AnatomicalStructure)
 
 
-[![img](https://yuml.me/diagram/nofunky;dir:TB/class/[AsctbRecord]++-%20anatomical_structures%201..*>[AnatomicalStructure&#124;id:string;label:string;preferred_name:string%20%3F;notes:string%20%3F],[AsctbRecord])](https://yuml.me/diagram/nofunky;dir:TB/class/[AsctbRecord]++-%20anatomical_structures%201..*>[AnatomicalStructure&#124;id:string;label:string;preferred_name:string%20%3F;notes:string%20%3F],[AsctbRecord])
+[![img](https://yuml.me/diagram/nofunky;dir:TB/class/[AsctbRecord]++-%20anatomical_structures%201..*>[AnatomicalStructure&#124;id:string%20%3F;label:string%20%3F;preferred_name:string%20%3F;notes:string%20%3F],[AsctbRecord])](https://yuml.me/diagram/nofunky;dir:TB/class/[AsctbRecord]++-%20anatomical_structures%201..*>[AnatomicalStructure&#124;id:string%20%3F;label:string%20%3F;preferred_name:string%20%3F;notes:string%20%3F],[AsctbRecord])
 
 ## Referenced by Class
 
@@ -18,9 +18,9 @@ URI: [ccf:AnatomicalStructure](http://purl.org/ccf/AnatomicalStructure)
 
 ### Own
 
- * [id](id.md)  <sub>1..1</sub>
+ * [id](id.md)  <sub>0..1</sub>
      * Range: [String](types/String.md)
- * [label](label.md)  <sub>1..1</sub>
+ * [label](label.md)  <sub>0..1</sub>
      * Range: [String](types/String.md)
  * [preferred_name](preferred_name.md)  <sub>0..1</sub>
      * Range: [String](types/String.md)

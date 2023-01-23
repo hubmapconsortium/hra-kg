@@ -7,7 +7,7 @@
 URI: [ccf:StudyReference](http://purl.org/ccf/StudyReference)
 
 
-[![img](https://yuml.me/diagram/nofunky;dir:TB/class/[AsctbRecord]++-%20references%200..*>[StudyReference&#124;id:string;doi:string;notes:string%20%3F],[AsctbRecord])](https://yuml.me/diagram/nofunky;dir:TB/class/[AsctbRecord]++-%20references%200..*>[StudyReference&#124;id:string;doi:string;notes:string%20%3F],[AsctbRecord])
+[![img](https://yuml.me/diagram/nofunky;dir:TB/class/[AsctbRecord]++-%20references%200..*>[StudyReference&#124;id:string%20%3F;doi:string;notes:string%20%3F],[AsctbRecord])](https://yuml.me/diagram/nofunky;dir:TB/class/[AsctbRecord]++-%20references%200..*>[StudyReference&#124;id:string%20%3F;doi:string;notes:string%20%3F],[AsctbRecord])
 
 ## Referenced by Class
 
@@ -18,7 +18,7 @@ URI: [ccf:StudyReference](http://purl.org/ccf/StudyReference)
 
 ### Own
 
- * [id](id.md)  <sub>1..1</sub>
+ * [id](id.md)  <sub>0..1</sub>
      * Range: [String](types/String.md)
  * [doi](doi.md)  <sub>1..1</sub>
      * Range: [String](types/String.md)

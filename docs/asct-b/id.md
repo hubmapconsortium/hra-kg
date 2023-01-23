@@ -9,7 +9,7 @@ URI: [ccf:id](http://purl.org/ccf/id)
 
 ## Domain and Range
 
-None &#8594;  <sub>1..1</sub> [String](types/String.md)
+None &#8594;  <sub>0..1</sub> [String](types/String.md)
 
 ## Parents
 
@@ -29,3 +29,10 @@ None &#8594;  <sub>1..1</sub> [String](types/String.md)
  * [ProtBiomarker](ProtBiomarker.md)
  * [ProteinBiomarker](ProteinBiomarker.md)
  * [StudyReference](StudyReference.md)
+
+## Other properties
+
+|  |  |  |
+| --- | --- | --- |
+| **Mappings:** | | ccf:id |
+
