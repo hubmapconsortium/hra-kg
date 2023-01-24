@@ -61,6 +61,10 @@ classes:
       - y_translation
       - z_translation
       - translation_unit
+  AnatomicalStructure:
+    class_uri: ccf:AnatomicalStructure
+    slots:
+      - id
   Container:
     tree_root: true
     attributes:
@@ -160,7 +164,10 @@ slots:
     required: true
     slot_uri: ccf:translation_unit
   representation_of:
+    required: false
     slot_uri: ccf:representation_of
+    range: AnatomicalStructure
+    inlined: false
   organ_owner_sex:
     required: false
     slot_uri: ccf:organ_owner_sex
@@ -206,3 +213,4 @@ slots:
     inlined: true
     multivalued: true
     inlined_as_list: true
+

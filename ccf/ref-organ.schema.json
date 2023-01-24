@@ -1,5 +1,19 @@
 {
     "$defs": {
+        "AnatomicalStructure": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "id": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "AnatomicalStructure",
+            "type": "object"
+        },
         "Container": {
             "additionalProperties": false,
             "description": "",

@@ -1,5 +1,6 @@
 @prefix ccf: <http://purl.org/ccf/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -123,7 +124,7 @@
     ccf:creator_last_name "Browne" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFLeftKidney_PatchGlobalPlacement> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0004538" ;
+    ccf:representation_of obo:UBERON_0004538 ;
     ccf:x_dimension 60.0 ;
     ccf:y_dimension 100.0 ;
     ccf:z_dimension 60.0 ;
@@ -229,7 +230,7 @@
     ccf:creator_last_name "Browne" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFRightKidney_PatchGlobalPlacement> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0004539" ;
+    ccf:representation_of obo:UBERON_0004539 ;
     ccf:x_dimension 60.0 ;
     ccf:y_dimension 100.0 ;
     ccf:z_dimension 60.0 ;
@@ -297,7 +298,7 @@
     ccf:creator_last_name "Browne" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFSpleenCC1GlobalPlacement> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0002106" ;
+    ccf:representation_of obo:UBERON_0002106 ;
     ccf:x_dimension 59.89999999999999857891452847979962825775146484375 ;
     ccf:y_dimension 40.7000000000000028421709430404007434844970703125 ;
     ccf:z_dimension 9.03999999999999914734871708787977695465087890625 ;
@@ -327,7 +328,7 @@
     ccf:creator_last_name "Browne" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFSpleenCC2GlobalPlacement> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0002106" ;
+    ccf:representation_of obo:UBERON_0002106 ;
     ccf:x_dimension 63.0 ;
     ccf:y_dimension 40.10000000000000142108547152020037174224853515625 ;
     ccf:z_dimension 8.8900000000000005684341886080801486968994140625 ;
@@ -357,7 +358,7 @@
     ccf:creator_last_name "Browne" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFSpleenCC3GlobalPlacement> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0002106" ;
+    ccf:representation_of obo:UBERON_0002106 ;
     ccf:x_dimension 58.7000000000000028421709430404007434844970703125 ;
     ccf:y_dimension 43.39999999999999857891452847979962825775146484375 ;
     ccf:z_dimension 9.53999999999999914734871708787977695465087890625 ;
@@ -517,7 +518,7 @@
     ccf:creator_last_name "Browne" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHMLeftKidney_PatchGlobalPlacement> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0004538" ;
+    ccf:representation_of obo:UBERON_0004538 ;
     ccf:x_dimension 60.0 ;
     ccf:y_dimension 100.0 ;
     ccf:z_dimension 60.0 ;
@@ -547,7 +548,7 @@
     ccf:creator_last_name "Browne" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHMRightKidney_PatchGlobalPlacement> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0004539" ;
+    ccf:representation_of obo:UBERON_0004539 ;
     ccf:x_dimension 60.0 ;
     ccf:y_dimension 100.0 ;
     ccf:z_dimension 60.0 ;
@@ -615,7 +616,7 @@
     ccf:creator_last_name "Browne" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHMSpleenCC1GlobalPlacement> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0002106" ;
+    ccf:representation_of obo:UBERON_0002106 ;
     ccf:x_dimension 59.89999999999999857891452847979962825775146484375 ;
     ccf:y_dimension 40.7000000000000028421709430404007434844970703125 ;
     ccf:z_dimension 9.03999999999999914734871708787977695465087890625 ;
@@ -645,7 +646,7 @@
     ccf:creator_last_name "Browne" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHMSpleenCC2GlobalPlacement> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0002106" ;
+    ccf:representation_of obo:UBERON_0002106 ;
     ccf:x_dimension 63.0 ;
     ccf:y_dimension 40.10000000000000142108547152020037174224853515625 ;
     ccf:z_dimension 8.8900000000000005684341886080801486968994140625 ;
@@ -675,7 +676,7 @@
     ccf:creator_last_name "Browne" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHMSpleenCC3GlobalPlacement> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0002106" ;
+    ccf:representation_of obo:UBERON_0002106 ;
     ccf:x_dimension 58.7000000000000028421709430404007434844970703125 ;
     ccf:y_dimension 43.39999999999999857891452847979962825775146484375 ;
     ccf:z_dimension 9.53999999999999914734871708787977695465087890625 ;
@@ -761,7 +762,7 @@
     ccf:has_object_reference <http://lod.humanatlas.io/ref-organ/VHFColonObj> ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFColonToVHFLargeIntestinePlacement> ;
     ccf:organ_owner_sex "Female" ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0000059" ;
+    ccf:representation_of obo:UBERON_0000059 ;
     ccf:x_dimension 258.8039999999999736246536485850811004638671875 ;
     ccf:y_dimension 265.78874100000001590160536579787731170654296875 ;
     ccf:z_dimension 205.763700999999997520717442966997623443603515625 ;
@@ -776,7 +777,7 @@
     ccf:has_object_reference <http://lod.humanatlas.io/ref-organ/VHFHeartObj> ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFHeartV1.0ToV1.1Placement> ;
     ccf:organ_owner_sex "Female" ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0000948" ;
+    ccf:representation_of obo:UBERON_0000948 ;
     ccf:x_dimension 159.443207499999999754436430521309375762939453125 ;
     ccf:y_dimension 104.9475069999999732317519374191761016845703125 ;
     ccf:z_dimension 113.53179810000000315994839183986186981201171875 ;
@@ -791,7 +792,7 @@
     ccf:has_object_reference <http://lod.humanatlas.io/ref-organ/VHFLungObj> ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFLungV1.0ToV1.1Placement> ;
     ccf:organ_owner_sex "Female" ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0001004" ;
+    ccf:representation_of obo:UBERON_0001004 ;
     ccf:x_dimension 280.91133494814408777529024519026279449462890625 ;
     ccf:y_dimension 299.75201360194984090412617661058902740478515625 ;
     ccf:z_dimension 180.30054394856080079989624209702014923095703125 ;
@@ -806,7 +807,7 @@
     ccf:has_object_reference <http://lod.humanatlas.io/ref-organ/VHFSkinObj> ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFSkinV1.0ToV1.1Placement> ;
     ccf:organ_owner_sex "Female" ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0002097" ;
+    ccf:representation_of obo:UBERON_0002097 ;
     ccf:x_dimension 1042.3918960000000879517756402492523193359375 ;
     ccf:y_dimension 1723.48309199999994234531186521053314208984375 ;
     ccf:z_dimension 331.7520167999999785024556331336498260498046875 ;
@@ -821,7 +822,7 @@
     ccf:has_object_reference <http://lod.humanatlas.io/ref-organ/VHFThymusObj> ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFThymusV1.0ToV1.1Placement> ;
     ccf:organ_owner_sex "Female" ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0002370" ;
+    ccf:representation_of obo:UBERON_0002370 ;
     ccf:x_dimension 92.259651800000000321233528666198253631591796875 ;
     ccf:y_dimension 110.9386980000000448853825218975543975830078125 ;
     ccf:z_dimension 57.623708579999998846687958575785160064697265625 ;
@@ -835,7 +836,7 @@
     ccf:creator_orcid "https://orcid.org/0000-0002-6703-7647" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFemaleGlobalPlacement2> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0005172" ;
+    ccf:representation_of obo:UBERON_0005172 ;
     ccf:x_dimension 1000.0 ;
     ccf:y_dimension 1000.0 ;
     ccf:z_dimension 200.0 ;
@@ -863,7 +864,7 @@
     ccf:has_object_reference <http://lod.humanatlas.io/ref-organ/VHMSkinObj> ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHMSkinV1.0ToV1.1Placement> ;
     ccf:organ_owner_sex "Male" ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0002097" ;
+    ccf:representation_of obo:UBERON_0002097 ;
     ccf:x_dimension 1048.4486999999999170540831983089447021484375 ;
     ccf:y_dimension 1807.29379999999991923687048256397247314453125 ;
     ccf:z_dimension 345.31706600000001117223291657865047454833984375 ;
@@ -877,7 +878,7 @@
     ccf:creator_orcid "https://orcid.org/0000-0002-6703-7647" ;
     ccf:dimension_unit "millimeter" ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHMaleGlobalPlacement2> ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0005172" ;
+    ccf:representation_of obo:UBERON_0005172 ;
     ccf:x_dimension 1000.0 ;
     ccf:y_dimension 1000.0 ;
     ccf:z_dimension 200.0 ;
@@ -903,7 +904,7 @@
     ccf:creator_last_name "Herr" ;
     ccf:creator_orcid "https://orcid.org/0000-0002-6703-7647" ;
     ccf:dimension_unit "millimeter" ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0005172" ;
+    ccf:representation_of obo:UBERON_0005172 ;
     ccf:x_dimension 1000.0 ;
     ccf:y_dimension 1000.0 ;
     ccf:z_dimension 200.0 ;
@@ -919,7 +920,7 @@
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFLeftKidneyV1.0ToV1.1Placement> ;
     ccf:organ_owner_sex "Female" ;
     ccf:organ_side "Left" ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0004538" ;
+    ccf:representation_of obo:UBERON_0004538 ;
     ccf:x_dimension 77.80807099999998399653122760355472564697265625 ;
     ccf:y_dimension 113.767684000000002697561285458505153656005859375 ;
     ccf:z_dimension 82.564033099999988962736097164452075958251953125 ;
@@ -935,7 +936,7 @@
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFRightKidneyV1.0ToV1.1Placement> ;
     ccf:organ_owner_sex "Female" ;
     ccf:organ_side "Right" ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0004539" ;
+    ccf:representation_of obo:UBERON_0004539 ;
     ccf:x_dimension 78.0752199999999874080458539538085460662841796875 ;
     ccf:y_dimension 90.2197059999999737556208856403827667236328125 ;
     ccf:z_dimension 73.978892000000001871740096248686313629150390625 ;
@@ -950,7 +951,7 @@
     ccf:has_object_reference <http://lod.humanatlas.io/ref-organ/VHFSpleenObj> ;
     ccf:has_placement <http://lod.humanatlas.io/ref-organ/VHFSpleenV1.0ToV1.1Placement> ;
     ccf:organ_owner_sex "Female" ;
-    ccf:representation_of "http://purl.obolibrary.org/obo/UBERON_0002106" ;
+    ccf:representation_of obo:UBERON_0002106 ;
     ccf:x_dimension 95.277283200000027818532544188201427459716796875 ;
     ccf:y_dimension 93.2681360000000267973518930375576019287109375 ;
     ccf:z_dimension 75.469356099999998832572600804269313812255859375 ;
