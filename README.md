@@ -12,34 +12,29 @@ pip install linkml
 ### Generate JSON Schema
 
 ```
-cd specs
-gen-json-schema --not-closed [FILE_NAME].yaml > ../ccf/[FILE_NAME].schema.json
+gen-json-schema specs/[FILE_NAME].yaml > ccf/[FILE_NAME].schema.json
 ```
 
 ### Validate JSON File
 
 ```
-cd ccf
-check-jsonschema --schemafile [FILE_NAME].schema.json ../hra/normalized/[FILE_NAME].json
+check-jsonschema --schemafile ccf/[FILE_NAME].schema.json hra/normalized/[FILE_NAME].json
 ```
 
 ### Convert JSON to RDF
 
 ```
-cd specs
-linkml-convert -s [FILE_NAME].yaml -f json -t rdf -o ../hra/enriched/[FILE_NAME].rdf ../hra/normalized/[FILE_NAME].json
+linkml-convert -s specs/[FILE_NAME].yaml -f json -t rdf -o hra/enriched/[FILE_NAME].rdf hra/normalized/[FILE_NAME].json
 ```
 
 ### Generate JSON-LD Context
 
 ```
-cd specs
-gen-jsonld-context [FILE_NAME].yaml > ../ccf/[FILE_NAME].context.jsonld
+gen-jsonld-context specs/[FILE_NAME].yaml > ccf/[FILE_NAME].context.jsonld
 ```
 
 ### Generate Markdown Documentation
 
 ```
-cd specs
-gen-markdown -d ../docs/[ROOT_FOLDER] [FILE_NAME].yaml
+gen-markdown -d docs/[ROOT_FOLDER] specs/[FILE_NAME].yaml
 ```
