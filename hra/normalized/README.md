@@ -40,5 +40,5 @@ The data post-procesing steps:
 7. Replace `CL:` with the prefix `http://purl.obolibrary.org/obo/CL`
 8. Replace `HGNC:` with the prefix `http://identifiers.org/hgnc/`
 9. In the `references` object: 
-  * Copy the `id` value and paste it in the new `pubmed_id` field.
-  * Replace the `id` value with the `doi` value. This is because the DOI is more reliable as the reference identifier.
+   * Copy the `id` value and paste it in the new `pubmed_id` field.
+   * Replace the `id` value with the `doi` value. This is because the DOI is more reliable as the reference identifier.
