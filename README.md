@@ -50,5 +50,5 @@ gen-markdown -d docs/[ROOT_FOLDER] specs/[FILE_NAME].yaml
 ### Merge RDF/Turtle files
 
 ```
-ttl-merge -i hra/enriched/[FILE1].rdf hra/enriched/[FILE2].rdf ... > hra/integrated/hra-kg.rdf
+ttl-merge -i hra/enriched/[FILE_NAME_1].rdf hra/enriched/[FILE_NAME_2].rdf ... > hra/integrated/hra-kg.rdf
 ```
