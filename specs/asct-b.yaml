@@ -17,7 +17,6 @@ classes:
   AsctbRecord:
     class_uri: ccf:AsctbRecord
     slots:
-      - rowNumber
       - anatomical_structures
       - cell_types
       - biomarkers
@@ -34,14 +33,12 @@ classes:
       - id
       - label
       - preferred_name
-      - notes
   CellType:
     class_uri: ccf:CellType
     slots:
       - id
       - label
       - preferred_name
-      - notes
   Biomarker:
     class_uri: ccf:Biomarker
     slots:
@@ -49,7 +46,6 @@ classes:
       - label
       - preferred_name
       - biomarker_type
-      - notes
   ProteinBiomarker:
     class_uri: ccf:ProteinBiomarker
     slots:
@@ -57,7 +53,6 @@ classes:
       - label
       - preferred_name
       - biomarker_type
-      - notes
   GeneBiomarker:
     class_uri: ccf:GeneBiomarker
     slots:
@@ -65,7 +60,6 @@ classes:
       - label
       - preferred_name
       - biomarker_type
-      - notes
   LipidBiomarker:
     class_uri: ccf:LipidBiomarker
     slots:
@@ -73,7 +67,6 @@ classes:
       - label
       - preferred_name
       - biomarker_type
-      - notes
   MetaBiomarker:
     class_uri: ccf:MetaBiomarker
     slots:
@@ -81,7 +74,6 @@ classes:
       - label
       - preferred_name
       - biomarker_type
-      - notes
   ProtBiomarker:
     class_uri: ccf:ProtBiomarker
     slots:
@@ -89,7 +81,6 @@ classes:
       - label
       - preferred_name
       - biomarker_type
-      - notes
   FtuType:
     class_uri: ccf:FtuType
     slots:
@@ -101,7 +92,7 @@ classes:
     slots:
       - id
       - doi
-      - notes
+      - pubmed_id
   Container:
     tree_root: true
     attributes:
@@ -111,9 +102,9 @@ classes:
         range: AsctbRecord
 
 slots:
-  rowNumber:
-    required: false
-    range: integer
+  id:
+    required: true
+    identifier: true
   anatomical_structures:
     required: true
     slot_uri: ccf:contains_anatomical_structures
@@ -121,13 +112,13 @@ slots:
     multivalued: true
     inlined_as_list: true
   cell_types:
-    required: true
+    required: false
     slot_uri: ccf:contains_cell_types
     range: CellType
     multivalued: true
     inlined_as_list: true
   biomarkers:
-    required: true
+    required: false
     slot_uri: ccf:contains_biomarkers
     range: Biomarker
     multivalued: true
@@ -174,11 +165,8 @@ slots:
     range: StudyReference
     multivalued: true
     inlined_as_list: true
-  id:
-    required: false
-    slot_uri: ccf:id
   label:
-    required: false
+    required: true
     slot_uri: rdfs:label
   preferred_name:
     required: false
@@ -187,8 +175,8 @@ slots:
     required: false
     slot_uri: ccf:biomarker_type
   doi:
-    required: true
-    slot_uri: dcterms:references
-  notes:
     required: false
-    slot_uri: ccf:notes
+    slot_uri: dcterms:references
+  pubmed_id:
+    required: false
+    slot_uri: ccf:pubmed_id
