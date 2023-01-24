@@ -2,10 +2,16 @@
 
 ## Pre-requisite
 
-Install LinkML toolkit
+1. Install LinkML toolkit
 ```
 pip install linkml
 ```
+
+2. Install Turtle Merge tool
+```
+npm install -g ttl-merge
+```
+
 
 ## Using LinkML commands
 
@@ -37,4 +43,12 @@ gen-jsonld-context specs/[FILE_NAME].yaml > ccf/[FILE_NAME].context.jsonld
 
 ```
 gen-markdown -d docs/[ROOT_FOLDER] specs/[FILE_NAME].yaml
+```
+
+## Using Turtle Merge commands
+
+### Merge RDF/Turtle files
+
+```
+ttl-merge -i hra/enriched/[FILE1].rdf hra/enriched/[FILE2].rdf ... > hra/integrated/hra-kg.rdf
 ```
