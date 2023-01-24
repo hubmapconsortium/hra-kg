@@ -40,6 +40,24 @@
             "title": "Container",
             "type": "object"
         },
+        "DimensionUnitEnum": {
+            "description": "",
+            "enum": [
+                "centimeter",
+                "millimeter"
+            ],
+            "title": "DimensionUnitEnum",
+            "type": "string"
+        },
+        "DonorSexEnum": {
+            "description": "",
+            "enum": [
+                "Female",
+                "Male"
+            ],
+            "title": "DonorSexEnum",
+            "type": "string"
+        },
         "ExtractionSet": {
             "additionalProperties": false,
             "description": "",
@@ -65,6 +83,31 @@
             "title": "ExtractionSet",
             "type": "object"
         },
+        "OrganSideEnum": {
+            "description": "",
+            "enum": [
+                "Left",
+                "Right"
+            ],
+            "title": "OrganSideEnum",
+            "type": "string"
+        },
+        "RotationUnitEnum": {
+            "description": "",
+            "enum": [
+                "degree"
+            ],
+            "title": "RotationUnitEnum",
+            "type": "string"
+        },
+        "ScalingUnitEnum": {
+            "description": "",
+            "enum": [
+                "ratio"
+            ],
+            "title": "ScalingUnitEnum",
+            "type": "string"
+        },
         "SpatialEntity": {
             "additionalProperties": false,
             "description": "",
@@ -85,7 +128,7 @@
                     "type": "string"
                 },
                 "dimension_unit": {
-                    "type": "string"
+                    "$ref": "#/$defs/DimensionUnitEnum"
                 },
                 "extraction_set": {
                     "type": "string"
@@ -100,10 +143,10 @@
                     "$ref": "#/$defs/SpatialObjectReference"
                 },
                 "organ_donor_sex": {
-                    "type": "string"
+                    "$ref": "#/$defs/DonorSexEnum"
                 },
                 "organ_side": {
-                    "type": "string"
+                    "$ref": "#/$defs/OrganSideEnum"
                 },
                 "placements": {
                     "items": {
@@ -191,10 +234,10 @@
                     "type": "string"
                 },
                 "rotation_unit": {
-                    "type": "string"
+                    "$ref": "#/$defs/RotationUnitEnum"
                 },
                 "scaling_unit": {
-                    "type": "string"
+                    "$ref": "#/$defs/ScalingUnitEnum"
                 },
                 "source": {
                     "type": "string"
@@ -203,7 +246,7 @@
                     "type": "string"
                 },
                 "translation_unit": {
-                    "type": "string"
+                    "$ref": "#/$defs/TranslationUnitEnum"
                 },
                 "x_rotation": {
                     "type": "number"
@@ -255,6 +298,15 @@
             ],
             "title": "SpatialPlacement",
             "type": "object"
+        },
+        "TranslationUnitEnum": {
+            "description": "",
+            "enum": [
+                "centimeter",
+                "millimeter"
+            ],
+            "title": "TranslationUnitEnum",
+            "type": "string"
         }
     },
     "$id": "http://purl.humanatlas.io/specs/ref-organ",

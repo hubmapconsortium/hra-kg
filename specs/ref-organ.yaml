@@ -130,6 +130,7 @@ slots:
   dimension_unit:
     required: true
     slot_uri: ccf:dimension_unit
+    range: DimensionUnitEnum
   x_scaling:
     required: true
     slot_uri: ccf:x_scaling
@@ -148,6 +149,7 @@ slots:
   scaling_unit:
     required: true
     slot_uri: ccf:scaling_unit
+    range: ScalingUnitEnum
   x_rotation:
     required: true
     slot_uri: ccf:x_rotation
@@ -163,6 +165,7 @@ slots:
   rotation_unit:
     required: true
     slot_uri: ccf:rotation_unit
+    range: RotationUnitEnum
   rotation_order:
     required: false
     slot_uri: ccf:rotation_order
@@ -181,6 +184,7 @@ slots:
   translation_unit:
     required: true
     slot_uri: ccf:translation_unit
+    range: TranslationUnitEnum
   representation_of:
     required: false
     slot_uri: ccf:representation_of
@@ -189,9 +193,11 @@ slots:
   organ_donor_sex:
     required: false
     slot_uri: ccf:organ_donor_sex
+    range: DonorSexEnum
   organ_side:
     required: false
     slot_uri: ccf:organ_side
+    range: OrganSideEnum
   file:
     required: true
     slot_uri: ccf:file_url
@@ -252,4 +258,46 @@ slots:
     slot_uri: ccf:rui_rank
     range: integer
 
-
+enums:
+  OrganSideEnum:
+    permissible_values:
+      Left:
+        description: Being located on the left side of the body.
+        meaning: obo:HP_0012835
+      Right:
+        description: Being located on the right side of the body.
+        meaning: obo:HP_0012834
+  DonorSexEnum:
+    permissible_values:
+      Female:
+        description: A biological sex quality inhering in an individual or a population that only produces gametes that can be fertilised by male gametes.
+        meaning: obo:PATO_0000384
+      Male:
+        description: A biological sex quality inhering in an individual or a population whose sex organs contain only male gametes.
+        meaning: obo:PATO_0000384
+  DimensionUnitEnum:
+    permissible_values:
+      centimeter:
+        description: A length unit which is equal to one hundredth of a meter.
+        meaning: obo:UO_0000015
+      millimeter:
+        description: A length unit which is equal to one thousandth of a meter.
+        meaning: obo:UO_0000016
+  ScalingUnitEnum:
+    permissible_values:
+      ratio:
+        description: A dimensionless ratio unit which, given a pair of quantities a and b, for which b is a multiple of a, denotes b by giving the multiplier (coefficient) c for a to result in b.
+        meaning: obo:UO_0010006
+  RotationUnitEnum:
+    permissible_values:
+      degree:
+        description: A plane angle unit which is equal to 1/360 of a full rotation.
+        meaning: obo:UO_0000185
+  TranslationUnitEnum:
+    permissible_values:
+      centimeter:
+        description: A length unit which is equal to one hundredth of a meter.
+        meaning: obo:UO_0000015
+      millimeter:
+        description: A length unit which is equal to one thousandth of a meter.
+        meaning: obo:UO_0000016
