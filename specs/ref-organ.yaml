@@ -112,6 +112,7 @@ slots:
   creation_date:
     required: true
     slot_uri: dcterms:created
+    range: date
   x_dimension:
     required: true
     slot_uri: ccf:x_dimension
@@ -210,6 +211,7 @@ slots:
   placement_date:
     required: true
     slot_uri: dcterms:created
+    range: date
   target:
     required: true
     slot_uri: ccf:placement_relative_to
