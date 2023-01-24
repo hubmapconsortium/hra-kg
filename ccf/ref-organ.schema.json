@@ -18,7 +18,19 @@
             "additionalProperties": false,
             "description": "",
             "properties": {
-                "data": {
+                "extraction_sets": {
+                    "items": {
+                        "$ref": "#/$defs/ExtractionSet"
+                    },
+                    "type": "array"
+                },
+                "rui_placements": {
+                    "items": {
+                        "$ref": "#/$defs/SpatialPlacement"
+                    },
+                    "type": "array"
+                },
+                "spatial_entities": {
                     "items": {
                         "$ref": "#/$defs/SpatialEntity"
                     },
@@ -26,6 +38,31 @@
                 }
             },
             "title": "Container",
+            "type": "object"
+        },
+        "ExtractionSet": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "extraction_set_for": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "rui_rank": {
+                    "type": "integer"
+                }
+            },
+            "required": [
+                "id",
+                "label",
+                "extraction_set_for"
+            ],
+            "title": "ExtractionSet",
             "type": "object"
         },
         "SpatialEntity": {
@@ -50,6 +87,9 @@
                 "dimension_unit": {
                     "type": "string"
                 },
+                "extraction_set": {
+                    "type": "string"
+                },
                 "id": {
                     "type": "string"
                 },
@@ -59,7 +99,7 @@
                 "object_reference": {
                     "$ref": "#/$defs/SpatialObjectReference"
                 },
-                "organ_owner_sex": {
+                "organ_donor_sex": {
                     "type": "string"
                 },
                 "organ_side": {
@@ -71,8 +111,14 @@
                     },
                     "type": "array"
                 },
+                "reference_organ": {
+                    "type": "string"
+                },
                 "representation_of": {
                     "type": "string"
+                },
+                "rui_rank": {
+                    "type": "integer"
                 },
                 "x_dimension": {
                     "minimum": 0,
@@ -216,7 +262,19 @@
     "additionalProperties": true,
     "metamodel_version": "1.7.0",
     "properties": {
-        "data": {
+        "extraction_sets": {
+            "items": {
+                "$ref": "#/$defs/ExtractionSet"
+            },
+            "type": "array"
+        },
+        "rui_placements": {
+            "items": {
+                "$ref": "#/$defs/SpatialPlacement"
+            },
+            "type": "array"
+        },
+        "spatial_entities": {
             "items": {
                 "$ref": "#/$defs/SpatialEntity"
             },
