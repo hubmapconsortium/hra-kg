@@ -29,10 +29,13 @@ classes:
       - z_dimension
       - dimension_unit
       - representation_of
-      - organ_owner_sex
+      - organ_donor_sex
       - organ_side
       - object_reference
       - placements
+      - reference_organ
+      - extraction_set
+      - rui_rank
   SpatialObjectReference:
     class_uri: ccf:SpatialObjectReference
     slots:
@@ -61,6 +64,13 @@ classes:
       - y_translation
       - z_translation
       - translation_unit
+  ExtractionSet:
+    class_uri: ccf:ExtractionSet
+    slots:
+      - id
+      - label
+      - extraction_set_for
+      - rui_rank
   AnatomicalStructure:
     class_uri: ccf:AnatomicalStructure
     slots:
@@ -68,10 +78,18 @@ classes:
   Container:
     tree_root: true
     attributes:
-      data:
+      extraction_sets:
+        multivalued: true
+        inlined_as_list: true
+        range: ExtractionSet
+      spatial_entities:
         multivalued: true
         inlined_as_list: true
         range: SpatialEntity
+      rui_placements:
+        multivalued: true
+        inlined_as_list: true
+        range: SpatialPlacement
 
 slots:
   id:
@@ -168,9 +186,9 @@ slots:
     slot_uri: ccf:representation_of
     range: AnatomicalStructure
     inlined: false
-  organ_owner_sex:
+  organ_donor_sex:
     required: false
-    slot_uri: ccf:organ_owner_sex
+    slot_uri: ccf:organ_donor_sex
   organ_side:
     required: false
     slot_uri: ccf:organ_side
@@ -213,4 +231,25 @@ slots:
     inlined: true
     multivalued: true
     inlined_as_list: true
+  reference_organ:
+    required: false
+    slot_uri: ccf:has_reference_organ
+    range: SpatialEntity
+    inlined: false
+  extraction_set:
+    required: false
+    slot_uri: ccf:has_extraction_set
+    range: ExtractionSet
+    inlined: false
+  extraction_set_for:
+    required: true
+    slot_uri: ccf:extraction_set_for
+    range: SpatialEntity
+    inlined: false
+  rui_rank:
+    required: false
+    recommended: true
+    slot_uri: ccf:rui_rank
+    range: integer
+
 
