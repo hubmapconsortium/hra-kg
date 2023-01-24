@@ -19,6 +19,8 @@ None &#8594;  <sub>1..1</sub> [String](types/String.md)
 
 ## Used by
 
+ * [AnatomicalStructure](AnatomicalStructure.md)
+ * [ExtractionSet](ExtractionSet.md)
  * [SpatialEntity](SpatialEntity.md)
  * [SpatialObjectReference](SpatialObjectReference.md)
  * [SpatialPlacement](SpatialPlacement.md)

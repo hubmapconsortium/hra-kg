@@ -1,15 +1,15 @@
 
-# Slot: label
+# Slot: rui_rank
 
 
 
 
-URI: [ccf:label](http://purl.org/ccf/label)
+URI: [ccf:rui_rank](http://purl.org/ccf/rui_rank)
 
 
 ## Domain and Range
 
-None &#8594;  <sub>1..1</sub> [String](types/String.md)
+None &#8594;  <sub>0..1</sub> [Integer](types/Integer.md)
 
 ## Parents
 
@@ -26,5 +26,5 @@ None &#8594;  <sub>1..1</sub> [String](types/String.md)
 
 |  |  |  |
 | --- | --- | --- |
-| **Mappings:** | | rdfs:label |
+| **Mappings:** | | ccf:rui_rank |
 

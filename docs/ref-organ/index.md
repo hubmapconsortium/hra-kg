@@ -12,7 +12,9 @@
 
 ### Classes
 
+ * [AnatomicalStructure](AnatomicalStructure.md)
  * [Container](Container.md)
+ * [ExtractionSet](ExtractionSet.md)
  * [SpatialEntity](SpatialEntity.md)
  * [SpatialObjectReference](SpatialObjectReference.md)
  * [SpatialPlacement](SpatialPlacement.md)
@@ -22,27 +24,33 @@
 
 ### Slots
 
- * [➞data](container__data.md)
+ * [➞extraction_sets](container__extraction_sets.md)
+ * [➞rui_placements](container__rui_placements.md)
+ * [➞spatial_entities](container__spatial_entities.md)
  * [creation_date](creation_date.md)
  * [creator](creator.md)
  * [creator_first_name](creator_first_name.md)
  * [creator_last_name](creator_last_name.md)
  * [creator_orcid](creator_orcid.md)
  * [dimension_unit](dimension_unit.md)
+ * [extraction_set](extraction_set.md)
+ * [extraction_set_for](extraction_set_for.md)
  * [file](file.md)
  * [file_format](file_format.md)
  * [file_subpath](file_subpath.md)
  * [id](id.md)
  * [label](label.md)
  * [object_reference](object_reference.md)
- * [organ_owner_sex](organ_owner_sex.md)
+ * [organ_donor_sex](organ_donor_sex.md)
  * [organ_side](organ_side.md)
  * [placement](placement.md)
  * [placement_date](placement_date.md)
  * [placements](placements.md)
+ * [reference_organ](reference_organ.md)
  * [representation_of](representation_of.md)
  * [rotation_order](rotation_order.md)
  * [rotation_unit](rotation_unit.md)
+ * [rui_rank](rui_rank.md)
  * [scaling_unit](scaling_unit.md)
  * [source](source.md)
  * [target](target.md)
@@ -62,6 +70,12 @@
 
 ### Enums
 
+ * [DimensionUnitEnum](DimensionUnitEnum.md)
+ * [DonorSexEnum](DonorSexEnum.md)
+ * [OrganSideEnum](OrganSideEnum.md)
+ * [RotationUnitEnum](RotationUnitEnum.md)
+ * [ScalingUnitEnum](ScalingUnitEnum.md)
+ * [TranslationUnitEnum](TranslationUnitEnum.md)
 
 ### Subsets
 
