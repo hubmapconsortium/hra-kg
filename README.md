@@ -30,7 +30,7 @@ check-jsonschema --schemafile ccf/[FILE_NAME].schema.json hra/normalized/[FILE_N
 ### Convert JSON to RDF
 
 ```
-linkml-convert -s specs/[FILE_NAME].yaml -f json -t rdf -o hra/enriched/[FILE_NAME].rdf hra/normalized/[FILE_NAME].json
+linkml-convert -s specs/[FILE_NAME].yaml -f json -t rdf -o hra/enriched/[FILE_NAME].ttl hra/normalized/[FILE_NAME].json
 ```
 
 ### Generate JSON-LD Context
@@ -50,5 +50,5 @@ gen-markdown -d docs/[ROOT_FOLDER] specs/[FILE_NAME].yaml
 ### Merge RDF/Turtle files
 
 ```
-ttl-merge -i hra/enriched/[FILE_NAME_1].rdf hra/enriched/[FILE_NAME_2].rdf ... > hra/integrated/hra-kg.rdf
+ttl-merge -i hra/enriched/[FILE_NAME_1].ttl hra/enriched/[FILE_NAME_2].ttl ... > hra/integrated/hra-kg.ttl
 ```
