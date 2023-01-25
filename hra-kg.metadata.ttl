@@ -1,0 +1,209 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix pav: <http://purl.org/pav/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix wikidata: <https://www.wikidata.org/wiki/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix hra: <http://purl.humanatlas.io/> .
+@prefix hra_asct_b_normalized: <http://purl.humanatlas.io/asct-b/normalized/> .
+@prefix hra_asct_b_enriched: <http://purl.humanatlas.io/asct-b/enriched/> .
+@prefix hra_ref_organ_normalized: <http://purl.humanatlas.io/ref-organ/normalized/> .
+@prefix hra_ref_organ_enriched: <http://purl.humanatlas.io/ref-organ/enriched/> .
+@prefix hra_agent:  <http://purl.humanatlas.io/agent/> .
+@prefix hra_activity:  <http://purl.humanatlas.io/activity/> .
+
+hra_asct_b_normalized:kidney
+	a schema:Dataset, prov:Entity ;
+	rdfs:label "Normalized Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for Kidney" ;
+	schema:name "Normalized Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for Kidney" ;
+	schema:about obo:UBERON_0002113 ;
+	pav:hasCurrentVersion hra_asct_b_normalized:d18c0a232846507001986fba4645034a .
+
+hra_asct_b_normalized:d18c0a232846507001986fba4645034a
+	a dcat:Dataset, schema:Dataset, prov:Entity ;
+	rdfs:label "Normalized Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for Kidney v1.2.0" ;
+	schema:name "Normalized Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for Kidney v1.2.0" ;
+	schema:version "1.2.0" ;
+	schema:license wikidata:Q6905323 ;
+	prov:specializationOf hra_asct_b_normalized:kidney ;
+	dct:issued "2023-01-23"^^xsd:date ;
+	dct:modified "2023-01-23"^^xsd:date ;
+	dcat:distribution hra_asct_b_normalized:22f7ed4471bd39b7c6b632c147e39ab1 .
+
+hra_asct_b_normalized:22f7ed4471bd39b7c6b632c147e39ab1
+	a dcat:Distribution ;
+	rdfs:label "Distribution of Normalized Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for Kidney v1.2.0"
+	dct:title "asct-b-kidney-1.2.0.json" ;
+	dcat:downloadURL <https://lod.humanatlas.io/asctb/normalized/asct-b-kidney-1.2.0.json> ;
+	dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> ;
+	dcat:byteSize "306272"^^xsd:decimal .
+
+hra_asct_b_enriched:kidney
+	a schema:Dataset, prov:Entity ;
+	rdfs:label "Enriched Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for Kidney" ;
+	schema:name "Enriched Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for Kidney" ;
+	schema:about obo:UBERON_0002113 ;
+	pav:hasCurrentVersion hra_asct_b_enriched:b60f041654f6d2a61570739b7926c1fc .
+
+hra_asct_b_enriched:b60f041654f6d2a61570739b7926c1fc
+	a dcat:Dataset, schema:Dataset, prov:Entity ;
+	rdfs:label "Enriched Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for Kidney v1.2.0" ;
+	schema:name "Enriched Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for Kidney v1.2.0" ;
+	schema:version "1.2.0" ;
+	schema:license wikidata:Q6905323 ;
+	prov:specializationOf hra_asct_b_enriched:kidney ;
+	prov:wasDerivedFrom hra_asct_b_normalized:d18c0a232846507001986fba4645034a ;
+	prov:wasGeneratedBy hra_activity:b5ea306588776c0a58391631ad8247a9 ;
+	dct:issued "2023-01-23"^^xsd:date ;
+	dct:modified "2023-01-23"^^xsd:date ;
+	dcat:distribution hra_asct_b_enriched:950842410b63b7a2f592e8ca8c7d1f66 .
+
+hra_asct_b_enriched:950842410b63b7a2f592e8ca8c7d1f66
+	a dcat:Distribution ;
+	rdfs:label "Distribution of Enriched Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for Kidney v1.2.0"
+	dct:title "asct-b-kidney-1.2.0.ttl" ;
+	dcat:downloadURL <https://lod.humanatlas.io/asctb/enriched/asct-b-kidney-1.2.0.ttl> ;
+	dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> ;
+	dcat:byteSize "114125"^^xsd:decimal .
+
+hra_ref_organ_normalized:3d-spatial-entities
+	a schema:Dataset, prov:Entity ;
+	rdfs:label "Normalized 3D Spatial Entities for Reference Organs" ;
+	schema:name "Normalized 3D Spatial Entities for Reference Organs" ;
+	pav:hasCurrentVersion hra_ref_organ_normalized:cf78b08b8abd6a821233e16e3d7b21c1 .	
+
+hra_ref_organ_normalized:cf78b08b8abd6a821233e16e3d7b21c1
+	a dcat:Dataset, schema:Dataset, prov:Entity ;
+	rdfs:label "Normalized 3D Spatial Entities for Reference Organs v1.0.0" ;
+	schema:name "Normalized 3D Spatial Entities for Reference Organs v1.0.0" ;
+	schema:version "1.0.0" ;
+	schema:license wikidata:Q6905323 ;
+	prov:specializationOf hra_ref_organ_normalized:3d-spatial-entities ;
+	dct:issued "2023-01-23"^^xsd:date ;
+	dct:modified "2023-01-23"^^xsd:date ;
+	dcat:distribution hra_ref_organ_normalized:332c0b10f229ca34187e2e45b9c46510 .
+
+hra_ref_organ_normalized:332c0b10f229ca34187e2e45b9c46510
+	a dcat:Distribution ;
+	rdfs:label "Distribution of Normalized 3D Spatial Entities for Reference Organs v1.0.0" ;
+	dct:title "ref-organ-1.0.0.json" ;
+	dcat:downloadURL <https://lod.humanatlas.io/ref-organ/normalized/ref-organ-1.0.0.json> ;
+	dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> ;
+	dcat:byteSize "4653346"^^xsd:decimal .
+
+hra_ref_organ_enriched:3d-spatial-entities
+	a schema:Dataset, prov:Entity ;
+	rdfs:label "Enriched 3D Spatial Entities for Reference Organs" ;
+	schema:name "Enriched 3D Spatial Entities for Reference Organs" ;
+	pav:hasCurrentVersion hra_ref_organ_enriched:a74280502ce5f6ad5577edb7dcfb637e .
+
+hra_ref_organ_enriched:a74280502ce5f6ad5577edb7dcfb637e
+	a dcat:Dataset, schema:Dataset, prov:Entity ;
+	rdfs:label "Enriched 3D Spatial Entities for Reference Organs v1.0.0" ;
+	schema:name "Enriched 3D Spatial Entities for Reference Organs v1.0.0" ;
+	schema:version "1.0.0" ;
+	schema:license wikidata:Q6905323 ;
+	prov:specializationOf hra_ref_organ_enriched:3d-spatial-entities ;
+	prov:wasDerivedFrom hra_ref_organ_normalized:cf78b08b8abd6a821233e16e3d7b21c1 ;
+	prov:wasGeneratedBy hra_activity: ;
+	dct:issued "2023-01-23"^^xsd:date ;
+	dct:modified "2023-01-23"^^xsd:date ;
+	dcat:distribution hra_ref_organ_enriched:2236fdbfb964e6b9c08205803e70de1f .
+
+hra_ref_organ_enriched:2236fdbfb964e6b9c08205803e70de1f
+	a dcat:Distribution ;
+	rdfs:label "Distribution of Enriched 3D Spatial Entities for Reference Organs v1.0.0"
+	dct:title "ref-organ-1.0.0.ttl" ;
+	dcat:downloadURL <https://lod.humanatlas.io/ref_organ/enriched/asct-b-kidney-1.0.0.ttl> ;
+	dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> ;
+	dcat:byteSize "4905397"^^xsd:decimal .
+
+hra_agent:0000-0001-7655-4833
+	a schema:Person, prov:Person, prov:Agent ;
+	schema:givenName "Ellen" ;
+	schema:familyName "Quardokus" ;
+	schema:email "ellenmq@iu.edu" ;
+	schema:sameAs <https://orcid.org/0000-0001-7655-4833> ;
+	prov:actedOnBehalfOf wikidata:Q6608367 .
+
+hra_agent:0000-0002-6703-7647
+	a schema:Person, prov:Person, prov:Agent ;
+	schema:givenName "Bruce" ;
+	schema:familyName "Herr" ;
+	schema:email "bherr@iu.edu" ;
+	schema:sameAs <https://orcid.org/0000-0002-6703-7647> ;
+	prov:actedOnBehalfOf wikidata:Q6608367 .
+
+wikidata:Q6608367
+	a prov:Organization, prov:Agent .
+
+hra_agent:0000-0002-2533-6681
+	a schema:Person, prov:Person, prov:Agent ;
+	schema:givenName "Josef" ;
+	schema:familyName "Hardi" ;
+	schema:email "johardi@stanford.edu" ;
+	schema:sameAs <https://orcid.org/0000-0002-2533-6681> ;
+	prov:actedOnBehalfOf wikidata:Q41506 .
+
+wikidata:Q41506
+	a prov:Organization, prov:Agent .
+
+hra_agent:gen-json-schema
+	a schema:SoftwareApplication, prov:SoftwareAgent, prov:Agent ;
+	rdfs:label "gen-json-schema" ;
+	schema:name "gen-json-schema" ;
+	schema:applicationSuite "LinkML";
+	pav:hasCurrentVersion hra_agent:2de9e2ac2338940c57db6fb1738c4773 .
+
+hra_agent:2de9e2ac2338940c57db6fb1738c4773
+	a schema:SoftwareApplication, prov:SoftwareAgent, prov:Agent ;
+	rdfs:label "gen-json-schema v1.4.1" ;
+	schema:name "gen-json-schema v1.4.1" ;
+	schema:version "1.4.1" .
+
+hra_agent:linkml-convert
+	a schema:SoftwareApplication, prov:SoftwareAgent, prov:Agent ;
+	rdfs:label "linkml-convert" ;
+	schema:name "linkml-convert" ;
+	schema:applicationSuite "LinkML";
+	pav:hasCurrentVersion hra_agent:fa5745de7c2eba2fae129b9166534d8e .
+
+hra_agent:fa5745de7c2eba2fae129b9166534d8e
+	a schema:SoftwareApplication, prov:SoftwareAgent, prov:Agent ;
+	rdfs:label "linkml-convert v1.4.1" ;
+	schema:name "linkml-convert v1.4.1" ;
+	schema:version "1.4.1" .
+
+hra_agent:ttl-merge
+	a schema:SoftwareApplication, prov:SoftwareAgent, prov:Agent ;
+	rdfs:label "ttl-merge" ;
+	schema:name "ttl-merge" ;
+	pav:hasCurrentVersion hra_agent:e7de367b0113061049769b9091112273 .
+
+hra_agent:e7de367b0113061049769b9091112273
+	rdfs:label "ttl-merge v0.1.0" ;
+	schema:name "ttl-merge v0.1.0" ;
+	schema:version "0.1.0" .
+
+hra_activity:b5ea306588776c0a58391631ad8247a9
+	a prov:Activity ;
+	rdfs:label "Converting normalized asct-b-kidney-1.2.0.json to enriched asct-b-kidney-1.2.0.ttl" ;
+	prov:wasAssociatedWith hra_agent:fa5745de7c2eba2fae129b9166534d8e ;
+	prov:used hra_asct_b_normalized:d18c0a232846507001986fba4645034a ;
+	prov:generated hra_asct_b_enriched:b60f041654f6d2a61570739b7926c1fc ;
+	prov:wasStartedBy hra_agent:0000-0002-2533-6681 ;
+	prov:startedAtTime "2023-01-23T11:05:04Z"^^xsd:dateTime ;
+	prov:endedAtTime "2023-01-23T11:06:55Z"^^xsd:dateTime .
+
+hra_activity:2ff3607f0c31fe89034f0fcc1c69fae9
+	a prov:Activity ;
+	rdfs:label "Converting normalized ref-organ-1.0.0.json to enriched ref-organ-1.0.0.ttl" ;
+	prov:wasAssociatedWith hra_agent:fa5745de7c2eba2fae129b9166534d8e ;
+	prov:used hra_ref_organ_normalized:cf78b08b8abd6a821233e16e3d7b21c1 ;
+	prov:generated hra_ref_organ_enriched:a74280502ce5f6ad5577edb7dcfb637e ;
+	prov:wasStartedBy hra_agent:0000-0002-2533-6681 ;
+	prov:startedAtTime "2023-01-23T11:10:14Z"^^xsd:dateTime ;
+	prov:endedAtTime "2023-01-23T11:12:01Z"^^xsd:dateTime .
