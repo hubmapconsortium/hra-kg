@@ -45,3 +45,6 @@ The data post-procesing steps:
    * Copy the `id` value and paste it in the new `pubmed_id` field.
    * Replace the `id` value with the `doi` value. This is because the DOI is more reliable as the reference identifier.
 11. Remove all duplicates.
+
+Note:
+1. How to model `proteinPresence` in the biomarkers data?
