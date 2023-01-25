@@ -35,10 +35,13 @@ The data post-procesing steps:
 2. Remove all objects that has an empty `@id`.
 3. Fill out the `label` value with the `name` value when the label is empty.
 4. Remove all `notes` fields. It will require a different data modelling to include this field.
-5. Rename `name` to `preferred_name` for clarity.
+5. Rename `rdfs_label` to `label`, `name` to `preferred_name`, `b_type` to `biomarker_type` for clarity.
 6. Replace `UBERON:` with the prefix `http://purl.obolibrary.org/obo/UBERON_`
-7. Replace `CL:` with the prefix `http://purl.obolibrary.org/obo/CL`
-8. Replace `HGNC:` with the prefix `http://identifiers.org/hgnc/`
-9. In the `references` object: 
+7. Replace `FMA:` with the prefix `http://purl.org/sig/ont/fma/fma`
+8. Replace `CL:` with the prefix `http://purl.obolibrary.org/obo/CL`
+9. Replace `HGNC:` with the prefix `http://identifiers.org/hgnc/`
+10. Replace `DOI:` with the prefix `https://doi.org/`
+10. In the `references` object: 
    * Copy the `id` value and paste it in the new `pubmed_id` field.
    * Replace the `id` value with the `doi` value. This is because the DOI is more reliable as the reference identifier.
+11. Remove all duplicates.
