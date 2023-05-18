@@ -1,0 +1,6 @@
+digital-objects/*/*/*/normalized
+digital-objects/*/*/*/enriched
+digital-objects/*/*/*/packaged
+dist/
+
+scratch/

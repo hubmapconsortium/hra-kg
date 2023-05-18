@@ -1,0 +1,59 @@
+type: 2d-ftu
+name: asct-b-2d-models-mapping
+version: v1.1
+title: ASCT+B 2D FTU Mapping
+description: >-
+  This lookup table maps [Anatomical Structures, Cell Types and Biomarkers
+  (ASCT+B)
+  Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html)
+  terms to anatomical structure and cell type terms used in the
+  [CCF-2D-reference-object-library](https://github.com/hubmapconsortium/ccf-2d-reference-object-library).
+creators:
+  - fullName: Supriya Bidanta
+    firstName: Supriya
+    lastName: Bidanta
+    orcid: 0000-0002-2142-983X
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+externalReviewers: []
+creation_date: '2022-12-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM266.FLTT.686
+doi: https://doi.org/10.48539/HBM266.FLTT.686
+citation: >-
+  Supriya Bidanta; Fauzan Isnaini. (2022). *Anatomical Structures, Cell Types
+  and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping*, v1.1,
+  https://doi.org/10.48539/HBM266.FLTT.686  Accessed on December 15, 2022.
+citationOverall: >-
+  Supriya Bidanta; Fauzan Isnaini; Rachel Bajema; Ellen M. Quardokus; Bruce W.
+  Herr II; Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object
+  Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-object-library.html).
+  Accessed on December 15, 2022.
+datatable:
+  - asct-b-2d-models-mapping.csv

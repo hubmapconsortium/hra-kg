@@ -1,0 +1,56 @@
+type: ref-organ
+name: asct-b-3d-models-mapping
+version: v1.3
+title: ASCT+B 3D Models Mapping
+description: >-
+  This lookup table maps [Anatomical Structures, Cell Types and Biomarkers
+  (ASCT+B)
+  Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html)
+  terms to anatomical structure terms used in the [3D Reference Object
+  Library](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html).
+creators:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Heidi Schlehlein
+    firstName: Heidi
+    lastName: Schlehlein
+    orcid: 0000-0002-3333-5646
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers: []
+externalReviewers: []
+creation_date: '2022-12-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM766.SDNC.676
+doi: https://doi.org/10.48539/HBM766.SDNC.676
+citation: >-
+  Ellen M. Quardokus; Heidi Schlehlein; Bruce W. Herr II; Katy Börner. (2022).
+  *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D
+  Reference Object Library Mapping*, v1.3,
+  https://doi.org/10.48539/HBM766.SDNC.676.  Accessed on December 15, 2022.
+citationOverall: >-
+  Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy
+  Börner. 2022. [*HuBMAP CCF 3D Reference Object
+  Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html).
+  Accessed on December 15, 2022.
+datatable:
+  - asct-b-3d-models-mapping.csv

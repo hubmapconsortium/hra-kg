@@ -1,0 +1,49 @@
+type: 2d-ftu
+name: skin-epidermal-ridge
+version: v1.0
+title: 2D Epidermal Ridge FTU for Skin
+description: >-
+  This functional tissue unit (FTU) illustration includes cell types related to
+  the epidermis in the Anatomical Structures, Cell Types and Biomarkers table 
+  [Skin v1.2](https://doi.org/10.48539/HBM725.JHNS.532).
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Fiona Ginty
+    firstName: Fiona
+    lastName: Ginty
+    orcid: 0000-0001-6638-683X
+  - fullName: Arivarasan Karunamurthy
+    firstName: Arivarasan
+    lastName: Karunamurthy
+    orcid: 0000-0002-5739-4923
+externalReviewers: []
+creation_date: '2022-12-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM532.WTMJ.494
+doi: https://doi.org/10.48539/HBM532.WTMJ.494
+citation: >-
+  Rachel Bajema 2022. *2D Reference Epidermal Ridge FTU for Skin, v1.0.*
+  https://doi.org/10.48539/HBM532.WTMJ.494. Accessed on December 15, 2022.
+citationOverall: >-
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
+  Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](
+  https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html).
+  Accessed on December 15, 2022.
+datatable:
+  - 2d-ftu-pancreas-intercalated-duct.svg
+  - 2d-ftu-pancreas-intercalated-duct.ai

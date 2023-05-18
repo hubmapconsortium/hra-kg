@@ -1,0 +1,52 @@
+type: ref-organ
+name: ureter-male-left
+version: v1.1
+title: 3D Reference Organ for Ureter, Male, Left
+description: >-
+  [This reference
+  organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html)
+  was created using data from the Visible Human Male, provided by the National
+  Library of Medicine. Changes include adding the renal calyces and renal
+  papillae from the kidney model per subject matter expert  input.
+creators:
+  - fullName: Kristen Browne
+    firstName: Kristen
+    lastName: Browne
+    orcid: 0000-0003-4066-7531
+  - fullName: Heidi Schlehlein
+    firstName: Heidi
+    lastName: Schlehlein
+    orcid: 0000-0002-3333-5646
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Douglas Strand
+    firstName: Douglas
+    lastName: Strand
+    orcid: 0000-0002-0746-927X
+externalReviewers: []
+creation_date: '2022-05-06'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM473.XWNL.438
+doi: https://doi.org/10.48539/HBM473.XWNL.438
+citation: >-
+  Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Ureter, Male,
+  Left v1.1.*
+  [https://doi.org/10.48539/HBM473.XWNL.438](https://doi.org/10.48539/HBM473.XWNL.438).
+  Accessed on May 6, 2022.
+citationOverall: >-
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
+  Bueckle, Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object
+  Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html)
+  Accessed on May 6, 2022.
+datatable:
+  - VH_M_Ureter_L.glb

@@ -1,0 +1,55 @@
+type: asct-b
+name: lung
+version: v1.2
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lung
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html)
+  aim to capture the nested *part_of* structure of anatomical human body parts,
+  the typology of cells, and biomarkers used to identify cell types. The tables
+  are authored and reviewed by an international team of experts. This “Single
+  Lung Lobe” table simplifies the ASCT+B table from Lung v1.1, to consider the
+  anatomical and cellular composition of  the lower respiratory tract of one
+  lung lobe as representative of the five human lung lobes, reducing table
+  redundancies in structure and cell nomenclature and to improve visualization
+  by the ASCT+B Reporter.
+creators:
+  - fullName: Gloria Pryhuber
+    firstName: Gloria
+    lastName: Pryhuber
+    orcid: 0000-0002-9185-3994
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Bruce Aronow
+    firstName: Bruce
+    lastName: Aronow
+    orcid: 0000-0001-5109-6514
+  - fullName: Joshua Fortriede
+    firstName: Joshua
+    lastName: Fortriede
+    orcid: 0000-0002-3293-5463
+externalReviewers: []
+creation_date: '2021-05-06'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM396.QVLQ.449
+doi: https://doi.org/10.48539/HBM396.QVLQ.449
+citation: >-
+  Gloria Pryhuber. HuBMAP ASCT+B Tables. Lung v1.2
+  [https://doi.org/10.48539/HBM396.QVLQ.449](https://doi.org/10.48539/HBM396.QVLQ.449)
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP
+  ASCT+B
+  Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html).
+  Accessed on May 6, 2022.
+datatable:
+  - asct-b-lung.csv
