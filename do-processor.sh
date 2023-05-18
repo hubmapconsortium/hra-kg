@@ -19,3 +19,6 @@ $SUDO docker run --pull $PULL --rm \
   --mount type=bind,source=./digital-objects,target=/digital-objects \
   --mount type=bind,source=./dist,target=/dist \
   -it $CONTAINER $@
+
+# Fix permissions as docker-generated files are owned by root
+$SUDO chown -R $USER digital-objects dist
