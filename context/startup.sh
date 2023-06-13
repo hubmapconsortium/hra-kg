@@ -1,8 +1,13 @@
 #!/bin/bash
 
+# Save execution environment
 echo "export DB_URL=${DB_URL}" > /sync.env
-echo "export BLAZEGRAPH_MEMORY=${BLAZEGRAPH_MEMORY}" >> /sync.env
-echo "export BLAZEGRAPH_TIMEOUT=${BLAZEGRAPH_TIMEOUT}" >> /sync.env
-echo "export BLAZEGRAPH_READONLY=${BLAZEGRAPH_READONLY}" >> /sync.env
 
-/sync.sh && cron -f
+# Download initial DB
+/sync.sh
+
+# Start cron to periodically check for DB updates
+cron
+
+# Run blazegraph forever (unless stopped here)
+while true; do /blazegraph/entrypoint.sh && break; done
