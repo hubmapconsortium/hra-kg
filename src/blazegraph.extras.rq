@@ -1,0 +1,11 @@
+LOAD <https://ccf-ontology.hubmapconsortium.org/v1.0.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/1.0.0/ccf.owl> ;
+LOAD <https://ccf-ontology.hubmapconsortium.org/v1.6.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/1.6.0/ccf.owl> ;
+LOAD <https://ccf-ontology.hubmapconsortium.org/v1.8.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/1.8.0/ccf.owl> ;
+LOAD <https://ccf-ontology.hubmapconsortium.org/v1.9.4/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/1.9.4/ccf.owl> ;
+LOAD <https://ccf-ontology.hubmapconsortium.org/v1.10.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/1.10.0/ccf.owl> ;
+LOAD <https://ccf-ontology.hubmapconsortium.org/v2.0.1/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/2.0.1/ccf.owl> ;
+LOAD <https://ccf-ontology.hubmapconsortium.org/v2.1.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/2.1.0/ccf.owl> ;
+LOAD <https://ccf-ontology.hubmapconsortium.org/v2.2.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/2.2.0/ccf.owl> ;
+LOAD <https://ccf-ontology.hubmapconsortium.org/v2.2.1/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/2.2.1/ccf.owl> ;
+LOAD <https://purl.org/ccf/ccf.owl> INTO GRAPH <https://purl.org/ccf/ccf.owl> ;
+LOAD <https://cns-iu.github.io/hra-cell-type-populations-supporting-information/data/enriched_rui_locations.jsonld> INTO GRAPH <https://cns-iu.github.io/hra-cell-type-populations-supporting-information/data/enriched_rui_locations.jsonld#graph> ;
