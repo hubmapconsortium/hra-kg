@@ -1,0 +1,5 @@
+"node_id","node_label","node_mapped_to","tissue_label","tissue_mapped_to","organ_label","organ_mapped_to"
+"Ascending_Thin_Limb_Cell_1","kidney loop of Henle thin ascending limb epithelial cell","http://purl.obolibrary.org/obo/CL_1001107","loop of Henle ascending limb thin segment","UBERON:0004193","Kidney","UBERON:0002113"
+"Ascending_Thin_Limb_Cell_2","kidney loop of Henle thin ascending limb epithelial cell","http://purl.obolibrary.org/obo/CL_1001107","loop of Henle ascending limb thin segment","UBERON:0004193","Kidney","UBERON:0002113"
+"Ascending_Thin_Limb_Cell_3","kidney loop of Henle thin ascending limb epithelial cell","http://purl.obolibrary.org/obo/CL_1001107","loop of Henle ascending limb thin segment","UBERON:0004193","Kidney","UBERON:0002113"
+"Ascending_Vasa_Recta","vasa recta ascending limb cell","http://purl.obolibrary.org/obo/CL_1001131","loop of Henle ascending limb thin segment","UBERON:0004193","Kidney","UBERON:0002113"
