@@ -44,3 +44,4 @@ citationOverall: >-
 datatable:
   - 2d-ftu-pancreas-islets-langerhans.svg
   - 2d-ftu-pancreas-islets-langerhans.ai
+  - crosswalk.csv
