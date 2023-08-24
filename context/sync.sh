@@ -10,7 +10,11 @@ LOCAL_ETAG=$(touch $ETAG_FILE && cat $ETAG_FILE)
 if [ "$REMOTE_ETAG" != "$LOCAL_ETAG" ]; then
   echo "Syncing DB with" $REMOTE_ETAG
 
-  curl --compressed -H 'Accept-encoding: gzip' -so $LOCAL_DB $DB_URL
+  if [ "${DB_URL##*.}" == "bz2" ]; then
+    curl --compressed -H 'Accept-encoding: gzip' -s $DB_URL | bzcat > $LOCAL_DB
+  else
+    curl --compressed -H 'Accept-encoding: gzip' -so $LOCAL_DB $DB_URL
+  fi
   echo $REMOTE_ETAG > $ETAG_FILE
 
   # Kill blazegraph (and let the daemon restart it)
