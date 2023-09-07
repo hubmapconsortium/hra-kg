@@ -1,0 +1,124 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHMBloodVasculature,VH_M_blood_vasculature,blood vasculature,UBERON:0004537,http://purl.obolibrary.org/obo/UBERON_0004537
+#VHMBloodVasculature,VH_M_blood_vasculature_of_eye,vasculature of eye,UBERON:0002203,http://purl.obolibrary.org/obo/UBERON_0002203
+#VHMBloodVasculature,VH_M_ophthalmic_vein_L,ophthalmic vein,UBERON:0011191,http://purl.obolibrary.org/obo/UBERON_0011191
+#VHMBloodVasculature,VH_M_superior_ophthalmic_vein_L,Left superior ophthalmic vein,FMA:51249,http://purl.org/sig/ont/fma/fma51249
+#VHMBloodVasculature,VH_M_inferior_ophthalmic_vein_L,Left inferior ophthalmic vein,FMA:51251,http://purl.org/sig/ont/fma/fma51251
+#VHMBloodVasculature,VH_M_central_retinal_vein_L,Left central retinal vein,FMA:51885,http://purl.org/sig/ont/fma/fma51885
+#VHMBloodVasculature,VH_M_ophthalmic_vein_R,ophthalmic vein,UBERON:0011191,http://purl.obolibrary.org/obo/UBERON_0011191
+#VHMBloodVasculature,VH_M_superior_ophthalmic_vein_R,Right superior ophthalmic vein,FMA:51248,http://purl.org/sig/ont/fma/fma51248
+#VHMBloodVasculature,VH_M_inferior_ophthalmic_vein_R,Right inferior ophthalmic vein,FMA:51250,http://purl.org/sig/ont/fma/fma51250
+#VHMBloodVasculature,VH_M_central_retinal_vein_R,Right central retinal vein,FMA:51884,http://purl.org/sig/ont/fma/fma51884
+#VHMBloodVasculature,VH_M_central_retinal_artery_L,Left central retinal artery,FMA:49881,http://purl.org/sig/ont/fma/fma49881
+#VHMBloodVasculature,VH_M_opthalmic_artery_L,ophthalmic artery,UBERON:0001619,http://purl.obolibrary.org/obo/UBERON_0001619
+#VHMBloodVasculature,VH_M_long_posterior_ciliary_artery_L,Left long posterior ciliary artery,FMA:49958,http://purl.org/sig/ont/fma/fma49958
+#VHMBloodVasculature,VH_M_central_retinal_artery_R,Right central retinal artery,FMA:49880,http://purl.org/sig/ont/fma/fma49880
+#VHMBloodVasculature,VH_M_opthalmic_artery_R,ophthalmic artery,UBERON:0001619,http://purl.obolibrary.org/obo/UBERON_0001619
+#VHMBloodVasculature,VH_M_long_posterior_ciliary_artery_R,Right long posterior ciliary artery,FMA:49957,http://purl.org/sig/ont/fma/fma49957
+#VHMBloodVasculature,VH_M_inferior_mesenteric_vein,inferior mesenteric vein,UBERON:0001215,http://purl.obolibrary.org/obo/UBERON_0001215
+#VHMBloodVasculature,VH_M_median_sacral_vein,median sacral vein,UBERON:0006687,http://purl.obolibrary.org/obo/UBERON_0006687
+#VHMBloodVasculature,VH_M_sigmoid_vein,sigmoid vein,FMA:15395,http://purl.org/sig/ont/fma/fma15395
+#VHMBloodVasculature,VH_M_superior_mesenteric_vein,superior mesenteric artery,UBERON:0001182,http://purl.obolibrary.org/obo/UBERON_0001182
+#VHMBloodVasculature,VH_M_superior_rectal_vein,superior rectal artery,UBERON:0035040,http://purl.obolibrary.org/obo/UBERON_0035040
+#VHMBloodVasculature,VH_M_common_iliac_vein,common iliac vein,UBERON:0001139,http://purl.obolibrary.org/obo/UBERON_0001139
+#VHMBloodVasculature,VH_M_common_iliac_vein_L,Left common iliac vein,FMA:21388,http://purl.org/sig/ont/fma/fma21388
+#VHMBloodVasculature,VH_M_common_iliac_vein_R,Right common iliac vein,FMA:21387,http://purl.org/sig/ont/fma/fma21387
+#VHMBloodVasculature,VH_M_inferior_pancreaticoduodenal_vein,Inferior pancreaticoduodenal vein,FMA:0329299,http://purl.org/sig/ont/fma/fma0329299
+#VHMBloodVasculature,VH_M_external_iliac_vein,external iliac vein,UBERON:0001316,http://purl.obolibrary.org/obo/UBERON_0001316
+#VHMBloodVasculature,VH_M_external_iliac_vein_L,external iliac vein,UBERON:0001316,http://purl.obolibrary.org/obo/UBERON_0001316
+#VHMBloodVasculature,VH_M_external_iliac_vein_R,external iliac vein,UBERON:0001316,http://purl.obolibrary.org/obo/UBERON_0001316
+#VHMBloodVasculature,VH_M_inferior_rectal_vein,Inferior rectal vein,FMA:21242,http://purl.org/sig/ont/fma/fma21242
+#VHMBloodVasculature,VH_M_inferior_rectal_vein_L,left Inferior rectal vein,FMA:21314,http://purl.org/sig/ont/fma/fma21314
+#VHMBloodVasculature,VH_M_inferior_rectal_vein_R,right Inferior rectal vein,FMA:21313,http://purl.org/sig/ont/fma/fma21313
+#VHMBloodVasculature,VH_M_internal_pudendal_vein,internal pudendal vein,UBERON:0018252,http://purl.obolibrary.org/obo/UBERON_0018252
+#VHMBloodVasculature,VH_M_internal_pudendal_vein_L,internal pudendal vein,UBERON:0018252,http://purl.obolibrary.org/obo/UBERON_0018252
+#VHMBloodVasculature,VH_M_internal_pudendal_vein_R,internal pudendal vein,UBERON:0018252,http://purl.obolibrary.org/obo/UBERON_0018252
+#VHMBloodVasculature,VH_M_internal_iliac_vein,internal iliac vein,UBERON:0001317,http://purl.obolibrary.org/obo/UBERON_0001317
+#VHMBloodVasculature,VH_M_internal_iliac_vein_L,internal iliac vein,UBERON:0001317,http://purl.obolibrary.org/obo/UBERON_0001317
+#VHMBloodVasculature,VH_M_internal_iliac_vein_R,internal iliac vein,UBERON:0001317,http://purl.obolibrary.org/obo/UBERON_0001317
+#VHMBloodVasculature,VH_M_left_colic_vein,Left colic vein,FMA:15394,http://purl.org/sig/ont/fma/fma15394
+#VHMBloodVasculature,VH_M_ileocolic_vein,ileocolic vein,UBERON:0001219,http://purl.obolibrary.org/obo/UBERON_0001219
+#VHMBloodVasculature,VH_M_right_colic_vein,Right colic vein,FMA:15407,http://purl.org/sig/ont/fma/fma15407
+#VHMBloodVasculature,VH_M_middle_colic_vein,middle colic vein,UBERON:0001218,http://purl.obolibrary.org/obo/UBERON_0001218
+#VHMBloodVasculature,VH_M_middle_rectal_vein,Middle rectal vein,FMA:18893,http://purl.org/sig/ont/fma/fma18893
+#VHMBloodVasculature,VH_M_middle_rectal_vein_L,Left middle rectal vein,FMA:18895,http://purl.org/sig/ont/fma/fma18895
+#VHMBloodVasculature,VH_M_middle_rectal_vein_R,Right middle rectal vein,FMA:18894,http://purl.org/sig/ont/fma/fma18894
+#VHMBloodVasculature,VH_M_colic_artery,colic artery,UBERON:0035548,http://purl.obolibrary.org/obo/UBERON_0035548
+#VHMBloodVasculature,VH_M_right_colic_artery,Right colic artery,FMA:14811,http://purl.org/sig/ont/fma/fma14811
+#VHMBloodVasculature,VH_M_middle_colic_artery,middle colic artery,UBERON:0001196,http://purl.obolibrary.org/obo/UBERON_0001196
+#VHMBloodVasculature,VH_M_left_colic_artery,Left colic artery,FMA:14826,http://purl.org/sig/ont/fma/fma14826
+#VHMBloodVasculature,VH_M_ileocolic_artery,ileocolic artery,UBERON:0035548,http://purl.obolibrary.org/obo/UBERON_0001197
+#VHMBloodVasculature,VH_M_sigmoid_artery,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180
+#VHMBloodVasculature,VH_M_sigmoid_artery_a,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180
+#VHMBloodVasculature,VH_M_sigmoid_artery_b,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180
+#VHMBloodVasculature,VH_M_sigmoid_artery_c,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180
+#VHMBloodVasculature,VH_M_inferior_mesenteric_artery,inferior mesenteric artery,UBERON:0001183,http://purl.obolibrary.org/obo/UBERON_0001183
+#VHMBloodVasculature,VH_M_superior_mesenteric_artery,superior mesenteric artery,UBERON:0001182,http://purl.obolibrary.org/obo/UBERON_0001182
+#VHMBloodVasculature,VH_M_marginal_artery_of_Drummond,marginal colic artery,FMA:14824,http://purl.org/sig/ont/fma/fma14824
+#VHMBloodVasculature,VH_M_renal_vein,renal vein,UBERON:0001140,http://purl.obolibrary.org/obo/UBERON_0001140
+#VHMBloodVasculature,VH_M_renal_vein_L,left renal vein,UBERON:0001142,http://purl.obolibrary.org/obo/UBERON_0001142
+#VHMBloodVasculature,VH_M_renal_vein_R,right renal vein,UBERON:0001141,http://purl.obolibrary.org/obo/UBERON_0001141
+#VHMBloodVasculature,VH_M_renal_artery,renal artery,UBERON:0001184,http://purl.obolibrary.org/obo/UBERON_0001184
+#VHMBloodVasculature,VH_M_left_renal_artery,left renal artery,UBERON:0001186,http://purl.obolibrary.org/obo/UBERON_0001186
+#VHMBloodVasculature,VH_M_right_renal_artery,right renal artery,UBERON:0001185,http://purl.obolibrary.org/obo/UBERON_0001185
+#VHMBloodVasculature,VH_M_aorta,aorta,UBERON:0000947,http://purl.obolibrary.org/obo/UBERON_0000947
+#VHMBloodVasculature,VH_M_aortic_arch,arch of aorta,UBERON:0001508,http://purl.obolibrary.org/obo/UBERON_0001508
+#VHMBloodVasculature,VH_M_ascending_aorta,ascending aorta,UBERON:0001496,http://purl.obolibrary.org/obo/UBERON_0001496
+#VHMBloodVasculature,VH_M_brachiocephalic_artery,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529
+#VHMBloodVasculature,VH_M_brachiocephalic_artery_b,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529
+#VHMBloodVasculature,VH_M_brachiocephalic_artery_a,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529
+#VHMBloodVasculature,VH_M_left_common_carotid_artery,left common carotid artery plus branches,UBERON:0001536,http://purl.obolibrary.org/obo/UBERON_0001536
+#VHMBloodVasculature,VH_M_left_common_carotid_artery_a,left common carotid artery plus branches,UBERON:0001536,http://purl.obolibrary.org/obo/UBERON_0001536
+#VHMBloodVasculature,VH_M_left_common_carotid_artery_b,left common carotid artery plus branches,UBERON:0001536,http://purl.obolibrary.org/obo/UBERON_0001536
+#VHMBloodVasculature,VH_M_left_subclavian_artery,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584
+#VHMBloodVasculature,VH_M_left_subclavian_artery_a,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584
+#VHMBloodVasculature,VH_M_left_subclavian_artery_b,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584
+#VHMBloodVasculature,VH_M_descending_aorta,descending aorta,UBERON:0001514,http://purl.obolibrary.org/obo/UBERON_0001514
+#VHMBloodVasculature,VH_M_descending_aorta_a,descending aorta,UBERON:0001514,http://purl.obolibrary.org/obo/UBERON_0001514
+#VHMBloodVasculature,VH_M_descending_aorta_b,descending aorta,UBERON:0001514,http://purl.obolibrary.org/obo/UBERON_0001514
+#VHMBloodVasculature,VH_M_left_anterior_descending_artery,Anterior descending branch of left pulmonary artery,FMA:8636,http://purl.org/sig/ont/fma/fma8636
+#VHMBloodVasculature,VH_M_right_marginal_artery,marginal branch of right coronary artery,FMA:3818,http://purl.org/sig/ont/fma/fma3818
+#VHMBloodVasculature,VH_M_right_posterior_descending_artery,Posterior interventricular branch of right coronary artery,FMA:3840,http://purl.org/sig/ont/fma/fma3840
+#VHMBloodVasculature,VH_M_diagonal_branch_of_anterior_descending_branch_of_left_coronary_artery,Diagonal branch of anterior descending branch of left coronary artery,FMA:3860,http://purl.org/sig/ont/fma/fma3860
+#VHMBloodVasculature,VH_M_left_coronary_artery,left coronary artery,UBERON:0001626,http://purl.obolibrary.org/obo/UBERON_0001626
+#VHMBloodVasculature,VH_M_right_coronary_artery,right coronary artery,UBERON:0001625,http://purl.obolibrary.org/obo/UBERON_0001625
+#VHMBloodVasculature,VH_M_diagonal_branch_of_left_anterior_descending_artery,Diagonal branch of anterior descending branch of left coronary artery,FMA:3860,http://purl.org/sig/ont/fma/fma3860
+#VHMBloodVasculature,VH_M_left_marginal_branch,Left marginal artery,FMA:3902,http://purl.org/sig/ont/fma/fma3902
+#VHMBloodVasculature,VH_M_pulmonary_artery,pulmonary artery,UBERON:0002012,http://purl.obolibrary.org/obo/UBERON_0002012
+#VHMBloodVasculature,VH_M_pulmonary_artery_L,left pulmonary artery,UBERON:0001652,http://purl.obolibrary.org/obo/UBERON_0001652
+#VHMBloodVasculature,VH_M_pulmonary_artery_R,right pulmonary artery,UBERON:0001651,http://purl.obolibrary.org/obo/UBERON_0001651
+#VHMBloodVasculature,VH_M_pulmonary_trunk,pulmonary trunk,UBERON:0002333,http://purl.obolibrary.org/obo/UBERON_0002333
+#VHMBloodVasculature,VH_M_cardiac_vein,cardiac vein,UBERON:0004148,http://purl.obolibrary.org/obo/UBERON_0004148
+#VHMBloodVasculature,VH_M_great_cardiac_vein,great vein of heart,UBERON:0006958,http://purl.obolibrary.org/obo/UBERON_0006958
+#VHMBloodVasculature,VH_M_middle_cardiac_vein,middle cardiac vein,UBERON:0009687,http://purl.obolibrary.org/obo/UBERON_0009687
+#VHMBloodVasculature,VH_M_oblique_vein_of_left_atrium,Oblique vein of left atrium,FMA:4715,http://purl.org/sig/ont/fma/fma4715
+#VHMBloodVasculature,VH_M_anterior_cardiac_vein,Anterior cardiac vein,FMA:76767,http://purl.org/sig/ont/fma/fma76767
+#VHMBloodVasculature,VH_M_coronary_sinus,coronary sinus,UBERON:0005438,http://purl.obolibrary.org/obo/UBERON_0005438
+#VHMBloodVasculature,VH_M_posterior_vein_of_left_ventricle,Posterior vein of left ventricle,FMA:4712,http://purl.org/sig/ont/fma/fma4712
+#VHMBloodVasculature,VH_M_small_cardiac_vein,small cardiac vein,UBERON:0035374,http://purl.obolibrary.org/obo/UBERON_0035374
+#VHMBloodVasculature,VH_M_pulmonary_vein,pulmonary vein,UBERON:0002016,http://purl.obolibrary.org/obo/UBERON_0002016
+#VHMBloodVasculature,VH_M_pulmonary_vein_R_inf,right inferior pulmonary vein,FMA:49911,http://purl.org/sig/ont/fma/fma49911
+#VHMBloodVasculature,VH_M_pulmonary_vein_R_sup,right superior pulmonary vein,FMA:49914,http://purl.org/sig/ont/fma/fma49914
+#VHMBloodVasculature,VH_M_pulmonary_vein_L_inf,left inferior pulmonary vein,FMA:49913,http://purl.org/sig/ont/fma/fma49913
+#VHMBloodVasculature,VH_M_pulmonary_vein_L_sup,left superior pulmonary vein,FMA:49916,http://purl.org/sig/ont/fma/fma49916
+#VHMBloodVasculature,VH_M_brachiocephalic_vein,brachiocephalic vein,FMA:4723,http://purl.org/sig/ont/fma/fma4723
+#VHMBloodVasculature,VH_M_brachiocephalic_vein_L,Left brachiocephalic vein,FMA:4761,http://purl.org/sig/ont/fma/fma4761
+#VHMBloodVasculature,VH_M_brachiocephalic_vein_R,Right brachiocephalic vein,FMA:4751,http://purl.org/sig/ont/fma/fma4751
+#VHMBloodVasculature,VH_M_vena_cava,vena cava,UBERON:0004087,http://purl.obolibrary.org/obo/UBERON_0004087
+#VHMBloodVasculature,VH_M_superior_vena_cava,superior vena cava,FMA:4720,http://purl.org/sig/ont/fma/fma4720
+#VHMBloodVasculature,VH_M_inferior_vena_cava,inferior vena cava,FMA:10951,http://purl.org/sig/ont/fma/fma10951
+#VHMBloodVasculature,VH_M_inferior_vena_cava_b,inferior vena cava,FMA:10951,http://purl.org/sig/ont/fma/fma10951
+#VHMBloodVasculature,VH_M_inferior_vena_cava_a,inferior vena cava,FMA:10951,http://purl.org/sig/ont/fma/fma10951
+#VHMBloodVasculature,VH_M_splenic_vein,splenic vein,UBERON:0003713,http://purl.obolibrary.org/obo/UBERON_0003713
+#VHMBloodVasculature,VH_M_splenic_artery,splenic artery,UBERON:0001194,http://purl.obolibrary.org/obo/UBERON_0001194
+#VHMBloodVasculature,VH_M_cystic_vein,cystic vein,UBERON:0035392,http://purl.obolibrary.org/obo/UBERON_0035392
+#VHMBloodVasculature,VH_M_cystic_artery,cystic artery,UBERON:0039222,http://purl.obolibrary.org/obo/UBERON_0039222
+#VHMBloodVasculature,VH_M_celiac_trunk,Celiac trunk,FMA:14812,http://purl.org/sig/ont/fma/fma14812
+#VHMBloodVasculature,VH_M_left_hepatic_artery,Left hepatic artery,FMA:14779,http://purl.org/sig/ont/fma/fma14779
+#VHMBloodVasculature,VH_M_proper_hepatic_artery,Hepatic artery proper,FMA:14772,http://purl.org/sig/ont/fma/fma14772
+#VHMBloodVasculature,VH_M_right_hepatic_artery,Right hepatic artery,FMA:14778,http://purl.org/sig/ont/fma/fma14778
+#VHMBloodVasculature,VH_M_common_hepatic_artery,common hepatic artery,UBERON:0005436,http://purl.obolibrary.org/obo/UBERON_0005436
+#VHMBloodVasculature,VH_M_right_hepatic_vein,Right hepatic vein,FMA:14338,http://purl.org/sig/ont/fma/fma14338
+#VHMBloodVasculature,VH_M_left_hepatic_vein,Left hepatic vein,FMA:14339,http://purl.org/sig/ont/fma/fma14339
+#VHMBloodVasculature,VH_M_middle_hepatic_vein,Middle hepatic vein,FMA:14340,http://purl.org/sig/ont/fma/fma14340
+#VHMBloodVasculature,VH_M_hepatic_portal_vein,hepatic portal vein,UBERON:0001639,http://purl.obolibrary.org/obo/UBERON_0001639

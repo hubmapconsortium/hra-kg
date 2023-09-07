@@ -1,0 +1,20 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHMProstate,VH_M_male_reproductive_system,male reproductive system,UBERON:0000079,http://purl.obolibrary.org/obo/UBERON_0000079
+#VHMProstate,VH_M_male_genital_duct,male genital duct,UBERON:0010140,http://purl.obolibrary.org/obo/UBERON_0006947
+#VHMProstate,VH_M_seminal_vesicle,Right deferent duct,UBERON:0000998,http://purl.obolibrary.org/obo/UBERON_0000998
+#VHMProstate,VH_M_ejaculatory_duct,ejaculatory duct,UBERON:0000999,http://purl.obolibrary.org/obo/UBERON_0000999
+#VHMProstate,VH_M_prostate_gland,prostate gland,UBERON:0002367,http://purl.obolibrary.org/obo/UBERON_0002367
+#VHMProstate,VH_M_prostatic_utricle,prostatic utricle,UBERON:0011199,http://purl.obolibrary.org/obo/UBERON_0011199
+#VHMProstate,VH_M_seminal_colliculus,Verumontanum,FMA:19719,http://purl.org/sig/ont/fma/fma19719
+#VHMProstate,VH_M_prostate_duct_R,prostate duct,UBERON:0002485,http://purl.obolibrary.org/obo/UBERON_0002485
+#VHMProstate,VH_M_apex_of_prostate,apex of prostate,UBERON:0035441,http://purl.obolibrary.org/obo/UBERON_0035441
+#VHMProstate,VH_M_base_of_prostate,base of prostate,UBERON:0035331,http://purl.obolibrary.org/obo/UBERON_0035331
+#VHMProstate,VH_M_peripheral_zone_of_prostate_R,peripheral zone of prostate,UBERON:8410026,http://purl.obolibrary.org/obo/UBERON_8410026
+#VHMProstate,VH_M_peripheral_zone_of_prostate_L,peripheral zone of prostate,UBERON:8410026,http://purl.obolibrary.org/obo/UBERON_8410026
+#VHMProstate,VH_M_transition_zone__of_prostate_L,transition zone of prostate,UBERON:8410025,http://purl.obolibrary.org/obo/UBERON_8410025
+#VHMProstate,VH_M_transition_zone_of_prostate_R,transition zone of prostate,UBERON:8410025,http://purl.obolibrary.org/obo/UBERON_8410025
+#VHMProstate,VH_M_central_zone_of_prostate_R,central zone of prostate,UBERON:8410027,http://purl.obolibrary.org/obo/UBERON_8410027
+#VHMProstate,VH_M_central_zone_of_prostate_L,central zone of prostate,UBERON:8410027,http://purl.obolibrary.org/obo/UBERON_8410027
+#VHMProstate,VH_M_anterior_fibromuscular_stroma_L,Anterior fibromuscular stroma of prostate,FMA:74238,http://purl.org/sig/ont/fma/fma74238
+#VHMProstate,VH_M_anterior_fibromuscular_stroma_R,Anterior fibromuscular stroma of prostate,FMA:74238,http://purl.org/sig/ont/fma/fma74238
+#VHMProstate,VH_M_prostatic_urethra,prostatic urethra,UBERON:0001335,http://purl.obolibrary.org/obo/UBERON_0001335

@@ -1,0 +1,32 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHMSpinalCord,VH_M_spinal_cord,spinal cord,UBERON:0002240,http://purl.obolibrary.org/obo/UBERON_0002240
+#VHMSpinalCord,VH_M_C1_segment_of_cervical_spinal_cord,C1 segment of cervical spinal cord,UBERON:0006469,http://purl.obolibrary.org/obo/UBERON_0006469
+#VHMSpinalCord,VH_M_C2_segment_of_cervical_spinal_cord,C2 segment of cervical spinal cord,UBERON:0006489,http://purl.obolibrary.org/obo/UBERON_0006489
+#VHMSpinalCord,VH_M_C3_segment_of_cervical_spinal_cord,C3 segment of cervical spinal cord,UBERON:0006488,http://purl.obolibrary.org/obo/UBERON_0006488
+#VHMSpinalCord,VH_M_C4_segment_of_cervical_spinal_cord,C4 segment of cervical spinal cord,UBERON:0006490,http://purl.obolibrary.org/obo/UBERON_0006490
+#VHMSpinalCord,VH_M_C5_segment_of_cervical_spinal_cord,C5 segment of cervical spinal cord,UBERON:0006491,http://purl.obolibrary.org/obo/UBERON_0006491
+#VHMSpinalCord,VH_M_C6_segment_of_cervical_spinal_cord,C6 segment of cervical spinal cord,UBERON:0006492,http://purl.obolibrary.org/obo/UBERON_0006492
+#VHMSpinalCord,VH_M_C7_segment_of_cervical_spinal_cord,C7 segment of cervical spinal cord,UBERON:0006493,http://purl.obolibrary.org/obo/UBERON_0006493
+#VHMSpinalCord,VH_M_C8_segment_of_cervical_spinal_cord,C8 segment of cervical spinal cord,UBERON:0006470,http://purl.obolibrary.org/obo/UBERON_0006470
+#VHMSpinalCord,VH_M_first_thoracic_spinal_cord_segment,first thoracic spinal cord segment,UBERON:0006457,http://purl.obolibrary.org/obo/UBERON_0006457
+#VHMSpinalCord,VH_M_second_thoracic_spinal_cord_segment,second thoracic spinal cord segment,UBERON:0006458,http://purl.obolibrary.org/obo/UBERON_0006458
+#VHMSpinalCord,VH_M_third_thoracic_spinal_cord_segment,third thoracic spinal cord segment,UBERON:0006459,http://purl.obolibrary.org/obo/UBERON_0006459
+#VHMSpinalCord,VH_M_fourth_thoracic_spinal_cord_segment,fourth thoracic spinal cord segment,UBERON:0006452,http://purl.obolibrary.org/obo/UBERON_0006452
+#VHMSpinalCord,VH_M_fifth_thoracic_spinal_cord_segment,fifth thoracic spinal cord segment,UBERON:0006453,http://purl.obolibrary.org/obo/UBERON_0006453
+#VHMSpinalCord,VH_M_sixth_thoracic_spinal_cord_segment,sixth thoracic spinal cord segment,UBERON:0006454,http://purl.obolibrary.org/obo/UBERON_0006454
+#VHMSpinalCord,VH_M_seventh_thoracic_spinal_cord_segment,seventh thoracic spinal cord segment,UBERON:0006455,http://purl.obolibrary.org/obo/UBERON_0006455
+#VHMSpinalCord,VH_M_eighth_thoracic_spinal_cord_segment,eighth thoracic spinal cord segment,UBERON:0006456,http://purl.obolibrary.org/obo/UBERON_0006456
+#VHMSpinalCord,VH_M_ninth_thoracic_spinal_cord_segment,ninth thoracic spinal cord segment,UBERON:0006465,http://purl.obolibrary.org/obo/UBERON_0006465
+#VHMSpinalCord,VH_M_tenth_thoracic_spinal_cord_segment,tenth thoracic spinal cord segment,UBERON:0006466,http://purl.obolibrary.org/obo/UBERON_0006466
+#VHMSpinalCord,VH_M_eleventh_thoracic_spinal_cord_segment,eleventh thoracic spinal cord segment,UBERON:0006467,http://purl.obolibrary.org/obo/UBERON_0006467
+#VHMSpinalCord,VH_M_twelfth_thoracic_spinal_cord_segment,twelfth thoracic spinal cord segment,UBERON:0006468,http://purl.obolibrary.org/obo/UBERON_0006468
+#VHMSpinalCord,VH_M_first_lumbar_spinal_cord_segment,first lumbar spinal cord segment,UBERON:0006448,http://purl.obolibrary.org/obo/UBERON_0006448
+#VHMSpinalCord,VH_M_second_lumbar_spinal_cord_segment,second lumbar spinal cord segment,UBERON:0006450,http://purl.obolibrary.org/obo/UBERON_0006450
+#VHMSpinalCord,VH_M_third_lumbar_spinal_cord_segment,third lumbar spinal cord segment,UBERON:0006449,http://purl.obolibrary.org/obo/UBERON_0006449
+#VHMSpinalCord,VH_M_fourth_lumbar_spinal_cord_segment,fourth lumbar spinal cord segment,UBERON:0006451,http://purl.obolibrary.org/obo/UBERON_0006451
+#VHMSpinalCord,VH_M_fifth_lumbar_spinal_cord_segment,fifth lumbar spinal cord segment,UBERON:0006447,http://purl.obolibrary.org/obo/UBERON_0006447
+#VHMSpinalCord,VH_M_first_sacral_spinal_cord_segment,first sacral spinal cord segment,UBERON:0006460,http://purl.obolibrary.org/obo/UBERON_0006460
+#VHMSpinalCord,VH_M_second_sacral_spinal_cord_segment,second sacral spinal cord segment,UBERON:0006461,http://purl.obolibrary.org/obo/UBERON_0006461
+#VHMSpinalCord,VH_M_third_sacral_spinal_cord_segment,third sacral spinal cord segment,UBERON:0006462,http://purl.obolibrary.org/obo/UBERON_0006462
+#VHMSpinalCord,VH_M_fourth_sacral_spinal_cord_segment,fourth sacral spinal cord segment,UBERON:0006463,http://purl.obolibrary.org/obo/UBERON_0006463
+#VHMSpinalCord,VH_M_fifth_sacral_spinal_cord_segment,fifth sacral spinal cord segment,UBERON:0006464,http://purl.obolibrary.org/obo/UBERON_0006464

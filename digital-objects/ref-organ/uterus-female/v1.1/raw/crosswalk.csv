@@ -1,0 +1,11 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHFUterus,VH_F_uterus,uterus,UBERON:0000995,http://purl.obolibrary.org/obo/UBERON_0000995
+#VHFUterus,VH_F_abdominal_ostium_of_uterine_tube,Abdominal ostium of uterine tube,FMA:77049,http://purl.org/sig/ont/fma/fma77049
+#VHFUterus,VH_F_body_of_uterus,body of uterus,UBERON:0009853,http://purl.obolibrary.org/obo/UBERON_0009853
+#VHFUterus,VH_F_fundus_of_uterus,Fundus of uterus,FMA:17561,http://purl.org/sig/ont/fma/fma17561
+#VHFUterus,VH_F_lower_uterine_segment,Lower uterine segment,FMA:17752,http://purl.org/sig/ont/fma/fma17752
+#VHFUterus,VH_F_posterior_wall_of_uterus,Posterior wall of uterus,FMA:224878,http://purl.org/sig/ont/fma/fma224878
+#VHFUterus,VH_F_anterior_wall_of_uterus,Anterior wall of uterus,FMA:224876,http://purl.org/sig/ont/fma/fma224876
+#VHFUterus,VH_F_cervix,uterine cervix,UBERON:0000002,http://purl.obolibrary.org/obo/UBERON_0000002
+#VHFUterus,VH_F_internal_cervical_os,internal cervical os,UBERON:0013759,http://purl.obolibrary.org/obo/UBERON_0013759
+#VHFUterus,VH_F_external_cervical_os,external cervical os,UBERON:0013760,http://purl.obolibrary.org/obo/UBERON_0013760

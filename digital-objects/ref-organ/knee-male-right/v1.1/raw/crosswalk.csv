@@ -1,0 +1,17 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHMRightKnee,VH_M_knee_R,Right knee,FMA:24977,http://purl.org/sig/ont/fma/fma24977
+#VHMRightKnee,VH_M_knee_joint_R,Right knee joint,FMA:35176,http://purl.org/sig/ont/fma/fma35176
+#VHMRightKnee,VH_M_tibia_R,Right tibia,FMA:24477,http://purl.org/sig/ont/fma/fma24477
+#VHMRightKnee,VH_M_fibula_R,Right fibula,FMA:24480,http://purl.org/sig/ont/fma/fma24480
+#VHMRightKnee,VH_M_patella_R,Right patella,FMA:24486,http://purl.org/sig/ont/fma/fma24486
+#VHMRightKnee,VH_M_femur_R,Right femur,FMA:24474,http://purl.org/sig/ont/fma/fma24474
+#VHMRightKnee,VH_M_articular_cartilage_of_knee_R,Articular cartilage of distal epiphysis of right femur,FMA:33189,http://purl.org/sig/ont/fma/fma33189
+#VHMRightKnee,VH_M_intercondylar_fossa_R,Intercondylar fossa of right femur,FMA:43749,http://purl.org/sig/ont/fma/fma43749
+#VHMRightKnee,VH_M_lateral_condyle_of_femur_frontal_R,Lateral condyle of right femur,FMA:32860,http://purl.org/sig/ont/fma/fma32860
+#VHMRightKnee,VH_M_lateral_condyle_of_femur_inf_R,Lateral condyle of right femur,FMA:32860,http://purl.org/sig/ont/fma/fma32860
+#VHMRightKnee,VH_M_lateral_condyle_of_femur_sup_R,Lateral condyle of right femur,FMA:32860,http://purl.org/sig/ont/fma/fma32860
+#VHMRightKnee,VH_M_distal_most_point_of_medial_condyle_of_femur_R,distal-most point of medial condyle of femur,UBERON:7500033,http://purl.obolibrary.org/obo/UBERON_7500033
+#VHMRightKnee,VH_M_medial_condyle_of_right_femur_inf,Medial condyle of right femur,FMA:32862,http://purl.org/sig/ont/fma/fma32862
+#VHMRightKnee,VH_M_medial_condyle_of_right_femur_sup,Medial condyle of right femur,FMA:32862,http://purl.org/sig/ont/fma/fma32862
+#VHMRightKnee,VH_M_patellar_surface_R,Patellar surface of right femur,FMA:43746,http://purl.org/sig/ont/fma/fma43746
+#VHMRightKnee,VH_M_meniscus_R,Articular disk of knee joint,FMA:64019,http://purl.org/sig/ont/fma/fma64019

@@ -1,0 +1,12 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHFSmallIntestine,VH_F_small_intestine,small intestine,UBERON:0002108,http://purl.obolibrary.org/obo/UBERON_0002108
+#VHFSmallIntestine,VH_F_duodenum,duodenum,UBERON:0002114,http://purl.obolibrary.org/obo/UBERON_0002114
+#VHFSmallIntestine,VH_F_duodenum_superior,superior part of duodenum,FMA:7206,http://purl.org/sig/ont/fma/fma14926
+#VHFSmallIntestine,VH_F_duodenal_ampulla,duodenal ampulla,UBERON:0013644,http://purl.obolibrary.org/obo/UBERON_0013644
+#VHFSmallIntestine,VH_F_duodenum_descending,descending part of duodenum,FMA:14928,http://purl.org/sig/ont/fma/fma14928
+#VHFSmallIntestine,VH_F_sphincter_of_heptopancreatic_ampulla,Sphincter of hepatopancreatic ampulla,FMA:15077,http://purl.org/sig/ont/fma/fma15077
+#VHFSmallIntestine,VH_F_duodenum_ascending,ascending part of duodenum,FMA:14930,http://purl.org/sig/ont/fma/fma14930
+#VHFSmallIntestine,VH_F_duodenum_horizontal,horizontal part of duodenum,FMA:14929,http://purl.org/sig/ont/fma/fma14929
+#VHFSmallIntestine,VH_F_jejenum,jejunum,UBERON:0002115,http://purl.obolibrary.org/obo/UBERON_0002115
+#VHFSmallIntestine,VH_F_ileum,ileum,UBERON:0002116,http://purl.obolibrary.org/obo/UBERON_0002116
+#VHFSmallIntestine,VH_F_ileum_terminal,distal part of ileum,FMA:14966,http://purl.org/sig/ont/fma/fma14966

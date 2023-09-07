@@ -1,0 +1,8 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHFPlacenta,VH_F_placenta,placenta,UBERON:0001987,http://purl.obolibrary.org/obo/UBERON_0001987
+#VHFPlacenta,VH_F_chorionic_plate,chorionic plate,UBERON:0004027,http://purl.obolibrary.org/obo/UBERON_0004027
+#VHFPlacenta,VH_F_amnion,amnion,UBERON:0000305,http://purl.obolibrary.org/obo/UBERON_0000305
+#VHFPlacenta,VH_F_umbilical_cord,umbilical cord,UBERON:0002331,http://purl.obolibrary.org/obo/UBERON_0002331
+#VHFPlacenta,VH_F_umbilical_artery_1,umbilical artery,UBERON:0001310,http://purl.obolibrary.org/obo/UBERON_0001310
+#VHFPlacenta,VH_F_umbilical_artery_2,umbilical artery,UBERON:0001310,http://purl.obolibrary.org/obo/UBERON_0001310
+#VHFPlacenta,VH_F_umbilical_vein,umbilical vein,UBERON:0002066,http://purl.obolibrary.org/obo/UBERON_0002066

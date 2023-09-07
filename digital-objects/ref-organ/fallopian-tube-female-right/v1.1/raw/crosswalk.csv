@@ -1,0 +1,6 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHFRightFallopianTube,VH_F_fallopian_tube_R,right uterine tube,UBERON:0001302,http://purl.obolibrary.org/obo/UBERON_0001302
+#VHFRightFallopianTube,VH_F_ampulla_of_uterine_tube_R,Ampulla of right uterine tube,FMA:18491,http://purl.org/sig/ont/fma/fma18491
+#VHFRightFallopianTube,VH_F_isthmus_of_fallopian_tube_R,Isthmus of right uterine tube,FMA:18493,http://purl.org/sig/ont/fma/fma18493
+#VHFRightFallopianTube,VH_F_fibria_of_uterine_tube_R,Fimbria of right uterine tube,FMA:18497,http://purl.org/sig/ont/fma/fma18497
+#VHFRightFallopianTube,VH_F_uterine_tube_infundibulum_R,Infundibulum of right uterine tube,FMA:18489,http://purl.org/sig/ont/fma/fma18489

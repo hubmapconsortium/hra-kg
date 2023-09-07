@@ -1,0 +1,9 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHMUrinaryBladder,VH_M_urinary_bladder,urinary bladder,UBERON:0001255,http://purl.obolibrary.org/obo/UBERON_0001255
+#VHMUrinaryBladder,VH_M_urinary_bladder_neck_smooth_muscle,urinary bladder neck smooth muscle,UBERON:0004230,http://purl.obolibrary.org/obo/UBERON_0004230
+#VHMUrinaryBladder,VH_M_fundus_of_urinary_bladder_dome,fundus of urinary bladder,UBERON:0006082,http://purl.obolibrary.org/obo/UBERON_0006082
+#VHMUrinaryBladder,VH_M_fundus_of_urinary_bladder,fundus of urinary bladder,UBERON:0006082,http://purl.obolibrary.org/obo/UBERON_0006082
+#VHMUrinaryBladder,VH_M_ureteral_orifice_R,Right ureteral orifice,FMA:15939,http://purl.org/sig/ont/fma/fma15939
+#VHMUrinaryBladder,VH_M_ureteral_orifice_L,Left ureteral orifice,FMA:15940,http://purl.org/sig/ont/fma/fma15940
+#VHMUrinaryBladder,VH_M_fundus_of_urinary_bladder_base1,fundus of urinary bladder,UBERON:0006082,http://purl.obolibrary.org/obo/UBERON_0006082
+#VHMUrinaryBladder,VH_M_trigone_of_urinary_bladder,trigone of urinary bladder,UBERON:0001257,http://purl.obolibrary.org/obo/UBERON_0001257

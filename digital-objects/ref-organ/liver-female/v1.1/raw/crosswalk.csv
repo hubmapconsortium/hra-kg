@@ -1,0 +1,27 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHFLiverDucts,VH_F_right_hepatic_duct,right hepatic duct,UBERON:0001176,http://purl.obolibrary.org/obo/UBERON_0001176
+#VHFLiverDucts,VH_F_left_hepatic_duct,left hepatic duct,UBERON:0001177,http://purl.obolibrary.org/obo/UBERON_0001177
+#VHFLiverDucts,VH_F_common_hepatic_duct,common hepatic duct,UBERON:0001175,http://purl.obolibrary.org/obo/UBERON_0001175
+#VHFLiver,VH_F_liver,liver,UBERON:0002107,http://purl.obolibrary.org/obo/UBERON_0002107
+#VHFLiver,VH_F_gastric_impression_of_liver,gastric impression of liver,FMA:14487,http://purl.org/sig/ont/fma/fma14487
+#VHFLiver,VH_F_suprarenal_impression_of_liver,Suprarenal impression of liver,FMA:14489,http://purl.org/sig/ont/fma/fma14489
+#VHFLiver,VH_F_renal_impression_of_liver,renal impression of liver,FMA:14488,http://purl.org/sig/ont/fma/fma14488
+#VHFLiver,VH_F_duodenal_impression_of_liver,duodenal impression of liver,FMA:14485,http://purl.org/sig/ont/fma/fma14485
+#VHFLiver,VH_F_esophageal_impression_of_liver,esophageal impression of liver,FMA:14486,http://purl.org/sig/ont/fma/fma14486
+#VHFLiver,VH_F_porta_hepatis,porta hepatis,FMA:15758,http://purl.org/sig/ont/fma/fma15758
+#VHFLiver,VH_F_colic_impression_of_liver,colic impression of liver,FMA:14484,http://purl.org/sig/ont/fma/fma14484
+#VHFLiver,VH_F_capsule_of_the_liver,capsule of the liver,UBERON:0016479,http://purl.obolibrary.org/obo/UBERON_0016479
+#VHFLiver,VH_F_bare_area_of_liver,bare area of liver,UBERON:0001149,http://purl.obolibrary.org/obo/UBERON_0001149
+#VHFLiver,VH_F_diaphragmatic_surface_of_liver,diaphragmatic surface of liver,FMA:15729,http://purl.org/sig/ont/fma/fma15729
+#VHFLiver,VH_F_left_lobe_of_liver,left lobe of liver,UBERON:0001115,http://purl.obolibrary.org/obo/UBERON_0001115
+#VHFLiver,VH_F_liver_left_lateral_lobe,liver left lateral lobe,UBERON:0006727,http://purl.obolibrary.org/obo/UBERON_0006727
+#VHFLiver,VH_F_liver_left_medial_lobe,liver left medial lobe,UBERON:0006728,http://purl.obolibrary.org/obo/UBERON_0006728
+#VHFLiver,VH_F_quadrate_lobe,quadrate lobe of liver,UBERON:0001116,http://purl.obolibrary.org/obo/UBERON_0001116
+#VHFLiver,VH_F_right_lobe_of_liver,right lobe of liver,UBERON:0001114,http://purl.obolibrary.org/obo/UBERON_0001114
+#VHFLiver,VH_F_caudate_lobe,caudate lobe of liver,UBERON:0001117,http://purl.obolibrary.org/obo/UBERON_0001117
+#VHFLiver,VH_F_coronary_ligament_of_liver,coronary ligament of liver,UBERON:0013138,http://purl.obolibrary.org/obo/UBERON_0013138
+#VHFLiver,VH_F_falciform_ligament,falciform ligament,UBERON:0001247,http://purl.obolibrary.org/obo/UBERON_0001247
+#VHFLiver,VH_F_triangular_ligament_of_liver,triangular ligament of liver,UBERON:0035444,http://purl.obolibrary.org/obo/UBERON_0035444
+#VHFLiver,VH_F_ligamentum_venosum,ligamentum venosum,UBERON:0006587,http://purl.obolibrary.org/obo/UBERON_0006587
+#VHFLiver,VH_F_round_ligament_of_liver,round ligament of liver,UBERON:0006588,http://purl.obolibrary.org/obo/UBERON_0006588
+#VHFLiver,VH_F_hepataduodenal_ligament,hepatoduodenal ligament,UBERON:0012472,http://purl.obolibrary.org/obo/UBERON_0012472

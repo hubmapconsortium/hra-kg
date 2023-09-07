@@ -1,0 +1,25 @@
+anatomical_structure_of,node_name,label,OntologyID,representation_of
+#VHFLeftEye,VH_F_eye_L,left eye,UBERON:0004548,http://purl.obolibrary.org/obo/UBERON_0004548
+#VHFLeftEye,VH_F_retina_L,Left retina,FMA:58303,http://purl.org/sig/ont/fma/fma58303
+#VHFLeftEye,VH_F_fovea_L,Left fovea centralis,FMA:58663,http://purl.org/sig/ont/fma/fma58663
+#VHFLeftEye,VH_F_macula_lutea_L,Left macula lutea,FMA:58639,http://purl.org/sig/ont/fma/fma58639
+#VHFLeftEye,VH_F_optic_disc_L,Left optic disc,FMA:58636,http://purl.org/sig/ont/fma/fma58636
+#VHFLeftEye,VH_F_palpebral_conjunctiva_of_left_upper_eyelid,Palpebral conjunctiva of left upper eyelid,FMA:223078,http://purl.org/sig/ont/fma/fma223078
+#VHFLeftEye,VH_F_palpebral_conjunctiva_of_left_lower_eyelid,Palpebral conjunctiva of left lower eyelid,FMA:223075,http://purl.org/sig/ont/fma/fma223075
+#VHFLeftEye,VH_F_vitreous_humor_L,Humor of left vitreous body,FMA:261238,http://purl.org/sig/ont/fma/fma261238
+#VHFLeftEye,VH_F_cornea_L,Left cornea,FMA:58240,http://purl.org/sig/ont/fma/fma58240
+#VHFLeftEye,VH_F_bulbar_conjunctiva_L,Left bulbar conjunctiva,FMA:59029,http://purl.org/sig/ont/fma/fma59029
+#VHFLeftEye,VH_F_iris_L,Left iris,FMA:58237,http://purl.org/sig/ont/fma/fma58237
+#VHFLeftEye,VH_F_trabecular_meshwork_L,eye trabecular meshwork,UBERON:0005969,http://purl.obolibrary.org/obo/UBERON_0005969
+#VHFLeftEye,VH_F_ciliary_body_L,Left ciliary body,FMA:58297,http://purl.org/sig/ont/fma/fma58297
+#VHFLeftEye,VH_F_ciliary_muscle_L,Left ciliary muscle,FMA:49153,http://purl.org/sig/ont/fma/fma49153
+#VHFLeftEye,VH_F_aqueous_humor_L,Aqueous humor of left eyeball,FMA:58821,http://purl.org/sig/ont/fma/fma58821
+#VHFLeftEye,VH_F_schlemms_canal_L,Left scleral venous sinus,FMA:51875,http://purl.org/sig/ont/fma/fma51875
+#VHFLeftEye,VH_F_lens_L,Left lens,FMA:58243,http://purl.org/sig/ont/fma/fma58243
+#VHFLeftEye,VH_F_corneo_scleral_junction_L,Left corneoscleral junction,FMA:58344,http://purl.org/sig/ont/fma/fma58344
+#VHFLeftEye,VH_F_ora_serrata_of_retina_L,Left ora serrata,FMA:58602,http://purl.org/sig/ont/fma/fma58602
+#VHFLeftEye,VH_F_suspensory_ligament_of_lens_L,Suspensory ligament of left lens,FMA:58840,http://purl.org/sig/ont/fma/fma58840
+#VHFLeftEye,VH_F_ciliary_processes_L,ciliary processes,UBERON:0010427,http://purl.obolibrary.org/obo/UBERON_0010427
+#VHFLeftEye,VH_F_pupil_L,left pupil,UBERON:0010223,http://purl.obolibrary.org/obo/UBERON_0010223
+#VHFLeftEye,VH_F_optic_choroid_L,Left choroid,FMA:58300,http://purl.org/sig/ont/fma/fma58300
+#VHFLeftEye,VH_F_sclera_L,Left sclera,FMA:58272,http://purl.org/sig/ont/fma/fma58272
