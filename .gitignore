@@ -1,6 +1,8 @@
 digital-objects/*/*/*/normalized
 digital-objects/*/*/*/enriched
 digital-objects/*/*/*/packaged
-dist/
+digital-objects/*/*united*/*/raw/*united.glb
+digital-objects/*/*united*/*/raw/*United.glb
 
+dist/
 scratch/

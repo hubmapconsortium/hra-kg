@@ -1,7 +1,0 @@
-anatomical_structure_of,node_name,label,OntologyID,representation_of
-#VHMPancreas,VH_M_pancreas,Pancreas,UBERON:0001264,http://purl.obolibrary.org/obo/UBERON_0001264
-#VHMPancreas,VH_M_body_of_pancreas,body of pancreas,UBERON:0001150,http://purl.obolibrary.org/obo/UBERON_0001150
-#VHMPancreas,VH_M_tail_of_pancreas,tail of pancreas,UBERON:0001151,http://purl.obolibrary.org/obo/UBERON_0001151
-#VHMPancreas,VH_M_head_of_pancreas,head of pancreas,UBERON:0001069,http://purl.obolibrary.org/obo/UBERON_0001069
-#VHMPancreas,VH_M_neck_of_pancreas,Neck of pancreas,FMA:14517,http://purl.org/sig/ont/fma/fma14517
-#VHMPancreas,VH_M_uncinate_process_of_the_pancreas,uncinate process of pancreas,UBERON:0010373,http://purl.obolibrary.org/obo/UBERON_0010373

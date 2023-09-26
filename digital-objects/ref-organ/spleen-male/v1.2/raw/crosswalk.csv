@@ -1,7 +1,0 @@
-anatomical_structure_of,node_name,label,OntologyID,representation_of
-#VHMSpleen,VH_M_spleen,spleen,UBERON:0002106,http://purl.obolibrary.org/obo/UBERON_0002106
-#VHMSpleen,VH_M_colic_surface_of_spleen,colic surface of spleen,FMA:15838,http://purl.org/sig/ont/fma/fma15838
-#VHMSpleen,VH_M_diaphragmatic_surface_of_spleen,diaphragmatic surface of spleen,FMA:15828,http://purl.org/sig/ont/fma/fma15828
-#VHMSpleen,VH_M_gastric_surface_of_spleen,gastric surface of spleen,FMA:15837,http://purl.org/sig/ont/fma/fma15837
-#VHMSpleen,VH_M_hilum_of_spleen,hilum of spleen,UBERON:0001248,http://purl.obolibrary.org/obo/UBERON_0001248
-#VHMSpleen,VH_M_renal_surface_of_spleen,renal surface of spleen,FMA:15839,http://purl.org/sig/ont/fma/fma15839

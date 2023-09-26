@@ -1,9 +1,0 @@
-anatomical_structure_of,node_name,label,OntologyID,representation_of
-#VHMLymphNode,Yao_lymph_node,mesenteric lymph node,UBERON:0002509,http://purl.obolibrary.org/obo/UBERON_0002509
-#VHMLymphNode,Yao_afferent_lymphatic_vessel,afferent lymphatic vessel,UBERON:0010396,http://purl.obolibrary.org/obo/UBERON_0010396
-#VHMLymphNode,Yao_capsule_of_lymph_node,capsule of lymph node,UBERON:0002194,http://purl.obolibrary.org/obo/UBERON_0002194
-#VHMLymphNode,Yao_follicles,lymph node follicle,UBERON:0010748,http://purl.obolibrary.org/obo/UBERON_0010748
-#VHMLymphNode,Yao_efferent_lymph_node,efferent lymphatic vessel,UBERON:0010397,http://purl.obolibrary.org/obo/UBERON_0010397
-#VHMLymphNode,Yao_medulla_of_lymph_node,medulla of lymph node,UBERON:0002007,http://purl.obolibrary.org/obo/UBERON_0002007
-#VHMLymphNode,Yao_paracortex,lymph node T cell domain,UBERON:0010417,http://purl.obolibrary.org/obo/UBERON_0010417
-#VHMLymphNode,Yao_blood_vasculature,Lymph vasculature,UBERON:0004536,http://purl.obolibrary.org/obo/UBERON_0004536

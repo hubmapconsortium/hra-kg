@@ -1,4 +1,0 @@
-anatomical_structure_of,node_name,label,OntologyID,representation_of
-#VHFThymusV1.1,VH_F_thymus,thymus,UBERON:0002370,http://purl.obolibrary.org/obo/UBERON_0002370
-#VHFThymusV1.1,VH_F_thymus_lobe_L,left thymus lobe,UBERON:0005457,http://purl.obolibrary.org/obo/UBERON_0005457
-#VHFThymusV1.1,VH_F_thymus_lobe_R,right thymus lobe,UBERON:0005469,http://purl.obolibrary.org/obo/UBERON_0005469

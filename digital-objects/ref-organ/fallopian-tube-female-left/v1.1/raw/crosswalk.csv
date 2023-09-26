@@ -1,6 +1,0 @@
-anatomical_structure_of,node_name,label,OntologyID,representation_of
-#VHFLeftFallopianTube,VH_F_fallopian_tube_L,left uterine tube,UBERON:0001303,http://purl.obolibrary.org/obo/UBERON_0001303
-#VHFLeftFallopianTube,VH_F_uterine_tube_infundibulum_L,Infundibulum of left uterine tube,FMA:18490,http://purl.org/sig/ont/fma/fma18490
-#VHFLeftFallopianTube,VH_F_fibria_of_uterine_tube_L,Fimbria of left uterine tube,FMA:18498,http://purl.org/sig/ont/fma/fma18498
-#VHFLeftFallopianTube,VH_F_isthmus_of_fallopian_tube_L,Isthmus of left uterine tube,FMA:18494,http://purl.org/sig/ont/fma/fma18494
-#VHFLeftFallopianTube,VH_F_ampulla_of_uterine_tube_L,Ampulla of left uterine tube,FMA:18492,http://purl.org/sig/ont/fma/fma18492
