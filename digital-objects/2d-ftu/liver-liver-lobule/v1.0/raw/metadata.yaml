@@ -1,0 +1,54 @@
+title: 2D Liver Lobule Functional Tissue Unit (FTU) for Liver
+description: >-
+  This functional tissue unit (FTU) illustration was created from anatomical
+  structures and cell types listed in the ASCT+B Table [Liver
+  v1.0](https://doi.org/10.48539/HBM476.BQCC.574). Multiple histology atlases,
+  especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A
+  Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Measurements
+  were taken from [(Hall et al. 2017)](https://doi.org/10.1038/srep40977).
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Anna Maria Masci
+    firstName: Anna
+    lastName: Masci
+    orcid: 0000-0003-1940-6740
+  - fullName: Tim Kendall
+    firstName: Tim
+    lastName: Kendall
+    orcid: 0000-0002-4174-2786
+  - fullName: Ayako Suzuki
+    firstName: Ayako
+    lastName: Suzuki
+    orcid: 0000-0003-1824-1067
+externalReviewers: []
+creation_date: '2022-05-06'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM692.KXMT.939
+doi: https://doi.org/10.48539/HBM692.KXMT.939
+citation: >-
+  Rachel Bajema 2022. *2D Liver Lobule Functional Tissue Unit (FTU) for Liver,
+  v1.0.*
+  [https://doi.org/10.48539/HBM692.KXMT.939](https://doi.org/10.48539/HBM692.KXMT.939).
+  Accessed on May 6, 2022.
+citationOverall: >-
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
+  Börner. 2022. [*HuBMAP CCF 2D Reference Object
+  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 6,
+  2022.
+datatable:
+  - liver_lobule_liver.svg

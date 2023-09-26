@@ -1,0 +1,11 @@
+node_name,OntologyID,label
+VH_F_uterus,UBERON:0000995,uterus
+VH_F_abdominal_ostium_of_uterine_tube,FMA:77049,Abdominal ostium of uterine tube
+VH_F_body_of_uterus,UBERON:0009853,body of uterus
+VH_F_fundus_of_uterus,FMA:17561,Fundus of uterus
+VH_F_lower_uterine_segment,FMA:17752,Lower uterine segment
+VH_F_posterior_wall_of_uterus,FMA:224878,Posterior wall of uterus
+VH_F_anterior_wall_of_uterus,FMA:224876,Anterior wall of uterus
+VH_F_cervix,UBERON:0000002,uterine cervix
+VH_F_internal_cervical_os,UBERON:0013759,internal cervical os
+VH_F_external_cervical_os,UBERON:0013760,external cervical os

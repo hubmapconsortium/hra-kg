@@ -1,0 +1,67 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood
+  Vasculature
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture anatomical human
+  body parts, the typology of cells, and biomarkers used to identify cell types.
+  The tables are authored and reviewed by an international team of experts. A
+  description of this blood vasculature ASCT+B table can be found in the
+  pre-print of "Anatomical structures, cell types, and biomarkers of the healthy
+  human blood vasculature" by [(Boppana et al.
+  2022)](http://biorxiv.org/content/early/2022/03/01/2022.02.28.482302.abstract).
+  The database and code used to generate the more simplified view of the blood
+  vasculature in these ASCT+B tables may be found
+  [here](https://github.com/hubmapconsortium/hra-vccf).
+creators:
+  - fullName: Griffin Weber
+    firstName: Griffin
+    lastName: Weber
+    orcid: 0000-0002-2597-881X
+  - fullName: Sujin Lee
+    firstName: Sujin
+    lastName: Lee
+    orcid: 0000-0002-6692-6880
+  - fullName: Rajeev Malhotra
+    firstName: Rajeev
+    lastName: Malhotra
+    orcid: 0000-0003-0120-4630
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Marc Halushka
+    firstName: Marc
+    lastName: Halushka
+    orcid: 0000-0002-7112-7389
+  - fullName: Avinash Boppana
+    firstName: Avinash
+    lastName: Boppana
+    orcid: 0000-0003-0834-8274
+  - fullName: Katherine S Gustilo
+    firstName: Katherine
+    lastName: Gustilo
+    orcid: 0000-0002-5574-4272
+externalReviewers: []
+creation_date: '2023-06-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM279.CXVW.525
+doi: https://doi.org/10.48539/HBM279.CXVW.525
+citation: >-
+  Griffin Weber; Sujin Lee; Rajeev Malhotra. HuBMAP ASCT+B Tables. Blood
+  Vasculature v1.4 https://doi.org/10.48539/HBM279.CXVW.525, Accessed on June
+  15, 2023.
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
+  2023.
+datatable:
+  - asct-b-vh-blood-vasculature.csv

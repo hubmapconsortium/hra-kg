@@ -1,0 +1,24 @@
+Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Author Name(s):,"Anna Martinez Casals, Frida Björklund",,,,,,,,,,,,,,,,,,,,,
+Author ORCID(s):,"0000-0003-2722-1965, 0000-0002-3343-349X",,,,,,,,,,,,,,,,,,,,,
+Reviewer(s):,"Katja Steiger, Christopher Werlein",,,,,,,,,,,,,,,,,,,,,
+Reviewer ORCID(s):,"0000-0002-7269-5433, 0000-0002-7694-4257",,,,,,,,,,,,,,,,,,,,,
+General Publication(s):,,,,,,,,,,,,,,,,,,,,,,
+Data DOI:,https://doi.org/10.48539/HBM395.LXKX.734,,,,,,,,,,,,,,,,,,,,,
+Date:,"May 6, 2022",,,,,,,,,,,,,,,,,,,,,
+Version number ,v1.0,,,,,,,,,,,,,,,,,,,,,
+uniprot_accession_number,HGNC_ID,target_name,antibody_name,host_organism,clonality,vendor,catalog_number,lot_number,recombinant,Dilution/Concentration,Conjugate,RRID,Application,Method,Tissue Preservation,Cycle Number,DOI for Protocol,Fluorescent reporter,ORCID ID of Author,Core Panel (4-6 markers),Essential 25-plex,Rationale
+P01275,HGNC:4191,Pro-Glucagon,Human GLP-1 Antibody,"Mouse,IgG2B",970307,R&D Systems,MAB12491,NA,No,1/100,Oligonucleotide,AB_2895089,IHC,CODEX,FFPE,1,https://doi.org/10.1038/s41596-021-00556-8,Atto550,"0000-0003-2722-1965, 0000-0002-3343-349X",Y,Y,Alpha cells in pancreatic islets
+P35222,HGNC:2514,Beta-catenin,Anti-CTNNB1 antibody,"Mouse,IgG2a",CL3689,Atlas Antibodies,AMab91209,NA,No,1/50,Oligonucleotide,AB_2665844,IHC,CODEX,FFPE,2,https://doi.org/10.1038/s41596-021-00556-8,Cy5,"0000-0003-2722-1965, 0000-0002-3343-349X",Y,Y,Cell adhesion marker needed for cell segmentation
+P01308,HGNC:6081,Insulin,C-Peptide Monoclonal Antibody (C-PEP-01),"Mouse, IgG1",C-PEP-01,Thermo Fisher,MA1-19159,NA,No,1/50,Oligonucleotide,AB_1073884,IHC,CODEX,FFPE,3,https://doi.org/10.1038/s41596-021-00556-8,Atto550,"0000-0003-2722-1965, 0000-0002-3343-349X",Y,Y,Beta cells in pancreatic islets
+P08727,HGNC:6436,Keratin-19,Cytokeratin 19 antibody [A53-B/A2],"Mouse, IgG2a",A53-B/A2,Abcam,ab7754,NA,No,1/100,Oligonucleotide,AB_306048,IHC,CODEX,FFPE,4,https://doi.org/10.1038/s41596-021-00556-8,Atto550,"0000-0003-2722-1965, 0000-0002-3343-349X",Y,Y,Ductal cells
+P16284,HGNC:8823,PECAM-1,Recombinant Anti-CD31 antibody,Rabbit IgG,EP3095,Abcam,ab134168,NA,Yes,1/50,Oligonucleotide,AB_2890012,IHC,CODEX,FFPE,5,https://doi.org/10.1038/s41596-021-00556-8,Alexa Fluor 488,"0000-0003-2722-1965, 0000-0002-3343-349X",Y,Y,Endothelial cells
+P61278,HGNC:11329,Somatostatin,Somatostatin Antibody (7G5),"Mouse, IgG1",7G5,Novus Biologicals,NBP2-37447,NA,No,1/150,Oligonucleotide,AB_2890053,IHC,CODEX,FFPE,5,https://doi.org/10.1038/s41596-021-00556-8,Atto550,"0000-0003-2722-1965, 0000-0002-3343-349X",N,Y,Delta cells in pancreatic islets
+P12830,HGNC:1748,E-cadherin,E-cadherin Monoclonal Antibody,"Mouse,  IgG1 Kappa",4A2C7,Thermo Fisher,33-4000,NA,No,1/100,Oligonucleotide,AB_2533118,IHC,CODEX,FFPE,6,https://doi.org/10.1038/s41596-021-00556-8,Atto550,"0000-0003-2722-1965, 0000-0002-3343-349X",N,Y,Cell adhesion marker needed for cell segmentation
+P01298,HGNC:9327,Pancreatic polypeptide,Anti-Pancreatic Polypeptide antibody,"Rabbit, IgG",Polyclonal,Abcam,ab113694,NA,No,1/100,Oligonucleotide,AB_11156699,IHC,CODEX,FFPE,7,https://doi.org/10.1038/s41596-021-00556-8,Atto550,"0000-0003-2722-1965, 0000-0002-3343-349X",N,Y,Gamma cells in pancreatic cells
+P10645,HGNC:1929,Chromogranin-A,Chromogranin A Antibody (LK2H10 + PHE5 + CGA/414),"Mouse, IgG1 Kappa",LK2H10 + PHE5 + CGA/414,Novus Biologicals,NBP2-34674,NA,No,1/200,Oligonucleotide,AB_2864388,IHC,CODEX,FFPE,8,https://doi.org/10.1038/s41596-021-00556-8,Cy5,"0000-0003-2722-1965, 0000-0002-3343-349X",N,Y,Neuroendocrine marker
+P62736,HGNC:130,Alpha actin 2,Anti-alpha smooth muscle Actin,"Mouse, IgG1",4A4,Abcam,ab119952,NA,No,1/50,Oligonucleotide,AB_10901360,IHC,CODEX,FFPE,9,https://doi.org/10.1038/s41596-021-00556-8,Alexa Fluor 488,"0000-0003-2722-1965, 0000-0002-3343-349X",N,Y,Smooth muscle cells
+P10997,HGNC:5329,Islet amyloid polypeptide,Anti-IAPP polyclonal antibody,"Rabbit, IgG",Polyclonal,Atlas Antibodies,HPA053194,NA,No,1/100,Oligonucleotide,AB_2682076,IHC,CODEX,FFPE,9,https://doi.org/10.1038/s41596-021-00556-8,Atto550,"0000-0003-2722-1965, 0000-0002-3343-349X",N,Y,Beta cells in pancreatic islets
+P08670,HGNC:12692,Vimentin,Purified anti-Vimentin Antibody,"Mouse, IgG2a
+                ",O91D3,Biolegend,677802,NA,No,1/100,Oligonucleotide,AB_2565982,IHC,CODEX,FFPE,10,https://doi.org/10.1038/s41596-021-00556-8,Cy5,"0000-0003-2722-1965, 0000-0002-3343-349X",N,Y,Mesenchymal cells

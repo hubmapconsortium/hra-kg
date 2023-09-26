@@ -1,0 +1,47 @@
+title: 3D Reference Organ for Lymph Node, Male
+description: >-
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created
+  using the Clearing-enhanced 3D (Ce3D) method developed by Dr. Weizhe Li,
+  Laboratory of Immune System Biology, National Institute of Allergy and
+  Infectious Diseases, NIH using data documented in
+  https://www.pnas.org/content/114/35/E7321. While the size and cellular
+  composition of mouse and human lymph nodes varies between species, the overall
+  anatomy is well-conserved.
+creators:
+  - fullName: Kristen Browne
+    firstName: Kristen
+    lastName: Browne
+    orcid: 0000-0003-4066-7531
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Marda Jorgensen
+    firstName: Marda
+    lastName: Jorgensen
+    orcid: 0000-0002-7250-3569
+externalReviewers: []
+creation_date: '2022-05-06'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM299.VVXH.634
+doi: https://doi.org/10.48539/HBM299.VVXH.634
+citation: >-
+  Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Lymph Node,
+  Male v1.2.*
+  [https://doi.org/10.48539/HBM299.VVXH.634](https://doi.org/10.48539/HBM299.VVXH.634).
+  Accessed on May 6, 2022.
+citationOverall: >-
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
+  Bueckle, Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object
+  Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6,
+  2022.
+datatable:
+  - NIH_M_Lymph_Node.glb

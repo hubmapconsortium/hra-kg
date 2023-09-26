@@ -1,0 +1,4 @@
+node_name,OntologyID,label
+VHM_thymus,UBERON:0002370,thymus
+VHM_thymus_lobe_L,UBERON:0005457,left thymus lobe
+VHM_thymus_lobe_R,UBERON:0005469,right thymus lobe

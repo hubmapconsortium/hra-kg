@@ -1,0 +1,38 @@
+node_id,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Type_II_Pneumocyte_1,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_II_Pneumocyte_2,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_II_Pneumocyte_3,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_II_Pneumocyte_4,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_II_Pneumocyte_5,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Pericyte_1,lung pericyte,CL:0009089,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Pericyte_2,lung pericyte,CL:0009089,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_1,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_2,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_3,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_4,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_5,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_6,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_7,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_8,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_9,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_10,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_11,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_12,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_13,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_14,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_1,alveolar type 1 fibroblast,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_2,alveolar type 1 fibroblast,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_3,alveolar type 1 fibroblast,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_4,alveolar type 1 fibroblast,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_5,alveolar type 1 fibroblast,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_6,alveolar type 1 fibroblast,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_7,alveolar type 1 fibroblast,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_1,secondary crest myofibroblasts,CL:0000186,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_2,secondary crest myofibroblasts,CL:0000186,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_3,secondary crest myofibroblasts,CL:0000186,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_4,secondary crest myofibroblasts,CL:0000186,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_5,secondary crest myofibroblasts,CL:0000186,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_6,secondary crest myofibroblasts,CL:0000186,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_7,secondary crest myofibroblasts,CL:0000186,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_8,secondary crest myofibroblasts,CL:0000186,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_9,secondary crest myofibroblasts,CL:0000186,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048

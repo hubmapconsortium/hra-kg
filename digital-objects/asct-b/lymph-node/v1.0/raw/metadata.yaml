@@ -1,0 +1,49 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lymph
+  Node
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts.
+creators:
+  - fullName: Marda Jorgensen
+    firstName: Marda
+    lastName: Jorgensen
+    orcid: 0000-0002-7250-3569
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Clive Wasserfall
+    firstName: Clive
+    lastName: Wasserfall
+    orcid: 0000-0002-3522-8932
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers: []
+externalReviewers: []
+creation_date: '2021-03-12'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM375.LMPC.837
+doi: https://doi.org/10.48539/hbm375.lmpc.837
+citation: >-
+  Marda Jorgensen; Andrea J. Radtke; Clive Wasserfall. HuBMAP ASCT+B Tables.
+  Lymph Node v1.0
+  [https://doi.org/10.48539/hbm375.lmpc.837](https://doi.org/10.48539/hbm375.lmpc.837)
+citationOverall: >-
+  Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy
+  Börner. 2021. *HuBMAP ASCT+B Tables*. https://humanatlas.io/asctb-tables.
+  Accessed on March 12, 2021.
+datatable:
+  - ASCT-B_NIH_Lymph_Node.csv

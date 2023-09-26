@@ -1,0 +1,1341 @@
+﻿"Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping v1.0",,,,,,
+,,,,,,
+Author Name(s):,"Quardokus, E., Browne, K., Bueckle, A., Herr II, B., Börner, K.",,,,,
+Author ORCID(s):,"0000-0001-7655-4833, 0000-0003-4066-7531, 0000-0002-8977-498X, 0000-0002-6703-7647, 0000-0002-3321-6137",,,,,
+Reviewer(s):,,,,,,
+General Publication(s):,https://www.biorxiv.org/content/10.1101/2021.05.31.446440v1,,,,,
+Data DOI:,10.48539/HBM527.RCXM.366,,,,,
+Date:,7/28/2021,,,,,
+Version Number:,v1.0,,,,,
+,,,,,,
+anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,representation_of,glb file of single organs
+,,VHF,,,,
+#VHFCirculatorySystem,#VHFemaleOrgans,VHF_circulatory_system,circulatory system,UBERON:0001009,http://purl.obolibrary.org/obo/UBERON_0001009,
+#VHFVasculature,#VHFemaleOrgans,VHF_vasculature,vasculature,UBERON:0002049,http://purl.obolibrary.org/obo/UBERON_0002049,
+#VHFVasculature,#VHFemaleOrgans,VHF_artery,artery,UBERON:0001637,http://purl.obolibrary.org/obo/UBERON_0001637,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_inferior_mesenteric_artery,inferior mesenteric artery,UBERON:0001183,http://purl.obolibrary.org/obo/UBERON_0001183,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_marginal_artery_of_Drummond,marginal colic artery,fma:fma14824,http://purl.org/sig/ont/fma/fma14824,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_splenic_artery,splenic artery,UBERON:0001194,http://purl.obolibrary.org/obo/UBERON_0001194,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_superior_mesenteric_artery,superior mesenteric artery,UBERON:0001182,http://purl.obolibrary.org/obo/UBERON_0001182,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_superior_rectal_artery,superior rectal artery,UBERON:0035040,http://purl.obolibrary.org/obo/UBERON_0035040,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_celiac_artery,celiac artery,UBERON:0001640,http://purl.obolibrary.org/obo/UBERON_0001640,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_colic_artery,colic artery,UBERON:0035548,http://purl.obolibrary.org/obo/UBERON_0035548,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_colic_artery,Left colic artery,fma:fma14826,http://purl.org/sig/ont/fma/fma14826,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_middle_colic_artery,middle colic artery,UBERON:0001196,http://purl.obolibrary.org/obo/UBERON_0001196,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_right_colic_artery,Right colic artery,fma:fma14811,http://purl.org/sig/ont/fma/fma14811,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_ileocolic_artery,ileocolic artery,UBERON:0035548,http://purl.obolibrary.org/obo/UBERON_0001197,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_renal_artery,renal artery,UBERON:0001184,http://purl.obolibrary.org/obo/UBERON_0001184,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_renal_artery,left renal artery,UBERON:0001186,http://purl.obolibrary.org/obo/UBERON_0001186,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_right_renal_artery,right renal artery,UBERON:0001185,http://purl.obolibrary.org/obo/UBERON_0001185,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_pulmonary_artery,pulmonary artery,UBERON:0002012,http://purl.obolibrary.org/obo/UBERON_0002012,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_pulmonary_artery_L,left pulmonary artery,UBERON:0001652,http://purl.obolibrary.org/obo/UBERON_0001652,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_pulmonary_trunk,pulmonary trunk,UBERON:0002333,http://purl.obolibrary.org/obo/UBERON_0002333,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_pulmonary_artery_R,right pulmonary artery,UBERON:0001651,http://purl.obolibrary.org/obo/UBERON_0001651,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_sigmoid_artery,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_sigmoid_artery_a,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_sigmoid_artery_c,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_sigmoid_artery_b,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_aorta,aorta,UBERON:0000947,http://purl.obolibrary.org/obo/UBERON_0000947,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_aortic_arch,arch of aorta,UBERON:0001508,http://purl.obolibrary.org/obo/UBERON_0001508,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_ascending_aorta,ascending aorta,UBERON:0001496,http://purl.obolibrary.org/obo/UBERON_0001496,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_descending_aorta,descending aorta,UBERON:0001514,http://purl.obolibrary.org/obo/UBERON_0001514,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_descending_aorta_a,descending aorta,UBERON:0001514,http://purl.obolibrary.org/obo/UBERON_0001514,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_descending_aorta_b,descending aorta,UBERON:0001514,http://purl.obolibrary.org/obo/UBERON_0001514,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_common_carotid_artery,left common carotid artery plus branches,UBERON:0001536,http://purl.obolibrary.org/obo/UBERON_0001536,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_common_carotid_artery_a,left common carotid artery plus branches,UBERON:0001536,http://purl.obolibrary.org/obo/UBERON_0001536,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_common_carotid_artery_b,left common carotid artery plus branches,UBERON:0001536,http://purl.obolibrary.org/obo/UBERON_0001536,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_subclavian_artery,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_subclavian_artery_a,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_subclavian_artery_b,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_brachiocephalic_artery_b,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_brachiocephalic_artery_a,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_cardiac_arteries,,,,
+#VHFVasculature,#VHFemaleOrgans,VHF_left_anterior_descending_artery,Anterior descending branch of left pulmonary artery,fma:fma8636,http://purl.org/sig/ont/fma/fma8636,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_circumflex_artery,circumflex branch of left coronary artery,UBERON:0035422,http://purl.obolibrary.org/obo/UBERON_0035422,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_diagonal_branch_of_left_anterior_descending_artery,Diagonal branch of anterior descending branch of left coronary artery,fma:fma3860,http://purl.org/sig/ont/fma/fma3860,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_coronary_artery,left coronary artery,UBERON:0001626,http://purl.obolibrary.org/obo/UBERON_0001626,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_marginal_branch,Left marginal artery,fma:fma3902,http://purl.org/sig/ont/fma/fma3902,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_posterior_descending_branch_of_circumflex_branch_of_left_coronary_artery,left posterior descending branch of circumflex branch of left coronary artery,fma:fma322904,http://purl.org/sig/ont/fma/fma322904,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_posterior_left_ventricular_branch,Posterior ventricular branch of circumflex coronary artery,fma:fma13905,http://purl.org/sig/ont/fma/fma13905,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_right_coronary_artery,right coronary artery,UBERON:0001625,http://purl.obolibrary.org/obo/UBERON_0001625,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_right_marginal_artery,marginal branch of right coronary artery,fma:fma3818,http://purl.org/sig/ont/fma/fma3818,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_vein,vein,UBERON:0001638,http://purl.obolibrary.org/obo/UBERON_0001638,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_inferior_mesenteric_vein,superior mesenteric artery,UBERON:0001182,http://purl.obolibrary.org/obo/UBERON_0001182,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_median_sacral_vein,median sacral vein,UBERON:0006687,http://purl.obolibrary.org/obo/UBERON_0006687,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_hepatic_portal_vein,hepatic portal vein,UBERON:0001639,http://purl.obolibrary.org/obo/UBERON_0001639,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_splenic_vein,splenic vein,UBERON:0003713,http://purl.obolibrary.org/obo/UBERON_0003713,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_superior_mesenteric_vein,superior mesenteric vein,UBERON:0001138,http://purl.org/sig/ont/fma/fma14332,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_superior_rectal_vein,superior rectal artery,UBERON:0035040,http://purl.obolibrary.org/obo/UBERON_0035040,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_common_iliac_vein,common iliac vein,UBERON:0001139,http://purl.obolibrary.org/obo/UBERON_0001139,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_common_iliac_vein,Left common iliac vein,fma:fma:21388,http://purl.org/sig/ont/fma/fma21388,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_right_common_iliac_vein,Right common iliac vein,fma:fma:21387,http://purl.org/sig/ont/fma/fma21387,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_cardiac_vein,cardiac vein,UBERON:0004148,http://purl.obolibrary.org/obo/UBERON_0004148,VH_F_Heart
+#VHFVasculature,#VHFemaleOrgans,VHF_coronary_sinus,coronary sinus,UBERON:0005438,http://purl.obolibrary.org/obo/UBERON_0005438,VH_F_Heart
+#VHFVasculature,#VHFemaleOrgans,VHF_great_cardiac_vein,great vein of heart,UBERON:0006958,http://purl.obolibrary.org/obo/UBERON_0006958,VH_F_Heart
+#VHFVasculature,#VHFemaleOrgans,VHF_middle_cardiac_vein,middle cardiac vein,UBERON:0009687,http://purl.obolibrary.org/obo/UBERON_0009687,VH_F_Heart
+#VHFVasculature,#VHFemaleOrgans,VHF_oblique_vein_of_left_atrium,Oblique vein of left atrium,fma:fma:4715,http://purl.org/sig/ont/fma/fma4715,VH_F_Heart
+#VHFVasculature,#VHFemaleOrgans,VHF_left_marginal_vein,left marginal vein,fma:fma:4708,http://purl.org/sig/ont/fma/fma4708,VH_F_Heart
+#VHFVasculature,#VHFemaleOrgans,VHF_posterior_vein_of_left_ventricle,Posterior vein of left ventricle,fma:fma:4712,http://purl.org/sig/ont/fma/fma4712,VH_F_Heart
+#VHFVasculature,#VHFemaleOrgans,VHF_anterior_cardiac_vein,Anterior cardiac vein,fma:fma:76767,http://purl.org/sig/ont/fma/fma76767,VH_F_Heart
+#VHFVasculature,#VHFemaleOrgans,VHF_small_cardiac_vein,small cardiac vein,UBERON:0035374,http://purl.obolibrary.org/obo/UBERON_0035374,VH_F_Heart
+#VHFVasculature,#VHFemaleOrgans,VHF_colic_veins,,,,
+#VHFVasculature,#VHFemaleOrgans,VHF_ileocolic_vein,ileocolic vein,UBERON:0001219,http://purl.obolibrary.org/obo/UBERON_0001219,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_colic_vein,Left colic vein,fma:fma:15394,http://purl.org/sig/ont/fma/fma15394,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_middle_colic_vein,middle colic vein,UBERON:0001218,http://purl.obolibrary.org/obo/UBERON_0001218,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_right_colic_vein,Right colic vein,fma:fma:15407,http://purl.org/sig/ont/fma/fma15407,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_inferior_rectal_vein,Inferior rectal vein,fma:fma:21242,http://purl.org/sig/ont/fma/fma21242,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_inferior_rectal_vein_L,Inferior rectal vein,fma:fma:21242,http://purl.org/sig/ont/fma/fma21242,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_inferior_rectal_vein_R,Inferior rectal vein,fma:fma:21242,http://purl.org/sig/ont/fma/fma21242,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_internal_iliac_vein,internal iliac vein,UBERON:0001317,http://purl.obolibrary.org/obo/UBERON_0001317,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_internal_iliac_vein_L,internal iliac vein,UBERON:0001317,http://purl.obolibrary.org/obo/UBERON_0001317,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_internal_iliac_vein_R,internal iliac vein,UBERON:0001317,http://purl.obolibrary.org/obo/UBERON_0001317,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_internal_pudendal_vein,internal pudendal vein,UBERON:0018252,http://purl.obolibrary.org/obo/UBERON_0018252,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_internal_pudendal_vein_L,internal pudendal vein,UBERON:0018252,http://purl.obolibrary.org/obo/UBERON_0018252,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_internal_pudendal_vein_R,internal pudendal vein,UBERON:0018252,http://purl.obolibrary.org/obo/UBERON_0018252,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_pulmonary_vein,pulmonary vein,UBERON:0002016,http://purl.obolibrary.org/obo/UBERON_0002016,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_pulmonary_vein_L_sup,left superior pulmonary vein,fma:fma:49916,http://purl.org/sig/ont/fma/fma49916,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_pulmonary_vein_R_inf,left inferior pulmonary vein,fma:fma:49913,http://purl.org/sig/ont/fma/fma49913,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_pulmonary_vein_R_sup,right superior pulmonary vein,fma:fma:49914,http://purl.org/sig/ont/fma/fma49914,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_pulmonary_vein_L_inf,right inferior pulmonary vein,fma:fma:49911,http://purl.org/sig/ont/fma/fma49911,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_renal_vein,renal vein,UBERON:0001140,http://purl.obolibrary.org/obo/UBERON_0001140,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_left_renal_vein,left renal vein,UBERON:0001142,http://purl.obolibrary.org/obo/UBERON_0001142,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_right_renal_vein,right renal vein,UBERON:0001141,http://purl.obolibrary.org/obo/UBERON_0001141,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_middle_rectal_vein,Middle rectal vein,fma:fma18893,http://purl.org/sig/ont/fma/fma18893,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_middle_rectal_vein_L,Left middle rectal vein,fma:fma18895,http://purl.org/sig/ont/fma/fma18895,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_middle_rectal_vein_R,Right middle rectal vein,fma:fma18894,http://purl.org/sig/ont/fma/fma18894,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_sigmoid_vein,sigmoid vein,fma:fma15395,http://purl.org/sig/ont/fma/fma15395,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_sigmoid_vein_a,sigmoid vein,fma:fma:15395,http://purl.org/sig/ont/fma/fma15395,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_sigmoid_vein_c,sigmoid vein,fma:fma:15395,http://purl.org/sig/ont/fma/fma15395,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_sigmoid_vein_b,sigmoid vein,fma:fma:15395,http://purl.org/sig/ont/fma/fma15395,VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_vena_cava,vena cava,UBERON:0004087,http://purl.obolibrary.org/obo/UBERON_0004087,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_superior_vena_cava,superior vena cava,fma:fma:4720,http://purl.org/sig/ont/fma/fma4720,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_inferior_vena_cava,inferior vena cava,fma:fma:10951,http://purl.org/sig/ont/fma/fma10951,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_inferior_vena_cava_a,inferior vena cava,fma:fma:10951,http://purl.org/sig/ont/fma/fma10951,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_inferior_vena_cava_b,inferior vena cava,fma:fma:10951,http://purl.org/sig/ont/fma/fma10951,VH_F_Heart;VH_F_Vasculature
+#VHFVasculature,#VHFemaleOrgans,VHF_inferior_pancreaticoduodenal_vein,Inferior pancreaticoduodenal vein,fma:fma0329299,http://purl.org/sig/ont/fma/fma0329299,
+#VHFHeart,#VHFemaleOrgans,VHF_heart,heart,UBERON:0000948,http://purl.obolibrary.org/obo/UBERON_0000948,VH_F_Heart_v1.0
+#VHFHeart,#VHFemaleOrgans,VHF_cardiac_chamber,,,,
+#VHFHeart,#VHFemaleOrgans,VHF_interventricular_septum,interventricular septum,UBERON:0002094,http://purl.obolibrary.org/obo/UBERON_0002094,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_left_cardiac_atrium,left cardiac atrium,UBERON:0002079,http://purl.obolibrary.org/obo/UBERON_0002079,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_left_ventricle,heart left ventricle,UBERON:0002084,http://purl.obolibrary.org/obo/UBERON_0002084,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_right_cardiac_atrium,right cardiac atrium,UBERON:0002078,http://purl.obolibrary.org/obo/UBERON_0002078,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_right_ventricle,heart right ventricle,UBERON:0002080,http://purl.obolibrary.org/obo/UBERON_0002080,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_papillary_muscle_of_heart,papillary muscle of heart,UBERON:0002494,http://purl.obolibrary.org/obo/UBERON_0002494,
+#VHFHeart,#VHFemaleOrgans,VHF_papillary_muscle_of_heart_ant,Anterior papillary muscle of left ventricle,fma:fma7264,http://purl.org/sig/ont/fma/fma7264,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_papillary_muscle_of_heart_antlat,Anterolateral head of lateral papillary muscle of left ventricle,fma:fma7265,http://purl.org/sig/ont/fma/fma7265,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_papillary_muscle_of_heart_med,Septal papillary muscle of right ventricle,fma:fma7262,http://purl.org/sig/ont/fma/fma7262,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_papillary_muscle_of_heart_pos,Posterior papillary muscle of right ventricle,fma:fma7261,http://purl.org/sig/ont/fma/fma7261,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_papillary_muscle_of_heart_posmed,Posteromedial head of posterior papillary muscle of left ventricle,fma:fma7267,http://purl.org/sig/ont/fma/fma7267,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_valve,valve,UBERON:0003978,http://purl.obolibrary.org/obo/UBERON_0003978,
+#VHFHeart,#VHFemaleOrgans,VHF_aortic_valve,aortic valve,UBERON:0002137,http://purl.obolibrary.org/obo/UBERON_0002137,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_pulmonary_valve,pulmonary valve,UBERON:0002146,http://purl.obolibrary.org/obo/UBERON_0002146,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_mitral_valve,mitral valve,UBERON:0002135,http://purl.obolibrary.org/obo/UBERON_0002135,VH_F_Heart.glb
+#VHFHeart,#VHFemaleOrgans,VHF_tricuspid_valve,tricuspid valve,UBERON:0002134,http://purl.obolibrary.org/obo/UBERON_0002134,VH_F_Heart.glb
+#VHFIntegumentarySystem,#VHFemaleOrgans,VHF_integumentary_system,integumentary system layer,UBERON:0013754,http://purl.obolibrary.org/obo/UBERON_0013754,
+#VHFSkin,#VHFemaleOrgans,VHF_skin,skin of body,UBERON:0002097,http://purl.obolibrary.org/obo/UBERON_0002097,VH_F_Skin
+#VHFNervousSystem,#VHFemaleOrgans,VHF_nervous_system,central nervous system,UBERON:0001017,http://purl.obolibrary.org/obo/UBERON_0001017,
+#VHFAllenBrain,#VHFemaleOrgans,Allen_brain,brain,UBERON:0000955,http://purl.obolibrary.org/obo/UBERON_0000955,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_hemisphere_L,left cerebral hemisphere,UBERON:0002812,http://purl.obolibrary.org/obo/UBERON_0002812,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_olfactory_bulb_L,olfactory bulb,UBERON:0002264,http://purl.obolibrary.org/obo/UBERON_0002264,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_olfactory_nucleus_L,anterior olfactory nucleus,UBERON:0002266,http://purl.obolibrary.org/obo/UBERON_0002266,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_piriform_region_L,piriform cortex,UBERON:0004725,http://purl.obolibrary.org/obo/UBERON_0004725,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_frontal_agranular_insular_cortex_area_Fl_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_temporal_agranular_insular_cortex_area_Tl_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_head_of_caudate_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_body_of_caudate_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_tail_of_caudate_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_putamen_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_nucleus_accumbens_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_external_segment_of_globus_pallidus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_internal_segment_of_globus_pallidus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_claustrum_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_basal_forebrain_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_septal_nuclei_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_amygdaloid_complex_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_amygdaloid_area_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_central_nuclear_group_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_basolateral_nucleus_basal_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_basomedial_nucleus_accessory_basal_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_cortical_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_posterior_cortical_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_medial_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_amygdalohippocampal_area_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_bed_nucleus_of_stria_terminalis_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_nuclear_complex_of_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_dorsal_nucleus_of_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_mediodorsal_nucleus_of_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_reuniens_nucleus_medioventral_nucleus_of_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_posterior_nucleus_of_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_pulvinar_of_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_ventral_anterior_nucleus_of_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_ventral_lateral_nucleus_of_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_ventral_posterior_lateral_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_ventral_posterior_medial_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_dorsal_lateral_geniculate_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_medial_geniculate_nuclei_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_centromedian_nucleus_of_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_parafascicular_nucleus_of_thalamus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_habenular_nuclei_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_pineal_body_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_zona_incerta_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_subthalamic_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_hypothalamus_L,hypothalamus,UBERON:0001898,http://purl.obolibrary.org/obo/UBERON_0001898,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_preoptic_region_of_HTH_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_supraoptic_region_of_HTH_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_tuberal_region_of_HTH_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_mammillary_region_of_HTH_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_white_matter_of_forebrain_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_commissure_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_corpus_callosum_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_fornix_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_mammillothalamic_tract_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_optic_tract_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_horn_of_lateral_ventricle_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_body_of_lateral_ventricle_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_posterior_horn_of_lateral_ventricle_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_horn_of_lateral_ventricle_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_third_ventricle_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cerebellar_vermis_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cerebellar_deep_nuclei_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_white_matter_of_hindbrain_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_olfactory_tract_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_precentral_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_superior_frontal_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_middle_frontal_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_frontal_gyrus_triangular_part_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_frontal_gyrus_opercular_part_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_gyrus_rectus_straight_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_medial_orbital_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_intermediate_orbital_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_posterior_intermediate_orbital_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_orbital_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_paracentral_lobule_rostral_part_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_frontal_operculum_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_postcentral_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_supraparietal_lobule_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_supramarginal_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_angular_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_precuneus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_paracentral_lobule_caudal_part_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_superior_temporal_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_middle_temporal_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_temporal_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_occipitotemporal_fusiform_gyrus_temporal_part_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_transverse_temporal_gyrus_Heschls_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_planum_temporale_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_temporal_pole_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_planum_polare_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_occipital_pole_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cuneus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lingual_gyrus_medial_occipitotemporal_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_occipitotemporal_fusiform_gyrus_occipital_part_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_occipital_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_superior_occipital_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cingulate_gyrus_rostral_anterior_part_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cingulate_gyrus_caudal_posterior_part_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_ingulo_parahippocampal_isthmus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_subcallosal_gyrus_parolfactory_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_parahippocampal_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_posterior_parahippocampal_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_gyrus_ambiens_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_head_of_hippocampus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_body_of_hippocampus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_tail_of_hippocampus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_long_insular_gyri_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_short_insular_gyri_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_limen_insula_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_pretectal_region_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_midbrain_tegmentum_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_red_nucleus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_substantia_nigra_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_superior_colliculus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_colliculus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cerebral_peduncle_crus_cerebri_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_superior_cerebellar_peduncle_brachium_conjunctivum_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cerebral_aqueduct_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_paravermis_of_cerebellum_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_hemisphere_of_cerebellum_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_basilar_part_of_pons_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_pontine_tegmentum_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_pyramidal_part_of_medulla_oblongata_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_tegmentum_of_medulla_oblongata_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_olive_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_cerebellar_peduncle_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_middle_cerebellar_peduncle_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_fourth_ventricle_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_central_canal_of_medulla_oblongata_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_midline_nuclear_complex_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_olfactory_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_parietal_operculum_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_optic_ratiation_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_posteroventral_putamen_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_atrium_of_lateral_ventricle_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_paracingulate_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_rostral_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_frontomarginal_gyrus_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_frontal_pole_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_perirhinal_gyrus_rostral_part_of_FuGt_L,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_hemisphere_R,right cerebral hemisphere,UBERON:0002813,http://purl.obolibrary.org/obo/UBERON_0002813,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_olfactory_bulb_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_olfactory_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_piriform_region_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_frontal_agranular_insular_cortex_area_Fl_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_temporal_agranular_insular_cortex_area_Tl_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_head_of_caudate_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_body_of_caudate_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_tail_of_caudate_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_putamen_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_nucleus_accumbens_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_external_segment_of_globus_pallidus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_internal_segment_of_globus_pallidus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_claustrum_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_basal_forebrain_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_septal_nuclei_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_amygdaloid_complex_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_amygdaloid_area_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_central_nuclear_group_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_basolateral_nucleus_basal_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_basomedial_nucleus_accessory_basal_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_cortical_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_posterior_cortical_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_medial_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_amygdalohippocampal_area_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_bed_nucleus_of_stria_terminalis_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_nuclear_complex_of_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_dorsal_nucleus_of_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_mediodorsal_nucleus_of_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_reuniens_nucleus_medioventral_nucleus_of_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_posterior_nucleus_of_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_pulvinar_of_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_ventral_anterior_nucleus_of_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_ventral_lateral_nucleus_of_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_ventral_posterior_lateral_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_ventral_posterior_medial_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_dorsal_lateral_geniculate_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_medial_geniculate_nuclei_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_centromedian_nucleus_of_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_parafascicular_nucleus_of_thalamus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_habenular_nuclei_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_pineal_body_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_zona_incerta_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_subthalamic_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_hypothalamus_R,hypothalamus,UBERON:0001898,http://purl.obolibrary.org/obo/UBERON_0001898,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_preoptic_region_of_HTH_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_supraoptic_region_of_HTH_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_tuberal_region_of_HTH_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_mammillary_region_of_HTH_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_white_matter_of_forebrain_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_commissure_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_corpus_callosum_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_fornix_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_mammillothalamic_tract_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_optic_tract_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_horn_of_lateral_ventricle_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_body_of_lateral_ventricle_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_posterior_horn_of_lateral_ventricle_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_horn_of_lateral_ventricle_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_third_ventricle_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cerebellar_vermis_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cerebellar_deep_nuclei_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_white_matter_of_hindbrain_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_olfactory_tract_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_precentral_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_superior_frontal_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_middle_frontal_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_frontal_gyrus_triangular_part_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_frontal_gyrus_opercular_part_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_gyrus_rectus_straight_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_medial_orbital_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_intermediate_orbital_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_posterior_intermediate_orbital_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_orbital_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_paracentral_lobule_rostral_part_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_frontal_operculum_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_postcentral_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_supraparietal_lobule_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_supramarginal_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_angular_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_precuneus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_paracentral_lobule_caudal_part_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_superior_temporal_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_middle_temporal_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_temporal_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_occipitotemporal_fusiform_gyrus_temporal_part_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_transverse_temporal_gyrus_Heschls_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_planum_temporale_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_temporal_pole_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_planum_polare_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_occipital_pole_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cuneus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lingual_gyrus_medial_occipitotemporal_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_occipitotemporal_fusiform_gyrus_occipital_part_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_occipital_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_superior_occipital_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cingulate_gyrus_rostral_anterior_part_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cingulate_gyrus_caudal_posterior_part_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_ingulo_parahippocampal_isthmus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_subcallosal_gyrus_parolfactory_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_anterior_parahippocampal_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_posterior_parahippocampal_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_gyrus_ambiens_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_head_of_hippocampus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_body_of_hippocampus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_tail_of_hippocampus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_long_insular_gyri_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_short_insular_gyri_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_limen_insula_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_pretectal_region_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_midbrain_tegmentum_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_red_nucleus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_substantia_nigra_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_superior_colliculus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_colliculus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cerebral_peduncle_crus_cerebri_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_superior_cerebellar_peduncle_brachium_conjunctivum_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_cerebral_aqueduct_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_paravermis_of_cerebellum_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_hemisphere_of_cerebellum_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_basilar_part_of_pons_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_pontine_tegmentum_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_pyramidal_part_of_medulla_oblongata_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_tegmentum_of_medulla_oblongata_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_olive_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_inferior_cerebellar_peduncle_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_middle_cerebellar_peduncle_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_fourth_ventricle_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_central_canal_of_medulla_oblongata_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_midline_nuclear_complex_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_lateral_olfactory_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_parietal_operculum_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_optic_ratiation_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_posteroventral_putamen_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_atrium_of_lateral_ventricle_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_paracingulate_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_rostral_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_frontomarginal_gyrus_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_frontal_pole_R,,,,Allen_F_Brain.glb
+#VHFAllenBrain,#VHFemaleOrgans,Allen_perirhinal_gyrus_rostral_part_of_FuGt_R,,,,Allen_F_Brain.glb
+#VHFSkeletalSystem,#VHFemaleOrgans,VHF_skeletal_system,skeletal system,UBERON:0001434,http://purl.obolibrary.org/obo/UBERON_0001434,
+#VHFPelvis,#VHFemaleOrgans,VHF_pelvis,bony pelvis,UBERON:0001270,http://purl.obolibrary.org/obo/UBERON_0001270,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_coccyx,coccyx,UBERON:0001350,http://purl.obolibrary.org/obo/UBERON_0001350,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ilium,ilium,UBERON:0001273,http://purl.obolibrary.org/obo/UBERON_0001273,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ilium_compact_bone,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ilium_compact_bone_R,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ilium_compact_bone_L,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ilium_spongy_bone,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ilium_spongy_bone_R,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ilium_spongy_bone_L,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ischium,ischium,UBERON:0001274,http://purl.obolibrary.org/obo/UBERON_0001274,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ischium_compact_bone,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ischium_compact_bone_R,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ischium_compact_bone_L,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ischium_spongy_bone,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ischium_spongy_bone_R,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_ischium_spongy_bone_L,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_pubis,pubis,UBERON:0001275,http://purl.obolibrary.org/obo/UBERON_0001275,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_pubis_compact_bone,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_pubis_compact_bone_R,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_pubis_compact_bone_L,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_pubis_spongy_bone,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_pubis_spongy_bone_R,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_pubis_spongy_bone_L,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHFPelvis,#VHFemaleOrgans,VHF_sacrum,fused sacrum,UBERON:0003690,http://purl.obolibrary.org/obo/UBERON_0003690,VH_M_Pelvis
+#VHFUrinarySystem,#VHFemaleOrgans,VHF_urinary_system,renal system,UBERON:0001008,http://purl.obolibrary.org/obo/UBERON_0001008,
+,,VHF_kidney,kidney,UBERON:0002113,http://purl.obolibrary.org/obo/UBERON_0002113,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_left_kidney,left kidney,UBERON:0004538,http://purl.obolibrary.org/obo/UBERON_0004538,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_kidney_capsule_L,kidney capsule,UBERON:0002015,http://purl.obolibrary.org/obo/UBERON_0002015,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_hilum_of_kidney_L,hilum of kidney,UBERON:0008716,http://purl.obolibrary.org/obo/UBERON_0008716,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_medulla_L,renal medulla,UBERON:0000362,http://purl.obolibrary.org/obo/UBERON_0000362,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_a,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_b,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_c,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_d,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_e,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_f,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_g,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_h,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_i,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_j,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_papilla_L_k,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_a,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_b,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_c,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_d,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_e,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_f,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_g,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_h,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_i,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_j,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pyramid_L_k,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_cortex_of_kidney_L,cortex of kidney,UBERON:0001225,http://purl.obolibrary.org/obo/UBERON_0001225,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_column_L,renal column,UBERON:0001284,http://purl.obolibrary.org/obo/UBERON_0001284,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_outer_cortex_of_kidney_L,outer cortex of kidney,UBERON:0002189,http://purl.obolibrary.org/obo/UBERON_0002189,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_kidney_calyx_L,kidney calyx,UBERON:0006517,http://purl.obolibrary.org/obo/UBERON_0006517,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L_a,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L_b,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L_c,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L_d,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L_e,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L_f,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L_g,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L_h,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L_i,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_minor_calyx_L_j,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_major_calyx_L,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_major_calyx_L_a,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_major_calyx_L_b,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_major_calyx_L_c,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_major_calyx_L_d,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_renal_pelvis_L,renal pelvis,UBERON:0001224,http://purl.obolibrary.org/obo/UBERON_0001224,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_ureter_L,left ureter,UBERON:0001223,http://purl.obolibrary.org/obo/UBERON_0001223,
+#VHFLeftKidney,#VHFemaleOrgans,VHF_ureter_L_a,left ureter,UBERON:0001223,http://purl.obolibrary.org/obo/UBERON_0001223,
+#VHFRightKidney,#VHFemaleOrgans,VHF_right_kidney,right kidney,UBERON:0004539,http://purl.obolibrary.org/obo/UBERON_0004539,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_kidney_capsule_R,kidney capsule,UBERON:0002015,http://purl.obolibrary.org/obo/UBERON_0002015,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_hilum_of_kidney_R,hilum of kidney,UBERON:0008716,http://purl.obolibrary.org/obo/UBERON_0008716,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_cortex_of_kidney_R,cortex of kidney,UBERON:0001225,http://purl.obolibrary.org/obo/UBERON_0001225,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_outer_cortex_of_kidney_R,outer cortex of kidney,UBERON:0002189,http://purl.obolibrary.org/obo/UBERON_0002189,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_column_R,renal column,UBERON:0001284,http://purl.obolibrary.org/obo/UBERON_0001284,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_medulla_R,renal medulla,UBERON:0000362,http://purl.obolibrary.org/obo/UBERON_0000362,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R_a,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R_b,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R_c,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R_d,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R_e,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R_f,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R_g,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R_h,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R_i,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pyramid_R_j,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R_a,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R_b,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R_c,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R_d,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R_e,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R_f,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R_g,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R_h,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R_i,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_papilla_R_j,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_calyx_R,kidney calyx,UBERON:0006517,http://purl.obolibrary.org/obo/UBERON_0006517,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R_a,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R_b,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R_c,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R_d,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R_e,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R_f,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R_g,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R_h,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R_i,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_minor_calyx_R_j,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_major_calyx_R,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_major_calyx_R_a,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_major_calyx_R_b,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_major_calyx_R_c,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_renal_pelvis_R,renal pelvis,UBERON:0001224,http://purl.obolibrary.org/obo/UBERON_0001224,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_ureter_R,right ureter,UBERON:0001222,http://purl.obolibrary.org/obo/UBERON_0001222,VH_F_Kidney_Right
+#VHFRightKidney,#VHFemaleOrgans,VHF_ureter_R_a,right ureter,UBERON:0001222,http://purl.obolibrary.org/obo/UBERON_0001222,VH_F_Kidney_Right
+#VHFDigestiveSystem,#VHFemaleOrgans,VHF_digestive_system,digestive system,UBERON:0001007,http://purl.obolibrary.org/obo/UBERON_0001007,
+#VHFColon,#VHFemaleOrgans,VHF_colon,large intestine,UBERON:0000059,http://purl.obolibrary.org/obo/UBERON_0000059,
+#VHFColon,#VHFemaleOrgans,VHF_vermiform_appendix,vermiform appendix,UBERON:0001154,http://purl.obolibrary.org/obo/UBERON_0001154,SBU_F_Intestine_Large.glb
+#VHFColon,#VHFemaleOrgans,VHF_ascending_colon,ascending colon,UBERON:0001156,http://purl.obolibrary.org/obo/UBERON_0001156,SBU_F_Intestine_Large.glb
+#VHFColon,#VHFemaleOrgans,VHF_caecum,caecum,UBERON:0001153,http://purl.obolibrary.org/obo/UBERON_0001153,SBU_F_Intestine_Large.glb
+#VHFColon,#VHFemaleOrgans,VHF_descending_colon,descending colon,UBERON:0001158,http://purl.obolibrary.org/obo/UBERON_0001158,SBU_F_Intestine_Large.glb
+#VHFColon,#VHFemaleOrgans,VHF_hepatic_flexture_of_colon,hepatic flexure of colon,UBERON:0022277,http://purl.obolibrary.org/obo/UBERON_0022277,SBU_F_Intestine_Large.glb
+#VHFColon,#VHFemaleOrgans,VHF_ileocecal_calve,ileocecal valve,UBERON:0000569,http://purl.obolibrary.org/obo/UBERON_0000569,SBU_F_Intestine_Large.glb
+#VHFColon,#VHFemaleOrgans,VHF_rectum,rectum,UBERON:0001052,http://purl.obolibrary.org/obo/UBERON_0001052,SBU_F_Intestine_Large.glb
+#VHFColon,#VHFemaleOrgans,VHF_sigmoid_colon,sigmoid colon,UBERON:0001159,http://purl.obolibrary.org/obo/UBERON_0001159,SBU_F_Intestine_Large.glb
+#VHFColon,#VHFemaleOrgans,VHF_splenic_flexure_of_colon,splenic flexure of colon,UBERON:0022276,http://purl.obolibrary.org/obo/UBERON_0022276,SBU_F_Intestine_Large.glb
+#VHFColon,#VHFemaleOrgans,VHF_transverse_colon,transverse colon,UBERON:0001157,http://purl.obolibrary.org/obo/UBERON_0001157,SBU_F_Intestine_Large.glb
+#VHFLymphaticSystem,#VHFemaleOrgans,VHF_lymphatic_system,lymphoid system,UBERON:0002465,http://purl.obolibrary.org/obo/UBERON_0002465,
+,,VHF_lymphatic_system|VHF_spleen,spleen,UBERON:0002106,http://purl.obolibrary.org/obo/UBERON_0002106,
+#VHFSpleen,#VHFemaleOrgans,VHF_spleen,spleen,UBERON:0002106,http://purl.obolibrary.org/obo/UBERON_0002106,
+#VHFSpleen,#VHFemaleOrgans,VHF_gastric_surface_of_spleen,gastric surface of spleen,fma:fma15837,http://purl.org/sig/ont/fma/fma15837,
+#VHFSpleen,#VHFemaleOrgans,VHF_diaphragmatic_surface_of_spleen,diaphragmatic surface of spleen,fma:fma15828,http://purl.org/sig/ont/fma/fma15828,
+#VHFSpleen,#VHFemaleOrgans,VHF_colic_surface_of_spleen,colic surface of spleen,fma:fma15838,http://purl.org/sig/ont/fma/fma15838,
+#VHFSpleen,#VHFemaleOrgans,VHF_hilum_of_spleen,hilum of spleen,UBERON:0001248,http://purl.obolibrary.org/obo/UBERON_0001248,
+#VHFSpleen,#VHFemaleOrgans,VHF_renal_surface_of_spleen,renal surface of spleen,fma:fma15839,http://purl.org/sig/ont/fma/fma15839,
+,,Yao_lymph_node,lymph node,UBERON:0000029,http://purl.obolibrary.org/obo/UBERON_0000029,
+#VHFLeftLymphNode,#VHFemaleOrgans,Yao_lymph_node_a,lymph node,UBERON:0000029,http://purl.obolibrary.org/obo/UBERON_0000029,NIH_F_Lymph_Node
+#VHFLeftLymphNode,#VHFemaleOrgans,Yao_afferent_lymphatic_vessel_a,afferent lymphatic vessel,UBERON:0010396,http://purl.obolibrary.org/obo/UBERON_0010396,NIH_F_Lymph_Node
+#VHFLeftLymphNode,#VHFemaleOrgans,Yao_capsule_of_lymph_node_a,capsule of lymph node,UBERON:0002194,http://purl.obolibrary.org/obo/UBERON_0002194,NIH_F_Lymph_Node
+#VHFLeftLymphNode,#VHFemaleOrgans,Yao_follicles_a,lymph node follicle,UBERON:0010748,http://purl.obolibrary.org/obo/UBERON_0010748,NIH_F_Lymph_Node
+#VHFLeftLymphNode,#VHFemaleOrgans,Yao_efferent_lymph_node_a,efferent lymphatic vessel,UBERON:0010397,http://purl.obolibrary.org/obo/UBERON_0010397,NIH_F_Lymph_Node
+#VHFLeftLymphNode,#VHFemaleOrgans,Yao_medulla_of_lymph_node_a,medulla of lymph node,UBERON:0002007,http://purl.obolibrary.org/obo/UBERON_0002007,NIH_F_Lymph_Node
+#VHFLeftLymphNode,#VHFemaleOrgans,Yao_paracortex_a,lymph node T cell domain,UBERON:0010417,http://purl.obolibrary.org/obo/UBERON_0010417,NIH_F_Lymph_Node
+#VHFLeftLymphNode,#VHFemaleOrgans,Yao_vasculature_a,,,,NIH_F_Lymph_Node
+#VHFRightLymphNode,#VHFemaleOrgans,Yao_lymph_node_b,lymph node,UBERON:0000029,http://purl.obolibrary.org/obo/UBERON_0000029,NIH_F_Lymph_Node
+#VHFRightLymphNode,#VHFemaleOrgans,Yao_afferent_lymphatic_vessel_b,afferent lymphatic vessel,UBERON:0010396,http://purl.obolibrary.org/obo/UBERON_0010396,NIH_F_Lymph_Node
+#VHFRightLymphNode,#VHFemaleOrgans,Yao_capsule_of_lymph_node_b,capsule of lymph node,UBERON:0002194,http://purl.obolibrary.org/obo/UBERON_0002194,NIH_F_Lymph_Node
+#VHFRightLymphNode,#VHFemaleOrgans,Yao_follicles_b,lymph node follicle,UBERON:0010748,http://purl.obolibrary.org/obo/UBERON_0010748,NIH_F_Lymph_Node
+#VHFRightLymphNode,#VHFemaleOrgans,Yao_efferent_lymph_node_b,efferent lymphatic vessel,UBERON:0010397,http://purl.obolibrary.org/obo/UBERON_0010397,NIH_F_Lymph_Node
+#VHFRightLymphNode,#VHFemaleOrgans,Yao_medulla_of_lymph_node_b,medulla of lymph node,UBERON:0002007,http://purl.obolibrary.org/obo/UBERON_0002007,NIH_F_Lymph_Node
+#VHFRightLymphNode,#VHFemaleOrgans,Yao_paracortex_b,lymph node T cell domain,UBERON:0010417,http://purl.obolibrary.org/obo/UBERON_0010417,NIH_F_Lymph_Node
+#VHFRightLymphNode,#VHFemaleOrgans,Yao_vasculature_b,,,,NIH_F_Lymph_Node
+#VHFThymus,#VHFemaleOrgans,VHF_thymus,thymus,UBERON:0002370,http://purl.obolibrary.org/obo/UBERON_0002370,
+#VHFThymus,#VHFemaleOrgans,VHF_thymus_lobe_L,left thymus lobe,UBERON:0005457,http://purl.obolibrary.org/obo/UBERON_0005457,
+#VHFThymus,#VHFemaleOrgans,VHF_thymus_lobe_R,right thymus lobe,UBERON:0005469,http://purl.obolibrary.org/obo/UBERON_0005469,
+,,scene-0,ugh,,,
+#VHFLung,#VHFemaleOrgans,VHF_respiratory_system,respiratory system,UBERON:0001004,http://purl.obolibrary.org/obo/UBERON_0001004,
+#VHFLung,#VHFemaleOrgans,VHF_trachea,trachea,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,
+#VHFLung,#VHFemaleOrgans,VHF_cartilage,cartilage of respiratory system,UBERON:0003406,http://purl.obolibrary.org/obo/UBERON_0003406,
+,,VHF_cricoid_cartilage,Cricoid cartilage,fma:fma9615,http://purl.org/sig/ont/fma/fma9615,
+,,VHF_epiglotic_cartilage,Epiglottic cartilage,fma:fma55112,http://purl.org/sig/ont/fma/fma55112,
+,,VHF_thyroid_cartilage,Thyroid cartilage,fma:fma55099,http://purl.org/sig/ont/fma/fma55099,
+,,VHF_arytenoid_cartilage,arytenoid cartilage,UBERON:0001740,http://purl.obolibrary.org/obo/UBERON_0001740,
+,,VHF_arytenoid_cartilage_L,Left arytenoid cartilage,fma:fma:55114,http://purl.org/sig/ont/fma/fma55114,
+,,VHF_arytenoid_cartilage_R,Right arytenoid cartilage,fma:fma55113,http://purl.org/sig/ont/fma/fma55113,
+,,VHF_corniculate_cartilage,Corniculate cartilage,fma:fma55110,http://purl.org/sig/ont/fma/fma55110,
+,,VHF_corniculate_cartilage_L,Left corniculate cartilage,fma:fma55116,http://purl.org/sig/ont/fma/fma55116,
+,,VHF_corniculate_cartilage_R,Right corniculate cartilage,fma:fma55115,http://purl.org/sig/ont/fma/fma55115,
+,,VHF_bronchial_cartilage,Cartilage of bronchus,fma:fma62649,http://purl.org/sig/ont/fma/fma62649,
+,,VHF_tracheal_cartilage,Tracheal cartilage,fma:fma7434,http://purl.org/sig/ont/fma/fma7434,
+,,VHF_carina,Carina of trachea,fma:fma7465,http://purl.org/sig/ont/fma/fma7465,
+#VHFLung,#VHFemaleOrgans,VHF_bronchi,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,
+,,VHF_bronchi_L,,,,
+,,VHF_lungs_left_main_bronchus,Left Main Bronchus,UBERON:0002178,http://purl.obolibrary.org/obo/UBERON_0002178,
+,,VHF_lobar_bronchi_L,lobar bronchus of left lung,UBERON:0003405,http://purl.obolibrary.org/obo/UBERON_0003405,
+,,VHF_left_superior_lobar_bronchus,lobar bronchus of left lung upper lobe,UBERON:0012065,http://purl.obolibrary.org/obo/UBERON_0012065,
+,,VHF_left_inferior_lobar_bronchus,lobar bronchus of left lung lower lobe,UBERON:0012066,http://purl.obolibrary.org/obo/UBERON_0012066,
+,,VHF_tertiary_bronchi_L,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,
+,,VHF_left_anterior_basal_bronchus,Left anterior basal segmental bronchus,fma:fma7506,http://purl.org/sig/ont/fma/fma7506,
+,,VHF_left_lingula_superior_bronchus,Superior lingular bronchus,fma:fma7430,http://purl.org/sig/ont/fma/fma7430,
+,,VHF_left_apical_bronchus,Left apical segmental bronchus,fma:fma7426,http://purl.org/sig/ont/fma/fma7426,
+,,VHF_left_posterior_basal_bronchus,Left posterior basal segmental bronchus,fma:fma7508,http://purl.org/sig/ont/fma/fma7508,
+,,VHF_left_medial_basal_bronchus,Left medial basal segmental bronchus,fma:fma7505,http://purl.org/sig/ont/fma/fma7505,
+,,VHF_left_superior_bronchus,Left superior segmental bronchus,fma:fma7504,http://purl.org/sig/ont/fma/fma7504,
+,,VHF_left_anterior_bronchus,Left anterior segmental bronchus,fma:fma7428,http://purl.org/sig/ont/fma/fma7428,
+,,VHF_left_posterior_bronchus,Left posterior segmental bronchus,fma:fma7427,http://purl.org/sig/ont/fma/fma7427,
+,,VHF_left_lateral_basal_bronchus,Left lateral basal segmental bronchus,fma:fma7507,http://purl.org/sig/ont/fma/fma7507,
+,,VHF_left_lingula_inferior_bronchi,Inferior lingular bronchus,fma:fma7431,http://purl.org/sig/ont/fma/fma7431,
+,,VHF_bronchi_R,,,,
+,,VHF_right_main_lobar_bronchus,Right Main Bronchus,UBERON:0002177,http://purl.obolibrary.org/obo/UBERON_0002177,
+,,VHF_lobar_bronchus_R,lobar bronchus of right lung,UBERON:0003404,http://purl.obolibrary.org/obo/UBERON_0003404,
+,,VHF_right_middle_lobar_bronchus,Middle lobar bronchus,fma:fma7401,http://purl.org/sig/ont/fma/fma7401,
+,,VHF_right_superior_lobar_bronchus,Right superior lobar bronchus,fma:fma7397,http://purl.org/sig/ont/fma/fma7397,
+,,VHF_right_inferior_lobar_bronchus,Right inferior lobar bronchus,fma:fma7404,http://purl.org/sig/ont/fma/fma7404,
+,,VHF_tertiary_bronchi_R,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,
+,,VHF_right_anterior_basal_bronchus,Right anterior basal segmental bronchus,fma:fma7418,http://purl.org/sig/ont/fma/fma7418,
+,,VHF_right_medial_basal_bronchus,Right medial basal segmental bronchus,fma:fma7417,http://purl.org/sig/ont/fma/fma7417,
+,,VHF_right_apical_bronchus,Right apical segmental bronchus,fma:fma7398,http://purl.org/sig/ont/fma/fma7398,
+,,VHF_right_posterior_basal_bronchus,Right posterior basal segmental bronchus,fma:fma7420,http://purl.org/sig/ont/fma/fma7420,
+,,VHF_right_medial_bronchus,Medial segmental bronchus,fma:fma7403,http://purl.org/sig/ont/fma/fma7403,
+,,VHF_right_lateral_bronchus,Lateral segmental bronchus,fma:fma7402,http://purl.org/sig/ont/fma/fma7402,
+,,VHF_right_anterior_bronchus,Right anterior segmental bronchus,fma:fma7400,http://purl.org/sig/ont/fma/fma7400,
+,,VHF_right_lateral_basal_bronchus,Right lateral basal segmental bronchus,fma:fma7419,http://purl.org/sig/ont/fma/fma7419,
+,,VHF_right_superior_bronchus,Right superior segmental bronchus,fma:fma7416,http://purl.org/sig/ont/fma/fma7416,
+,,VHF_right_posterior_bronchus,Right posterior segmental bronchus,fma:fma7399,http://purl.org/sig/ont/fma/fma7399,
+#VHFLung,#VHFemaleOrgans,VHF_lungs,lung,UBERON:0002048,http://purl.obolibrary.org/obo/UBERON_0002048,
+,,VHF_left_lungs_L,left lung,UBERON:0002168,http://purl.obolibrary.org/obo/UBERON_0002168,
+,,VHF_hilum_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,
+,,VHF_L_lung_upper_lobe,Upper Lobe of Left Lung,Uberon:0008952,http://purl.obolibrary.org/obo/UBERON_0008952,
+,,VHF_hilum_upper_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,
+,,VHF_lingula_superior_bronchopulmonary_segment,Superior lingular bronchopulmonary segment,fma:fma:7374,http://purl.org/sig/ont/fma/fma7374,
+,,VHF_left_anterior_bronchopulmonary_segment,Left Anterior Bronchopulmonary Segment,fma:fma:ID:7373,http://purl.org/sig/ont/fma/fma7373,
+,,VHF_left_apical_bronchopulmonary_segment,Left apical bronchopulmonary segment,fma:fma:7385,http://purl.org/sig/ont/fma/fma7385,
+,,VHF_left_posterior_bronchopulmonary_segment,Left posterior bronchopulmonary segment,fma:fma:7386,http://purl.org/sig/ont/fma/fma7386,
+,,VHF_lingula_inferior_bronchopulmonary_segment,Inferior lingular bronchopulmonary segment,fma:fma:7375,http://purl.org/sig/ont/fma/fma7375,
+,,VHF_L_lung_lower_lobe,Lower Lobe of Left Lung,Uberon:0008953,http://purl.obolibrary.org/obo/UBERON_0008953,
+,,VHF_left_superior_bronchopulmonary_segment,Left superior bronchopulmonary segment,fma:fma:7376,http://purl.org/sig/ont/fma/fma7376,
+,,VHF_left_posterior_basal_bronchopulmonary_segment,Left posterior basal bronchopulmonary segment,fma:fma:ID:7380,http://purl.org/sig/ont/fma/fma7380,
+,,VHF_left_anterior_basal_bronchopulmonary_segment,left anterior basal bronchopulmonary segment,fma:fma:ID:7378,http://purl.org/sig/ont/fma/fma7378,
+,,VHF_left_lateral_basal_bronchopulmonary_segment,left Lateral Basal Bronchopulmonary Segment,fma:fma:ID:7379,http://purl.org/sig/ont/fma/fma7379,
+,,VHF_left_medial_basal_bronchopulmonary_segment,Left Medial Basal Bronchopulmonary Segment,fma:fma:ID:7377,http://purl.org/sig/ont/fma/fma7377,
+,,VHF_hilum_lower_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,
+,,VHF_lungs_R,right lung,UBERON:0002167,http://purl.obolibrary.org/obo/UBERON_0002167,
+,,VHF_hilum_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,
+,,VHF_R_lung_lower_lobe,Lower Lobe of Right Lung,UBERON:0002171,http://purl.obolibrary.org/obo/UBERON_0002171,
+,,VHF_right_medial_basal_bronchopulmonary_segment,Right Medial Basal Bronchopulmonary Segment,fma:fma:7365,http://purl.org/sig/ont/fma/fma7365,
+,,VHF_right_posterior_basal_bronchopulmonary_segment,Right Posterior Basal Bronchopulmonary Segment,fma:fma:7362,http://purl.org/sig/ont/fma/fma7362,
+,,VHF_right_anterior_basal_bronchopulmonary_segment,Right anterior basal bronchopulmonary segment,fma:fma:7364,http://purl.org/sig/ont/fma/fma7364,
+,,VHF_right_lateral_basal_bronchopulmonary_segment,Right Lateral Basal Bronchopulmonary Segment,fma:fma:7363,http://purl.org/sig/ont/fma/fma7363,
+,,VHF_right_superior_bronchopulmonary_segment,Right Superior Bronchopulmonary Segment,fma:fma:7366,http://purl.org/sig/ont/fma/fma7366,
+,,VHF_hilum_lower_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,
+,,VHF_R_lung_middle_lobe,Middle Lobe of Right Lung,UBERON:0002174,http://purl.obolibrary.org/obo/UBERON_0002174,
+,,VHF_right_medial_bronchopulmonary_segment,Right Medial Bronchopulmonary Segment,fma:fma:7360,http://purl.org/sig/ont/fma/fma7360,
+,,VHF_right_lateral_bronchopulmonary_segmennt,Right Lateral Bronchopulmonary Segment,fma:fma:7361,http://purl.org/sig/ont/fma/fma7361,
+,,VHF_hilum_middle_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,
+,,VHF_R_lung_upper_lobe,Upper Lobe of Right Lung,UBERON:0002170,http://purl.obolibrary.org/obo/UBERON_0002170,
+,,VHF_right_anterior_bronchopulmonary_segm,Right Anterior Bronchopulmonary Segment,fma:fma:7359,http://purl.org/sig/ont/fma/fma7359,
+,,VHF_right_apical_bronchopulmonary_segment,Right Apical Bronchopulmonary Segment,fma:fma:7338,http://purl.org/sig/ont/fma/fma7338,
+,,VHF_right_posterior_bronchopulmonary_segment,Right Posterior Bronchopulmonary Segment,fma:fma:7339,http://purl.org/sig/ont/fma/fma7339,
+,,VHF_hilum_upper_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,
+#VHMBody,#VHMaleOrgans,VHM,,,,
+#VHMCirculatorySystem,#VHMaleOrgans,VHM_circulatory_system,circulatory system,UBERON:0001009,http://purl.obolibrary.org/obo/UBERON_0001009,
+#VHMHeart,#VHMaleOrgans,VHM_heart,heart,UBERON:0000948,http://purl.obolibrary.org/obo/UBERON_0000948,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_heart_valve,valve,UBERON:0003978,http://purl.obolibrary.org/obo/UBERON_0003978,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_mitral_valve,mitral valve,UBERON:0002135,http://purl.obolibrary.org/obo/UBERON_0002135,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_tricuspid_valve,tricuspid valve,UBERON:0002134,http://purl.obolibrary.org/obo/UBERON_0002134,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_aortic_valve,aortic valve,UBERON:0002137,http://purl.obolibrary.org/obo/UBERON_0002137,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_pulmonary_valve,pulmonary valve,UBERON:0002146,http://purl.obolibrary.org/obo/UBERON_0002146,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_papillary_muscle_of_heart,papillary muscle of heart,UBERON:0002494,http://purl.obolibrary.org/obo/UBERON_0002494,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_papillary_muscle_of_heart_anterior,Anterior papillary muscle of left ventricle,fma:fma:7264,http://purl.org/sig/ont/fma/fma7264,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_papillary_muscle_of_heart_anterolateral,Anterolateral head of lateral papillary muscle of left ventricle,fma:fma:7265,http://purl.org/sig/ont/fma/fma72655,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_papillary_muscle_of_heart_medial,Septal papillary muscle of right ventricle,fma:fma:7262,http://purl.org/sig/ont/fma/fma7262,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_papillary_muscle_of_heart_posterior,Posterior papillary muscle of right ventricle,fma:fma:7261,http://purl.org/sig/ont/fma/fma72611,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_papillary_muscle_of_heart_posteromedial,Posteromedial head of posterior papillary muscle of left ventricle,fma:fma:7267,http://purl.org/sig/ont/fma/fma7267,VH_M_Heart.glb
+,,VHM_cardiac_chamber,,,,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_left_cardiac_atrium,left cardiac atrium,UBERON:0002079,http://purl.obolibrary.org/obo/UBERON_0002079,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_right_cardiac_atrium,right cardiac atrium,UBERON:0002078,http://purl.obolibrary.org/obo/UBERON_0002078,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_heart_right_ventricle,heart right ventricle,UBERON:0002080,http://purl.obolibrary.org/obo/UBERON_0002080,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_interventricular_septum,interventricular septum,UBERON:0002094,http://purl.obolibrary.org/obo/UBERON_0002094,VH_M_Heart.glb
+#VHMHeart,#VHMaleOrgans,VHM_heart_left_ventricle,heart left ventricle,UBERON:0002084,http://purl.obolibrary.org/obo/UBERON_0002084,VH_M_Heart.glb
+#VHMVasculature,#VHMaleOrgans,VHM_vasculature,vasculature,UBERON:0002049,http://purl.obolibrary.org/obo/UBERON_0002049,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_artery,artery,UBERON:0001637,http://purl.obolibrary.org/obo/UBERON_0001637,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_inferior_mesenteric_artery,inferior mesenteric artery,UBERON:0001183,http://purl.obolibrary.org/obo/UBERON_0001183,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_splenic_artery,splenic artery,UBERON:0001194,http://purl.obolibrary.org/obo/UBERON_0001194,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_superior_mesenteric_artery,superior mesenteric artery,UBERON:0001182,http://purl.obolibrary.org/obo/UBERON_0001182,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_celiac_artery,celiac artery,UBERON:0001640,http://purl.obolibrary.org/obo/UBERON_0001640,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_aorta,aorta,UBERON:0000947,http://purl.obolibrary.org/obo/UBERON_0000947,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_aortic_arch,arch of aorta,UBERON:0001508,http://purl.obolibrary.org/obo/UBERON_0001508,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_ascending_aorta,ascending aorta,UBERON:0001496,http://purl.obolibrary.org/obo/UBERON_0001496,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_brachiocephalic_artery,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_brachiocephalic_artery_b,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_brachiocephalic_artery_a,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_common_carotid_artery,left common carotid artery plus branches,UBERON:0001536,http://purl.obolibrary.org/obo/UBERON_0001536,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_common_carotid_artery_a,left common carotid artery plus branches,UBERON:0001536,http://purl.obolibrary.org/obo/UBERON_0001536,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_common_carotid_artery_b,left common carotid artery plus branches,UBERON:0001536,http://purl.obolibrary.org/obo/UBERON_0001536,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_subclavian_artery,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_subclavian_artery_a,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_subclavian_artery_b,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_descending_aorta,descending aorta,UBERON:0001514,http://purl.obolibrary.org/obo/UBERON_0001514,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_descending_aorta_a,descending aorta,UBERON:0001514,http://purl.obolibrary.org/obo/UBERON_0001514,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_descending_aorta_b,descending aorta,UBERON:0001514,http://purl.obolibrary.org/obo/UBERON_0001514,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_cardiac_artery,,,,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_anterior_descending_artery,Anterior descending branch of left pulmonary artery,fma:fma8636,http://purl.org/sig/ont/fma/fma8636,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_right_marginal_artery,marginal branch of right coronary artery,fma:fma3818,http://purl.org/sig/ont/fma/fma3818,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_right_posterior_descending_artery,Posterior interventricular branch of right coronary artery,fma:fma3840,http://purl.org/sig/ont/fma/fma3840,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_diagonal_branch_of_anterior_descending_branch_of_left_coronary_artery,Diagonal branch of anterior descending branch of left coronary artery,fma:fma3860,http://purl.org/sig/ont/fma/fma3860,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_coronary_artery,left coronary artery,UBERON:0001626,http://purl.obolibrary.org/obo/UBERON_0001626,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_right_coronary_artery,right coronary artery,UBERON:0001625,http://purl.obolibrary.org/obo/UBERON_0001625,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_diagonal_branch_of_left_anterior_descending_artery,Diagonal branch of anterior descending branch of left coronary artery,fma:fma3860,http://purl.org/sig/ont/fma/fma3860,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_marginal_branch,Left marginal artery,fma:fma3902,http://purl.org/sig/ont/fma/fma3902,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_pulmonary_artery,pulmonary artery,UBERON:0002012,http://purl.obolibrary.org/obo/UBERON_0002012,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_pulmonary_artery_L,left pulmonary artery,UBERON:0001652,http://purl.obolibrary.org/obo/UBERON_0001652,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_pulmonary_artery_R,right pulmonary artery,UBERON:0001651,http://purl.obolibrary.org/obo/UBERON_0001651,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_pulmonary_trunk,pulmonary trunk,UBERON:0002333,http://purl.obolibrary.org/obo/UBERON_0002333,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_renal_artery,renal artery,UBERON:0001184,http://purl.obolibrary.org/obo/UBERON_0001184,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_renal_artery,left renal artery,UBERON:0001186,http://purl.obolibrary.org/obo/UBERON_0001186,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_right_renal_artery,right renal artery,UBERON:0001185,http://purl.obolibrary.org/obo/UBERON_0001185,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_sigmoid_artery,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_sigmoid_artery_a,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_sigmoid_artery_b,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_sigmoid_artery_c,sigmoid artery,UBERON:0035180,http://purl.obolibrary.org/obo/UBERON_0035180,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_colic_artery,colic artery,UBERON:0035548,http://purl.obolibrary.org/obo/UBERON_0035548,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_right_colic_artery,Right colic artery,fma:fma14811,http://purl.org/sig/ont/fma/fma14811,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_middle_colic_artery,middle colic artery,UBERON:0001196,http://purl.obolibrary.org/obo/UBERON_0001196,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_colic_artery,Left colic artery,fma:fma14826,http://purl.org/sig/ont/fma/fma14826,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_ileocolic_artery,ileocolic artery,UBERON:0035548,http://purl.obolibrary.org/obo/UBERON_0001197,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_marginal_artery_of_Drummond,marginal colic artery,fma:fma14824,http://purl.org/sig/ont/fma/fma14824,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_vein,vein,UBERON:0001638,http://purl.obolibrary.org/obo/UBERON_0001638,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_inferior_mesenteric_vein,inferior mesenteric vein,UBERON:0001215,http://purl.obolibrary.org/obo/UBERON_0001215,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_median_sacral_vein,median sacral vein,UBERON:0006687,http://purl.obolibrary.org/obo/UBERON_0006687,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_hepatic_portal_vein,hepatic portal vein,UBERON:0001639,http://purl.obolibrary.org/obo/UBERON_0001639,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_sigmoid_vein,sigmoid vein,fma:fma15395,http://purl.org/sig/ont/fma/fma15395,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_splenic_vein,splenic vein,UBERON:0003713,http://purl.obolibrary.org/obo/UBERON_0003713,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_superior_mesenteric_vein,superior mesenteric artery,UBERON:0001182,http://purl.obolibrary.org/obo/UBERON_0001182,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_superior_rectal_vein,superior rectal artery,UBERON:0035040,http://purl.obolibrary.org/obo/UBERON_0035040,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_cardiac_vein,cardiac vein,UBERON:0004148,http://purl.obolibrary.org/obo/UBERON_0004148,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_great_cardiac_vein,great vein of heart,UBERON:0006958,http://purl.obolibrary.org/obo/UBERON_0006958,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_middle_cardiac_vein,middle cardiac vein,UBERON:0009687,http://purl.obolibrary.org/obo/UBERON_0009687,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_oblique_vein_of_left_atrium,Oblique vein of left atrium,fma:fma4715,http://purl.org/sig/ont/fma/fma4715,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_anterior_cardiac_vein,Anterior cardiac vein,fma:fma76767,http://purl.org/sig/ont/fma/fma76767,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_coronary_sinus,coronary sinus,UBERON:0005438,http://purl.obolibrary.org/obo/UBERON_0005438,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_posterior_vein_of_left_ventricle,Posterior vein of left ventricle,fma:fma4712,http://purl.org/sig/ont/fma/fma4712,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_small_cardiac_vein,small cardiac vein,UBERON:0035374,http://purl.obolibrary.org/obo/UBERON_0035374,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_pulmonary_vein,pulmonary vein,UBERON:0002016,http://purl.obolibrary.org/obo/UBERON_0002016,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_pulmonary_vein_R_inf,right inferior pulmonary vein,fma:fma49911,http://purl.org/sig/ont/fma/fma49911,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_pulmonary_vein_R_sup,right superior pulmonary vein,fma:fma49914,http://purl.org/sig/ont/fma/fma49914,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_pulmonary_vein_L_inf,left inferior pulmonary vein,fma:fma49913,http://purl.org/sig/ont/fma/fma49913,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_pulmonary_vein_L_sup,left superior pulmonary vein,fma:fma49916,http://purl.org/sig/ont/fma/fma49916,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_common_iliac_vein,common iliac vein,UBERON:0001139,http://purl.obolibrary.org/obo/UBERON_0001139,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_common_iliac_vein_L,Left common iliac vein,fma:fma21388,http://purl.org/sig/ont/fma/fma21388,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_common_iliac_vein_R,Right common iliac vein,fma:fma21387,http://purl.org/sig/ont/fma/fma21387,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_brachiocephalic_vein,brachiocephalic vein,fma:fma4723,http://purl.org/sig/ont/fma/fma4723,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_brachiocephalic_vein_L,Left brachiocephalic vein,fma:fma4761,http://purl.org/sig/ont/fma/fma4761,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_brachiocephalic_vein_R,Right brachiocephalic vein,fma:fma4751,http://purl.org/sig/ont/fma/fma4751,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_external_iliac_vein,external iliac vein,UBERON:0001316,http://purl.obolibrary.org/obo/UBERON_0001316,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_external_iliac_vein_L,external iliac vein,UBERON:0001316,http://purl.obolibrary.org/obo/UBERON_0001316,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_external_iliac_vein_R,external iliac vein,UBERON:0001316,http://purl.obolibrary.org/obo/UBERON_0001316,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_inferior_rectal_vein,Inferior rectal vein,fma:fma21242,http://purl.org/sig/ont/fma/fma21242,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_inferior_rectal_vein_L,left Inferior rectal vein,fma:fma21314,http://purl.org/sig/ont/fma/fma21314,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_inferior_rectal_vein_R,right Inferior rectal vein,fma:fma21313,http://purl.org/sig/ont/fma/fma21313,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_internal_pudendal_vein,internal pudendal vein,UBERON:0018252,http://purl.obolibrary.org/obo/UBERON_0018252,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_internal_pudendal_vein_L,internal pudendal vein,UBERON:0018252,http://purl.obolibrary.org/obo/UBERON_0018252,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_internal_pudendal_vein_R,internal pudendal vein,UBERON:0018252,http://purl.obolibrary.org/obo/UBERON_0018252,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_internal_iliac_vein,internal iliac vein,UBERON:0001317,http://purl.obolibrary.org/obo/UBERON_0001317,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_internal_iliac_vein_L,internal iliac vein,UBERON:0001317,http://purl.obolibrary.org/obo/UBERON_0001317,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_internal_iliac_vein_R,internal iliac vein,UBERON:0001317,http://purl.obolibrary.org/obo/UBERON_0001317,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_renal_vein,renal vein,UBERON:0001140,http://purl.obolibrary.org/obo/UBERON_0001140,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_renal_vein_L,left renal vein,UBERON:0001142,http://purl.obolibrary.org/obo/UBERON_0001142,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_renal_vein_R,right renal vein,UBERON:0001141,http://purl.obolibrary.org/obo/UBERON_0001141,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_middle_rectal_vein,Middle rectal vein,fma:fma18893,http://purl.org/sig/ont/fma/fma18893,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_middle_rectal_vein_L,Left middle rectal vein,fma:fma18895,http://purl.org/sig/ont/fma/fma18895,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_middle_rectal_vein_R,Right middle rectal vein,fma:fma18894,http://purl.org/sig/ont/fma/fma18894,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_colic_vein,,,,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_left_colic_vein,Left colic vein,fma:fma15394,http://purl.org/sig/ont/fma/fma15394,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_ileocolic_vein,ileocolic vein,UBERON:0001219,http://purl.obolibrary.org/obo/UBERON_0001219,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_right_colic_vein,Right colic vein,fma:fma15407,http://purl.org/sig/ont/fma/fma15407,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_middle_colic_vein,middle colic vein,UBERON:0001218,http://purl.obolibrary.org/obo/UBERON_0001218,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_inferior_pancreaticoduodenal_vein,Inferior pancreaticoduodenal vein,fma:fma0329299,http://purl.org/sig/ont/fma/fma0329299,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_vena_cava,vena cava,UBERON:0004087,http://purl.obolibrary.org/obo/UBERON_0004087,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_superior_vena_cava,superior vena cava,fma:fma4720,http://purl.org/sig/ont/fma/fma4720,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_inferior_vena_cava,inferior vena cava,fma:fma10951,http://purl.org/sig/ont/fma/fma10951,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_inferior_vena_cava_b,inferior vena cava,fma:fma10951,http://purl.org/sig/ont/fma/fma10951,VH_M_Vasculature
+#VHMVasculature,#VHMaleOrgans,VHM_inferior_vena_cava_a,inferior vena cava,fma:fma10951,http://purl.org/sig/ont/fma/fma10951,VH_M_Vasculature
+#VHMNervousSystem,#VHMaleOrgans,VHM_nervous_system,central nervous system,UBERON:0001017,http://purl.obolibrary.org/obo/UBERON_0001017,
+#VHMAllenBrain,#VHMaleOrgans,Allen_brain,brain,UBERON:0000955,http://purl.obolibrary.org/obo/UBERON_0000955,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_brain_Hemisphere_L,left cerebral hemisphere,UBERON:0002812,http://purl.obolibrary.org/obo/UBERON_0002812,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_olfactory_bulb_L,olfactory bulb,UBERON:0002264,http://purl.obolibrary.org/obo/UBERON_0002264,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_olfactory_nucleus_L,anterior olfactory nucleus,UBERON:0002266,http://purl.obolibrary.org/obo/UBERON_0002266,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_piriform_region_L,piriform cortex,UBERON:0004725,http://purl.obolibrary.org/obo/UBERON_0004725,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_frontal_agranular_insular_cortex_area_Fl_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_temporal_agranular_insular_cortex_area_Tl_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_head_of_caudate_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_body_of_caudate_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_tail_of_caudate_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_putamen_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_nucleus_accumbens_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_external_segment_of_globus_pallidus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_internal_segment_of_globus_pallidus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_claustrum_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_basal_forebrain_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_septal_nuclei_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_amygdaloid_complex_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_amygdaloid_area_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_central_nuclear_group_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_basolateral_nucleus_basal_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_basomedial_nucleus_accessory_basal_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_cortical_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_posterior_cortical_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_medial_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_amygdalohippocampal_area_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_bed_nucleus_of_stria_terminalis_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_nuclear_complex_of_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_dorsal_nucleus_of_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_mediodorsal_nucleus_of_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_reuniens_nucleus_medioventral_nucleus_of_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_posterior_nucleus_of_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_pulvinar_of_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_ventral_anterior_nucleus_of_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_ventral_lateral_nucleus_of_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_ventral_posterior_lateral_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_ventral_posterior_medial_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_dorsal_lateral_geniculate_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_medial_geniculate_nuclei_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_centromedian_nucleus_of_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_parafascicular_nucleus_of_thalamus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_habenular_nuclei_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_pineal_body_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_zona_incerta_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_subthalamic_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_hypothalamus_L,hypothalamus,UBERON:0001898,http://purl.obolibrary.org/obo/UBERON_0001898,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_preoptic_region_of_HTH_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_supraoptic_region_of_HTH_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_tuberal_region_of_HTH_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_mammillary_region_of_HTH_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_white_matter_of_forebrain_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_commissure_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_corpus_callosum_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_fornix_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_mammillothalamic_tract_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_optic_tract_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_horn_of_lateral_ventricle_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_body_of_lateral_ventricle_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_posterior_horn_of_lateral_ventricle_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_horn_of_lateral_ventricle_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_third_ventricle_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cerebellar_vermis_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cerebellar_deep_nuclei_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_white_matter_of_hindbrain_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_olfactory_tract_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_precentral_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_superior_frontal_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_middle_frontal_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_frontal_gyrus_triangular_part_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_frontal_gyrus_opercular_part_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_gyrus_rectus_straight_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_medial_orbital_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_intermediate_orbital_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_posterior_intermediate_orbital_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_orbital_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_paracentral_lobule_rostral_part_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_frontal_operculum_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_postcentral_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_supraparietal_lobule_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_supramarginal_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_angular_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_precuneus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_paracentral_lobule_caudal_part_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_superior_temporal_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_middle_temporal_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_temporal_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_occipitotemporal_fusiform_gyrus_temporal_part_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_transverse_temporal_gyrus_Heschls_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_planum_temporale_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_temporal_pole_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_planum_polare_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_occipital_pole_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cuneus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lingual_gyrus_medial_occipitotemporal_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_occipitotemporal_fusiform_gyrus_occipital_part_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_occipital_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_superior_occipital_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cingulate_gyrus_rostral_anterior_part_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cingulate_gyrus_caudal_posterior_part_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_ingulo_parahippocampal_isthmus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_subcallosal_gyrus_parolfactory_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_parahippocampal_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_posterior_parahippocampal_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_gyrus_ambiens_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_head_of_hippocampus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_body_of_hippocampus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_tail_of_hippocampus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_long_insular_gyri_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_short_insular_gyri_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_limen_insula_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_pretectal_region_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_midbrain_tegmentum_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_red_nucleus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_substantia_nigra_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_superior_colliculus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_colliculus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cerebral_peduncle_crus_cerebri_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_superior_cerebellar_peduncle_brachium_conjunctivum_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cerebral_aqueduct_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_paravermis_of_cerebellum_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_hemisphere_of_cerebellum_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_basilar_part_of_pons_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_pontine_tegmentum_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_pyramidal_part_of_medulla_oblongata_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_tegmentum_of_medulla_oblongata_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_olive_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_cerebellar_peduncle_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_middle_cerebellar_peduncle_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_fourth_ventricle_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_central_canal_of_medulla_oblongata_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_midline_nuclear_complex_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_olfactory_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_parietal_operculum_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_optic_ratiation_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_posteroventral_putamen_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_atrium_of_lateral_ventricle_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_paracingulate_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_rostral_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_frontomarginal_gyrus_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_frontal_pole_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_perirhinal_gyrus_rostral_part_of_FuGt_L,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_brain_Hemisphere_R,right cerebral hemisphere,UBERON:0002813,http://purl.obolibrary.org/obo/UBERON_0002813,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_olfactory_bulb_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_olfactory_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_piriform_region_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_frontal_agranular_insular_cortex_area_Fl_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_temporal_agranular_insular_cortex_area_Tl_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_head_of_caudate_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_body_of_caudate_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_tail_of_caudate_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_putamen_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_nucleus_accumbens_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_external_segment_of_globus_pallidus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_internal_segment_of_globus_pallidus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_claustrum_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_basal_forebrain_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_septal_nuclei_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_amygdaloid_complex_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_amygdaloid_area_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_central_nuclear_group_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_basolateral_nucleus_basal_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_basomedial_nucleus_accessory_basal_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_cortical_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_posterior_cortical_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_medial_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_amygdalohippocampal_area_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_bed_nucleus_of_stria_terminalis_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_nuclear_complex_of_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_dorsal_nucleus_of_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_mediodorsal_nucleus_of_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_reuniens_nucleus_medioventral_nucleus_of_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_posterior_nucleus_of_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_pulvinar_of_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_ventral_anterior_nucleus_of_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_ventral_lateral_nucleus_of_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_ventral_posterior_lateral_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_ventral_posterior_medial_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_dorsal_lateral_geniculate_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_medial_geniculate_nuclei_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_centromedian_nucleus_of_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_parafascicular_nucleus_of_thalamus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_habenular_nuclei_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_pineal_body_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_zona_incerta_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_subthalamic_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_hypothalamus_R,hypothalamus,UBERON:0001898,http://purl.obolibrary.org/obo/UBERON_0001898,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_preoptic_region_of_HTH_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_supraoptic_region_of_HTH_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_tuberal_region_of_HTH_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_mammillary_region_of_HTH_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_white_matter_of_forebrain_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_commissure_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_corpus_callosum_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_fornix_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_mammillothalamic_tract_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_optic_tract_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_horn_of_lateral_ventricle_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_body_of_lateral_ventricle_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_posterior_horn_of_lateral_ventricle_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_horn_of_lateral_ventricle_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_third_ventricle_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cerebellar_vermis_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cerebellar_deep_nuclei_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_white_matter_of_hindbrain_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_olfactory_tract_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_precentral_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_superior_frontal_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_middle_frontal_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_frontal_gyrus_triangular_part_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_frontal_gyrus_opercular_part_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_gyrus_rectus_straight_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_medial_orbital_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_intermediate_orbital_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_posterior_intermediate_orbital_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_orbital_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_paracentral_lobule_rostral_part_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_frontal_operculum_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_postcentral_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_supraparietal_lobule_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_supramarginal_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_angular_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_precuneus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_paracentral_lobule_caudal_part_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_superior_temporal_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_middle_temporal_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_temporal_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_occipitotemporal_fusiform_gyrus_temporal_part_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_transverse_temporal_gyrus_Heschls_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_planum_temporale_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_temporal_pole_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_planum_polare_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_occipital_pole_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cuneus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lingual_gyrus_medial_occipitotemporal_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_occipitotemporal_fusiform_gyrus_occipital_part_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_occipital_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_superior_occipital_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cingulate_gyrus_rostral_anterior_part_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cingulate_gyrus_caudal_posterior_part_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_ingulo_parahippocampal_isthmus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_subcallosal_gyrus_parolfactory_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_anterior_parahippocampal_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_posterior_parahippocampal_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_gyrus_ambiens_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_head_of_hippocampus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_body_of_hippocampus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_tail_of_hippocampus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_long_insular_gyri_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_short_insular_gyri_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_limen_insula_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_pretectal_region_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_midbrain_tegmentum_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_red_nucleus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_substantia_nigra_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_superior_colliculus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_colliculus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cerebral_peduncle_crus_cerebri_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_superior_cerebellar_peduncle_brachium_conjunctivum_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_cerebral_aqueduct_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_paravermis_of_cerebellum_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_hemisphere_of_cerebellum_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_basilar_part_of_pons_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_pontine_tegmentum_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_pyramidal_part_of_medulla_oblongata_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_tegmentum_of_medulla_oblongata_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_olive_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_inferior_cerebellar_peduncle_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_middle_cerebellar_peduncle_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_fourth_ventricle_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_central_canal_of_medulla_oblongata_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_midline_nuclear_complex_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_lateral_olfactory_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_parietal_operculum_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_optic_ratiation_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_posteroventral_putamen_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_atrium_of_lateral_ventricle_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_paracingulate_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_rostral_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_frontomarginal_gyrus_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_frontal_pole_R,,,,Allen_M_Brain.glb
+#VHMAllenBrain,#VHMaleOrgans,Allen_perirhinal_gyrus_rostral_part_of_FuGt_R,,,,Allen_M_Brain.glb
+#VHMIntegumentarySystem,#VHMaleOrgans,VHM_integumentary_system,integumentary system layer,UBERON:0013754,http://purl.obolibrary.org/obo/UBERON_0013754,
+#VHMSkin,#VHMaleOrgans,VHM_skin,skin of body,UBERON:0002097,http://purl.obolibrary.org/obo/UBERON_0002097,VH_M_Skin
+#VHMSkeletalSystem,#VHMaleOrgans,VHM_skeletal_system,skeletal system,UBERON:0001434,http://purl.obolibrary.org/obo/UBERON_0001434,
+,#VHMaleOrgans,VHM_hyoid,hyoid bone,UBERON:0001685,http://purl.obolibrary.org/obo/UBERON_0001685,VH_M_Lung
+#VHMPelvis,#VHMaleOrgans,VHM_pelvis,bony pelvis,UBERON:0001270,http://purl.obolibrary.org/obo/UBERON_0001270,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_sacrum,fused sacrum,UBERON:0003690,http://purl.obolibrary.org/obo/UBERON_0003690,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_coccyx,coccyx,UBERON:0001350,http://purl.obolibrary.org/obo/UBERON_0001350,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_pubis,pubis,UBERON:0001275,http://purl.obolibrary.org/obo/UBERON_0001275,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_pubis_compact_bone,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_pubis_compact_bone_L,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_pubis_compact_bone_R,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_pubis_spongy_bone,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_pubis_spongy_bone_L,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_pubis_spongy_bone_R,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ilium,ilium,UBERON:0001273,http://purl.obolibrary.org/obo/UBERON_0001273,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ilium_compact_bone,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ilium_compact_bone_L,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ilium_compact_bone_R,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ilium_spongy_bone,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ilium_spongy_bone_R,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ilium_spongy_bone_L,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ischium,ischium,UBERON:0001274,http://purl.obolibrary.org/obo/UBERON_0001274,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ischium_compact_bone,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ischium_compact_bone_L,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ischium_compact_bone_R,compact bone tissue,UBERON:0001439,http://purl.obolibrary.org/obo/UBERON_0001439,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ischium_spongy_bone,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ischium_spongy_bone_L,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHMPelvis,#VHMaleOrgans,VHM_ischium_spongy_bone_R,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_M_Pelvis
+#VHMDigestiveSystem,#VHMaleOrgans,VHM_digestive_system,digestive system,UBERON:0001007,http://purl.obolibrary.org/obo/UBERON_0001007,
+#VHMColon,#VHMaleOrgans,VHM_colon,large intestine,UBERON:0000059,http://purl.obolibrary.org/obo/UBERON_0000059,SBU_M_Intestine_Large.glb
+#VHMColon,#VHMaleOrgans,VHM_ascending_colon,ascending colon,UBERON:0001156,http://purl.obolibrary.org/obo/UBERON_0001156,SBU_M_Intestine_Large.glb
+#VHMColon,#VHMaleOrgans,VHM_caecum,caecum,UBERON:0001153,http://purl.obolibrary.org/obo/UBERON_0001153,SBU_M_Intestine_Large.glb
+#VHMColon,#VHMaleOrgans,VHM_descending_colon,descending colon,UBERON:0001158,http://purl.obolibrary.org/obo/UBERON_0001158,SBU_M_Intestine_Large.glb
+#VHMColon,#VHMaleOrgans,VHM_hepatic_flexure_of_colon,hepatic flexure of colon,UBERON:0022277,http://purl.obolibrary.org/obo/UBERON_0022277,SBU_M_Intestine_Large.glb
+#VHMColon,#VHMaleOrgans,VHM_ileocecal_valve,ileocecal valve,UBERON:0000569,http://purl.obolibrary.org/obo/UBERON_0000569,SBU_M_Intestine_Large.glb
+#VHMColon,#VHMaleOrgans,VHM_rectum,rectum,UBERON:0001052,http://purl.obolibrary.org/obo/UBERON_0001052,SBU_M_Intestine_Large.glb
+#VHMColon,#VHMaleOrgans,VHM_sigmoid_colon,sigmoid colon,UBERON:0001159,http://purl.obolibrary.org/obo/UBERON_0001159,SBU_M_Intestine_Large.glb
+#VHMColon,#VHMaleOrgans,VHM_splenic_flexure_of_colon,splenic flexure of colon,UBERON:0022276,http://purl.obolibrary.org/obo/UBERON_0022276,SBU_M_Intestine_Large.glb
+#VHMColon,#VHMaleOrgans,VHM_transverse_colon,transverse colon,UBERON:0001157,http://purl.obolibrary.org/obo/UBERON_0001157,SBU_M_Intestine_Large.glb
+#VHMColon,#VHMaleOrgans,VHM_vermiform_appendix,vermiform appendix,UBERON:0001154,http://purl.obolibrary.org/obo/UBERON_0001154,SBU_M_Intestine_Large.glb
+#VHMUrinarySystem,#VHMaleOrgans,VHM_urinary_system,renal system,UBERON:0001008,http://purl.obolibrary.org/obo/UBERON_0001008,
+#VHMUrinarySystem,#VHMaleOrgans,VHM_kidney,kidney,UBERON:0002113,http://purl.obolibrary.org/obo/UBERON_0002113,
+#VHMLeftKidney,#VHMaleOrgans,VHM_left_kidney,left kidney,UBERON:0004538,http://purl.obolibrary.org/obo/UBERON_0004538,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_kidney_capsule_L,kidney capsule,UBERON:0002015,http://purl.obolibrary.org/obo/UBERON_0002015,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_hilum_of_kidney_L,hilum of kidney,UBERON:0008716,http://purl.obolibrary.org/obo/UBERON_0008716,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_medulla_L,renal medulla,UBERON:0000362,http://purl.obolibrary.org/obo/UBERON_0000362,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_papilla_L,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_papilla_L_a,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_papilla_L_b,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_papilla_L_c,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_papilla_L_d,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_papilla_L_e,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_papilla_L_f,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_papilla_L_g,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_papilla_L_h,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHVHM_renal_papilla_L_i,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pyramid_L,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pyramid_L_a,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pyramid_L_b,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pyramid_L_c,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pyramid_L_d,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pyramid_L_e,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pyramid_L_f,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pyramid_L_g,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pyramid_L_h,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pyramid_L_i,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_kidney_calyx_L,kidney calyx,UBERON:0006517,http://purl.obolibrary.org/obo/UBERON_0006517,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_major_calyx_L,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_major_calyx_L_a,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_major_calyx_L_b,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_major_calyx_L_c,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_minor_calyx_L,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_minor_calyx_L_a,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_minor_calyx_L_b,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_minor_calyx_L_c,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_minor_calyx_L_d,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_minor_calyx_L_e,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_minor_calyx_L_f,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_minor_calyx_L_g,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_minor_calyx_L_h,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_minor_calyx_L_i,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_pelvis_L,renal pelvis,UBERON:0001224,http://purl.obolibrary.org/obo/UBERON_0001224,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_ureter_L,left ureter,UBERON:0001223,http://purl.obolibrary.org/obo/UBERON_0001223,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_cortex_of_kidney_L,cortex of kidney,UBERON:0001225,http://purl.obolibrary.org/obo/UBERON_0001225,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_renal_column_L,renal column,UBERON:0001284,http://purl.obolibrary.org/obo/UBERON_0001284,VH_M_Kidney_L.
+#VHMLeftKidney,#VHMaleOrgans,VHM_outer_cortex_of_kidney_L,outer cortex of kidney,UBERON:0002189,http://purl.obolibrary.org/obo/UBERON_0002189,VH_M_Kidney_L.
+#VHMRightKidney,#VHMaleOrgans,VHM_right_kidney,right kidney,UBERON:0004539,http://purl.obolibrary.org/obo/UBERON_0004539,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_kidney_capsule_R,kidney capsule,UBERON:0002015,http://purl.obolibrary.org/obo/UBERON_0002015,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_hilum_of_kidney_R,hilum of kidney,UBERON:0008716,http://purl.obolibrary.org/obo/UBERON_0008716,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_medulla_R,renal medulla,UBERON:0000362,http://purl.obolibrary.org/obo/UBERON_0000362,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R_j,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R_i,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R_h,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R_g,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R_f,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R_e,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R_d,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R_c,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R_b,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_papilla_R_a,renal papilla,UBERON:0001228,http://purl.obolibrary.org/obo/UBERON_0001228,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_R,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_a,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_b,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_c,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_d,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_e,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_f,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_g,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_h,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_i,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pyramid_j,renal pyramid,UBERON:0004200,http://purl.obolibrary.org/obo/UBERON_0004200,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_cortex_of_kidney_R,cortex of kidney,UBERON:0001225,http://purl.obolibrary.org/obo/UBERON_0001225,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_column_R,renal column,UBERON:0001284,http://purl.obolibrary.org/obo/UBERON_0001284,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_outer_cortex_of_kidney_R,outer cortex of kidney,UBERON:0002189,http://purl.obolibrary.org/obo/UBERON_0002189,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_ureter_R,right ureter,UBERON:0001222,http://purl.obolibrary.org/obo/UBERON_0001222,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_renal_pelvis_R,renal pelvis,UBERON:0001224,http://purl.obolibrary.org/obo/UBERON_0001224,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_calyx_R,kidney calyx,UBERON:0006517,http://purl.obolibrary.org/obo/UBERON_0006517,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_major_calyx_R,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_major_calyx_R_a,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_major_calyx_R_b,major calyx,UBERON:0001226,http://purl.obolibrary.org/obo/UBERON_0001226,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_minor_calyx_R,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_minor_calyx_R_a,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_minor_calyx_R_b,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_minor_calyx_R_c,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_minor_calyx_R_d,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_minor_calyx_R_e,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_minor_calyx_R_f,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_minor_calyx_R_g,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_minor_calyx_R_h,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_R
+#VHMRightKidney,#VHMaleOrgans,VHM_minor_calyx_R_i,minor calyx,UBERON:0001227,http://purl.obolibrary.org/obo/UBERON_0001227,VH_M_Kidney_R
+#VHMLymphaticSystem,#VHMaleOrgans,VHM_lymphatic_system,lymphoid system,UBERON:0002465,http://purl.obolibrary.org/obo/UBERON_0002465,
+#VHMSpleen,#VHMaleOrgans,VHM_spleen,spleen,UBERON:0002106,http://purl.obolibrary.org/obo/UBERON_0002106,VH_M_Spleen
+#VHMSpleen,#VHMaleOrgans,VHM_colic_surface_of_spleen,colic surface of spleen,fma:fma15838,http://purl.org/sig/ont/fma/fma15838,VH_M_Spleen
+#VHMSpleen,#VHMaleOrgans,VHM_diaphragmatic_surface_of_spleen,diaphragmatic surface of spleen,fma:fma15828,http://purl.org/sig/ont/fma/fma15828,VH_M_Spleen
+#VHMSpleen,#VHMaleOrgans,VHM_gastric_surface_of_spleen,gastric surface of spleen,fma:fma15837,http://purl.org/sig/ont/fma/fma15837,VH_M_Spleen
+#VHMSpleen,#VHMaleOrgans,VHM_hilum_of_spleen,hilum of spleen,UBERON:0001248,http://purl.obolibrary.org/obo/UBERON_0001248,VH_M_Spleen
+#VHMSpleen,#VHMaleOrgans,VHM_renal_surface_of_spleen,renal surface of spleen,fma:fma15839,http://purl.org/sig/ont/fma/fma15839,VH_M_Spleen
+,,Yao_lymph_node,,,,
+#VHMLeftLymphNode,#VHMaleOrgans,Yao_lymph_node_a,lymph node,UBERON:0000029,http://purl.obolibrary.org/obo/UBERON_0000029,NIH_M_Lymph_Node_Left
+#VHMLeftLymphNode,#VHMaleOrgans,Yao_afferent_lymphatic_vessel_a,afferent lymphatic vessel,UBERON:0010396,http://purl.obolibrary.org/obo/UBERON_0010396,NIH_M_Lymph_Node_Left
+#VHMLeftLymphNode,#VHMaleOrgans,Yao_capsule_of_lymph_node_a,capsule of lymph node,UBERON:0002194,http://purl.obolibrary.org/obo/UBERON_0002194,NIH_M_Lymph_Node_Left
+#VHMLeftLymphNode,#VHMaleOrgans,Yao_follicles_a,lymph node follicle,UBERON:0010748,http://purl.obolibrary.org/obo/UBERON_0010748,NIH_M_Lymph_Node_Left
+#VHMLeftLymphNode,#VHMaleOrgans,Yao_efferent_lymph_node_a,efferent lymphatic vessel,UBERON:0010397,http://purl.obolibrary.org/obo/UBERON_0010397,NIH_M_Lymph_Node_Left
+#VHMLeftLymphNode,#VHMaleOrgans,Yao_medulla_of_lymph_node_a,medulla of lymph node,UBERON:0002007,http://purl.obolibrary.org/obo/UBERON_0002007,NIH_M_Lymph_Node_Left
+#VHMLeftLymphNode,#VHMaleOrgans,Yao_paracortex_a,lymph node T cell domain,UBERON:0010417,http://purl.obolibrary.org/obo/UBERON_0010417,NIH_M_Lymph_Node_Left
+#VHMLeftLymphNode,#VHMaleOrgans,Yao_vasculature_a,vasculature,UBERON:0002049,http://purl.obolibrary.org/obo/UBERON_0002049,NIH_M_Lymph_Node_Left
+#VHMRightLymphNode,#VHMaleOrgans,Yao_lymph_node_b,lymph node,UBERON:0000029,http://purl.obolibrary.org/obo/UBERON_0000029,NIH_M_Lymph_Node_Right
+#VHMRightLymphNode,#VHMaleOrgans,Yao_afferent_lymphatic_vessel_b,afferent lymphatic vessel,UBERON:0010396,http://purl.obolibrary.org/obo/UBERON_0010396,NIH_M_Lymph_Node_Right
+#VHMRightLymphNode,#VHMaleOrgans,Yao_capsule_of_lymph_node_b,capsule of lymph node,UBERON:0002194,http://purl.obolibrary.org/obo/UBERON_0002194,NIH_M_Lymph_Node_Right
+#VHMRightLymphNode,#VHMaleOrgans,Yao_follicles_b,lymph node follicle,UBERON:0010748,http://purl.obolibrary.org/obo/UBERON_0010748,NIH_M_Lymph_Node_Right
+#VHMRightLymphNode,#VHMaleOrgans,Yao_efferent_lymph_node_b,efferent lymphatic vessel,UBERON:0010397,http://purl.obolibrary.org/obo/UBERON_0010397,NIH_M_Lymph_Node_Right
+#VHMRightLymphNode,#VHMaleOrgans,Yao_medulla_of_lymph_node_b,medulla of lymph node,UBERON:0002007,http://purl.obolibrary.org/obo/UBERON_0002007,NIH_M_Lymph_Node_Right
+#VHMRightLymphNode,#VHMaleOrgans,Yao_paracortex_b,lymph node T cell domain,UBERON:0010417,http://purl.obolibrary.org/obo/UBERON_0010417,NIH_M_Lymph_Node_Right
+#VHMRightLymphNode,#VHMaleOrgans,Yao_vasculature_b,vasculature,UBERON:0002049,http://purl.obolibrary.org/obo/UBERON_0002049,NIH_M_Lymph_Node_Right
+#VHMThymus,#VHMaleOrgans,VHM_thymus,thymus,UBERON:0002370,http://purl.obolibrary.org/obo/UBERON_0002370,VH_M_Thymus
+#VHMThymus,#VHMaleOrgans,VHM_thymus_lobe_L,left thymus lobe,UBERON:0005457,http://purl.obolibrary.org/obo/UBERON_0005457,VH_M_Thymus
+#VHMThymus,#VHMaleOrgans,VHM_thymus_lobe_R,right thymus lobe,UBERON:0005469,http://purl.obolibrary.org/obo/UBERON_0005469,VH_M_Thymus
+#VHMLung,#VHMaleOrgans,VHM_respiratory_system,respiratory system,UBERON:0001004,http://purl.obolibrary.org/obo/UBERON_0001004,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_bronchi,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_bronchi_L,,,,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_main_bronchus,Left Main Bronchus,UBERON:0002178,http://purl.obolibrary.org/obo/UBERON_0002178,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lobar_bronchus_L,lobar bronchus of left lung,UBERON:0003405,http://purl.obolibrary.org/obo/UBERON_0003405,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_superior_lobar_bronchus,lobar bronchus of left lung upper lobe,UBERON:0012065,http://purl.obolibrary.org/obo/UBERON_0012065,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_inferior_lobar_bronchus,lobar bronchus of left lung lower lobe,UBERON:0012066,http://purl.obolibrary.org/obo/UBERON_0012066,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_tertiary_bronchi_L,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_superior_bronchus,Left superior segmental bronchus,fma:fma7504,http://purl.org/sig/ont/fma/fma7504,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_posterior_basal_bronchus,Left posterior basal segmental bronchus,fma:fma7508,http://purl.org/sig/ont/fma/fma7508,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_medial_basal_bronchus,Left medial basal segmental bronchus,fma:fma7505,http://purl.org/sig/ont/fma/fma7505,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_apical_bronchus,Left apical segmental bronchus,fma:fma7426,http://purl.org/sig/ont/fma/fma7426,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_anterior_bronchus,Left anterior segmental bronchus,fma:fma7428,http://purl.org/sig/ont/fma/fma7428,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_lingular_bronchus,,,,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_lingula_superior_bronchus,Superior lingular bronchus,fma:fma7430,http://purl.org/sig/ont/fma/fma7430,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_lingula_inferior_bronchus,Inferior lingular bronchus,fma:fma7431,http://purl.org/sig/ont/fma/fma7431,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_lateral_basal_bronchus,Left lateral basal segmental bronchus,fma:fma7507,http://purl.org/sig/ont/fma/fma7507,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_anterior_basal_bronchus,Left anterior basal segmental bronchus,fma:fma7506,http://purl.org/sig/ont/fma/fma7506,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_bronchi_R,,,,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_main_bronchus,Right Main Bronchus,UBERON:0002177,http://purl.obolibrary.org/obo/UBERON_0002177,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lobar_bronchi_R,lobar bronchus of right lung,UBERON:0003404,http://purl.obolibrary.org/obo/UBERON_0003404,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_intermediate_bronchus,Interlobar bronchus,fma:fma7415,http://purl.org/sig/ont/fma/fma7415,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_middle_lobar_bronchus,Middle lobar bronchus,fma:fma7401,http://purl.org/sig/ont/fma/fma7401,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_superior_lobar_bronchus,Right superior lobar bronchus,fma:fma7397,http://purl.org/sig/ont/fma/fma7397,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_tertiary_bronchi_R,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_anterior_bronchus,Right anterior segmental bronchus,fma:fma7400,http://purl.org/sig/ont/fma/fma7400,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_lateral_basal_bronchus,Right lateral basal segmental bronchus,fma:fma7419,http://purl.org/sig/ont/fma/fma7419,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_lateral_bronchus,Lateral segmental bronchus,fma:fma7402,http://purl.org/sig/ont/fma/fma7402,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_lower_lobar_bronchus,Right inferior lobar bronchus,fma:fma7404,http://purl.org/sig/ont/fma/fma7404,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_medial_basal_bronchus,Right medial basal segmental bronchus,fma:fma7417,http://purl.org/sig/ont/fma/fma7417,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_medial_bronchus,Medial segmental bronchus,fma:fma7403,http://purl.org/sig/ont/fma/fma7403,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_posterior_basal,Right posterior basal segmental bronchus,fma:fma7420,http://purl.org/sig/ont/fma/fma7420,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_posterior_bronchus,Right posterior segmental bronchus,fma:fma7399,http://purl.org/sig/ont/fma/fma7399,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_superior_bronchus,Right superior segmental bronchus,fma:fma7416,http://purl.org/sig/ont/fma/fma7416,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_apical_bronchus,Right superior segmental bronchus,fma:fma7416,http://purl.org/sig/ont/fma/fma7416,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_anterior_basal_bronchus,Right posterior segmental bronchus,fma:fma7399,http://purl.org/sig/ont/fma/fma7399,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_bronchus,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lungs_cartilage,,,,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_bronchial_cartilage,Cartilage of bronchus,fma:fma62649,http://purl.org/sig/ont/fma/fma62649,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_carina,Carina of trachea,fma:fma7465,http://purl.org/sig/ont/fma/fma7465,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_cricoid_cartilage,Cricoid cartilage,fma:fma9615,http://purl.org/sig/ont/fma/fma9615,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_epiglottic_cartilage,Epiglottic cartilage,fma:fma55112,http://purl.org/sig/ont/fma/fma55112,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_thyroid_cartilage,Thyroid cartilage,fma:fma55099,http://purl.org/sig/ont/fma/fma55099,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_arytenoid_cartilage,arytenoid cartilage,UBERON:0001740,http://purl.obolibrary.org/obo/UBERON_0001740,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_arytenoid_cartilage_L,Left arytenoid cartilage,fma:fma55114,http://purl.org/sig/ont/fma/fma55114,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_arytenoid_cartilage_R,Right arytenoid cartilage,fma:fma55113,http://purl.org/sig/ont/fma/fma55113,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_corniculate_cartilage,Corniculate cartilage,fma:fma55110,http://purl.org/sig/ont/fma/fma55110,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_corniculate_cartilage_L,Left corniculate cartilage,fma:fma55116,http://purl.org/sig/ont/fma/fma55116,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_corniculate_cartilage_R,Right corniculate cartilage,fma:fma55115,http://purl.org/sig/ont/fma/fma55115,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_tracheal_cartilage,Tracheal cartilage,fma:fma7434,http://purl.org/sig/ont/fma/fma7434,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_muscles_of_larynx,Muscle of larynx,fma:fma46562,http://purl.org/sig/ont/fma/fma46562,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_thyroepiglottideus,thyroepiglotticus muscle,UBERON:0010927,http://purl.obolibrary.org/obo/UBERON_0010927,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_vocalis,vocalis muscle,UBERON:0008577,http://purl.obolibrary.org/obo/UBERON_0008577,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_cricoarytenoid,crico-arytenoid muscle,UBERON:0010932,http://purl.obolibrary.org/obo/UBERON_0010932,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_posterior_cricoarytenoid_L,Muscle fasciculus of left posterior crico-arytenoid,fma:fma47754,http://purl.org/sig/ont/fma/fma47754,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_posterior_cricoarytenoid_R,Muscle fasciculus of right posterior crico-arytenoid,fma:fma47753,http://purl.org/sig/ont/fma/fma47753,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lateral_cricoarytenoid,Muscle fasciculus of lateral crico-arytenoid,fma:fma47767,http://purl.org/sig/ont/fma/fma47767,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lateral_cricoarytenoid_R,Muscle fasciculus of right lateral crico-arytenoid,fma:fma47768,http://purl.org/sig/ont/fma/fma47768,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lateral_cricoarytenoid_L,Muscle fasciculus of left lateral crico-arytenoid,fma:fma47769,http://purl.org/sig/ont/fma/fma47769,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_cricothyroid,cricothyroid muscle,fma:fma46417,http://purl.org/sig/ont/fma/fma46417,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_cricothyroid_R,Left cricothyroid muscle,ma:fma46564,http://purl.org/sig/ont/fma/fma46564,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_cricothyroid_L,right cricothyroid muscle,fma:fma46563,http://purl.org/sig/ont/fma/fma46563,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_thyroarytenoid,thyro-arytenoid,fma:fma46588,http://purl.org/sig/ont/fma/fma46588,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_thyroarytenoid_L,Left thyro-arytenoid,fma:fma46590,http://purl.org/sig/ont/fma/fma46590,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_thyroarytenoid_R,right thyro-arytenoid,fma:fma46589,http://purl.org/sig/ont/fma/fma46589,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_arytenoid,arytenoid muscle,UBERON:0010958,http://purl.obolibrary.org/obo/UBERON_0010958,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_trachea,trachea,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lungs,lung,UBERON:0002048,http://purl.obolibrary.org/obo/UBERON_0002048,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lungs_L,left lung,UBERON:0002168,http://purl.obolibrary.org/obo/UBERON_0002168,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_hilum_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lungs_L_upper_lobe,Upper Lobe of Left Lung,Uberon:0008952,http://purl.obolibrary.org/obo/UBERON_0008952,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_hilum_upper_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_lingula_superior_bronchopulmonary_segment,Superior lingular bronchopulmonary segment,fma:fma7374,http://purl.org/sig/ont/fma/fma7374,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_posterior_bronchopulmonary_segment,Left posterior bronchopulmonary segment,fma:fma7386,http://purl.org/sig/ont/fma/fma7386,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_anterior_bronchopulmonary_segment,Left Anterior Bronchopulmonary Segment,fma:fma7373,http://purl.org/sig/ont/fma/fma7373,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_apical_bronchopulmonary_segment,Left apical bronchopulmonary segment,fma:fma7385,http://purl.org/sig/ont/fma/fma7385,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_lingula_inferior_bronchopulmonary_segment,Inferior lingular bronchopulmonary segment,fma:fma7375,http://purl.org/sig/ont/fma/fma7375,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lungs_L_lower_lobe,Lower Lobe of Left Lung,Uberon:0008953,http://purl.obolibrary.org/obo/UBERON_0008953,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_hilum_lower_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_anterior_basal_bronchopulmonary_segment,left anterior basal bronchopulmonary segment,fma:fma7378,http://purl.org/sig/ont/fma/fma7378,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_lateral_basal_bronchopulmonary_segment,left Lateral Basal Bronchopulmonary Segment,fma:fma7379,http://purl.org/sig/ont/fma/fma7379,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_medial_basal_bronchopulmonary_segment,Left Medial Basal Bronchopulmonary Segment,fma:fma7377,http://purl.org/sig/ont/fma/fma7377,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_posetrior_basal_bronchopulmonary_segment,Left posterior basal segmental bronchus,fma:fma7508,http://purl.org/sig/ont/fma/fma7508,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_left_superior_bronchopulmonary_segment,Left superior bronchopulmonary segment,fma:fma7376,http://purl.org/sig/ont/fma/fma7376,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lungs_R,right lung,UBERON:0002167,http://purl.obolibrary.org/obo/UBERON_0002167,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_hilum_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lungs_R_middle_lobe,Middle Lobe of Right Lung,UBERON:0002174,http://purl.obolibrary.org/obo/UBERON_0002174,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_lateral_bronchopulmonary_segment,Right Lateral Bronchopulmonary Segment,fma:fma7361,http://purl.org/sig/ont/fma/fma7361,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_medial_bronchopulmonary_segment,Right Medial Bronchopulmonary Segment,fma:fma7360,http://purl.org/sig/ont/fma/fma7360,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_hilum_middle_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lungs_R_lower_lobe,Lower Lobe of Right Lung,UBERON:0002171,http://purl.obolibrary.org/obo/UBERON_0002171,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_hilum_lower_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_anterior_basal_bronchopulmonary_segment,Right anterior basal bronchopulmonary segment,fma:fma7364,http://purl.org/sig/ont/fma/fma7364,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_lateral_basal_bronchopulmonary_segment,Right Lateral Basal Bronchopulmonary Segment,fma:fma7363,http://purl.org/sig/ont/fma/fma7363,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_medial_basal_bronchopulmonary_segment,Right Medial Basal Bronchopulmonary Segment,fma:fma7365,http://purl.org/sig/ont/fma/fma7365,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_posterior_basal_bronchopulmonary_segment,Right Posterior Basal Bronchopulmonary Segment,fma:fma7362,http://purl.org/sig/ont/fma/fma7362,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_superior_bronchopulmonary_segment,Right Superior Bronchopulmonary Segment,fma:fma7366,http://purl.org/sig/ont/fma/fma7366,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_lungs_R_upper_lobe,Upper Lobe of Right Lung,UBERON:0002170,http://purl.obolibrary.org/obo/UBERON_0002170,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_apical_bronchopulmonary_segment,Right Apical Bronchopulmonary Segment,fma:fma7338,http://purl.org/sig/ont/fma/fma7338,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_posterior_bronchopulmonary_segment,Right Posterior Bronchopulmonary Segment,fma:fma7339,http://purl.org/sig/ont/fma/fma7339,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_right_anterior_bronchopulmonary_segment,Right Anterior Bronchopulmonary Segment,fma:fma7359,http://purl.org/sig/ont/fma/fma7359,VH_M_Lung
+#VHMLung,#VHMaleOrgans,VHM_hilum_upper_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,VH_M_Lung

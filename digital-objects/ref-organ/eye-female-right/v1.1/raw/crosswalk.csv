@@ -1,0 +1,25 @@
+node_name,OntologyID,label
+VH_F_eye_R,UBERON:0004549,right eye
+VH_F_sclera_R,FMA:58271,Right sclera
+VH_F_iris_R,FMA:58236,Right iris
+VH_F_schlemms_canal_R,FMA:51874,Right scleral venous sinus
+VH_F_trabecular_meshwork_R,UBERON:0005969,eye trabecular meshwork
+VH_F_optic_choroid_R,FMA:58299,Right choroid
+VH_F_ciliary_body_R,FMA:58296,Right ciliary body
+VH_F_ciliary_muscle_R,FMA:49152,Right ciliary muscle
+VH_F_aqueous_humor_R,FMA:58820,Aqueous humor of right eyeball
+VH_F_cornea_R,FMA:58239,Right cornea
+VH_F_lens_R,FMA:58242,Right lens
+VH_F_pupil_R,UBERON:0010224,right pupil
+VH_F_corneo_scleral_junction_R,FMA:58343,Right corneoscleral junction
+VH_F_ora_serrata_of_retina_R,FMA:58601,Right ora serrata
+VH_F_suspensory_ligament_of_lens_R,FMA:58839,Suspensory ligament of right lens
+VH_F_ciliary_processes_R,UBERON:0010427,ciliary processes
+VH_F_retina_R,FMA:58302,Right retina
+VH_F_fovea_R,FMA:58661,Right fovea centralis
+VH_F_macula_lutea_R,FMA:58638,Right macula lutea
+VH_F_optic_disc_R,FMA:58635,Right optic disc
+VH_F_vitreous_humor_R,FMA:261236,Humor of right vitreous body
+VH_F_bulbar_conjunctiva_R,FMA:59028,Right bulbar conjunctiva
+VH_F_palpebral_conjunctiva_of_right_lower_eyelid,FMA:223074,Palpebral conjunctiva of right lower eyelid
+VH_F_palpebral_conjunctiva_of_right_upper_eyelid,FMA:223076,Palpebral conjunctiva of right upper eyelid

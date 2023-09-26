@@ -1,0 +1,63 @@
+node_name,OntologyID,label
+VH_M_blood_vasculature,UBERON:0004537,blood vasculature
+VH_M_aorta,UBERON:0000947,aorta
+VH_M_aortic_arch,UBERON:0001508,arch of aorta
+VH_M_ascending_aorta,UBERON:0001496,ascending aorta
+VH_M_brachiocephalic_artery,UBERON:0001529,brachiocephalic artery
+VH_M_brachiocephalic_artery_b,UBERON:0001529,brachiocephalic artery
+VH_M_brachiocephalic_artery_a,UBERON:0001529,brachiocephalic artery
+VH_M_left_common_carotid_artery,UBERON:0001536,left common carotid artery plus branches
+VH_M_left_common_carotid_artery_a,UBERON:0001536,left common carotid artery plus branches
+VH_M_left_common_carotid_artery_b,UBERON:0001536,left common carotid artery plus branches
+VH_M_left_subclavian_artery,UBERON:0001584,left subclavian artery
+VH_M_left_subclavian_artery_a,UBERON:0001584,left subclavian artery
+VH_M_left_subclavian_artery_b,UBERON:0001584,left subclavian artery
+VH_M_descending_aorta,UBERON:0001514,descending aorta
+VH_M_descending_aorta_a,UBERON:0001514,descending aorta
+VH_M_descending_aorta_b,UBERON:0001514,descending aorta
+VH_M_left_anterior_descending_artery,FMA:8636,Anterior descending branch of left pulmonary artery
+VH_M_right_marginal_artery,FMA:3818,marginal branch of right coronary artery
+VH_M_right_posterior_descending_artery,FMA:3840,Posterior interventricular branch of right coronary artery
+VH_M_diagonal_branch_of_anterior_descending_branch_of_left_coronary_artery,FMA:3860,Diagonal branch of anterior descending branch of left coronary artery
+VH_M_left_coronary_artery,UBERON:0001626,left coronary artery
+VH_M_right_coronary_artery,UBERON:0001625,right coronary artery
+VH_M_diagonal_branch_of_left_anterior_descending_artery,FMA:3860,Diagonal branch of anterior descending branch of left coronary artery
+VH_M_left_marginal_branch,FMA:3902,Left marginal artery
+VH_M_pulmonary_artery,UBERON:0002012,pulmonary artery
+VH_M_pulmonary_artery_L,UBERON:0001652,left pulmonary artery
+VH_M_pulmonary_artery_R,UBERON:0001651,right pulmonary artery
+VH_M_pulmonary_trunk,UBERON:0002333,pulmonary trunk
+VH_M_cardiac_vein,UBERON:0004148,cardiac vein
+VH_M_great_cardiac_vein,UBERON:0006958,great vein of heart
+VH_M_middle_cardiac_vein,UBERON:0009687,middle cardiac vein
+VH_M_oblique_vein_of_left_atrium,FMA:4715,Oblique vein of left atrium
+VH_M_anterior_cardiac_vein,FMA:76767,Anterior cardiac vein
+VH_M_coronary_sinus,UBERON:0005438,coronary sinus
+VH_M_posterior_vein_of_left_ventricle,FMA:4712,Posterior vein of left ventricle
+VH_M_small_cardiac_vein,UBERON:0035374,small cardiac vein
+VH_M_pulmonary_vein,UBERON:0002016,pulmonary vein
+VH_M_pulmonary_vein_R_inf,FMA:49911,right inferior pulmonary vein
+VH_M_pulmonary_vein_R_sup,FMA:49914,right superior pulmonary vein
+VH_M_pulmonary_vein_L_inf,FMA:49913,left inferior pulmonary vein
+VH_M_pulmonary_vein_L_sup,FMA:49916,left superior pulmonary vein
+VH_M_brachiocephalic_vein,FMA:4723,brachiocephalic vein
+VH_M_brachiocephalic_vein_L,FMA:4761,Left brachiocephalic vein
+VH_M_brachiocephalic_vein_R,FMA:4751,Right brachiocephalic vein
+VH_M_vena_cava,UBERON:0004087,vena cava
+VH_M_superior_vena_cava,FMA:4720,superior vena cava
+VH_M_inferior_vena_cava,FMA:10951,inferior vena cava
+VH_M_inferior_vena_cava_b,FMA:10951,inferior vena cava
+VH_M_inferior_vena_cava_a,FMA:10951,inferior vena cava
+VH_M_splenic_vein,UBERON:0003713,splenic vein
+VH_M_splenic_artery,UBERON:0001194,splenic artery
+VH_M_cystic_vein,UBERON:0035392,cystic vein
+VH_M_cystic_artery,UBERON:0039222,cystic artery
+VH_M_celiac_trunk,FMA:14812,Celiac trunk
+VH_M_left_hepatic_artery,FMA:14779,Left hepatic artery
+VH_M_proper_hepatic_artery,FMA:14772,Hepatic artery proper
+VH_M_right_hepatic_artery,FMA:14778,Right hepatic artery
+VH_M_common_hepatic_artery,UBERON:0005436,common hepatic artery
+VH_M_right_hepatic_vein,FMA:14338,Right hepatic vein
+VH_M_left_hepatic_vein,FMA:14339,Left hepatic vein
+VH_M_middle_hepatic_vein,FMA:14340,Middle hepatic vein
+VH_M_hepatic_portal_vein,UBERON:0001639,hepatic portal vein

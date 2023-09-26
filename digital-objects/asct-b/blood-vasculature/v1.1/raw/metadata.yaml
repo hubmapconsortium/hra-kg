@@ -1,0 +1,56 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood
+  Vasculature
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts.
+creators:
+  - fullName: Griffin Weber
+    firstName: Griffin
+    lastName: Weber
+    orcid: 0000-0002-2597-881X
+  - fullName: Sujin Lee
+    firstName: Sujin
+    lastName: Lee
+    orcid: 0000-0002-6692-6880
+  - fullName: Rajeev Malhotra
+    firstName: Rajeev
+    lastName: Malhotra
+    orcid: 0000-0003-0120-4630
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Marc Halushka
+    firstName: Marc
+    lastName: Halushka
+    orcid: 0000-0002-7112-7389
+  - fullName: Avinash Boppana
+    firstName: Avinash
+    lastName: Boppana
+    orcid: 0000-0003-0834-8274
+externalReviewers: []
+creation_date: '2021-12-01'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM655.DGSW.887
+doi: https://doi.org/10.48539/HBM655.DGSW.887
+citation: >-
+  Griffin Weber; Sujin Lee; Rajeev Malhotra. HuBMAP ASCT+B Tables. Blood
+  Vasculature v1.1
+  [https://doi.org/10.48539/HBM655.DGSW.887](https://doi.org/10.48539/HBM655.DGSW.887)
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. *HuBMAP
+  ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on Dec 1, 2021.
+datatable:
+  - ASCT-B_VH_Blood_Vasculature.csv

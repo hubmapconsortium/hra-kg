@@ -1,0 +1,63 @@
+Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Author Name(s):,John Hickey,,,,,,,,,,,,,,,,,,,,,
+Author ORCID(s):,0000-0001-9961-7673,,,,,,,,,,,,,,,,,,,,,
+Reviewer(s):,Teri Longacre,,,,,,,,,,,,,,,,,,,,,
+Reviewer ORCID(s):,0000-0002-0935-7300,,,,,,,,,,,,,,,,,,,,,
+General Publication(s):,,,,,,,,,,,,,,,,,,,,,,
+Data DOI:,https://doi.org/10.48539/HBM373.HQCB.363,,,,,,,,,,,,,,,,,,,,,
+Date:,"May 6, 2022",,,,,,,,,,,,,,,,,,,,,
+Version Number:,v1.0,,,,,,,,,,,,,,,,,,,,,
+uniprot_accession_number,HGNC_ID,target_name,antibody_name,host_organism,clonality,vendor,catalog_number,lot_number,recombinant,Dilution/Concentration,Conjugate,RRID,Application,Method,Tissue Preservation,Cycle Number,Fluorescent reporter,DOI for Protocol,ORCID ID of Author,Core Panel (4-6 markers),Essential 25-plex,Rationale
+P46013,HGNC:7107,Ki67,Anti-Ki67 antibody,mouse,B56,BD Biosciences,556003,NA,No,1/50,oligonucleotide,AB_396287,IHC,CODEX,fresh frozen,2,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Proliferation
+P01589,HGNC:6008,CD25,Anti-CD25 antibody,mouse,7G7B6,Bio X Cell,BE0014,NA,No,1/100,oligonucleotide,AB_1107617,IHC,CODEX,fresh frozen,2,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Immune (Treg)
+P08195,HGNC:11026,CD98,Anti-CD98 antibody,mouse,MEM-108,Biolegend,315602,NA,No,1/25,oligonucleotide,AB_2302070,IHC,CODEX,fresh frozen,2,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Membrane
+P08670,HGNC:12692,Vimentin,Anti-Vimentin antibody,mouse,RV202,BD Biosciences,550513,NA,No,1/200,oligonucleotide,AB_393716,IHC,CODEX,fresh frozen,3,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,Y,Y,Stroma
+Q9P2W7,HGNC:921,CD57,Anti-CD57 antibody,mouse,HCD57,Biolegend,322302,NA,No,1/200,oligonucleotide,AB_535988,IHC,CODEX,fresh frozen,3,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,NK cell
+P26718,HGNC:18788,NKG2D (CD314),Anti-NKG2D (CD314) antibody,mouse,1D11,Biolegend,320802,NA,No,1/100,oligonucleotide,AB_492956,IHC,CODEX,fresh frozen,3,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,NK cell
+P09564,HGNC:1695,CD7,Anti-CD7 antibody,mouse,CD7-6B7,Biolegend,343102,NA,No,1/200,oligonucleotide,AB_1659214,IHC,CODEX,fresh frozen,4,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,T cell
+P01730,HGNC:1678,CD4,Anti-CD4 antibody,rat,A161A1,Biolegend,357402,NA,No,1/200,oligonucleotide,AB_2561907,IHC,CODEX,fresh frozen,4,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,CD4 T cell
+P15391,HGNC:1633,CD19,Anti-CD19 antibody,mouse,HIB19,BD Biosciences,555410,NA,No,1/200,oligonucleotide,AB_395810,IHC,CODEX,fresh frozen,4,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,Y,Y,B cell
+P04233,HGNC:1697,HLA-DR,Anti-HLA-DR antibody,mouse,L243,Biolegend,307651,NA,No,1/200,oligonucleotide,AB_2562826,IHC,CODEX,fresh frozen,5,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Antigen presenting cell
+P20702,HGNC:6152,CD11c,Anti-CD11c antibody,mouse,B-ly6,BD Biosciences,555391,NA,No,1/200,oligonucleotide,AB_395792,IHC,CODEX,fresh frozen,5,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Dendritic cell
+Q12918,HGNC:6373,CD161,Anti-CD161 antibody,mouse,HP-3G10,Biolegend,339902,NA,No,1/200,oligonucleotide,AB_1501090,IHC,CODEX,fresh frozen,5,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Immune cell
+P08247,HGNC:11506,Synaptophysin,Anti-Synaptophysin antibody,mouse,7H12,Novus Bio,NBP1-47483,NA,No,1/100,oligonucleotide,AB_10010435,IHC,CODEX,fresh frozen,6,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Nerve
+P28906,HGNC:1662,CD34,Anti-CD34 antibody,mouse,561,Biolegend,343602,NA,No,1/100,oligonucleotide,AB_1732014,IHC,CODEX,fresh frozen,6,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Stromal (endothelial)
+P08637,HGNC:3619,CD16,Anti-CD16 antibody,mouse,3G8,BD Biosciences,555404,NA,No,1/50,oligonucleotide,AB_395804,IHC,CODEX,fresh frozen,6,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Neutrophil
+P22083,HGNC:4015,CD15,Anti-CD15 antibody,mouse,HI98,BD Biosciences,555400,NA,No,1/200,oligonucleotide,AB_395800,IHC,CODEX,fresh frozen,7,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Neutrophil
+Q12884,HGNC:3590,FAP,Anti-FAP antibody,rat,2.2B10,Thermo Fisher Scientific,13-0300,NA,No,1/25,oligonucleotide,AB_2532994,IHC,CODEX,fresh frozen,7,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Fibroblast
+P26951,HGNC:6012,CD123,Anti-CD123 antibody,mouse,7G3,BD Biosciences,554527,NA,No,1/50,oligonucleotide,AB_395455,IHC,CODEX,fresh frozen,7,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Functional marker
+P13688,HGNC:1814,CD66,Anti-CD66 antibody,mouse,B1.1/CD66,BD Biosciences,551354,NA,No,1/200,oligonucleotide,AB_394166,IHC,CODEX,fresh frozen,8,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Mature epithelial
+P07766,HGNC:1674,CD3,Anti-CD3 antibody,mouse,UCHT1,Biolegend,300402,NA,No,1/200,oligonucleotide,AB_314056,IHC,CODEX,fresh frozen,8,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,Y,Y,T cell
+P08575,HGNC:9666,CD45RO,Anti-CD45RO antibody,mouse,UCHL1,Biolegend,304202,NA,No,1/100,oligonucleotide,AB_314418,IHC,CODEX,fresh frozen,8,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,T cell phenotype
+P28907,HGNC:1667,CD38,Anti-CD38 antibody,mouse,HB-7,Biolegend,356602,NA,No,1/500,oligonucleotide,AB_2561794,IHC,CODEX,fresh frozen,9,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Immune (plasma)
+P04216,HGNC:11801,CD90,Anti-CD90 antibody,mouse,5.00E+10,Biolegend,328102,NA,No,1/200,oligonucleotide,AB_940393,IHC,CODEX,fresh frozen,9,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Stromal and immune
+P16871,HGNC:6024,CD127,Anti-CD127 antibody,mouse,A019D5,Biolegend,351302,NA,No,1/100,oligonucleotide,AB_10718513,IHC,CODEX,fresh frozen,9,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,T cell activation
+P62736,HGNC:130,a-SMA,Anti-a-SMA antibody,mouse,1A4,Thermo Fisher Scientific,14-9760-82,NA,No,1/200,oligonucleotide,AB_2572996,IHC,CODEX,fresh frozen,10,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,Y,Y,Smooth muscle
+P10721,HGNC:6342,CD117,Anti-CD117 antibody,mouse,YB5.B8,BD Biosciences,555713,NA,No,1/200,oligonucleotide,AB_2131466,IHC,CODEX,fresh frozen,10,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Intersitial cells of cahan
+Q04695,HGNC:6427,Cytokeratin,Anti-Cytokeratin antibody,mouse,AE-1/AE-3,Biolegend,914204,NA,No,1/200,oligonucleotide,AB_2616960,IHC,CODEX,fresh frozen,10,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,Y,Y,Epithelial
+P15941,HGNC:7508,MUC-1/EMA,Anti-MUC-1/EMA antibody,mouse,MUC1/955,NSJ Bioreagents,V2372SAF-100UG,NA,No,1/200,oligonucleotide,AB_2864392,IHC,CODEX,fresh frozen,11,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Epithelial
+Q99626,HGNC:1806,CDX2,Anti-CDX2 antibody,rabbit,D38B1,Nolan Lab,4267,NA,No,1/200,oligonucleotide,AB_2864406,IHC,CODEX,fresh frozen,11,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Early epithelial
+P34810,HGNC:1693,CD68,Anti-CD68 antibody,mouse,Y1/82A,Biolegend,333802,NA,No,1/200,oligonucleotide,AB_1089058,IHC,CODEX,fresh frozen,11,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,M1 macrophage
+P10645,HGNC:1929,CHGA,Anti-CHGA antibody,mouse,LK2H10 + PHE5 + CGA/414,Novus Bio,NBP2-34674-0.1 mg,NA,No,1/200,oligonucleotide,AB_2864388,IHC,CODEX,fresh frozen,12,a488,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Neuroendocrine
+P20023,HGNC:2336,CD21,Anti-CD21 antibody,mouse,Bu32,Biolegend,354902,NA,No,1/500,oligonucleotide,AB_11219188,IHC,CODEX,fresh frozen,12,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,B cell
+Q02817,HGNC:7512,MUC-2,Anti-MUC-2 antibody,mouse,996/1,Novus Bio,NB120-11197,NA,No,1/200,oligonucleotide,AB_791261,IHC,CODEX,fresh frozen,12,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Goblet
+P16284,HGNC:8823,CD31,Anti-CD31 antibody,mouse,WM59,BD Biosciences,555444,NA,No,1/200,oligonucleotide,AB_395837,IHC,CODEX,fresh frozen,13,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Endothelial
+P13591,HGNC:7656,CD56,Anti-CD56 antibody,mouse,B159,BD Biosciences,555514,NA,No,1/100,oligonucleotide,AB_395904,IHC,CODEX,fresh frozen,13,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Nerve and NK cell
+P16671,HGNC:1663,CD36,Anti-CD36 antibody,mouse,CB38 (NL07),BD Biosciences,555453,NA,No,1/200,oligonucleotide,AB_395846,IHC,CODEX,fresh frozen,14,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Endothelial
+Q8WWA0,HGNC:18259,ITLN1,Anti-ITLN1 antibody,sheep,poly,R&D Systems,AF4254,NA,No,1/200,oligonucleotide,AB_2129678,IHC,CODEX,fresh frozen,14,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Early secretory
+Q07108,HGNC:1694,CD69,Anti-CD69 antibody,mouse,FN50,Biolegend,310902,NA,No,1/500,oligonucleotide,AB_314837,IHC,CODEX,fresh frozen,15,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,T cell activation
+P18827,HGNC:10658,CD138,Anti-CD138 antibody,mouse,MI15,Biolegend,356502,NA,No,1/200,oligonucleotide,AB_2561790,IHC,CODEX,fresh frozen,15,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,Y,Y,Epithelial and immune (plasma)
+P48436,HGNC:11204,SOX9,Anti-SOX9 antibody,rabbit,D8G8H,Cell Signaling Technology,82630,NA,No,1/100,oligonucleotide,AB_2665492,IHC,CODEX,fresh frozen,16,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,transit amplifying cell
+P01732,HGNC:1706,CD8,Anti-CD8 antibody,mouse,SK1,Biolegend,344702,NA,No,1/200,oligonucleotide,AB_1877104,IHC,CODEX,fresh frozen,16,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,CD8 T cell
+P56199,HGNC:6134,CD49a,Anti-CD49a antibody,mouse,TS2/7,Biolegend,328302,NA,No,1/100,oligonucleotide,AB_1236385,IHC,CODEX,fresh frozen,17,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Stromal and Immune (smooth muscle)
+P23229,HGNC:6142,CD49f,Anti-CD49f antibody,rat,GoH3,BD Biosciences,555734,NA,No,1/50,oligonucleotide,AB_2296273,IHC,CODEX,fresh frozen,17,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Epithelial
+P08575,HGNC:9666 ,CD45,Anti-CD45 antibody,mouse,HI30,Biolegend,304002,NA,No,1/500,oligonucleotide,AB_314390,IHC,CODEX,fresh frozen,18,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,Y,Y,Immune
+P10415,HGNC:990,BCL-2,Anti-BCL-2 antibody,mouse,124,Nolan Lab,226M,NA,No,1/200,oligonucleotide,AB_2864404,IHC,CODEX,fresh frozen,18,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Immune cells
+P16070,HGNC:1681,CD44,Anti-CD44 antibody,rat,IM7,Biolegend,103002,NA,No,1/200,oligonucleotide,AB_312953,IHC,CODEX,fresh frozen,19,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Stromal and immune
+Q86YL7,HGNC:29602,Podoplanin,Anti-Podoplanin antibody,rat,NC-08,Biolegend,337002,NA,No,1/100,oligonucleotide,AB_1595511,IHC,CODEX,fresh frozen,19,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,lymphatics & fibroblasts
+P02462,HGNC:2202,Collagen IV,Anti-Collagen IV antibody,rabbit,poly,Abcam,ab6586,NA,No,1/200,oligonucleotide,AB_305584,IHC,CODEX,fresh frozen,20,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,ECM
+Q86VB7,HGNC:1631,CD163,Anti-CD163 antibody,mouse,GHI/61,Biolegend,333602,NA,No,1/100,oligonucleotide,AB_1088991,IHC,CODEX,fresh frozen,20,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,M2 macrophage
+Q6UX06,HGNC:17190,OLFM4,Anti-OLFM4 antibody,mouse,12,Thermo Fisher Scientific,MA5-29457,NA,No,1/100,oligonucleotide,AB_2785318,IHC,CODEX,fresh frozen,21,Cy3,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,N,Early secretory
+P22897,HGNC:7228,CD206,Anti-CD206 antibody,mouse,15-2,Biolegend,321102,NA,No,1/200,oligonucleotide,AB_571923,IHC,CODEX,fresh frozen,21,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,M2 macrophage
+Q01523,HGNC:2764,aDefensin 5,Anti-aDefensin 5 antibody,rabbit,EPR14309(B),abcam,ab245946,NA,No,1/200,oligonucleotide,AB_2864387,IHC,CODEX,fresh frozen,22,Cy5,https://doi.org/10.1038/s41596-021-00556-8,0000-0001-9961-7673,N,Y,Paneth cell

@@ -1,0 +1,25 @@
+node_name,OntologyID,label
+VH_M_eye_L,UBERON:0004548,left eye
+VH_M_retina_L,FMA:58303,Left retina
+VH_M_fovea_L,FMA:58663,Left fovea centralis
+VH_M_macula_lutea_L,FMA:58639,Left macula lutea
+VH_M_optic_disc_L,FMA:58636,Left optic disc
+VH_M_palpebral_conjunctiva_of_upper_eyelid_L,FMA:223078,Palpebral conjunctiva of left upper eyelid
+VH_M_palpebral_conjunctiva_of_lower_eyelid_L,FMA:223075,Palpebral conjunctiva of left lower eyelid
+VH_M_vitreous_humor_L,FMA:261238,Humor of left vitreous body
+VH_M_cornea_L,FMA:58240,Left cornea
+VH_M_bulbar_conjunctiva_L,FMA:59029,Left bulbar conjunctiva
+VH_M_iris_L,FMA:58237,Left iris
+VH_M_trabecular_meshwork_L,UBERON:0005969,eye trabecular meshwork
+VH_M_ciliary_body_L,FMA:58297,Left ciliary body
+VH_M_ciliary_muscle_L,FMA:49153,Left ciliary muscle
+VH_M_aqueous_humor_L,FMA:58821,Aqueous humor of left eyeball
+VH_M_schlemms_canal_L,FMA:51875,Left scleral venous sinus
+VH_M_lens_L,FMA:58243,Left lens
+VH_M_corneo_scleral_junction_L,FMA:58344,Left corneoscleral junction
+VH_M_ora_serrata_of_retina_L,FMA:58602,Left ora serrata
+VH_M_suspensory_ligament_of_lens_L,FMA:58840,Suspensory ligament of left lens
+VH_M_ciliary_processes_L,UBERON:0010427,ciliary processes
+VH_M_pupil_L,UBERON:0010223,left pupil
+VH_M_optic_choroid_L,FMA:58300,Left choroid
+VH_M_sclera_L,FMA:58272,Left sclera

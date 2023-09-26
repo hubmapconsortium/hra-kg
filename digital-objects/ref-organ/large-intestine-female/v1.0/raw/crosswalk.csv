@@ -1,0 +1,12 @@
+node_name,OntologyID,label
+VHF_colon,UBERON:0000059,large intestine
+VHF_vermiform_appendix,UBERON:0001154,vermiform appendix
+VHF_ascending_colon,UBERON:0001156,ascending colon
+VHF_caecum,UBERON:0001153,caecum
+VHF_descending_colon,UBERON:0001158,descending colon
+VHF_hepatic_flexture_of_colon,UBERON:0022277,hepatic flexure of colon
+VHF_ileocecal_calve,UBERON:0000569,ileocecal valve
+VHF_rectum,UBERON:0001052,rectum
+VHF_sigmoid_colon,UBERON:0001159,sigmoid colon
+VHF_splenic_flexure_of_colon,UBERON:0022276,splenic flexure of colon
+VHF_transverse_colon,UBERON:0001157,transverse colon

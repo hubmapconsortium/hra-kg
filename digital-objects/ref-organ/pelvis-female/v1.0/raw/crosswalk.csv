@@ -1,0 +1,25 @@
+node_name,OntologyID,label
+VHF_pelvis,UBERON:0001270,bony pelvis
+VHF_coccyx,UBERON:0001350,coccyx
+VHF_ilium,UBERON:0001273,ilium
+VHF_ilium_compact_bone,UBERON:0001439,compact bone tissue
+VHF_ilium_compact_bone_R,UBERON:0001439,compact bone tissue
+VHF_ilium_compact_bone_L,UBERON:0001439,compact bone tissue
+VHF_ilium_spongy_bone,UBERON:0002483,trabecular bone tissue
+VHF_ilium_spongy_bone_R,UBERON:0002483,trabecular bone tissue
+VHF_ilium_spongy_bone_L,UBERON:0002483,trabecular bone tissue
+VHF_ischium,UBERON:0001274,ischium
+VHF_ischium_compact_bone,UBERON:0001439,compact bone tissue
+VHF_ischium_compact_bone_R,UBERON:0001439,compact bone tissue
+VHF_ischium_compact_bone_L,UBERON:0001439,compact bone tissue
+VHF_ischium_spongy_bone,UBERON:0002483,trabecular bone tissue
+VHF_ischium_spongy_bone_R,UBERON:0002483,trabecular bone tissue
+VHF_ischium_spongy_bone_L,UBERON:0002483,trabecular bone tissue
+VHF_pubis,UBERON:0001275,pubis
+VHF_pubis_compact_bone,UBERON:0001439,compact bone tissue
+VHF_pubis_compact_bone_R,UBERON:0001439,compact bone tissue
+VHF_pubis_compact_bone_L,UBERON:0001439,compact bone tissue
+VHF_pubis_spongy_bone,UBERON:0002483,trabecular bone tissue
+VHF_pubis_spongy_bone_R,UBERON:0002483,trabecular bone tissue
+VHF_pubis_spongy_bone_L,UBERON:0002483,trabecular bone tissue
+VHF_sacrum,UBERON:0003690,fused sacrum

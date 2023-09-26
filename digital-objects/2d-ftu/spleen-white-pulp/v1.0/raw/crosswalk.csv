@@ -1,0 +1,139 @@
+node_id,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_1,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_2,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_3,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_4,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_5,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_6,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_7,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+plasmablast_1,plasmablast,CL:0000980,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+plasmablast_2,plasmablast,CL:0000980,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+plasmablast_3,plasmablast,CL:0000980,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Neutrophil_1,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Neutrophil_2,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Neutrophil_3,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_1,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_2,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_3,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_4,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_5,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_6,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_7,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_8,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_9,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_10,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_11,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_12,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_13,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_14,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_15,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_16,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_17,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_18,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_19,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_20,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_21,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_22,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_23,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_24,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_25,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_26,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_27,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_28,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_29,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_30,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_31,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_32,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_33,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_34,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_35,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_36,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_37,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_38,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_39,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_40,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_41,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_42,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_43,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_44,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_45,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_46,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_47,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_48,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_49,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_50,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_51,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_52,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_53,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_54,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_55,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_56,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_57,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_58,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_59,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_60,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_61,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_62,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_63,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_64,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_65,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_66,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_67,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_68,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_69,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_70,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_71,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_72,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_73,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_74,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_75,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_76,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_77,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_78,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_79,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_80,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_81,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_82,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_83,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_84,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_85,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_86,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_87,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_88,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_89,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_90,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_91,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_92,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Naive_Thymus_Derived_CD4_Positive_93,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_1,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_2,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_3,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_4,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_5,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_6,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_7,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_8,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_9,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_10,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_11,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_1,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_2,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_3,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_4,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_5,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_6,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_7,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_1,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_2,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_3,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_4,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_5,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_6,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_1,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_2,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_3,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_4,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_5,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_6,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106

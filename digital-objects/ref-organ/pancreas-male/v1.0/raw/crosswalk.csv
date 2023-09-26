@@ -1,0 +1,7 @@
+node_name,OntologyID,label
+VH_M_pancreas,UBERON:0001264,Pancreas
+VH_M_body_of_pancreas,UBERON:0001150,body of pancreas
+VH_F_tail_of_pancreas,UBERON:0001151,tail of pancreas
+VH_M_head_of_pancreas,UBERON:0001069,head of pancreas
+VH_M_neck_of_pancreas,FMA:14517,Neck of pancreas
+VH_F_uncinate_process_of_the_pancreas,UBERON:0010373,uncinate process of pancreas

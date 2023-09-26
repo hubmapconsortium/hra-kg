@@ -1,0 +1,70 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Spleen
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts.
+creators:
+  - fullName: Marda Jorgensen
+    firstName: Marda
+    lastName: Jorgensen
+    orcid: 0000-0002-7250-3569
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Rebecca T. Beuschel
+    firstName: Rebecca
+    lastName: Beuschel
+    orcid: 0000-0002-3882-457X
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Elaine Jaffe
+    firstName: Elaine
+    lastName: Jaffe
+    orcid: 0000-0003-4632-0301
+  - fullName: Stefania Pittaluga
+    firstName: Stefania
+    lastName: Pittaluga
+    orcid: 0000-0001-7688-1439
+  - fullName: Robert Seifert
+    firstName: Robert
+    lastName: Seifert
+    orcid: 0000-0002-4404-8116
+  - fullName: Birte Steiniger
+    firstName: Birte
+    lastName: Steiniger
+    orcid: 0000-0002-3602-7331
+  - fullName: Clive Wasserfall
+    firstName: Clive
+    lastName: Wasserfall
+    orcid: 0000-0002-3522-8932
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: '2021-12-01'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM582.WJWX.929
+doi: https://doi.org/10.48539/HBM582.WJWX.929
+citation: >-
+  Marda Jorgensen; Andrea J. Radtke; Rebecca T. Beuschel, HuBMAP ASCT+B Tables.
+  Spleen v1.1
+  [https://doi.org/10.48539/HBM582.WJWX.929](https://doi.org/10.48539/HBM582.WJWX.929)
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. *HuBMAP
+  ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on Dec 1, 2021.
+datatable:
+  - ASCT-B_VH_Spleen.csv

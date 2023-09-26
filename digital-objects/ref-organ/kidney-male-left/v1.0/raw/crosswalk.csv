@@ -1,0 +1,45 @@
+node_name,OntologyID,label
+VHM_left_kidney,UBERON:0004538,left kidney
+VHM_kidney_capsule_L,UBERON:0002015,kidney capsule
+VHM_hilum_of_kidney_L,UBERON:0008716,hilum of kidney
+VHM_renal_medulla_L,UBERON:0000362,renal medulla
+VHM_renal_papilla_L,UBERON:0001228,renal papilla
+VHM_renal_papilla_L_a,UBERON:0001228,renal papilla
+VHM_renal_papilla_L_b,UBERON:0001228,renal papilla
+VHM_renal_papilla_L_c,UBERON:0001228,renal papilla
+VHM_renal_papilla_L_d,UBERON:0001228,renal papilla
+VHM_renal_papilla_L_e,UBERON:0001228,renal papilla
+VHM_renal_papilla_L_f,UBERON:0001228,renal papilla
+VHM_renal_papilla_L_g,UBERON:0001228,renal papilla
+VHM_renal_papilla_L_h,UBERON:0001228,renal papilla
+VHVHM_renal_papilla_L_i,UBERON:0001228,renal papilla
+VHM_renal_pyramid_L,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_L_a,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_L_b,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_L_c,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_L_d,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_L_e,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_L_f,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_L_g,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_L_h,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_L_i,UBERON:0004200,renal pyramid
+VHM_kidney_calyx_L,UBERON:0006517,kidney calyx
+VHM_major_calyx_L,UBERON:0001226,major calyx
+VHM_major_calyx_L_a,UBERON:0001226,major calyx
+VHM_major_calyx_L_b,UBERON:0001226,major calyx
+VHM_major_calyx_L_c,UBERON:0001226,major calyx
+VHM_minor_calyx_L,UBERON:0001227,minor calyx
+VHM_minor_calyx_L_a,UBERON:0001227,minor calyx
+VHM_minor_calyx_L_b,UBERON:0001227,minor calyx
+VHM_minor_calyx_L_c,UBERON:0001227,minor calyx
+VHM_minor_calyx_L_d,UBERON:0001227,minor calyx
+VHM_minor_calyx_L_e,UBERON:0001227,minor calyx
+VHM_minor_calyx_L_f,UBERON:0001227,minor calyx
+VHM_minor_calyx_L_g,UBERON:0001227,minor calyx
+VHM_minor_calyx_L_h,UBERON:0001227,minor calyx
+VHM_minor_calyx_L_i,UBERON:0001227,minor calyx
+VHM_renal_pelvis_L,UBERON:0001224,renal pelvis
+VHM_ureter_L,UBERON:0001223,left ureter
+VHM_cortex_of_kidney_L,UBERON:0001225,cortex of kidney
+VHM_renal_column_L,UBERON:0001284,renal column
+VHM_outer_cortex_of_kidney_L,UBERON:0002189,outer cortex of kidney

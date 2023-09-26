@@ -1,0 +1,56 @@
+title: ASCT-B 3D Models Mapping
+description: >-
+  This lookup table maps [Anatomical Structures, Cell Types and Biomarkers
+  (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical
+  structure terms used in the [3D Reference Object
+  Library](https://humanatlas.io/3d-reference-library).
+creators:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Kristen Browne
+    firstName: Kristen
+    lastName: Browne
+    orcid: 0000-0003-4066-7531
+  - fullName: Andreas Bueckle
+    firstName: Andreas
+    lastName: Bueckle
+    orcid: 0000-0002-8977-498X
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers: []
+externalReviewers: []
+creation_date: '2021-12-01'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM263.FWKR.367
+doi: https://doi.org/10.48539/HBM263.FWKR.367
+citation: >-
+  Ellen M. Quardokus; Kristen Browne; Andreas Bueckle; Bruce W. Herr II; Katy
+  Börner. (2021).
+  [https://doi.org/10.48539/HBM263.FWKR.367](https://doi.org/10.48539/HBM263.FWKR.367). 
+  Accessed on December 01, 2021.
+citationOverall: >-
+  Kristen Browne; Leonard E. Cross; Bruce W. Herr II; Lisel Record; Ellen M.
+  Quardokus; Andreas Bueckle; Katy Börner. 2021. HuBMAP CCF 3D Reference Object
+  Library. https://humanatlas.io/3d-reference-library. Accessed on December 01,
+  2021.
+datatable:
+  - ASCT-B_3D_Models_Mapping.csv

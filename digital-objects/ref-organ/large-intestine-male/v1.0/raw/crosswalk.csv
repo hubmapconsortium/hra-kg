@@ -1,0 +1,12 @@
+node_name,OntologyID,label
+VHM_colon,UBERON:0000059,large intestine
+VHM_ascending_colon,UBERON:0001156,ascending colon
+VHM_caecum,UBERON:0001153,caecum
+VHM_descending_colon,UBERON:0001158,descending colon
+VHM_hepatic_flexure_of_colon,UBERON:0022277,hepatic flexure of colon
+VHM_ileocecal_valve,UBERON:0000569,ileocecal valve
+VHM_rectum,UBERON:0001052,rectum
+VHM_sigmoid_colon,UBERON:0001159,sigmoid colon
+VHM_splenic_flexure_of_colon,UBERON:0022276,splenic flexure of colon
+VHM_transverse_colon,UBERON:0001157,transverse colon
+VHM_vermiform_appendix,UBERON:0001154,vermiform appendix

@@ -1,0 +1,60 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Large
+  Intestine
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts.
+creators:
+  - fullName: Teri A. Longacre
+    firstName: Teri
+    lastName: Longacre
+    orcid: 0000-0002-0935-7300
+  - fullName: John Hickey
+    firstName: John
+    lastName: Hickey
+    orcid: 0000-0001-5675-3974
+  - fullName: Yiing Lin
+    firstName: Yiing
+    lastName: Lin
+    orcid: 0000-0002-0317-7608
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Aaron Horning
+    firstName: Aaron
+    lastName: Horning
+    orcid: 0000-0003-3247-0798
+  - fullName: Mark Arends
+    firstName: Mark
+    lastName: Arends
+    orcid: 0000-0002-6826-8770
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: '2021-12-01'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM325.NZPB.589
+doi: https://doi.org/10.48539/HBM325.NZPB.589
+citation: >-
+  Teri A. Longacre; John Hickey; Yiing Lin, HuBMAP ASCT+B Tables. Large
+  Intestine v1.1
+  [https://doi.org/10.48539/HBM325.NZPB.589](https://doi.org/10.48539/HBM325.NZPB.589)
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. *HuBMAP
+  ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on Dec 1, 2021.
+datatable:
+  - ASCT-B_VH_Large_Intestine.csv

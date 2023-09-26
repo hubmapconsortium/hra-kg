@@ -1,0 +1,58 @@
+title: 3D Reference Organ for Placenta, Full Term, Female
+description: >-
+  [This reference organ](https://humanatlas.io/3d-reference-library) The
+  placenta was sculpted partly from MRI data from the Department of Obstetrics,
+  Gynecology, and Reproductive Sciences, Division of Maternal-Fetal Medicine at
+  UC San Diego Health. The atlas “Human Microscopic Anatomy” (R.V. Krstić, 1994)
+  and  [(Mannelli et al. 2015)](https://doi.org/10.1177/1559325815611902) were
+  consulted.
+creators:
+  - fullName: Heidi Schlehlein
+    firstName: Heidi
+    lastName: Schlehlein
+    orcid: 0000-0002-3333-5646
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Ana Rodriguez-Soto
+    firstName: Ana
+    lastName: Rodriguez-Soto
+    orcid: 0000-0002-9544-547X
+  - fullName: Mana Parast
+    firstName: Mana
+    lastName: Parast
+    orcid: 0000-0001-5963-2246
+  - fullName: Louise Laurent
+    firstName: Louise
+    lastName: Laurent
+    orcid: 0000-0002-2095-7534
+  - fullName: Rebecca Rakow-Penner
+    firstName: Rebecca
+    lastName: Rakow-Penner
+    orcid: 0000-0002-2566-1978
+externalReviewers: []
+creation_date: '2022-05-06'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM796.CQJZ.982
+doi: https://doi.org/10.48539/HBM796.CQJZ.982
+citation: >-
+  Heidi Schlehlein 2022. *3D Reference Organ for Placenta, Full Term, Female
+  v1.0*
+  [https://doi.org/10.48539/HBM796.CQJZ.982](https://doi.org/10.48539/HBM796.CQJZ.982).
+  Accessed on May 06, 2022.
+citationOverall: >-
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
+  Bueckle, Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object
+  Library*](https://humanatlas.io/3d-reference-library). Accessed on May 06,
+  2022.
+datatable:
+  - VH_F_Placenta.glb

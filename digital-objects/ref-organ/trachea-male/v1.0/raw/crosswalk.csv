@@ -1,0 +1,5 @@
+node_name,OntologyID,label
+VH_M_trachea_of_respiratory_system,UBERON:0003126,trachea of respiratory system
+VH_M_trachea,UBERON:0003126,trachea
+VH_M_tracheal_cartilage,UBERON:0003604,trachea cartilage
+VH_M_carina,UBERON:0006679,carina of trachea

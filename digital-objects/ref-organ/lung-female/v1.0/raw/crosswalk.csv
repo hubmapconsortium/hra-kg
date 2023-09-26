@@ -1,0 +1,6 @@
+node_name,OntologyID,label
+VHF_respiratory_system,UBERON:0001004,respiratory system
+VHF_trachea,UBERON:0003126,trachea
+VHF_cartilage,UBERON:0003406,cartilage of respiratory system
+VHF_bronchi,UBERON:0002185,bronchus
+VHF_lungs,UBERON:0002048,lung

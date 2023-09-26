@@ -1,0 +1,303 @@
+Blood Vasculature Organ Crosswalk,,,,,,,,
+,,,,,,,,
+Author Name(s):,Griffin Weber; Katherine S Gustilo,,,,,,,
+Author ORCID(s):,0000-0002-2597-881X; 0000-0002-5574-4272,,,,,,,
+Reviewer(s):,Sanjay Jain; M. Todd Valerius; Gloria Pryhuber; Martha Campbell-Thompson,,,,,,,
+Reviewer ORCID(s):,0000-0003-2804-127X; 0000-0001-8143-9231; 0000-0002-9185-3994; 0000-0001-6878-1235,,,,,,,
+General Publication(s):,"Netter FH. Atlas of human anatomy. Philadelphia, PA: Saunders/Elsevier. 2006.; Gray H. Gray's Anatomy: The Anatomical Basis of Clinical Practice (40th ed.). Churchill-Livingstone, Elsevier. 2008.; Mescher AL. Junquiera's Basic Histology Text & Atlas (15th ed.).McGraw Hill Education. 2018.",,,,,,,
+Data DOI:,https://doi.org/10.48539/HBM577.MCCB.463,,,,,,,
+Date:,"June 15, 2023",,,,,,,
+Version Number:,v1.0,,,,,,,
+Vessel,VesselID,Relationship,BodyPart,BodyPartID,BodySubPart,BodySubPartID,FTU,BodySubPartSequence
+anterior inferior segmental renal artery,FMA:70501,overlaps,kidney,UBERON:0002113,hilum of kidney,UBERON:0008716,,1
+anterior inferior segmental renal artery,FMA:70501,supplies,kidney,UBERON:0002113,antero-inferior segment of kidney,,,2
+anterior superior segmental renal artery,FMA:70500,overlaps,kidney,UBERON:0002113,hilum of kidney,UBERON:0008716,,1
+anterior superior segmental renal artery,FMA:70500,supplies,kidney,UBERON:0002113,anterosuperior segment of kidney,,,2
+arcuate renal artery,UBERON:0001552,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+arcuate renal artery,UBERON:0001552,part_of,kidney,UBERON:0002113,juxtamedullary cortex,UBERON:0005271,,2
+arcuate renal vein,UBERON:0004719,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+arcuate renal vein,UBERON:0004719,part_of,kidney,UBERON:0002113,juxtamedullary cortex,UBERON:0005271,,2
+ascending vasa recta of kidney,,part_of,kidney,UBERON:0002113,renal medulla,UBERON:0000362,,1
+ascending vasa recta of kidney,,overlaps,kidney,UBERON:0002113,kidney outer medulla outer stripe,UBERON:0004202,,2
+ascending vasa recta of kidney,,overlaps,kidney,UBERON:0002113,kidney outer medulla inner stripe,UBERON:0004201,,3
+ascending vasa recta of kidney,,overlaps,kidney,UBERON:0002113,inner medulla of kidney,UBERON:0001294,,4
+ascending vasa recta of kidney,,directly_supplies_drains,kidney,UBERON:0002113,nephron,UBERON:0001285,nephron,5
+ascending vasa recta of kidney,,directly_supplies_drains,kidney,UBERON:0002113,thin descending limb of loop of Henle,UBERON:0001289,thin descending limb,6
+descending vasa recta of kidney,,part_of,kidney,UBERON:0002113,renal medulla,UBERON:0000362,,1
+descending vasa recta of kidney,,overlaps,kidney,UBERON:0002113,kidney outer medulla outer stripe,UBERON:0004202,,2
+descending vasa recta of kidney,,overlaps,kidney,UBERON:0002113,kidney outer medulla inner stripe,UBERON:0004201,,3
+descending vasa recta of kidney,,overlaps,kidney,UBERON:0002113,inner medulla of kidney,UBERON:0001294,,4
+descending vasa recta of kidney,,directly_supplies_drains,kidney,UBERON:0002113,nephron,UBERON:0001285,nephron,5
+descending vasa recta of kidney,,directly_supplies_drains,kidney,UBERON:0002113,thick ascending limb of loop of Henle,UBERON:0001291,thick ascending limb,6
+glomerular capillary,UBERON:0004212,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+glomerular capillary,UBERON:0004212,part_of,kidney,UBERON:0002113,nephron,UBERON:0001285,nephron,2
+glomerular capillary,UBERON:0004212,part_of,kidney,UBERON:0002113,renal corpuscle,UBERON:0001229,renal corpuscle,3
+glomerular capillary,UBERON:0004212,located_in,kidney,UBERON:0002113,glomerular capsule,UBERON:0001230,,4
+glomerular capillary,UBERON:0004212,directly_supplies_drains,kidney,UBERON:0002113,visceral epithelial layer of glomerular capsule,UBERON:0006852,,5
+glomerular capillary,UBERON:0004212,connected_to,kidney,UBERON:0002113,mesangium,UBERON:0002320,,6
+inferior segmental renal artery,FMA:70502,overlaps,kidney,UBERON:0002113,hilum of kidney,UBERON:0008716,,1
+inferior segmental renal artery,FMA:70502,supplies,kidney,UBERON:0002113,inferior segment of kidney,,,2
+interlobar renal artery,UBERON:0009885,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+interlobar renal artery,UBERON:0009885,part_of,kidney,UBERON:0002113,renal column,UBERON:0001284,,2
+interlobar renal vein,UBERON:0009887,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+interlobar renal vein,UBERON:0009887,part_of,kidney,UBERON:0002113,renal column,UBERON:0001284,,2
+interlobular renal artery,UBERON:0004723,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+interlobular renal artery,UBERON:0004723,part_of,kidney,UBERON:0002113,outer renal cortex,UBERON:0002189,,2
+interlobular renal vein,UBERON:0005168,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+interlobular renal vein,UBERON:0005168,part_of,kidney,UBERON:0002113,outer renal cortex,UBERON:0002189,,2
+left renal artery,UBERON:0001186,supplies,kidney,UBERON:0002113,left kidney,UBERON:0004538,,1
+left renal vein,UBERON:0001142,drains,kidney,UBERON:0002113,left kidney,UBERON:0004538,,1
+peritubular capillary,UBERON:0005272,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+peritubular capillary,UBERON:0005272,directly_supplies_drains,kidney,UBERON:0002113,nephron,UBERON:0001285,nephron,2
+peritubular capillary,UBERON:0005272,directly_supplies_drains,kidney,UBERON:0002113,parietal epithelial layer of glomerular capsule,UBERON:0005750,,3
+peritubular capillary,UBERON:0005272,directly_supplies_drains,kidney,UBERON:0002113,proximal convoluted tubule segment 1,UBERON:0004196,proximal convoluted tubule,4
+peritubular capillary,UBERON:0005272,directly_supplies_drains,kidney,UBERON:0002113,proximal convoluted tubule segment 2,UBERON:0004197,proximal convoluted tubule,5
+peritubular capillary,UBERON:0005272,directly_supplies_drains,kidney,UBERON:0002113,proximal straight tubule segment 3,UBERON:0001290,proximal convoluted tubule,6
+peritubular capillary,UBERON:0005272,directly_supplies_drains,kidney,UBERON:0002113,distal convoluted tubule,UBERON:0001292,distal convoluted tubule,7
+peritubular capillary,UBERON:0005272,directly_supplies_drains,kidney,UBERON:0002113,thick ascending limb of loop of Henle,UBERON:0001291,thick ascending limb,8
+peritubular capillary,UBERON:0005272,directly_supplies_drains,kidney,UBERON:0002113,macula densa,UBERON:0002335,,9
+peritubular capillary,UBERON:0005272,directly_supplies_drains,kidney,UBERON:0002113,connecting tubule,UBERON:0005097,,10
+peritubular capillary,UBERON:0005272,directly_supplies_drains,kidney,UBERON:0002113,collecting duct in renal cortex,UBERON:0004203,collecting duct of kidney,11
+posterior segmental renal artery,FMA:70503,overlaps,kidney,UBERON:0002113,hilum of kidney,UBERON:0008716,,1
+posterior segmental renal artery,FMA:70503,supplies,kidney,UBERON:0002113,posterior segment of kidney,,,2
+renal afferent arteriole,UBERON:0004639,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+renal afferent arteriole,UBERON:0004639,overlaps,kidney,UBERON:0002113,renal corpuscle,UBERON:0001229,renal corpuscle,2
+renal afferent arteriole,UBERON:0004639,overlaps,kidney,UBERON:0002113,glomerular capsule,UBERON:0001230,,3
+renal afferent arteriole,UBERON:0004639,overlaps,kidney,UBERON:0002113,vascular pole,,,4
+renal efferent arteriole,UBERON:0004640,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+renal efferent arteriole,UBERON:0004640,overlaps,kidney,UBERON:0002113,renal corpuscle,UBERON:0001229,renal corpuscle,2
+renal efferent arteriole,UBERON:0004640,overlaps,kidney,UBERON:0002113,glomerular capsule,UBERON:0001230,,3
+renal efferent arteriole,UBERON:0004640,overlaps,kidney,UBERON:0002113,vascular pole,,,4
+right renal artery,UBERON:0001185,supplies,kidney,UBERON:0002113,right kidney,UBERON:0004539,,1
+right renal vein,UBERON:0001141,drains,kidney,UBERON:0002113,right kidney,UBERON:0004539,,1
+segmental renal vein,,overlaps,kidney,UBERON:0002113,hilum of kidney,UBERON:0008716,,1
+stellate vein of kidney,FMA:321526,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+stellate vein of kidney,FMA:321526,part_of,kidney,UBERON:0002113,outer renal cortex,UBERON:0002189,,2
+stellate venule of kidney,,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+stellate venule of kidney,,part_of,kidney,UBERON:0002113,outer renal cortex,UBERON:0002189,,2
+straight venule of kidney,UBERON:0010181,part_of,kidney,UBERON:0002113,renal cortex,UBERON:0001225,,1
+straight venule of kidney,UBERON:0010181,part_of,kidney,UBERON:0002113,outer renal cortex,UBERON:0002189,,2
+superior segmental renal artery,FMA:70499,overlaps,kidney,UBERON:0002113,hilum of kidney,UBERON:0008716,,1
+superior segmental renal artery,FMA:70499,supplies,kidney,UBERON:0002113,apical segment of kidney,,,2
+vasa recta of kidney,UBERON:0004726,part_of,kidney,UBERON:0002113,renal medulla,UBERON:0000362,,1
+vasa recta of kidney,UBERON:0004726,overlaps,kidney,UBERON:0002113,inner medulla of kidney,UBERON:0001294,,2
+vasa recta of kidney,UBERON:0004726,directly_supplies_drains,kidney,UBERON:0002113,nephron,UBERON:0001285,nephron,3
+vasa recta of kidney,UBERON:0004726,directly_supplies_drains,kidney,UBERON:0002113,thin ascending limb of loop of Henle,UBERON:0004193,,4
+alveolar capillary,,part_of,lung,UBERON:0002048,pulmonary segment,,,1
+alveolar capillary,,part_of,lung,UBERON:0002048,secondary pulmonary lobule,UBERON:0010368,,2
+alveolar capillary,,part_of,lung,UBERON:0002048,pulmonary acinus,UBERON:0008874,,3
+alveolar capillary,,part_of,lung,UBERON:0002048,inter-alveolar septa,,,4
+alveolar capillary,,directly_supplies_drains,lung,UBERON:0002048,respiratory bronchiole,UBERON:0002188,,5
+alveolar capillary,,directly_supplies_drains,lung,UBERON:0002048,alveolar duct,UBERON:0002173,,6
+alveolar capillary,,directly_supplies_drains,lung,UBERON:0002048,alveolar sac,UBERON:0002169,,7
+alveolar capillary,,directly_supplies_drains,lung,UBERON:0002048,alveolus,UBERON:0002299,alveolus,8
+anterior basal segmental artery of left lung,FMA:8645,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+anterior basal segmental artery of left lung,FMA:8645,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+anterior basal segmental artery of left lung,FMA:8645,part_of,lung,UBERON:0002048,lower lobe of left lung,UBERON:0008953,,3
+anterior basal segmental artery of left lung,FMA:8645,supplies,lung,UBERON:0002048,anterior basal segment of left lung,FMA:7378,,4
+anterior basal segmental artery of right lung,FMA:8630,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+anterior basal segmental artery of right lung,FMA:8630,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+anterior basal segmental artery of right lung,FMA:8630,part_of,lung,UBERON:0002048,lower lobe of right lung,UBERON:0002171,,3
+anterior basal segmental artery of right lung,FMA:8630,supplies,lung,UBERON:0002048,anterior basal segment of right lung,FMA:7364,,4
+anterior segmental artery of left lung,FMA:13279,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+anterior segmental artery of left lung,FMA:13279,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+anterior segmental artery of left lung,FMA:13279,part_of,lung,UBERON:0002048,upper lobe of left lung,UBERON:0008952,,3
+anterior segmental artery of left lung,FMA:13279,supplies,lung,UBERON:0002048,anterior segment of left lung,FMA:7373,,4
+anterior segmental artery of right lung,FMA:8620,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+anterior segmental artery of right lung,FMA:8620,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+anterior segmental artery of right lung,FMA:8620,part_of,lung,UBERON:0002048,upper lobe of right lung,UBERON:0002170,,3
+anterior segmental artery of right lung,FMA:8620,supplies,lung,UBERON:0002048,anterior segment of right lung,FMA:7359,,4
+apical segmental artery of right lung,FMA:8617,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+apical segmental artery of right lung,FMA:8617,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+apical segmental artery of right lung,FMA:8617,part_of,lung,UBERON:0002048,upper lobe of right lung,UBERON:0002170,,3
+apical segmental artery of right lung,FMA:8617,supplies,lung,UBERON:0002048,apical segment of right lung,FMA:7338,,4
+apicoanterior trunk of left pulmonary artery,,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+apicoanterior trunk of left pulmonary artery,,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+apicoanterior trunk of left pulmonary artery,,supplies,lung,UBERON:0002048,upper lobe of left lung,UBERON:0008952,,3
+apicoposterior segmental artery of left lung,FMA:13281,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+apicoposterior segmental artery of left lung,FMA:13281,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+apicoposterior segmental artery of left lung,FMA:13281,part_of,lung,UBERON:0002048,upper lobe of left lung,UBERON:0008952,,3
+apicoposterior segmental artery of left lung,FMA:13281,supplies,lung,UBERON:0002048,apicoposterior segment,,,4
+basal segmental arterial trunk of left lung,FMA:68848,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+basal segmental arterial trunk of left lung,FMA:68848,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+basal segmental arterial trunk of left lung,FMA:68848,supplies,lung,UBERON:0002048,lower lobe of left lung,UBERON:0008953,,3
+basal segmental arterial trunk of right lung,FMA:68847,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+basal segmental arterial trunk of right lung,FMA:68847,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+basal segmental arterial trunk of right lung,FMA:68847,supplies,lung,UBERON:0002048,lower lobe of right lung,UBERON:0002171,,3
+bronchial arteriole,,supplies,lung,UBERON:0002048,tracheobronchial tree,UBERON:0007196,,1
+bronchial capillary,,supplies,lung,UBERON:0002048,tracheobronchial tree,UBERON:0007196,,1
+bronchial capillary,,directly_supplies_drains,lung,UBERON:0002048,trachea,UBERON:0003126,,2
+bronchial capillary,,directly_supplies_drains,lung,UBERON:0002048,right main bronchus,UBERON:0002177,,3
+bronchial capillary,,directly_supplies_drains,lung,UBERON:0002048,left main bronchus,UBERON:0002178,,4
+bronchial capillary,,directly_supplies_drains,lung,UBERON:0002048,lobar bronchi,UBERON:0002183,,5
+bronchial capillary,,directly_supplies_drains,lung,UBERON:0002048,segmental bronchi,UBERON:0002184,,6
+bronchial capillary,,directly_supplies_drains,lung,UBERON:0002048,subsegmental bronchi,FMA:7408,,7
+bronchial capillary,,directly_supplies_drains,lung,UBERON:0002048,proximal bronchioles,UBERON:0012067,,8
+bronchial capillary,,directly_supplies_drains,lung,UBERON:0002048,terminal bronchioles,UBERON:0002187,,9
+bronchial capillary,,directly_supplies_drains,lung,UBERON:0002048,bronchial submucosal gland,UBERON:8410043,bronchial submucosal gland,10
+bronchial venule,,drains,lung,UBERON:0002048,tracheobronchial tree,UBERON:0007196,,1
+high truncus anterior of right pulmonary artery,,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+high truncus anterior of right pulmonary artery,,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+high truncus anterior of right pulmonary artery,,part_of,lung,UBERON:0002048,upper lobe of right lung,UBERON:0002170,,3
+inferior left bronchial artery,FMA:4147,supplies,lung,UBERON:0002048,tracheobronchial tree,UBERON:0007196,,1
+inferior lingular segmental artery of left lung,FMA:8640,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+inferior lingular segmental artery of left lung,FMA:8640,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+inferior lingular segmental artery of left lung,FMA:8640,part_of,lung,UBERON:0002048,upper lobe of left lung,UBERON:0008952,,3
+inferior lingular segmental artery of left lung,FMA:8640,supplies,lung,UBERON:0002048,inferior lingular segment of left lung,FMA:7375,,4
+intra-acinar arteriole,,part_of,lung,UBERON:0002048,pulmonary segment,,,1
+intra-acinar arteriole,,part_of,lung,UBERON:0002048,secondary pulmonary lobule,UBERON:0010368,,2
+intra-acinar arteriole,,part_of,lung,UBERON:0002048,pulmonary acinus,UBERON:0008874,,3
+intra-acinar venule,,part_of,lung,UBERON:0002048,pulmonary segment,,,1
+intra-acinar venule,,part_of,lung,UBERON:0002048,secondary pulmonary lobule,UBERON:0010368,,2
+intra-acinar venule,,part_of,lung,UBERON:0002048,pulmonary acinus,UBERON:0008874,,3
+lateral basal segmental artery of left lung,FMA:8646,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+lateral basal segmental artery of left lung,FMA:8646,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+lateral basal segmental artery of left lung,FMA:8646,part_of,lung,UBERON:0002048,lower lobe of left lung,UBERON:0008953,,3
+lateral basal segmental artery of left lung,FMA:8646,supplies,lung,UBERON:0002048,lateral basal segment of left lung,FMA:7379,,4
+lateral basal segmental artery of right lung,FMA:8631,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+lateral basal segmental artery of right lung,FMA:8631,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+lateral basal segmental artery of right lung,FMA:8631,part_of,lung,UBERON:0002048,lower lobe of right lung,UBERON:0002171,,3
+lateral basal segmental artery of right lung,FMA:8631,supplies,lung,UBERON:0002048,lateral basal segment of right lung,FMA:7363,,4
+lateral segmental artery of right lung,FMA:68194,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+lateral segmental artery of right lung,FMA:68194,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+lateral segmental artery of right lung,FMA:68194,part_of,lung,UBERON:0002048,middle lobe of right lung,UBERON:0002174,,3
+lateral segmental artery of right lung,FMA:68194,supplies,lung,UBERON:0002048,lateral segment of right lung,FMA:7361,,4
+left bronchial vein,FMA:4837,drains,lung,UBERON:0002048,tracheobronchial tree,UBERON:0007196,,1
+left inferior pulmonary vein,FMA:49913,drains,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+left interlobar pulmonary artery,FMA:9284,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+left interlobar pulmonary artery,FMA:9284,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+left interlobar pulmonary artery,FMA:9284,supplies,lung,UBERON:0002048,upper lobe of left lung,,,3
+left interlobar pulmonary artery,FMA:9284,supplies,lung,UBERON:0002048,lower lobe of left lung,,,4
+left pulmonary artery,UBERON:0001652,supplies,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+left superior pulmonary vein,FMA:49916,drains,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+lingular artery of left lung,,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+lingular artery of left lung,,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+lingular artery of left lung,,supplies,lung,UBERON:0002048,upper lobe of left lung,UBERON:0008952,,3
+medial basal segmental artery of left lung,FMA:8644,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+medial basal segmental artery of left lung,FMA:8644,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+medial basal segmental artery of left lung,FMA:8644,part_of,lung,UBERON:0002048,lower lobe of left lung,UBERON:0008953,,3
+medial basal segmental artery of left lung,FMA:8644,supplies,lung,UBERON:0002048,medial basal segment of left lung,FMA:7377,,4
+medial basal segmental artery of right lung,FMA:8628,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+medial basal segmental artery of right lung,FMA:8628,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+medial basal segmental artery of right lung,FMA:8628,part_of,lung,UBERON:0002048,lower lobe of right lung,UBERON:0002171,,3
+medial basal segmental artery of right lung,FMA:8628,supplies,lung,UBERON:0002048,medial basal segment of right lung,FMA:7365,,4
+medial segmental artery of right lung,FMA:68193,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+medial segmental artery of right lung,FMA:68193,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+medial segmental artery of right lung,FMA:68193,part_of,lung,UBERON:0002048,middle lobe of right lung,UBERON:0002174,,3
+medial segmental artery of right lung,FMA:68193,supplies,lung,UBERON:0002048,medial segment of right lung,FMA:7360,,4
+post-alveolar capillary,,part_of,lung,UBERON:0002048,pulmonary segment,,,1
+post-alveolar capillary,,part_of,lung,UBERON:0002048,secondary pulmonary lobule,UBERON:0010368,,2
+post-alveolar capillary,,part_of,lung,UBERON:0002048,pulmonary acinus,UBERON:0008874,,3
+post-alveolar capillary,,part_of,lung,UBERON:0002048,inter-alveolar septa,,,4
+posterior basal segmental artery of left lung,FMA:8647,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+posterior basal segmental artery of left lung,FMA:8647,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+posterior basal segmental artery of left lung,FMA:8647,part_of,lung,UBERON:0002048,lower lobe of left lung,UBERON:0008953,,3
+posterior basal segmental artery of left lung,FMA:8647,supplies,lung,UBERON:0002048,posterior basal segment of left lung,FMA:7380,,4
+posterior basal segmental artery of right lung,FMA:8632,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+posterior basal segmental artery of right lung,FMA:8632,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+posterior basal segmental artery of right lung,FMA:8632,part_of,lung,UBERON:0002048,lower lobe of right lung,UBERON:0002171,,3
+posterior basal segmental artery of right lung,FMA:8632,supplies,lung,UBERON:0002048,posterior basal segment of right lung,FMA:7362,,4
+posterior segmental artery of right lung,FMA:8619,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+posterior segmental artery of right lung,FMA:8619,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+posterior segmental artery of right lung,FMA:8619,part_of,lung,UBERON:0002048,upper lobe of right lung,UBERON:0002170,,3
+posterior segmental artery of right lung,FMA:8619,supplies,lung,UBERON:0002048,posterior segment of right lung,FMA:7339,,4
+pre-alveolar capillary,,part_of,lung,UBERON:0002048,pulmonary segment,,,1
+pre-alveolar capillary,,part_of,lung,UBERON:0002048,secondary pulmonary lobule,UBERON:0010368,,2
+pre-alveolar capillary,,part_of,lung,UBERON:0002048,pulmonary acinus,UBERON:0008874,,3
+pre-alveolar capillary,,part_of,lung,UBERON:0002048,inter-alveolar septa,,,4
+pulmonary arteriole,FMA:279896,part_of,lung,UBERON:0002048,pulmonary segment,,,1
+pulmonary arteriole,FMA:279896,part_of,lung,UBERON:0002048,secondary pulmonary lobule,UBERON:0010368,,2
+pulmonary capillary,FMA:14121,,lung,UBERON:0002048,,,,1
+pulmonary trunk,UBERON:0002333,supplies,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+pulmonary trunk,UBERON:0002333,,lung,UBERON:0002048,right lung,UBERON:0002167,,2
+pulmonary venule,,part_of,lung,UBERON:0002048,pulmonary segment,,,1
+pulmonary venule,,part_of,lung,UBERON:0002048,secondary pulmonary lobule,UBERON:0010368,,2
+right bronchial artery,FMA:31933,supplies,lung,UBERON:0002048,tracheobronchial tree,UBERON:0007196,,1
+right bronchial vein,FMA:4942,drains,lung,UBERON:0002048,tracheobronchial tree,UBERON:0007196,,1
+right inferior pulmonary vein,FMA:49911,drains,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+right interlobar pulmonary artery,FMA:8618,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+right interlobar pulmonary artery,FMA:8618,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+right interlobar pulmonary artery,FMA:8618,supplies,lung,UBERON:0002048,middle lobe of right lung,,,3
+right interlobar pulmonary artery,FMA:8618,supplies,lung,UBERON:0002048,lower lobe of right lung,,,4
+right pulmonary artery,UBERON:0001651,supplies,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+right superior pulmonary vein,FMA:49914,drains,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+segmental pulmonary vein,FMA:9411,drains,lung,UBERON:0002048,pulmonary segment,,,1
+subsegmental pulmonary artery,FMA:9311,part_of,lung,UBERON:0002048,pulmonary segment,,,1
+subsegmental pulmonary vein,FMA:9413,part_of,lung,UBERON:0002048,pulmonary segment,,,1
+subsegmental pulmonary vein,FMA:9413,part_of,lung,UBERON:0002048,interlobular septa,FMA:84472,,2
+superior left bronchial artery,FMA:4146,supplies,lung,UBERON:0002048,tracheobronchial tree,UBERON:0007196,,1
+superior lingular segmental artery of left lung,FMA:8639,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+superior lingular segmental artery of left lung,FMA:8639,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+superior lingular segmental artery of left lung,FMA:8639,part_of,lung,UBERON:0002048,upper lobe of left lung,UBERON:0008952,,3
+superior lingular segmental artery of left lung,FMA:8639,supplies,lung,UBERON:0002048,superior lingular segment of left lung,FMA:7374,,4
+superior segmental artery of left lung,FMA:8642,part_of,lung,UBERON:0002048,left lung,UBERON:0002168,,1
+superior segmental artery of left lung,FMA:8642,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+superior segmental artery of left lung,FMA:8642,part_of,lung,UBERON:0002048,lower lobe of left lung,UBERON:0008953,,3
+superior segmental artery of left lung,FMA:8642,supplies,lung,UBERON:0002048,superior segment of left lung,FMA:7376,,4
+superior segmental artery of right lung,FMA:8627,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+superior segmental artery of right lung,FMA:8627,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+superior segmental artery of right lung,FMA:8627,part_of,lung,UBERON:0002048,lower lobe of right lung,UBERON:0002171,,3
+superior segmental artery of right lung,FMA:8627,supplies,lung,UBERON:0002048,superior segment of right lung,FMA:7366,,4
+truncus anterior of right pulmonary artery,FMA:8616,part_of,lung,UBERON:0002048,right lung,UBERON:0002167,,1
+truncus anterior of right pulmonary artery,FMA:8616,overlaps,lung,UBERON:0002048,visceral pleura,UBERON:0002401,,2
+truncus anterior of right pulmonary artery,FMA:8616,supplies,lung,UBERON:0002048,upper lobe of right lung,UBERON:0002170,,3
+anterior inferior pancreaticoduodenal artery,FMA:70479,supplies,pancreas,UBERON:0001264,head of pancreas,UBERON:0001069,,1
+anterior inferior pancreaticoduodenal artery,FMA:70479,supplies,pancreas,UBERON:0001264,uncinate process of pancreas,UBERON:0010373,,2
+anterior inferior pancreaticoduodenal vein,FMA:0329300,drains,pancreas,UBERON:0001264,head of pancreas,UBERON:0001069,,1
+anterior inferior pancreaticoduodenal vein,FMA:0329300,drains,pancreas,UBERON:0001264,uncinate process of pancreas,UBERON:0010373,,2
+anterior superior pancreaticoduodenal artery,FMA:14782,supplies,pancreas,UBERON:0001264,head of pancreas,UBERON:0001069,,1
+anterior superior pancreaticoduodenal artery,FMA:14782,supplies,pancreas,UBERON:0001264,neck of pancreas,FMA:14517,,2
+anterior superior pancreaticoduodenal vein,FMA:0329297,drains,pancreas,UBERON:0001264,head of pancreas,UBERON:0001069,,1
+anterior superior pancreaticoduodenal vein,FMA:0329297,drains,pancreas,UBERON:0001264,neck of pancreas,FMA:14517,,2
+caudal pancreatic artery,FMA:14793,supplies,pancreas,UBERON:0001264,tail of pancreas,UBERON:0001151,,1
+dorsal pancreatic artery,FMA:14787,supplies,pancreas,UBERON:0001264,body of pancreas,UBERON:0001150,,1
+dorsal pancreatic artery,FMA:14787,supplies,pancreas,UBERON:0001264,head of pancreas,UBERON:0001069,,2
+dorsal pancreatic artery,FMA:14787,supplies,pancreas,UBERON:0001264,neck of pancreas,FMA:14517,,3
+greater pancreatic artery,FMA:14792,supplies,pancreas,UBERON:0001264,body of pancreas,UBERON:0001150,,1
+greater pancreatic artery,FMA:14792,supplies,pancreas,UBERON:0001264,tail of pancreas,UBERON:0001151,,2
+inferior pancreaticoduodenal artery,UBERON:0001195,supplies,pancreas,UBERON:0001264,head of pancreas,UBERON:0001069,,1
+inferior pancreaticoduodenal artery,UBERON:0001195,supplies,pancreas,UBERON:0001264,uncinate process of pancreas,UBERON:0010373,,2
+interlobular artery of pancreas,,overlaps,pancreas,UBERON:0001264,capsule of pancreas,UBERON:0018235,,1
+interlobular artery of pancreas,,part_of,pancreas,UBERON:0001264,connective tissue septa of pancreas,,,2
+interlobular vein of pancreas,,overlaps,pancreas,UBERON:0001264,capsule of pancreas,UBERON:0018235,,1
+interlobular vein of pancreas,,part_of,pancreas,UBERON:0001264,connective tissue septa of pancreas,,,2
+intralobular arteriole of pancreas,,part_of,pancreas,UBERON:0001264,pancreatic lobule,UBERON:0007324,,1
+intralobular arteriole of pancreas,,overlaps,pancreas,UBERON:0001264,exocrine pancreas,UBERON:0000017,,2
+intralobular venule of pancreas,,part_of,pancreas,UBERON:0001264,pancreatic lobule,UBERON:0007324,,1
+intralobular venule of pancreas,,overlaps,pancreas,UBERON:0001264,exocrine pancreas,UBERON:0000017,,2
+lobular artery of pancreas,,part_of,pancreas,UBERON:0001264,connective tissue septa of pancreas,,,1
+lobular artery of pancreas,,supplies,pancreas,UBERON:0001264,pancreatic lobule,UBERON:0007324,,2
+lobular capillary of pancreas,,part_of,pancreas,UBERON:0001264,exocrine pancreas,UBERON:0000017,,1
+lobular capillary of pancreas,,directly_supplies_drains,pancreas,UBERON:0001264,pancreatic acinus,UBERON:0001263,acinus of pancreas,2
+lobular vein of pancreas,,part_of,pancreas,UBERON:0001264,connective tissue septa of pancreas,,,1
+lobular vein of pancreas,,drains,pancreas,UBERON:0001264,pancreatic lobule,UBERON:0007324,,2
+pancreatic islet afferent arteriole,,overlaps,pancreas,UBERON:0001264,endocrine pancreas,UBERON:0000016,,1
+pancreatic islet afferent arteriole,,,pancreas,UBERON:0001264,,UBERON:0000006,,2
+pancreatic islet capillary,FMA:280080,part_of,pancreas,UBERON:0001264,endocrine pancreas,UBERON:0000016,,1
+pancreatic islet capillary,FMA:280080,directly_supplies_drains,pancreas,UBERON:0001264,islet of Langerhans,UBERON:0000006,islet of Langerhans,2
+pancreatic tributary of splenic vein,UBERON:0001214,drains,pancreas,UBERON:0001264,body of pancreas,UBERON:0001150,,1
+pancreatic tributary of splenic vein,UBERON:0001214,drains,pancreas,UBERON:0001264,neck of pancreas,FMA:14517,,2
+pancreatic tributary of splenic vein,UBERON:0001214,drains,pancreas,UBERON:0001264,tail of pancreas,UBERON:0001151,,3
+periductal arteriole of accessory pancreatic duct,,supplies,pancreas,UBERON:0001264,accessory pancreatic duct,UBERON:0005429,duct of pancreas,1
+periductal arteriole of interlobular duct of pancreas,,supplies,pancreas,UBERON:0001264,interlobular duct of pancreas,FMA16005,duct of pancreas,1
+periductal arteriole of main pancreatic duct,,supplies,pancreas,UBERON:0001264,main pancreatic duct,UBERON:0001064,duct of pancreas,1
+periductal branch of interlobular artery of pancreas,,part_of,pancreas,UBERON:0001264,connective tissue septa of pancreas,,,1
+periductal branch of interlobular vein of pancreas,,part_of,pancreas,UBERON:0001264,connective tissue septa of pancreas,,,1
+periductal branch of lobular artery of pancreas,,part_of,pancreas,UBERON:0001264,pancreatic lobule,UBERON:0007324,,1
+periductal branch of lobular artery of pancreas,,overlaps,pancreas,UBERON:0001264,parenchyma of pancreas,UBERON:0001978,,2
+periductal branch of lobular vein of pancreas,,part_of,pancreas,UBERON:0001264,pancreatic lobule,UBERON:0007324,,1
+periductal branch of lobular vein of pancreas,,overlaps,pancreas,UBERON:0001264,parenchyma of pancreas,UBERON:0001978,,2
+periductal capillary of accessory pancreatic duct,,directly_supplies_drains,pancreas,UBERON:0001264,accessory pancreatic duct,UBERON:0005429,duct of pancreas,1
+periductal capillary of intercalated duct of pancreas,,directly_supplies_drains,pancreas,UBERON:0001264,intercalated duct of pancreas,UBERON:0014726,duct of pancreas,1
+periductal capillary of interlobular duct of pancreas,,directly_supplies_drains,pancreas,UBERON:0001264,interlobular duct of pancreas,FMA16005,duct of pancreas,1
+periductal capillary of intralobular duct of panceas,,directly_supplies_drains,pancreas,UBERON:0001264,intralobular duct of pancreas,FMA16015,duct of pancreas,1
+periductal capillary of main pancreatic duct,,directly_supplies_drains,pancreas,UBERON:0001264,main pancreatic duct,UBERON:0001064,duct of pancreas,1
+posterior inferior pancreaticoduodenal artery,FMA:70480,supplies,pancreas,UBERON:0001264,head of pancreas,UBERON:0001069,,1
+posterior inferior pancreaticoduodenal artery,FMA:70480,supplies,pancreas,UBERON:0001264,uncinate process of pancreas,UBERON:0010373,,2
+posterior inferior pancreaticoduodenal vein,FMA:0329301,drains,pancreas,UBERON:0001264,head of pancreas,UBERON:0001069,,1
+posterior inferior pancreaticoduodenal vein,FMA:0329301,drains,pancreas,UBERON:0001264,uncinate process of pancreas,UBERON:0010373,,2
+posterior superior pancreaticoduodenal artery,FMA:14784,supplies,pancreas,UBERON:0001264,neck of pancreas,FMA:14517,,1
+posterior superior pancreaticoduodenal vein,FMA:0329298,drains,pancreas,UBERON:0001264,head of pancreas,UBERON:0001069,,1
+posterior superior pancreaticoduodenal vein,FMA:0329298,drains,pancreas,UBERON:0001264,neck of pancreas,FMA:14517,,2
+superior pancreaticoduodenal artery,UBERON:0002070,supplies,pancreas,UBERON:0001264,head of pancreas,UBERON:0001069,,1
+transverse pancreatic artery,,supplies,pancreas,UBERON:0001264,body of pancreas,UBERON:0001150,,1

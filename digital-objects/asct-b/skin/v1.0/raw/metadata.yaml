@@ -1,0 +1,46 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Skin
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts.
+creators:
+  - fullName: Fiona Ginty
+    firstName: Fiona
+    lastName: Ginty
+    orcid: 0000-0001-6638-683X
+  - fullName: Jonhan Ho
+    firstName: Jonhan
+    lastName: Ho
+    orcid: 0000-0002-1134-8585
+  - fullName: Joel Sunshine
+    firstName: Joel
+    lastName: Sunshine
+    orcid: 0000-0001-9987-6712
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers: []
+externalReviewers: []
+creation_date: '2021-03-12'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM227.WHPG.367
+doi: https://doi.org/10.48539/hbm227.whpg.367
+citation: >-
+  Fiona Ginty; Jonhan Ho; Joel Sunshine. HuBMAP ASCT+B Tables. Skin v1.0
+  [https://doi.org/10.48539/hbm227.whpg.367](https://doi.org/10.48539/hbm227.whpg.367)
+citationOverall: >-
+  Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy
+  Börner. 2021. *HuBMAP ASCT+B Tables*. https://humanatlas.io/asctb-tables.
+  Accessed on March 12, 2021.
+datatable:
+  - ASCT-B_VH_Skin.csv

@@ -1,0 +1,64 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Trachea
+description: >-
+  With revision of the Lung v1.2-1.3 revisions, the Trachea and the Main
+  Bronchus were split out into separate ASCT+B tables as v1.0.  With the
+  excellent assistance of Joshua Fortriede, Ellen Quardokus and Aleix Puig Barbe
+  (EBI), Uberon and Cell Ontology were updated, terms added or revised where
+  needed, AS-AS, AS-CT, CT-CT relationships corrected and verified. The provided
+  gene markers were reviewed and updated based on recent scRNAseq lung cell type
+  references.
+creators:
+  - fullName: Gloria Pryhuber
+    firstName: Gloria
+    lastName: Pryhuber
+    orcid: 0000-0002-9185-3994
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Martijn Nawijn
+    firstName: Martijn
+    lastName: Nawijn
+    orcid: 0000-0003-3372-6521
+  - fullName: Gail Deutsch
+    firstName: Gail
+    lastName: Deutsch
+    orcid: 0000-0002-0571-0285
+  - fullName: Ellen Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Purushotha Tata
+    firstName: Purushotha
+    lastName: Tata
+    orcid: 0000-0003-4837-0337
+  - fullName: Ansley Conchola
+    firstName: Ansley
+    lastName: Conchola
+    orcid: 0000-0002-2385-6712
+  - fullName: Kristin Ardlie
+    firstName: Kristin
+    lastName: Ardlie
+    orcid: 0000-0003-4272-6283
+externalReviewers: []
+creation_date: '2023-06-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM245.PWLJ.489
+doi: https://doi.org/10.48539/HBM245.PWLJ.489
+citation: >-
+  Gloria Pryhuber. HuBMAP ASCT+B Tables. Trachea v1.0
+  [https://doi.org/10.48539/HBM245.PWLJ.489](https://doi.org/10.48539/HBM245.PWLJ.489)
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
+  2023.
+datatable:
+  - asct-b-vh-trachea.csv

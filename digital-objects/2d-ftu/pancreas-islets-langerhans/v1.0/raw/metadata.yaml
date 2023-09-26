@@ -1,0 +1,46 @@
+title: 2D Islets of Langerhans FTU for Pancreas
+description: >-
+  This functional tissue unit (FTU) illustration was created from anatomical
+  structures and cell types listed in the ASCT+B Table [Pancreas
+  v1.0.](https://doi.org/10.48539/HBM332.TMXM.592). Multiple histology atlases,
+  especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A
+  Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Especially
+  helpful in determining the structure overall size and distribution of cell
+  types was [(Da Silva Xavier 2018)](https://doi.org/10.3390/jcm7030054).
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Martha Campbell-Thompson
+    firstName: Martha
+    lastName: Campbell-Thompson
+    orcid: 0000-0001-6878-1235
+externalReviewers: []
+creation_date: '2022-05-06'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM344.CNNH.639
+doi: https://doi.org/10.48539/HBM344.CNNH.639
+citation: >-
+  Rachel Bajema 2022. *2D Islets of Langerhans FTU for Pancreas, v1.0.*
+  [https://doi.org/10.48539/HBM344.CNNH.639](https://doi.org/10.48539/HBM344.CNNH.639).
+  Accessed on May 6, 2022.
+citationOverall: >-
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
+  Börner. 2022. [*HuBMAP CCF 2D Reference Object
+  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 6,
+  2022.
+datatable:
+  - islets_langerhans_pancreas.svg

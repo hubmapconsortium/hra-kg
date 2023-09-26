@@ -1,0 +1,41 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Knee
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts.
+creators:
+  - fullName: David Rowe
+    firstName: David
+    lastName: Rowe
+    orcid: 0000-0001-7852-7775
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: '2022-05-06'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM433.MCBL.623
+doi: https://doi.org/10.48539/HBM433.MCBL.623
+citation: >-
+  David Rowe, HuBMAP ASCT+B Tables. Knee v1.1
+  [https://doi.org/10.48539/HBM433.MCBL.623](https://doi.org/10.48539/HBM433.MCBL.623)
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022.
+datatable:
+  - ASCT-B_VH_Knee.csv

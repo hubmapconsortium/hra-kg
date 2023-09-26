@@ -1,0 +1,69 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lung
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts.
+creators:
+  - fullName: Gloria Pryhuber
+    firstName: Gloria
+    lastName: Pryhuber
+    orcid: 0000-0002-9185-3994
+  - fullName: Xin Sun
+    firstName: Xin
+    lastName: Sun
+    orcid: 0000-0001-8387-4966
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Jeff Whitsett
+    firstName: Jeff
+    lastName: Whitsett
+    orcid: 0000-0003-1668-5174
+  - fullName: Ed Morrisey
+    firstName: Ed
+    lastName: Morrisey
+    orcid: 0000-0001-5785-1939
+  - fullName: Martijn Nawijn
+    firstName: Martijn
+    lastName: Nawijn
+    orcid: 0000-0003-3372-6521
+  - fullName: Purushotha Tata
+    firstName: Purushotha
+    lastName: Tata
+    orcid: 0000-0003-4837-0337
+  - fullName: Ansley Conchola
+    firstName: Ansley
+    lastName: Conchola
+    orcid: 0000-0002-2385-6712
+  - fullName: Kristin Ardlie
+    firstName: Kristin
+    lastName: Ardlie
+    orcid: 0000-0003-4272-6283
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: '2021-12-01'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM323.SGDF.945
+doi: https://doi.org/10.48539/HBM323.SGDF.945
+citation: >-
+  Gloria Pryhuber; Xin Sun, HuBMAP ASCT+B Tables. Lung v1.1
+  [https://doi.org/10.48539/HBM323.SGDF.945](https://doi.org/10.48539/HBM323.SGDF.945)
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. *HuBMAP
+  ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on Dec 1, 2021.
+datatable:
+  - ASCT-B_VH_Lung.csv

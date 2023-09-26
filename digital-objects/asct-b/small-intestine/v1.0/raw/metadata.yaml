@@ -1,0 +1,43 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Small
+  Intestine
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts.
+creators:
+  - fullName: Teri Longacre
+    firstName: Teri
+    lastName: Longacre
+    orcid: 0000-0002-0935-7300
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: '2021-12-01'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM736.PJQV.368
+doi: https://doi.org/10.48539/HBM736.PJQV.368
+citation: >-
+  Teri Longacre, HuBMAP ASCT+B Tables. Small Intestine v1.0
+  [https://doi.org/10.48539/HBM736.PJQV.368](https://doi.org/10.48539/HBM736.PJQV.368)
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on Dec 1, 2021.
+datatable:
+  - ASCT-B_VH_Small_Intestine.csv

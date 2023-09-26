@@ -1,0 +1,100 @@
+title: >-
+  OMAP-5 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based
+  Imaging of Human Liver with SIMS
+description: >-
+  OMAP-5 was designed for Secondary Ionization Mass Spectrometry (SIMS) imaging
+  of fresh frozen human liver samples
+  (https://doi.org/10.1101/2022.09.26.508878). The panel contains 20 antibodies
+  and a cationic nucleic acid intercalator that contains natural-abundance
+  iridium. Antibodies directed against EGFR and Na/K ATPase were used for cell
+  segmentation and image alignment. This OMAP provides spatial context for the
+  anatomical structures, metabolic zonation, and cell types present in the
+  [ASCT+B liver table v1.0](https://doi.org/10.48539/HBM476.BQCC.574). This OMAP
+  does not yet contain antibodies for NK cells, dendritic cells, portal
+  fibroblasts, MAIT cells, gamma delta T cells, and hepatic oval cells. Antigens
+  were detected using lanthanide tagged primary antibodies where the metal tags
+  were detected by specific mass channels using C60 SIMS. Details on the
+  antibody staining method can be found here
+  (dx.doi.org/10.17504/protocols.io.b5qmq5u6). Image registration and cell
+  segmentation were performed using Deepcell (Keren et al.) Cell segmentation
+  was performed using nuclear and membrane marker channels. Integrated protein
+  expression was used to determine thresholds for cellular classification.
+creators:
+  - fullName: Hua Tian
+    firstName: Hua
+    lastName: Tian
+    orcid: 0000-0002-3598-0219
+  - fullName: Presha Rajbhandari
+    firstName: Presha
+    lastName: Rajbhandari
+    orcid: 0000-0003-2184-7238
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Christopher Werlein
+    firstName: Christopher
+    lastName: Werlein
+    orcid: 0000-0002-7694-4257
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Anna Martinez Casals
+    firstName: Anna
+    lastName: Casals
+    orcid: 0000-0003-2722-1965
+  - fullName: Presha Rajbhandari
+    firstName: Presha
+    lastName: Rajbhandari
+    orcid: 0000-0003-2184-7238
+externalReviewers: []
+creation_date: '2022-12-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: >-
+      National Institute of Allergy and Infectious Disease (NIAID)and National
+      Cancer Institute (NCI)
+    awardNumber: UH3 CA246635
+hubmapId: HBM495.QBSV.777
+doi: https://doi.org/10.48539/HBM495.QBSV.777
+citation: >-
+  Hua Tian, Presha Rajbhandari. OMAP-5 Organ Mapping Antibody Panel (OMAP)  for
+  Multiplexed Antibody-Based Imaging of Human Liver with SIMS, v1.1,
+  https://doi.org/10.48539/HBM495.QBSV.777.
+citationOverall: >-
+  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo,
+  Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021.
+  “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for
+  Multiplexed Antibody-Based Imaging.” *Nature Methods*, November.
+  https://doi.org/10.1038/s41592-021-01316-y.
+datatable:
+  - omap-5-liver-sims.csv
+  - omap-5-liver-sims.xlsx

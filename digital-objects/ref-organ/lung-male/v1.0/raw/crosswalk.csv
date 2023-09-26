@@ -1,0 +1,103 @@
+node_name,OntologyID,label
+VHM_respiratory_system,UBERON:0001004,respiratory system
+VHM_bronchi,UBERON:0002185,bronchus
+VHM_bronchi_L,,
+VHM_left_main_bronchus,UBERON:0002178,Left Main Bronchus
+VHM_lobar_bronchus_L,UBERON:0003405,lobar bronchus of left lung
+VHM_left_superior_lobar_bronchus,UBERON:0012065,lobar bronchus of left lung upper lobe
+VHM_left_inferior_lobar_bronchus,UBERON:0012066,lobar bronchus of left lung lower lobe
+VHM_tertiary_bronchi_L,UBERON:0002184,Segmental bronchus
+VHM_left_superior_bronchus,fma:fma7504,Left superior segmental bronchus
+VHM_left_posterior_basal_bronchus,fma:fma7508,Left posterior basal segmental bronchus
+VHM_left_medial_basal_bronchus,fma:fma7505,Left medial basal segmental bronchus
+VHM_left_apical_bronchus,fma:fma7426,Left apical segmental bronchus
+VHM_left_anterior_bronchus,fma:fma7428,Left anterior segmental bronchus
+VHM_left_lingular_bronchus,,
+VHM_left_lingula_superior_bronchus,fma:fma7430,Superior lingular bronchus
+VHM_left_lingula_inferior_bronchus,fma:fma7431,Inferior lingular bronchus
+VHM_left_lateral_basal_bronchus,fma:fma7507,Left lateral basal segmental bronchus
+VHM_left_anterior_basal_bronchus,fma:fma7506,Left anterior basal segmental bronchus
+VHM_bronchi_R,,
+VHM_right_main_bronchus,UBERON:0002177,Right Main Bronchus
+VHM_lobar_bronchi_R,UBERON:0003404,lobar bronchus of right lung
+VHM_right_intermediate_bronchus,fma:fma7415,Interlobar bronchus
+VHM_right_middle_lobar_bronchus,fma:fma7401,Middle lobar bronchus
+VHM_right_superior_lobar_bronchus,fma:fma7397,Right superior lobar bronchus
+VHM_tertiary_bronchi_R,UBERON:0002184,Segmental bronchus
+VHM_right_anterior_bronchus,fma:fma7400,Right anterior segmental bronchus
+VHM_right_lateral_basal_bronchus,fma:fma7419,Right lateral basal segmental bronchus
+VHM_right_lateral_bronchus,fma:fma7402,Lateral segmental bronchus
+VHM_right_lower_lobar_bronchus,fma:fma7404,Right inferior lobar bronchus
+VHM_right_medial_basal_bronchus,fma:fma7417,Right medial basal segmental bronchus
+VHM_right_medial_bronchus,fma:fma7403,Medial segmental bronchus
+VHM_right_posterior_basal,fma:fma7420,Right posterior basal segmental bronchus
+VHM_right_posterior_bronchus,fma:fma7399,Right posterior segmental bronchus
+VHM_right_superior_bronchus,fma:fma7416,Right superior segmental bronchus
+VHM_right_apical_bronchus,fma:fma7416,Right superior segmental bronchus
+VHM_right_anterior_basal_bronchus,fma:fma7399,Right posterior segmental bronchus
+VHM_bronchus,UBERON:0002185,bronchus
+VHM_lungs_cartilage,,
+VHM_bronchial_cartilage,fma:fma62649,Cartilage of bronchus
+VHM_carina,fma:fma7465,Carina of trachea
+VHM_cricoid_cartilage,fma:fma9615,Cricoid cartilage
+VHM_epiglottic_cartilage,fma:fma55112,Epiglottic cartilage
+VHM_thyroid_cartilage,fma:fma55099,Thyroid cartilage
+VHM_arytenoid_cartilage,UBERON:0001740,arytenoid cartilage
+VHM_arytenoid_cartilage_L,fma:fma55114,Left arytenoid cartilage
+VHM_arytenoid_cartilage_R,fma:fma55113,Right arytenoid cartilage
+VHM_corniculate_cartilage,fma:fma55110,Corniculate cartilage
+VHM_corniculate_cartilage_L,fma:fma55116,Left corniculate cartilage
+VHM_corniculate_cartilage_R,fma:fma55115,Right corniculate cartilage
+VHM_tracheal_cartilage,fma:fma7434,Tracheal cartilage
+VHM_muscles_of_larynx,fma:fma46562,Muscle of larynx
+VHM_thyroepiglottideus,UBERON:0010927,thyroepiglotticus muscle
+VHM_vocalis,UBERON:0008577,vocalis muscle
+VHM_cricoarytenoid,UBERON:0010932,crico-arytenoid muscle
+VHM_posterior_cricoarytenoid_L,fma:fma47754,Muscle fasciculus of left posterior crico-arytenoid
+VHM_posterior_cricoarytenoid_R,fma:fma47753,Muscle fasciculus of right posterior crico-arytenoid
+VHM_lateral_cricoarytenoid,fma:fma47767,Muscle fasciculus of lateral crico-arytenoid
+VHM_lateral_cricoarytenoid_R,fma:fma47768,Muscle fasciculus of right lateral crico-arytenoid
+VHM_lateral_cricoarytenoid_L,fma:fma47769,Muscle fasciculus of left lateral crico-arytenoid
+VHM_cricothyroid,fma:fma46417,cricothyroid muscle
+VHM_cricothyroid_R,ma:fma46564,Left cricothyroid muscle
+VHM_cricothyroid_L,fma:fma46563,right cricothyroid muscle
+VHM_thyroarytenoid,fma:fma46588,thyro-arytenoid
+VHM_thyroarytenoid_L,fma:fma46590,Left thyro-arytenoid
+VHM_thyroarytenoid_R,fma:fma46589,right thyro-arytenoid
+VHM_arytenoid,UBERON:0010958,arytenoid muscle
+VHM_trachea,UBERON:0003126,trachea
+VHM_lungs,UBERON:0002048,lung
+VHM_lungs_L,UBERON:0002168,left lung
+VHM_hilum_L,UBERON:0004887,left lung hilus
+VHM_lungs_L_upper_lobe,Uberon:0008952,Upper Lobe of Left Lung
+VHM_hilum_upper_L,UBERON:0004887,left lung hilus
+VHM_left_lingula_superior_bronchopulmonary_segment,fma:fma7374,Superior lingular bronchopulmonary segment
+VHM_left_posterior_bronchopulmonary_segment,fma:fma7386,Left posterior bronchopulmonary segment
+VHM_left_anterior_bronchopulmonary_segment,fma:fma7373,Left Anterior Bronchopulmonary Segment
+VHM_left_apical_bronchopulmonary_segment,fma:fma7385,Left apical bronchopulmonary segment
+VHM_left_lingula_inferior_bronchopulmonary_segment,fma:fma7375,Inferior lingular bronchopulmonary segment
+VHM_lungs_L_lower_lobe,Uberon:0008953,Lower Lobe of Left Lung
+VHM_hilum_lower_L,UBERON:0004887,left lung hilus
+VHM_left_anterior_basal_bronchopulmonary_segment,fma:fma7378,left anterior basal bronchopulmonary segment
+VHM_left_lateral_basal_bronchopulmonary_segment,fma:fma7379,left Lateral Basal Bronchopulmonary Segment
+VHM_left_medial_basal_bronchopulmonary_segment,fma:fma7377,Left Medial Basal Bronchopulmonary Segment
+VHM_left_posetrior_basal_bronchopulmonary_segment,fma:fma7508,Left posterior basal segmental bronchus
+VHM_left_superior_bronchopulmonary_segment,fma:fma7376,Left superior bronchopulmonary segment
+VHM_lungs_R,UBERON:0002167,right lung
+VHM_hilum_R,UBERON:0004888,right lung hilus
+VHM_lungs_R_middle_lobe,UBERON:0002174,Middle Lobe of Right Lung
+VHM_right_lateral_bronchopulmonary_segment,fma:fma7361,Right Lateral Bronchopulmonary Segment
+VHM_right_medial_bronchopulmonary_segment,fma:fma7360,Right Medial Bronchopulmonary Segment
+VHM_hilum_middle_R,UBERON:0004888,right lung hilus
+VHM_lungs_R_lower_lobe,UBERON:0002171,Lower Lobe of Right Lung
+VHM_hilum_lower_R,UBERON:0004888,right lung hilus
+VHM_right_anterior_basal_bronchopulmonary_segment,fma:fma7364,Right anterior basal bronchopulmonary segment
+VHM_right_lateral_basal_bronchopulmonary_segment,fma:fma7363,Right Lateral Basal Bronchopulmonary Segment
+VHM_right_medial_basal_bronchopulmonary_segment,fma:fma7365,Right Medial Basal Bronchopulmonary Segment
+VHM_right_posterior_basal_bronchopulmonary_segment,fma:fma7362,Right Posterior Basal Bronchopulmonary Segment
+VHM_right_superior_bronchopulmonary_segment,fma:fma7366,Right Superior Bronchopulmonary Segment
+VHM_lungs_R_upper_lobe,UBERON:0002170,Upper Lobe of Right Lung
+VHM_right_apical_bronchopulmonary_segment,fma:fma7338,Right Apical Bronchopulmonary Segment
+VHM_right_posterior_bronchopulmonary_segment,fma:fma7339,Right Posterior Bronchopulmonary Segment
+VHM_right_anterior_bronchopulmonary_segment,fma:fma7359,Right Anterior Bronchopulmonary Segment
+VHM_hilum_upper_R,UBERON:0004888,right lung hilus

@@ -1,0 +1,35 @@
+Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Author Name(s):,Elizabeth Neumann,,,,,,,,,,,,,,,,,,,,,
+Author ORCID(s):,0000-0002-6078-3321,,,,,,,,,,,,,,,,,,,,,
+Reviewer(s):,"Andrea J. Radtke, Ellen M. Quardokus, Christopher Werlein",,,,,,,,,,,,,,,,,,,,,
+Reviewer ORCID(s):,"0000-0003-4379-896, 0000-0001-7655-4833, 0000-0002-7694-4257",,,,,,,,,,,,,,,,,,,,,
+General Publication(s):,"https://doi.org/10.1038/s41592-021-01316-y, https://doi.org/10.1016/j.kint.2021.08.033,https://doi.org/10.1016/j.xpro.2021.100747",,,,,,,,,,,,,,,,,,,,,
+Data DOI:,https://doi.org/10.48539/HBM373.TBKP.375,,,,,,,,,,,,,,,,,,,,,
+Date:,"May 6, 2022",,,,,,,,,,,,,,,,,,,,,
+Version Number:,v.1.0,,,,,,,,,,,,,,,,,,,,,
+uniprot_accession_number,HGNC_ID,target_name,antibody_name,host_organism,clonality,vendor,catalog_number,lot_number,recombinant,Dilution/Concentration,Conjugate,RRID,Application,Method,Tissue Preservation,Cycle Number,Fluorescent Reporter,DOI for Protocol,ORCID ID of Author,Core Panel (4-6 markers),Essential 25-plex,Rationale
+P09564,HGNC:1695,CD7,CD7,Rabbit IgG,NA,Akoya,4150022,B311698,N,1/1000,CODEX,AB_2909413,IHC,CODEX,Fresh frozen,1,FITC,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,"Natural killer cells, T cells"
+P29972,HGNC:633,Aquaporin 1,Aquaporin 1,Rabbit IgG,1/22,Abcam,ab9566,GR3330284-1,Y,1/1000,CODEX,AB_296494,IHC,CODEX,Fresh frozen,1,DsRed,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,Y,Y,"Proximal tubule cells, some endothelial cells, descending limb of the loop of Henle"
+P41181,HGNC:634,Aquaporin 2,Aquaporin 2,Rabbit IgG,EPR21080,Abcam,ab230170,GR3309659-1,Y,1/1000,CODEX,AB_2847928,IHC,CODEX,Fresh frozen,1,Cy5,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,Y,Y,Principal cells of the collecting duct
+P04216,HGNC:11801,CD90,CD90,Rabbit IgG,5E10,Akoya,4150021,B311697,N,1/1000,CODEX,AB_2895055,IHC,CODEX,Fresh frozen,2,FITC,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,"Proximal tubules, fibroblasts, activated endothelial cells"
+P28907,HGNC:1667,CD38,CD38,Rabbit IgG,HB-7,Akoya,4150007,B275925,N,1/1000,CODEX,AB_2909414,IHC,CODEX,Fresh frozen,3,FITC,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,"T cells, B cells, NK cells, erythrocytes"
+P46013,HGNC:7107,Ki67,Ki67,Rabbit IgG,B56,Akoya,4250019,B305585,N,1/1000,CODEX,still working on getting curated,IHC,CODEX,Fresh frozen,3,DsRed,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,Proliferating cells 
+P48681,HGNC:7756,Nestin,Nestin,Rabbit IgG,EPR22023,Abcam,ab221660,GR3234351,Y,1/1000,CODEX,AB_2909415,IHC,CODEX,Fresh frozen,3,Cy5,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,Y,Y,"Some podocytes, endothelial cells, basement membrane"
+P08575,HGNC:9666,CD45,CD45,Rabbit IgG,HI30,Akoya,4150003,B304055,N,1/1000,CODEX,AB_2895052,IHC,CODEX,Fresh frozen,4,FITC,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,"All hematopoietic cells, except erythrocytes and platelets"
+P07911,HGNC:12559,Uromodulin,Uromodulin,Rabbit IgG,EPR20071,Abcam,ab207170,GR3291001,Y,1/1000,CODEX,AB_2889163,IHC,CODEX,Fresh frozen,4,DsRed,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,Y,Y,Epithelial cells of the thick ascending limb of Henle's loop
+P35222,HGNC:2514,ß-Catenin,ß-Catenin,Rabbit IgG,E247,Abcam,ab32572,GR3269711,Y,1/1000,CODEX,AB_725966,IHC,CODEX,Fresh frozen,4,Cy5,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,Tubular epithelium
+P08670,HGNC:12692,Vimentin,Vimentin,Rabbit IgG,EPR2911,Abcam,ab92548,GR3238979,Y,1/1000,CODEX,AB_10585132,IHC,CODEX,Fresh frozen,5,Cy5,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,"Mesenchymal cells, tubular cells, glomerular epithelial cells"
+P09874,HGNC:270,PARP1,PARP1,Rabbit IgG,EPR18461,Abcam,ab191217,GR3281797-1,Y,1/1000,CODEX,AB_2861274,IHC,CODEX,Fresh frozen,6,FITC,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,Glomerular endothelium
+P16284,HGNC:8823,CD31,CD31,Rabbit IgG,WM59,Akoya,4250009,B298655,N,1/1000,CODEX,AB_2909416,IHC,CODEX,Fresh frozen,6,DsRed,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,Endothelial cells
+Q9NPY3,HGNC:15855,CD93,CD93,Rabbit IgG,EPR5386,Abcam,ab134079,GR33666664-1,Y,1/1000,CODEX,AB_2291471,IHC,CODEX,Fresh frozen,6,Cy5,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,Peritubular capillary and glomerular endothelium
+P12830,HGNC:1748,E-Cadherin,E-Cadherin,Rabbit IgG,24E10,Cell Signaling,3195S,Cyg0419101,N,1/1000,CODEX,AB_2291471,IHC,CODEX,Fresh frozen,7,FITC,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,"Distal convoluted tubules, collecting duct, loop of Henle"
+P11047,HGNC:6492,Laminin,Laminin,Rabbit IgG,2E8,DSHB,DSHB 2E8,3/26/20-536,N,1/1000,CODEX,AB_528343,IHC,CODEX,Fresh frozen,7,DsRed,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,Y,Y,Basement membrane
+P15692,HGNC:12680,KDR/Vegf ,KDR/Vegf ,Rabbit IgG,EPR21233,Abcam,ab237634,GR3256123-1,Y,1/1000,CODEX,AB_2909417,IHC,CODEX,Fresh frozen,7,Cy5,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,Peritubular capillary and glomerular endothelium
+P05937,HGNC:1434,Calbindin,Calbindin,Rabbit IgG,EPR3478,Abcam,ab108404,GR3264008,Y,1/1000,CODEX,AB_10861236,IHC,CODEX,Fresh frozen,8,FITC,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,"Epithelium in distal convoluted tubules, connecting segment, and cortical collecting duct"
+P08729,HGNC:6445,Cytokeratin 7,Cytokeratin 7,Rabbit IgG,EPR1619Y,Abcam,ab68459,GR3249684-1,Y,1/1000,CODEX,AB_1139824,IHC,CODEX,Fresh frozen,8,DsRed,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,Epithelial cells
+P62736,HGNC:130,α-Smooth Muscle Actin,α-Smooth Muscle Actin,Rabbit IgG,1A4,Abcam,ab7817,GR3273998-2,Y,1/1000,CODEX,AB_262054,IHC,CODEX,Fresh frozen,8,Cy5,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,"Vascular smooth muscle, myofibroblasts"
+P00797,HGNC:9958,Renin,Renin,Rabbit IgG,EPR20693,Abcam,ab212197,GR3366010-1,Y,1/1000,CODEX,AB_2909418,IHC,CODEX,Fresh frozen,9,FITC,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,Juxtaglomerular cell
+Q15661,HGNC:12019,Tryptase,Tryptase,Rabbit IgG,EPR9522,Abcam,ab151757,GR3366012-1,Y,1/1000,CODEX,AB_2909419,IHC,CODEX,Fresh frozen,9,DsRed,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,Mast cells
+P49006,HGNC:7142,MARCKS,MARCKS,Rabbit IgG,EPR15353,Abcam,ab184546,GR3309791-1,Y,1/1000,CODEX,AB_2858219,IHC,CODEX,Fresh frozen,9,Cy5,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,N,Y,Peritubular capillary
+Q8N3V7,HGNC:30672,Synaptopodin,Synaptopodin,Rabbit IgG,G1D4,Gene Tex,GTX39067,822001354,N,1/1000,CODEX,AB_11161967,IHC,CODEX,Fresh frozen,3,DsRed,dx.doi.org/10.17504/protocols.io.buc5nsy6,0000-0002-6078-3321,Y,Y,Glomeruli

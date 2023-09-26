@@ -1,0 +1,92 @@
+title: >-
+  OMAP-6  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Pancreas with CODEX
+description: >-
+  The OMAP Pancreas  panel was designed for CODEX (CO Detection by IndEXing)
+  imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples.
+creators:
+  - fullName: Anna Martinez Casals
+    firstName: Anna
+    lastName: Casals
+    orcid: 0000-0003-2722-1965
+  - fullName: Frida Björklund
+    firstName: Frida
+    lastName: Björklund
+    orcid: 0000-0002-3343-349X
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Katja Steiger
+    firstName: Katja
+    lastName: Steiger
+    orcid: 0000-0002-7269-5433
+  - fullName: Christopher Werlein
+    firstName: Christopher
+    lastName: Werlein
+    orcid: 0000-0002-7694-4257
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Anna Martinez Casals
+    firstName: Anna
+    lastName: Casals
+    orcid: 0000-0003-2722-1965
+  - fullName: Presha Rajbhandari
+    firstName: Presha
+    lastName: Rajbhandari
+    orcid: 0000-0003-2184-7238
+externalReviewers: []
+creation_date: '2021-12-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health (NIH)
+    awardNumber: OT2OD026671
+  - funder: >-
+      National Institute of Allergy and Infectious Disease and National Cancer
+      Institute
+    awardNumber: UH3 CA246635
+  - funder: >-
+      European Union (EU) Expression and Spatial analysis Pancreas Atlas
+      Consortium Europe (ESPACE)
+hubmapId: HBM868.XLTM.922
+doi: https://doi.org/10.48539/HBM868.XLTM.922
+citation: >-
+  Anna Martinez Casals, Frida Björklund. OMAP-6 Organ Mapping Antibody Panel
+  (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX,
+  v1.1, https://doi.org/10.48539/HBM868.XLTM.922.
+citationOverall: >-
+  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo,
+  Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021.
+  “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for
+  Multiplexed Antibody-Based Imaging.” *Nature Methods*, November.
+  https://doi.org/10.1038/s41592-021-01316-y.
+datatable:
+  - omap-6-pancreas-codex.csv
+  - omap-6-pancreas-codex.xlsx

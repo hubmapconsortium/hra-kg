@@ -1,0 +1,7 @@
+node_name,OntologyID,label
+VHF_spleen,UBERON:0002106,spleen
+VHF_gastric_surface_of_spleen,fma:fma15837,gastric surface of spleen
+VHF_diaphragmatic_surface_of_spleen,fma:fma15828,diaphragmatic surface of spleen
+VHF_colic_surface_of_spleen,fma:fma15838,colic surface of spleen
+VHF_hilum_of_spleen,UBERON:0001248,hilum of spleen
+VHF_renal_surface_of_spleen,fma:fma15839,renal surface of spleen

@@ -1,0 +1,42 @@
+title: 3D Reference Organ for Pelvis, Female
+description: >-
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created
+  using data from the Visible Human Female, provided by the National Library of
+  Medicine.
+creators:
+  - fullName: Kristen Browne
+    firstName: Kristen
+    lastName: Browne
+    orcid: 0000-0003-4066-7531
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Muzlifah A. Haniffa
+    firstName: Muzlifah
+    lastName: Haniffa
+    orcid: 0000-0002-3927-2084
+externalReviewers: []
+creation_date: '2021-12-01'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM678.LPCR.586
+doi: https://doi.org/10.48539/HBM678.LPCR.586
+citation: >-
+  Kristen Browne. 2021. *3D Reference Organ for Pelvis, Female v1.1.*
+  [https://doi.org/10.48539/HBM678.LPCR.586](https://doi.org/10.48539/HBM678.LPCR.586).
+  Accessed on December 1, 2021.
+citationOverall: >-
+  Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen
+  Quardokus, Andreas Bueckle, Katy Börner. 2021. *HuBMAP CCF 3D Reference Object
+  Library*. https://humanatlas.io/3d-reference-library. Accessed on December 1,
+  2021.
+datatable:
+  - VH_F_Pelvis.glb

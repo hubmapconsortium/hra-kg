@@ -1,0 +1,104 @@
+node_name,OntologyID,label
+VHM_vasculature,UBERON:0002049,vasculature
+VHM_artery,UBERON:0001637,artery
+VHM_inferior_mesenteric_artery,UBERON:0001183,inferior mesenteric artery
+VHM_splenic_artery,UBERON:0001194,splenic artery
+VHM_superior_mesenteric_artery,UBERON:0001182,superior mesenteric artery
+VHM_celiac_artery,UBERON:0001640,celiac artery
+VHM_aorta,UBERON:0000947,aorta
+VHM_aortic_arch,UBERON:0001508,arch of aorta
+VHM_ascending_aorta,UBERON:0001496,ascending aorta
+VHM_brachiocephalic_artery,UBERON:0001529,brachiocephalic artery
+VHM_brachiocephalic_artery_b,UBERON:0001529,brachiocephalic artery
+VHM_brachiocephalic_artery_a,UBERON:0001529,brachiocephalic artery
+VHM_left_common_carotid_artery,UBERON:0001536,left common carotid artery plus branches
+VHM_left_common_carotid_artery_a,UBERON:0001536,left common carotid artery plus branches
+VHM_left_common_carotid_artery_b,UBERON:0001536,left common carotid artery plus branches
+VHM_left_subclavian_artery,UBERON:0001584,left subclavian artery
+VHM_left_subclavian_artery_a,UBERON:0001584,left subclavian artery
+VHM_left_subclavian_artery_b,UBERON:0001584,left subclavian artery
+VHM_descending_aorta,UBERON:0001514,descending aorta
+VHM_descending_aorta_a,UBERON:0001514,descending aorta
+VHM_descending_aorta_b,UBERON:0001514,descending aorta
+VHM_cardiac_artery,,
+VHM_left_anterior_descending_artery,fma:fma8636,Anterior descending branch of left pulmonary artery
+VHM_right_marginal_artery,fma:fma3818,marginal branch of right coronary artery
+VHM_right_posterior_descending_artery,fma:fma3840,Posterior interventricular branch of right coronary artery
+VHM_diagonal_branch_of_anterior_descending_branch_of_left_coronary_artery,fma:fma3860,Diagonal branch of anterior descending branch of left coronary artery
+VHM_left_coronary_artery,UBERON:0001626,left coronary artery
+VHM_right_coronary_artery,UBERON:0001625,right coronary artery
+VHM_diagonal_branch_of_left_anterior_descending_artery,fma:fma3860,Diagonal branch of anterior descending branch of left coronary artery
+VHM_left_marginal_branch,fma:fma3902,Left marginal artery
+VHM_pulmonary_artery,UBERON:0002012,pulmonary artery
+VHM_pulmonary_artery_L,UBERON:0001652,left pulmonary artery
+VHM_pulmonary_artery_R,UBERON:0001651,right pulmonary artery
+VHM_pulmonary_trunk,UBERON:0002333,pulmonary trunk
+VHM_renal_artery,UBERON:0001184,renal artery
+VHM_left_renal_artery,UBERON:0001186,left renal artery
+VHM_right_renal_artery,UBERON:0001185,right renal artery
+VHM_sigmoid_artery,UBERON:0035180,sigmoid artery
+VHM_sigmoid_artery_a,UBERON:0035180,sigmoid artery
+VHM_sigmoid_artery_b,UBERON:0035180,sigmoid artery
+VHM_sigmoid_artery_c,UBERON:0035180,sigmoid artery
+VHM_colic_artery,UBERON:0035548,colic artery
+VHM_right_colic_artery,fma:fma14811,Right colic artery
+VHM_middle_colic_artery,UBERON:0001196,middle colic artery
+VHM_left_colic_artery,fma:fma14826,Left colic artery
+VHM_ileocolic_artery,UBERON:0035548,ileocolic artery
+VHM_marginal_artery_of_Drummond,fma:fma14824,marginal colic artery
+VHM_vein,UBERON:0001638,vein
+VHM_inferior_mesenteric_vein,UBERON:0001215,inferior mesenteric vein
+VHM_median_sacral_vein,UBERON:0006687,median sacral vein
+VHM_hepatic_portal_vein,UBERON:0001639,hepatic portal vein
+VHM_sigmoid_vein,fma:fma15395,sigmoid vein
+VHM_splenic_vein,UBERON:0003713,splenic vein
+VHM_superior_mesenteric_vein,UBERON:0001182,superior mesenteric artery
+VHM_superior_rectal_vein,UBERON:0035040,superior rectal artery
+VHM_cardiac_vein,UBERON:0004148,cardiac vein
+VHM_great_cardiac_vein,UBERON:0006958,great vein of heart
+VHM_middle_cardiac_vein,UBERON:0009687,middle cardiac vein
+VHM_oblique_vein_of_left_atrium,fma:fma4715,Oblique vein of left atrium
+VHM_anterior_cardiac_vein,fma:fma76767,Anterior cardiac vein
+VHM_coronary_sinus,UBERON:0005438,coronary sinus
+VHM_posterior_vein_of_left_ventricle,fma:fma4712,Posterior vein of left ventricle
+VHM_small_cardiac_vein,UBERON:0035374,small cardiac vein
+VHM_pulmonary_vein,UBERON:0002016,pulmonary vein
+VHM_pulmonary_vein_R_inf,fma:fma49911,right inferior pulmonary vein
+VHM_pulmonary_vein_R_sup,fma:fma49914,right superior pulmonary vein
+VHM_pulmonary_vein_L_inf,fma:fma49913,left inferior pulmonary vein
+VHM_pulmonary_vein_L_sup,fma:fma49916,left superior pulmonary vein
+VHM_common_iliac_vein,UBERON:0001139,common iliac vein
+VHM_common_iliac_vein_L,fma:fma21388,Left common iliac vein
+VHM_common_iliac_vein_R,fma:fma21387,Right common iliac vein
+VHM_brachiocephalic_vein,fma:fma4723,brachiocephalic vein
+VHM_brachiocephalic_vein_L,fma:fma4761,Left brachiocephalic vein
+VHM_brachiocephalic_vein_R,fma:fma4751,Right brachiocephalic vein
+VHM_external_iliac_vein,UBERON:0001316,external iliac vein
+VHM_external_iliac_vein_L,UBERON:0001316,external iliac vein
+VHM_external_iliac_vein_R,UBERON:0001316,external iliac vein
+VHM_inferior_rectal_vein,fma:fma21242,Inferior rectal vein
+VHM_inferior_rectal_vein_L,fma:fma21314,left Inferior rectal vein
+VHM_inferior_rectal_vein_R,fma:fma21313,right Inferior rectal vein
+VHM_internal_pudendal_vein,UBERON:0018252,internal pudendal vein
+VHM_internal_pudendal_vein_L,UBERON:0018252,internal pudendal vein
+VHM_internal_pudendal_vein_R,UBERON:0018252,internal pudendal vein
+VHM_internal_iliac_vein,UBERON:0001317,internal iliac vein
+VHM_internal_iliac_vein_L,UBERON:0001317,internal iliac vein
+VHM_internal_iliac_vein_R,UBERON:0001317,internal iliac vein
+VHM_renal_vein,UBERON:0001140,renal vein
+VHM_renal_vein_L,UBERON:0001142,left renal vein
+VHM_renal_vein_R,UBERON:0001141,right renal vein
+VHM_middle_rectal_vein,fma:fma18893,Middle rectal vein
+VHM_middle_rectal_vein_L,fma:fma18895,Left middle rectal vein
+VHM_middle_rectal_vein_R,fma:fma18894,Right middle rectal vein
+VHM_colic_vein,,
+VHM_left_colic_vein,fma:fma15394,Left colic vein
+VHM_ileocolic_vein,UBERON:0001219,ileocolic vein
+VHM_right_colic_vein,fma:fma15407,Right colic vein
+VHM_middle_colic_vein,UBERON:0001218,middle colic vein
+VHM_inferior_pancreaticoduodenal_vein,fma:fma0329299,Inferior pancreaticoduodenal vein
+VHM_vena_cava,UBERON:0004087,vena cava
+VHM_superior_vena_cava,fma:fma4720,superior vena cava
+VHM_inferior_vena_cava,fma:fma10951,inferior vena cava
+VHM_inferior_vena_cava_b,fma:fma10951,inferior vena cava
+VHM_inferior_vena_cava_a,fma:fma10951,inferior vena cava

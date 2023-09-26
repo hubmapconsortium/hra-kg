@@ -1,0 +1,46 @@
+node_name,OntologyID,label
+VHM_right_kidney,UBERON:0004539,right kidney
+VHM_kidney_capsule_R,UBERON:0002015,kidney capsule
+VHM_hilum_of_kidney_R,UBERON:0008716,hilum of kidney
+VHM_renal_medulla_R,UBERON:0000362,renal medulla
+VHM_renal_papilla_R,UBERON:0001228,renal papilla
+VHM_renal_papilla_R_j,UBERON:0001228,renal papilla
+VHM_renal_papilla_R_i,UBERON:0001228,renal papilla
+VHM_renal_papilla_R_h,UBERON:0001228,renal papilla
+VHM_renal_papilla_R_g,UBERON:0001228,renal papilla
+VHM_renal_papilla_R_f,UBERON:0001228,renal papilla
+VHM_renal_papilla_R_e,UBERON:0001228,renal papilla
+VHM_renal_papilla_R_d,UBERON:0001228,renal papilla
+VHM_renal_papilla_R_c,UBERON:0001228,renal papilla
+VHM_renal_papilla_R_b,UBERON:0001228,renal papilla
+VHM_renal_papilla_R_a,UBERON:0001228,renal papilla
+VHM_renal_pyramid_R,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_a,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_b,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_c,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_d,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_e,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_f,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_g,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_h,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_i,UBERON:0004200,renal pyramid
+VHM_renal_pyramid_j,UBERON:0004200,renal pyramid
+VHM_cortex_of_kidney_R,UBERON:0001225,cortex of kidney
+VHM_renal_column_R,UBERON:0001284,renal column
+VHM_outer_cortex_of_kidney_R,UBERON:0002189,outer cortex of kidney
+VHM_ureter_R,UBERON:0001222,right ureter
+VHM_renal_pelvis_R,UBERON:0001224,renal pelvis
+VHM_calyx_R,UBERON:0006517,kidney calyx
+VHM_major_calyx_R,UBERON:0001226,major calyx
+VHM_major_calyx_R_a,UBERON:0001226,major calyx
+VHM_major_calyx_R_b,UBERON:0001226,major calyx
+VHM_minor_calyx_R,UBERON:0001227,minor calyx
+VHM_minor_calyx_R_a,UBERON:0001227,minor calyx
+VHM_minor_calyx_R_b,UBERON:0001227,minor calyx
+VHM_minor_calyx_R_c,UBERON:0001227,minor calyx
+VHM_minor_calyx_R_d,UBERON:0001227,minor calyx
+VHM_minor_calyx_R_e,UBERON:0001227,minor calyx
+VHM_minor_calyx_R_f,UBERON:0001227,minor calyx
+VHM_minor_calyx_R_g,UBERON:0001227,minor calyx
+VHM_minor_calyx_R_h,UBERON:0001227,minor calyx
+VHM_minor_calyx_R_i,UBERON:0001227,minor calyx

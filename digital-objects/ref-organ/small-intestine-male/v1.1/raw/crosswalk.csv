@@ -1,0 +1,13 @@
+node_name,OntologyID,label
+VH_M_small_intestine,UBERON:0002108,small intestine
+VH_M_ileum,UBERON:0002116,ileum
+VH_M_ileum_terminal,FMA:14966,distal part of ileum
+VH_M_jejunum,UBERON:0002115,jejunum
+VH_M_duodenum,UBERON:0002114,duodenum
+VH_M_duodenum_ascending,FMA:14930,ascending part of duodenum
+VH_M_duodenum_descending,FMA:14928,descending part of duodenum
+VH_M_duodenum_horizonal,FMA:14929,horizontal part of duodenum
+VH_M_duodenum_superior,FMA:7206,superior part of duodenum
+VH_M_duodenal_ampulla,UBERON:0013644,duodenal ampulla
+VH_M_sphincter_of_hepatopancreatic_ampulla,FMA:15077,Sphincter of hepatopancreatic ampulla
+VH_M_papilla_of_santorini,UBERON:0004914,duodenal papilla
