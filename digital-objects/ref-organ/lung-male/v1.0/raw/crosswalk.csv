@@ -59,7 +59,7 @@ VHM_lateral_cricoarytenoid,fma:fma47767,Muscle fasciculus of lateral crico-aryte
 VHM_lateral_cricoarytenoid_R,fma:fma47768,Muscle fasciculus of right lateral crico-arytenoid
 VHM_lateral_cricoarytenoid_L,fma:fma47769,Muscle fasciculus of left lateral crico-arytenoid
 VHM_cricothyroid,fma:fma46417,cricothyroid muscle
-VHM_cricothyroid_R,ma:fma46564,Left cricothyroid muscle
+VHM_cricothyroid_R,FMA:46564,Left cricothyroid muscle
 VHM_cricothyroid_L,fma:fma46563,right cricothyroid muscle
 VHM_thyroarytenoid,fma:fma46588,thyro-arytenoid
 VHM_thyroarytenoid_L,fma:fma46590,Left thyro-arytenoid

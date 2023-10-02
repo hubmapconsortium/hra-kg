@@ -36,11 +36,12 @@ funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 hubmapId: HBM947.QXCK.633
-doi: 'https://doi.org/10.48539/HBM947.QXCK.633 '
+doi: https://doi.org/10.48539/HBM947.QXCK.633
 citation: >-
   Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Eye, Female,
-  Left v1.1. [https://doi.org/10.48539/HBM947.QXCK.633
-  ](https://doi.org/10.48539/HBM947.QXCK.633 ). Accessed on May 6, 2022.
+  Left v1.1.
+  [https://doi.org/10.48539/HBM947.QXCK.633](https://doi.org/10.48539/HBM947.QXCK.633).
+  Accessed on May 6, 2022.
 citationOverall: >-
   Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
   Bueckle, Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object

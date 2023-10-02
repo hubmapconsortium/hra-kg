@@ -9,8 +9,8 @@ description: >-
   6 and pH 9, as described https://dx.doi.org/10.17504/protocols.io.bpwumpew).
   Antigens were detected using either primary antibodies with
   fluorophore-labeled secondaries or fluorescent dye conjugated antibodies
-  (protocol can be found https://dx.doi.org/10.17504/protocols.io.b4kgqutw ).
-  The panel contains 18 antibodies and the nuclear marker DAPI for image
+  (protocol can be found https://dx.doi.org/10.17504/protocols.io.b4kgqutw). The
+  panel contains 18 antibodies and the nuclear marker DAPI for image
   registration and nuclear segmentation. This OMAP provides a spatial context
   for most anatomical structures and cell types present in the [ASCT+B skin
   table, v1.1](https://doi.org/10.48539/HBM423.RTRR.746).  Keratinocyte
