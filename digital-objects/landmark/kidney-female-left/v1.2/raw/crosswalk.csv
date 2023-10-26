@@ -1,0 +1,8 @@
+extraction_set_id,extraction_set_for,node_name,label
+#VHFLeftKidneyLandmarks,#VHFLeftKidneyV1.1,VH_F_kidney_bisection_line_L,Bisection Line
+#VHFLeftKidneyLandmarks,#VHFLeftKidneyV1.1,VH_F_kidney_L_landmark_left_ureter,left ureter
+#VHFLeftKidneyLandmarks,#VHFLeftKidneyV1.1,VH_F_kidney_L_landmark_renal_pelvis,left renal pelvis
+#VHFLeftKidneyLandmarks,#VHFLeftKidneyV1.1,VH_F_kidney_L_landmark_minor_calyxes,minor calyxes
+#VHFLeftKidneyLandmarks,#VHFLeftKidneyV1.1,VH_F_kidney_L_landmark_major_calyxes,major calyxes
+#VHFLeftKidneyLandmarks,#VHFLeftKidneyV1.1,VH_F_kidney_L_landmark_renal_artery,left renal artery
+#VHFLeftKidneyLandmarks,#VHFLeftKidneyV1.1,VH_F_kidney_L_landmark_renal_vein,left renal vein
