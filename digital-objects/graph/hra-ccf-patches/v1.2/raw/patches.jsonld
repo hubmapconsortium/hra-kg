@@ -1,0 +1,237 @@
+[
+    {
+        "@context": [
+            "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            { 
+                "hra": "https://purl.humanatlas.io/graph/hra-ccf-patches#",
+                "schema": "http://schema.org/"
+            }
+        ],
+        "@id": "hra:VHFRightKidney_Patch",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Right Kidney (RUI 0.5)",
+        "creator": "Kristin Browne",
+        "creator_first_name": "Kristin",
+        "creator_last_name": "Browne",
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 60,
+        "y_dimension": 100,
+        "z_dimension": 60,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004539",
+        "placement":
+        [
+            {
+                "@context": [
+            "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            { 
+                "hra": "https://purl.humanatlas.io/graph/hra-ccf-patches#",
+                "schema": "http://schema.org/"
+            }
+        ],
+                "@id": "hra:VHFRightKidney_PatchGlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "hra:VHFRightKidney",
+                "placement_date": "2021-05-20",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -19,
+                "y_rotation": -13,
+                "z_rotation": -21,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 38.191,
+                "y_translation": 48.288,
+                "z_translation": 36.989,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": [
+            "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            { 
+                "hra": "https://purl.humanatlas.io/graph/hra-ccf-patches#",
+                "schema": "http://schema.org/"
+            }
+        ],
+        "@id": "hra:VHFLeftKidney_Patch",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Female Left Kidney (RUI 0.5)",
+        "creator":
+        [
+            {
+                "@id": "https://orcid.org/0000-0003-4066-7531",
+                "@type": "schema:Person",
+                "label": "Kristin Browne",
+                "schema:fullName": "Kristin Browne",
+                "schema:firstName": "Kristin",
+                "schema:lastName": "Browne",
+                "orcid": "0000-0003-4066-7531"
+            }
+        ],
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 60,
+        "y_dimension": 100,
+        "z_dimension": 60,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004538",
+        "placement":
+        [
+            {
+                "@context": [
+            "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            { 
+                "hra": "https://purl.humanatlas.io/graph/hra-ccf-patches#",
+                "schema": "http://schema.org/"
+            }
+        ],
+                "@id": "hra:VHFLeftKidney_PatchGlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "hra:VHFLeftKidney",
+                "placement_date": "2021-05-20",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -19,
+                "y_rotation": -13,
+                "z_rotation": 22,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 41.487,
+                "y_translation": 54.422,
+                "z_translation": 42.942,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": [
+            "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            { 
+                "hra": "https://purl.humanatlas.io/graph/hra-ccf-patches#",
+                "schema": "http://schema.org/"
+            }
+        ],
+        "@id": "hra:VHMRightKidney_Patch",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Male Right Kidney (RUI 0.5)",
+        "creator":
+        [
+            {
+                "@id": "https://orcid.org/0000-0003-4066-7531",
+                "@type": "schema:Person",
+                "label": "Kristin Browne",
+                "schema:fullName": "Kristin Browne",
+                "schema:firstName": "Kristin",
+                "schema:lastName": "Browne",
+                "orcid": "0000-0003-4066-7531"
+            }
+        ],
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 60,
+        "y_dimension": 100,
+        "z_dimension": 60,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004539",
+        "placement":
+        [
+            {
+                "@context": [
+            "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            { 
+                "hra": "https://purl.humanatlas.io/graph/hra-ccf-patches#",
+                "schema": "http://schema.org/"
+            }
+        ],
+                "@id": "hra:VHMRightKidney_PatchGlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "hra:VHMRightKidney",
+                "placement_date": "2021-05-20",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -19,
+                "y_rotation": -13,
+                "z_rotation": -3,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 34.043,
+                "y_translation": 55.763,
+                "z_translation": 38.177,
+                "translation_units": "millimeter"
+            }
+        ]
+    },
+    {
+        "@context": [
+            "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            { 
+                "hra": "https://purl.humanatlas.io/graph/hra-ccf-patches#",
+                "schema": "http://schema.org/"
+            }
+        ],
+        "@id": "hra:VHMLeftKidney_Patch",
+        "@type": "SpatialEntity",
+        "label": "Visual Human Male Left Kidney (RUI 0.5)",
+        "creator":
+        [
+            {
+                "@id": "https://orcid.org/0000-0003-4066-7531",
+                "@type": "schema:Person",
+                "label": "Kristin Browne",
+                "schema:fullName": "Kristin Browne",
+                "schema:firstName": "Kristin",
+                "schema:lastName": "Browne",
+                "orcid": "0000-0003-4066-7531"
+            }
+        ],
+        "creation_date": "2020-01-01",
+        "ccf_annotations":
+        [],
+        "x_dimension": 60,
+        "y_dimension": 100,
+        "z_dimension": 60,
+        "dimension_units": "millimeter",
+        "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004538",
+        "placement":
+        [
+            {
+                "@context": [
+            "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            { 
+                "hra": "https://purl.humanatlas.io/graph/hra-ccf-patches#",
+                "schema": "http://schema.org/"
+            }
+        ],
+                "@id": "hra:VHMLeftKidney_PatchGlobalPlacement",
+                "@type": "SpatialPlacement",
+                "target": "hra:VHMLeftKidney",
+                "placement_date": "2021-05-20",
+                "x_scaling": 1,
+                "y_scaling": 1,
+                "z_scaling": 1,
+                "scaling_units": "ratio",
+                "x_rotation": -19,
+                "y_rotation": -13,
+                "z_rotation": 25,
+                "rotation_order": "XYZ",
+                "rotation_units": "degree",
+                "x_translation": 39.312,
+                "y_translation": 57.719,
+                "z_translation": 39.893,
+                "translation_units": "millimeter"
+            }
+        ]
+    }
+]

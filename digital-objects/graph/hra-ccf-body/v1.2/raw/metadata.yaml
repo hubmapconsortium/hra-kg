@@ -1,0 +1,28 @@
+title: 3D Reference Organ for Human Male and Female Bodies
+description: >-
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created
+  using data from the Visible Human Project, provided by the National Library of
+  Medicine.
+creators:
+  - fullName: Bruce Herr
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+externalReviewers: []
+creation_date: '2020-01-01'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+datatable:
+  - VH_M_United.glb
+  - VH_F_United.glb
+  - bodies.jsonld
