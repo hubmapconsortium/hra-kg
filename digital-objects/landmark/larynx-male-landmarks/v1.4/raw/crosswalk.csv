@@ -1,0 +1,10 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,-,VH_M_larynx_landmarks,larynx landmarks
+https://purl.humanatlas.io/ref-organ/larynx-male#primary,#LarynxLandmarks,Landmarks,VH_M_larynx_landmark_trachea_tracheal_cartilage,tracheal cartilage
+https://purl.humanatlas.io/ref-organ/larynx-male#primary,#LarynxLandmarks,Landmarks,VH_M_larynx_landmark_lateral_cricoarytenoids,lateral cricoarytenoids
+https://purl.humanatlas.io/ref-organ/larynx-male#primary,#LarynxLandmarks,Landmarks,VH_M_larynx_landmark_cricothyroids,cricothyroids
+https://purl.humanatlas.io/ref-organ/larynx-male#primary,#LarynxLandmarks,Landmarks,VH_M_larynx_landmark_thyroepiglottideus,thyroepiglottideus
+https://purl.humanatlas.io/ref-organ/larynx-male#primary,#LarynxLandmarks,Landmarks,VH_M_larynx_landmark_vocalis,vocalis
+https://purl.humanatlas.io/ref-organ/larynx-male#primary,#LarynxLandmarks,Landmarks,VH_M_larynx_landmark_thyroarytenoids,thyroarytenoids
+https://purl.humanatlas.io/ref-organ/larynx-male#primary,#LarynxLandmarks,Landmarks,VH_M_larynx_landmark_arytenoid,arytenoid
+https://purl.humanatlas.io/ref-organ/larynx-male#primary,#LarynxLandmarks,Landmarks,VH_M_larynx_landmark_posterior_cricoarytenoids,posterior cricoarytenoids

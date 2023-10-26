@@ -1,0 +1,55 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,ALL,VH_F_heart_extraction_sites,Heart extraction sites
+-,-,HCA,VH_F_heart_HCA_extraction_sites,HCA heart extraction sites
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHCASet1,HCA,VH_F_heart_HCA_right_ventricle,right ventricle
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHCASet1,HCA,VH_F_heart_HCA_right_atrium,right atrium
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHCASet1,HCA,VH_F_heart_HCA_septum,septum
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHCASet1,HCA,VH_F_heart_HCA_left_ventricle_free_wall,left ventricle free wall
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHCASet1,HCA,VH_F_heart_HCA_apex,apex
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHCASet1,HCA,VH_F_heart_HCA_left_atrium,left atrium
+-,-,SPARC,VH_F_heart_SPARC_extraction_sites,VH_F_heart_SPARC heart extraction sites
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_apical_septum,apical septum
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_AVN,AV (atrioventricular) node
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_basal_lateral_LV,basal lateral left ventricle
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_basal_inf_LV,basal inferior left ventricle
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_basal_ant_LV,basal anterior left ventricle
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_VIVGP,ventral interventricular ganglionated plexi
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_sinus_venarum,sinus venarum
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_RVOT,right ventricular outflow tract
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_papillary_muscle,papillary muscle
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_mitral_valve,mitral valve
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_mid_septum,mid septum
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_RAGP,right atrial ganglionated plexus
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_RV_free_wall,right ventricular free wall
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_RV_inflow,right ventricular inflow
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_posterior_LA,posterior left atrium
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_RA_trabeular_myocardium,right atrium trabecular myocardium
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_RAA,right aortic arch
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_LV_apex,left ventricle apex
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_IVCIAGP,inferior vena cava-inferior atrial ganglionated plexi
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_mid_lateral_LV,mid lateral left ventricle
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_basal_septum,basal septum
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_base_of_LAA,base of left aortic arch
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_LAA,left aortic arch
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_mid_inf_LV,mid inferior left ventricle
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartVH_F_heart_SPARCSet1,SPARC,VH_F_heart_SPARC_mid_ant_LV,mid anterior left ventricle
+-,-,Pei,VH_F_heart_Pei_extraction_sites,Pei heart extraction sites
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartPeiSet1,Pei,VH_F_heart_Pei_right_atrium,right atrium
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartPeiSet1,Pei,VH_F_heart_Pei_RV_free_wall,right ventricle free wall
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartPeiSet1,Pei,VH_F_heart_Pei_septum,septum
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartPeiSet1,Pei,VH_F_heart_Pei_aortic_root,aortic root
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartPeiSet1,Pei,VH_F_heart_Pei_left_atrium,left atrium
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartPeiSet1,Pei,VH_F_heart_Pei_RA_SA_node,left atrium SA node
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartPeiSet1,Pei,VH_F_heart_Pei_RA_AV_node,right atrium AV node
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartPeiSet1,Pei,VH_F_heart_Pei_LV_free_wall,left ventricle free wall
+-,-,HuBMAP,VH_F_heart_HuBMAP_extraction_sites,HuBMAP heart extraction sites
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHBMSet1,HuBMAP,VH_F_heart_HuBMAP_LV_free_wall_3cm_fr_apex,Left ventricle
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHBMSet1,HuBMAP,VH_F_heart_HuBMAP_LV_apex,Left ventricle
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHBMSet1,HuBMAP,VH_F_heart_HuBMAP_LA_appendage,Left atrium
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHBMSet1,HuBMAP,VH_F_heart_HuBMAP_RA_appendage,Right atrium appendage
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHBMSet1,HuBMAP,VH_F_heart_HuBMAP_RV_free_wall_3cm_fr_apex,Right ventricle
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHBMSet1,HuBMAP,VH_F_heart_HuBMAP_septum_3cm_fr_apex_including_LAD,Septum
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHBMSet1,HuBMAP,VH_F_heart_HuBMAP_LA_inflow,Left atrium
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHBMSet1,HuBMAP,VH_F_heart_HuBMAP_RA_SA_node,Right atrium
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHBMSet1,HuBMAP,VH_F_heart_HuBMAP_RA_AV_node,Right atrium
+https://purl.humanatlas.io/ref-organ/heart-female#primary,#VHFHeartHBMSet1,HuBMAP,VH_F_heart_HuBMAP_posterior_AV_junction_inc_coronary_sinus,Posterior

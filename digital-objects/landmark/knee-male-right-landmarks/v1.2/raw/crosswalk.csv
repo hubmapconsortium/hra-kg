@@ -1,0 +1,4 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,-,VH_M_knee_R_landmarks,right knee landmarks
+https://purl.humanatlas.io/ref-organ/knee-male-right#primary,#VHMRightKneeLandmarks,Landmarks,VH_M_knee_R_landmark_ligaments,right knee ligaments
+https://purl.humanatlas.io/ref-organ/knee-male-right#primary,#VHMRightKneeLandmarks,Landmarks,VH_M_knee_R_landmark_rectus_femoris,right rectus femoris

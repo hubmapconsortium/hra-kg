@@ -1,0 +1,6 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,Landmarks,VH_M_eye_L_landmarks,Left Eye Landmarks
+https://purl.humanatlas.io/ref-organ/eye-male-left#primary,#VHMEyeLeftLandmarks,Landmarks,VH_M_eye_L_landmark_muscles,Left Eye Muscles
+https://purl.humanatlas.io/ref-organ/eye-male-left#primary,#VHMEyeLeftLandmarks,Landmarks,VH_M_eye_L_landmark_arteries,Left Eye Arteries
+https://purl.humanatlas.io/ref-organ/eye-male-left#primary,#VHMEyeLeftLandmarks,Landmarks,VH_M_eye_L_landmark_veins,Left Eye Veins
+https://purl.humanatlas.io/ref-organ/eye-male-left#primary,#VHMEyeLeftLandmarks,Landmarks,VH_M_eye_L_landmark_dura_mater_optic_nerve,Left Eye Dura Mater Optic Nerve

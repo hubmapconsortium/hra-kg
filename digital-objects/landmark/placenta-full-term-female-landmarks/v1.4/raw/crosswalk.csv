@@ -1,0 +1,4 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,Landmarks,VH_F_placenta_landmarks,-
+https://purl.humanatlas.io/ref-organ/placenta-full-term-female#primary,#VHFPlacentaLandmarks,Landmarks,VH_F_placenta_landmark_placenta_vessels,placenta vessels
+https://purl.humanatlas.io/ref-organ/placenta-full-term-female#primary,#VHFPlacentaLandmarks,Landmarks,VH_F_placenta_landmark_basal_plate,basal plate

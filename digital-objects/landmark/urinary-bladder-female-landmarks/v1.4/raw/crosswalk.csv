@@ -1,0 +1,4 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,-,VH_F_urinary_bladder_landmarks,Urinary Bladder Landmarks
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female#primary,#VHFUrinaryBladderLandmarks,Landmarks,VH_F_urinary_bladder_landmark_right_ureter,right ureter
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female#primary,#VHFUrinaryBladderLandmarks,Landmarks,VH_F_urinary_bladder_landmark_left_ureter,left ureter

@@ -1,0 +1,8 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,-,VH_M_kidney_L_landmarks,left kidney landmarks
+https://purl.humanatlas.io/ref-organ/kidney-male-left#primary,#VHMLeftKidneyLandmarks,Landmarks,VH_M_kidney_L_landmark_renal_vein,minor calyxes
+https://purl.humanatlas.io/ref-organ/kidney-male-left#primary,#VHMLeftKidneyLandmarks,Landmarks,VH_M_kidney_L_landmark_renal_artery,major calyxes
+https://purl.humanatlas.io/ref-organ/kidney-male-left#primary,#VHMLeftKidneyLandmarks,Landmarks,VH_M_kidney_L_landmark_renal_pelvis,left ureter
+https://purl.humanatlas.io/ref-organ/kidney-male-left#primary,#VHMLeftKidneyLandmarks,Landmarks,VH_M_kidney_L_landmark_ureter,left renal pelvis
+https://purl.humanatlas.io/ref-organ/kidney-male-left#primary,#VHMLeftKidneyLandmarks,Landmarks,VH_M_kidney_L_landmark_major_calyxes,left renal artery
+https://purl.humanatlas.io/ref-organ/kidney-male-left#primary,#VHMLeftKidneyLandmarks,Landmarks,VH_M_kidney_L_landmark_minor_calyxes,left renal vein

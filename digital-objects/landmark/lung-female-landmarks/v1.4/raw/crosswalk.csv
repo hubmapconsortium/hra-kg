@@ -1,0 +1,6 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,Landmarks,VH_F_lung_landmarks,lung landmarks
+https://purl.humanatlas.io/ref-organ/lung-female#primary,#VHFLungLandmarks,Landmarks,VH_F_lung_landmark_carina,"carina "
+https://purl.humanatlas.io/ref-organ/lung-female#primary,#VHFLungLandmarks,Landmarks,VH_F_lung_landmark_trachea_tracheal_cartilage,trachea tracheal cartilage
+https://purl.humanatlas.io/ref-organ/lung-female#primary,#VHFLungLandmarks,Landmarks,VH_F_lung_landmark_main_bronchus,main bronchus
+https://purl.humanatlas.io/ref-organ/lung-female#primary,#VHFLungLandmarks,Landmarks,VH_F_lung_landmark_larynx_laryngeal_cartilage,larynx larygneal cartilage

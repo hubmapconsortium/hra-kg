@@ -1,0 +1,6 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,-,VH_M_spinal_cord_landmarks,spinal cord landmarks
+-,-,Landmarks,VH_M_spinal_cord_landmark_vertebrae,vertebrae
+https://purl.humanatlas.io/ref-organ/spinal-cord-male#primary,#VHMSpinalCordVertebraeLandmarks,Landmarks,VH_M_spinal_cord_landmark_cervical_vertebrae,cervical vertebrae
+https://purl.humanatlas.io/ref-organ/spinal-cord-male#primary,#VHMSpinalCordVertebraeLandmarks,Landmarks,VH_M_spinal_cord_landmark_thoracic_vertebrae,thoracic vertebrae
+https://purl.humanatlas.io/ref-organ/spinal-cord-male#primary,#VHMSpinalCordVertebraeLandmarks,Landmarks,VH_M_spinal_cord_landmark_lumbar_vertebrae,lumbar vertebrae

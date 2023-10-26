@@ -1,0 +1,4 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,Landmarks,VH_F_knee_L_landmarks,left knee landmarks
+https://purl.humanatlas.io/ref-organ/knee-female-left#primary,#VHFLeftKneeLandmarks,Landmarks,VH_F_knee_L_landmark_rectus_femoris,left rectus femoris
+https://purl.humanatlas.io/ref-organ/knee-female-left#primary,#VHFLeftKneeLandmarks,Landmarks,VH_F_knee_L_landmark_ligaments,left knee ligaments

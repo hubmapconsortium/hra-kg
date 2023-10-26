@@ -1,0 +1,5 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,-,VH_M_trachea_landmarks,trachea landmarks
+https://purl.humanatlas.io/ref-organ/trachea-male#primary,#VHMTracheaLandmarks,Landmarks,VH_M_trachea_landmark_muscles_of_larynx,muscles of larynx
+https://purl.humanatlas.io/ref-organ/trachea-male#primary,#VHMTracheaLandmarks,Landmarks,VH_M_trachea_landmark_main_bronchus,main bronchus
+https://purl.humanatlas.io/ref-organ/trachea-male#primary,#VHMTracheaLandmarks,Landmarks,VH_M_trachea_landmark_larynx_laryngeal_cartilage,larynxgeal cartilage

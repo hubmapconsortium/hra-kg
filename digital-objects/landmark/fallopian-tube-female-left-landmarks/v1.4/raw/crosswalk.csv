@@ -1,0 +1,4 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,Landmarks,VH_F_fallopian_tube_L_landmarks,left fallopian tube landmarks
+https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left#primary,#VHFLeftFallopianTubeLandmarks,Landmarks,VH_F_fallopian_tube_L_landmark_uterus,uterus
+https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left#primary,#VHFLeftFallopianTubeLandmarks,Landmarks,VH_F_fallopian_tube_L_landmark_left_ovary,left ovary
