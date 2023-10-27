@@ -2,7 +2,7 @@ title: 2D Nephron Functional Tissue Unit (FTU) for Kidney
 description: >-
   This functional tissue unit (FTU) illustration was created from anatomical
   structures and cell types listed in the ASCT+B Table [Kidney
-  v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Kidney.csv).
+  v1.1](https://cdn.humanatlas.io/hra-releases/v1.1/asct-b/ASCT-B_VH_Kidney.csv).
   This illustration was inspired and heavily influenced by the [Kidney Tissue
   Atlas Explorer](https://atlas.kpmp.org/explorer/). Multiple histology atlases,
   especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A
@@ -50,3 +50,4 @@ citationOverall: >-
   2022.
 datatable:
   - nephron_kidney.svg
+  - crosswalk.csv

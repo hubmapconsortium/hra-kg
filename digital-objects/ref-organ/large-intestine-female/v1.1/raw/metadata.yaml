@@ -40,3 +40,4 @@ citationOverall: >-
   2021.
 datatable:
   - SBU_F_Intestine_Large.glb
+  - crosswalk.csv

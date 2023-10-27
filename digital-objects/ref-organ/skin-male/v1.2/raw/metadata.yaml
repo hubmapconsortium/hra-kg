@@ -44,3 +44,4 @@ citationOverall: >-
   https://humanatlas.io/3d-reference-library. Accessed on May 06, 2022.
 datatable:
   - VH_M_Skin.glb
+  - crosswalk.csv

@@ -17,7 +17,7 @@ description: >-
   spatial context for all anatomical structures and most cell types present in
   the human palatine tonsil. OMAP-10 follows closely OMAP-1 described for human
   lymph nodes
-  (https://hubmapconsortium.github.io/ccf-releases/v1.3/docs/omap/omap-1-human-lymph-node-ibex.html).
+  (https://cdn.humanatlas.io/hra-releases/v1.3/docs/omap/omap-1-human-lymph-node-ibex.html).
   All reagents were obtained from Miltenyi Biotec and have been rigorously
   tested through an internal quality control system to have minimal variation
   between lots. For this reason, lot information is not included in this table.

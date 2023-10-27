@@ -44,3 +44,4 @@ citationOverall: >-
   v1.0*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2023.
 datatable:
   - 3d-vh-f-larynx.glb
+  - crosswalk.csv
