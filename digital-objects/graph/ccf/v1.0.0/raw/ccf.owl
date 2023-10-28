@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns="https://purl.org/ccf/latest/ccf.owl#"
+   xmlns:ccf="http://purl.org/ccf/latest/ccf.owl#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ns1="http://www.geneontology.org/formats/oboInOwl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/LMHA_00332">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002167"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</ccf_part_of_rank>
+    <ccf_preferred_label>right lung upper lobe</ccf_preferred_label>
+    <rdfs:label>right lung upper lobe</rdfs:label>
+    <ns1:id>LMHA:00332</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_rotation_units">
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002078">
+    <ns1:hasExactSynonym>right cardiac atrium</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0035554"/>
+    <ccf_preferred_label>right cardiac atrium</ccf_preferred_label>
+    <rdfs:label>right cardiac atrium</rdfs:label>
+    <ns1:hasExactSynonym>heart right atrium</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>right atrium</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ccf_part_of_rank>
+    <ns1:hasExactSynonym>right atrium of heart</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0002078</ns1:id>
+    <ns1:hasExactSynonym>cardiac right atrium</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHRightKidneyGlobalPlacement1">
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMale"/>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.735</ccf:has_x_scaling>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.0</ccf:has_y_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">275.92</ccf:has_y_translation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHRightKidney"/>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.735</ccf:has_z_scaling>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.735</ccf:has_y_scaling>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.721</ccf:has_z_rotation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-21.9</ccf:has_x_rotation>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">80.783</ccf:has_z_translation>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">438.03</ccf:has_x_translation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC3GlobalPlacement1">
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">568.21</ccf:has_x_translation>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC3"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">322.77</ccf:has_y_translation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMale"/>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-52.0</ccf:has_y_rotation>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">31.689</ccf:has_z_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002079">
+    <ns1:hasExactSynonym>heart left atrium</ns1:hasExactSynonym>
+    <rdfs:label>left cardiac atrium</rdfs:label>
+    <ns1:hasExactSynonym>cardiac left atrium</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>left atrium</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>left atrium of heart</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0035553"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ccf_part_of_rank>
+    <ns1:id>UBERON:0002079</ns1:id>
+    <ns1:hasExactSynonym>left cardiac atrium</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>atrium sinistrum</ns1:hasExactSynonym>
+    <ccf_preferred_label>left cardiac atrium</ccf_preferred_label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002224">
+    <ccf_preferred_label>chest cavity</ccf_preferred_label>
+    <ns1:hasExactSynonym>cavitas thoracis</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0013702"/>
+    <ns1:hasExactSynonym>pectoral cavity</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>thoracic lumen</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>space of thoracic compartment</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>cavity of chest</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>chest cavity</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>cavity of thorax</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ccf_part_of_rank>
+    <rdfs:label>chest cavity</rdfs:label>
+    <ns1:id>UBERON:0002224</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHBody">
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">200.0</ccf:has_z_dimension>
+    <ccf:creator_orcid>https://orcid.org/0000-0002-6703-7647</ccf:creator_orcid>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_y_dimension>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <ccf:creator_last_name>Herr</ccf:creator_last_name>
+    <ccf:ccf_representation_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0005172"/>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <rdfs:label>Visual Human Body</rdfs:label>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_x_dimension>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <dc:creator>Bruce Herr - https://orcid.org/0000-0002-6703-7647</dc:creator>
+    <ccf:creator_first_name>Bruce</ccf:creator_first_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC1">
+    <rdfs:label>Visual Human Female Spleen (CC1)</rdfs:label>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">9.04</ccf:has_z_dimension>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <dc:creator>Kristin Browne</dc:creator>
+    <ccf:creator_first_name>Kristin</ccf:creator_first_name>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.7</ccf:has_y_dimension>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">59.9</ccf:has_x_dimension>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:creator_last_name>Browne</ccf:creator_last_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenGlobalPlacement1">
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMale"/>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">578.24</ccf:has_x_translation>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleen"/>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">345.82</ccf:has_y_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.033</ccf:has_z_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">76.8</ccf:has_x_rotation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC1GlobalPlacement1">
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">360.08</ccf:has_y_translation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-52.0</ccf:has_y_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC1"/>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMale"/>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">15.16</ccf:has_z_translation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">537.23</ccf:has_x_translation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001293">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000362"/>
+    <ns1:hasExactSynonym>zona externa (medullaris renalis)</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>zona externa medullae renalis</ns1:hasExactSynonym>
+    <ccf_preferred_label>outer medulla</ccf_preferred_label>
+    <rdfs:label>outer medulla</rdfs:label>
+    <ns1:hasExactSynonym>outer zone of renal medulla</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>outer zone of medulla of kidney</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ccf_part_of_rank>
+    <ns1:id>UBERON:0001293</ns1:id>
+    <ns1:hasExactSynonym>outer renal medulla</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>renal outer medulla</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHLeftKidneyCubePlacement">
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_rotation>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_translation>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHLeftKidney"/>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHLeftKidneyCube"/>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ccf:has_x_scaling>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">100.0</ccf:has_y_scaling>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ccf:has_z_scaling>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_translation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHRightKidneyGlobalPlacement">
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_y_scaling>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_z_scaling>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-40.0</ccf:has_x_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.783</ccf:has_z_translation>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">428.03</ccf:has_x_translation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemale"/>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">275.92</ccf:has_y_translation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHRightKidney"/>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_x_scaling>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.3</ccf:has_y_rotation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001230">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001229"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ccf_part_of_rank>
+    <ccf_preferred_label>Bowman's capsule</ccf_preferred_label>
+    <ns1:id>UBERON:0001230</ns1:id>
+    <rdfs:label>Bowman's capsule</rdfs:label>
+    <ns1:hasExactSynonym>capsula glomerularis</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>Bowman's capsule</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>Bowmans capsule</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>renal glomerular capsule</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC1GlobalPlacement">
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">350.08</ccf:has_y_translation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-52.0</ccf:has_y_rotation>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemale"/>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">15.16</ccf:has_z_translation>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">547.23</ccf:has_x_translation>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC1"/>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001153">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001155"/>
+    <rdfs:label>caecum</rdfs:label>
+    <ccf_preferred_label>caecum</ccf_preferred_label>
+    <ns1:hasExactSynonym>intestinum crassum caecum</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001153</ns1:id>
+    <ns1:hasExactSynonym>caecum</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>cecum</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#ExampleKidneySection">
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.0</ccf:has_z_dimension>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <ccf:creator_orcid>https://orcid.org/0000-0002-6703-7647</ccf:creator_orcid>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.5</ccf:has_x_dimension>
+    <dc:creator>Bruce Herr - https://orcid.org/0000-0002-6703-7647</dc:creator>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:ccf_annotation rdf:resource="http://purl.obolibrary.org/obo/UBERON_456"/>
+    <ccf:creator_last_name>Herr</ccf:creator_last_name>
+    <ccf:ccf_annotation rdf:resource="http://purl.obolibrary.org/obo/UBERON_123"/>
+    <rdfs:label>Example Kidney Section</rdfs:label>
+    <ccf:creator_first_name>Bruce</ccf:creator_first_name>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.0</ccf:has_y_dimension>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHLeftKidney">
+    <ccf:creator_first_name>Kristin</ccf:creator_first_name>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ccf:has_x_dimension>
+    <ccf:has_object_reference rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHLeftKidneyCube"/>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <ccf:creator_last_name>Browne</ccf:creator_last_name>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">100.0</ccf:has_y_dimension>
+    <rdfs:label>Visual Human Female Left Kidney</rdfs:label>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ccf:has_z_dimension>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <dc:creator>Kristin Browne</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004641">
+    <ns1:hasExactSynonym>capsule of spleen</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>tunica fibrosa (splen)(lien)</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>fibrous capsule of spleen</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ccf_part_of_rank>
+    <ns1:hasExactSynonym>splenic capsule</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002106"/>
+    <ccf_preferred_label>spleen capsule</ccf_preferred_label>
+    <rdfs:label>spleen capsule</rdfs:label>
+    <ns1:id>UBERON:0004641</ns1:id>
+    <ns1:hasExactSynonym>tunica fibrosa splenica</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>capsula splenica</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>Malpighian capsule</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>fibroelastic coat of spleen</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans">
+    <ccf:creator_last_name>Browne</ccf:creator_last_name>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_x_dimension>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">200.0</ccf:has_z_dimension>
+    <rdfs:label>Visual Human Male Organs</rdfs:label>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_y_dimension>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <ccf:has_object_reference rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMaleOrgansObj"/>
+    <dc:creator>Kristin Browne</dc:creator>
+    <ccf:creator_first_name>Kristin</ccf:creator_first_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHBothSexesObjGlobalPlacement">
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBody"/>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexes"/>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_translation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_translation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001249">
+    <ns1:hasExactSynonym>lymphatic follicle of spleen</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001249</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001959"/>
+    <ns1:hasExactSynonym>Malpighian body</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>spleen B cell follicle</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>lymphoid nodule of spleen</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>splenic lymphoid follicle</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>splenic lymphatic follicle</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>lymphoid follicle of spleen</ns1:hasExactSynonym>
+    <ccf_preferred_label>spleen lymphoid follicle</ccf_preferred_label>
+    <ns1:hasExactSynonym>spleen lymphoid follicle</ns1:hasExactSynonym>
+    <rdfs:label>spleen lymphoid follicle</rdfs:label>
+    <ns1:hasExactSynonym>splenic B cell follicle</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC1GlobalPlacement2">
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexes"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">547.23</ccf:has_x_translation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">350.08</ccf:has_y_translation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC1"/>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">15.16</ccf:has_z_translation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-52.0</ccf:has_y_rotation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0008952">
+    <ns1:hasExactSynonym>left lung cranial lobe</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002168"/>
+    <ns1:id>UBERON:0008952</ns1:id>
+    <ccf_preferred_label>upper lobe of left lung</ccf_preferred_label>
+    <rdfs:label>upper lobe of left lung</rdfs:label>
+    <ns1:hasExactSynonym>superior lobe of left lung</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</ccf_part_of_rank>
+    <ns1:hasExactSynonym>left upper lobe</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>left upper lobe of lung</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>lobus superior pulmonis sinistri</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>lobus superior (pulmo sinister)</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_placement_target">
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdfs:range rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0008953">
+    <ns1:hasExactSynonym>lobus inferior (pulmo sinister)</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>left lower lobe</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>lobus inferior pulmonis sinistri</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002168"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</ccf_part_of_rank>
+    <ns1:hasExactSynonym>left lower lobe of lung</ns1:hasExactSynonym>
+    <ccf_preferred_label>lower lobe of left lung</ccf_preferred_label>
+    <rdfs:label>lower lobe of left lung</rdfs:label>
+    <ns1:id>UBERON:0008953</ns1:id>
+    <ns1:hasExactSynonym>left lung caudal lobe</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>inferior lobe of left lung</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000074">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ccf_part_of_rank>
+    <ns1:hasExactSynonym>renal glomeruli</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001229"/>
+    <ns1:id>UBERON:0000074</ns1:id>
+    <rdfs:label>glomerulus</rdfs:label>
+    <ccf_preferred_label>glomerulus</ccf_preferred_label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHRightKidneyCube">
+    <ccf:has_object_file>https://hubmapconsortium.github.io/hubmap-ontology/objects/cube.gltf</ccf:has_object_file>
+    <ccf:has_object_file_format>model/gltf-binary</ccf:has_object_file_format>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#creator_orcid">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHBothSexes">
+    <ccf:ccf_representation_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0005172"/>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <rdfs:label>Visual Human (Both Sexes)</rdfs:label>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_x_dimension>
+    <ccf:has_object_reference rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexesObj"/>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_y_dimension>
+    <dc:creator>Bruce Herr - https://orcid.org/0000-0002-6703-7647</dc:creator>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">200.0</ccf:has_z_dimension>
+    <ccf:creator_orcid>https://orcid.org/0000-0002-6703-7647</ccf:creator_orcid>
+    <ccf:creator_first_name>Bruce</ccf:creator_first_name>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <ccf:creator_last_name>Herr</ccf:creator_last_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001226">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ccf_part_of_rank>
+    <ns1:hasExactSynonym>calices renales majores</ns1:hasExactSynonym>
+    <ccf_preferred_label>major calyx</ccf_preferred_label>
+    <ns1:id>UBERON:0001226</ns1:id>
+    <rdfs:label>major calyx</rdfs:label>
+    <ns1:hasExactSynonym>major calix</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0006517"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#SpatialObjectReference">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial object reference</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000362">
+    <ns1:hasExactSynonym>renal medullae</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ns1:hasExactSynonym>renal pyramids</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>medulla renalis</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0000362</ns1:id>
+    <rdfs:label>renal medulla</rdfs:label>
+    <ns1:hasExactSynonym>renal pyramids set</ns1:hasExactSynonym>
+    <ccf_preferred_label>renal medulla</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ccf_part_of_rank>
+    <ns1:hasExactSynonym>kidney medulla</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>renal medullae set</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>medulla of kidney</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>pyramides renales</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002116">
+    <ns1:id>UBERON:0002116</ns1:id>
+    <ccf_preferred_label>ileum</ccf_preferred_label>
+    <rdfs:label>ileum</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002108"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001229">
+    <ns1:hasExactSynonym>corpusculum renale</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>Malphigian corpuscle</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001285"/>
+    <ns1:hasExactSynonym>Malpighian corpuscle</ns1:hasExactSynonym>
+    <ccf_preferred_label>renal corpuscle</ccf_preferred_label>
+    <ns1:id>UBERON:0001229</ns1:id>
+    <rdfs:label>renal corpuscle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002084">
+    <ns1:hasExactSynonym>left cardiac ventricle</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0002084</ns1:id>
+    <ccf_preferred_label>heart left ventricle</ccf_preferred_label>
+    <rdfs:label>heart left ventricle</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0035553"/>
+    <ns1:hasExactSynonym>left ventricle of heart</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>left ventricle</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</ccf_part_of_rank>
+    <ns1:hasExactSynonym>cardiac left ventricle</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004134">
+    <ns1:hasExactSynonym>proximal kidney tubule</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0009773"/>
+    <ns1:id>UBERON:0004134</ns1:id>
+    <ccf_preferred_label>proximal tubule</ccf_preferred_label>
+    <rdfs:label>proximal tubule</rdfs:label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ccf_part_of_rank>
+    <ns1:hasExactSynonym>renal proximal tubule</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>kidney proximal tubule</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHMaleObj">
+    <ccf:has_object_file>https://hubmapconsortium.github.io/hubmap-ontology/objects/male-torso.glb</ccf:has_object_file>
+    <ccf:has_object_file_format>model/gltf-binary</ccf:has_object_file_format>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#ExampleKidneySectionPlacement">
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.0</ccf:has_z_rotation>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.0</ccf:has_z_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_rotation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.0</ccf:has_y_rotation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#ExampleKidneySlice"/>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</ccf:has_x_translation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.0</ccf:has_y_translation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#ExampleKidneySection"/>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002113">
+    <ccf_preferred_label>kidney</ccf_preferred_label>
+    <rdfs:label>kidney</rdfs:label>
+    <ns1:id>UBERON:0002113</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0003684"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001159">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</ccf_part_of_rank>
+    <ns1:id>UBERON:0001159</ns1:id>
+    <rdfs:label>sigmoid colon</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001155"/>
+    <ccf_preferred_label>sigmoid colon</ccf_preferred_label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001224">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ns1:hasExactSynonym>kidney pelvis</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ccf_part_of_rank>
+    <ccf_preferred_label>renal pelvis</ccf_preferred_label>
+    <ns1:hasExactSynonym>pelvis of ureter</ns1:hasExactSynonym>
+    <rdfs:label>renal pelvis</rdfs:label>
+    <ns1:id>UBERON:0001224</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHFemaleObjGlobalPlacement">
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_translation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_translation>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemale"/>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBody"/>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_rotation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001294">
+    <ns1:hasExactSynonym>zona interna (medullaris renalis)</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>renal inner medulla</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>zona interna medullae renalis</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>inner zone of medulla of kidney</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>inner zone of renal medulla</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>set of inner region of renal pyramids</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>inner renal medulla</ns1:hasExactSynonym>
+    <ccf_preferred_label>inner medulla</ccf_preferred_label>
+    <rdfs:label>inner medulla</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000362"/>
+    <ns1:id>UBERON:0001294</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001248">
+    <ns1:id>UBERON:0001248</ns1:id>
+    <ns1:hasExactSynonym>splenic hilum</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ccf_part_of_rank>
+    <ns1:hasExactSynonym>spleen hilum</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>hilum splenicum</ns1:hasExactSynonym>
+    <ccf_preferred_label>hilum of spleen</ccf_preferred_label>
+    <rdfs:label>hilum of spleen</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002106"/>
+    <ns1:hasExactSynonym>hilum lienale</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000569">
+    <ns1:hasExactSynonym>valva ileocaecalis (valva ilealis)</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001153"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ccf_part_of_rank>
+    <rdfs:label>ileocecal valve</rdfs:label>
+    <ccf_preferred_label>ileocecal valve</ccf_preferred_label>
+    <ns1:id>UBERON:0000569</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC3GlobalPlacement">
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemale"/>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">578.21</ccf:has_x_translation>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC3"/>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-52.0</ccf:has_y_rotation>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">31.689</ccf:has_z_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">312.77</ccf:has_y_translation>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHBothSexesObjPlacement">
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_y_scaling>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexes"/>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">490.0</ccf:has_x_translation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_x_scaling>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_z_scaling>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">110.0</ccf:has_z_translation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexesObj"/>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.0</ccf:has_y_translation>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC2GlobalPlacement2">
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">567.36</ccf:has_x_translation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-52.0</ccf:has_y_rotation>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC2"/>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">335.7</ccf:has_y_translation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexes"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">18.367</ccf:has_z_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenGlobalPlacement2">
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleen"/>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.033</ccf:has_z_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">76.8</ccf:has_x_rotation>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">345.82</ccf:has_y_translation>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">578.24</ccf:has_x_translation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexes"/>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgansGlobalPlacement">
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_translation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemale"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_rotation>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_translation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans"/>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0006517">
+    <ns1:hasExactSynonym>renal calix</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ns1:id>UBERON:0006517</ns1:id>
+    <rdfs:label>kidney calyx</rdfs:label>
+    <ccf_preferred_label>kidney calyx</ccf_preferred_label>
+    <ns1:hasExactSynonym>renal calyx</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>calices renales</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004196">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001287"/>
+    <ns1:hasExactSynonym>segment 1 of proximal tubule</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0004196</ns1:id>
+    <ns1:hasExactSynonym>proximal tubule segment 1</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>S1 portion of tubule</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ccf_part_of_rank>
+    <ns1:hasExactSynonym>S1 portion of renal tubule</ns1:hasExactSynonym>
+    <rdfs:label>proximal convoluted tubule segment 1</rdfs:label>
+    <ccf_preferred_label>proximal convoluted tubule segment 1</ccf_preferred_label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002015">
+    <ns1:hasExactSynonym>capsule of kidney</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>renal capsule</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>fibrous capsule of kidney</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ns1:hasExactSynonym>capsula fibrosa renis</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0002015</ns1:id>
+    <rdfs:label>kidney capsule</rdfs:label>
+    <ccf_preferred_label>kidney capsule</ccf_preferred_label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001287">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ccf_part_of_rank>
+    <ns1:hasExactSynonym>tubulus contortus proximalis</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001287</ns1:id>
+    <rdfs:label>proximal convoluted tubule</rdfs:label>
+    <ccf_preferred_label>proximal convoluted tubule</ccf_preferred_label>
+    <ns1:hasExactSynonym>proximal convoluted renal tubule</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0004134"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/LMHA_00361">
+    <ns1:id>LMHA:00361</ns1:id>
+    <ccf_preferred_label>trachea</ccf_preferred_label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002224"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</ccf_part_of_rank>
+    <rdfs:label>trachea</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_x_scaling">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#ccf_part_of_rank">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_z_rotation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC3">
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">9.54</ccf:has_z_dimension>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <dc:creator>Kristin Browne</dc:creator>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.7</ccf:has_x_dimension>
+    <ccf:creator_last_name>Browne</ccf:creator_last_name>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.4</ccf:has_y_dimension>
+    <ccf:creator_first_name>Kristin</ccf:creator_first_name>
+    <rdfs:label>Visual Human Female Spleen (CC3)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHLeftKidneyGlobalPlacement1">
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-26.0</ccf:has_x_rotation>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHLeftKidney"/>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">9.3</ccf:has_y_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">297.43</ccf:has_y_translation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMale"/>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_z_scaling>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">550.86</ccf:has_x_translation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_x_scaling>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">75.801</ccf:has_z_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">21.2</ccf:has_z_rotation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_y_scaling>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHMale">
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <ccf:creator_orcid>https://orcid.org/0000-0002-6703-7647</ccf:creator_orcid>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">200.0</ccf:has_z_dimension>
+    <dc:creator>Bruce Herr - https://orcid.org/0000-0002-6703-7647</dc:creator>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:creator_last_name>Herr</ccf:creator_last_name>
+    <ccf:ccf_representation_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0005172"/>
+    <ccf:has_object_reference rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMaleObj"/>
+    <ccf:creator_first_name>Bruce</ccf:creator_first_name>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_x_dimension>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_y_dimension>
+    <rdfs:label>Visual Human Male</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0010421">
+    <ns1:hasExactSynonym>spleen lymphocytic corona</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>spleen B cell corona</ns1:hasExactSynonym>
+    <rdfs:label>spleen B cell corona</rdfs:label>
+    <ccf_preferred_label>spleen B cell corona</ccf_preferred_label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0004042"/>
+    <ns1:hasExactSynonym>splenic B cell corona</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>spleen B-cell corona</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</ccf_part_of_rank>
+    <ns1:hasExactSynonym>follicle mantle</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0010421</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC2GlobalPlacement1">
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC2"/>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">18.367</ccf:has_z_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMale"/>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-52.0</ccf:has_y_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">345.7</ccf:has_y_translation>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">557.36</ccf:has_x_translation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001960">
+    <ns1:hasExactSynonym>periarterial lymphoid sheath</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001959"/>
+    <rdfs:label>periarterial lymphatic sheath</rdfs:label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</ccf_part_of_rank>
+    <ns1:hasExactSynonym>periarteriolar sheath</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>PALS</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>spleen periarteriolar lymphatic sheath</ns1:hasExactSynonym>
+    <ccf_preferred_label>periarterial lymphatic sheath</ccf_preferred_label>
+    <ns1:hasExactSynonym>T cell domain of the splenic white pulp</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001960</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHLeftKidneyGlobalPlacement">
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">70.801</ccf:has_z_translation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemale"/>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">267.43</ccf:has_y_translation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHLeftKidney"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_z_scaling>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_y_scaling>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_x_scaling>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-20.1</ccf:has_x_rotation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">560.86</ccf:has_x_translation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002108">
+    <ns1:id>UBERON:0002108</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ccf_part_of_rank>
+    <ccf_preferred_label>small intestine</ccf_preferred_label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0003684"/>
+    <ns1:hasExactSynonym>small bowel</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>small intestine</ns1:hasExactSynonym>
+    <rdfs:label>small intestine</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/LMHA_00120">
+    <rdfs:label>bronchus</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002224"/>
+    <ns1:id>LMHA:00120</ns1:id>
+    <ccf_preferred_label>bronchus</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001155">
+    <ns1:id>UBERON:0001155</ns1:id>
+    <ccf_preferred_label>colon</ccf_preferred_label>
+    <rdfs:label>colon</rdfs:label>
+    <ns1:hasExactSynonym>large bowel</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0003684"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgansGlobalPlacement2">
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexes"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_translation>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_translation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans"/>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenGlobalPlacement">
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleen"/>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">578.24</ccf:has_x_translation>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemale"/>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">76.8</ccf:has_x_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">345.82</ccf:has_y_translation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.033</ccf:has_z_translation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0008716">
+    <ns1:hasExactSynonym>renal hilum</ns1:hasExactSynonym>
+    <ccf_preferred_label>hilum of kidney</ccf_preferred_label>
+    <ns1:id>UBERON:0008716</ns1:id>
+    <rdfs:label>hilum of kidney</rdfs:label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ns1:hasExactSynonym>hilar area of the kidney</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004193">
+    <ns1:hasExactSynonym>thin ascending limb</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</ccf_part_of_rank>
+    <ns1:id>UBERON:0004193</ns1:id>
+    <ns1:hasExactSynonym>ascending limb thin segment of loop of Henle</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>pars ascendens (tubulus attenuatus)</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001288"/>
+    <ns1:hasExactSynonym>ascending thin limb</ns1:hasExactSynonym>
+    <rdfs:label>loop of Henle ascending limb thin segment</rdfs:label>
+    <ccf_preferred_label>loop of Henle ascending limb thin segment</ccf_preferred_label>
+    <ns1:hasExactSynonym>thin ascending limb of loop of Henle</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#ExampleKidneySlicePlacement">
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.0</ccf:has_y_rotation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.0</ccf:has_y_translation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.0</ccf:has_z_rotation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHKidney"/>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.0</ccf:has_z_translation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#ExampleKidneySlice"/>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</ccf:has_x_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_rotation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleen">
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <ccf:creator_last_name>Browne</ccf:creator_last_name>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</ccf:has_z_dimension>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">67.0</ccf:has_y_dimension>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</ccf:has_x_dimension>
+    <dc:creator>Kristin Browne</dc:creator>
+    <ccf:creator_first_name>Kristin</ccf:creator_first_name>
+    <ccf:has_object_reference rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCube"/>
+    <rdfs:label>Visual Human Female Spleen</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001156">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001155"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</ccf_part_of_rank>
+    <ccf_preferred_label>ascending colon</ccf_preferred_label>
+    <ns1:id>UBERON:0001156</ns1:id>
+    <ns1:hasExactSynonym>colon ascendens</ns1:hasExactSynonym>
+    <rdfs:label>ascending colon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHMaleObjGlobalPlacement">
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_translation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMale"/>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_translation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_translation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_rotation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBody"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHMaleOrgansObjPlacement">
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.677</ccf:has_z_scaling>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-196.0</ccf:has_y_translation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMaleOrgansObj"/>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">482.0</ccf:has_x_translation>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">92.0</ccf:has_z_translation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans"/>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.677</ccf:has_x_scaling>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.677</ccf:has_y_scaling>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001284">
+    <ns1:hasExactSynonym>renal column of Bertini</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ccf_part_of_rank>
+    <ns1:hasExactSynonym>column of Bertini</ns1:hasExactSynonym>
+    <ccf_preferred_label>renal column</ccf_preferred_label>
+    <ns1:hasExactSynonym>columna Bertini</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>kidney column</ns1:hasExactSynonym>
+    <rdfs:label>renal column</rdfs:label>
+    <ns1:hasExactSynonym>renal cortical column</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ns1:id>UBERON:0001284</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002106">
+    <rdfs:label>spleen</rdfs:label>
+    <ccf_preferred_label>spleen</ccf_preferred_label>
+    <ns1:id>UBERON:0002106</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0003684"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgansObjPlacement">
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgansObj"/>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">490.0</ccf:has_x_translation>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_y_scaling>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_z_scaling>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans"/>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.0</ccf:has_y_translation>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">110.0</ccf:has_z_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_x_scaling>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCubePlacement">
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">67.0</ccf:has_y_scaling>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCube"/>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</ccf:has_z_scaling>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_rotation>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_translation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleen"/>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_translation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</ccf:has_x_scaling>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHMaleOrgansGlobalPlacement2">
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_translation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans"/>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexes"/>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_translation>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_translation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHMaleOrgansGlobalPlacement">
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_translation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_rotation>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_translation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_translation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMale"/>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005353">
+    <rdfs:label>spleen perifollicular zone</rdfs:label>
+    <ccf_preferred_label>spleen perifollicular zone</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ccf_part_of_rank>
+    <ns1:id>UBERON:0005353</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002106"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001959">
+    <ns1:hasExactSynonym>spleen white pulp</ns1:hasExactSynonym>
+    <rdfs:label>white pulp of spleen</rdfs:label>
+    <ccf_preferred_label>white pulp of spleen</ccf_preferred_label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_1000023"/>
+    <ns1:hasExactSynonym>splenic white pulp</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>white pulp</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>pulpa alba</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001959</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_y_rotation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHMaleObjPlacement">
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">490.0</ccf:has_x_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_z_scaling>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_y_scaling>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMaleObj"/>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.0</ccf:has_y_translation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHMale"/>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_x_scaling>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">110.0</ccf:has_z_translation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_z_translation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHRightKidneyGlobalPlacement2">
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-40.0</ccf:has_x_rotation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">428.03</ccf:has_x_translation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_x_scaling>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.3</ccf:has_y_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHRightKidney"/>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">275.92</ccf:has_y_translation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexes"/>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.783</ccf:has_z_translation>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_z_scaling>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_y_scaling>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005196">
+    <ns1:id>UBERON:0005196</ns1:id>
+    <ns1:hasExactSynonym>spleen GC</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>spleen follicle center</ns1:hasExactSynonym>
+    <rdfs:label>spleen germinal center</rdfs:label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ccf_part_of_rank>
+    <ns1:hasExactSynonym>germinal center of spleen</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0004042"/>
+    <ns1:hasExactSynonym>splenic germinal center</ns1:hasExactSynonym>
+    <ccf_preferred_label>spleen germinal center</ccf_preferred_label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC2GlobalPlacement">
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">18.367</ccf:has_z_translation>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-52.0</ccf:has_y_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC2"/>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">567.36</ccf:has_x_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">335.7</ccf:has_y_translation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHLeftKidneyGlobalPlacement2">
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">267.43</ccf:has_y_translation>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_x_scaling>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">570.86</ccf:has_x_translation>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_y_scaling>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7</ccf:has_z_scaling>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexes"/>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHLeftKidney"/>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-20.1</ccf:has_x_rotation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.801</ccf:has_z_translation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHFemale">
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_x_dimension>
+    <rdfs:label>Visual Human (Both Sexes)</rdfs:label>
+    <ccf:creator_first_name>Bruce</ccf:creator_first_name>
+    <ccf:has_object_reference rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemaleObj"/>
+    <ccf:creator_last_name>Herr</ccf:creator_last_name>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <ccf:ccf_representation_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0005172"/>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">200.0</ccf:has_z_dimension>
+    <ccf:creator_orcid>https://orcid.org/0000-0002-6703-7647</ccf:creator_orcid>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_y_dimension>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <dc:creator>Bruce Herr - https://orcid.org/0000-0002-6703-7647</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#SpatialEntity">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial entity</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002080">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0035554"/>
+    <ns1:hasExactSynonym>right ventricle</ns1:hasExactSynonym>
+    <ccf_preferred_label>heart right ventricle</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ccf_part_of_rank>
+    <ns1:hasExactSynonym>cardiac right ventricle</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>right ventricle of heart</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0002080</ns1:id>
+    <rdfs:label>heart right ventricle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001291">
+    <ns1:hasExactSynonym>ascending thick limb</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>thick ascending limb of Henle's loop</ns1:hasExactSynonym>
+    <rdfs:label>thick ascending limb of loop of Henle</rdfs:label>
+    <ccf_preferred_label>thick ascending limb of loop of Henle</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ccf_part_of_rank>
+    <ns1:hasExactSynonym>thick ascending limb</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>thick ascending limb of distal tubule</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>straight portion of distal convoluted tubule</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001288"/>
+    <ns1:id>UBERON:0001291</ns1:id>
+    <ns1:hasExactSynonym>loop of Henle ascending limb thick segment</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>distal straight tubule</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>tubulus rectus distalis</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>straight portion of distal convoluted renal tubule</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002189">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ccf_part_of_rank>
+    <ns1:hasExactSynonym>outer renal cortex</ns1:hasExactSynonym>
+    <rdfs:label>outer cortex of kidney</rdfs:label>
+    <ns1:hasExactSynonym>kidney outer cortex</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001225"/>
+    <ns1:id>UBERON:0002189</ns1:id>
+    <ccf_preferred_label>outer cortex of kidney</ccf_preferred_label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#ExampleKidneySlice">
+    <ccf:ccf_annotation rdf:resource="http://purl.obolibrary.org/obo/UBERON_123"/>
+    <ccf:creator_first_name>Bruce</ccf:creator_first_name>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.0</ccf:has_z_dimension>
+    <ccf:creator_last_name>Herr</ccf:creator_last_name>
+    <dc:creator>Bruce Herr - https://orcid.org/0000-0002-6703-7647</dc:creator>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.5</ccf:has_x_dimension>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.0</ccf:has_y_dimension>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <ccf:creator_orcid>https://orcid.org/0000-0002-6703-7647</ccf:creator_orcid>
+    <ccf:ccf_freetext_annotation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bob's kidney</ccf:ccf_freetext_annotation>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <ccf:ccf_annotation rdf:resource="http://purl.obolibrary.org/obo/UBERON_456"/>
+    <rdfs:label>Example Kidney Slice</rdfs:label>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC3GlobalPlacement2">
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_x_scaling>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">578.21</ccf:has_x_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_z_scaling>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">312.77</ccf:has_y_translation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-52.0</ccf:has_y_rotation>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ccf:has_y_scaling>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC3"/>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">31.689</ccf:has_z_translation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHBothSexes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHRightKidneyCubePlacement">
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ccf:has_x_scaling>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_translation>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHRightKidneyCube"/>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">100.0</ccf:has_y_scaling>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ccf:has_z_scaling>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_translation>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_x_rotation>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHRightKidney"/>
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_translation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001251">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002106"/>
+    <ns1:hasExactSynonym>junctional zone of spleen</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001251</ns1:id>
+    <ns1:hasExactSynonym>spleen marginal zone</ns1:hasExactSynonym>
+    <rdfs:label>marginal zone of spleen</rdfs:label>
+    <ccf_preferred_label>marginal zone of spleen</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002115">
+    <ccf_preferred_label>jejunum</ccf_preferred_label>
+    <rdfs:label>jejunum</rdfs:label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002108"/>
+    <ns1:id>UBERON:0002115</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHLeftKidneyCube">
+    <ccf:has_object_file_format>model/gltf-binary</ccf:has_object_file_format>
+    <ccf:has_object_file>https://hubmapconsortium.github.io/hubmap-ontology/objects/cube.gltf</ccf:has_object_file>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCC2">
+    <rdfs:label>Visual Human Female Spleen (CC2)</rdfs:label>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:creator_first_name>Kristin</ccf:creator_first_name>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">8.89</ccf:has_z_dimension>
+    <dc:creator>Kristin Browne</dc:creator>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.1</ccf:has_y_dimension>
+    <ccf:creator_last_name>Browne</ccf:creator_last_name>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">63.0</ccf:has_x_dimension>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHBothSexesObj">
+    <ccf:has_object_file>https://hubmapconsortium.github.io/hubmap-ontology/objects/both-sexes-torso.glb</ccf:has_object_file>
+    <ccf:has_object_file_format>model/gltf-binary</ccf:has_object_file_format>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001288">
+    <rdfs:label>loop of Henle</rdfs:label>
+    <ccf_preferred_label>loop of Henle</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ccf_part_of_rank>
+    <ns1:id>UBERON:0001288</ns1:id>
+    <ns1:hasExactSynonym>Henle loop</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>Henle's loop</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>ansa nephroni</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0009773"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000056">
+    <ccf_preferred_label>ureter</ccf_preferred_label>
+    <rdfs:label>ureter</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ccf_part_of_rank>
+    <ns1:id>UBERON:0000056</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009773">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ccf_part_of_rank>
+    <ns1:id>UBERON:0009773</ns1:id>
+    <ns1:hasExactSynonym>tubule of excretory system</ns1:hasExactSynonym>
+    <ccf_preferred_label>renal tubule</ccf_preferred_label>
+    <rdfs:label>renal tubule</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001285"/>
+    <ns1:hasExactSynonym>renal tubule (generic)</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004200">
+    <ns1:id>UBERON:0004200</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ccf_part_of_rank>
+    <ns1:hasExactSynonym>renal pyramid</ns1:hasExactSynonym>
+    <ccf_preferred_label>renal pyramid</ccf_preferred_label>
+    <ns1:hasExactSynonym>Malpighian pyramid</ns1:hasExactSynonym>
+    <rdfs:label>renal pyramid</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHRightKidney">
+    <ccf:creator_last_name>Browne</ccf:creator_last_name>
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ccf:has_x_dimension>
+    <ccf:creator_first_name>Kristin</ccf:creator_first_name>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:has_object_reference rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHRightKidneyCube"/>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ccf:has_z_dimension>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">100.0</ccf:has_y_dimension>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <dc:creator>Kristin Browne</dc:creator>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <rdfs:label>Visual Human Female Right Kidney</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035553">
+    <ns1:id>UBERON:0035553</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ccf_part_of_rank>
+    <rdfs:label>left cardiac chamber</rdfs:label>
+    <ccf_preferred_label>left cardiac chamber</ccf_preferred_label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0004151"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_theta_rotation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#creator_last_name">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001158">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ccf_part_of_rank>
+    <ns1:id>UBERON:0001158</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001155"/>
+    <rdfs:label>descending colon</rdfs:label>
+    <ccf_preferred_label>descending colon</ccf_preferred_label>
+    <ns1:hasExactSynonym>colon descendens</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/LMHA_00330">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</ccf_part_of_rank>
+    <ns1:id>LMHA:00330</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002167"/>
+    <ccf_preferred_label>right lung middle lobe</ccf_preferred_label>
+    <rdfs:label>right lung middle lobe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#creator_uuid">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004151">
+    <ns1:hasExactSynonym>heart chamber</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000948"/>
+    <rdfs:label>cardiac chamber</rdfs:label>
+    <ns1:hasExactSynonym>chamber of heart</ns1:hasExactSynonym>
+    <ccf_preferred_label>cardiac chamber</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ccf_part_of_rank>
+    <ns1:id>UBERON:0004151</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_1000023">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002106"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ccf_part_of_rank>
+    <ns1:hasExactSynonym>splenic pulp</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>Malpighian corpuscles</ns1:hasExactSynonym>
+    <ns1:id>UBERON:1000023</ns1:id>
+    <ns1:hasExactSynonym>pulp of spleen</ns1:hasExactSynonym>
+    <ccf_preferred_label>spleen pulp</ccf_preferred_label>
+    <rdfs:label>spleen pulp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003684">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0013702"/>
+    <ccf_preferred_label>abdominal cavity</ccf_preferred_label>
+    <ns1:hasExactSynonym>space of abdominal compartment</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0003684</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ccf_part_of_rank>
+    <ns1:hasExactSynonym>cavity of compartment of abdomen</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>cavity of abdominal compartment</ns1:hasExactSynonym>
+    <rdfs:label>abdominal cavity</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000948">
+    <ccf_preferred_label>heart</ccf_preferred_label>
+    <ns1:id>UBERON:0000948</ns1:id>
+    <ns1:hasExactSynonym>chambered heart</ns1:hasExactSynonym>
+    <rdfs:label>heart</rdfs:label>
+    <ns1:hasExactSynonym>vertebrate heart</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002224"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005215">
+    <ns1:hasExactSynonym>renal interstitial tissue</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>renal interstitium</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>stroma of kidney</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ccf_part_of_rank>
+    <rdfs:label>kidney interstitium</rdfs:label>
+    <ns1:hasExactSynonym>renal stroma</ns1:hasExactSynonym>
+    <ccf_preferred_label>kidney interstitium</ccf_preferred_label>
+    <ns1:hasExactSynonym>interstitial tissue of kidney</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0005215</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001157">
+    <rdfs:label>transverse colon</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001155"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ccf_part_of_rank>
+    <ns1:id>UBERON:0001157</ns1:id>
+    <ccf_preferred_label>transverse colon</ccf_preferred_label>
+    <ns1:hasExactSynonym>colon transversum</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005097">
+    <ns1:id>UBERON:0005097</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0009773"/>
+    <ns1:hasExactSynonym>connecting tubule</ns1:hasExactSynonym>
+    <rdfs:label>renal connecting tubule</rdfs:label>
+    <ccf_preferred_label>renal connecting tubule</ccf_preferred_label>
+    <ns1:hasExactSynonym>kidney connecting tubule</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001290">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0004134"/>
+    <ccf_preferred_label>proximal straight tubule</ccf_preferred_label>
+    <ns1:hasExactSynonym>thick descending limb of proximal tubule</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001290</ns1:id>
+    <ns1:hasExactSynonym>tubulus rectus proximalis</ns1:hasExactSynonym>
+    <rdfs:label>proximal straight tubule</rdfs:label>
+    <ns1:hasExactSynonym>S3</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#ccf_representation_of">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_x_translation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#creator_first_name">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans">
+    <ccf:has_x_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_x_dimension>
+    <ccf:has_object_reference rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgansObj"/>
+    <ccf:has_y_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1000.0</ccf:has_y_dimension>
+    <dc:creator>Kristin Browne</dc:creator>
+    <rdfs:label>Visual Human Female Organs</rdfs:label>
+    <ccf:creator_first_name>Kristin</ccf:creator_first_name>
+    <ccf:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:creation_date>
+    <ccf:has_dimension_units>millimeter</ccf:has_dimension_units>
+    <ccf:creator_last_name>Browne</ccf:creator_last_name>
+    <ccf:has_z_dimension rdf:datatype="http://www.w3.org/2001/XMLSchema#float">200.0</ccf:has_z_dimension>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004197">
+    <ns1:hasExactSynonym>segment 2 of proximal tubule</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0004197</ns1:id>
+    <ccf_preferred_label>proximal convoluted tubule segment 2</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ccf_part_of_rank>
+    <rdfs:label>proximal convoluted tubule segment 2</rdfs:label>
+    <ns1:hasExactSynonym>proximal tubule segment 2</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>S2 portion of tubule</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>S2 portion of renal tubule</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001287"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001266">
+    <rdfs:label>splenic cord</rdfs:label>
+    <ns1:id>UBERON:0001266</ns1:id>
+    <ccf_preferred_label>splenic cord</ccf_preferred_label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001250"/>
+    <ns1:hasExactSynonym>cord of Bilroth</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>cord of Billroth</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001289">
+    <ns1:hasExactSynonym>descending limb of Henle's loop</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ccf_part_of_rank>
+    <ns1:id>UBERON:0001289</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001288"/>
+    <ns1:hasExactSynonym>loop of Henle descending limb</ns1:hasExactSynonym>
+    <rdfs:label>descending limb of loop of Henle</rdfs:label>
+    <ccf_preferred_label>descending limb of loop of Henle</ccf_preferred_label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_placement_date">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001285">
+    <ccf_preferred_label>nephron</ccf_preferred_label>
+    <ns1:id>UBERON:0001285</ns1:id>
+    <rdfs:label>nephron</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_x_rotation">
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHFemaleObjPlacement">
+    <ccf:has_placement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-01</ccf:has_placement_date>
+    <ccf:has_x_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_x_scaling>
+    <ccf:has_placement_target rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemale"/>
+    <ccf:has_y_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.0</ccf:has_y_translation>
+    <ccf:has_x_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-90.0</ccf:has_x_rotation>
+    <ccf:has_placement_source rdf:resource="http://purl.org/ccf/latest/ccf.owl#VHFemaleObj"/>
+    <ccf:has_y_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_y_scaling>
+    <ccf:has_z_scaling rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.076</ccf:has_z_scaling>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <ccf:has_rotation_units>degree</ccf:has_rotation_units>
+    <ccf:has_z_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_z_rotation>
+    <ccf:has_x_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">490.0</ccf:has_x_translation>
+    <ccf:has_y_rotation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ccf:has_y_rotation>
+    <ccf:scaling_units>ratio</ccf:scaling_units>
+    <ccf:has_translation_units>millimeter</ccf:has_translation_units>
+    <ccf:has_z_translation rdf:datatype="http://www.w3.org/2001/XMLSchema#float">110.0</ccf:has_z_translation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_object_file">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#ccf_preferred_label">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001250">
+    <ns1:hasExactSynonym>pulpa rubra</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>splenic red pulp</ns1:hasExactSynonym>
+    <ccf_preferred_label>red pulp of spleen</ccf_preferred_label>
+    <rdfs:label>red pulp of spleen</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_1000023"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</ccf_part_of_rank>
+    <ns1:hasExactSynonym>red pulp</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001250</ns1:id>
+    <ns1:hasExactSynonym>spleen red pulp</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001227">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0006517"/>
+    <rdfs:label>minor calyx</rdfs:label>
+    <ccf_preferred_label>minor calyx</ccf_preferred_label>
+    <ns1:hasExactSynonym>minor calix</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>calices renales minores</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ccf_part_of_rank>
+    <ns1:id>UBERON:0001227</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004041">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</ccf_part_of_rank>
+    <ns1:hasExactSynonym>primary spleen B cell follicle</ns1:hasExactSynonym>
+    <ccf_preferred_label>spleen primary B follicle</ccf_preferred_label>
+    <ns1:id>UBERON:0004041</ns1:id>
+    <rdfs:label>spleen primary B follicle</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001249"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001265">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</ccf_part_of_rank>
+    <ns1:hasExactSynonym>spleen trabeculum</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001265</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002106"/>
+    <rdfs:label>trabecula of spleen</rdfs:label>
+    <ccf_preferred_label>trabecula of spleen</ccf_preferred_label>
+    <ns1:hasExactSynonym>splenic trabecula</ns1:hasExactSynonym>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_object_file_subpath">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001154">
+    <ns1:hasExactSynonym>caecal appendix</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>cecal appendix</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>appendix</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001154</ns1:id>
+    <rdfs:label>vermiform appendix</rdfs:label>
+    <ccf_preferred_label>vermiform appendix</ccf_preferred_label>
+    <ns1:hasExactSynonym>appendix vermiformis</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001153"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_y_translation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002168">
+    <rdfs:label>left lung</rdfs:label>
+    <ns1:id>UBERON:0002168</ns1:id>
+    <ccf_preferred_label>left lung</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/LMHA_00211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#creation_date">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spatial placement</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_x_dimension">
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001232">
+    <ns1:hasExactSynonym>kidney collecting duct</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001232</ns1:id>
+    <ns1:hasExactSynonym>renal collecting tubule</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>tubulus renalis arcuatus</ns1:hasExactSynonym>
+    <ns1:hasExactSynonym>tubulus renalis colligens</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0009773"/>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ccf_part_of_rank>
+    <ccf_preferred_label>collecting duct of renal tubule</ccf_preferred_label>
+    <ns1:hasExactSynonym>collecting duct</ns1:hasExactSynonym>
+    <rdfs:label>collecting duct of renal tubule</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001225">
+    <ns1:hasExactSynonym>cortex renalis</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ns1:hasExactSynonym>kidney cortex</ns1:hasExactSynonym>
+    <rdfs:label>cortex of kidney</rdfs:label>
+    <ns1:hasExactSynonym>renal cortex</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0001225</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ccf_part_of_rank>
+    <ccf_preferred_label>cortex of kidney</ccf_preferred_label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_z_dimension">
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgansObj">
+    <ccf:has_object_file_format>model/gltf-binary</ccf:has_object_file_format>
+    <ccf:has_object_file>https://hubmapconsortium.github.io/hubmap-ontology/objects/VHF_United_v01_060420.glb</ccf:has_object_file>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_rotation_order">
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/LMHA_00324">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002167"/>
+    <ccf_preferred_label>right lung lower lobe</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ccf_part_of_rank>
+    <ns1:id>LMHA:00324</ns1:id>
+    <rdfs:label>right lung lower lobe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001228">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ccf_preferred_label>renal papilla</ccf_preferred_label>
+    <ns1:hasExactSynonym>kidney papilla</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ccf_part_of_rank>
+    <ns1:id>UBERON:0001228</ns1:id>
+    <rdfs:label>renal papilla</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035554">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0004151"/>
+    <rdfs:label>right cardiac chamber</rdfs:label>
+    <ccf_preferred_label>right cardiac chamber</ccf_preferred_label>
+    <ns1:id>UBERON:0035554</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHFemaleObj">
+    <ccf:has_object_file_format>model/gltf-binary</ccf:has_object_file_format>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+    <ccf:has_object_file>https://hubmapconsortium.github.io/hubmap-ontology/objects/female-torso.glb</ccf:has_object_file>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004538">
+    <ccf_preferred_label>left kidney</ccf_preferred_label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <rdfs:label>left kidney</rdfs:label>
+    <ns1:id>UBERON:0004538</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_dimension_units">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_object_reference">
+    <rdfs:range rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004042">
+    <ns1:hasExactSynonym>secondary spleen B cell follicle</ns1:hasExactSynonym>
+    <ccf_preferred_label>spleen secondary B follicle</ccf_preferred_label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ccf_part_of_rank>
+    <ns1:hasExactSynonym>splenic secondary B cell follicle</ns1:hasExactSynonym>
+    <rdfs:label>spleen secondary B follicle</rdfs:label>
+    <ns1:id>UBERON:0004042</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001249"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#updated_date">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0008203">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ccf_part_of_rank>
+    <ccf_preferred_label>pelvic cavity</ccf_preferred_label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0013702"/>
+    <ns1:hasExactSynonym>space of pelvic compartment</ns1:hasExactSynonym>
+    <ns1:id>UBERON:0008203</ns1:id>
+    <rdfs:label>pelvic cavity</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004539">
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ccf_part_of_rank>
+    <rdfs:label>right kidney</rdfs:label>
+    <ns1:id>UBERON:0004539</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ccf_preferred_label>right kidney</ccf_preferred_label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_placement_source">
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdfs:range rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+    <rdfs:range rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0013702">
+    <ns1:id>UBERON:0013702</ns1:id>
+    <ccf_preferred_label>body</ccf_preferred_label>
+    <rdfs:label>body</rdfs:label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_y_dimension">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialEntity"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002167">
+    <rdfs:label>right lung</rdfs:label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/LMHA_00211"/>
+    <ccf_preferred_label>right lung</ccf_preferred_label>
+    <ns1:id>UBERON:0002167</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#ccf_freetext_annotation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHSpleenCube">
+    <ccf:has_object_file_format>model/gltf-binary</ccf:has_object_file_format>
+    <ccf:has_object_file>https://hubmapconsortium.github.io/hubmap-ontology/objects/cube.gltf</ccf:has_object_file>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001292">
+    <ccf_preferred_label>distal convoluted tubule</ccf_preferred_label>
+    <ns1:hasExactSynonym>tubulus contortus distalis</ns1:hasExactSynonym>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0009773"/>
+    <ns1:id>UBERON:0001292</ns1:id>
+    <ns1:hasExactSynonym>distal convoluted renal tubule</ns1:hasExactSynonym>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</ccf_part_of_rank>
+    <rdfs:label>distal convoluted tubule</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ccf/latest/ccf.owl#VHMaleOrgansObj">
+    <ccf:has_object_file_format>model/gltf-binary</ccf:has_object_file_format>
+    <ccf:has_object_file>https://hubmapconsortium.github.io/hubmap-ontology/objects/VHM_United_v02_06042020.glb</ccf:has_object_file>
+    <rdf:type rdf:resource="http://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001052">
+    <ccf_preferred_label>rectum</ccf_preferred_label>
+    <ns1:hasExactSynonym>terminal portion of intestine</ns1:hasExactSynonym>
+    <rdfs:label>rectum</rdfs:label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</ccf_part_of_rank>
+    <ns1:id>UBERON:0001052</ns1:id>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0008203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0014464">
+    <rdfs:label>renal fat pad</rdfs:label>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ccf_part_of_rank>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002113"/>
+    <ccf_preferred_label>renal fat pad</ccf_preferred_label>
+    <ns1:id>UBERON:0014464</ns1:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/LMHA_00211">
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002224"/>
+    <rdfs:label>lung</rdfs:label>
+    <ccf_preferred_label>lung</ccf_preferred_label>
+    <ns1:id>LMHA:00211</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ccf_part_of_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#ccf_annotation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_object_file_format">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialObjectReference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_z_scaling">
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#has_y_scaling">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    <rdfs:domain rdf:resource="https://purl.org/ccf/latest/ccf.owl#SpatialPlacement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#ccf_part_of">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002114">
+    <ns1:id>UBERON:0002114</ns1:id>
+    <ccf_part_of_rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</ccf_part_of_rank>
+    <ccf_preferred_label>duodenum</ccf_preferred_label>
+    <rdfs:label>duodenum</rdfs:label>
+    <ccf_part_of rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002108"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://purl.org/ccf/latest/ccf.owl#ccf_same_as">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+</rdf:RDF>
