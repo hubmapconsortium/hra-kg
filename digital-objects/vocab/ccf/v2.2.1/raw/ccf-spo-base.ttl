@@ -1,0 +1,302 @@
+@prefix : <http://purl.org/ccf/ccf-spo.owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ccf: <http://purl.org/ccf/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@base <http://purl.org/ccf/ccf-spo-base> .
+
+<http://purl.org/ccf/ccf-spo-base> rdf:type owl:Ontology ;
+                                    owl:versionIRI <http://purl.org/ccf/releases/latest/ccf-spo-base> .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/ccf/collides_with
+ccf:collides_with rdf:type owl:AnnotationProperty ;
+                  rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                  rdfs:label "collides with" .
+
+
+###  http://purl.org/ccf/creation_date
+ccf:creation_date rdf:type owl:AnnotationProperty ;
+                  rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                  rdfs:label "creation date"@en .
+
+
+###  http://purl.org/ccf/dimension_unit
+ccf:dimension_unit rdf:type owl:AnnotationProperty ;
+                   rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                   rdfs:label "dimension unit" .
+
+
+###  http://purl.org/ccf/extraction_set_for
+ccf:extraction_set_for rdf:type owl:AnnotationProperty ;
+                       rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                       rdfs:label "extraction set for"@en .
+
+
+###  http://purl.org/ccf/file_format
+ccf:file_format rdf:type owl:AnnotationProperty ;
+                rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                rdfs:label "file format" .
+
+
+###  http://purl.org/ccf/file_name
+ccf:file_name rdf:type owl:AnnotationProperty ;
+              rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+              rdfs:label "file name" .
+
+
+###  http://purl.org/ccf/file_subpath
+ccf:file_subpath rdf:type owl:AnnotationProperty ;
+                 rdfs:label "file subpath" .
+
+
+###  http://purl.org/ccf/file_url
+ccf:file_url rdf:type owl:AnnotationProperty ;
+             rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+             rdfs:label "file url" .
+
+
+###  http://purl.org/ccf/has_extraction_set
+ccf:has_extraction_set rdf:type owl:AnnotationProperty ;
+                       rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                       rdfs:label "has extraction set" .
+
+
+###  http://purl.org/ccf/has_object_reference
+ccf:has_object_reference rdf:type owl:AnnotationProperty ;
+                         rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                         rdfs:label "has object reference" .
+
+
+###  http://purl.org/ccf/has_placement
+ccf:has_placement rdf:type owl:AnnotationProperty ;
+                  rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                  rdfs:label "has placement" .
+
+
+###  http://purl.org/ccf/has_placements
+ccf:has_placements rdf:type owl:AnnotationProperty ;
+                   rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                   rdfs:label "has placements"@en .
+
+
+###  http://purl.org/ccf/has_reference_organ
+ccf:has_reference_organ rdf:type owl:AnnotationProperty ;
+                        rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                        rdfs:label "has reference organ" .
+
+
+###  http://purl.org/ccf/organ_owner_sex
+ccf:organ_owner_sex rdf:type owl:AnnotationProperty ;
+                    rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                    rdfs:label "organ owner sex"@en .
+
+
+###  http://purl.org/ccf/organ_side
+ccf:organ_side rdf:type owl:AnnotationProperty ;
+               rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+               rdfs:label "organ side" .
+
+
+###  http://purl.org/ccf/placement_date
+ccf:placement_date rdf:type owl:AnnotationProperty ;
+                   rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                   rdfs:label "placement date"@en .
+
+
+###  http://purl.org/ccf/placement_for
+ccf:placement_for rdf:type owl:AnnotationProperty ;
+                  rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                  rdfs:label "placement for" .
+
+
+###  http://purl.org/ccf/placement_relative_to
+ccf:placement_relative_to rdf:type owl:AnnotationProperty ;
+                          rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                          rdfs:label "placement relative to" .
+
+
+###  http://purl.org/ccf/representation_of
+ccf:representation_of rdf:type owl:AnnotationProperty ;
+                      rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                      rdfs:label "representation of" .
+
+
+###  http://purl.org/ccf/represents_bbox_of
+ccf:represents_bbox_of rdf:type owl:AnnotationProperty ;
+                       rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                       rdfs:label "represents bounding box of"@en .
+
+
+###  http://purl.org/ccf/rotation_unit
+ccf:rotation_unit rdf:type owl:AnnotationProperty ;
+                  rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                  rdfs:label "rotation unit" .
+
+
+###  http://purl.org/ccf/rui_rank
+ccf:rui_rank rdf:type owl:AnnotationProperty ;
+             rdfs:label "rui rank" .
+
+
+###  http://purl.org/ccf/scaling_unit
+ccf:scaling_unit rdf:type owl:AnnotationProperty ;
+                 rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                 rdfs:label "scaling unit" .
+
+
+###  http://purl.org/ccf/translation_unit
+ccf:translation_unit rdf:type owl:AnnotationProperty ;
+                     rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                     rdfs:label "translation unit" .
+
+
+###  http://purl.org/ccf/x_dimension
+ccf:x_dimension rdf:type owl:AnnotationProperty ;
+                rdfs:label "x dimension" .
+
+
+###  http://purl.org/ccf/x_rotation
+ccf:x_rotation rdf:type owl:AnnotationProperty ;
+               rdfs:label "x rotation" .
+
+
+###  http://purl.org/ccf/x_scaling
+ccf:x_scaling rdf:type owl:AnnotationProperty ;
+              rdfs:label "x scaling" .
+
+
+###  http://purl.org/ccf/x_translation
+ccf:x_translation rdf:type owl:AnnotationProperty ;
+                  rdfs:label "x translation" .
+
+
+###  http://purl.org/ccf/y_dimension
+ccf:y_dimension rdf:type owl:AnnotationProperty ;
+                rdfs:label "y dimension" .
+
+
+###  http://purl.org/ccf/y_rotation
+ccf:y_rotation rdf:type owl:AnnotationProperty ;
+               rdfs:label "y rotation" .
+
+
+###  http://purl.org/ccf/y_scaling
+ccf:y_scaling rdf:type owl:AnnotationProperty ;
+              rdfs:label "y scaling" .
+
+
+###  http://purl.org/ccf/y_translation
+ccf:y_translation rdf:type owl:AnnotationProperty ;
+                  rdfs:label "y translation" .
+
+
+###  http://purl.org/ccf/z_dimension
+ccf:z_dimension rdf:type owl:AnnotationProperty ;
+                rdfs:label "z dimension" .
+
+
+###  http://purl.org/ccf/z_rotation
+ccf:z_rotation rdf:type owl:AnnotationProperty ;
+               rdfs:label "z rotation" .
+
+
+###  http://purl.org/ccf/z_scaling
+ccf:z_scaling rdf:type owl:AnnotationProperty ;
+              rdfs:label "z scaling" .
+
+
+###  http://purl.org/ccf/z_translation
+ccf:z_translation rdf:type owl:AnnotationProperty ;
+                  rdfs:label "z translation" .
+
+
+###  http://purl.org/dc/elements/1.1/creator
+dc:creator rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/description
+dc:description rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/title
+dc:title rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/created
+dcterms:created rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/license
+dcterms:license rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.w3.org/2001/XMLSchema#date
+xsd:date rdf:type rdfs:Datatype .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://purl.org/ccf/ExtractionSet
+ccf:ExtractionSet rdf:type owl:Class ;
+                  rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                  rdfs:label "Extraction Set"@en .
+
+
+###  http://purl.org/ccf/FtuIllustration
+ccf:FtuIllustration rdf:type owl:Class ;
+                    rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                    rdfs:label "Functional Tissue Unit (FTU) Illustration"@en .
+
+
+###  http://purl.org/ccf/FtuIllustrationNode
+ccf:FtuIllustrationNode rdf:type owl:Class ;
+                        rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                        rdfs:label "Functional Tissue Unit (FTU) Node"@en .
+
+
+###  http://purl.org/ccf/ImageFile
+ccf:ImageFile rdf:type owl:Class ;
+              rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+              rdfs:label "Image File"@en .
+
+
+###  http://purl.org/ccf/RetiredSpatialEntity
+ccf:RetiredSpatialEntity rdf:type owl:Class ;
+                         rdfs:subClassOf ccf:SpatialEntity ;
+                         rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                         rdfs:label "Retired Spatial Entity"@en .
+
+
+###  http://purl.org/ccf/SpatialEntity
+ccf:SpatialEntity rdf:type owl:Class ;
+                  rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                  rdfs:label "Spatial Entity" .
+
+
+###  http://purl.org/ccf/SpatialObjectReference
+ccf:SpatialObjectReference rdf:type owl:Class ;
+                           rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                           rdfs:label "Spatial Object Reference"@en .
+
+
+###  http://purl.org/ccf/SpatialPlacement
+ccf:SpatialPlacement rdf:type owl:Class ;
+                     rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                     rdfs:label "Spatial Placement"@en .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi

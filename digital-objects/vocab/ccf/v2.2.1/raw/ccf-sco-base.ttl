@@ -1,0 +1,405 @@
+@prefix : <http://purl.org/ccf/ccf-spo.owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ccf: <http://purl.org/ccf/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@base <http://purl.org/ccf/ccf-sco-base> .
+
+<http://purl.org/ccf/ccf-sco-base> rdf:type owl:Ontology ;
+                                    owl:versionIRI <http://purl.org/ccf/releases/latest/ccf-sco-base> .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/ccf/age
+ccf:age rdf:type owl:AnnotationProperty ;
+        rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+        rdfs:label "age" .
+
+
+###  http://purl.org/ccf/age_range
+ccf:age_range rdf:type owl:AnnotationProperty ;
+              rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+              rdfs:label "age range" .
+
+
+###  http://purl.org/ccf/age_unit
+ccf:age_unit rdf:type owl:AnnotationProperty ;
+             rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+             rdfs:label "age unit" .
+
+
+###  http://purl.org/ccf/assay_type
+ccf:assay_type rdf:type owl:AnnotationProperty ;
+               rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+               rdfs:label "assay type" .
+
+
+###  http://purl.org/ccf/blood_type
+ccf:blood_type rdf:type owl:AnnotationProperty ;
+               rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+               rdfs:label "blood type" .
+
+
+###  http://purl.org/ccf/bmi
+ccf:bmi rdf:type owl:AnnotationProperty ;
+        rdfs:comment "Measured in kg/m2" ,
+                     "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+        rdfs:label "bmi" .
+
+
+###  http://purl.org/ccf/consortium_name
+ccf:consortium_name rdf:type owl:AnnotationProperty ;
+                    rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                    rdfs:label "consortium name" .
+
+
+###  http://purl.org/ccf/description
+ccf:description rdf:type owl:AnnotationProperty ;
+                rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                rdfs:label "description" .
+
+
+###  http://purl.org/ccf/height
+ccf:height rdf:type owl:AnnotationProperty ;
+           rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+           rdfs:label "height" .
+
+
+###  http://purl.org/ccf/height_unit
+ccf:height_unit rdf:type owl:AnnotationProperty ;
+                rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                rdfs:label "height unit" .
+
+
+###  http://purl.org/ccf/section_count
+ccf:section_count rdf:type owl:AnnotationProperty ;
+                  rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                  rdfs:label "section count" .
+
+
+###  http://purl.org/ccf/section_number
+ccf:section_number rdf:type owl:AnnotationProperty ;
+                   rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                   rdfs:label "section number" .
+
+
+###  http://purl.org/ccf/section_size
+ccf:section_size rdf:type owl:AnnotationProperty ;
+                 rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                 rdfs:label "section size" .
+
+
+###  http://purl.org/ccf/section_size_unit
+ccf:section_size_unit rdf:type owl:AnnotationProperty ;
+                      rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                      rdfs:label "section size unit" .
+
+
+###  http://purl.org/ccf/technology
+ccf:technology rdf:type owl:AnnotationProperty ;
+               rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+               rdfs:label "technology" .
+
+
+###  http://purl.org/ccf/thumbnail
+ccf:thumbnail rdf:type owl:AnnotationProperty ;
+              rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+              rdfs:label "thumbnail" .
+
+
+###  http://purl.org/ccf/tissue_provider_name
+ccf:tissue_provider_name rdf:type owl:AnnotationProperty ;
+                         rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                         rdfs:label "tissue provider name" .
+
+
+###  http://purl.org/ccf/tissue_provider_uuid
+ccf:tissue_provider_uuid rdf:type owl:AnnotationProperty ;
+                         rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                         rdfs:label "tissue provider uuid" .
+
+
+###  http://purl.org/ccf/url
+ccf:url rdf:type owl:AnnotationProperty ;
+        rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+        rdfs:label "url" .
+
+
+###  http://purl.org/ccf/weight
+ccf:weight rdf:type owl:AnnotationProperty ;
+           rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+           rdfs:label "weight" .
+
+
+###  http://purl.org/ccf/weight_unit
+ccf:weight_unit rdf:type owl:AnnotationProperty ;
+                rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                rdfs:label "weight unit" .
+
+
+###  http://purl.org/dc/elements/1.1/description
+dc:description rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/source
+dc:source rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/title
+dc:title rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/license
+dcterms:license rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://purl.bioontology.org/ontology/LNC/LA10608-0
+<http://purl.bioontology.org/ontology/LNC/LA10608-0> rdf:type owl:Class ;
+                                                     rdfs:subClassOf ccf:Race .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA10610-6
+<http://purl.bioontology.org/ontology/LNC/LA10610-6> rdf:type owl:Class ;
+                                                     rdfs:subClassOf ccf:Race .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA10611-4
+<http://purl.bioontology.org/ontology/LNC/LA10611-4> rdf:type owl:Class ;
+                                                     rdfs:subClassOf ccf:Race .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA19555-4
+<http://purl.bioontology.org/ontology/LNC/LA19555-4> rdf:type owl:Class ;
+                                                     rdfs:subClassOf ccf:Ethnicity .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA2-8
+<http://purl.bioontology.org/ontology/LNC/LA2-8> rdf:type owl:Class ;
+                                                 rdfs:subClassOf ccf:BiologicalSex .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA3-6
+<http://purl.bioontology.org/ontology/LNC/LA3-6> rdf:type owl:Class ;
+                                                 rdfs:subClassOf ccf:BiologicalSex .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA4457-3
+<http://purl.bioontology.org/ontology/LNC/LA4457-3> rdf:type owl:Class ;
+                                                    rdfs:subClassOf ccf:Race .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA6156-9
+<http://purl.bioontology.org/ontology/LNC/LA6156-9> rdf:type owl:Class ;
+                                                    rdfs:subClassOf ccf:Race .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA6214-6
+<http://purl.bioontology.org/ontology/LNC/LA6214-6> rdf:type owl:Class ;
+                                                    rdfs:subClassOf ccf:Ethnicity .
+
+
+###  http://purl.org/ccf/BiologicalSex
+ccf:BiologicalSex rdf:type owl:Class ;
+                  dc:description "The categorization of individuals as male or female based on their physical and genetic characteristics. [Generated by an AI language model]"@en ;
+                  rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                  rdfs:label "Biological Sex"@en .
+
+
+###  http://purl.org/ccf/Collection
+ccf:Collection rdf:type owl:Class ;
+               dc:description "A curated or organized assembly of data that has been systematically gathered and categorized for a specific purpose or research endeavor. [Generated by an AI language model]"@en ;
+               rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+               rdfs:label "Collection"@en .
+
+
+###  http://purl.org/ccf/Dataset
+ccf:Dataset rdf:type owl:Class ;
+            dc:description "A structured collection of data that is organized and formatted for use in various research, analysis, or computing tasks. Datasets can encompass a wide range of information, including text, numbers, images, audio, or any other form of data. [Generated by an AI language model]"@en ;
+            rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+            rdfs:label "Dataset"@en .
+
+
+###  http://purl.org/ccf/Donor
+ccf:Donor rdf:type owl:Class ;
+          rdfs:subClassOf ccf:Person ;
+          rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+          rdfs:label "Donor"@en .
+
+
+###  http://purl.org/ccf/Ethnicity
+ccf:Ethnicity rdf:type owl:Class ;
+              rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+              rdfs:label "Ethnicity"@en .
+
+
+###  http://purl.org/ccf/Operator
+ccf:Operator rdf:type owl:Class ;
+             rdfs:subClassOf ccf:Person ;
+             rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+             rdfs:label "Operator"@en .
+
+
+###  http://purl.org/ccf/PI
+ccf:PI rdf:type owl:Class ;
+       rdfs:subClassOf ccf:Person ;
+       rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+       rdfs:label "Principal Investigator"@en .
+
+
+###  http://purl.org/ccf/Person
+ccf:Person rdf:type owl:Class ;
+           rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+           rdfs:label "Person"@en .
+
+
+###  http://purl.org/ccf/Protocol
+ccf:Protocol rdf:type owl:Class ;
+             rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+             rdfs:label "Protocol"@en .
+
+
+###  http://purl.org/ccf/Publication
+ccf:Publication rdf:type owl:Class ;
+                rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                rdfs:label "Publication"@en .
+
+
+###  http://purl.org/ccf/Race
+ccf:Race rdf:type owl:Class ;
+         rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+         rdfs:label "Race"@en .
+
+
+###  http://purl.org/ccf/Sample
+ccf:Sample rdf:type owl:Class ;
+           rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+           rdfs:label "Sample"@en .
+
+
+###  http://purl.org/ccf/TissueBlock
+ccf:TissueBlock rdf:type owl:Class ;
+                rdfs:subClassOf ccf:Sample ;
+                rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                rdfs:label "Tissue Block"@en .
+
+
+###  http://purl.org/ccf/TissueMappingCenter
+ccf:TissueMappingCenter rdf:type owl:Class ;
+                        rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                        rdfs:label "Tissue Mapping Center"@en .
+
+
+###  http://purl.org/ccf/TissueSection
+ccf:TissueSection rdf:type owl:Class ;
+                  rdfs:subClassOf ccf:Sample ;
+                  rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                  rdfs:label "Tissue Section"@en .
+
+
+###  http://purl.org/ccf/TissueSuspension
+ccf:TissueSuspension rdf:type owl:Class ;
+                     rdfs:subClassOf ccf:Sample ;
+                     rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                     rdfs:label "Tissue Suspension"@en .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://purl.bioontology.org/ontology/LNC/LA10608-0
+<http://purl.bioontology.org/ontology/LNC/LA10608-0> rdf:type owl:NamedIndividual ,
+                                                              <http://purl.bioontology.org/ontology/LNC/LA10608-0> .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA10610-6
+<http://purl.bioontology.org/ontology/LNC/LA10610-6> rdf:type owl:NamedIndividual ,
+                                                              <http://purl.bioontology.org/ontology/LNC/LA10610-6> .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA10611-4
+<http://purl.bioontology.org/ontology/LNC/LA10611-4> rdf:type owl:NamedIndividual ,
+                                                              <http://purl.bioontology.org/ontology/LNC/LA10611-4> .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA19555-4
+<http://purl.bioontology.org/ontology/LNC/LA19555-4> rdf:type owl:NamedIndividual ,
+                                                              <http://purl.bioontology.org/ontology/LNC/LA19555-4> .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA2-8
+<http://purl.bioontology.org/ontology/LNC/LA2-8> rdf:type owl:NamedIndividual ,
+                                                          <http://purl.bioontology.org/ontology/LNC/LA2-8> .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA3-6
+<http://purl.bioontology.org/ontology/LNC/LA3-6> rdf:type owl:NamedIndividual ,
+                                                          <http://purl.bioontology.org/ontology/LNC/LA3-6> .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA4457-3
+<http://purl.bioontology.org/ontology/LNC/LA4457-3> rdf:type owl:NamedIndividual ,
+                                                             <http://purl.bioontology.org/ontology/LNC/LA4457-3> .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA6156-9
+<http://purl.bioontology.org/ontology/LNC/LA6156-9> rdf:type owl:NamedIndividual ,
+                                                             <http://purl.bioontology.org/ontology/LNC/LA6156-9> .
+
+
+###  http://purl.bioontology.org/ontology/LNC/LA6214-6
+<http://purl.bioontology.org/ontology/LNC/LA6214-6> rdf:type owl:NamedIndividual ,
+                                                             <http://purl.bioontology.org/ontology/LNC/LA6214-6> .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+<http://purl.bioontology.org/ontology/LNC/LA10608-0> rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                                                     rdfs:label "american indian or alaska native" .
+
+
+<http://purl.bioontology.org/ontology/LNC/LA10610-6> rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                                                     rdfs:label "black or african american" .
+
+
+<http://purl.bioontology.org/ontology/LNC/LA10611-4> rdfs:label "native hawaiian or other pacific islander" ;
+                                                     rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en .
+
+
+<http://purl.bioontology.org/ontology/LNC/LA19555-4> rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                                                     rdfs:label "not hispanic or latino" .
+
+
+<http://purl.bioontology.org/ontology/LNC/LA2-8> rdfs:label "male" ;
+                                                 rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en .
+
+
+<http://purl.bioontology.org/ontology/LNC/LA3-6> rdfs:label "female" ;
+                                                 rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en .
+
+
+<http://purl.bioontology.org/ontology/LNC/LA4457-3> rdfs:label "white" ;
+                                                    rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en .
+
+
+<http://purl.bioontology.org/ontology/LNC/LA6156-9> rdfs:label "asian" ;
+                                                    rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en .
+
+
+<http://purl.bioontology.org/ontology/LNC/LA6214-6> rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                                                    rdfs:label "hispanic or latino" .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
