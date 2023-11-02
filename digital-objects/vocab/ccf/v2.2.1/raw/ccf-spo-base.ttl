@@ -93,6 +93,24 @@ ccf:has_reference_organ rdf:type owl:AnnotationProperty ;
                         rdfs:label "has reference organ" .
 
 
+###  http://purl.org/ccf/illustration_node
+ccf:illustration_node rdf:type owl:AnnotationProperty ;
+                      rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                      rdfs:label "has illustration node"@en .
+
+
+###  http://purl.org/ccf/image_file
+ccf:image_file rdf:type owl:AnnotationProperty ;
+               rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+               rdfs:label "image file"@en .
+
+
+###  http://purl.org/ccf/node_name
+ccf:node_name rdf:type owl:AnnotationProperty ;
+              rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+              rdfs:label "node name"@en .
+
+
 ###  http://purl.org/ccf/organ_owner_sex
 ccf:organ_owner_sex rdf:type owl:AnnotationProperty ;
                     rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
@@ -103,6 +121,12 @@ ccf:organ_owner_sex rdf:type owl:AnnotationProperty ;
 ccf:organ_side rdf:type owl:AnnotationProperty ;
                rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
                rdfs:label "organ side" .
+
+
+###  http://purl.org/ccf/part_of_illustration
+ccf:part_of_illustration rdf:type owl:AnnotationProperty ;
+                         rdfs:comment "Originated from the CCF Spatial Data (CCF-SPO) ontology"@en ;
+                         rdfs:label "part of illustration"@en .
 
 
 ###  http://purl.org/ccf/placement_date
