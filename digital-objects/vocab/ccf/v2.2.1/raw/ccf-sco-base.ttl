@@ -65,6 +65,30 @@ ccf:description rdf:type owl:AnnotationProperty ;
                 rdfs:label "description" .
 
 
+###  http://purl.org/ccf/generates_dataset
+ccf:generates_dataset rdf:type owl:AnnotationProperty ;
+                      rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                      rdfs:label "generates dataset"@en .
+
+
+###  http://purl.org/ccf/has_biological_sex
+ccf:has_biological_sex rdf:type owl:AnnotationProperty ;
+                       rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                       rdfs:label "has biological sex"@en .
+
+
+###  http://purl.org/ccf/has_ethnicity
+ccf:has_ethnicity rdf:type owl:AnnotationProperty ;
+                  rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+                  rdfs:label "has ethnicity"@en .
+
+
+###  http://purl.org/ccf/has_race
+ccf:has_race rdf:type owl:AnnotationProperty ;
+             rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
+             rdfs:label "has race"@en .
+
+
 ###  http://purl.org/ccf/height
 ccf:height rdf:type owl:AnnotationProperty ;
            rdfs:comment "Originated from the CCF Specimen (CCF-SCO) ontology"@en ;
