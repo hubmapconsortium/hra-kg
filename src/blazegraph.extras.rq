@@ -1,11 +1,23 @@
-LOAD <https://ccf-ontology.hubmapconsortium.org/v1.0.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/1.0.0/ccf.owl> ;
-LOAD <https://ccf-ontology.hubmapconsortium.org/v1.6.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/1.6.0/ccf.owl> ;
-LOAD <https://ccf-ontology.hubmapconsortium.org/v1.8.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/1.8.0/ccf.owl> ;
-LOAD <https://ccf-ontology.hubmapconsortium.org/v1.9.4/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/1.9.4/ccf.owl> ;
-LOAD <https://ccf-ontology.hubmapconsortium.org/v1.10.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/1.10.0/ccf.owl> ;
-LOAD <https://ccf-ontology.hubmapconsortium.org/v2.0.1/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/2.0.1/ccf.owl> ;
-LOAD <https://ccf-ontology.hubmapconsortium.org/v2.1.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/2.1.0/ccf.owl> ;
-LOAD <https://ccf-ontology.hubmapconsortium.org/v2.2.0/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/2.2.0/ccf.owl> ;
+# Add CCF.OWL v2.2.1 in old place
+CLEAR GRAPH <https://purl.org/ccf/releases/2.2.1/ccf.owl> ;
 LOAD <https://ccf-ontology.hubmapconsortium.org/v2.2.1/ccf.owl> INTO GRAPH <https://purl.org/ccf/releases/2.2.1/ccf.owl> ;
-LOAD <https://purl.org/ccf/ccf.owl> INTO GRAPH <https://purl.org/ccf/ccf.owl> ;
-LOAD <https://cns-iu.github.io/hra-cell-type-populations-supporting-information/data/enriched_rui_locations.jsonld> INTO GRAPH <https://cns-iu.github.io/hra-cell-type-populations-supporting-information/data/enriched_rui_locations.jsonld#graph> ;
+
+# Add CCF.OWL latest in old place
+CLEAR GRAPH <https://purl.org/ccf/ccf.owl> ;
+COPY <https://purl.humanatlas.io/graph/ccf> TO <https://purl.org/ccf/ccf.owl> ;
+
+# Add ctpop in old place
+CLEAR GRAPH <https://cns-iu.github.io/hra-cell-type-populations-supporting-information/data/enriched_rui_locations.jsonld#graph> ;
+COPY <https://purl.humanatlas.io/graph/ctpop> TO <https://cns-iu.github.io/hra-cell-type-populations-supporting-information/data/enriched_rui_locations.jsonld#graph> ;
+
+# Add hubmap rui locations in old place
+CLEAR GRAPH <https://ccf-api.hubmapconsortium.org/v1/hubmap/rui_locations.jsonld> ;
+COPY <https://purl.humanatlas.io/ds-graph/hubmap> TO <https://ccf-api.hubmapconsortium.org/v1/hubmap/rui_locations.jsonld> ;
+
+# Add gtex rui locations in old place
+CLEAR GRAPH <https://ccf-api.hubmapconsortium.org/v1/gtex/rui_locations.jsonld> ;
+COPY <https://purl.humanatlas.io/ds-graph/gtex> TO <https://ccf-api.hubmapconsortium.org/v1/gtex/rui_locations.jsonld> ;
+
+# Add 2d ftu illustrations in old place
+CLEAR GRAPH <https://hubmapconsortium.github.io/hra-ui/apps/ftu-ui/assets/TEMP/2d-ftu-illustrations.jsonld>	;
+COPY <https://purl.humanatlas.io/graph/2d-ftu-illustrations> TO <https://hubmapconsortium.github.io/hra-ui/apps/ftu-ui/assets/TEMP/2d-ftu-illustrations.jsonld> ;

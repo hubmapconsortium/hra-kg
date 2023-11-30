@@ -1,0 +1,1 @@
+https://apps.humanatlas.io/hra-api/v1/sennet/rui_locations.jsonld
