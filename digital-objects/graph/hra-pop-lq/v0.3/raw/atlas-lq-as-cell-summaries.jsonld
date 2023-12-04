@@ -189,6 +189,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002015",
+      "cell_source_label": "kidney capsule",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 4,
       "aggregated_summaries": [
@@ -197,7 +198,7 @@
         "https://entity.api.hubmapconsortium.org/entities/69a0ada10f4f119f99ce5f66cf3b1a94",
         "https://entity.api.hubmapconsortium.org/entities/8f27d93b71147597f38de827f233930e"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -554,6 +555,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002189",
+      "cell_source_label": "outer cortex of kidney",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 60,
       "aggregated_summaries": [
@@ -618,7 +620,7 @@
         "https://entity.api.hubmapconsortium.org/entities/7479e6dbfa3b3a8e1e2d4f78cbe0f9e4",
         "https://entity.api.hubmapconsortium.org/entities/5d59784e70a74d4f44c729afff22668c"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -989,6 +991,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001284",
+      "cell_source_label": "renal column",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 10,
       "aggregated_summaries": [
@@ -1003,7 +1006,7 @@
         "https://entity.api.hubmapconsortium.org/entities/4ea7a4cf1a6ff0df0cc33c1236633112",
         "https://purl.humanatlas.io/graph/hra-pop#datasets_HBM476.ZWMS.768"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -1374,13 +1377,14 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0008716",
+      "cell_source_label": "hilum of kidney",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 2,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/cd887a6beabc794992876ad7ee591f69",
         "https://entity.api.hubmapconsortium.org/entities/323c68262eb07f786041b6253e9e83ca"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -1695,6 +1699,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0004200",
+      "cell_source_label": "renal pyramid",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 36,
       "aggregated_summaries": [
@@ -1735,7 +1740,7 @@
         "https://purl.humanatlas.io/graph/hra-pop#datasets_HBM476.ZWMS.768",
         "https://entity.api.hubmapconsortium.org/entities/c429e51920537c11fa91d1bc69085c1d"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -2106,6 +2111,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001223",
+      "cell_source_label": "left ureter",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 6,
       "aggregated_summaries": [
@@ -2116,7 +2122,7 @@
         "https://entity.api.hubmapconsortium.org/entities/cb75fa61840081ea61c83bd9d76c7061",
         "https://entity.api.hubmapconsortium.org/entities/a2b20bdf8e9602ea775a84cbb10472d3"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -2389,6 +2395,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001228",
+      "cell_source_label": "renal papilla",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 4,
       "aggregated_summaries": [
@@ -2397,7 +2404,7 @@
         "https://entity.api.hubmapconsortium.org/entities/ec88a6b161dce97a2361b1479c69a036",
         "https://purl.humanatlas.io/graph/hra-pop#datasets_HBM752.ZRBH.538"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -2593,6 +2600,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002097",
+      "cell_source_label": "skin of body",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 10,
       "aggregated_summaries": [
@@ -2607,7 +2615,7 @@
         "https://doi.org/10.1126/science.abl4290#GTEX-1HSMQ-5007",
         "https://doi.org/10.1126/science.abl4290#GTEX-15EOM-5003"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -2712,6 +2720,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002097",
+      "cell_source_label": "skin of body",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -2759,6 +2768,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7360",
+      "cell_source_label": "Right Medial Bronchopulmonary Segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 18,
       "aggregated_summaries": [
@@ -2781,7 +2791,7 @@
         "https://entity.api.hubmapconsortium.org/entities/98fd7493f62883b748e0f37885be0f07",
         "https://entity.api.hubmapconsortium.org/entities/996a59f0f3819e0b8b425de528467407"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -3285,6 +3295,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7361",
+      "cell_source_label": "Right Lateral Bronchopulmonary Segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 16,
       "aggregated_summaries": [
@@ -3305,7 +3316,7 @@
         "https://entity.api.hubmapconsortium.org/entities/b2e48b3c4cd58eb8abc2fcf0c2a79a98",
         "https://entity.api.hubmapconsortium.org/entities/37e2a37daa119629991bbc398d00b576"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -3809,6 +3820,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002084",
+      "cell_source_label": "heart left ventricle",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 56,
       "aggregated_summaries": [
@@ -3869,7 +3881,7 @@
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H3_Heart_interventricular_septum",
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H4_Heart_interventricular_septum"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -4198,6 +4210,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002080",
+      "cell_source_label": "heart right ventricle",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 29,
       "aggregated_summaries": [
@@ -4231,7 +4244,7 @@
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H3_Heart_interventricular_septum",
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H4_Heart_interventricular_septum"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -4560,6 +4573,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002094",
+      "cell_source_label": "interventricular septum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 14,
       "aggregated_summaries": [
@@ -4578,7 +4592,7 @@
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H3_Heart_interventricular_septum",
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H4_Heart_interventricular_septum"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -4907,6 +4921,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma14929",
+      "cell_source_label": "horizontal part of duodenum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -4919,7 +4934,7 @@
         "https://entity.api.hubmapconsortium.org/entities/7034950e109586361e73c1b9ddb81346",
         "https://entity.api.hubmapconsortium.org/entities/be737d348cf32ff4c38145a928e0f435"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -5101,6 +5116,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma14930",
+      "cell_source_label": "ascending part of duodenum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -5113,7 +5129,7 @@
         "https://entity.api.hubmapconsortium.org/entities/7034950e109586361e73c1b9ddb81346",
         "https://entity.api.hubmapconsortium.org/entities/be737d348cf32ff4c38145a928e0f435"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -5295,6 +5311,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma14929",
+      "cell_source_label": "horizontal part of duodenum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -5489,6 +5506,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma14930",
+      "cell_source_label": "ascending part of duodenum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -5683,6 +5701,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001158",
+      "cell_source_label": "descending colon",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 9,
       "aggregated_summaries": [
@@ -5696,7 +5715,7 @@
         "https://entity.api.hubmapconsortium.org/entities/9e28cdbdb5bc5b3cf7299f13635eebc9",
         "https://entity.api.hubmapconsortium.org/entities/763635933fb185b0174ea09273b36583"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -5878,6 +5897,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001158",
+      "cell_source_label": "descending colon",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 9,
       "aggregated_summaries": [
@@ -6073,6 +6093,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma14966",
+      "cell_source_label": "distal part of ileum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -6085,7 +6106,7 @@
         "https://entity.api.hubmapconsortium.org/entities/a7ecf4fd858a58dcaa3bab5df455065b",
         "https://entity.api.hubmapconsortium.org/entities/33fcecfcdb5a264554dc06db897cd4f8"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -6267,6 +6288,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma14966",
+      "cell_source_label": "distal part of ileum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -6461,6 +6483,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001156",
+      "cell_source_label": "ascending colon",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -6473,7 +6496,7 @@
         "https://entity.api.hubmapconsortium.org/entities/9d85dec83a12ae900c5b7603cb74d6ca",
         "https://entity.api.hubmapconsortium.org/entities/96f5c73df89d553cda6547b508aee854"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -6655,6 +6678,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001156",
+      "cell_source_label": "ascending colon",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -6849,6 +6873,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002115",
+      "cell_source_label": "jejunum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 7,
       "aggregated_summaries": [
@@ -6860,7 +6885,7 @@
         "https://entity.api.hubmapconsortium.org/entities/e45724a72ab0e7d7b283451836dd983e",
         "https://entity.api.hubmapconsortium.org/entities/6df2f796ad72307d04dc94d688b725c5"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -7042,6 +7067,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002115",
+      "cell_source_label": "jejunum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 7,
       "aggregated_summaries": [
@@ -7235,6 +7261,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001157",
+      "cell_source_label": "transverse colon",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 7,
       "aggregated_summaries": [
@@ -7246,7 +7273,7 @@
         "https://entity.api.hubmapconsortium.org/entities/efaecdc1565274900386733cf1661ca6",
         "https://entity.api.hubmapconsortium.org/entities/e3b831b46c84bc66e88fa410cf89dc2d"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -7428,6 +7455,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001157",
+      "cell_source_label": "transverse colon",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 7,
       "aggregated_summaries": [
@@ -7621,6 +7649,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001159",
+      "cell_source_label": "sigmoid colon",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -7633,7 +7662,7 @@
         "https://entity.api.hubmapconsortium.org/entities/cf25bdcd6bae8045f6b88bb3c9a32207",
         "https://entity.api.hubmapconsortium.org/entities/fa789beae7f1a0ad9947de50c329e3db"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -7815,6 +7844,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001052",
+      "cell_source_label": "rectum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 6,
       "aggregated_summaries": [
@@ -7825,7 +7855,7 @@
         "https://entity.api.hubmapconsortium.org/entities/a702c94500a2f737b722e34f6df7e7dd",
         "https://entity.api.hubmapconsortium.org/entities/fa789beae7f1a0ad9947de50c329e3db"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -8007,6 +8037,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001159",
+      "cell_source_label": "sigmoid colon",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -8201,6 +8232,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001052",
+      "cell_source_label": "rectum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 6,
       "aggregated_summaries": [
@@ -8393,6 +8425,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma14928",
+      "cell_source_label": "descending part of duodenum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -8405,7 +8438,7 @@
         "https://entity.api.hubmapconsortium.org/entities/4839e7564bc7676e781b8f3f9bfbf35b",
         "https://entity.api.hubmapconsortium.org/entities/f9ae88d0a98b274efe18f03622de08a7"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -8587,6 +8620,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma14928",
+      "cell_source_label": "descending part of duodenum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 8,
       "aggregated_summaries": [
@@ -8781,13 +8815,14 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002116",
+      "cell_source_label": "ileum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 2,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/3a4fb23a49fba2647dba2b8f57976d25",
         "https://entity.api.hubmapconsortium.org/entities/a7ecf4fd858a58dcaa3bab5df455065b"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -8969,6 +9004,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002116",
+      "cell_source_label": "ileum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 2,
       "aggregated_summaries": [
@@ -9157,13 +9193,14 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001153",
+      "cell_source_label": "caecum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 2,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/52ef1c33a11494b43d8979e0e6057caa",
         "https://entity.api.hubmapconsortium.org/entities/9d85dec83a12ae900c5b7603cb74d6ca"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -9345,6 +9382,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0001153",
+      "cell_source_label": "caecum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 2,
       "aggregated_summaries": [
@@ -9533,13 +9571,14 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma14926",
+      "cell_source_label": "superior part of duodenum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 2,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/7b8380782bc3f9ba8dca693909477b66",
         "https://entity.api.hubmapconsortium.org/entities/4839e7564bc7676e781b8f3f9bfbf35b"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -9721,6 +9760,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma14926",
+      "cell_source_label": "superior part of duodenum",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 2,
       "aggregated_summaries": [
@@ -9909,6 +9949,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002137",
+      "cell_source_label": "aortic valve",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 14,
       "aggregated_summaries": [
@@ -9927,7 +9968,7 @@
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H3_Heart_left_cardiac_atrium",
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H4_Heart_left_cardiac_atrium"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -10116,6 +10157,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002079",
+      "cell_source_label": "left cardiac atrium",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 14,
       "aggregated_summaries": [
@@ -10134,7 +10176,7 @@
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H3_Heart_left_cardiac_atrium",
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H4_Heart_left_cardiac_atrium"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -10323,6 +10365,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7267",
+      "cell_source_label": "Posteromedial head of posterior papillary muscle of left ventricle",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 6,
       "aggregated_summaries": [
@@ -10333,7 +10376,7 @@
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H6_Heart_interventricular_septum",
         "https://api.cellxgene.cziscience.com/dp/v1/collections/dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca_H7_Heart_interventricular_septum"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -10515,6 +10558,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0002078",
+      "cell_source_label": "right cardiac atrium",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 16,
       "aggregated_summaries": [
@@ -10535,7 +10579,7 @@
         "https://doi.org/10.1126/science.abl4290#GTEX-1ICG6-5003",
         "https://doi.org/10.1126/science.abl4290#GTEX-15RIE-5015"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -10773,6 +10817,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_8410027",
+      "cell_source_label": "central zone of prostate",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 4,
       "aggregated_summaries": [
@@ -10781,7 +10826,7 @@
         "https://doi.org/10.1126/science.abl4290#GTEX-1I1GU-5006",
         "https://doi.org/10.1126/science.abl4290#GTEX-1HSMQ-5014"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -10837,6 +10882,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_8410026",
+      "cell_source_label": "peripheral zone of prostate",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 4,
       "aggregated_summaries": [
@@ -10845,7 +10891,7 @@
         "https://doi.org/10.1126/science.abl4290#GTEX-1I1GU-5006",
         "https://doi.org/10.1126/science.abl4290#GTEX-1HSMQ-5014"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -10901,6 +10947,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma73165",
+      "cell_source_label": "Interlobar adipose tissue of right mammary gland",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 3,
       "aggregated_summaries": [
@@ -10908,7 +10955,7 @@
         "https://doi.org/10.1126/science.abl4290#GTEX-1MCC2-5013",
         "https://doi.org/10.1126/science.abl4290#GTEX-1R9PN-5002"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -10957,6 +11004,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7385",
+      "cell_source_label": "Left apical bronchopulmonary segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 7,
       "aggregated_summaries": [
@@ -10968,7 +11016,7 @@
         "https://entity.api.hubmapconsortium.org/entities/0b1017f6a9d71c4e75125e7144b62795",
         "https://entity.api.hubmapconsortium.org/entities/e855a116375f67684fb25be9600e455b"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -11241,6 +11289,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7386",
+      "cell_source_label": "Left posterior bronchopulmonary segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 5,
       "aggregated_summaries": [
@@ -11250,7 +11299,7 @@
         "https://entity.api.hubmapconsortium.org/entities/48bdce10978fb6c94a513987ab657031",
         "https://entity.api.hubmapconsortium.org/entities/5e47d518f078be2553080b88d8b33323"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -11537,6 +11586,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7402",
+      "cell_source_label": "Lateral segmental bronchus",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 9,
       "aggregated_summaries": [
@@ -11550,7 +11600,7 @@
         "https://api.cellxgene.cziscience.com/dp/v1/collections/b7ec6c2d-32e2-48b0-8335-a827aba01caa_D150_Lung",
         "https://api.cellxgene.cziscience.com/dp/v1/collections/b7ec6c2d-32e2-48b0-8335-a827aba01caa_D032_Lung"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -11753,12 +11803,13 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7430",
+      "cell_source_label": "Superior lingular bronchus",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 1,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/5f2a08b1c3ce5d7d880dd19b5eb9d04c"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -11933,13 +11984,14 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7375",
+      "cell_source_label": "Inferior lingular bronchopulmonary segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 2,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/5f2a08b1c3ce5d7d880dd19b5eb9d04c",
         "https://entity.api.hubmapconsortium.org/entities/b5aaa0ff6cde445a6808dc03e27c9364"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -12177,6 +12229,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7374",
+      "cell_source_label": "Superior lingular bronchopulmonary segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 4,
       "aggregated_summaries": [
@@ -12185,7 +12238,7 @@
         "https://entity.api.hubmapconsortium.org/entities/8f127a10d370ddfbc902313f248721c3",
         "https://entity.api.hubmapconsortium.org/entities/7e7d753ec5074f5d7ae987c47f1c3c0b"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -12451,6 +12504,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7426",
+      "cell_source_label": "Left apical segmental bronchus",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 4,
       "aggregated_summaries": [
@@ -12459,7 +12513,7 @@
         "https://entity.api.hubmapconsortium.org/entities/0b1017f6a9d71c4e75125e7144b62795",
         "https://entity.api.hubmapconsortium.org/entities/5e47d518f078be2553080b88d8b33323"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -12676,6 +12730,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7373",
+      "cell_source_label": "Left Anterior Bronchopulmonary Segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 6,
       "aggregated_summaries": [
@@ -12686,7 +12741,7 @@
         "https://entity.api.hubmapconsortium.org/entities/7e7d753ec5074f5d7ae987c47f1c3c0b",
         "https://entity.api.hubmapconsortium.org/entities/5e47d518f078be2553080b88d8b33323"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -12952,12 +13007,13 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0004887",
+      "cell_source_label": "left lung hilus",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 1,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/b30f6ae2e11e7537bcbe8a67ef6c61fe"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -13097,6 +13153,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7428",
+      "cell_source_label": "Left anterior segmental bronchus",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 3,
       "aggregated_summaries": [
@@ -13104,7 +13161,7 @@
         "https://entity.api.hubmapconsortium.org/entities/8f127a10d370ddfbc902313f248721c3",
         "https://entity.api.hubmapconsortium.org/entities/cd3cd77eec0fc514b236597aee14c508"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -13335,6 +13392,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7364",
+      "cell_source_label": "Right anterior basal bronchopulmonary segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 6,
       "aggregated_summaries": [
@@ -13345,7 +13403,7 @@
         "https://entity.api.hubmapconsortium.org/entities/e10f4899d35a9f39a2963fe9586b5fa4",
         "https://entity.api.hubmapconsortium.org/entities/7199675050ce69bc8c4812005ff086f9"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -13653,12 +13711,13 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.obolibrary.org/obo/UBERON_0004888",
+      "cell_source_label": "right lung hilus",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 1,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/18b8ab61674cf05024456cde49ac67bb"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -13847,6 +13906,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7338",
+      "cell_source_label": "Right Apical Bronchopulmonary Segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 3,
       "aggregated_summaries": [
@@ -13854,7 +13914,7 @@
         "https://entity.api.hubmapconsortium.org/entities/5018361bf80fb257d39cea6f4425bbae",
         "https://entity.api.hubmapconsortium.org/entities/3c22b735beed13a206fa6d0af9762564"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -14092,13 +14152,14 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7366",
+      "cell_source_label": "Right Superior Bronchopulmonary Segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 2,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/7b4d9ca7452ea1303ecca268db1fccba",
         "https://entity.api.hubmapconsortium.org/entities/0119a79114328c9b2802771bed6611f5"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -14315,6 +14376,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7339",
+      "cell_source_label": "Right Posterior Bronchopulmonary Segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 6,
       "aggregated_summaries": [
@@ -14325,7 +14387,7 @@
         "https://entity.api.hubmapconsortium.org/entities/9b20142483d5714c66885b690c00af4f",
         "https://entity.api.hubmapconsortium.org/entities/3c22b735beed13a206fa6d0af9762564"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -14591,6 +14653,7 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7359",
+      "cell_source_label": "Right Anterior Bronchopulmonary Segment",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 9,
       "aggregated_summaries": [
@@ -14604,7 +14667,7 @@
         "https://entity.api.hubmapconsortium.org/entities/f4f6e6614dd5645a37eae9dee1d6bbef",
         "https://entity.api.hubmapconsortium.org/entities/996a59f0f3819e0b8b425de528467407"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -14870,12 +14933,13 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7398",
+      "cell_source_label": "Right apical segmental bronchus",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 1,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/ec7cffb518a4a21025dc213ee1a27ff0"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -15057,12 +15121,13 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7416",
+      "cell_source_label": "Right superior segmental bronchus",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 1,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/6204c98529c482e1bb3816559775dc54"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
@@ -15258,12 +15323,13 @@
     {
       "@type": "CellSummary",
       "cell_source": "http://purl.org/sig/ont/fma/fma7400",
+      "cell_source_label": "Right anterior segmental bronchus",
       "annotation_method": "Aggregation",
       "aggregated_summary_count": 1,
       "aggregated_summaries": [
         "https://entity.api.hubmapconsortium.org/entities/996a59f0f3819e0b8b425de528467407"
       ],
-      "modality": "bulk",
+      "modality": "sc_bulk",
       "summary": [
         {
           "@type": "CellSummaryRow",
