@@ -3,6 +3,8 @@ source constants.sh
 shopt -s extglob
 set -ev
 
-rsync -ri --checksum ./dist/ ./staging/
+CLEAN="--delete"
 
-aws s3 sync ./staging/ s3://cdn-humanatlas-io/digital-objects/
+rsync -ri $CLEAN --checksum ./dist/ ./staging/
+
+aws s3 sync $CLEAN ./staging/ s3://cdn-humanatlas-io/digital-objects/
