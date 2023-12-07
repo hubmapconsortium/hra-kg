@@ -1,5 +1,5 @@
-title: Federated Public Dataset Graphs for the HRA
-description: 'Federated Public Dataset Graphs for the HRA'
+title: A collection of public dataset graphs for the HRA
+description: 'A collection of public dataset graphs for the HRA'
 creators:
   - fullName: Katy Börner
     firstName: Katy
@@ -24,8 +24,6 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM248.CBJV.556
-doi: https://doi.org/10.48539/HBM248.CBJV.556
 citation: >-
   Sanjay Jain; M. Todd Valerius; Yongqun He, HuBMAP ASCT+B Tables. Kidney v1.2
   [https://doi.org/10.48539/HBM248.CBJV.556](https://doi.org/10.48539/HBM248.CBJV.556)
