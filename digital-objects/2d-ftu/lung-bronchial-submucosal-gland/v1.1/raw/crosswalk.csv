@@ -1,0 +1,158 @@
+node_id,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Ciliated_Cell_Of_Submucosal_Gland_1,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_2,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_3,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_4,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_5,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_6,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_7,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_8,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_9,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_10,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_11,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_12,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_13,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_14,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_15,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Ciliated_Cell_Of_Submucosal_Gland_16,airway submucosal gland duct ciliated cell,CL:4033055,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_1,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_2,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_3,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_4,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_5,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_6,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_7,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_8,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_9,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_10,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_11,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Basal_Cell_Of_Submucosal_Gland_12,airway submucosal gland duct basal cell,CL:4033024,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_1,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_2,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_3,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_4,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_5,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_6,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_7,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_8,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_9,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_10,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_11,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_12,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_13,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_14,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_15,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_16,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_17,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_18,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_19,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_20,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_21,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_22,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_23,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_24,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_25,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_26,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_27,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_28,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_29,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_30,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_31,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_32,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_33,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_34,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_35,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_36,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_37,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_38,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_39,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_40,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_41,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_42,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_43,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_44,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_45,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_46,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_47,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_48,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_49,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_50,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_51,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Mucus_Cell_52,mucus secreting cell of bronchus submucosal gland,CL:4033022,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Epithelial_cell_Of_Submucosal_Gland_left,airway submucosal gland collecting duct epithelial cell,CL:4033023,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Epithelial_cell_Of_Submucosal_Gland_right,airway submucosal gland collecting duct epithelial cell,CL:4033023,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_1,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_2,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_3,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_4,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_5,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_6,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_7,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_8,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_9,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_10,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_11,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_12,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_13,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_14,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_15,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_16,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_17,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_18,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_19,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_20,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_21,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_22,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_23,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_24,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_25,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_26,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_27,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_28,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_29,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_30,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_31,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_32,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_33,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_34,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_35,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_36,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_37,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_38,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_39,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_40,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_41,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_42,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_43,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_44,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_45,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_46,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_47,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_48,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_49,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_50,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_51,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_52,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_53,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_54,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Serous_Cell_55,serous secreting cell of bronchus submucosal gland,CL:0000313,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_1,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_2,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_3,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_4,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_5,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_6,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_7,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_8,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_9,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_10,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_11,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_12,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_13,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_14,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_15,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_16,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_17,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_18,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_19,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048
+Myoepithelial_cell_20,myoepithelial cell of bronchus submucosal gland,CL:4033003,bronchus submucosal gland,UBERON_8410043,Lung,UBERON:0002048

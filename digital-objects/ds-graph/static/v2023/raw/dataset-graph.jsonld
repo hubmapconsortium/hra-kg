@@ -15209,7 +15209,234 @@
           },
           "datasets": [
             {
-              "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D110$lung",
+              "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D110_Donor_TissueBlock1_TissueBlock1_Dataset1",
+              "@type": "Dataset",
+              "label": "Registered 3/24/2023, Allen Wang, NHLBI/LungMap",
+              "description": "Data/Assay Types: OTHER, ",
+              "link": "https://data-browser.lungmap.net/explore/projects/20037472-ea1d-4ddb-9cd3-56a11a6f0f76",
+              "publication": "https://doi.org/10.7554/eLife.62522",
+              "technology": "OTHER",
+              "thumbnail": "assets/logo.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D062_Donor",
+      "@type": "Donor",
+      "label": "Male",
+      "description": "Entered 3/24/2023, Allen Wang, NHLBI/LungMap",
+      "link": "https://data-browser.lungmap.net/explore/projects/20037472-ea1d-4ddb-9cd3-56a11a6f0f76",
+      "consortium_name": "NHLBI/LungMap",
+      "provider_name": "NHLBI/LungMap",
+      "provider_uuid": "0ec3cf4a-4a28-496a-b66e-df34f4cd32e1",
+      "age": 0,
+      "sex": "Male",
+      "samples": [
+        {
+          "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D062_Donor_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 3/24/2023, Allen Wang, NHLBI/LungMap",
+          "description": "5 x 5 x 3 millimeter, 3 millimeter",
+          "link": "https://data-browser.lungmap.net/explore/projects/20037472-ea1d-4ddb-9cd3-56a11a6f0f76",
+          "section_count": 0,
+          "section_size": 3,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/da60f474-614a-4e0a-adbe-521ba44c7bf0",
+            "@type": "SpatialEntity",
+            "creator": "Allen Wang",
+            "creator_first_name": "Allen",
+            "creator_last_name": "Wang",
+            "creation_date": "2023-04-25",
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0002048",
+              "http://purl.org/sig/ont/fma/fma7361",
+              "http://purl.org/sig/ont/fma/fma7360",
+              "http://purl.org/sig/ont/fma/fma7401",
+              "http://purl.org/sig/ont/fma/fma7363"
+            ],
+            "x_dimension": 5,
+            "y_dimension": 5,
+            "z_dimension": 3,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "http://purl.org/ccf/1.5/da60f474-614a-4e0a-adbe-521ba44c7bf0_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2023-04-25",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": -101,
+              "y_rotation": 134,
+              "z_rotation": 77,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 49.919,
+              "y_translation": 101.788,
+              "z_translation": 110.357,
+              "translation_units": "millimeter",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHMLung"
+            }
+          },
+          "datasets": [
+            {
+              "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D062$lung",
+              "@type": "Dataset",
+              "label": "Registered 3/24/2023, Allen Wang, NHLBI/LungMap",
+              "description": "Data/Assay Types: OTHER, ",
+              "link": "https://data-browser.lungmap.net/explore/projects/20037472-ea1d-4ddb-9cd3-56a11a6f0f76",
+              "publication": "https://doi.org/10.7554/eLife.62522",
+              "technology": "OTHER",
+              "thumbnail": "assets/logo.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D088_Donor",
+      "@type": "Donor",
+      "label": "Male",
+      "description": "Entered 3/24/2023, Allen Wang, NHLBI/LungMap",
+      "link": "https://data-browser.lungmap.net/explore/projects/20037472-ea1d-4ddb-9cd3-56a11a6f0f76",
+      "consortium_name": "NHLBI/LungMap",
+      "provider_name": "NHLBI/LungMap",
+      "provider_uuid": "0ec3cf4a-4a28-496a-b66e-df34f4cd32e1",
+      "age": 0,
+      "sex": "Male",
+      "samples": [
+        {
+          "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D088_Donor_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 3/24/2023, Allen Wang, NHLBI/LungMap",
+          "description": "5 x 5 x 3 millimeter, 3 millimeter",
+          "link": "https://data-browser.lungmap.net/explore/projects/20037472-ea1d-4ddb-9cd3-56a11a6f0f76",
+          "section_count": 0,
+          "section_size": 3,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/6acd66b8-2659-4626-bef9-a80f135489ad",
+            "@type": "SpatialEntity",
+            "creator": "Allen Wang",
+            "creator_first_name": "Allen",
+            "creator_last_name": "Wang",
+            "creation_date": "2023-04-25",
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0002048",
+              "http://purl.org/sig/ont/fma/fma7361",
+              "http://purl.org/sig/ont/fma/fma7360",
+              "http://purl.org/sig/ont/fma/fma7401"
+            ],
+            "x_dimension": 5,
+            "y_dimension": 5,
+            "z_dimension": 3,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "http://purl.org/ccf/1.5/6acd66b8-2659-4626-bef9-a80f135489ad_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2023-04-25",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": -101,
+              "y_rotation": 134,
+              "z_rotation": 77,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 68.135,
+              "y_translation": 104.402,
+              "z_translation": 84.071,
+              "translation_units": "millimeter",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHFLungV1.1"
+            }
+          },
+          "datasets": [
+            {
+              "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D088$lung",
+              "@type": "Dataset",
+              "label": "Registered 3/24/2023, Allen Wang, NHLBI/LungMap",
+              "description": "Data/Assay Types: OTHER, ",
+              "link": "https://data-browser.lungmap.net/explore/projects/20037472-ea1d-4ddb-9cd3-56a11a6f0f76",
+              "publication": "https://doi.org/10.7554/eLife.62522",
+              "technology": "OTHER",
+              "thumbnail": "assets/logo.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D150_Donor",
+      "@type": "Donor",
+      "label": "Male",
+      "description": "Entered 3/24/2023, Allen Wang, NHLBI/LungMap",
+      "link": "https://data-browser.lungmap.net/explore/projects/20037472-ea1d-4ddb-9cd3-56a11a6f0f76",
+      "consortium_name": "NHLBI/LungMap",
+      "provider_name": "NHLBI/LungMap",
+      "provider_uuid": "0ec3cf4a-4a28-496a-b66e-df34f4cd32e1",
+      "age": 0,
+      "sex": "Male",
+      "samples": [
+        {
+          "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D150_Donor_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 3/24/2023, Allen Wang, NHLBI/LungMap",
+          "description": "5 x 5 x 3 millimeter, 3 millimeter",
+          "link": "https://data-browser.lungmap.net/explore/projects/20037472-ea1d-4ddb-9cd3-56a11a6f0f76",
+          "section_count": 0,
+          "section_size": 3,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/da60f474-614a-4e0a-adbe-521ba44c7bf0",
+            "@type": "SpatialEntity",
+            "creator": "Allen Wang",
+            "creator_first_name": "Allen",
+            "creator_last_name": "Wang",
+            "creation_date": "2023-04-25",
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0002048",
+              "http://purl.org/sig/ont/fma/fma7361",
+              "http://purl.org/sig/ont/fma/fma7360",
+              "http://purl.org/sig/ont/fma/fma7401",
+              "http://purl.org/sig/ont/fma/fma7363"
+            ],
+            "x_dimension": 5,
+            "y_dimension": 5,
+            "z_dimension": 3,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "http://purl.org/ccf/1.5/da60f474-614a-4e0a-adbe-521ba44c7bf0_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2023-04-25",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": -101,
+              "y_rotation": 134,
+              "z_rotation": 77,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 49.919,
+              "y_translation": 101.788,
+              "z_translation": 110.357,
+              "translation_units": "millimeter",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHMLung"
+            }
+          },
+          "datasets": [
+            {
+              "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/625f6bf4-2f33-4942-962e-35243d284837#D150$lung",
               "@type": "Dataset",
               "label": "Registered 3/24/2023, Allen Wang, NHLBI/LungMap",
               "description": "Data/Assay Types: OTHER, ",

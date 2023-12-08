@@ -33,6 +33,6 @@ for obj in $DIGITAL_OBJECTS; do
   fi
 done
 
-obj=collection/hra-ds-graph/$VERSION
+obj=collection/ds-graphs/$VERSION
 do-processor $PROCESSOR_OPTS build $BUILD_OPTS $obj
 rsync -r dist/$obj/ $(dirname dist/$obj)/latest/

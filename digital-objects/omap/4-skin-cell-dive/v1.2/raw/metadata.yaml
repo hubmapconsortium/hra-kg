@@ -96,6 +96,8 @@ funders:
     awardNumber: NIH 5UH3CA246594-02
   - funder: National Cancer Institute
     awardNumber: UH3 CA246635
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246594-01
 hubmapId: HBM459.SRBX.598
 doi: https://doi.org/10.48539/HBM459.SRBX.598
 citation: >-
