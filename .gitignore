@@ -5,3 +5,5 @@ digital-objects/*/*united*/*/raw/*United.glb
 
 dist/
 scratch/
+staging/
+log*.txt

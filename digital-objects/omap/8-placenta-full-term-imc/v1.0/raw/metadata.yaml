@@ -73,12 +73,6 @@ publisher: HuBMAP
 funders:
   - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
     awardNumber: OT2OD026671
-  - funder: Intramural Research Program of the NIH
-  - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer
-      Institute
-  - funder: National Heart
-  - funder: Lung and Blood Institute
 hubmapId: HBM375.WFJN.332
 doi: https://doi.org/10.48539/HBM375.WFJN.332
 citation: >-

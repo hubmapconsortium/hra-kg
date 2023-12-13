@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="1; url='https://bioportal.bioontology.org/ontologies/HRAVS'" />
+  </head>
+  <body>
+    <script>
+      let url = 'https://bioportal.bioontology.org/ontologies/HRAVS';
+      if (window.location.hash) {
+        const iri = `https://purl.humanatlas.io/vocab/hravs${window.location.hash}`;
+        url += `?p=classes&conceptid=${encodeURIComponent(iri)}`;
+      } else {
+        url += '?p=summary';
+      }
+      window.location.href = url;
+    </script>
+  </body>
+</html>

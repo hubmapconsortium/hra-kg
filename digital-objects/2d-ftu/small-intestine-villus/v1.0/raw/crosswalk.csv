@@ -1,0 +1,664 @@
+node_id,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Natural_Killer_Cell_1,natural killer cell,CL:0000623,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Natural_Killer_Cell_2,natural killer cell,CL:0000623,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Natural_Killer_Cell_3,natural killer cell,CL:0000623,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Natural_Killer_Cell_4,natural killer cell,CL:0000623,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_1,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_2,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_3,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_4,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_5,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_6,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_7,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_8,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_9,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_10,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_11,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_12,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_13,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_14,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_15,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_16,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_17,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Fibroblast_18,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_1,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_2,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_3,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_4,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_5,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_6,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_7,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_8,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_9,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_10,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_11,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_12,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_13,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_14,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_15,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_16,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_17,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Tuft_Cell_18,tuft cell of small intestine,CL:0009080,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_1,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_2,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_3,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_4,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_5,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_6,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_7,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_8,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_9,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_10,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_11,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_12,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_13,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_14,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_15,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_16,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_17,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_18,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_19,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_20,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_21,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_22,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_23,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_24,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_25,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_26,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_27,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_28,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_29,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_30,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_31,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_32,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_33,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_34,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_35,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_36,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_37,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_38,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_39,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_40,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_41,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_42,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_43,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_44,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_45,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_46,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_47,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_48,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_49,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_50,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_51,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_52,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_53,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_54,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_55,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_56,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_57,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_58,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_59,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_60,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_61,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_62,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_63,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_64,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_65,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_66,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_67,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_68,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_69,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_70,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_71,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_72,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_73,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_74,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_75,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_76,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_77,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_78,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_79,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_80,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_81,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_82,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_83,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_84,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_85,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_86,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_87,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_88,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_89,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_90,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_91,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_92,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_93,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_94,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_95,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_96,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_97,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_98,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_99,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_100,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_101,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_102,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_103,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_104,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_105,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_106,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_107,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_108,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_109,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_110,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_111,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_112,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_113,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_114,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_115,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_116,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_117,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_118,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_119,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_120,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_121,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_122,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_123,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_124,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_125,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_126,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_127,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_128,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_129,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_130,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_131,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_132,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_133,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_134,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_135,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_136,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_137,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_138,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_139,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_140,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_141,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_142,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_143,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_144,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_145,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_146,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_147,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_148,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_149,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_150,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_151,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_152,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_153,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_154,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_155,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_156,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_157,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_158,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_159,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_160,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_161,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_162,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_163,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_164,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_165,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_166,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_167,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_168,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_169,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_170,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_171,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_172,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_173,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_174,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_175,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_176,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_177,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_178,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_179,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_180,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_181,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_182,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_183,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_184,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_185,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_186,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_187,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_188,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_189,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_190,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_191,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_192,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_193,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_194,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_195,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_196,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_197,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_198,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_199,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_200,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_201,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_202,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_203,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_204,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_205,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_206,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_207,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_208,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_209,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_210,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_211,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_212,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_213,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_214,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_215,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_216,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_217,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_218,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_219,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_220,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_221,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_222,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_223,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_224,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_225,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_226,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_227,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_228,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_229,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_230,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_231,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_232,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_233,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_234,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_235,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_236,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_237,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_238,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_239,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_240,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_241,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_242,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_243,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_244,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_245,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_246,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_247,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_248,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_249,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_250,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_251,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_252,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_253,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_254,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_255,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_256,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_257,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_258,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_259,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_260,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_261,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_262,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_263,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_264,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_265,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_266,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_267,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_268,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_269,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_270,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_271,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_272,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_273,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_274,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_275,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_276,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_277,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_278,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_279,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_280,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_281,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_282,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_283,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_284,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_285,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_286,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_287,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_288,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_289,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_290,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_291,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_292,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_293,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_294,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_295,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_296,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_297,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_298,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_299,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_300,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_301,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_302,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_303,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_304,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Enterocyte_305,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Mast_Cell_1,mast cell,CL:0000097,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Mast_Cell_2,mast cell,CL:0000097,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_1,mast cell,CL:0000097,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_2,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_3,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_4,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_5,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_6,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_7,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_8,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_9,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_10,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_11,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_12,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_13,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_14,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_15,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_16,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Goblet_Cell_17,duodenal goblet cell,CL:1000324,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_1,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_2,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_3,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_4,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_5,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_6,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_7,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_8,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_9,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_10,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_11,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_12,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_13,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_14,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_15,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_16,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_17,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_18,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_19,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_20,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_21,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_22,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_23,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_24,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_25,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_26,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_27,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_28,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_29,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_30,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_31,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_32,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_33,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_34,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_35,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_36,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_37,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_38,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_39,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_40,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_41,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_42,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_43,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_44,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_45,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_46,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_47,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_48,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_49,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_50,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_51,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_52,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_53,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_54,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_55,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_56,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_57,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_58,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_59,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_60,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_61,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_62,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_63,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_64,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_65,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_66,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_67,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_68,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_69,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_70,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_71,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_72,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_73,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_74,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_75,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_76,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_77,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_78,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Myofibroblast_79,myofibroblast,CL:0000186,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Plasma_Cell_1,plasma cell,CL:0000786,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Plasma_Cell_2,plasma cell,CL:0000786,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Plasma_Cell_3,plasma cell,CL:0000786,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Plasma_Cell_4,plasma cell,CL:0000786,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Plasma_Cell_5,plasma cell,CL:0000786,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Plasma_Cell_6,plasma cell,CL:0000786,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Plasma_Cell_7,plasma cell,CL:0000786,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Plasma_Cell_8,plasma cell,CL:0000786,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Plasma_Cell_9,plasma cell,CL:0000786,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_1,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_2,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_3,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_4,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_5,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_6,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_7,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_8,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_9,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_10,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_11,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Dendritic_Cell_12,dendritic cell,CL:0000451,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_1,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_2,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_3,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_4,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_5,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_6,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_7,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_8,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_9,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_10,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_11,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_12,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_13,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_14,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_15,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_16,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_17,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_18,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_19,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_20,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_21,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_22,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_23,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_24,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_25,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_26,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_27,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_28,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_29,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_30,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_31,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_32,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_33,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_34,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_35,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_36,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_37,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_38,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_39,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_40,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_41,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_42,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_43,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_44,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_45,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_46,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_47,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_48,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_49,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_50,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_51,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_52,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_53,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_54,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_55,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_56,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_57,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_58,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_59,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_60,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_61,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_62,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_63,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_64,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_65,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_66,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_67,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_68,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_69,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_70,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_71,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_72,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_73,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_74,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_75,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_76,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_77,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_78,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_79,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_80,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_81,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_82,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_83,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_84,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_85,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_86,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_87,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_88,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_89,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_90,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_91,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_92,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_93,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_94,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_95,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_96,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_97,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_98,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_99,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_100,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_101,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_102,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_103,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_104,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_105,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_106,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_107,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_108,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_109,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_110,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_111,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_112,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_113,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_114,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_115,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_116,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_117,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_118,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_119,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_120,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_121,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_122,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_123,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_124,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_125,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_126,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_127,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_128,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_129,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_130,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_131,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_132,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_133,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_134,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_135,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_136,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_137,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_138,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_139,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_140,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_141,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_142,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_143,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_144,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_145,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_146,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_147,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_148,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_149,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_150,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_151,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_152,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_153,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_154,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_155,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_156,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_157,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_158,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_159,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+B_Cell_160,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Eosinophil_1,eosinophil,CL:0000771,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Eosinophil_2,eosinophil,CL:0000771,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Eosinophil_3,eosinophil,CL:0000771,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Eosinophil_4,eosinophil,CL:0000771,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Neutrophil_1,neutrophil,CL:0000775,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Neutrophil_2,neutrophil,CL:0000775,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Neutrophil_3,neutrophil,CL:0000775,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Neutrophil_4,neutrophil,CL:0000775,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Macrophage_1,macrophage,CL:0000235,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Macrophage_2,macrophage,CL:0000235,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Macrophage_3,macrophage,CL:0000235,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_1,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_2,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_3,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_4,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_5,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_6,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_7,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_8,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_9,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_10,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_11,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_12,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_13,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_14,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_15,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_16,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_17,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_18,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_19,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_20,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_21,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_22,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_23,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_24,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_25,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Innate_Lymphoid_Cell_26,innate lymphoid cell,CL:0001065,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Endocrine_Cell_1,endocrine cell,CL:0000163,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
+Endocrine_Cell_2,endocrine cell,CL:0000163,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
