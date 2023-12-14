@@ -78,7 +78,7 @@
                   "description": "Data/Assay Types: 10x",
                   "link": "https://www.nature.com/articles/s41586-021-03465-8",
                   "publication": "https://doi.org/10.1038/s41586-021-03465-8",
-                  "technology": "10X",
+                  "technology": "10x",
                   "thumbnail": "https://hubmapconsortium.github.io/hra-registrations/allen-brain-bakken-2021/assets/logo.jpg"
                 }
               ]
@@ -151,7 +151,7 @@
                   "description": "Data/Assay Types: 10x",
                   "link": "https://www.nature.com/articles/s41586-021-03465-8",
                   "publication": "https://doi.org/10.1038/s41586-021-03465-8",
-                  "technology": "10X",
+                  "technology": "10x",
                   "thumbnail": "https://hubmapconsortium.github.io/hra-registrations/allen-brain-bakken-2021/assets/logo.jpg"
                 }
               ]
@@ -310,7 +310,7 @@
                   "description": "Data/Assay Types: 10x",
                   "link": "https://www.nature.com/articles/s41586-021-03465-8",
                   "publication": "https://doi.org/10.1038/s41586-021-03465-8",
-                  "technology": "10X",
+                  "technology": "10x",
                   "thumbnail": "https://hubmapconsortium.github.io/hra-registrations/allen-brain-bakken-2021/assets/logo.jpg"
                 }
               ]
@@ -7985,10 +7985,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D1$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8044,10 +8044,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D1$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8102,10 +8102,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D1$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8163,10 +8163,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D1$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8239,10 +8239,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D2$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8304,10 +8304,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D2$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8367,10 +8367,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D2$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8433,10 +8433,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D2$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8495,10 +8495,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D2$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8561,10 +8561,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D2$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8637,10 +8637,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D3$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8702,10 +8702,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D3$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8765,10 +8765,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D3$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8831,10 +8831,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D3$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8893,10 +8893,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D3$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -8959,10 +8959,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D3$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9033,10 +9033,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D4$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9094,10 +9094,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D4$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9152,10 +9152,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D4$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9212,10 +9212,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D4$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9270,10 +9270,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D4$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9333,10 +9333,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D4$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9407,10 +9407,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D5$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9468,10 +9468,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D5$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9526,10 +9526,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D5$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9586,10 +9586,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D5$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9644,10 +9644,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D5$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9707,10 +9707,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D5$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9783,10 +9783,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D6$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9848,10 +9848,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D6$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9911,10 +9911,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D6$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -9977,10 +9977,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D6$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10039,10 +10039,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D6$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10105,10 +10105,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D6$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10181,10 +10181,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D7$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10246,10 +10246,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D7$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10309,10 +10309,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D7$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10375,10 +10375,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D7$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10437,10 +10437,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D7$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10503,10 +10503,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D7$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10577,10 +10577,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D11$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10638,10 +10638,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D11$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10696,10 +10696,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D11$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10756,10 +10756,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D11$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10814,10 +10814,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D11$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10877,10 +10877,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#D11$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -10953,10 +10953,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H2$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11018,10 +11018,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H2$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11081,10 +11081,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H2$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11147,10 +11147,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H2$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11209,10 +11209,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H2$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11275,10 +11275,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H2$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11351,10 +11351,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H3$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11416,10 +11416,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H3$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11479,10 +11479,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H3$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11545,10 +11545,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11607,10 +11607,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H3$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11673,10 +11673,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H3$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11749,10 +11749,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H4$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11814,10 +11814,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H4$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11877,10 +11877,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H4$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -11943,10 +11943,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H4$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12005,10 +12005,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H4$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12071,10 +12071,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H4$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12145,10 +12145,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H5$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12206,10 +12206,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H5$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12264,10 +12264,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H5$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12324,10 +12324,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H5$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12382,10 +12382,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H5$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12445,10 +12445,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H5$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12519,10 +12519,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H6$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12580,10 +12580,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H6$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12638,10 +12638,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H6$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12698,10 +12698,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H6$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12756,10 +12756,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H6$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12819,10 +12819,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H6$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12893,10 +12893,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H7$apex%20of%20heart",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -12954,10 +12954,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H7$left%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -13012,10 +13012,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H7$heart%20left%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -13072,10 +13072,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H7$right%20cardiac%20atrium",
               "@type": "Dataset",
               "label": "Registered 5/7/2022, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -13130,10 +13130,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H7$heart%20right%20ventricle",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
@@ -13193,10 +13193,10 @@
               "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/b52eb423-5d0d-4645-b217-e1c6d38b2e72#H7$interventricular%20septum",
               "@type": "Dataset",
               "label": "Registered 10/15/2021, Michela Noseda, Broad Institute",
-              "description": "Data/Assay Types: 10X, ",
+              "description": "Data/Assay Types: 10x, ",
               "link": "https://doi.org/10.1038/s41586-020-2797-4",
               "publication": "https://doi.org/10.1038/s41586-020-2797-4",
-              "technology": "10X",
+              "technology": "10x",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ]
