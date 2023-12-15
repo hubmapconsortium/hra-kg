@@ -5,6 +5,10 @@ creators:
     firstName: Katy
     lastName: Börner
     orcid: 0000-0002-3321-6137
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
 project_leads:
   - fullName: Katy Börner
     firstName: Katy
@@ -16,7 +20,7 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2022-05-06'
+creation_date: '2023-12-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
