@@ -1,0 +1,31 @@
+PREFIX ccf: <http://purl.org/ccf/>
+PREFIX CCF: <https://purl.humanatlas.io/graph/ccf>
+PREFIX DSGraphs: <https://purl.humanatlas.io/collection/ds-graphs>
+
+CONSTRUCT {
+  ?rui_location ccf:collides_with ?anatomical_structure .
+}
+FROM CCF:
+FROM DSGraphs:
+WHERE {
+  {
+    ?rui_location ccf:collides_with ?anatomical_structure .
+  }
+  UNION
+  {
+    [] rdf:type ccf:SpatialPlacement ;
+        ccf:placement_relative_to [
+          ccf:representation_of ?anatomical_structure
+        ] ;
+        ccf:placement_for ?rui_location ;
+  }
+  UNION
+  {
+    [] rdf:type ccf:SpatialPlacement ;
+        ccf:placement_relative_to [
+          ccf:representation_of ?as_child
+        ] ;
+        ccf:placement_for ?rui_location .
+    ?as_child ccf:ccf_part_of ?anatomical_structure .
+  }
+}
