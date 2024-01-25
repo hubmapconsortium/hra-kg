@@ -1,9 +1,12 @@
 PREFIX ccf: <http://purl.org/ccf/>
 PREFIX CCF: <https://purl.humanatlas.io/graph/ccf>
 PREFIX DSGraphs: <https://purl.humanatlas.io/collection/ds-graphs>
+PREFIX has_characterizing_biomarker_set: <http://purl.obolibrary.org/obo/RO_0015004>
 
 CONSTRUCT {
-  ?rui_location ccf:collides_with ?anatomical_structure .
+  ?rui_location ccf:collides_with ?anatomical_structure ;
+    ccf:collides_with_ct ?cell_type ;
+    ccf:collides_with_bm ?biomarker .
 }
 FROM CCF:
 FROM DSGraphs:
@@ -27,5 +30,25 @@ WHERE {
         ] ;
         ccf:placement_for ?rui_location .
     ?as_child ccf:ccf_part_of ?anatomical_structure .
+  }
+
+  {
+    ?cell_type ccf:ccf_located_in ?anatomical_structure . 
+  }
+  UNION
+  {
+    ?anatomical_structure ^ccf:ccf_located_in [
+      ccf:ccf_ct_isa* ?cell_type
+    ] .
+  }
+
+  {
+    ?cell_type rdfs:subClassOf [
+      owl:onProperty has_characterizing_biomarker_set: ;
+      owl:someValuesFrom [ owl:intersectionOf ?bn3 ]] .
+    ?bn3 rdf:rest*/rdf:first [
+      owl:onProperty ccf:has_marker_component ;
+      owl:someValuesFrom ?biomarker
+    ] .
   }
 }
