@@ -5,12 +5,17 @@ PREFIX has_characterizing_biomarker_set: <http://purl.obolibrary.org/obo/RO_0015
 
 CONSTRUCT {
   ?rui_location ccf:collides_with ?anatomical_structure ;
+    ccf:collides_with ?as_parent ;
     ccf:collides_with_ct ?cell_type ;
     ccf:collides_with_bm ?biomarker .
 }
 FROM CCF:
 FROM DSGraphs:
 WHERE {
+  GRAPH DSGraphs: {
+    ?rui_location rdf:type ccf:SpatialEntity .
+  }
+
   {
     ?rui_location ccf:collides_with ?anatomical_structure .
   }
@@ -22,33 +27,60 @@ WHERE {
         ] ;
         ccf:placement_for ?rui_location ;
   }
-  UNION
-  {
-    [] rdf:type ccf:SpatialPlacement ;
-        ccf:placement_relative_to [
-          ccf:representation_of ?as_child
-        ] ;
-        ccf:placement_for ?rui_location .
-    ?as_child ccf:ccf_part_of ?anatomical_structure .
+
+  # Manually add paired organ parents
+  OPTIONAL {
+    VALUES (?as_parent ?anatomical_structure) {
+      # Lymph Node
+      (<http://purl.obolibrary.org/obo/UBERON_0000029> <http://purl.obolibrary.org/obo/UBERON_0002509>)
+      # Eye
+      (<http://purl.obolibrary.org/obo/UBERON_0000970> <http://purl.obolibrary.org/obo/UBERON_0004548>)
+      (<http://purl.obolibrary.org/obo/UBERON_0000970> <http://purl.obolibrary.org/obo/UBERON_0004549>)
+      # Fallopian Tube
+      (<http://purl.obolibrary.org/obo/UBERON_0003889> <http://purl.obolibrary.org/obo/UBERON_0001303>)
+      (<http://purl.obolibrary.org/obo/UBERON_0003889> <http://purl.obolibrary.org/obo/UBERON_0001302>)
+      # Kidney
+      (<http://purl.obolibrary.org/obo/UBERON_0002113> <http://purl.obolibrary.org/obo/UBERON_0004538>)
+      (<http://purl.obolibrary.org/obo/UBERON_0002113> <http://purl.obolibrary.org/obo/UBERON_0004539>)
+      # Knee
+      (<http://purl.obolibrary.org/obo/UBERON_0001465> <http://purl.org/sig/ont/fma/fma24978>)
+      (<http://purl.obolibrary.org/obo/UBERON_0001465> <http://purl.org/sig/ont/fma/fma24977>)
+      # Mammary Gland
+      (<http://purl.obolibrary.org/obo/UBERON_0001911> <http://purl.org/sig/ont/fma/fma57991>)
+      (<http://purl.obolibrary.org/obo/UBERON_0001911> <http://purl.org/sig/ont/fma/fma57987>)
+      # Ovary
+      (<http://purl.obolibrary.org/obo/UBERON_0000992> <http://purl.org/sig/ont/fma/fma7214>)
+      (<http://purl.obolibrary.org/obo/UBERON_0000992> <http://purl.org/sig/ont/fma/fma7213>)
+      # Palatine Tonsil
+      (<http://purl.obolibrary.org/obo/UBERON_0002373> <http://purl.org/sig/ont/fma/fma54974>)
+      (<http://purl.obolibrary.org/obo/UBERON_0002373> <http://purl.org/sig/ont/fma/fma54973>)
+      # Ureter
+      (<http://purl.obolibrary.org/obo/UBERON_0000056> <http://purl.obolibrary.org/obo/UBERON_0001223>)
+      (<http://purl.obolibrary.org/obo/UBERON_0000056> <http://purl.obolibrary.org/obo/UBERON_0001222>)
+    }
   }
 
-  {
-    ?cell_type ccf:ccf_located_in ?anatomical_structure . 
-  }
-  UNION
-  {
-    ?anatomical_structure ^ccf:ccf_located_in [
-      ccf:ccf_ct_isa* ?cell_type
-    ] .
-  }
+  OPTIONAL {
+    {
+      ?cell_type ccf:ccf_located_in ?anatomical_structure . 
+    }
+    UNION
+    {
+      ?anatomical_structure ^ccf:ccf_located_in [
+        ccf:ccf_ct_isa* ?cell_type
+      ] .
+    }
 
-  {
-    ?cell_type rdfs:subClassOf [
-      owl:onProperty has_characterizing_biomarker_set: ;
-      owl:someValuesFrom [ owl:intersectionOf ?bn3 ]] .
-    ?bn3 rdf:rest*/rdf:first [
-      owl:onProperty ccf:has_marker_component ;
-      owl:someValuesFrom ?biomarker
-    ] .
+    OPTIONAL {
+      {
+        ?cell_type rdfs:subClassOf [
+          owl:onProperty has_characterizing_biomarker_set: ;
+          owl:someValuesFrom [ owl:intersectionOf ?bn3 ]] .
+        ?bn3 rdf:rest*/rdf:first [
+          owl:onProperty ccf:has_marker_component ;
+          owl:someValuesFrom ?biomarker
+        ] .
+      }
+    }
   }
 }
