@@ -58,19 +58,25 @@ WHERE {
       (<http://purl.obolibrary.org/obo/UBERON_0000056> <http://purl.obolibrary.org/obo/UBERON_0001223>)
       (<http://purl.obolibrary.org/obo/UBERON_0000056> <http://purl.obolibrary.org/obo/UBERON_0001222>)
     }
+    
+    OPTIONAL {
+      ?cell_type ccf:ccf_located_in ?as_parent . 
+      OPTIONAL {
+        {
+          ?cell_type rdfs:subClassOf [
+            owl:onProperty has_characterizing_biomarker_set: ;
+            owl:someValuesFrom [ owl:intersectionOf ?bn3 ]] .
+          ?bn3 rdf:rest*/rdf:first [
+            owl:onProperty ccf:has_marker_component ;
+            owl:someValuesFrom ?biomarker
+          ] .
+        }
+      }
+    }
   }
 
   OPTIONAL {
-    {
-      ?cell_type ccf:ccf_located_in ?anatomical_structure . 
-    }
-    UNION
-    {
-      ?anatomical_structure ^ccf:ccf_located_in [
-        ccf:ccf_ct_isa* ?cell_type
-      ] .
-    }
-
+    ?cell_type ccf:ccf_located_in ?anatomical_structure . 
     OPTIONAL {
       {
         ?cell_type rdfs:subClassOf [
