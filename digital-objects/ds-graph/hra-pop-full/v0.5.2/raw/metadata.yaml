@@ -1,0 +1,74 @@
+title: HRApop full-dataset-graph
+description: 'HRApop is part of the Human Reference Atlas (HRA) <https://humanatlas.io>. This graph includes all datasets considered for HRApop (not enriched).'
+creators:
+  - fullName: Andreas Bueckle
+    firstName: Andreas
+    lastName: Bueckle
+    orcid: 0000-0002-8977-498X
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Lu Chen
+    firstName: Lu
+    lastName: Chen
+    orcid: 0000-0001-5998-9317
+  - fullName: Daniel Bolin
+    firstName: Daniel
+    lastName: Bolin
+    orcid: 0000-0002-3803-2476
+  - fullName: Vicky Daiya
+    firstName: Vicky
+    lastName: Daiya
+    orcid: 0000-0003-2090-574X
+  - fullName: Devin Wright
+    firstName: Devin
+    lastName: Wright
+    orcid: 0000-0003-3047-1631 
+  - fullName: Danial Qaurooni
+    firstName: Danial
+    lastName: Qaurooni
+    orcid: 0000-0001-6190-073X
+  - fullName: Fusheng Wang
+    firstName: Fusheng
+    lastName: Wang
+    orcid: 0000-0002-9369-9361
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers: []
+externalReviewers: []
+creation_date: '2024-01-11'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: U24CA268108
+  - funder: National Institutes of Health
+    awardNumber: U01CA242936
+  - funder: National Institutes of Health
+    awardNumber: U2CDK114886
+  - funder: National Institutes of Health
+    awardNumber: OT2OD030545
+# hubmapId: 
+# doi: 
+citation: >-
+  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
+  [TBD](https://doi.org/TBD)
+citationOverall: >-
+  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
+  [TBD](https://doi.org/TBD)
+datatable:
+  - full-dataset-graph.jsonld
