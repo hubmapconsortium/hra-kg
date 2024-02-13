@@ -1,0 +1,7 @@
+[core]
+    remote = s3www
+['remote "s3"']
+    url = s3://cdn-humanatlas-io/dvc/hra-kg
+    version_aware = true
+['remote "s3www"']
+    url = https://cdn.humanatlas.io/dvc/hra-kg
