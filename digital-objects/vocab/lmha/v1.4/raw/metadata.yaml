@@ -1,0 +1,14 @@
+title: LMHA Ontology
+description: >-
+  Anatomic Ontology for Human Lung Maturation (LungMAP Human Anatomy (LMHA))
+creators:
+  - fullName: Helen Pan
+    firstName: Helen
+    lastName: Pan
+    orcid: 0000-0002-7166-108X
+creation_date: '2019-07-30'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+datatable:
+  - lmha.owl

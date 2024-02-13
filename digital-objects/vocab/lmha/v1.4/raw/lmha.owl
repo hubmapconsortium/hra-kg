@@ -1,0 +1,1405 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.lungmap.net/ontologies/human_anatomy#"
+     xml:base="http://www.lungmap.net/ontologies/human_anatomy"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:database="http://www.lungmap.net/ontologies/database#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:human_anatomy="http://www.lungmap.net/ontologies/human_anatomy/"
+     xmlns:human_anatomy1="http://www.lungmap.net/ontologies/human_anatomy#">
+    <owl:Ontology rdf:about="http://www.lungmap.net/ontologies/human_anatomy">
+        <owl:versionIRI rdf:resource="http://www.lungmap.net/ontologies/human_anatomy/1.0.1"/>
+        <dc:contributor>Gail H. Deutsch</dc:contributor>
+        <dc:contributor>Huaqin Pan</dc:contributor>
+        <dc:contributor>NHLBI Molecular Atlas of Lung Development Program Consortium Ontology Subcommittee</dc:contributor>
+        <dc:contributor>Susan E Wert</dc:contributor>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/contributor -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/contributor"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasDbXref -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#Developmental_timepoint -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#Developmental_timepoint"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#HTC_Code -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#HTC_Code"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#adjacent_to -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#adjacent_to"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#contained_within -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#contained_within"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#definition -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#definition"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#display -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#display"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#display_order -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#display_order"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#has_abbreviation -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#has_abbreviation"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#has_domain -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#has_domain"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#in_organism -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#in_organism"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#in_stage -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#in_stage"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#in_stage_range -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#in_stage_range"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#located_in -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#located_in"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#part_of -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#part_of"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#source -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#source"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/database#synonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/database#synonym"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/human_anatomy#DbXref -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/human_anatomy#DbXref"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/human_anatomy#HTC_Code -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/human_anatomy#HTC_Code"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/human_anatomy#adjacent_to -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/human_anatomy#adjacent_to"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/human_anatomy#contained_within -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/human_anatomy#contained_within"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/human_anatomy#definition -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/human_anatomy#definition"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/human_anatomy#display_order -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/human_anatomy#display_order"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/human_anatomy#has_abbreviation -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/human_anatomy#has_abbreviation"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/human_anatomy#in_organism -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/human_anatomy#in_organism"/>
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/human_anatomy/ID -->
+
+    <owl:AnnotationProperty rdf:about="http://www.lungmap.net/ontologies/human_anatomy/ID"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00054 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00054">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00716"/>
+        <oboInOwl:hasDbXref>CL:0000136</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00054</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00054</oboInOwl:id>
+        <database:definition>A connective tissue cell specialized to synthesize and store fat, primarily in the form of triglycerides. </database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>adipocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00066 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00066">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00192"/>
+        <oboInOwl:hasDbXref>LMMA:00066</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00066</oboInOwl:id>
+        <database:definition>A mesenchymal-derived connective tissue cell located in the interstitial space (interstitium or connective tissue compartment) of the alveolar septum (wall). </database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>alveolar connective tissue cell</database:synonym>
+        <database:synonym>alveolar mesenchymal cell</database:synonym>
+        <database:synonym>alveolar stromal cell</database:synonym>
+        <rdfs:label>alveolar interstitial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00086 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00086">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00223"/>
+        <oboInOwl:hasDbXref>CL:0000236 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00086</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00086</oboInOwl:id>
+        <database:HTC_Code>BCL</database:HTC_Code>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>B cell</database:synonym>
+        <rdfs:label>B lymphocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00087 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00087">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00577"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00583"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00693"/>
+        <oboInOwl:hasDbXref>CL:0000646</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00087</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00087</oboInOwl:id>
+        <database:definition>An epithelial cell located at the base, or basal side, of the epithelium, in direct contact with the underlying basement membrane. These are small polyhedral cells with a large nucleus, relatively little cytoplasm and few organelles. They are undifferentiated, self-renewing, multipotent, progenitor (stem) cells for other epithelial cell types in the airway. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>basal cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00090 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00090">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00179"/>
+        <oboInOwl:hasDbXref>CL:0000767 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00090</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00090</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>basophilic granulocyte</database:synonym>
+        <database:synonym>basophilic leukocyte</database:synonym>
+        <rdfs:label>basophil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00135 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00135">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_10000"/>
+        <oboInOwl:id>LMHA:00135</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>cell types</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00136 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00136">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00135"/>
+        <oboInOwl:hasDbXref>CL:0002320</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00136</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00136</oboInOwl:id>
+        <database:definition>A group of cells derived from embryonic mesoderm (mesenchyme) that includes fibroblasts, cartilage cells, adipocytes, smooth muscle cells and bone cells.</database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>connective tissue cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00137 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00137">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00135"/>
+        <oboInOwl:id>LMHA:00137</oboInOwl:id>
+        <database:HTC_Code>MES</database:HTC_Code>
+        <database:has_abbreviation>MES</database:has_abbreviation>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>mesenchymal cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00141 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00141">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00716"/>
+        <oboInOwl:hasDbXref>BTO:0000249</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00141</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00141</oboInOwl:id>
+        <database:definition>A type of connective tissue cell that secretes and maintains the structural components of cartilage, primarily collagen and proteoglycans. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>chondrocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00142 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00142">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00577"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00582"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00583"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00584"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00629"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00630"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00693"/>
+        <oboInOwl:hasDbXref>CL:0000064</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00142</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00142</oboInOwl:id>
+        <database:definition>A columnar epithelial cell with microscopic hair-like processes, i.e., motile cilia, that extend from the apical cell surface. These cells are found in the epithelia of the conducting airways (trachea, bronchi, and bronchioles), where they sweep mucous, dirt, dust, bacteria and other pathogens up and out of the lung, bronchi, and trachea. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>ciliated cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00143 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00143">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00577"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00582"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00583"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00584"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00629"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00630"/>
+        <oboInOwl:hasDbXref>CL:0000158 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00143</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00143</oboInOwl:id>
+        <database:definition>The club cell is a non-ciliated, dome-shaped, secretory cell with short microvilli and abundant secretory granules. Its secretory proteins function to protect the bronchiolar epithelium from environmental toxins/irritants. The club cell also has the capacity for self-renewal (maintenance of a progenitor cell pool) and regeneration of the bronchiolar epithelium after injury.</database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>Clara cell</database:synonym>
+        <database:synonym>bronchiolar exocrine cell</database:synonym>
+        <database:synonym>nonciliated secretory cell</database:synonym>
+        <rdfs:label>club cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00146 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00146">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00693"/>
+        <oboInOwl:hasDbXref>LMMA:00146</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00146</oboInOwl:id>
+        <database:definition>An epithelial cell located in the ducts (tube-like structures) that transport seromucous secretions from the submucosal glands to the lumen of the upper trachea in the mouse and to the lumen of the cartilaginous airways in the human. </database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>collecting duct cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00150 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00150">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00185"/>
+        <oboInOwl:hasDbXref>CL:0000738</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00150</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00150</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>dendritic cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00161 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00161">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00135"/>
+        <oboInOwl:id>LMHA:00161</oboInOwl:id>
+        <database:HTC_Code>END</database:HTC_Code>
+        <database:definition>A mesenchymal-derived, polygonal, rounded, flat, or squamous (scale-like) cell that lines the inner (luminal) surface of the blood vessels and lymphaic vessels. These cells contain vimentin filaments and are held together by junctional complexes to form a thin, continuous, endothelial cell layer or sheath (endothelium).</database:definition>
+        <database:has_abbreviation>END</database:has_abbreviation>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>endothelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00163 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00163">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00179"/>
+        <oboInOwl:hasDbXref>CL:0000771</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00163</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00163</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>eosinophil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00164 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00164">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00135"/>
+        <oboInOwl:id>LMHA:00164</oboInOwl:id>
+        <database:HTC_Code>EPI</database:HTC_Code>
+        <database:definition>Cells that line the inner and outer surfaces of the body by forming single or mutliple cell layers or sheets (epithelia). Epithelial cells lining the respiratory system are derived from endoderm. Epithelial cells can be classified by cell shape into squamous, cuboidal, columnar, and transitional epithelial cells. They have a cytoskeleton that allows for tight cell-to-cell contact and cell polarity. </database:definition>
+        <database:has_abbreviation>EPI</database:has_abbreviation>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00169 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00169">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00716"/>
+        <oboInOwl:id>LMHA:00169</oboInOwl:id>
+        <database:definition>A connective tissue cell that secretes an extracellular matrix rich in collagen and other macromolecules. Flattened and irregular in outline with Branching_parting processes; appear fusiform or spindle-shaped.</database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>fibroblast</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00179 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00179">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00241"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00692"/>
+        <oboInOwl:hasDbXref>CL:0000094 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00179</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00179</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>granulocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00182 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00182">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00241"/>
+        <oboInOwl:hasDbXref>CL:0000235 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00182</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00182</oboInOwl:id>
+        <database:HTC_Code>MCL</database:HTC_Code>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>histiocyte</database:synonym>
+        <rdfs:label>macrophage</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00185 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00185">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00135"/>
+        <oboInOwl:hasDbXref>CL:0000738 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00185</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00185</oboInOwl:id>
+        <database:HTC_Code>MIC</database:HTC_Code>
+        <database:has_abbreviation>MIC</database:has_abbreviation>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>leukocyte</database:synonym>
+        <database:synonym>white blood cell</database:synonym>
+        <rdfs:label>immune cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00188 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00188">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00137"/>
+        <oboInOwl:id>LMHA:00188</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>intermediate fibroblast 1</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00189 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00189">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00137"/>
+        <oboInOwl:id>LMHA:00189</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>intermediate fibroblast 2</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00192 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00192">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00135"/>
+        <oboInOwl:id>LMHA:00192</oboInOwl:id>
+        <database:definition>A mesenchymal-derived, connective tissue cell located in the interstitial space (i.e., interstitium or connective tissue compartments) of the lung.</database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>mesenchymal cell</database:synonym>
+        <rdfs:label>interstitial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00209 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00209">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00066"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00169"/>
+        <oboInOwl:hasDbXref>LMMA:00209</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00209</oboInOwl:id>
+        <database:definition>Lipid-containing interstitial cell located in the alveolar septum (wall). The lipofibroblast transfers neutral lipid (tryglyceride) from the capillaries to the type II pneumocyte for the synthesis of surfactant phopholipids. It also synthesizes ECM proteins, such as collagen and elastin, and contains intermediate contractile filaments.</database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>lipofibroblast</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00213 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00213">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00182"/>
+        <oboInOwl:id>LMHA:00213</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>lung tissue macrophage</database:synonym>
+        <database:synonym>pulmonary interstitial macrophage</database:synonym>
+        <rdfs:label>interstitial macrophage</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00216 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00216">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00161"/>
+        <oboInOwl:hasDbXref>CL:0002138</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00216</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00216</oboInOwl:id>
+        <database:HTC_Code>END</database:HTC_Code>
+        <database:HTC_Code>LYM</database:HTC_Code>
+        <database:definition>A mesenchymal-derived, squamous (flat), endothelial cell that lines the inner (i.e., luminal) surface of lymphatic vessels, forming a continuous, thin, endothelial cell layer or sheath (endothelium).</database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>lymphatic endothelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00223 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00223">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00614"/>
+        <oboInOwl:hasDbXref>CL:0000542 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00223</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00223</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>lymphocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00226 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00226">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00182"/>
+        <oboInOwl:hasDbXref>CL:0000583 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00226</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00226</oboInOwl:id>
+        <database:HTC_Code>MCL</database:HTC_Code>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:located_in>alveolar duct lumen</database:located_in>
+        <database:synonym>tissue macrophage</database:synonym>
+        <rdfs:label>alveolar macrophage</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00227 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00227">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00241"/>
+        <oboInOwl:hasDbXref>CL:0000097 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00227</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00227</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>mast cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00230 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00230">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00137"/>
+        <oboInOwl:id>LMHA:00230</oboInOwl:id>
+        <database:HTC_Code>MSC</database:HTC_Code>
+        <database:definition>An undifferentiated stromal cell with the ability to develop into the cells that form distinct mesenchymal tissues; such as bone, muscle, connective tissue, blood vessels, and lymphatic tissue.</database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>mesenchymal stromal cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00231 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00231">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00716"/>
+        <oboInOwl:hasDbXref>CL:0000077 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00231</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00231</oboInOwl:id>
+        <database:definition>A flat cell of mesenchymal origin that forms the superficial layer of the serosal membranes lining the body cavities of the abdomen and thorax.</database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>mesothelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00233 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00233">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00241"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00692"/>
+        <oboInOwl:hasDbXref>CL:0000576</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00233</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00233</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>monocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00238 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00238">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00577"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00582"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00583"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00630"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00694"/>
+        <oboInOwl:hasDbXref>LMMA:00238</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>MESH:D009077</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00238</oboInOwl:id>
+        <database:definition>An epithelial cell that produces and secretes mucin, a substance containing mucopolysaacharides and protein, whch protects the epithelial cell surface. Mucous cells are found predominantely in the submucosal glands of the trachea and more rarely in the epithelum of the cartilaginous airways. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>mucous cell</database:synonym>
+        <rdfs:label>mucus cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00241 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00241">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00185"/>
+        <oboInOwl:hasDbXref>CL:0000766</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00241</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00241</oboInOwl:id>
+        <database:definition>A cell of the monocyte, granulocyte, or mast cell lineage.</database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>myeloid leukocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00242 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00242">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00694"/>
+        <oboInOwl:hasDbXref>BTO:0002309 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00242</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00242</oboInOwl:id>
+        <database:definition>A contractile cell found between secretory cells and basement membrane of the seromucus glands located in the submucosa of the upper trachea in the mouse and human. Each myoepithelial cell has long cytoplasmic processes that wrap around a secretory unit (acinus, or smalll cluster of cells with a central lumen). The contraction of the myoepithelial processes forces the secretory product from the secretory unit into its duct.</database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>myoepithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00243 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00243">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00066"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00137"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00169"/>
+        <oboInOwl:hasDbXref>BTO:0001946</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00243</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00243</oboInOwl:id>
+        <database:definition>A stromal cell combining the features of a fibroblast and a smooth muscle cell, such as alpha-smooth-muscle-actin positive, contractile myofilaments</database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>myofibroblast</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00245 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00245">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00623"/>
+        <oboInOwl:hasDbXref>CL:0000623</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00245</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00245</oboInOwl:id>
+        <database:HTC_Code>NKC</database:HTC_Code>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>large granular lymphocyte</database:synonym>
+        <database:synonym>non-T, non-B lymphocyte</database:synonym>
+        <rdfs:label>natural killer cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00252 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00252">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00253"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00577"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00582"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00583"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00584"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00629"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00630"/>
+        <oboInOwl:hasDbXref>CL:0000165 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00252</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00252</oboInOwl:id>
+        <database:definition>An endocrine cell that produces and secretes neurotransmitters and neuropeptide hormones in response to neuronal signals. In the lung, these cells are found as single cells or in cell clusters (neuroepithelial bodies) and are located in the epithelium of the conducting airways, including trachea, bronchi, and bronchioles. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>neuroendocrine cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00253 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00253">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00577"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00582"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00584"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00629"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00630"/>
+        <oboInOwl:hasDbXref>MESH:D046568 </oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00253</oboInOwl:id>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:comment>Innervated clusters of NEUROEPITHELIAL CELLS found in the LUNGS. They act as airway OXYGEN sensors, releasing regulatory PEPTIDES and SEROTONIN in response to HYPOXIA.</rdfs:comment>
+        <rdfs:label>neuroepithelial body</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00256 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00256">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00179"/>
+        <oboInOwl:hasDbXref>CL:0000775</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00256</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00256</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>neutrophil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00260 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00260">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00161"/>
+        <oboInOwl:id>LMHA:00260</oboInOwl:id>
+        <database:HTC_Code>END</database:HTC_Code>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>nonspecific endothelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00273 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00273">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00066"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00137"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00378"/>
+        <oboInOwl:hasDbXref>CL:0000669 </oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00273</oboInOwl:id>
+        <database:adjacent_to>alveolar capillary endothelium</database:adjacent_to>
+        <database:adjacent_to>alveolar interstitial cell</database:adjacent_to>
+        <database:definition>Unique slender cells with multiple processes extending along the capillary vessel and encircling the vascular wall to form a net around the vessel. These cells are embedded in the basement membrane shared with the endothelial cells of the vessel. They are are important in maintaining vessel integrity, angiogenesis, and vascular remodeling. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>pericyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00282 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00282">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00137"/>
+        <oboInOwl:id>LMHA:00282</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>proliferative mesenchymal progenitor</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00338 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00338">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00135"/>
+        <oboInOwl:hasDbXref>CL:0000218</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00338</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00338</oboInOwl:id>
+        <database:definition>A supporting cell of the peripheral nervous system, derived from neural crest cells, which forms the insulating myelin sheaths of peripheral axons and is required for nerve maintenance and function.</database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>Schwann cell</database:synonym>
+        <database:synonym>neuroglial cell</database:synonym>
+        <rdfs:label>glial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00340 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00340">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00577"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00582"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00583"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00630"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00694"/>
+        <oboInOwl:hasDbXref>CL:0000313 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00340</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00340</oboInOwl:id>
+        <database:definition>An epithelial cell that produces and secretes water, electrolytes, antimicrobial, anti-inflammatory, and antioxidant molecules, which protects the epithelial surrface. Serous cells are found predominantely in the submucosal glands of the trachea and more rarely in the epithelum of the cartilaginous airways.</database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>serous cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00343 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00343">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00691"/>
+        <oboInOwl:hasDbXref>CL:0000192</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00343</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00343</oboInOwl:id>
+        <database:definition>A non-striated, elongated, spindle-shaped, involuntary contractile cell found in internal organs and blood vessels. Smooth muscle cells are found in the walls of the conducting airways (trachea, bronchi, bronchioles) and of the pulmonary and bronchial blood vessels (vascular smooth muscle). </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>smooth muscle cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00354 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00354">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00223"/>
+        <oboInOwl:hasDbXref>CL:0000084 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00354</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00354</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>T cell</database:synonym>
+        <rdfs:label>T lymphocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00356 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00356">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00066"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00136"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00137"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00378"/>
+        <oboInOwl:hasDbXref>LMMA:00356</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>MESH:D000067170 </oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00356</oboInOwl:id>
+        <database:definition>The telocyte is a type of fibroblast (interstitial/connective tissue cell) that has a small oval-shaped cell body with multiple (1-5), thin, elongated telopods (cytoplasmic extensions) that can be up to 100-microns long. These cells are C-KIT positive and are associated with morphogenesis and local tissue homeostasis. </database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>telocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00378 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00378">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00716"/>
+        <oboInOwl:hasDbXref>LMMA:00378</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00378</oboInOwl:id>
+        <database:definition>A fibroblast found in the connective tissue layer located immediately under the vascular endothelium in the tunica intima of blood vessels. </database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>subendothelial connective tissue cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00379 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00379">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00586"/>
+        <oboInOwl:hasDbXref>CL:0002062</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00379</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00379</oboInOwl:id>
+        <database:HTC_Code>EP1</database:HTC_Code>
+        <database:definition>A thin, flat or squamous (&quot;scale-like&quot;) alveolar epithelial cell, covering ~95% of the surface area of each alveolus, that facilitates gas exchange across the alveolar wall (septum), i.e., between the alveolus (airspace) and the capillary network. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>AEC1</database:synonym>
+        <database:synonym>AT1 cell</database:synonym>
+        <database:synonym>ATI cell</database:synonym>
+        <database:synonym>alveolar type 1 cell</database:synonym>
+        <database:synonym>alveolar type I cell</database:synonym>
+        <database:synonym>alveolar type I epithelial cell</database:synonym>
+        <database:synonym>lung type 1 cell</database:synonym>
+        <database:synonym>pulmonary alveolar type I cell</database:synonym>
+        <database:synonym>squamous alveolar cell</database:synonym>
+        <database:synonym>squamous alveolar lining cell</database:synonym>
+        <database:synonym>type I alveolar cell</database:synonym>
+        <database:synonym>type I alveolar epithelial cell</database:synonym>
+        <rdfs:label>type I pneumocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00381 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00381">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00586"/>
+        <oboInOwl:hasDbXref>CL:0002063</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00381</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00381</oboInOwl:id>
+        <database:HTC_Code>EP2</database:HTC_Code>
+        <database:definition>A cuboidal-like, alveolar epithelial cell that synthesizes, stores, secretes, and recycles pulmonary surfactant phospholipids and proteins, substances that reduce the surface tension in the alveolus. Pulmonary surfactant is stored in lipid-rich lamellar bodies, a distinctive feature of this cell type.. The type II pneumocyte is also capable of cell division and can repopulate the alveolar epitheium after injury, differentiating into type I pneumocytes. Although this cell type covers less than 5% of the alveolar surface, it represents 60% of all alveolar epithelial cells. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>AT2 cell</database:synonym>
+        <database:synonym>ATII cell</database:synonym>
+        <database:synonym>TII (type II)</database:synonym>
+        <database:synonym>alveolar epithelial type II cell</database:synonym>
+        <database:synonym>alveolar type II cell</database:synonym>
+        <database:synonym>cuboidal type II cell</database:synonym>
+        <database:synonym>granular pneumocyte</database:synonym>
+        <database:synonym>lung type 2 cell</database:synonym>
+        <database:synonym>type 2 alveolar epithelial cell</database:synonym>
+        <database:synonym>type 2 pneumocyte</database:synonym>
+        <database:synonym>type II alveolar cell</database:synonym>
+        <database:synonym>type II alveolar epithelial cell</database:synonym>
+        <rdfs:label>type II pneumocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00384 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00384">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00577"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00582"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00583"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00584"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00586"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00629"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00630"/>
+        <oboInOwl:hasDbXref>LMMA:00384</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00384</oboInOwl:id>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>general epithelial cell</database:synonym>
+        <database:synonym>nonspecific epithelial cell</database:synonym>
+        <rdfs:label>unclassified epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00387 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00387">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00137"/>
+        <oboInOwl:id>LMHA:00387</oboInOwl:id>
+        <database:HTC_Code>MES</database:HTC_Code>
+        <database:HTC_Code>MFI</database:HTC_Code>
+        <database:definition>This term is used to describe a mesenchymal cell that cannot be classified under an existing cell type. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>Mesenchymal cell, unclassified</database:synonym>
+        <rdfs:label>unclassified mesenchymal cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00392 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00392">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00161"/>
+        <oboInOwl:hasDbXref>CL:0002139</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00392</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00392</oboInOwl:id>
+        <database:HTC_Code>END</database:HTC_Code>
+        <database:definition>An endothelial cell of the vascular tree, which includes blood vessels and lymphatic vessels. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>vascular endothelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00437 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00437">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00623"/>
+        <oboInOwl:hasDbXref>CL:0002089 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00437</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00437</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>nuocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00521 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00521">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00135"/>
+        <oboInOwl:hasDbXref>CL:0000107</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00521</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00521</oboInOwl:id>
+        <database:definition>A neuron whose cell body is located within an autonomic ganglion, i.e., part of a cluster of nerve cell bodies in the peripheral nervous system. Each neuron consists of a body, an axon, and dendrites. Its purpose is to receive, conduct, and transmit impulses between the central nervous system and its target organs/tissues. </database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>autonomic ganglion cell</database:synonym>
+        <database:synonym>autonomic ganglion neuron</database:synonym>
+        <database:synonym>neuron</database:synonym>
+        <database:synonym>neuronal cell</database:synonym>
+        <rdfs:label>autonomic neuron</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00524 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00524">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00577"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00583"/>
+        <oboInOwl:id>LMHA:00524</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>intermediate airway progenitor cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00574 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00574">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00086"/>
+        <oboInOwl:hasDbXref>BTO:0000392 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>CL:0000786 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>FMA:70574</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00677</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00574</oboInOwl:id>
+        <database:HTC_Code>BCL</database:HTC_Code>
+        <database:definition>A terminally differentiated, post-mitotic, antibody secreting cell of the B cell lineage with the phenotype CD138-positive, surface immunonoglobulin-negative, and MHC Class II-negative. Plasma cells are oval or round with extensive rough endoplasmic reticulum, a well-developed Golgi apparatus, and a round nucleus having a characteristic cartwheel heterochromatin pattern and are devoted to producing large amounts of immunoglobulin. Plasma cells develop in the spleen and migrate to the bone marrow. Plasma cells are also reportedly CD5-negative, CD10-negative, CD19-positive, CD20-negative, CD21-negative, CD22-negative, CD23-negative, CD24-negative, CD25-negative, CD27-positive, CD34-negative, CD38-positive, CD40-positive, CD43-positive, CD45-positive, CD48-positive, CD53-low, CD80-negative, CD81-positive, CD86-positive, CD95-positive, CD196-negative, CD229-positive, CD270-positive, CD352-positive, CD361-positive, and IgD-negative. Transcription factors: BLIMP1-positive, IRF4-positive, PAX5-negative, SpiB-negative, Ets1-negative, and XBP1-positive.</database:definition>
+        <database:definition>An epithelial cell that lines the peripheral gas exchange region (epithelial lining of the alveolar duct and alveoli) of the lungs. Includes both alveolar type I and type II pneumocytes. </database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>mature B lymphocyte</database:synonym>
+        <rdfs:isDefinedBy>CL:0000786</rdfs:isDefinedBy>
+        <rdfs:label>plasma cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00577 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00577">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00164"/>
+        <oboInOwl:hasDbXref>CL:0002328</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00591</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00577</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>bronchial epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00582 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00582">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00164"/>
+        <oboInOwl:id>LMHA:00582</oboInOwl:id>
+        <database:definition>An epithelial cell that lines the intrapulmonary conducting airway, or bronchioles. The more proximal bronchioles are lined predominantly by ciliated cells with a greater proportion of club cells in the distal bronchioles. </database:definition>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>terminal bronchiolar epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00583 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00583">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00164"/>
+        <oboInOwl:hasDbXref>CL:0000307</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00590</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00583</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>tracheal epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00584 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00584">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00164"/>
+        <oboInOwl:id>LMHA:00584</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>bronchiolar epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00586 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00586">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00164"/>
+        <oboInOwl:hasDbXref>FMA:62499 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00574</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00586</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>alveolar epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00598 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00598">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00066"/>
+        <oboInOwl:id>LMHA:00598</oboInOwl:id>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>proliferative interstitial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00607 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00607">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00169"/>
+        <oboInOwl:id>LMHA:00607</oboInOwl:id>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>proliferative fibroblast</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00614 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00614">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00185"/>
+        <oboInOwl:hasDbXref>BTO:0001096 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00614</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00614</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>lymphoid cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00622 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00622">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00692"/>
+        <oboInOwl:hasDbXref>CL:0000232 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00619</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00622</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>erythrocyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00623 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00623">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00614"/>
+        <oboInOwl:hasDbXref>CL:0001065 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00620</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00623</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>innate lymphoid cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00629 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00629">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00164"/>
+        <oboInOwl:id>LMHA:00629</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>respiratory bronchiolar epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00630 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00630">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00164"/>
+        <oboInOwl:id>LMHA:00630</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>membranous bronchiolar epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00681 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00681">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00182"/>
+        <oboInOwl:hasDbXref>CL:0000868 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00698</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00681</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>mucosa-associated lymphoid tissue macrophage</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00685 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00685">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00136"/>
+        <oboInOwl:id>LMHA:00685</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>reticular cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00691 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00691">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00716"/>
+        <oboInOwl:id>LMHA:00691</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>muscle cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00692 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00692">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00135"/>
+        <oboInOwl:hasDbXref>CL:0000081 </oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>LMMA:00692</oboInOwl:hasDbXref>
+        <oboInOwl:id>LMHA:00692</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>blood cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00693 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00693">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00164"/>
+        <oboInOwl:id>LMHA:00693</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>submucosal gland duct epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00694 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00694">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00164"/>
+        <oboInOwl:id>LMHA:00694</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>submucosal gland epithelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00716 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00716">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00135"/>
+        <oboInOwl:id>LMHA:00716</oboInOwl:id>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <database:synonym>mesenchymal cell</database:synonym>
+        <rdfs:comment>CD140+ cells</rdfs:comment>
+        <rdfs:label>mesenchymal derived cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00804 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00804">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00161"/>
+        <oboInOwl:id>LMHA:00804</oboInOwl:id>
+        <database:HTC_Code>END</database:HTC_Code>
+        <database:definition>An endothelial cell of the atrerial blood vessels. </database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>arterial endothelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_00805 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_00805">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LMHA_00161"/>
+        <oboInOwl:id>LMHA:00805</oboInOwl:id>
+        <database:HTC_Code>END</database:HTC_Code>
+        <database:definition>An endothelial cell of the venous blood vessels.</database:definition>
+        <database:display>true</database:display>
+        <database:has_domain rdf:resource="http://www.lungmap.net/ontologies/database#cell"/>
+        <rdfs:label>venous endothelial cell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LMHA_10000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LMHA_10000">
+        <rdfs:label>Cell Ontology for Human Lung Maturation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.lungmap.net/ontologies/human_anatomy/part_of -->
+
+    <owl:NamedIndividual rdf:about="http://www.lungmap.net/ontologies/human_anatomy/part_of">
+        <rdfs:label>part of</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.25) https://github.com/owlcs/owlapi -->
+

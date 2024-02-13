@@ -1,0 +1,14 @@
+title: Foundational Model of Anatomy Ontology (FMA)
+description: >-
+  The Foundational Model of Anatomy Ontology (FMA) is a project of the Structural Informatics Group from the Department of Biological Structure at the University of Washington (UW) School of Medicine. The FMA is an intellectual property of the University of Washington. The FMA is a reference ontology for the domain of human anatomy.
+creators:
+  - fullName: Jose Leonardo V. Mejino Jr. MD
+    firstName: Jose
+    lastName: Mejino
+    orcid: 0000-0003-2105-2283
+creation_date: '2019-04-24'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+datatable:
+  - fma.owl
