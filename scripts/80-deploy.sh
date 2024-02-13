@@ -3,6 +3,9 @@ source constants.sh
 shopt -s extglob
 set -ev
 
+# Run fix-hravs again just in case
+./scripts/32-fix-hravs.sh
+
 CLEAN="--delete"
 
 rsync -ri $CLEAN --checksum ./dist/ ./staging/
