@@ -1,8 +1,8 @@
 node_name,OntologyID,label
+VH_F_liver,UBERON:0002107,liver
 VH_F_right_hepatic_duct,UBERON:0001176,right hepatic duct
 VH_F_left_hepatic_duct,UBERON:0001177,left hepatic duct
 VH_F_common_hepatic_duct,UBERON:0001175,common hepatic duct
-VH_F_liver,UBERON:0002107,liver
 VH_F_gastric_impression_of_liver,FMA:14487,gastric impression of liver
 VH_F_suprarenal_impression_of_liver,FMA:14489,Suprarenal impression of liver
 VH_F_renal_impression_of_liver,FMA:14488,renal impression of liver

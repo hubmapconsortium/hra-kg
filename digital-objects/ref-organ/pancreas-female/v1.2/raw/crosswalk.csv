@@ -1,9 +1,9 @@
 node_name,OntologyID,label
+VH_F_pancreas,UBERON:0001264,Pancreas
 VH_F_hepatopancreatic_ampulla,UBERON:0004913,hepatopancreatic ampulla
 VH_F_dorsal_pancreatic_duct,UBERON:0005429,dorsal pancreatic duct
 VH_F_common_bile_duct,UBERON:0001174,common bile duct
 VH_F_ventral_pancreatic_duct,UBERON:0001064,Ventral pancreatic duct
-VH_F_pancreas,UBERON:0001264,Pancreas
 VH_F_tail_of_pancreas,UBERON:0001151,tail of pancreas
 VH_F_body_of_pancreas,UBERON:0001150,body of pancreas
 VH_F_uncinate_process,UBERON:0010373,uncinate process of pancreas
