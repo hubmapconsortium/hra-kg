@@ -856,7 +856,7 @@
               "section_size": 10,
               "datasets": [
                 {
-                  "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/367d95c0-0eb0-4dae-8276-9407239421ee#Donor5_TissueBlock2_TissueSection1_Dataset1",
+                  "@id": "https://api.cellxgene.cziscience.com/dp/v1/collections/367d95c0-0eb0-4dae-8276-9407239421ee#H200.1030_Donor_TissueBlock1_TissueSection1_Dataset1",
                   "@type": "Dataset",
                   "label": "Registered 7/28/2022, Raymond Sanchez, Allen Institute",
                   "description": "Data/Assay Types: SSv4",
@@ -8331,7 +8331,7 @@
             "creation_date": "2021-11-16",
             "ccf_annotations": [
               "http://purl.obolibrary.org/obo/UBERON_0002494",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
               "http://purl.obolibrary.org/obo/UBERON_0002094",
@@ -8524,7 +8524,7 @@
               "http://purl.obolibrary.org/obo/UBERON_0003978",
               "http://purl.obolibrary.org/obo/UBERON_0002494",
               "http://purl.org/sig/ont/fma/fma7264",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7262",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
@@ -8729,7 +8729,7 @@
             "creation_date": "2021-11-16",
             "ccf_annotations": [
               "http://purl.obolibrary.org/obo/UBERON_0002494",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
               "http://purl.obolibrary.org/obo/UBERON_0002094",
@@ -8922,7 +8922,7 @@
               "http://purl.obolibrary.org/obo/UBERON_0003978",
               "http://purl.obolibrary.org/obo/UBERON_0002494",
               "http://purl.org/sig/ont/fma/fma7264",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7262",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
@@ -9875,7 +9875,7 @@
             "creation_date": "2021-11-16",
             "ccf_annotations": [
               "http://purl.obolibrary.org/obo/UBERON_0002494",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
               "http://purl.obolibrary.org/obo/UBERON_0002094",
@@ -10068,7 +10068,7 @@
               "http://purl.obolibrary.org/obo/UBERON_0003978",
               "http://purl.obolibrary.org/obo/UBERON_0002494",
               "http://purl.org/sig/ont/fma/fma7264",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7262",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
@@ -10273,7 +10273,7 @@
             "creation_date": "2021-11-16",
             "ccf_annotations": [
               "http://purl.obolibrary.org/obo/UBERON_0002494",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
               "http://purl.obolibrary.org/obo/UBERON_0002094",
@@ -10466,7 +10466,7 @@
               "http://purl.obolibrary.org/obo/UBERON_0003978",
               "http://purl.obolibrary.org/obo/UBERON_0002494",
               "http://purl.org/sig/ont/fma/fma7264",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7262",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
@@ -11045,7 +11045,7 @@
             "creation_date": "2021-11-16",
             "ccf_annotations": [
               "http://purl.obolibrary.org/obo/UBERON_0002494",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
               "http://purl.obolibrary.org/obo/UBERON_0002094",
@@ -11238,7 +11238,7 @@
               "http://purl.obolibrary.org/obo/UBERON_0003978",
               "http://purl.obolibrary.org/obo/UBERON_0002494",
               "http://purl.org/sig/ont/fma/fma7264",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7262",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
@@ -11443,7 +11443,7 @@
             "creation_date": "2021-11-16",
             "ccf_annotations": [
               "http://purl.obolibrary.org/obo/UBERON_0002494",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
               "http://purl.obolibrary.org/obo/UBERON_0002094",
@@ -11636,7 +11636,7 @@
               "http://purl.obolibrary.org/obo/UBERON_0003978",
               "http://purl.obolibrary.org/obo/UBERON_0002494",
               "http://purl.org/sig/ont/fma/fma7264",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7262",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
@@ -11841,7 +11841,7 @@
             "creation_date": "2021-11-16",
             "ccf_annotations": [
               "http://purl.obolibrary.org/obo/UBERON_0002494",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
               "http://purl.obolibrary.org/obo/UBERON_0002094",
@@ -12034,7 +12034,7 @@
               "http://purl.obolibrary.org/obo/UBERON_0003978",
               "http://purl.obolibrary.org/obo/UBERON_0002494",
               "http://purl.org/sig/ont/fma/fma7264",
-              "http://purl.org/sig/ont/fma/fma72655",
+              "http://purl.org/sig/ont/fma/fma7265",
               "http://purl.org/sig/ont/fma/fma7262",
               "http://purl.org/sig/ont/fma/fma7267",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
@@ -13208,7 +13208,7 @@
       "@type": "Donor",
       "label": "Female, Age 70",
       "description": "Entered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
-      "link": "https://doi.org/10.1186/s13059-019-1906-x",
+      "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
       "consortium_name": "HCA",
       "provider_name": "Wellcome Sanger Institute",
       "provider_uuid": "7cf72052-10d0-4fa8-b659-4067aa1ffdf3",
@@ -13221,7 +13221,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13268,7 +13268,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13281,7 +13281,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13328,7 +13328,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13341,7 +13341,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13388,7 +13388,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13401,7 +13401,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13448,7 +13448,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13462,7 +13462,7 @@
       "@type": "Donor",
       "label": "Female, Age 40",
       "description": "Entered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
-      "link": "https://doi.org/10.1186/s13059-019-1906-x",
+      "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
       "consortium_name": "HCA",
       "provider_name": "Wellcome Sanger Institute",
       "provider_uuid": "7cf72052-10d0-4fa8-b659-4067aa1ffdf3",
@@ -13475,7 +13475,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13522,7 +13522,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13535,7 +13535,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13582,7 +13582,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13595,7 +13595,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13642,7 +13642,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13655,7 +13655,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13702,7 +13702,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13716,7 +13716,7 @@
       "@type": "Donor",
       "label": "Male, Age 65",
       "description": "Entered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
-      "link": "https://doi.org/10.1186/s13059-019-1906-x",
+      "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
       "consortium_name": "HCA",
       "provider_name": "Wellcome Sanger Institute",
       "provider_uuid": "7cf72052-10d0-4fa8-b659-4067aa1ffdf3",
@@ -13729,7 +13729,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13776,7 +13776,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13789,7 +13789,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13836,7 +13836,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13849,7 +13849,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13896,7 +13896,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13909,7 +13909,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -13956,7 +13956,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -13970,7 +13970,7 @@
       "@type": "Donor",
       "label": "Male, Age 55",
       "description": "Entered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
-      "link": "https://doi.org/10.1186/s13059-019-1906-x",
+      "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
       "consortium_name": "HCA",
       "provider_name": "Wellcome Sanger Institute",
       "provider_uuid": "7cf72052-10d0-4fa8-b659-4067aa1ffdf3",
@@ -13983,7 +13983,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -14030,7 +14030,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -14043,7 +14043,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -14090,7 +14090,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -14103,7 +14103,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -14150,7 +14150,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -14163,7 +14163,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -14210,7 +14210,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -14224,7 +14224,7 @@
       "@type": "Donor",
       "label": "Female, Age 65",
       "description": "Entered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
-      "link": "https://doi.org/10.1186/s13059-019-1906-x",
+      "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
       "consortium_name": "HCA",
       "provider_name": "Wellcome Sanger Institute",
       "provider_uuid": "7cf72052-10d0-4fa8-b659-4067aa1ffdf3",
@@ -14237,7 +14237,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -14284,7 +14284,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -14297,7 +14297,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -14344,7 +14344,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -14357,7 +14357,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -14404,7 +14404,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -14417,7 +14417,7 @@
           "sample_type": "Tissue Block",
           "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
           "description": "10 x 10 x 10 millimeter, 10 millimeter",
-          "link": "https://doi.org/10.1186/s13059-019-1906-x",
+          "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
           "section_count": 0,
           "section_size": 10,
           "rui_location": {
@@ -14464,7 +14464,7 @@
               "@type": "Dataset",
               "label": "Registered 7/7/2023, Kerstin Meyer, Wellcome Sanger Institute",
               "description": "Data/Assay Types: OTHER, ",
-              "link": "https://doi.org/10.1186/s13059-019-1906-x",
+              "link": "https://cellxgene.cziscience.com/collections/4d74781b-8186-4c9a-b659-ff4dc4601d91",
               "publication": "https://doi.org/10.1186/s13059-019-1906-x",
               "technology": "OTHER",
               "thumbnail": "assets/logo.jpg"
@@ -18611,6 +18611,153 @@
               "publication": "https://doi.org/10.1161/CIRCRESAHA.120.318458",
               "technology": "OTHER",
               "thumbnail": "assets/thumbnails/sparc_logo.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "http://example.com/required/id#Donor1",
+      "@type": "Donor",
+      "label": "Male, Age 23, BMI 23.1",
+      "description": "23.8 year old, White, Male, Brain Injury",
+      "link": "https://portal.hubmapconsortium.org/browse/donor/29a385d01f8316404952d101bc4f16c5",
+      "consortium_name": "HuBMAP",
+      "provider_name": "University of California San Diego TMC",
+      "provider_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "age": 23,
+      "sex": "Male",
+      "bmi": 23.1,
+      "samples": [
+        {
+          "@id": "http://purl.org/ccf/1.5/fb73e18b-9ddc-4fdf-b9a6-4b7735e5017b",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 2/11/2024, Gloria S Pryhuber, University of California San Diego TMC",
+          "description": "Donor D265 left lung lower lobe",
+          "link": "https://portal.hubmapconsortium.org/browse/sample/539b8dd38698d191ec284f9f061e7441",
+          "section_count": 1,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/fb73e18b-9ddc-4fdf-b9a6-4b7735e5017b",
+            "@type": "SpatialEntity",
+            "creator": "Gloria S Pryhuber",
+            "creator_first_name": "Gloria",
+            "creator_last_name": "Pryhuber",
+            "creation_date": "2024-03-12",
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0002048",
+              "http://purl.obolibrary.org/obo/UBERON_0002168",
+              "http://purl.obolibrary.org/obo/UBERON_0008953",
+              "http://purl.org/sig/ont/fma/fma7508"
+            ],
+            "x_dimension": 10,
+            "y_dimension": 10,
+            "z_dimension": 5,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "http://purl.org/ccf/1.5/fb73e18b-9ddc-4fdf-b9a6-4b7735e5017b_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2024-03-12",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 177.198,
+              "y_translation": 48.282,
+              "z_translation": 9.575,
+              "translation_units": "millimeter",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1"
+            }
+          },
+          "sections": [
+            {
+              "@id": "http://purl.org/ccf/1.5/fb73e18b-9ddc-4fdf-b9a6-4b7735e5017b#TissueSection1",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 2/11/2024, Gloria S Pryhuber, University of California San Diego TMC",
+              "description": "10 x 10 x 5 millimeter, 5 millimeter",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/0f1ddcb41a484adbda759c0c79097a02",
+              "section_size": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "http://example.com/required/id#Donor2",
+      "@type": "Donor",
+      "label": "Female, Age 1",
+      "description": "1.6 year old, White, Female, BPD with Pulmonary hypertension",
+      "link": "https://portal.hubmapconsortium.org/browse/donor/9b52efad34df0cca520909e1cb22cc43",
+      "consortium_name": "HuBMAP",
+      "provider_name": "University of California San Diego TMC",
+      "provider_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "age": 1,
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "http://purl.org/ccf/1.5/aed760ae-295a-43fc-b6cd-abdf6f012975",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 2/10/2024, Gloria S Pryhuber, University of California San Diego TMC",
+          "description": "Donor D115 right lung lower lobe",
+          "link": "https://portal.hubmapconsortium.org/browse/sample/9d944eb8a61bf85f70762ae3f2b0e22e",
+          "section_count": 1,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/aed760ae-295a-43fc-b6cd-abdf6f012975",
+            "@type": "SpatialEntity",
+            "creator": "Gloria S Pryhuber",
+            "creator_first_name": "Gloria",
+            "creator_last_name": "Pryhuber",
+            "creation_date": "2024-03-11",
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0002048",
+              "http://purl.obolibrary.org/obo/UBERON_0002167",
+              "http://purl.obolibrary.org/obo/UBERON_0002171",
+              "http://purl.org/sig/ont/fma/fma7362"
+            ],
+            "x_dimension": 15,
+            "y_dimension": 10,
+            "z_dimension": 5,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "http://purl.org/ccf/1.5/aed760ae-295a-43fc-b6cd-abdf6f012975_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2024-03-11",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 62.415,
+              "y_translation": 67.513,
+              "z_translation": 7.776,
+              "translation_units": "millimeter",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHFLungV1.2"
+            }
+          },
+          "sections": [
+            {
+              "@id": "http://purl.org/ccf/1.5/aed760ae-295a-43fc-b6cd-abdf6f012975#TissueSection1",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 2/10/2024, Gloria S Pryhuber, University of California San Diego TMC",
+              "description": "15 x 10 x 5 millimeter, 5 millimeter",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/bff180755a5da7c036e5250c94f1ebd7",
+              "section_size": 5
             }
           ]
         }
