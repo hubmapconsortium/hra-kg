@@ -10,7 +10,6 @@ PROCESSOR_OPTS="--exclude-bad-values"
 echo "Building Digital Objects..."
 echo
 
-set +e # Ignore errors
 for obj in $(do-processor list | grep -v '^collection'); do
   do-processor $PROCESSOR_OPTS build $BUILD_OPTS $CLEAN_DOs $obj
 done
