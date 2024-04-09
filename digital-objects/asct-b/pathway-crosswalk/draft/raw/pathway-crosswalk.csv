@@ -1,0 +1,60 @@
+Pathway Crosswalk,,,,,,
+,,,,,,
+Author Name(s):,Griffin Weber; Katherine S Gustilo,,,,,
+Author ORCID(s):,0000-0002-2597-881X; 0000-0002-5574-4272,,,,,
+Reviewer(s):,Ilias Ziogas; Fahim Imam,,,,,
+Reviewer ORCID(s):,0000-0002-9210-2455; 0000-0003-4752-543X,,,,,
+General Publication(s):,"Netter FH. Atlas of human anatomy. Philadelphia, PA: Saunders/Elsevier. 2006.; Gray H. Gray's Anatomy: The Anatomical Basis of Clinical Practice (40th ed.). Churchill-Livingstone, Elsevier. 2008.",,,,,
+Data DOI:,,,,,,
+Date:,"June 15, 2024",,,,,
+Version Number:,v1.0,,,,,
+Structure1Name,Structure1ID,Structure1Type,Relationship,Structure2Name,Structure2ID,
+basilic vein,UBERON:0001411,vein,adjacent_to,brachial artery,UBERON:0001398,artery
+basilic vein,UBERON:0001411,vein,adjacent_to,brachial vein,UBERON:0001413,vein
+basilic vein,UBERON:0001411,vein,adjacent_to,medial antebrachial cutaneous nerve,,nerve
+basilic vein,UBERON:0001411,vein,adjacent_to,medial lymphatic pathway of upper arm,,lymph vessel
+basilic vein,UBERON:0001411,vein,adjacent_to,median nerve,UBERON:0001148,nerve
+basilic vein,UBERON:0001411,vein,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+brachial artery,UBERON:0001398,artery,adjacent_to,brachial vein,UBERON:0001413,vein
+brachial artery,UBERON:0001398,artery,adjacent_to,medial antebrachial cutaneous nerve,,nerve
+brachial artery,UBERON:0001398,artery,adjacent_to,medial lymphatic pathway of upper arm,,lymph vessel
+brachial artery,UBERON:0001398,artery,adjacent_to,median nerve,UBERON:0001148,nerve
+brachial artery,UBERON:0001398,artery,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+brachial vein,UBERON:0001413,vein,adjacent_to,medial antebrachial cutaneous nerve,,nerve
+brachial vein,UBERON:0001413,vein,adjacent_to,medial lymphatic pathway of upper arm,,lymph vessel
+brachial vein,UBERON:0001413,vein,adjacent_to,median nerve,UBERON:0001148,nerve
+brachial vein,UBERON:0001413,vein,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+medial antebrachial cutaneous nerve,,nerve,adjacent_to,medial lymphatic pathway of upper arm,,lymph vessel
+medial antebrachial cutaneous nerve,,nerve,adjacent_to,median nerve,UBERON:0001148,nerve
+medial antebrachial cutaneous nerve,,nerve,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+medial lymphatic pathway of upper arm,,lymph vessel,adjacent_to,median nerve,UBERON:0001148,nerve
+medial lymphatic pathway of upper arm,,lymph vessel,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+median nerve,UBERON:0001148,nerve,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+deep brachial artery,UBERON:0001399,artery,adjacent_to,deep brachial vein,,vein
+deep brachial artery,UBERON:0001399,artery,adjacent_to,radial nerve,UBERON:0001492,nerve
+deep brachial vein,,vein,adjacent_to,radial nerve,UBERON:0001492,nerve
+axillary nerve,UBERON:0001493,nerve,adjacent_to,posterior humeral circumflex artery,FMA:22684,artery
+suprascapular artery,FMA:10663,artery,adjacent_to,suprascapular nerve,FMA:37025,nerve
+thoracodorsal artery,UBERON:0002011,artery,adjacent_to,thoracodorsal nerve,FMA:65290,nerve
+cephalic vein,UBERON:0001106,vein,adjacent_to,deltoid branch of thoracoacromial artery,FMA:23067,artery
+capillary plexus of posterior pituitary gland,,capillary,connects_to,hypophyseal vein,,vein
+secondary capillary plexus of anterior pituitary gland,,capillary,connects_to,hypophyseal vein,,vein
+branch of mucous plexus of colon,,capillary,connects_to,mucosal venule of colon,,venule
+bronchial capillary,,capillary,connects_to,bronchial venule,,venule
+hepatic arteriole,,arteriole,connects_to,hepatic sinusoid,UBERON:0001281,capillary
+lobular capillary of pancreas,,capillary,connects_to,intralobular venule of pancreas,,venule
+mucous plexus of small intestine,FMA:264945,capillary,connects_to,jejunal vein,UBERON:0001216,vein
+pancreatic islet capillary,FMA:280080,capillary,connects_to,intralobular venule of pancreas,,venule
+periductal capillary of accessory pancreatic duct,,capillary,connects_to,periductal branch of interlobular vein of pancreas,,vein
+periductal capillary of intercalated duct of pancreas,,capillary,connects_to,intralobular venule of pancreas,,venule
+periductal capillary of interlobular duct of pancreas,,capillary,connects_to,periductal branch of lobular vein of pancreas,,vein
+periductal capillary of intralobular duct of panceas,,capillary,connects_to,intralobular venule of pancreas,,venule
+periductal capillary of main pancreatic duct,,capillary,connects_to,periductal branch of interlobular vein of pancreas,,vein
+peritubular capillary,UBERON:0005272,capillary,connects_to,stellate venule of kidney,FMA:321526,venule
+post-sheath open capillary of spleen,,capillary,connects_to,splenic venous sinusoid,UBERON:0003910,capillary
+prostatic capillary,FMA:280966,capillary,connects_to,prostatic venule,,venule
+vasa recta of kidney,UBERON:0004726,capillary,connects_to,ascending vasa recta of kidney,UBERON:0009091,capillary
+subpapillary plexus,FMA:280962,capillary,connects_to,cutaneous venule,,venule
+thymic capillary,FMA:280943,capillary,connects_to,thymic venule,,venule
+alveolar capillary,,capillary,connects_to,post-alveolar capillary,,capillary
+pulmonary capillary,UBERON:0016405,capillary,connects_to,pulmonary venule,,venule
