@@ -1,4 +1,4 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,Landmarks,VH_F_fallopian_tube_R_landmarks,right fallopian tube landmarks
-https://purl.humanatlas.io/ref-organ/fallopian-tube-female-right#primary,#VHFRightFallopianTubeLandmarks,Landmarks,VH_F_fallopian_tube_R_landmark_uterus,uterus
-https://purl.humanatlas.io/ref-organ/fallopian-tube-female-right#primary,#VHFRightFallopianTubeLandmarks,Landmarks,VH_F_fallopian_tube_R_landmark_right_ovary,right ovary
+https://purl.humanatlas.io/ref-organ/fallopian-tube-female-right,#VHFRightFallopianTubeLandmarks,Landmarks,VH_F_fallopian_tube_R_landmark_uterus,uterus
+https://purl.humanatlas.io/ref-organ/fallopian-tube-female-right,#VHFRightFallopianTubeLandmarks,Landmarks,VH_F_fallopian_tube_R_landmark_right_ovary,right ovary

@@ -1,8 +1,8 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,-,VH_M_liver_landmarks,liver landmarks
-https://purl.humanatlas.io/ref-organ/liver-male#primary,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_gallbladder,gallbladder
-https://purl.humanatlas.io/ref-organ/liver-male#primary,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_cystic_artery,cystic artery
-https://purl.humanatlas.io/ref-organ/liver-male#primary,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_cystic_vein,cystic vein
-https://purl.humanatlas.io/ref-organ/liver-male#primary,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_biliary_tree,biliary tree
-https://purl.humanatlas.io/ref-organ/liver-male#primary,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_veins_of_liver,veins of liver
-https://purl.humanatlas.io/ref-organ/liver-male#primary,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_arteries_of_liver,arteries of liver
+https://purl.humanatlas.io/ref-organ/liver-male,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_gallbladder,gallbladder
+https://purl.humanatlas.io/ref-organ/liver-male,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_cystic_artery,cystic artery
+https://purl.humanatlas.io/ref-organ/liver-male,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_cystic_vein,cystic vein
+https://purl.humanatlas.io/ref-organ/liver-male,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_biliary_tree,biliary tree
+https://purl.humanatlas.io/ref-organ/liver-male,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_veins_of_liver,veins of liver
+https://purl.humanatlas.io/ref-organ/liver-male,#VHMLiverLandmarks,Landmarks,VH_M_liver_landmark_arteries_of_liver,arteries of liver

@@ -1,6 +1,6 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,Landmarks,VH_M_eye_R_landmarks,Right Eye Landmarks
-https://purl.humanatlas.io/ref-organ/eye-male-right#primary,#VHMEyeRightLandmarks,Landmarks,VH_M_eye_R_landmark_muscles,Right Eye Dura Mater Optic Nerve
-https://purl.humanatlas.io/ref-organ/eye-male-right#primary,#VHMEyeRightLandmarks,Landmarks,VH_M_eye_R_landmark_veins,Right Eye Arteries
-https://purl.humanatlas.io/ref-organ/eye-male-right#primary,#VHMEyeRightLandmarks,Landmarks,VH_M_eye_R_landmark_arteries,Right Eye Veins
-https://purl.humanatlas.io/ref-organ/eye-male-right#primary,#VHMEyeRightLandmarks,Landmarks,VH_M_eye_R_landmark_dura_mater_optic_nerve,Right Eye Muscles
+https://purl.humanatlas.io/ref-organ/eye-male-right,#VHMEyeRightLandmarks,Landmarks,VH_M_eye_R_landmark_muscles,Right Eye Dura Mater Optic Nerve
+https://purl.humanatlas.io/ref-organ/eye-male-right,#VHMEyeRightLandmarks,Landmarks,VH_M_eye_R_landmark_veins,Right Eye Arteries
+https://purl.humanatlas.io/ref-organ/eye-male-right,#VHMEyeRightLandmarks,Landmarks,VH_M_eye_R_landmark_arteries,Right Eye Veins
+https://purl.humanatlas.io/ref-organ/eye-male-right,#VHMEyeRightLandmarks,Landmarks,VH_M_eye_R_landmark_dura_mater_optic_nerve,Right Eye Muscles

@@ -1,5 +1,5 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,-,VH_M_palatine_tonsil_R_landmarks,right palatine tonsil landmarks
-https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-right#primary,#VHMRightPalatineTonsilLandmarks,Landmarks,VH_M_palatine_tonsil_R_landmark_musculus_uvulae,right musculus uvulae
-https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-right#primary,#VHMRightPalatineTonsilLandmarks,Landmarks,VH_M_palatine_tonsil_R_landmark_palatopharyngeus_muscle,right palatopharyngeus muscle
-https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-right#primary,#VHMRightPalatineTonsilLandmarks,Landmarks,VH_M_palatine_tonsil_R_landmark_palatoglossus_muscle_R,right palatoglossus muscle right
+https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-right,#VHMRightPalatineTonsilLandmarks,Landmarks,VH_M_palatine_tonsil_R_landmark_musculus_uvulae,right musculus uvulae
+https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-right,#VHMRightPalatineTonsilLandmarks,Landmarks,VH_M_palatine_tonsil_R_landmark_palatopharyngeus_muscle,right palatopharyngeus muscle
+https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-right,#VHMRightPalatineTonsilLandmarks,Landmarks,VH_M_palatine_tonsil_R_landmark_palatoglossus_muscle_R,right palatoglossus muscle right

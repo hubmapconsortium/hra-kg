@@ -1,17 +1,17 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,Landmarks,VH_F_mammary_gland_L_landmarks,Left Mammary Gland Landmarks
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_sternum,sternum
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_manubrium,manubrium
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_xiphoid_process,xiphoid process
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_axillary_tail_of_breast,axillary tail of breast
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_lower_outer_quadrant_of_breast,lower outer quadrant of breast
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_lower_inner_quadrant_of_breast,lower inner quadrant of breast
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_upper_outer_quadrant_of_breast,upper outer quadrant of breast
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_upper_inner_quadrant_of_breast,upper inner quadrant of breast
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_ribs,ribs
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_pectoralis_minor,pectoralis minor
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_pectoralis_major,pectoralis major
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_clavicle,clavicle
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_humerus,humerus
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_scapula,scapula
-https://purl.humanatlas.io/ref-organ/mammary-gland-female-left#primary,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_costal_cartilage,costal cartilage
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_sternum,sternum
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_manubrium,manubrium
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_xiphoid_process,xiphoid process
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_axillary_tail_of_breast,axillary tail of breast
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_lower_outer_quadrant_of_breast,lower outer quadrant of breast
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_lower_inner_quadrant_of_breast,lower inner quadrant of breast
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_upper_outer_quadrant_of_breast,upper outer quadrant of breast
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_upper_inner_quadrant_of_breast,upper inner quadrant of breast
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_ribs,ribs
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_pectoralis_minor,pectoralis minor
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_pectoralis_major,pectoralis major
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_clavicle,clavicle
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_humerus,humerus
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_scapula,scapula
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left,#VHFMammaryGlandLeftLandmarks,Landmarks,VH_F_mammary_gland_L_landmark_costal_cartilage,costal cartilage

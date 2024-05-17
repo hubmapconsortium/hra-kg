@@ -1,5 +1,5 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,-,VH_F_kidney_extraction_sites,Kidney exraction sites
 -,-,-,VH_F_kidney_HuBMAP_extraction_sites,HuBMAP kideny extraction sites
-https://purl.humanatlas.io/ref-organ/kidney-female-left#primary,#VHFLeftKidneyLandmarks,Landmarks,VH_F_kidney_bisection_line_L,Bisection Line
-https://purl.humanatlas.io/ref-organ/kidney-female-right#primary,#VHFRightKidneyLandmarks,Landmarks,VH_F_kidney_bisection_line_R,Bisection Line
+https://purl.humanatlas.io/ref-organ/kidney-female-left,#VHFLeftKidneyLandmarks,Landmarks,VH_F_kidney_bisection_line_L,Bisection Line
+https://purl.humanatlas.io/ref-organ/kidney-female-right,#VHFRightKidneyLandmarks,Landmarks,VH_F_kidney_bisection_line_R,Bisection Line

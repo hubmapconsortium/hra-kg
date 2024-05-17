@@ -1,4 +1,4 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,-,VH_M_spleen_landmarks,spleen landmarks
-https://purl.humanatlas.io/ref-organ/spleen-male#primary,#VHMSpleenLandmarks,Landmarks,VH_M_spleen_landmark_splenic_vein,splenic vein
-https://purl.humanatlas.io/ref-organ/spleen-male#primary,#VHMSpleenLandmarks,Landmarks,VH_M_spleen_landmark_splenic_artery,splenic artery
+https://purl.humanatlas.io/ref-organ/spleen-male,#VHMSpleenLandmarks,Landmarks,VH_M_spleen_landmark_splenic_vein,splenic vein
+https://purl.humanatlas.io/ref-organ/spleen-male,#VHMSpleenLandmarks,Landmarks,VH_M_spleen_landmark_splenic_artery,splenic artery

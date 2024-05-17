@@ -1,5 +1,5 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,Landmarks,VH_F_palatine_tonsil_L_landmarks,left palatine tonsil landmarks
-https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-left#primary,#VHFLeftPalatineTonsilLandmarks,Landmarks,VH_F_palatine_tonsil_L_landmark_palatoglossus_muscle_L,palatoglossus muscle left
-https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-left#primary,#VHFLeftPalatineTonsilLandmarks,Landmarks,VH_F_palatine_tonsil_L_landmark_palatopharyngeus_muscle,palatopharyngeus muscle
-https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-left#primary,#VHFLeftPalatineTonsilLandmarks,Landmarks,VH_F_palatine_tonsil_L_landmark_musculus_uvulae,musculus uvulae
+https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-left,#VHFLeftPalatineTonsilLandmarks,Landmarks,VH_F_palatine_tonsil_L_landmark_palatoglossus_muscle_L,palatoglossus muscle left
+https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-left,#VHFLeftPalatineTonsilLandmarks,Landmarks,VH_F_palatine_tonsil_L_landmark_palatopharyngeus_muscle,palatopharyngeus muscle
+https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-left,#VHFLeftPalatineTonsilLandmarks,Landmarks,VH_F_palatine_tonsil_L_landmark_musculus_uvulae,musculus uvulae
