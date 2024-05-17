@@ -50,15 +50,15 @@ WHERE {
   {
     SELECT (?refOrgan as ?hraRefOrgan) ?sex ?sceneNode
     WHERE {
-      ?refOrgan ccf:has_placements ?n .
+      # ?refOrgan ccf:has_placement ?n .
+      ?n ccf:placement_for ?refOrgan .
       ?n ccf:placement_relative_to ?target .
-      ?refOrgan ccf:organ_owner_sex ?sexIri .
+      ?refOrgan ccf:organ_owner_sex ?sex .
       ?refOrgan ccf:has_reference_organ ?refOrgan .
       ?refOrgan ccf:has_object_reference [
         ccf:file_subpath ?sceneNode  
       ] .
-      BIND(IF(CONTAINS(STR(?refOrgan), 'female'), xsd:string('Female'), xsd:string('Male')) as ?sex)
-      FILTER ( ?target = hra-ccf-body:VHfemale || ?target = hra-ccf-body:VHmale )
+      FILTER ( ?target = hra-ccf-body:VHFemale || ?target = hra-ccf-body:VHMale )
     }
   }
 }

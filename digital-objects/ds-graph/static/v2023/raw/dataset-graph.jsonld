@@ -19703,6 +19703,1101 @@
           ]
         }
       ]
+    },
+    {
+      "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor",
+      "@type": "Donor",
+      "label": "Male, 69",
+      "description": "Entered 7/3/2023, Peter Sorger, HTAN",
+      "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+      "consortium_name": "HTAN",
+      "provider_name": "HTAN",
+      "provider_uuid": "db0c82e3-1d4c-42e7-88d2-75e3083ec874",
+      "age": 69,
+      "sex": "Male",
+      "samples": [
+        {
+          "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+          "description": "Tumor tissue from cecum - Mixed mucinous and signet ring cell adenocarcinoma",
+          "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+          "section_count": 106,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/615aa60c-0a0a-4614-bae2-f85112479919",
+            "@type": "SpatialEntity",
+            "creator": "Peter Sorger",
+            "creator_first_name": "Peter",
+            "creator_last_name": "Sorger",
+            "creation_date": "2023-08-04",
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001156"
+            ],
+            "x_dimension": 62,
+            "y_dimension": 51,
+            "z_dimension": 15,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "http://purl.org/ccf/1.5/615aa60c-0a0a-4614-bae2-f85112479919_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2023-08-04",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 68,
+              "y_rotation": -82,
+              "z_rotation": 1,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 49.126,
+              "y_translation": 239.65,
+              "z_translation": 140.422,
+              "translation_units": "millimeter",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHMColon"
+            }
+          },
+          "sections": [
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection1",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 1,
+              "datasets": [
+                {
+                  "@id": "WD-76845-001",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection2",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 2,
+              "datasets": [
+                {
+                  "@id": "WD-76845-002",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection3",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 6,
+              "datasets": [
+                {
+                  "@id": "WD-76845-006",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection4",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 7,
+              "datasets": [
+                {
+                  "@id": "WD-76845-007",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection5",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 13,
+              "datasets": [
+                {
+                  "@id": "WD-76845-013",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection6",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 14,
+              "datasets": [
+                {
+                  "@id": "WD-76845-014",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection7",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 19,
+              "datasets": [
+                {
+                  "@id": "WD-76845-019",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection8",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 20,
+              "datasets": [
+                {
+                  "@id": "WD-76845-020",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection9",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 24,
+              "datasets": [
+                {
+                  "@id": "WD-76845-024",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection10",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 25,
+              "datasets": [
+                {
+                  "@id": "WD-76845-025",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection11",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 28,
+              "datasets": [
+                {
+                  "@id": "WD-76845-028",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection12",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 29,
+              "datasets": [
+                {
+                  "@id": "WD-76845-029",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection13",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 33,
+              "datasets": [
+                {
+                  "@id": "WD-76845-033",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection14",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 34,
+              "datasets": [
+                {
+                  "@id": "WD-76845-034",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection15",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 38,
+              "datasets": [
+                {
+                  "@id": "WD-76845-038",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection16",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 39,
+              "datasets": [
+                {
+                  "@id": "WD-76845-039",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection17",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 43,
+              "datasets": [
+                {
+                  "@id": "WD-76845-043",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection18",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 44,
+              "datasets": [
+                {
+                  "@id": "WD-76845-044",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection19",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 48,
+              "datasets": [
+                {
+                  "@id": "WD-76845-048",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection20",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 49,
+              "datasets": [
+                {
+                  "@id": "WD-76845-049",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection21",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 50,
+              "datasets": [
+                {
+                  "@id": "WD-76845-050",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection22",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 51,
+              "datasets": [
+                {
+                  "@id": "WD-76845-051",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection23",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 52,
+              "datasets": [
+                {
+                  "@id": "WD-76845-052",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection24",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 53,
+              "datasets": [
+                {
+                  "@id": "WD-76845-053",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection25",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 54,
+              "datasets": [
+                {
+                  "@id": "WD-76845-054",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection26",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 58,
+              "datasets": [
+                {
+                  "@id": "WD-76845-058",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection27",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 59,
+              "datasets": [
+                {
+                  "@id": "WD-76845-059",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection28",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 63,
+              "datasets": [
+                {
+                  "@id": "WD-76845-063",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection29",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 64,
+              "datasets": [
+                {
+                  "@id": "WD-76845-064",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection30",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 68,
+              "datasets": [
+                {
+                  "@id": "WD-76845-068",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection31",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 69,
+              "datasets": [
+                {
+                  "@id": "WD-76845-069",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection32",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 73,
+              "datasets": [
+                {
+                  "@id": "WD-76845-073",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection33",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 74,
+              "datasets": [
+                {
+                  "@id": "WD-76845-074",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection34",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 77,
+              "datasets": [
+                {
+                  "@id": "WD-76845-077",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection35",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 78,
+              "datasets": [
+                {
+                  "@id": "WD-76845-078",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection36",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 83,
+              "datasets": [
+                {
+                  "@id": "WD-76845-083",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection37",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 84,
+              "datasets": [
+                {
+                  "@id": "WD-76845-084",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection38",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 85,
+              "datasets": [
+                {
+                  "@id": "WD-76845-085",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection39",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 86,
+              "datasets": [
+                {
+                  "@id": "WD-76845-086",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection40",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 90,
+              "datasets": [
+                {
+                  "@id": "WD-76845-090",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection41",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 91,
+              "datasets": [
+                {
+                  "@id": "WD-76845-091",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection42",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 96,
+              "datasets": [
+                {
+                  "@id": "WD-76845-096",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection43",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 97,
+              "datasets": [
+                {
+                  "@id": "WD-76845-097",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection44",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 101,
+              "datasets": [
+                {
+                  "@id": "WD-76845-101",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection45",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 102,
+              "datasets": [
+                {
+                  "@id": "WD-76845-102",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection46",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 105,
+              "datasets": [
+                {
+                  "@id": "WD-76845-105",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "H&E",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            },
+            {
+              "@id": "https://doi.org/10.1016/j.cell.2022.12.028/CRC1#Donor_TissueBlock1_TissueSection47",
+              "@type": "Sample",
+              "sample_type": "Tissue Section",
+              "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+              "description": "62 x 51 x 15 millimeter, 15 millimeter",
+              "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+              "section_size": 15,
+              "section_number": 106,
+              "datasets": [
+                {
+                  "@id": "WD-76845-106",
+                  "@type": "Dataset",
+                  "label": "Registered 7/3/2023, Peter Sorger, HTAN",
+                  "description": "Multiplexed CyCIF and H&E imaging, combined with scRNA-seq, and GeoMx transcriptomics",
+                  "link": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "publication": "https://doi.org/10.1016/j.cell.2022.12.028",
+                  "technology": "t-CyCIF",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

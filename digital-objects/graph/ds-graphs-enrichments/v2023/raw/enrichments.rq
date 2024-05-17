@@ -1,5 +1,8 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX ccf: <http://purl.org/ccf/>
-PREFIX CCF: <https://purl.humanatlas.io/graph/ccf>
+PREFIX HRA: <https://purl.humanatlas.io/collection/hra-kg/draft>
 PREFIX DSGraphs: <https://purl.humanatlas.io/collection/ds-graphs>
 PREFIX has_characterizing_biomarker_set: <http://purl.obolibrary.org/obo/RO_0015004>
 
@@ -9,12 +12,13 @@ CONSTRUCT {
     ccf:collides_with_ct ?cell_type ;
     ccf:collides_with_bm ?biomarker .
 }
-FROM CCF:
+FROM HRA:
 FROM DSGraphs:
 WHERE {
-  GRAPH DSGraphs: {
-    ?rui_location rdf:type ccf:SpatialEntity .
-  }
+  hint:Query hint:analytic "true" .
+
+  [] ccf:has_registration_location ?rui_location .
+  ?rui_location rdf:type ccf:SpatialEntity .
 
   {
     ?rui_location ccf:collides_with ?anatomical_structure .
@@ -22,10 +26,18 @@ WHERE {
   UNION
   {
     [] rdf:type ccf:SpatialPlacement ;
-        ccf:placement_relative_to [
-          ccf:representation_of ?anatomical_structure
-        ] ;
-        ccf:placement_for ?rui_location ;
+        ccf:placement_relative_to ?refOrgan ;
+        ccf:placement_for ?rui_location .
+
+    {
+      ?refOrgan ccf:representation_of ?anatomical_structure .
+    }
+    UNION
+    {
+      ?refOrgan owl:sameAs [
+        ccf:representation_of ?anatomical_structure ;
+      ] .
+    }
   }
 
   # Manually add paired organ parents
@@ -90,3 +102,4 @@ WHERE {
     }
   }
 }
+ORDER BY ?anatomical_structure ?as_parent ?cell_type ?biomarker
