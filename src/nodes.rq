@@ -1,0 +1,1 @@
+SELECT ?s WHERE { { ?s ?p1 [] } UNION { [] ?p2 ?s FILTER (isIRI(?s)) } }
