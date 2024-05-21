@@ -2,8 +2,6 @@ import { writeFileSync } from 'fs';
 
 const REF_SPATIAL_ENTITIES = 'https://raw.githubusercontent.com/hubmapconsortium/hubmap-ontology/master/source_data/reference-spatial-entities.jsonld'
 
-const REF_ORGAN_REMAP = {};
-
 async function migrateCcfPatches() {
   const results = await fetch(REF_SPATIAL_ENTITIES).then(r => r.json());
 

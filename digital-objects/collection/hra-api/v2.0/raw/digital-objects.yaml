@@ -1,0 +1,194 @@
+digital-objects:
+  # CCF Graphs
+  - graph/hra-ccf-body/v2.0
+  - graph/hra-ccf-patches/v2.0
+
+  # Landmarks
+  - landmark/uterus-female-landmarks/v1.4
+  - landmark/urinary-bladder-male-landmarks/v1.2
+  - landmark/urinary-bladder-female-landmarks/v1.4
+  - landmark/ureter-male-both-landmarks/v1.2
+  - landmark/ureter-female-right-landmarks/v1.4
+  - landmark/ureter-female-left-landmarks/v1.4
+  - landmark/trachea-male-landmarks/v1.4
+  - landmark/trachea-female-landmarks/v1.4
+  - landmark/spleen-male-landmarks/v1.2
+  - landmark/spleen-male-extraction-sites/v1.2
+  - landmark/spleen-female-landmarks/v1.4
+  - landmark/spleen-female-extraction-sites/v1.4
+  - landmark/spinal-cord-male-landmarks/v1.2
+  - landmark/spinal-cord-female-landmarks/v1.4
+  - landmark/small-intestine-male-landmarks/v1.2
+  - landmark/small-intestine-female-landmarks/v1.4
+  - landmark/placenta-full-term-female-landmarks/v1.4
+  - landmark/pancreas-male-landmarks/v1.2
+  - landmark/pancreas-female-landmarks/v1.4
+  - landmark/palatine-tonsil-male-right-landmarks/v1.4
+  - landmark/palatine-tonsil-male-left-landmarks/v1.4
+  - landmark/palatine-tonsil-female-right-landmarks/v1.4
+  - landmark/palatine-tonsil-female-left-landmarks/v1.4
+  - landmark/ovary-female-right-landmarks/v1.4
+  - landmark/ovary-female-left-landmarks/v1.4
+  - landmark/mammary-gland-female-right-landmarks/v1.4
+  - landmark/mammary-gland-female-left-landmarks/v1.4
+  - landmark/main-bronchus-male-landmarks/v1.4
+  - landmark/main-bronchus-female-landmarks/v1.4
+  - landmark/lung-male-landmarks/v1.4
+  - landmark/lung-female-landmarks/v1.4
+  - landmark/liver-male-landmarks/v1.2
+  - landmark/liver-female-landmarks/v1.4
+  - landmark/larynx-male-landmarks/v1.4
+  - landmark/larynx-female-landmarks/v1.4
+  - landmark/large-intestine-male-landmarks/v1.2
+  - landmark/large-intestine-male-extraction-sites/v1.2
+  - landmark/large-intestine-female-landmarks/v1.4
+  - landmark/large-intestine-female-extraction-sites/v1.4
+  - landmark/knee-male-right-landmarks/v1.2
+  - landmark/knee-male-left-landmarks/v1.2
+  - landmark/knee-female-right-landmarks/v1.4
+  - landmark/knee-female-left-landmarks/v1.4
+  - landmark/kidney-male-right-landmarks/v1.2
+  - landmark/kidney-male-left-landmarks/v1.2
+  - landmark/kidney-male-both-extraction-sites/v1.2
+  - landmark/kidney-female-right-landmarks/v1.4
+  - landmark/kidney-female-left-landmarks/v1.4
+  - landmark/kidney-female-both-extraction-sites/v1.4
+  - landmark/heart-male-landmarks/v1.2
+  - landmark/heart-male-extraction-sites/v1.2
+  - landmark/heart-female-landmarks/v1.4
+  - landmark/heart-female-extraction-sites/v1.4
+  - landmark/fallopian-tube-female-right-landmarks/v1.4
+  - landmark/fallopian-tube-female-left-landmarks/v1.4
+  - landmark/eye-male-right-landmarks/v1.4
+  - landmark/eye-male-left-landmarks/v1.4
+  - landmark/eye-female-right-landmarks/v1.4
+  - landmark/eye-female-left-landmarks/v1.4
+
+  # 2D FTUs
+  # - 2d-ftu/kidney-ascending-thin-loop-of-henle/v1.1
+  # - 2d-ftu/kidney-cortical-collecting-duct/v1.1
+  # - 2d-ftu/kidney-descending-thin-loop-of-henle/v1.1
+  # - 2d-ftu/kidney-inner-medullary-collecting-duct/v1.1
+  # - 2d-ftu/kidney-nephron/v1.2
+  # - 2d-ftu/kidney-outer-medullary-collecting-duct/v1.1
+  # - 2d-ftu/kidney-renal-corpuscle/v1.2
+  # - 2d-ftu/kidney-thick-ascending-loop-of-henle/v1.1
+  # - 2d-ftu/large-intestine-crypt-lieberkuhn/v1.2
+  # - 2d-ftu/liver-liver-lobule/v1.2
+  # - 2d-ftu/lung-bronchial-submucosal-gland/v1.1
+  # - 2d-ftu/lung-pulmonary-alveolus/v1.2
+  # - 2d-ftu/pancreas-intercalated-duct/v1.1
+  # - 2d-ftu/pancreas-islets-langerhans/v1.2
+  # - 2d-ftu/pancreas-pancreatic-acinus/v1.1
+  # - 2d-ftu/prostate-prostate-glandular-acinus/v1.2
+  # - 2d-ftu/skin-dermal-papilla/v1.1
+  # - 2d-ftu/skin-epidermal-ridge/v1.1
+  # - 2d-ftu/small-intestine-villus/v1.0
+  # - 2d-ftu/spleen-red-pulp/v1.1
+  # - 2d-ftu/spleen-white-pulp/v1.1
+  # - 2d-ftu/thymus-thymus-lobule/v1.2
+
+  # ASCT+B Tables
+  - asct-b/allen-brain/v1.5
+  - asct-b/anatomical-systems/v1.0
+  - asct-b/blood-pelvis/v1.3
+  - asct-b/blood-vasculature/v1.5
+  - asct-b/bone-marrow/v1.4
+  - asct-b/bonemarrow-pelvis/v1.3
+  - asct-b/eye/v1.3
+  - asct-b/fallopian-tube/v1.2
+  - asct-b/heart/v1.3
+  - asct-b/kidney/v1.4
+  - asct-b/knee/v1.2
+  - asct-b/large-intestine/v1.3
+  - asct-b/liver/v1.2
+  - asct-b/lung/v1.4
+  - asct-b/lymph-node/v1.3
+  - asct-b/lymph-vasculature/v1.4
+  - asct-b/main-bronchus/v1.1
+  - asct-b/muscular-system/v1.1
+  - asct-b/ovary/v1.2
+  - asct-b/palatine-tonsil/v1.0
+  - asct-b/pancreas/v1.3
+  - asct-b/peripheral-nervous-system/v1.1
+  - asct-b/placenta-full-term/v1.1
+  - asct-b/prostate/v1.1
+  - asct-b/skeleton/v1.1
+  - asct-b/skin/v1.3
+  - asct-b/small-intestine/v1.1
+  - asct-b/spinal-cord/v1.0
+  - asct-b/spleen/v1.3
+  - asct-b/thymus/v1.4
+  - asct-b/trachea/v1.0
+  - asct-b/ureter/v1.0
+  - asct-b/urinary-bladder/v1.0
+  - asct-b/uterus/v1.1
+
+  # Reference Organs
+  - ref-organ/brain-female/v1.3
+  - ref-organ/brain-male/v1.3
+  - ref-organ/blood-vasculature-female/v1.2
+  - ref-organ/eye-female-left/v1.2
+  - ref-organ/eye-female-right/v1.2
+  - ref-organ/fallopian-tube-female-left/v1.1
+  - ref-organ/fallopian-tube-female-right/v1.1
+  - ref-organ/heart-female/v1.2
+  - ref-organ/kidney-female-left/v1.2
+  - ref-organ/kidney-female-right/v1.2
+  - ref-organ/knee-female-left/v1.1
+  - ref-organ/knee-female-right/v1.1
+  - ref-organ/large-intestine-female/v1.2
+  - ref-organ/larynx-female/v1.0
+  - ref-organ/liver-female/v1.1
+  - ref-organ/lung-female/v1.3
+  - ref-organ/lymph-node-female/v1.2
+  - ref-organ/main-bronchus-female/v1.0
+  - ref-organ/mammary-gland-female-left/v1.0
+  - ref-organ/mammary-gland-female-right/v1.0
+  - ref-organ/ovary-female-left/v1.1
+  - ref-organ/ovary-female-right/v1.1
+  - ref-organ/palatine-tonsil-female-left/v1.0
+  - ref-organ/palatine-tonsil-female-right/v1.0
+  - ref-organ/pancreas-female/v1.2
+  - ref-organ/pelvis-female/v1.2
+  - ref-organ/placenta-full-term-female/v1.0
+  - ref-organ/skin-female/v1.3
+  - ref-organ/small-intestine-female/v1.1
+  - ref-organ/spinal-cord-female/v1.0
+  - ref-organ/spleen-female/v1.2
+  - ref-organ/thymus-female/v1.2
+  - ref-organ/trachea-female/v1.0
+  # - ref-organ/united-female/v1.5
+  - ref-organ/ureter-female-left/v1.1
+  - ref-organ/ureter-female-right/v1.1
+  - ref-organ/urinary-bladder-female/v1.1
+  - ref-organ/uterus-female/v1.1
+  - ref-organ/blood-vasculature-male/v1.2
+  - ref-organ/eye-male-left/v1.2
+  - ref-organ/eye-male-right/v1.2
+  - ref-organ/heart-male/v1.2
+  - ref-organ/kidney-male-left/v1.2
+  - ref-organ/kidney-male-right/v1.2
+  - ref-organ/knee-male-left/v1.1
+  - ref-organ/knee-male-right/v1.1
+  - ref-organ/large-intestine-male/v1.2
+  - ref-organ/larynx-male/v1.0
+  - ref-organ/liver-male/v1.1
+  - ref-organ/lung-male/v1.3
+  - ref-organ/lymph-node-male/v1.2
+  - ref-organ/main-bronchus-male/v1.0
+  - ref-organ/palatine-tonsil-male-left/v1.0
+  - ref-organ/palatine-tonsil-male-right/v1.0
+  - ref-organ/pancreas-male/v1.2
+  - ref-organ/pelvis-male/v1.2
+  - ref-organ/prostate-male/v1.1
+  - ref-organ/skin-male/v1.2
+  - ref-organ/small-intestine-male/v1.1
+  - ref-organ/spinal-cord-male/v1.0
+  - ref-organ/spleen-male/v1.2
+  - ref-organ/thymus-male/v1.2
+  - ref-organ/trachea-male/v1.0
+  # - ref-organ/united-male/v1.5
+  - ref-organ/ureter-male-left/v1.1
+  - ref-organ/ureter-male-right/v1.1
+  - ref-organ/urinary-bladder-male/v1.1
