@@ -2,9 +2,9 @@ extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,-,VH_M_spleen_extraction_sites,spleen extraction sites
 -,-,-,VH_M_spleen_HuBMAP_extraction_sites,HuBMAP spleen extraction sites
 -,-,-,VH_M_spleen_HuBMAP_CC,-
-https://purl.humanatlas.io/ref-organ/spleen-male#primary,#VHMSpleenHBMSet1,HuBMAP,VH_M_spleen_HuBMAP_CC3,CC3
-https://purl.humanatlas.io/ref-organ/spleen-male#primary,#VHMSpleenHBMSet1,HuBMAP,VH_M_spleen_HuBMAP_CC2,CC2
-https://purl.humanatlas.io/ref-organ/spleen-male#primary,#VHMSpleenHBMSet1,HuBMAP,VH_M_spleen_HuBMAP_CC1,CC1
+https://purl.humanatlas.io/ref-organ/spleen-male,#VHMSpleenHBMSet1,HuBMAP,VH_M_spleen_HuBMAP_CC3,CC3
+https://purl.humanatlas.io/ref-organ/spleen-male,#VHMSpleenHBMSet1,HuBMAP,VH_M_spleen_HuBMAP_CC2,CC2
+https://purl.humanatlas.io/ref-organ/spleen-male,#VHMSpleenHBMSet1,HuBMAP,VH_M_spleen_HuBMAP_CC1,CC1
 -,-,-,VH_M_spleen_HuBMAP_2x3,-
 -,-,-,VH_M_spleen_HuBMAP_CC1_2x3,-
 -,-,-,VH_M_spleen_HuBMAP_CC1_1_2x3,-

@@ -1,4 +1,4 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,-,VH_M_large_intestine_landmarks,large intestine landmarks
-https://purl.humanatlas.io/ref-organ/large-intestine-male#primary,#LargeIntestineLandmarks,Landmarks,VH_M_large_intestine_landmark_veins,large intestine veins
-https://purl.humanatlas.io/ref-organ/large-intestine-male#primary,#LargeIntestineLandmarks,Landmarks,VH_M_large_intestine_landmark_arteries,large intestine arteries
+https://purl.humanatlas.io/ref-organ/large-intestine-male,#LargeIntestineLandmarks,Landmarks,VH_M_large_intestine_landmark_veins,large intestine veins
+https://purl.humanatlas.io/ref-organ/large-intestine-male,#LargeIntestineLandmarks,Landmarks,VH_M_large_intestine_landmark_arteries,large intestine arteries

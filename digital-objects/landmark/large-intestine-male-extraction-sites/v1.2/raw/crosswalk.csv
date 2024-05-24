@@ -1,7 +1,7 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,-,VH_M_colon_extraction_sites,large intestine extraction sites
 -,-,HuBMAP,VH_M_colon_HuBMAP_extraction_sites,HuBMAP colon extraction sites
-https://purl.humanatlas.io/ref-organ/large-intestine-male#primary,#VHMColonHBMSet1,HuBMAP,VH_M_colon_HuBMAP_ascending_colon,Ascending colon
-https://purl.humanatlas.io/ref-organ/large-intestine-male#primary,#VHMColonHBMSet1,HuBMAP,VH_M_colon_HuBMAP_descending_colon,Descending colon
-https://purl.humanatlas.io/ref-organ/large-intestine-male#primary,#VHMColonHBMSet1,HuBMAP,VH_M_colon_HuBMAP_sigmoid_colon,Sigmoid colon
-https://purl.humanatlas.io/ref-organ/large-intestine-male#primary,#VHMColonHBMSet1,HuBMAP,VH_M_colon_HuBMAP_transverse_colon,Transverse colon
+https://purl.humanatlas.io/ref-organ/large-intestine-male,#VHMColonHBMSet1,HuBMAP,VH_M_colon_HuBMAP_ascending_colon,Ascending colon
+https://purl.humanatlas.io/ref-organ/large-intestine-male,#VHMColonHBMSet1,HuBMAP,VH_M_colon_HuBMAP_descending_colon,Descending colon
+https://purl.humanatlas.io/ref-organ/large-intestine-male,#VHMColonHBMSet1,HuBMAP,VH_M_colon_HuBMAP_sigmoid_colon,Sigmoid colon
+https://purl.humanatlas.io/ref-organ/large-intestine-male,#VHMColonHBMSet1,HuBMAP,VH_M_colon_HuBMAP_transverse_colon,Transverse colon

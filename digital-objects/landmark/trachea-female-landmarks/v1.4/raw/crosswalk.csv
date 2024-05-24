@@ -1,4 +1,4 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,Landmarks,VH_F_trachea_landmarks,trachea landmarks
-https://purl.humanatlas.io/ref-organ/trachea-female#primary,#VHFTracheaLandmarks,Landmarks,VH_F_trachea_landmark_main_bronchus,main bronchus
-https://purl.humanatlas.io/ref-organ/trachea-female#primary,#VHFTracheaLandmarks,Landmarks,VH_F_trachea_landmark_larynx_laryngeal_cartilage,larynxgeal cartilage
+https://purl.humanatlas.io/ref-organ/trachea-female,#VHFTracheaLandmarks,Landmarks,VH_F_trachea_landmark_main_bronchus,main bronchus
+https://purl.humanatlas.io/ref-organ/trachea-female,#VHFTracheaLandmarks,Landmarks,VH_F_trachea_landmark_larynx_laryngeal_cartilage,larynxgeal cartilage

@@ -1,4 +1,4 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,-,VH_M_heart_landmarks,heart landmarks
-https://purl.humanatlas.io/ref-organ/heart-male#primary,#VHMHeartLandmarks,Landmarks,VH_M_heart_landmark_arteries,Heart arteries
-https://purl.humanatlas.io/ref-organ/heart-male#primary,#VHMHeartLandmarks,Landmarks,VH_M_heart_landmark_veins,Heart veins
+https://purl.humanatlas.io/ref-organ/heart-male,#VHMHeartLandmarks,Landmarks,VH_M_heart_landmark_arteries,Heart arteries
+https://purl.humanatlas.io/ref-organ/heart-male,#VHMHeartLandmarks,Landmarks,VH_M_heart_landmark_veins,Heart veins

@@ -1,0 +1,1431 @@
+
+<http://purl.org/ccf/latest/ccf.owl#VHFUterus> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/uterus-female/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/uterus-female/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFUterus_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFUterus> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/uterus-female/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFUrinaryBladder> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFUrinaryBladder_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFUrinaryBladder> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightUreter> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/ureter-female-right/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/ureter-female-right/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightUreter_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFRightUreter> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/ureter-female-right/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftUreter> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/ureter-female-left/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/ureter-female-left/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftUreter_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLeftUreter> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/ureter-female-left/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFTrachea> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/trachea-female/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/trachea-female/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFTrachea_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFTrachea> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/trachea-female/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFSpleenV1.1> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/spleen-female/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/spleen-female/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFSpleenV1.1_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFSpleenV1.1> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/spleen-female/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFSpinalCord> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/spinal-cord-female/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/spinal-cord-female/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFSpinalCord_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFSpinalCord> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/spinal-cord-female/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFThymusV1.1> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/thymus-female/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/thymus-female/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFThymusV1.1_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFThymusV1.1> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/thymus-female/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFSmallIntestine> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/small-intestine-female/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/small-intestine-female/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFSmallIntestine_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFSmallIntestine> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/small-intestine-female/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFSkinV1.1> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/skin-female/v1.3#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/skin-female/v1.3#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFSkinV1.1_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFSkinV1.1> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/skin-female/v1.3#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFPlacenta> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFPlacenta_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFPlacenta> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFPelvis> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/pelvis-female/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/pelvis-female/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFPelvis_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFPelvis> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/pelvis-female/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFPancreas> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/pancreas-female/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/pancreas-female/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFPancreas_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFPancreas> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/pancreas-female/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightPalatineTonsil> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-right/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-right/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightPalatineTonsil_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFRightPalatineTonsil> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-right/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftPalatineTonsil> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-left/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-left/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftPalatineTonsil_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLeftPalatineTonsil> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/palatine-tonsil-female-left/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFMainBronchus> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/main-bronchus-female/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/main-bronchus-female/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFMainBronchus_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFMainBronchus> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/main-bronchus-female/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightOvary> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/ovary-female-right/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/ovary-female-right/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightOvary_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFRightOvary> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/ovary-female-right/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftOvary> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/ovary-female-left/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/ovary-female-left/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftOvary_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLeftOvary> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/ovary-female-left/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightMammaryGland> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/mammary-gland-female-right/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/mammary-gland-female-right/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightMammaryGland_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFRightMammaryGland> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/mammary-gland-female-right/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftMammaryGland> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftMammaryGland_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLeftMammaryGland> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLymphNode> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLymphNode_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLymphNode> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLungV1.2> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/lung-female/v1.3#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/lung-female/v1.3#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLungV1.2_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLungV1.2> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/lung-female/v1.3#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLiver> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/liver-female/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/liver-female/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLiver_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLiver> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/liver-female/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLarynx> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/larynx-female/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/larynx-female/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLarynx_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLarynx> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/larynx-female/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightKnee> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/knee-female-right/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/knee-female-right/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightKnee_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFRightKnee> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/knee-female-right/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftKnee> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/knee-female-left/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/knee-female-left/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftKnee_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLeftKnee> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/knee-female-left/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftKidneyV1.1> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/kidney-female-left/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/kidney-female-left/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftKidneyV1.1_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLeftKidneyV1.1> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/kidney-female-left/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightKidneyV1.1> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/kidney-female-right/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/kidney-female-right/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightKidneyV1.1_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFRightKidneyV1.1> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/kidney-female-right/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFHeartV1.1> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/heart-female/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/heart-female/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFHeartV1.1_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFHeartV1.1> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/heart-female/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightFallopianTube> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/fallopian-tube-female-right/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/fallopian-tube-female-right/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightFallopianTube_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFRightFallopianTube> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/fallopian-tube-female-right/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftFallopianTube> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftFallopianTube_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLeftFallopianTube> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightEye> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/eye-female-right/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/eye-female-right/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFRightEye_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFRightEye> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/eye-female-right/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftEye> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/eye-female-left/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/eye-female-left/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFLeftEye_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFLeftEye> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/eye-female-left/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFAllenBrain> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/brain-female/v1.3#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/brain-female/v1.3#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFAllenBrain_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFAllenBrain> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/brain-female/v1.3#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFBloodVasculature> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHFBloodVasculature_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHFBloodVasculature> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMRightUreter> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/ureter-male-right/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/ureter-male-right/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMRightUreter_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMRightUreter> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/ureter-male-right/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLeftUreter> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/ureter-male-left/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/ureter-male-left/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLeftUreter_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMLeftUreter> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/ureter-male-left/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMUrinaryBladder> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMUrinaryBladder_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMUrinaryBladder> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMSpinalCord> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/spinal-cord-male/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/spinal-cord-male/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMSpinalCord_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMSpinalCord> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/spinal-cord-male/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMThymus> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/thymus-male/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/thymus-male/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMThymus_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMThymus> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/thymus-male/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMTrachea> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/trachea-male/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/trachea-male/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMTrachea_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMTrachea> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/trachea-male/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMSpleen> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/spleen-male/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/spleen-male/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMSpleen_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMSpleen> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/spleen-male/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMSmallIntestine> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/small-intestine-male/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/small-intestine-male/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMSmallIntestine_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMSmallIntestine> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/small-intestine-male/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMSkinV1.1> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/skin-male/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/skin-male/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMSkinV1.1_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMSkinV1.1> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/skin-male/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMProstate> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/prostate-male/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/prostate-male/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMProstate_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMProstate> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/prostate-male/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMPelvis> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/pelvis-male/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/pelvis-male/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMPelvis_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMPelvis> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/pelvis-male/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMMainBronchus> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/main-bronchus-male/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/main-bronchus-male/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMMainBronchus_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMMainBronchus> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/main-bronchus-male/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMPancreas> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/pancreas-male/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/pancreas-male/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMPancreas_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMPancreas> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/pancreas-male/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMRightPalatineTonsil> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-right/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-right/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMRightPalatineTonsil_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMRightPalatineTonsil> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-right/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLeftPalatineTonsil> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-left/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-left/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLeftPalatineTonsil_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMLeftPalatineTonsil> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/palatine-tonsil-male-left/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLymphNode> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLymphNode_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMLymphNode> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/lung-male/v1.3#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/lung-male/v1.3#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/lung-male/v1.3#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLiver> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/liver-male/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/liver-male/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLiver_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMLiver> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/liver-male/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLarynx> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/larynx-male/v1.0#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/larynx-male/v1.0#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLarynx_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMLarynx> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/larynx-male/v1.0#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMRightKnee> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/knee-male-right/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/knee-male-right/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMRightKnee_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMRightKnee> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/knee-male-right/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMColon> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMColon_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMColon> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLeftKnee> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/knee-male-left/v1.1#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/knee-male-left/v1.1#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLeftKnee_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMLeftKnee> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/knee-male-left/v1.1#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMRightKidney> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/kidney-male-right/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/kidney-male-right/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMRightKidney_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMRightKidney> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/kidney-male-right/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/kidney-male-left/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/kidney-male-left/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/kidney-male-left/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMHeart> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/heart-male/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/heart-male/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMHeart_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMHeart> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/heart-male/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMRightEye> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/eye-male-right/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/eye-male-right/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMRightEye_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMRightEye> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/eye-male-right/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLeftEye> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/eye-male-left/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/eye-male-left/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMLeftEye_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMLeftEye> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/eye-male-left/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/brain-male/v1.3#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/brain-male/v1.3#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/brain-male/v1.3#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMBloodVasculature> <http://www.w3.org/2002/07/owl#sameAs> <https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.2#primary> ;
+	a <http://purl.org/ccf/SpatialEntity> .
+
+<https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.2#primary> a <http://purl.org/ccf/SpatialEntity> .
+
+<http://purl.org/ccf/latest/ccf.owl#VHMBloodVasculature_hra_placement> a <http://purl.org/ccf/SpatialPlacement> ;
+	<http://purl.org/ccf/placement_for> <http://purl.org/ccf/latest/ccf.owl#VHMBloodVasculature> ;
+	<http://purl.org/ccf/placement_relative_to> <https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.2#primary> ;
+	<http://purl.org/ccf/rotation_unit> "degree" ;
+	<http://purl.org/ccf/scaling_unit> "ratio" ;
+	<http://purl.org/ccf/translation_unit> "millimeter" ;
+	<http://purl.org/ccf/x_rotation> 0 ;
+	<http://purl.org/ccf/x_scaling> 1 ;
+	<http://purl.org/ccf/x_translation> 0 ;
+	<http://purl.org/ccf/y_rotation> 0 ;
+	<http://purl.org/ccf/y_scaling> 1 ;
+	<http://purl.org/ccf/y_translation> 0 ;
+	<http://purl.org/ccf/z_rotation> 0 ;
+	<http://purl.org/ccf/z_scaling> 1 ;
+	<http://purl.org/ccf/z_translation> 0 ;
+	<http://purl.org/dc/terms/created> "2024-05-16" .
+

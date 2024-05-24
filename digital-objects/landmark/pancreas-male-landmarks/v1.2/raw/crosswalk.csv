@@ -1,4 +1,4 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,-,VH_M_pancreas_landmarks,pancreas landmarks
-https://purl.humanatlas.io/ref-organ/pancreas-male#primary,#VHMPancreasLandmarks,Landmarks,VH_M_pancreas_landmark_biliary_tree,biliary tree
-https://purl.humanatlas.io/ref-organ/pancreas-male#primary,#VHMPancreasLandmarks,Landmarks,VH_M_pancreas_landmark_duodenum,duodenum
+https://purl.humanatlas.io/ref-organ/pancreas-male,#VHMPancreasLandmarks,Landmarks,VH_M_pancreas_landmark_biliary_tree,biliary tree
+https://purl.humanatlas.io/ref-organ/pancreas-male,#VHMPancreasLandmarks,Landmarks,VH_M_pancreas_landmark_duodenum,duodenum

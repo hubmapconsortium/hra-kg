@@ -1,5 +1,5 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,Landmarks,VH_F_ovary_R_landmarks,Right ovary landmarks
-https://purl.humanatlas.io/ref-organ/ovary-female-right#primary,#VHFRightOvaryLandmarks,Landmarks,VH_F_ovary_R_landmark_fallopian_tube,Right fallopian tube
-https://purl.humanatlas.io/ref-organ/ovary-female-right#primary,#VHFRightOvaryLandmarks,Landmarks,VH_F_ovary_R_landmark_ligaments_of_uterus_and_ovaries,Right ligaments of uterus and ovaries
-https://purl.humanatlas.io/ref-organ/ovary-female-right#primary,#VHFRightOvaryLandmarks,Landmarks,VH_F_ovary_R_landmark_uterus,uterus
+https://purl.humanatlas.io/ref-organ/ovary-female-right,#VHFRightOvaryLandmarks,Landmarks,VH_F_ovary_R_landmark_fallopian_tube,Right fallopian tube
+https://purl.humanatlas.io/ref-organ/ovary-female-right,#VHFRightOvaryLandmarks,Landmarks,VH_F_ovary_R_landmark_ligaments_of_uterus_and_ovaries,Right ligaments of uterus and ovaries
+https://purl.humanatlas.io/ref-organ/ovary-female-right,#VHFRightOvaryLandmarks,Landmarks,VH_F_ovary_R_landmark_uterus,uterus

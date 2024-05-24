@@ -1,10 +1,10 @@
 extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
 -,-,-,VH_F_uterus_landmarks,uterus landmarks
-https://purl.humanatlas.io/ref-organ/uterus-female#primary,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_fallopian_tube_L,left fallopian tube
-https://purl.humanatlas.io/ref-organ/uterus-female#primary,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_fallopian_tube_R,right fallopian tube
-https://purl.humanatlas.io/ref-organ/uterus-female#primary,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_left_uterine_vein,left uterine vein
-https://purl.humanatlas.io/ref-organ/uterus-female#primary,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_left_uterine_artery,left uterine artery
-https://purl.humanatlas.io/ref-organ/uterus-female#primary,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_right_uterine_artery,right uterine artery
-https://purl.humanatlas.io/ref-organ/uterus-female#primary,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_right_uterine_vein,right uterine vein
-https://purl.humanatlas.io/ref-organ/uterus-female#primary,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_ligaments_of_uterus_and_ovaries,ligaments of uterus and ovary
-https://purl.humanatlas.io/ref-organ/uterus-female#primary,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_vagina,vagina
+https://purl.humanatlas.io/ref-organ/uterus-female,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_fallopian_tube_L,left fallopian tube
+https://purl.humanatlas.io/ref-organ/uterus-female,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_fallopian_tube_R,right fallopian tube
+https://purl.humanatlas.io/ref-organ/uterus-female,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_left_uterine_vein,left uterine vein
+https://purl.humanatlas.io/ref-organ/uterus-female,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_left_uterine_artery,left uterine artery
+https://purl.humanatlas.io/ref-organ/uterus-female,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_right_uterine_artery,right uterine artery
+https://purl.humanatlas.io/ref-organ/uterus-female,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_right_uterine_vein,right uterine vein
+https://purl.humanatlas.io/ref-organ/uterus-female,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_ligaments_of_uterus_and_ovaries,ligaments of uterus and ovary
+https://purl.humanatlas.io/ref-organ/uterus-female,#VHFUterusLandmarks,Landmarks,VH_F_uterus_landmark_vagina,vagina
