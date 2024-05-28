@@ -93,7 +93,7 @@ reviewers:
     lastName: Rajbhandari
     orcid: 0000-0003-2184-7238
 externalReviewers: []
-creation_date: '2023-06-15'
+creation_date: '2024-06-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -107,23 +107,27 @@ funders:
       National Institute of Allergy and Infectious Disease and National Cancer
       Institute
     awardNumber: OT2OD026671
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Heart
     awardNumber: U01HL148861-02S1
   - funder: Lung and Blood Institute
     awardNumber: U54HL145608-04
-hubmapId: HBM933.MRZD.495
-doi: https://doi.org/10.48539/HBM933.MRZD.495
+hubmapId: HBM848.XMNH.635
+doi: https://doi.org/10.48539/HBM848.XMNH.635
 citation: >-
   Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty.
   OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Lung with Cell DIVE, v1.2,
-  https://doi.org/10.48539/HBM933.MRZD.495. Accessed on June 15, 2023.
+  Imaging of Human Lung with Cell DIVE, v1.3,
+  https://doi.org/10.48539/HBM848.XMNH.635. Accessed on June 15, 2024.
 citationOverall: >-
-  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo,
-  Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021.
-  “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for
-  Multiplexed Antibody-Based Imaging.” *Nature Methods*, November.
-  https://doi.org/10.1038/s41592-021-01316-y.
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
+  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
+  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
+  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
+  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
+  Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
+  Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-7-lung-cell-dive.csv
   - omap-7-lung-cell-dive.xlsx
