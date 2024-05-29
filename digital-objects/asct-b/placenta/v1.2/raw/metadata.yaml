@@ -53,7 +53,7 @@ reviewers:
     lastName: Roberts
     orcid: 0000-0002-9104-6674
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: '2024-06-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -63,15 +63,15 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM555.XTKB.342
-doi: https://doi.org/10.48539/HBM555.XTKB.342
+hubmapId: HBM887.JMLM.322
+doi: https://doi.org/10.48539/HBM887.JMLM.322
 citation: >-
   Mana Parast; Valentina Stanley; Scott A Lindsay, HuBMAP ASCT+B Tables.
-  Placenta Full Term v1.1.
-  [https://doi.org/10.48539/HBM555.XTKB.342](https://doi.org/10.48539/HBM555.XTKB.342)
+  Placenta Full Term v1.2.
+  [https://doi.org/10.48539/HBM887.JMLM.322](https://doi.org/10.48539/HBM887.JMLM.322)
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
-  ASCT+B Tables*.]( https://humanatlas.io/asctb-tables) Accessed on December 15,
-  2023.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
+  ASCT+B Tables*.]( https://humanatlas.io/asctb-tables) Accessed on June 15,
+  2024.
 datatable:
-  - asct-b-vh-placenta-full-term.csv
+  - asct-b-vh-placenta.csv
