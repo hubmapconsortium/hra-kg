@@ -91,7 +91,7 @@ license: >-
   4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
-   - funder: National Institutes of Health
+  - funder: National Institutes of Health
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
@@ -100,7 +100,7 @@ doi: https://doi.org/10.48539/HBM656.VQRD.249
 citation: >-
   Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP) for Multiplexed
   Antibody-Based Imaging of Human Lymph Node with IBEX v1.4.
- https://doi.org/10.48539/HBM656.VQRD.249. Accessed on June 15, 2024.
+  https://doi.org/10.48539/HBM656.VQRD.249. Accessed on June 15, 2024.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
   Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
