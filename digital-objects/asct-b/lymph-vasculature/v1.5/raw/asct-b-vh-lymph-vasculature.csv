@@ -5,8 +5,8 @@ Author ORCID(s):,0000-0002-6300-1647; 0000-0003-1361-7109; 0000-0003-0834-8274,,
 Reviewer(s):,Robin Wang; Valeria Bustos; Griffin Weber; Ellen Quardokus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Reviewer ORCID(s):,0000-0001-7369-0602; 0000-0001-6682-4246; 0000-0002-2597-881X; 0000-0001-7655-4833,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 General Publication(s):,"Rouviere H. Anatomie des Lymphatiques de l'Homme. Masson et Cie: Paris, 1932.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Data DOI:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Date:,"June 15, 2024",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data DOI:,https://doi.org/10.48539/HBM622.PDVS.333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Date:,15-Jun-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Version Number:,v1.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 AS/1,AS/1/LABEL,AS/1/ID,AS/2,AS/2/LABEL,AS/2/ID,AS/3,AS/3/LABEL,AS/3/ID,AS/4,AS/4/LABEL,AS/4/ID,AS/5,AS/5/LABEL,AS/5/ID,AS/6,AS/6/LABEL,AS/6/ID,AS/7,AS/7/LABEL,AS/7/ID,AS/8,AS/8/LABEL,AS/8/ID,AS/9,AS/9/LABEL,AS/9/ID,AS/10,AS/10/LABEL,AS/10/ID,CT/1,CT/1/LABEL,CT/1/ID,BGene/1,BGene/1/LABEL,BGene/1/ID,FTU/1,FTU/1/LABEL,FTU/1/ID,FTU/1/NOTES,REF/1,REF/1/ID,REF/1/NOTES
 lymph vasculature,lymph vasculature,UBERON:0004536,right lymphatic duct,Right lymphatic duct,FMA:5832,,,,,,,,,,,,,,,,,,,,,,,,,lymphatic endothelial cell,endothelial cell of lymphatic vessel,CL:0002138,VEGFR-3,FLT4,HGNC:3767,,,,,"Rouviere H. Anatomie des Lymphatiques de l'Homme. Masson et Cie: Paris, 1932.",,For AS
