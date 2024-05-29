@@ -37,7 +37,7 @@ digital-objects:
   - asct-b/liver/v1.3
   - asct-b/lung/v1.5
   - asct-b/lymph-node/v1.4
-  - asct-b/lymph-vasculature/v1.5
+  # - asct-b/lymph-vasculature/v1.5
   - asct-b/main-bronchus/v1.2
   - asct-b/muscular-system/v1.2
   - asct-b/ovary/v1.3
@@ -59,7 +59,7 @@ digital-objects:
   - asct-b/blood-vasculature-organ-crosswalk/v1.1
   - asct-b/musculoskeletal-crosswalk/v1.0
   - omap/1-human-lymph-node-ibex/v1.4
-  - omap/10-palatine-tonsil-macsima/v1.0
+  - omap/10-palatine-tonsil-mics/v1.0
   - omap/11-spleen-ibex/v1.1
   - omap/12-eye-retina-ibex/v1.1
   - omap/13-pancreas-codex/v1.1

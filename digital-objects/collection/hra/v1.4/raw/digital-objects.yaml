@@ -54,7 +54,7 @@ digital-objects:
   - asct-b/uterus/v1.1
   - asct-b/blood-vasculature-organ-crosswalk/v1.0
   - omap/1-human-lymph-node-ibex/v1.3
-  - omap/10-palatine-tonsil-macsima/v1.0
+  - omap/10-palatine-tonsil-mics/v1.0
   - omap/11-spleen-ibex/v1.0
   - omap/12-eye-retina-ibex/v1.0
   - omap/13-pancreas-codex/v1.0
