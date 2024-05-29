@@ -5,10 +5,10 @@ Author ORCID(s):,0000-0002-2597-881X; 0000-0002-5574-4272,,,,,
 Reviewer(s):,Ilias Ziogas; Fahim Imam,,,,,
 Reviewer ORCID(s):,0000-0002-9210-2455; 0000-0003-4752-543X,,,,,
 General Publication(s):,"Netter FH. Atlas of human anatomy. Philadelphia, PA: Saunders/Elsevier. 2006.; Gray H. Gray's Anatomy: The Anatomical Basis of Clinical Practice (40th ed.). Churchill-Livingstone, Elsevier. 2008.",,,,,
-Data DOI:,,,,,,
+Data DOI:,https://doi.org/10.48539/HBM342.CSTF.675,,,,,
 Date:,"June 15, 2024",,,,,
 Version Number:,v1.0,,,,,
-Structure1Name,Structure1ID,Structure1Type,Relationship,Structure2Name,Structure2ID,
+Structure1Name,Structure1ID,Structure1Type,Relationship,Structure2Name,Structure2ID,Structure2Type
 basilic vein,UBERON:0001411,vein,adjacent_to,brachial artery,UBERON:0001398,artery
 basilic vein,UBERON:0001411,vein,adjacent_to,brachial vein,UBERON:0001413,vein
 basilic vein,UBERON:0001411,vein,adjacent_to,medial antebrachial cutaneous nerve,,nerve
