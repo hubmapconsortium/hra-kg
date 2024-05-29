@@ -41,8 +41,9 @@ funders:
 hubmapId: HBM342.CSTF.675
 doi: https://doi.org/10.48539/HBM342.CSTF.675
 citation: >-
-Griffin Weber; Katherine S Gustilo. Pathway crosswalk, v1.0
+  Griffin Weber; Katherine S Gustilo. Pathway crosswalk, v1.0
   [https://doi.org/10.48539/HBM342.CSTF.675](https://doi.org/10.48539/HBM342.CSTF.675), Accessed on June 15, 2024.
 citationOverall: >-
+
 datatable:
   - pathway-crosswalk.csv

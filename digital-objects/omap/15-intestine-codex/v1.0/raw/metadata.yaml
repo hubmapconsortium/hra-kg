@@ -3,18 +3,17 @@ title: >-
   Imaging of Human Intestines with CODEX
 description: >-
   OMAP-15  was designed for CO-Detection by indEXing (CODEX), with the Akoya PhenoCycler system for formalin fixed paraffin embedded human intestine  samples (https://doi.org/10.1038/s41596-021-00556-8, https://doi.org/10.1002/eji.202048891). The panel contains 54 antibodies and the nuclear marker DAPI. This OMAP provides a spatial context for most anatomical structures and cell types  present in the ASCT+B Large Intestine v1.3 and Small Intestine v1.1. This OMAP builds from OMAP-2 (https://doi.org/10.48539/HBM244.TNJG.649), adapting the markers for fixed frozen tissues to formalin fixed paraffin embedded (FFPE) tissue.  It excludes 19 markers originally found in OMAP-2  and instead  includes  22 new markers that include the following: ATP1A1, CD206, COL1A1, CTNNB1, FN1, FOXP3, GP2, HLA-DRA, IGHA1, IGHM, ITGAM, KRT4/5/6a/6b/6c/8/10/13/18, MS4A1, MUC6, PDGFRA/B, POSTN, RORC, SIGLEC8, SPIB, TNC, TPSAB1, and UCHL1.  This panel does not contain markers for tuft cells and naive intestinal stem cells (LGR5+ ASCL2+). Antibodies without carriers (BSA) are used  and if the regular antibody from the supplier contains carriers, custom ones are ordered without carriers . Antibodies are custom conjugated with oligonucleotide barcodes. The protocols for antibody conjugation (https://doi.org//10.17504/protocols.io.4r3l2q8q4l1y/v1) and  sample preparation and antigen retrieval (https://doi.org/10.17504/protocols.io.n92ldm6y9l5b/v1) can be found in the respective linked doi’s. Representative datasets using this OMAP can be found here:
-https://doi.org/10.5281/zenodo.10963120.
+  https://doi.org/10.5281/zenodo.10963120.
 
 creators:
   - fullName: Bei Wei
-    firstName:Bei
+    firstName: Bei
     lastName: Wei
     orcid: 0000-0003-1516-8802
- - fullName: Joanna Yang Bi
-    firstName:Joanna
+  - fullName: Joanna Yang Bi
+    firstName: Joanna
     lastName: Bi
     orcid: 0009-0009-0194-4226
-
 project_leads:
   - fullName: Andrea J. Radtke
     firstName: Andrea
@@ -33,11 +32,11 @@ project_leads:
     lastName: Germain
     orcid: 0000-0003-1495-9143
 reviewers:
- - fullName: Elizabeth McDonough
-    firstName:Elizabeth
-    lastName:McDonough
+  - fullName: Elizabeth McDonough
+    firstName: Elizabeth
+    lastName: McDonough
     orcid: 0000-0001-7524-8260
- - fullName: Diane C. Saunders
+  - fullName: Diane C. Saunders
     firstName: Diane
     lastName: Saunders
     orcid: 0000-0002-8849-6746
@@ -45,8 +44,7 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
- 
- 
+
 externalReviewers: []
 creation_date: '2024-06-15'
 license: >-
@@ -63,7 +61,7 @@ doi: https://doi.org/10.48539/HBM332.XBSP.863
 citation: >-
   Bei Wei, Joanna Yang Bi. OMAP-15 Organ Mapping Antibody Panel (OMAP) for Multiplexed
   Antibody-Based Imaging of Human Intestine with CODEX v1.0.
- [https://doi.org/10.48539/HBM332.XBSP.863](https://doi.org/10.48539/HBM332.XBSP.863). Accessed June 15,2024.
+  [https://doi.org/10.48539/HBM332.XBSP.863](https://doi.org/10.48539/HBM332.XBSP.863). Accessed June 15,2024.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
   Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
