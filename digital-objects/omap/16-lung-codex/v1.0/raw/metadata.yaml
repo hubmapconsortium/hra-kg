@@ -1,0 +1,66 @@
+title: >-
+  OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Lung with CODEX
+description: >-
+ OMAP-16 was designed for Multiplexed Immunofluorescent (MxIF) imaging of human FFPE lung sections utilizing Akoya’s Phenocycler-Fusion platform as described dx.doi.org/10.17504/protocols.io.6qpvr38dpvmk/v2. The panel contains 34-antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. OMAP-16 provides spatial context for airway, vasculature, and alveolar features and identifies 35 of 72 key epithelial, endothelial, and immune cell types in the ASCT+B lung table v1.2 (https://hubmapconsortium.github.io/ccf-releases/v1.2/docs/asct-b/lung.html). OMAP-16 does not identify Cap1 and Cap2 endothelium, eosinophils/basophils, fibroblast/pericytes, neuroendocrine cells, ciliated cells, chondrocytes, NK cells as Ab-Barcode conjugates targeting specific markers for these cell types are in development.   For select images cell segmentation based on DAPI stained nuclei was performed utilizing the respective StarDist extension in QuPATH 0.3.2.  Vascular smooth muscle and airway epithelial features are annotated and classified by thresholding the ACTA2 and PanCK signals by utilizing the Pixel classifier in QuPath as described.  Object data is then exported as a GeoJSON file. Details regarding antigen retrieval in AR9 Buffer (Akoya Biosciences) at high pressure (110C) 20’ and MxIF imaging lung section can be found in the protocol cited above. The antibody validation protocol can be found here dx.doi.org/10.17504/protocols.io.36wgq3b9olk5/v1. Protein targets were detected with antibody barcode conjugates obtained directly from Akoya Biosciences, or via custom conjugation of commercially available antibodies utilizing antibody conjugation kit (Cat# 232195, Akoya).  When imaging proximal lung tissue containing large airway and vascular features, antibodies directed against extracellular matrix and vascular smooth muscle should be imaged within the first five cycles to mitigate potential loss of feature integrity during later cycles.
+creators:
+  - fullName: Jeffrey M. Purkerson
+    firstName: Jeffrey M.
+    lastName: Purkerson
+    orcid: 0000-0001-7636-4992
+  - fullName: Gloria S. Pryhuber
+    firstName: Gloria S.
+    lastName: Pryhuber
+    orcid: 0000-0002-9185-3994
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+ - fullName: Elizabeth McDonough
+    firstName:Elizabeth
+    lastName:McDonough
+    orcid: 0000-0001-7524-8260
+ - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: '2024-06-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM888.LNHN.284
+doi: https://doi.org/10.48539/HBM888.LNHN.284
+citation: >-
+   Jeffrey M. Purkerson,Gloria Pryhuber. OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Lung with CODEX, v1.0,
+  [https://doi.org/10.48539/HBM888.LNHN.284](https://doi.org/10.48539/HBM888.LNHN.284). Accessed on June 15, 2024.
+citationOverall: >-
+  
+datatable:
+  - omap-16-lung-cell-codex.csv
+  - omap-16-lung-cell-codex.xlsx
