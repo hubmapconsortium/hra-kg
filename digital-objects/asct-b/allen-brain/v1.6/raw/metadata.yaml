@@ -50,11 +50,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId:
-doi: https://doi.org/10.48539/
+hubmapId: HBM867.NWWP.997
+doi: https://doi.org/10.48539/HBM867.NWWP.997
 citation: >-
   Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables.
-  Brain v1.6,https://doi.org/10.48539/, Accessed on June 15, 2024.
+  Brain v1.6,https://doi.org/10.48539/HBM867.NWWP.997, Accessed on June 15, 2024.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2024.
