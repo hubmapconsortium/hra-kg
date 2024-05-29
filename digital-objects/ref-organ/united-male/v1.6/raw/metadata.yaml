@@ -1,0 +1,53 @@
+title: 3D Reference Organ Set for United, Male
+description: >-
+  [This reference organ set](https://humanatlas.io/3d-reference-library) was
+  created using data from the Visible Human Male, provided by the National
+  Library of Medicine.
+creators:
+  - fullName: Kristen Browne
+    firstName: Kristen
+    lastName: Browne
+    orcid: 0000-0003-4066-7531
+  - fullName: Heidi Schlehlein
+    firstName: Heidi
+    lastName: Schlehlein
+    orcid: 0000-0002-3333-5646
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: '2024-06-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM562.KLJF.473
+doi: https://doi.org/10.48539/HBM562.KLJF.473
+citation: >-
+  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ Set for Male
+  v1.6.*,[https://doi.org/10.48539/HBM562.KLJF.473](https://doi.org/10.48539/HBM562.KLJF.473). Accessed on June 15,
+  2024.
+citationOverall: >-
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
+  Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
+  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June
+  15, 2024.
+datatable:
+  - 3d-vh-m-united.glb
+  - crosswalk.csv
