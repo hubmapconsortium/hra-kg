@@ -95,5 +95,5 @@ citationOverall: >-
   Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
-  - omap-10-palatine-tonsil-macsima.csv
-  - omap-10-palatine-tonsil-macsima.xlsx
+  - omap-10-palatine-tonsil-mics.csv
+  - omap-10-palatine-tonsil-mics.xlsx
