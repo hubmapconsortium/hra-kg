@@ -1,0 +1,9 @@
+outs:
+- md5: ad78375acdd1bfe389ff4862d3f8aae7
+  size: 153613648
+  hash: md5
+  path: 3d-vh-m-united.glb
+  cloud:
+    s3:
+      etag: 9ecc81cea7eabea0ac9f9ef07d2838d4-3
+      version_id: UfKjT0cK5fP67plHwUhA8FN9cTnWj6d6
