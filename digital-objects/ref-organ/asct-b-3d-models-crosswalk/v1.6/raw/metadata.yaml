@@ -39,13 +39,13 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: 
-doi: https://doi.org/10.48539/
+hubmapId: HBM224.QJKZ.987
+doi: https://doi.org/10.48539/HBM224.QJKZ.987
 citation: >-
-  Ellen M. Quardokus; Heidi Schlehlein; Bruce W. Herr II; Katy Börner. (2024).
+  Ellen M. Quardokus; Heidi Schlehlein; Bruce W. Herr II; Katy Börner. 2024.
   *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D
-  Reference Object Library Crosswalk*, v1.5,
-  https://doi.org/10.48539/.  Accessed on June 15, 2024.
+  Reference Object Library Crosswalk*, v1.6,
+  [https://doi.org/10.48539/HBM224.QJKZ.987](https://doi.org/10.48539/HBM224.QJKZ.987).  Accessed on June 15, 2024.
 citationOverall: >-
   Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy
   Börner. 2024. [*HuBMAP CCF 3D Reference Object
