@@ -66,7 +66,7 @@ digital-objects:
   - omap/11-spleen-ibex/v1.1
   - omap/12-eye-retina-ibex/v1.1
   - omap/13-pancreas-codex/v1.1
-  # - omap/14-kidney-cycif/v1.0
+  - omap/14-kidney-cycif/v1.0
   - omap/15-intestine-codex/v1.0
   - omap/16-lung-codex/v1.0
   - omap/17-thymus-ibex/v1.0

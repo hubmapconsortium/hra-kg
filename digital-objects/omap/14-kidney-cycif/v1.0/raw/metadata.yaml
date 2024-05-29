@@ -9,7 +9,7 @@ creators:
     firstName: Mark
     lastName: de Caestecker
     orcid: 0000-0001-7926-1673
- 
+
 project_leads:
   - fullName: Andrea J. Radtke
     firstName: Andrea
@@ -52,14 +52,14 @@ funders:
   - funder: Intramural Research Program of the NIH
     awardNumber: OT2OD026671
   - funder: Intramural Research Program of the NIH
-    awardNumber:UH3 CA246635
-  - funder:National Cancer Institute
+    awardNumber: UH3 CA246635
+  - funder: National Cancer Institute
     awardNumber: UH3 CA246594-01
 
 hubmapId: HBM872.RNSG.734
 doi: https://doi.org/10.48539/HBM872.RNSG.734
 citation: >-
-   Mark de Caestecker. OMAP-14: Organ Mapping Antibody Panel (OMAP)
+  Mark de Caestecker. OMAP-14: Organ Mapping Antibody Panel (OMAP)
   for Multiplexed Antibody-Based Imaging of Human Kidney with CyCIF, v1.0.
   [https://doi.org/10.48539/HBM872.RNSG.734](https://doi.org/10.48539/HBM872.RNSG.734). Accessed on June  15, 2024.
 citationOverall: >-
