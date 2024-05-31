@@ -6,7 +6,7 @@ export VERSION=v2.1
 export DEPLOY_HOME=/home/bherr/workspaces/hubmap/hra-kg/dist-${VERSION}
 export COLL=collection/hra/$VERSION
 export API_COLL=collection/hra-api/$VERSION
-export EXTRA_DOs=graph/ccf/v2.3.0 collection/ds-graphs/v2023 graph/ds-graphs-enrichments/v2023
+export EXTRA_DOs="graph/ccf/v2.3.0 collection/ds-graphs/v2023 graph/ds-graphs-enrichments/v2023"
 
 rm -rf $DEPLOY_HOME
 mkdir -p $DEPLOY_HOME
