@@ -1500,7 +1500,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHMMusclesLarynx,#VHMaleOrgans,VH_M_lateral_cricoarytenoid_R,Muscle fasciculus of right lateral crico-arytenoid,FMA:47768,http://purl.org/sig/ont/fma/fma47768,mesh,3d-vh-m-united
 #VHMMusclesLarynx,#VHMaleOrgans,VH_M_lateral_cricoarytenoid_L,Muscle fasciculus of left lateral crico-arytenoid,FMA:47769,http://purl.org/sig/ont/fma/fma47769,mesh,3d-vh-m-united
 #VHMMusclesLarynx,#VHMaleOrgans,VH_M_cricothyroid,cricothyroid muscle,UBERON:0001566,http://purl.obolibrary.org/obo/UBERON_0001566,organizational,3d-vh-m-united
-#VHMMusclesLarynx,#VHMaleOrgans,VH_M_cricothyroid_R,Left cricothyroid muscle,FMA46564,http://purl.org/sig/ont/fma/fma46564,mesh,3d-vh-m-united
+#VHMMusclesLarynx,#VHMaleOrgans,VH_M_cricothyroid_R,Left cricothyroid muscle,FMA:46564,http://purl.org/sig/ont/fma/fma46564,mesh,3d-vh-m-united
 #VHMMusclesLarynx,#VHMaleOrgans,VH_M_cricothyroid_L,right cricothyroid muscle,FMA:46563,http://purl.org/sig/ont/fma/fma46563,mesh,3d-vh-m-united
 #VHMMusclesLarynx,#VHMaleOrgans,VH_M_thyroarytenoid,thyro-arytenoid,UBERON:0008576,http://purl.obolibrary.org/obo/UBERON_0008576,organizational,3d-vh-m-united
 #VHMMusclesLarynx,#VHMaleOrgans,VH_M_thyroarytenoid_L,Left thyro-arytenoid,FMA:46590,http://purl.org/sig/ont/fma/fma46590,mesh,3d-vh-m-united
