@@ -1,0 +1,11 @@
+node_name,OntologyID,label
+VH_F_placenta,UBERON:0013754,integumentary system layer
+VH_F_basal_plate,UBERON:0013754,integumentary system layer
+VH_F_chorionic_plate,UBERON:0013754,integumentary system layer
+VH_F_placenta_vessels,UBERON:0013754,integumentary system layer
+VH_F_amnion,UBERON:0013754,integumentary system layer
+VH_F_umbilical,UBERON:0013754,integumentary system layer
+VH_F_umbilical_cord,UBERON:0013754,integumentary system layer
+VH_F_umbilical_artery_1,UBERON:0013754,integumentary system layer
+VH_F_umbilical_artery_2,UBERON:0013754,integumentary system layer
+VH_F_umbilical_vein,UBERON:0013754,integumentary system layer

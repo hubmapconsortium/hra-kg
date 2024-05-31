@@ -49,5 +49,5 @@ citationOverall: >-
   Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
   Library*.](https://humanatlas.io/3d-reference-library)  Accessed on June 15, 2024.
 datatable:
-  - VH_F_Fallopian_Tube_R.glb
+  - 3d-vh-f-fallopian-tube-r.glb
   - crosswalk.csv

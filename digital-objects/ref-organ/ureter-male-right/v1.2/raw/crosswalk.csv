@@ -1,0 +1,18 @@
+node_name,OntologyID,label
+VH_M_renal_pelvis_ureter_R,UBERON:0013754,integumentary system layer
+VH_M_calyx_R,UBERON:0013754,integumentary system layer
+VH_M_major_calyx_R,UBERON:0013754,integumentary system layer
+VH_M_major_calyx_R_a,UBERON:0013754,integumentary system layer
+VH_M_major_calyx_R_b,UBERON:0013754,integumentary system layer
+VH_M_minor_calyx_R,UBERON:0013754,integumentary system layer
+VH_M_minor_calyx_R_a,UBERON:0013754,integumentary system layer
+VH_M_minor_calyx_R_b,UBERON:0013754,integumentary system layer
+VH_M_minor_calyx_R_c,UBERON:0013754,integumentary system layer
+VH_M_minor_calyx_R_d,UBERON:0013754,integumentary system layer
+VH_M_minor_calyx_R_e,UBERON:0013754,integumentary system layer
+VH_M_minor_calyx_R_f,UBERON:0013754,integumentary system layer
+VH_M_minor_calyx_R_g,UBERON:0013754,integumentary system layer
+VH_M_minor_calyx_R_h,UBERON:0013754,integumentary system layer
+VH_M_minor_calyx_R_i,UBERON:0013754,integumentary system layer
+VH_M_renal_pelvis_R,UBERON:0013754,integumentary system layer
+VH_M_ureter_R,UBERON:0013754,integumentary system layer

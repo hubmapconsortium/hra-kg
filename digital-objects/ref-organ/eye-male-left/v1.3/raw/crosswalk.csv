@@ -1,0 +1,26 @@
+node_name,OntologyID,label
+VH_M_eye_L,UBERON:0013754,integumentary system layer
+VH_M_retina_L,UBERON:0013754,integumentary system layer
+VH_M_fovea_L,UBERON:0013754,integumentary system layer
+VH_M_macula_lutea_L,UBERON:0013754,integumentary system layer
+VH_M_optic_disc_L,UBERON:0013754,integumentary system layer
+VH_M_palpebral_conjunctiva_L,UBERON:0013754,integumentary system layer
+VH_M_palpebral_conjunctiva_of_upper_eyelid_L,UBERON:0013754,integumentary system layer
+VH_M_palpebral_conjunctiva_of_lower_eyelid_L,UBERON:0013754,integumentary system layer
+VH_M_vitreous_humor_L,UBERON:0013754,integumentary system layer
+VH_M_cornea_L,UBERON:0013754,integumentary system layer
+VH_M_bulbar_conjunctiva_L,UBERON:0013754,integumentary system layer
+VH_M_iris_L,UBERON:0013754,integumentary system layer
+VH_M_trabecular_meshwork_L,UBERON:0013754,integumentary system layer
+VH_M_ciliary_body_L,UBERON:0013754,integumentary system layer
+VH_M_ciliary_muscle_L,UBERON:0013754,integumentary system layer
+VH_M_aqueous_humor_L,UBERON:0013754,integumentary system layer
+VH_M_schlemms_canal_L,UBERON:0013754,integumentary system layer
+VH_M_lens_L,UBERON:0013754,integumentary system layer
+VH_M_corneo_scleral_junction_L,UBERON:0013754,integumentary system layer
+VH_M_ora_serrata_of_retina_L,UBERON:0013754,integumentary system layer
+VH_M_suspensory_ligament_of_lens_L,UBERON:0013754,integumentary system layer
+VH_M_ciliary_processes_L,UBERON:0013754,integumentary system layer
+VH_M_pupil_L,UBERON:0013754,integumentary system layer
+VH_M_optic_choroid_L,UBERON:0013754,integumentary system layer
+VH_M_sclera_L,UBERON:0013754,integumentary system layer

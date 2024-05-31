@@ -1,0 +1,12 @@
+node_name,OntologyID,label
+VH_F_colon,UBERON:0013754,integumentary system layer
+VH_F_hepatic_flexure_of_colon,UBERON:0013754,integumentary system layer
+VH_F_transverse_colon,UBERON:0013754,integumentary system layer
+VH_F_ascending_colon,UBERON:0013754,integumentary system layer
+VH_F_vermiform_appendix,UBERON:0013754,integumentary system layer
+VH_F_descending_colon,UBERON:0013754,integumentary system layer
+VH_F_ileocecal_valve,UBERON:0013754,integumentary system layer
+VH_F_caecum,UBERON:0013754,integumentary system layer
+VH_F_rectum,UBERON:0013754,integumentary system layer
+VH_F_sigmoid_colon,UBERON:0013754,integumentary system layer
+VH_F_splenic_flexure_of_colon,UBERON:0013754,integumentary system layer

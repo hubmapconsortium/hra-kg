@@ -1,0 +1,23 @@
+node_name,OntologyID,label
+VH_F_knee_R,UBERON:0013754,integumentary system layer
+VH_F_meniscus_R,UBERON:0013754,integumentary system layer
+VH_F_knee_joint_R,UBERON:0013754,integumentary system layer
+VH_F_femur_R,UBERON:0013754,integumentary system layer
+VH_F_trochlear_groove_R,UBERON:0013754,integumentary system layer
+VH_F_medial_perichondular_surface_R,UBERON:0013754,integumentary system layer
+VH_F_articular_cartilage_of_knee_R,UBERON:0013754,integumentary system layer
+VH_F_medial_condyle_of_right_femur_sup,UBERON:0013754,integumentary system layer
+VH_F_lateral_condyle_of_femur_sup_R,UBERON:0013754,integumentary system layer
+VH_F_medial_condyle_of_right_femur_inf,UBERON:0013754,integumentary system layer
+VH_F_lateral_condyle_of_femur_inf_R,UBERON:0013754,integumentary system layer
+VH_F_lateral_condyle_of_femur_frontal_R,UBERON:0013754,integumentary system layer
+VH_F_distal_most_point_of_medial_condyle_R,UBERON:0013754,integumentary system layer
+VH_F_intercondylar_fossa_R,UBERON:0013754,integumentary system layer
+VH_F_posterior_cruciate_enthesis_R,UBERON:0013754,integumentary system layer
+VH_F_anterior_cruciate_enthesis_R,UBERON:0013754,integumentary system layer
+VH_F_lateral_perichondular_surface_R,UBERON:0013754,integumentary system layer
+VH_F_lateral_epicondylar_enthesis_R,UBERON:0013754,integumentary system layer
+VH_F_medial_epicondylar_enthesis_R,UBERON:0013754,integumentary system layer
+VH_F_tibia_R,UBERON:0013754,integumentary system layer
+VH_F_fibula_R,UBERON:0013754,integumentary system layer
+VH_F_patella_R,UBERON:0013754,integumentary system layer

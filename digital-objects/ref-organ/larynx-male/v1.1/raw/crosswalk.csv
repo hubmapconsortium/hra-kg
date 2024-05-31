@@ -1,0 +1,12 @@
+node_name,OntologyID,label
+VH_M_larynx,UBERON:0013754,integumentary system layer
+VH_M_laryngeal_cartilage,UBERON:0013754,integumentary system layer
+VH_M_arytenoid_cartilage,UBERON:0013754,integumentary system layer
+VH_M_arytenoid_cartilage_R,UBERON:0013754,integumentary system layer
+VH_M_arytenoid_cartilage_L,UBERON:0013754,integumentary system layer
+VH_M_epiglottic_cartilage,UBERON:0013754,integumentary system layer
+VH_M_cricoid_cartilage,UBERON:0013754,integumentary system layer
+VH_M_thyroid_cartilage,UBERON:0013754,integumentary system layer
+VH_M_corniculate_cartilage,UBERON:0013754,integumentary system layer
+VH_M_corniculate_cartilage_L,UBERON:0013754,integumentary system layer
+VH_M_corniculate_cartilage_R,UBERON:0013754,integumentary system layer

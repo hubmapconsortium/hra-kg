@@ -1,0 +1,25 @@
+node_name,OntologyID,label
+VH_M_pelvis,UBERON:0013754,integumentary system layer
+VH_M_sacrum,UBERON:0013754,integumentary system layer
+VH_M_coccyx,UBERON:0013754,integumentary system layer
+VH_M_pubis,UBERON:0013754,integumentary system layer
+VH_M_pubis_compact_bone,UBERON:0013754,integumentary system layer
+VH_M_pubis_compact_bone_L,UBERON:0013754,integumentary system layer
+VH_M_pubis_compact_bone_R,UBERON:0013754,integumentary system layer
+VH_M_pubis_spongy_bone,UBERON:0013754,integumentary system layer
+VH_M_pubis_spongy_bone_L,UBERON:0013754,integumentary system layer
+VH_M_pubis_spongy_bone_R,UBERON:0013754,integumentary system layer
+VH_M_ilium,UBERON:0013754,integumentary system layer
+VH_M_ilium_compact_bone,UBERON:0013754,integumentary system layer
+VH_M_ilium_compact_bone_L,UBERON:0013754,integumentary system layer
+VH_M_ilium_compact_bone_R,UBERON:0013754,integumentary system layer
+VH_M_ilium_spongy_bone,UBERON:0013754,integumentary system layer
+VH_M_ilium_spongy_bone_R,UBERON:0013754,integumentary system layer
+VH_M_ilium_spongy_bone_L,UBERON:0013754,integumentary system layer
+VH_M_ischium,UBERON:0013754,integumentary system layer
+VH_M_ischium_compact_bone,UBERON:0013754,integumentary system layer
+VH_M_ischium_compact_bone_L,UBERON:0013754,integumentary system layer
+VH_M_ischium_compact_bone_R,UBERON:0013754,integumentary system layer
+VH_M_ischium_spongy_bone,UBERON:0013754,integumentary system layer
+VH_M_ischium_spongy_bone_L,UBERON:0013754,integumentary system layer
+VH_M_ischium_spongy_bone_R,UBERON:0013754,integumentary system layer

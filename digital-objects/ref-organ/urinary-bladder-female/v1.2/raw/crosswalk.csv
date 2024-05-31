@@ -1,0 +1,9 @@
+node_name,OntologyID,label
+VH_F_urinary_bladder,UBERON:0013754,integumentary system layer
+VH_F_fundus_of_urinary_bladder_dome,UBERON:0013754,integumentary system layer
+VH_F_urinary_bladder_neck_smooth_muscle,UBERON:0013754,integumentary system layer
+VH_F_fundus_of_urinary_bladder_base,UBERON:0013754,integumentary system layer
+VH_F_trigone_of_urinary_bladder,UBERON:0013754,integumentary system layer
+VH_F_ureteral_orifice,UBERON:0013754,integumentary system layer
+VH_F_ureteral_orifice_R,UBERON:0013754,integumentary system layer
+VH_F_ureteral_orifice_L,UBERON:0013754,integumentary system layer

@@ -1,0 +1,27 @@
+node_name,OntologyID,label
+VH_M_eyes,UBERON:0013754,integumentary system layer
+VH_M_eye_R,UBERON:0013754,integumentary system layer
+VH_M_retina_R,UBERON:0013754,integumentary system layer
+VH_M_fovea_R,UBERON:0013754,integumentary system layer
+VH_M_macula_lutea_R,UBERON:0013754,integumentary system layer
+VH_M_optic_disc_R,UBERON:0013754,integumentary system layer
+VH_M_palpebral_conjunctiva_R,UBERON:0013754,integumentary system layer
+VH_M_palpebral_conjunctiva_of_upper_eyelid_R,UBERON:0013754,integumentary system layer
+VH_M_palpebral_conjunctiva_of_lower_eyelid_R,UBERON:0013754,integumentary system layer
+VH_M_sclera_R,UBERON:0013754,integumentary system layer
+VH_M_optic_choroid_R,UBERON:0013754,integumentary system layer
+VH_M_pupil_R,UBERON:0013754,integumentary system layer
+VH_M_ciliary_processes_R,UBERON:0013754,integumentary system layer
+VH_M_suspensory_ligament_of_lens_R,UBERON:0013754,integumentary system layer
+VH_M_ora_serrata_of_retina_R,UBERON:0013754,integumentary system layer
+VH_M_corneo_scleral_junction_R,UBERON:0013754,integumentary system layer
+VH_M_lens_R,UBERON:0013754,integumentary system layer
+VH_M_schlemms_canal_R,UBERON:0013754,integumentary system layer
+VH_M_aqueous_humor_R,UBERON:0013754,integumentary system layer
+VH_M_ciliary_body_R,UBERON:0013754,integumentary system layer
+VH_M_ciliary_muscle_R,UBERON:0013754,integumentary system layer
+VH_M_trabecular_meshwork_R,UBERON:0013754,integumentary system layer
+VH_M_iris_R,UBERON:0013754,integumentary system layer
+VH_M_bulbar_conjunctiva_R,UBERON:0013754,integumentary system layer
+VH_M_cornea_R,UBERON:0013754,integumentary system layer
+VH_M_vitreous_humor_R,UBERON:0013754,integumentary system layer

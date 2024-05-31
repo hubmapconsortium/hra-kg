@@ -1,0 +1,19 @@
+node_name,OntologyID,label
+VH_M_heart,UBERON:0013754,integumentary system layer
+VH_M_heart_valve,UBERON:0013754,integumentary system layer
+VH_M_mitral_valve,UBERON:0013754,integumentary system layer
+VH_M_tricuspid_valve,UBERON:0013754,integumentary system layer
+VH_M_aortic_valve,UBERON:0013754,integumentary system layer
+VH_M_pulmonary_valve,UBERON:0013754,integumentary system layer
+VH_M_papillary_muscle_of_heart,UBERON:0013754,integumentary system layer
+VH_M_papillary_muscle_of_heart_anterior,UBERON:0013754,integumentary system layer
+VH_M_papillary_muscle_of_heart_anterolateral,UBERON:0013754,integumentary system layer
+VH_M_papillary_muscle_of_heart_medial,UBERON:0013754,integumentary system layer
+VH_M_papillary_muscle_of_heart_posterior,UBERON:0013754,integumentary system layer
+VH_M_papillary_muscle_of_heart_posteromedial,UBERON:0013754,integumentary system layer
+VH_M_cardiac_chamber,UBERON:0013754,integumentary system layer
+VH_M_left_cardiac_atrium,UBERON:0013754,integumentary system layer
+VH_M_right_cardiac_atrium,UBERON:0013754,integumentary system layer
+VH_M_heart_right_ventricle,UBERON:0013754,integumentary system layer
+VH_M_interventricular_septum,UBERON:0013754,integumentary system layer
+VH_M_heart_left_ventricle,UBERON:0013754,integumentary system layer

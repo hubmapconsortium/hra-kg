@@ -1,0 +1,5 @@
+node_name,OntologyID,label
+VH_M_trachea_of_respiratory_system,UBERON:0013754,integumentary system layer
+VH_M_trachea,UBERON:0013754,integumentary system layer
+VH_M_tracheal_cartilage,UBERON:0013754,integumentary system layer
+VH_M_carina,UBERON:0013754,integumentary system layer

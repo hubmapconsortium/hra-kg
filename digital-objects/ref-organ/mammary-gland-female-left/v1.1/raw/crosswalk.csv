@@ -1,0 +1,13 @@
+node_name,OntologyID,label
+VH_F,UBERON:0013754,integumentary system layer
+VH_F_integumentary_system,UBERON:0013754,integumentary system layer
+VH_F_mammary_gland,UBERON:0013754,integumentary system layer
+VH_F_mammary_gland_L,UBERON:0013754,integumentary system layer
+VH_F_fat_L,UBERON:0013754,integumentary system layer
+VH_F_areolar_tubercles_L,UBERON:0013754,integumentary system layer
+VH_F_nipple_L,UBERON:0013754,integumentary system layer
+VH_F_areola_L,UBERON:0013754,integumentary system layer
+VH_F_mammary_lobes_L,UBERON:0013754,integumentary system layer
+VH_F_main_lactiferous_ducts_L,UBERON:0013754,integumentary system layer
+VH_F_main_lactiferous_sinuses_L,UBERON:0013754,integumentary system layer
+VH_F_suspensory_ligaments_L,UBERON:0013754,integumentary system layer

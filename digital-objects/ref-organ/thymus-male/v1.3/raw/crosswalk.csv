@@ -1,0 +1,4 @@
+node_name,OntologyID,label
+VH_M_thymus,UBERON:0013754,integumentary system layer
+VH_M_thymus_lobe_L,UBERON:0013754,integumentary system layer
+VH_M_thymus_lobe_R,UBERON:0013754,integumentary system layer

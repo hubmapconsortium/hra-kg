@@ -1,0 +1,9 @@
+node_name,OntologyID,label
+Yao_lymph_node,UBERON:0013754,integumentary system layer
+Yao_afferent_lymphatic_vessel,UBERON:0013754,integumentary system layer
+Yao_capsule_of_lymph_node,UBERON:0013754,integumentary system layer
+Yao_follicles,UBERON:0013754,integumentary system layer
+Yao_efferent_lymph_node,UBERON:0013754,integumentary system layer
+Yao_medulla_of_lymph_node,UBERON:0013754,integumentary system layer
+Yao_paracortex,UBERON:0013754,integumentary system layer
+Yao_blood_vasculature,UBERON:0013754,integumentary system layer

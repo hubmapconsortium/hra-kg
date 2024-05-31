@@ -1,0 +1,7 @@
+node_name,OntologyID,label
+VH_M_bronchi,UBERON:0013754,integumentary system layer
+VH_M_main_bronchi,UBERON:0013754,integumentary system layer
+VH_M_left_main_bronchus,UBERON:0013754,integumentary system layer
+VH_M_cartilage_of_the_main_bronchus_L,UBERON:0013754,integumentary system layer
+VH_M_right_main_bronchus,UBERON:0013754,integumentary system layer
+VH_M_cartilage_of_the_main_bronchus_R,UBERON:0013754,integumentary system layer

@@ -1,0 +1,7 @@
+node_name,OntologyID,label
+VH_M_spleen,UBERON:0013754,integumentary system layer
+VH_M_colic_surface_of_spleen,UBERON:0013754,integumentary system layer
+VH_M_diaphragmatic_surface_of_spleen,UBERON:0013754,integumentary system layer
+VH_M_gastric_surface_of_spleen,UBERON:0013754,integumentary system layer
+VH_M_hilum_of_spleen,UBERON:0013754,integumentary system layer
+VH_M_renal_surface_of_spleen,UBERON:0013754,integumentary system layer
