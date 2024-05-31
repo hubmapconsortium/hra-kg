@@ -1,25 +1,25 @@
 title: >-
- OMAP-19: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Palatine Tonsil with IBEX
+  OMAP-19: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Palatine Tonsil with IBEX
 description: >-
-OMAP-19 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of human FFPE tonsil samples sectioned onto glass slides (https://doi.org/10.1038/s41596-021-00644-9). The panel consists of 6 cycles of 20 primary antibodies, 5 secondary antibodies, and the nuclear label Hoechst for image alignment and nuclear segmentation. This OMAP provides a spatial context for 10 anatomical structures and at least 16 cell types present in the ASCT+B tonsil table. OMAP-19 was designed to examine myeloid subsets (CD11b, CD11c, CD14, CD15, HLA-DR) and angiogenesis (VEGF-A and VEGF-C) in human ovarian cancer biopsies. The human tonsil was used as a positive control for antibody validation and panel development. OMAP-19 has 11 markers in common with the tonsil MICS panel (OMAP-10, https://doi.org/10.48539/HBM663.JJMJ.628); however, there is no overlap between the antibodies used across the tonsil OMAPs. This panel does not allow for visualization of the mantle zone, naive B cells, plasma cells, or cycling B cells enriched in the dark zone of the germinal center. Prior to immunolabeling, antigen retrieval was performed using a pressure cooker (Borg Decloaker BD1000, 110°C for 15 minutes) and a tris-based buffer (pH 9.5). Several custom antibodies were created using commercial labeling kits as indicated in the associated RRID entries for these antibodies (AB_3095771, RRID:AB_3095773, and RRID:AB_3095774). More details on the antigen retrieval protocol and step-by-step application of antibodies can be found on the IBEX Imaging Community site. A representative dataset and associated channel metadata has been uploaded to Zenodo (https://zenodo.org/records/11222093).
+  OMAP-19 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of human FFPE tonsil samples sectioned onto glass slides (https://doi.org/10.1038/s41596-021-00644-9). The panel consists of 6 cycles of 20 primary antibodies, 5 secondary antibodies, and the nuclear label Hoechst for image alignment and nuclear segmentation. This OMAP provides a spatial context for 10 anatomical structures and at least 16 cell types present in the ASCT+B tonsil table. OMAP-19 was designed to examine myeloid subsets (CD11b, CD11c, CD14, CD15, HLA-DR) and angiogenesis (VEGF-A and VEGF-C) in human ovarian cancer biopsies. The human tonsil was used as a positive control for antibody validation and panel development. OMAP-19 has 11 markers in common with the tonsil MICS panel (OMAP-10, https://doi.org/10.48539/HBM663.JJMJ.628); however, there is no overlap between the antibodies used across the tonsil OMAPs. This panel does not allow for visualization of the mantle zone, naive B cells, plasma cells, or cycling B cells enriched in the dark zone of the germinal center. Prior to immunolabeling, antigen retrieval was performed using a pressure cooker (Borg Decloaker BD1000, 110°C for 15 minutes) and a tris-based buffer (pH 9.5). Several custom antibodies were created using commercial labeling kits as indicated in the associated RRID entries for these antibodies (AB_3095771, RRID:AB_3095773, and RRID:AB_3095774). More details on the antigen retrieval protocol and step-by-step application of antibodies can be found on the IBEX Imaging Community site. A representative dataset and associated channel metadata has been uploaded to Zenodo (https://zenodo.org/records/11222093).
 creators:
- - fullName: Kartika Padhan
+  - fullName: Kartika Padhan
     firstName: Kartika
     lastName: Padhan
     orcid: 0000-0001-9561-4256
- - fullName: Andrea Radtke
+  - fullName: Andrea Radtke
     firstName: Andrea
     lastName: Radtke
     orcid: 0000-0003-4379-8967
-- fullName: Elena Giudice
+  - fullName: Elena Giudice
     firstName: Elena
     lastName: Giudice
     orcid: 0000-0002-8763-6815
-- fullName: Ronald N. Germain
+  - fullName: Ronald N. Germain
     firstName: Ronald N.
     lastName: Germain
     orcid: 0000-0003-1495-9143
-- fullName:Jung-Min Lee
+  - fullName: Jung-Min Lee
     firstName: Jung-Min
     lastName: Lee
     orcid: 0000-0003-1280-5909
@@ -60,7 +60,7 @@ funders:
     awardNumber: UH3 CA246635
   - funder: National Cancer Institute
     awardNumber: UH3 CA246594-01
-- funder: National Institutes of Health
+  - funder: National Institutes of Health
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671

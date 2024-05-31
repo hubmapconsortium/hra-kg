@@ -38,7 +38,7 @@ digital-objects:
   - asct-b/lung/v1.5
   - asct-b/lymph-node/v1.4
   - asct-b/lymph-vasculature/v1.5
-  # - asct-b/lymph-vasculature-organ-crosswalk/v1.0
+  - asct-b/lymph-vasculature-organ-crosswalk/v1.0
   - asct-b/main-bronchus/v1.2
   - asct-b/muscular-system/v1.2
   - asct-b/ovary/v1.3
@@ -61,6 +61,9 @@ digital-objects:
   - asct-b/uterus/v1.1
   - asct-b/blood-vasculature-organ-crosswalk/v1.2
   - asct-b/musculoskeletal-crosswalk/v1.0
+  - ctann/azimuth/v1.0
+  - ctann/celltypist/v1.0
+  - ctann/popv/v1.0
   - omap/1-human-lymph-node-ibex/v1.4
   - omap/10-palatine-tonsil-mics/v1.1
   - omap/11-spleen-ibex/v1.1
@@ -70,6 +73,10 @@ digital-objects:
   - omap/15-intestine-codex/v1.0
   - omap/16-lung-codex/v1.0
   - omap/17-thymus-ibex/v1.0
+  - omap/18-lymph-node-cell-dive-ibex/v1.0
+  - omap/19-palatine-tonsil-ibex/v1.0
+  - omap/20-kidney-ims-cycif/v1.0
+  - omap/21-palatine-tonsil-mics/v1.0
   - omap/2-intestine-codex/v1.4
   - omap/3-kidney-codex/v1.3
   - omap/4-skin-cell-dive/v1.3
