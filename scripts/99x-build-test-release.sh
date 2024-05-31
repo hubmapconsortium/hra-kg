@@ -1,19 +1,23 @@
 #!/bin/bash
 source ../hra-do-processor/.venv/bin/activate
-# set -ev
+set -ev
 
 export VERSION=v2.1
 export DEPLOY_HOME=/home/bherr/workspaces/hubmap/hra-kg/dist-${VERSION}
-export COLL=collection/hra/$VERSION
-export API_COLL=collection/hra-api/$VERSION
 export EXTRA_DOs="graph/ccf/v2.3.0 collection/ds-graphs/v2023 graph/ds-graphs-enrichments/v2023"
+export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION"
 
 rm -rf $DEPLOY_HOME
 mkdir -p $DEPLOY_HOME
 echo "*" > $DEPLOY_HOME/.gitignore
 
-yq -r '.["digital-objects"][]' digital-objects/$COLL/raw/digital-objects.yaml > $DEPLOY_HOME/.digital-objects
-yq -r '.["digital-objects"][]' digital-objects/$API_COLL/raw/digital-objects.yaml >> $DEPLOY_HOME/.digital-objects
+touch $DEPLOY_HOME/.digital-objects
+for DO in $EXTRA_DOs; do
+  echo $DO >> $DEPLOY_HOME/.digital-objects
+done
+for DO in $COLLECTIONS; do
+  yq -r '.["digital-objects"][]' digital-objects/$DO/raw/digital-objects.yaml >> $DEPLOY_HOME/.digital-objects
+done
 export DOs=$(sort $DEPLOY_HOME/.digital-objects | uniq)
 rm -f $DEPLOY_HOME/.digital-objects
 
@@ -41,7 +45,7 @@ for d in $DOs $EXTRA_DOs; do
   echo
 done
 
-for d in $API_COLL $COLL; do
+for d in $COLLECTIONS; do
   echo
   echo "---- START COLLECTION ${d} ----"
   do-processor normalize $d
