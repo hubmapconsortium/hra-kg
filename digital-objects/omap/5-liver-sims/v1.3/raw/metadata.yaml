@@ -82,11 +82,11 @@ funders:
 - funder: >-
     National Institute of Allergy and Infectious Disease (NIAID)and National
     Cancer Institute (NCI)
-    awardNumber: UH3 CA246635
-  - funder: National Institutes of Health
-    awardNumber: OT2OD026671
-  - funder: National Institutes of Health
-    awardNumber: OT2OD033756
+  awardNumber: UH3 CA246635
+- funder: National Institutes of Health
+  awardNumber: OT2OD026671
+- funder: National Institutes of Health
+  awardNumber: OT2OD033756
   
 hubmapId: HBM995.KTHD.545
 doi: https://doi.org/10.48539/HBM995.KTHD.545
@@ -94,7 +94,7 @@ citation: >-
   Hua Tian, Presha Rajbhandari. OMAP-5 Organ Mapping Antibody Panel (OMAP)  for
   Multiplexed Antibody-Based Imaging of Human Liver with SIMS, v1.3, https://doi.org/10.48539/HBM995.KTHD.545. Accessed June 15, 2024.
 citationOverall: >-
- Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
   Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
   Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
   F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
