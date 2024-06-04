@@ -1,6 +1,6 @@
 node_name,OntologyID,label
-VH_F_fallopian_tube_L,UBERON:0013754,integumentary system layer
-VH_F_uterine_tube_infundibulum_L,UBERON:0013754,integumentary system layer
-VH_F_fibria_of_uterine_tube_L,UBERON:0013754,integumentary system layer
-VH_F_isthmus_of_fallopian_tube_L,UBERON:0013754,integumentary system layer
-VH_F_ampulla_of_uterine_tube_L,UBERON:0013754,integumentary system layer
+VH_F_fallopian_tube_L,UBERON:0001303,left uterine tube
+VH_F_uterine_tube_infundibulum_L,FMA:18490,Infundibulum of left uterine tube
+VH_F_fibria_of_uterine_tube_L,FMA:18498,Fimbria of left uterine tube
+VH_F_isthmus_of_fallopian_tube_L,FMA:18494,Isthmus of left uterine tube
+VH_F_ampulla_of_uterine_tube_L,FMA:18492,Ampulla of left uterine tube

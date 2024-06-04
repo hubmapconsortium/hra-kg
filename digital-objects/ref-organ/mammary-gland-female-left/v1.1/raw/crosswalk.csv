@@ -1,13 +1,11 @@
 node_name,OntologyID,label
-VH_F,UBERON:0013754,integumentary system layer
 VH_F_integumentary_system,UBERON:0013754,integumentary system layer
-VH_F_mammary_gland,UBERON:0013754,integumentary system layer
-VH_F_mammary_gland_L,UBERON:0013754,integumentary system layer
-VH_F_fat_L,UBERON:0013754,integumentary system layer
-VH_F_areolar_tubercles_L,UBERON:0013754,integumentary system layer
-VH_F_nipple_L,UBERON:0013754,integumentary system layer
-VH_F_areola_L,UBERON:0013754,integumentary system layer
-VH_F_mammary_lobes_L,UBERON:0013754,integumentary system layer
-VH_F_main_lactiferous_ducts_L,UBERON:0013754,integumentary system layer
-VH_F_main_lactiferous_sinuses_L,UBERON:0013754,integumentary system layer
-VH_F_suspensory_ligaments_L,UBERON:0013754,integumentary system layer
+VH_F_mammary_gland_L,FMA:57991,Left mammary gland
+VH_F_fat_L,FMA:73166,Interlobar adipose tissue of left mammary gland
+VH_F_areolar_tubercles_L,UBERON:0011828,areolar tubercle
+VH_F_nipple_L,UBERON:0013772,left nipple
+VH_F_areola_L,FMA:223679,Left female areola
+VH_F_mammary_lobes_L,UBERON:0018140,mammary lobe
+VH_F_main_lactiferous_ducts_L,UBERON:0015134,main lactiferous duct
+VH_F_main_lactiferous_sinuses_L,FMA:58088,Lactiferous sinus
+VH_F_suspensory_ligaments_L,FMA:73119,Suspensory ligament of left breast

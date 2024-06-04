@@ -1,19 +1,18 @@
 node_name,OntologyID,label
-VH_M_heart,UBERON:0013754,integumentary system layer
-VH_M_heart_valve,UBERON:0013754,integumentary system layer
-VH_M_mitral_valve,UBERON:0013754,integumentary system layer
-VH_M_tricuspid_valve,UBERON:0013754,integumentary system layer
-VH_M_aortic_valve,UBERON:0013754,integumentary system layer
-VH_M_pulmonary_valve,UBERON:0013754,integumentary system layer
-VH_M_papillary_muscle_of_heart,UBERON:0013754,integumentary system layer
-VH_M_papillary_muscle_of_heart_anterior,UBERON:0013754,integumentary system layer
-VH_M_papillary_muscle_of_heart_anterolateral,UBERON:0013754,integumentary system layer
-VH_M_papillary_muscle_of_heart_medial,UBERON:0013754,integumentary system layer
-VH_M_papillary_muscle_of_heart_posterior,UBERON:0013754,integumentary system layer
-VH_M_papillary_muscle_of_heart_posteromedial,UBERON:0013754,integumentary system layer
-VH_M_cardiac_chamber,UBERON:0013754,integumentary system layer
-VH_M_left_cardiac_atrium,UBERON:0013754,integumentary system layer
-VH_M_right_cardiac_atrium,UBERON:0013754,integumentary system layer
-VH_M_heart_right_ventricle,UBERON:0013754,integumentary system layer
-VH_M_interventricular_septum,UBERON:0013754,integumentary system layer
-VH_M_heart_left_ventricle,UBERON:0013754,integumentary system layer
+VH_M_heart,UBERON:0000948,heart
+VH_M_heart_valve,UBERON:0003978,valve
+VH_M_mitral_valve,UBERON:0002135,mitral valve
+VH_M_tricuspid_valve,UBERON:0002134,tricuspid valve
+VH_M_aortic_valve,UBERON:0002137,aortic valve
+VH_M_pulmonary_valve,UBERON:0002146,pulmonary valve
+VH_M_papillary_muscle_of_heart,UBERON:0002494,papillary muscle of heart
+VH_M_papillary_muscle_of_heart_anterior,FMA:7264,Anterior papillary muscle of left ventricle
+VH_M_papillary_muscle_of_heart_anterolateral,FMA:7265,Anterolateral head of lateral papillary muscle of left ventricle
+VH_M_papillary_muscle_of_heart_medial,FMA:7262,Septal papillary muscle of right ventricle
+VH_M_papillary_muscle_of_heart_posterior,FMA:7261,Posterior papillary muscle of right ventricle
+VH_M_papillary_muscle_of_heart_posteromedial,FMA:7267,Posteromedial head of posterior papillary muscle of left ventricle
+VH_M_left_cardiac_atrium,UBERON:0002079,left cardiac atrium
+VH_M_right_cardiac_atrium,UBERON:0002078,right cardiac atrium
+VH_M_heart_right_ventricle,UBERON:0002080,heart right ventricle
+VH_M_interventricular_septum,UBERON:0002094,interventricular septum
+VH_M_heart_left_ventricle,UBERON:0002084,heart left ventricle

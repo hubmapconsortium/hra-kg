@@ -1,12 +1,12 @@
 node_name,OntologyID,label
-VH_M_colon,UBERON:0013754,integumentary system layer
-VH_M_ascending_colon,UBERON:0013754,integumentary system layer
-VH_M_descending_colon,UBERON:0013754,integumentary system layer
-VH_M_hepatic_flexure_of_colon,UBERON:0013754,integumentary system layer
-VH_M_rectum,UBERON:0013754,integumentary system layer
-VH_M_sigmoid_colon,UBERON:0013754,integumentary system layer
-VH_M_splenic_flexure_of_colon,UBERON:0013754,integumentary system layer
-VH_M_transverse_colon,UBERON:0013754,integumentary system layer
-VH_M_ileocecal_valve,UBERON:0013754,integumentary system layer
-VH_M_caecum,UBERON:0013754,integumentary system layer
-VH_M_vermiform_appendix,UBERON:0013754,integumentary system layer
+VH_M_colon,UBERON:0000059,large intestine
+VH_M_ascending_colon,UBERON:0001156,ascending colon
+VH_M_descending_colon,UBERON:0001158,descending colon
+VH_M_hepatic_flexure_of_colon,UBERON:0022277,hepatic flexure of colon
+VH_M_rectum,UBERON:0001052,rectum
+VH_M_sigmoid_colon,UBERON:0001159,sigmoid colon
+VH_M_splenic_flexure_of_colon,UBERON:0022276,splenic flexure of colon
+VH_M_transverse_colon,UBERON:0001157,transverse colon
+VH_M_ileocecal_valve,UBERON:0000569,ileocecal valve
+VH_M_caecum,UBERON:0001153,caecum
+VH_M_vermiform_appendix,UBERON:0001154,vermiform appendix

@@ -1,34 +1,24 @@
 node_name,OntologyID,label
-VH_M_liver,UBERON:0013754,integumentary system layer
-VH_M_bare_area_of_liver,UBERON:0013754,integumentary system layer
-VH_M_liver_capsule,UBERON:0013754,integumentary system layer
-VH_M_diaphragmatic_surface,UBERON:0013754,integumentary system layer
-VH_M_suprarenal_impression_of_liver,UBERON:0013754,integumentary system layer
-VH_M_renal_impression_of_liver,UBERON:0013754,integumentary system layer
-VH_M_gastric_impression_of_liver,UBERON:0013754,integumentary system layer
-VH_M_colic_impression_of_liver,UBERON:0013754,integumentary system layer
-VH_M_esophageal_impression_of_liver,UBERON:0013754,integumentary system layer
-VH_M_duodenal_impression_of_liver,UBERON:0013754,integumentary system layer
-VH_M_porta_hepatis,UBERON:0013754,integumentary system layer
-VH_M_couinaud_liver_segment,UBERON:0013754,integumentary system layer
-VH_M_caudate_lobe_of_liver,UBERON:0013754,integumentary system layer
-VH_M_right_lobe_of_liver,UBERON:0013754,integumentary system layer
-VH_M_right_posteroinferior_segment,UBERON:0013754,integumentary system layer
-VH_M_right_posterosuperior_segment,UBERON:0013754,integumentary system layer
-VH_M_right_anterosuperior_segment,UBERON:0013754,integumentary system layer
-VH_M_right_anteroinferior_segment,UBERON:0013754,integumentary system layer
-VH_M_left_lobe_of_liver,UBERON:0013754,integumentary system layer
-VH_M_left_lateral_lobe,UBERON:0013754,integumentary system layer
-VH_M_left_anterolateral_segment,UBERON:0013754,integumentary system layer
-VH_M_left_posterolateral_segment,UBERON:0013754,integumentary system layer
-VH_M_left_medial_lobe,UBERON:0013754,integumentary system layer
-VH_M_left_superiomedial_segment,UBERON:0013754,integumentary system layer
-VH_M_left_inferomedial_segment,UBERON:0013754,integumentary system layer
-VH_M_quadrate_lobe_of_liver,UBERON:0013754,integumentary system layer
-VH_M_ligament_of_liver,UBERON:0013754,integumentary system layer
-VH_M_hepataduodenal_ligament,UBERON:0013754,integumentary system layer
-VH_M_ligamentum_venosum,UBERON:0013754,integumentary system layer
-VH_M_round_ligament_of_liver,UBERON:0013754,integumentary system layer
-VH_M_triangular_ligament_of_liver,UBERON:0013754,integumentary system layer
-VH_M_falciform_ligament,UBERON:0013754,integumentary system layer
-VH_M_coronary_ligament_of_liver,UBERON:0013754,integumentary system layer
+VH_M_liver,UBERON:0002107,liver
+VH_M_bare_area_of_liver,UBERON:0001149,bare area of liver
+VH_M_liver_capsule,UBERON:0016479,capsule of the liver
+VH_M_diaphragmatic_surface,FMA:15729,diaphragmatic surface of liver
+VH_M_suprarenal_impression_of_liver,FMA:14489,Suprarenal impression of liver
+VH_M_renal_impression_of_liver,FMA:14488,renal impression of liver
+VH_M_gastric_impression_of_liver,FMA:14487,gastric impression of liver
+VH_M_colic_impression_of_liver,FMA:14484,colic impression of liver
+VH_M_esophageal_impression_of_liver,FMA:14486,esophageal impression of liver
+VH_M_duodenal_impression_of_liver,FMA:14485,duodenal impression of liver
+VH_M_porta_hepatis,FMA:15758,porta hepatis
+VH_M_caudate_lobe_of_liver,UBERON:0001117,caudate lobe of liver
+VH_M_right_lobe_of_liver,UBERON:0001114,right lobe of liver
+VH_M_left_lobe_of_liver,UBERON:0001115,left lobe of liver
+VH_M_left_lateral_lobe,UBERON:0006727,liver left lateral lobe
+VH_M_left_medial_lobe,UBERON:0006728,liver left medial lobe
+VH_M_quadrate_lobe_of_liver,UBERON:0001116,quadrate lobe of liver
+VH_M_hepataduodenal_ligament,UBERON:0012472,hepatoduodenal ligament
+VH_M_ligamentum_venosum,UBERON:0006587,ligamentum venosum
+VH_M_round_ligament_of_liver,UBERON:0006588,round ligament of liver
+VH_M_triangular_ligament_of_liver,UBERON:0035444,triangular ligament of liver
+VH_M_falciform_ligament,UBERON:0001247,falciform ligament
+VH_M_coronary_ligament_of_liver,UBERON:0013138,coronary ligament of liver

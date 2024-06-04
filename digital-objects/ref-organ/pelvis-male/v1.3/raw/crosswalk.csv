@@ -1,25 +1,25 @@
 node_name,OntologyID,label
-VH_M_pelvis,UBERON:0013754,integumentary system layer
-VH_M_sacrum,UBERON:0013754,integumentary system layer
-VH_M_coccyx,UBERON:0013754,integumentary system layer
-VH_M_pubis,UBERON:0013754,integumentary system layer
-VH_M_pubis_compact_bone,UBERON:0013754,integumentary system layer
-VH_M_pubis_compact_bone_L,UBERON:0013754,integumentary system layer
-VH_M_pubis_compact_bone_R,UBERON:0013754,integumentary system layer
-VH_M_pubis_spongy_bone,UBERON:0013754,integumentary system layer
-VH_M_pubis_spongy_bone_L,UBERON:0013754,integumentary system layer
-VH_M_pubis_spongy_bone_R,UBERON:0013754,integumentary system layer
-VH_M_ilium,UBERON:0013754,integumentary system layer
-VH_M_ilium_compact_bone,UBERON:0013754,integumentary system layer
-VH_M_ilium_compact_bone_L,UBERON:0013754,integumentary system layer
-VH_M_ilium_compact_bone_R,UBERON:0013754,integumentary system layer
-VH_M_ilium_spongy_bone,UBERON:0013754,integumentary system layer
-VH_M_ilium_spongy_bone_R,UBERON:0013754,integumentary system layer
-VH_M_ilium_spongy_bone_L,UBERON:0013754,integumentary system layer
-VH_M_ischium,UBERON:0013754,integumentary system layer
-VH_M_ischium_compact_bone,UBERON:0013754,integumentary system layer
-VH_M_ischium_compact_bone_L,UBERON:0013754,integumentary system layer
-VH_M_ischium_compact_bone_R,UBERON:0013754,integumentary system layer
-VH_M_ischium_spongy_bone,UBERON:0013754,integumentary system layer
-VH_M_ischium_spongy_bone_L,UBERON:0013754,integumentary system layer
-VH_M_ischium_spongy_bone_R,UBERON:0013754,integumentary system layer
+VH_M_pelvis,UBERON:0001270,bony pelvis
+VH_M_sacrum,UBERON:0003690,fused sacrum
+VH_M_coccyx,UBERON:0001350,coccyx
+VH_M_pubis,UBERON:0001275,pubis
+VH_M_pubis_compact_bone,UBERON:0001439,compact bone tissue
+VH_M_pubis_compact_bone_L,UBERON:0001439,compact bone tissue
+VH_M_pubis_compact_bone_R,UBERON:0001439,compact bone tissue
+VH_M_pubis_spongy_bone,UBERON:0002483,trabecular bone tissue
+VH_M_pubis_spongy_bone_L,UBERON:0002483,trabecular bone tissue
+VH_M_pubis_spongy_bone_R,UBERON:0002483,trabecular bone tissue
+VH_M_ilium,UBERON:0001273,ilium
+VH_M_ilium_compact_bone,UBERON:0001439,compact bone tissue
+VH_M_ilium_compact_bone_L,UBERON:0001439,compact bone tissue
+VH_M_ilium_compact_bone_R,UBERON:0001439,compact bone tissue
+VH_M_ilium_spongy_bone,UBERON:0002483,trabecular bone tissue
+VH_M_ilium_spongy_bone_R,UBERON:0002483,trabecular bone tissue
+VH_M_ilium_spongy_bone_L,UBERON:0002483,trabecular bone tissue
+VH_M_ischium,UBERON:0001274,ischium
+VH_M_ischium_compact_bone,UBERON:0001439,compact bone tissue
+VH_M_ischium_compact_bone_L,UBERON:0001439,compact bone tissue
+VH_M_ischium_compact_bone_R,UBERON:0001439,compact bone tissue
+VH_M_ischium_spongy_bone,UBERON:0002483,trabecular bone tissue
+VH_M_ischium_spongy_bone_L,UBERON:0002483,trabecular bone tissue
+VH_M_ischium_spongy_bone_R,UBERON:0002483,trabecular bone tissue
