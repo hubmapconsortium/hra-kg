@@ -4,8 +4,8 @@ set -ev
 
 export VERSION=v2.1
 export DEPLOY_HOME=/home/bherr/workspaces/hubmap/hra-kg/dist-${VERSION}
-export EXTRA_DOs="graph/ccf/v2.3.0 collection/ds-graphs/v2023 graph/ds-graphs-enrichments/v2023"
-export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION"
+export EXTRA_DOs="graph/ccf/v2.3.0 graph/ds-graphs-enrichments/v2023"
+export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION collection/ds-graphs/v2023"
 
 rm -rf $DEPLOY_HOME
 mkdir -p $DEPLOY_HOME
@@ -61,4 +61,12 @@ do-processor finalize
 blazegraph-runner select --journal=$DEPLOY_HOME/blazegraph.jnl ./src/blazegraph.stats.rq $DEPLOY_HOME/blazegraph.stats.tsv
 blazegraph-runner select --journal=$DEPLOY_HOME/blazegraph.jnl ./src/high-level-stats.rq $DEPLOY_HOME/blazegraph.high-level-stats.tsv
 echo "---- END FINALIZING ----"
+echo
+
+echo
+echo "---- START Syncing built files to S3 ----"
+for d in $DOs $EXTRA_DOs $COLLECTIONS; do
+  aws s3 sync $DEPLOY_HOME/$d/ s3://cdn-humanatlas-io/digital-objects/$d/
+done
+echo "---- END Syncing built files to S3 ----"
 echo
