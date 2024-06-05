@@ -1,7 +1,7 @@
 node_name,OntologyID,label
-VH_F_pancreas,UBERON:0013754,integumentary system layer
-VH_F_tail_of_pancreas,UBERON:0013754,integumentary system layer
-VH_F_body_of_pancreas,UBERON:0013754,integumentary system layer
-VH_F_ucinate_process1,UBERON:0013754,integumentary system layer
-VH_F_head_of_pancreas,UBERON:0013754,integumentary system layer
-VH_F_neck_of_pancreas,UBERON:0013754,integumentary system layer
+VH_F_pancreas,UBERON:0001264,Pancreas
+VH_F_tail_of_pancreas,UBERON:0001151,tail of pancreas
+VH_F_body_of_pancreas,UBERON:0001150,body of pancreas
+VH_F_ucinate_process1,UBERON:0010373,uncinate process of pancreas
+VH_F_head_of_pancreas,UBERON:0001069,head of pancreas
+VH_F_neck_of_pancreas,FMA:14517,Neck of pancreas

@@ -1,77 +1,72 @@
 node_name,OntologyID,label
-VH_M_lungs,UBERON:0013754,integumentary system layer
-VH_M_lungs_L,UBERON:0013754,integumentary system layer
-VH_M_hilum_L,UBERON:0013754,integumentary system layer
-VH_M_lungs_L_upper_lobe,UBERON:0013754,integumentary system layer
-VH_M_hilum_upper_L,UBERON:0013754,integumentary system layer
-VH_M_left_lingula_superior_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_left_posterior_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_left_anterior_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_left_apical_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_left_lingula_inferior_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_lungs_L_lower_lobe,UBERON:0013754,integumentary system layer
-VH_M_hilum_lower_L,UBERON:0013754,integumentary system layer
-VH_M_left_anterior_basal_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_left_lateral_basal_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_left_medial_basal_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_left_posetrior_basal_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_left_superior_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_lungs_R,UBERON:0013754,integumentary system layer
-VH_M_hilum_R,UBERON:0013754,integumentary system layer
-VH_M_lungs_R_middle_lobe,UBERON:0013754,integumentary system layer
-VH_M_right_lateral_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_right_medial_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_hilum_middle_R,UBERON:0013754,integumentary system layer
-VH_M_lungs_R_lower_lobe,UBERON:0013754,integumentary system layer
-VH_M_hilum_lower_R,UBERON:0013754,integumentary system layer
-VH_M_right_anterior_basal_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_right_lateral_basal_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_right_medial_basal_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_right_posterior_basal_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_right_superior_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_lungs_R_upper_lobe,UBERON:0013754,integumentary system layer
-VH_M_right_apical_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_right_posterior_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_right_anterior_bronchopulmonary_segment,UBERON:0013754,integumentary system layer
-VH_M_hilum_upper_R,UBERON:0013754,integumentary system layer
-VH_M_bronchi,UBERON:0013754,integumentary system layer
-VH_M_bronchi_L,UBERON:0013754,integumentary system layer
-VH_M_left_bronchial_cartilage,UBERON:0013754,integumentary system layer
-VH_M_cartilage_of_the_lobar_bronchus_L,UBERON:0013754,integumentary system layer
-VH_M_cartilage_of_the_tertiary_bronchus_L,UBERON:0013754,integumentary system layer
-VH_M_lobar_bronchus_L,UBERON:0013754,integumentary system layer
-VH_M_left_superior_lobar_bronchus,UBERON:0013754,integumentary system layer
-VH_M_left_inferior_lobar_bronchus,UBERON:0013754,integumentary system layer
-VH_M_tertiary_bronchi_L,UBERON:0013754,integumentary system layer
-VH_M_left_superior_bronchus,UBERON:0013754,integumentary system layer
-VH_M_left_posterior_basal_bronchus,UBERON:0013754,integumentary system layer
-VH_M_left_medial_basal_bronchus,UBERON:0013754,integumentary system layer
-VH_M_left_apical_bronchus,UBERON:0013754,integumentary system layer
-VH_M_left_anterior_bronchus,UBERON:0013754,integumentary system layer
-VH_M_left_lingular_bronchus,UBERON:0013754,integumentary system layer
-VH_M_left_lingula_superior_bronchus,UBERON:0013754,integumentary system layer
-VH_M_left_lingula_inferior_bronchus,UBERON:0013754,integumentary system layer
-VH_M_left_lateral_basal_bronchus,UBERON:0013754,integumentary system layer
-VH_M_left_anterior_basal_bronchus,UBERON:0013754,integumentary system layer
-VH_M_bronchi_R,UBERON:0013754,integumentary system layer
-VH_M_right_bronchial_cartilage,UBERON:0013754,integumentary system layer
-VH_M_cartilage_of_the_lobar_bronchus_R,UBERON:0013754,integumentary system layer
-VH_M_cartilage_of_the_tertiary_bronchus_R,UBERON:0013754,integumentary system layer
-VH_M_lobar_bronchi_R,UBERON:0013754,integumentary system layer
-VH_M_right_intermediate_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_middle_lobar_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_superior_lobar_bronchus,UBERON:0013754,integumentary system layer
-VH_M_tertiary_bronchi_R,UBERON:0013754,integumentary system layer
-VH_M_right_anterior_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_lateral_basal_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_lateral_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_lower_lobar_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_medial_basal_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_medial_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_posterior_basal,UBERON:0013754,integumentary system layer
-VH_M_right_posterior_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_superior_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_apical_bronchus,UBERON:0013754,integumentary system layer
-VH_M_right_anterior_basal_bronchus,UBERON:0013754,integumentary system layer
-VH_M_bronchus,UBERON:0013754,integumentary system layer
-VH_M_hyoid,UBERON:0013754,integumentary system layer
+VH_M_lungs,UBERON:0002048,lung
+VH_M_lungs_L,UBERON:0002168,left lung
+VH_M_hilum_L,UBERON:0004887,left lung hilus
+VH_M_lungs_L_upper_lobe,UBERON:0008952,Upper Lobe of Left Lung
+VH_M_hilum_upper_L,UBERON:0004887,left lung hilus
+VH_M_left_lingula_superior_bronchopulmonary_segment,FMA:7374,Superior lingular bronchopulmonary segment
+VH_M_left_posterior_bronchopulmonary_segment,FMA:7386,Left posterior bronchopulmonary segment
+VH_M_left_anterior_bronchopulmonary_segment,FMA:7373,Left Anterior Bronchopulmonary Segment
+VH_M_left_apical_bronchopulmonary_segment,FMA:7385,Left apical bronchopulmonary segment
+VH_M_left_lingula_inferior_bronchopulmonary_segment,FMA:7375,Inferior lingular bronchopulmonary segment
+VH_M_lungs_L_lower_lobe,UBERON:0008953,Lower Lobe of Left Lung
+VH_M_hilum_lower_L,UBERON:0004887,left lung hilus
+VH_M_left_anterior_basal_bronchopulmonary_segment,FMA:7378,left anterior basal bronchopulmonary segment
+VH_M_left_lateral_basal_bronchopulmonary_segment,FMA:7379,left Lateral Basal Bronchopulmonary Segment
+VH_M_left_medial_basal_bronchopulmonary_segment,FMA:7377,Left Medial Basal Bronchopulmonary Segment
+VH_M_left_posetrior_basal_bronchopulmonary_segment,FMA:7508,Left posterior basal segmental bronchus
+VH_M_left_superior_bronchopulmonary_segment,FMA:7376,Left superior bronchopulmonary segment
+VH_M_lungs_R,UBERON:0002167,right lung
+VH_M_hilum_R,UBERON:0004888,right lung hilus
+VH_M_lungs_R_middle_lobe,UBERON:0002174,Middle Lobe of Right Lung
+VH_M_right_lateral_bronchopulmonary_segment,FMA:7361,Right Lateral Bronchopulmonary Segment
+VH_M_right_medial_bronchopulmonary_segment,FMA:7360,Right Medial Bronchopulmonary Segment
+VH_M_hilum_middle_R,UBERON:0004888,right lung hilus
+VH_M_lungs_R_lower_lobe,UBERON:0002171,Lower Lobe of Right Lung
+VH_M_hilum_lower_R,UBERON:0004888,right lung hilus
+VH_M_right_anterior_basal_bronchopulmonary_segment,FMA:7364,Right anterior basal bronchopulmonary segment
+VH_M_right_lateral_basal_bronchopulmonary_segment,FMA:7363,Right Lateral Basal Bronchopulmonary Segment
+VH_M_right_medial_basal_bronchopulmonary_segment,FMA:7365,Right Medial Basal Bronchopulmonary Segment
+VH_M_right_posterior_basal_bronchopulmonary_segment,FMA:7362,Right Posterior Basal Bronchopulmonary Segment
+VH_M_right_superior_bronchopulmonary_segment,FMA:7366,Right Superior Bronchopulmonary Segment
+VH_M_lungs_R_upper_lobe,UBERON:0002170,Upper Lobe of Right Lung
+VH_M_right_apical_bronchopulmonary_segment,FMA:7338,Right Apical Bronchopulmonary Segment
+VH_M_right_posterior_bronchopulmonary_segment,FMA:7339,Right Posterior Bronchopulmonary Segment
+VH_M_right_anterior_bronchopulmonary_segment,FMA:7359,Right Anterior Bronchopulmonary Segment
+VH_M_hilum_upper_R,UBERON:0004888,right lung hilus
+VH_M_bronchi,UBERON:0002185,bronchus
+VH_M_cartilage_of_the_lobar_bronchus_L,FMA:62659,Cartilage of lobar bronchus
+VH_M_cartilage_of_the_tertiary_bronchus_L,FMA:62662,Cartilage of segmental bronchus
+VH_M_lobar_bronchus_L,UBERON:0003405,lobar bronchus of left lung
+VH_M_left_superior_lobar_bronchus,UBERON:0012065,lobar bronchus of left lung upper lobe
+VH_M_left_inferior_lobar_bronchus,UBERON:0012066,lobar bronchus of left lung lower lobe
+VH_M_tertiary_bronchi_L,UBERON:0002184,Segmental bronchus
+VH_M_left_superior_bronchus,FMA:7504,Left superior segmental bronchus
+VH_M_left_posterior_basal_bronchus,FMA:7508,Left posterior basal segmental bronchus
+VH_M_left_medial_basal_bronchus,FMA:7505,Left medial basal segmental bronchus
+VH_M_left_apical_bronchus,FMA:7426,Left apical segmental bronchus
+VH_M_left_anterior_bronchus,FMA:7428,Left anterior segmental bronchus
+VH_M_left_lingula_superior_bronchus,FMA:7430,Superior lingular bronchus
+VH_M_left_lingula_inferior_bronchus,FMA:7431,Inferior lingular bronchus
+VH_M_left_lateral_basal_bronchus,FMA:7507,Left lateral basal segmental bronchus
+VH_M_left_anterior_basal_bronchus,FMA:7506,Left anterior basal segmental bronchus
+VH_M_cartilage_of_the_lobar_bronchus_R,FMA:62659,Cartilage of lobar bronchus
+VH_M_cartilage_of_the_tertiary_bronchus_R,FMA:62662,Cartilage of segmental bronchus
+VH_M_lobar_bronchi_R,UBERON:0003404,lobar bronchus of right lung
+VH_M_right_intermediate_bronchus,FMA:7415,Interlobar bronchus
+VH_M_right_middle_lobar_bronchus,FMA:7401,Middle lobar bronchus
+VH_M_right_superior_lobar_bronchus,FMA:7397,Right superior lobar bronchus
+VH_M_tertiary_bronchi_R,UBERON:0002184,Segmental bronchus
+VH_M_right_anterior_bronchus,FMA:7400,Right anterior segmental bronchus
+VH_M_right_lateral_basal_bronchus,FMA:7419,Right lateral basal segmental bronchus
+VH_M_right_lateral_bronchus,FMA:7402,Lateral segmental bronchus
+VH_M_right_lower_lobar_bronchus,FMA:7404,Right inferior lobar bronchus
+VH_M_right_medial_basal_bronchus,FMA:7417,Right medial basal segmental bronchus
+VH_M_right_medial_bronchus,FMA:7403,Medial segmental bronchus
+VH_M_right_posterior_basal,FMA:7420,Right posterior basal segmental bronchus
+VH_M_right_posterior_bronchus,FMA:7399,Right posterior segmental bronchus
+VH_M_right_superior_bronchus,FMA:7416,Right superior segmental bronchus
+VH_M_right_apical_bronchus,FMA:7416,Right superior segmental bronchus
+VH_M_right_anterior_basal_bronchus,FMA:7399,Right posterior segmental bronchus
+VH_M_bronchus,UBERON:0002185,bronchus
+VH_M_hyoid,UBERON:0001685,hyoid bone

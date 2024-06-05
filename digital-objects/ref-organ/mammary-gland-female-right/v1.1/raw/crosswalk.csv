@@ -1,10 +1,10 @@
 node_name,OntologyID,label
-VH_F_mammary_gland_R,UBERON:0013754,integumentary system layer
-VH_F_fat_R,UBERON:0013754,integumentary system layer
-VH_F_areolar_tubercles_R,UBERON:0013754,integumentary system layer
-VH_F_nipple_R,UBERON:0013754,integumentary system layer
-VH_F_areola_R,UBERON:0013754,integumentary system layer
-VH_F_main_lactiferous_sinuses_R,UBERON:0013754,integumentary system layer
-VH_F_main_lactiferous_ducts_R,UBERON:0013754,integumentary system layer
-VH_F_mammary_lobes_R,UBERON:0013754,integumentary system layer
-VH_F_suspensory_ligaments_R,UBERON:0013754,integumentary system layer
+VH_F_mammary_gland_R,FMA:57987,Right mammary gland
+VH_F_fat_R,FMA:73165,Interlobar adipose tissue of right mammary gland
+VH_F_areolar_tubercles_R,UBERON:0011828,areolar tubercle
+VH_F_nipple_R,UBERON:0013773,right nipple
+VH_F_areola_R,FMA:223677,Right female areola
+VH_F_main_lactiferous_sinuses_R,FMA:58088,Lactiferous sinus
+VH_F_main_lactiferous_ducts_R,UBERON:0015134,main lactiferous duct
+VH_F_mammary_lobes_R,UBERON:0018140,mammary lobe
+VH_F_suspensory_ligaments_R,FMA:73118,Suspensory ligament of right breast

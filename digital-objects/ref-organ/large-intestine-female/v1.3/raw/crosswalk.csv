@@ -1,12 +1,12 @@
 node_name,OntologyID,label
-VH_F_colon,UBERON:0013754,integumentary system layer
-VH_F_hepatic_flexure_of_colon,UBERON:0013754,integumentary system layer
-VH_F_transverse_colon,UBERON:0013754,integumentary system layer
-VH_F_ascending_colon,UBERON:0013754,integumentary system layer
-VH_F_vermiform_appendix,UBERON:0013754,integumentary system layer
-VH_F_descending_colon,UBERON:0013754,integumentary system layer
-VH_F_ileocecal_valve,UBERON:0013754,integumentary system layer
-VH_F_caecum,UBERON:0013754,integumentary system layer
-VH_F_rectum,UBERON:0013754,integumentary system layer
-VH_F_sigmoid_colon,UBERON:0013754,integumentary system layer
-VH_F_splenic_flexure_of_colon,UBERON:0013754,integumentary system layer
+VH_F_colon,UBERON:0000059,large intestine
+VH_F_hepatic_flexure_of_colon,UBERON:0022277,hepatic flexure of colon
+VH_F_transverse_colon,UBERON:0001157,transverse colon
+VH_F_ascending_colon,UBERON:0001156,ascending colon
+VH_F_vermiform_appendix,UBERON:0001154,vermiform appendix
+VH_F_descending_colon,UBERON:0001158,descending colon
+VH_F_ileocecal_valve,UBERON:0000569,ileocecal valve
+VH_F_caecum,UBERON:0001153,caecum
+VH_F_rectum,UBERON:0001052,rectum
+VH_F_sigmoid_colon,UBERON:0001159,sigmoid colon
+VH_F_splenic_flexure_of_colon,UBERON:0022276,splenic flexure of colon

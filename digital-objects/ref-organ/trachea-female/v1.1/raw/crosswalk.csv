@@ -1,4 +1,4 @@
 node_name,OntologyID,label
-VH_F_trachea,UBERON:0013754,integumentary system layer
-VH_F_tracheal_cartilage,UBERON:0013754,integumentary system layer
-VH_F_carina,UBERON:0013754,integumentary system layer
+VH_F_trachea,UBERON:0003126,trachea
+VH_F_tracheal_cartilage,UBERON:0003604,trachea cartilage
+VH_F_carina,UBERON:0006679,carina of trachea

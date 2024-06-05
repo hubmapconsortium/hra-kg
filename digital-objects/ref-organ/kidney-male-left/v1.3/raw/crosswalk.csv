@@ -1,28 +1,28 @@
 node_name,OntologyID,label
-VH_M_left_kidney,UBERON:0013754,integumentary system layer
-VH_M_kidney_capsule_L,UBERON:0013754,integumentary system layer
-VH_M_hilum_of_kidney_L,UBERON:0013754,integumentary system layer
-VH_M_cortex_of_kidney_L,UBERON:0013754,integumentary system layer
-VH_M_renal_column_L,UBERON:0013754,integumentary system layer
-VH_M_outer_cortex_of_kidney_L,UBERON:0013754,integumentary system layer
-VH_M_renal_medulla_L,UBERON:0013754,integumentary system layer
-VH_M_renal_papilla_L,UBERON:0013754,integumentary system layer
-VH_M_renal_papilla_L_a,UBERON:0013754,integumentary system layer
-VH_M_renal_papilla_L_b,UBERON:0013754,integumentary system layer
-VH_M_renal_papilla_L_c,UBERON:0013754,integumentary system layer
-VH_M_renal_papilla_L_d,UBERON:0013754,integumentary system layer
-VH_M_renal_papilla_L_e,UBERON:0013754,integumentary system layer
-VH_M_renal_papilla_L_f,UBERON:0013754,integumentary system layer
-VH_M_renal_papilla_L_g,UBERON:0013754,integumentary system layer
-VH_M_renal_papilla_L_h,UBERON:0013754,integumentary system layer
-VH_M_renal_papilla_L_i,UBERON:0013754,integumentary system layer
-VH_M_renal_pyramid_L,UBERON:0013754,integumentary system layer
-VH_M_renal_pyramid_L_a,UBERON:0013754,integumentary system layer
-VH_M_renal_pyramid_L_b,UBERON:0013754,integumentary system layer
-VH_M_renal_pyramid_L_c,UBERON:0013754,integumentary system layer
-VH_M_renal_pyramid_L_d,UBERON:0013754,integumentary system layer
-VH_M_renal_pyramid_L_e,UBERON:0013754,integumentary system layer
-VH_M_renal_pyramid_L_f,UBERON:0013754,integumentary system layer
-VH_M_renal_pyramid_L_g,UBERON:0013754,integumentary system layer
-VH_M_renal_pyramid_L_h,UBERON:0013754,integumentary system layer
-VH_M_renal_pyramid_L_i,UBERON:0013754,integumentary system layer
+VH_M_left_kidney,UBERON:0004538,left kidney
+VH_M_kidney_capsule_L,UBERON:0002015,kidney capsule
+VH_M_hilum_of_kidney_L,UBERON:0008716,hilum of kidney
+VH_M_cortex_of_kidney_L,UBERON:0001225,cortex of kidney
+VH_M_renal_column_L,UBERON:0001284,renal column
+VH_M_outer_cortex_of_kidney_L,UBERON:0002189,outer cortex of kidney
+VH_M_renal_medulla_L,UBERON:0000362,renal medulla
+VH_M_renal_papilla_L,UBERON:0001228,renal papilla
+VH_M_renal_papilla_L_a,UBERON:0001228,renal papilla
+VH_M_renal_papilla_L_b,UBERON:0001228,renal papilla
+VH_M_renal_papilla_L_c,UBERON:0001228,renal papilla
+VH_M_renal_papilla_L_d,UBERON:0001228,renal papilla
+VH_M_renal_papilla_L_e,UBERON:0001228,renal papilla
+VH_M_renal_papilla_L_f,UBERON:0001228,renal papilla
+VH_M_renal_papilla_L_g,UBERON:0001228,renal papilla
+VH_M_renal_papilla_L_h,UBERON:0001228,renal papilla
+VH_M_renal_papilla_L_i,UBERON:0001228,renal papilla
+VH_M_renal_pyramid_L,UBERON:0004200,renal pyramid
+VH_M_renal_pyramid_L_a,UBERON:0004200,renal pyramid
+VH_M_renal_pyramid_L_b,UBERON:0004200,renal pyramid
+VH_M_renal_pyramid_L_c,UBERON:0004200,renal pyramid
+VH_M_renal_pyramid_L_d,UBERON:0004200,renal pyramid
+VH_M_renal_pyramid_L_e,UBERON:0004200,renal pyramid
+VH_M_renal_pyramid_L_f,UBERON:0004200,renal pyramid
+VH_M_renal_pyramid_L_g,UBERON:0004200,renal pyramid
+VH_M_renal_pyramid_L_h,UBERON:0004200,renal pyramid
+VH_M_renal_pyramid_L_i,UBERON:0004200,renal pyramid

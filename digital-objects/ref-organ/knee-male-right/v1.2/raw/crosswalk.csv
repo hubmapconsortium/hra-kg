@@ -1,23 +1,17 @@
 node_name,OntologyID,label
-VH_M_knee_R,UBERON:0013754,integumentary system layer
-VH_M_knee_joint_R,UBERON:0013754,integumentary system layer
-VH_M_tibia_R,UBERON:0013754,integumentary system layer
-VH_M_fibula_R,UBERON:0013754,integumentary system layer
-VH_M_patella_R,UBERON:0013754,integumentary system layer
-VH_M_femur_R,UBERON:0013754,integumentary system layer
-VH_M_articular_cartilage_of_knee_R,UBERON:0013754,integumentary system layer
-VH_M_intercondylar_fossa_R,UBERON:0013754,integumentary system layer
-VH_M_anterior_cruciate_enthesis_R,UBERON:0013754,integumentary system layer
-VH_M_posterior_cruciate_enthesis_R,UBERON:0013754,integumentary system layer
-VH_M_lateral_condyle_of_femur_frontal_R,UBERON:0013754,integumentary system layer
-VH_M_lateral_condyle_of_femur_inf_R,UBERON:0013754,integumentary system layer
-VH_M_lateral_condyle_of_femur_sup_R,UBERON:0013754,integumentary system layer
-VH_M_lateral_epicondylar_enthesis_R,UBERON:0013754,integumentary system layer
-VH_M_lateral_perichondular_surface_R,UBERON:0013754,integumentary system layer
-VH_M_distal_most_point_of_medial_condyle_of_femur_R,UBERON:0013754,integumentary system layer
-VH_M_medial_condyle_of_right_femur_inf,UBERON:0013754,integumentary system layer
-VH_M_medial_condyle_of_right_femur_sup,UBERON:0013754,integumentary system layer
-VH_M_medial_epicondylar_enthesis_R,UBERON:0013754,integumentary system layer
-VH_M_medial_perichondular_surface_R,UBERON:0013754,integumentary system layer
-VH_M_patellar_surface_R,UBERON:0013754,integumentary system layer
-VH_M_meniscus_R,UBERON:0013754,integumentary system layer
+VH_M_knee_R,FMA:24977,Right knee
+VH_M_knee_joint_R,FMA:35176,Right knee joint
+VH_M_tibia_R,FMA:24477,Right tibia
+VH_M_fibula_R,FMA:24480,Right fibula
+VH_M_patella_R,FMA:24486,Right patella
+VH_M_femur_R,FMA:24474,Right femur
+VH_M_articular_cartilage_of_knee_R,FMA:33189,Articular cartilage of distal epiphysis of right femur
+VH_M_intercondylar_fossa_R,FMA:43749,Intercondylar fossa of right femur
+VH_M_lateral_condyle_of_femur_frontal_R,FMA:32860,Lateral condyle of right femur
+VH_M_lateral_condyle_of_femur_inf_R,FMA:32860,Lateral condyle of right femur
+VH_M_lateral_condyle_of_femur_sup_R,FMA:32860,Lateral condyle of right femur
+VH_M_distal_most_point_of_medial_condyle_of_femur_R,UBERON:7500033,distal-most point of medial condyle of femur
+VH_M_medial_condyle_of_right_femur_inf,FMA:32862,Medial condyle of right femur
+VH_M_medial_condyle_of_right_femur_sup,FMA:32862,Medial condyle of right femur
+VH_M_patellar_surface_R,FMA:43746,Patellar surface of right femur
+VH_M_meniscus_R,FMA:64019,Articular disk of knee joint

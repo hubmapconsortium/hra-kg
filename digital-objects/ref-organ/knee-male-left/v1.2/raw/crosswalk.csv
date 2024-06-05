@@ -1,23 +1,17 @@
 node_name,OntologyID,label
-VH_M_knee_L,UBERON:0013754,integumentary system layer
-VH_M_meniscus_L,UBERON:0013754,integumentary system layer
-VH_M_knee_joint_L,UBERON:0013754,integumentary system layer
-VH_M_fibula_L,UBERON:0013754,integumentary system layer
-VH_M_femur_L,UBERON:0013754,integumentary system layer
-VH_M_articular_cartilage_of_knee_L,UBERON:0013754,integumentary system layer
-VH_M_intercondylar_fossa_L,UBERON:0013754,integumentary system layer
-VH_M_anterior_cruciate_enthesis_L,UBERON:0013754,integumentary system layer
-VH_M_posterior_cruciate_enthesis_L,UBERON:0013754,integumentary system layer
-VH_M_lateral_condyle_of_femur_frontal_L,UBERON:0013754,integumentary system layer
-VH_M_lateral_condyle_of_femur_inf_L,UBERON:0013754,integumentary system layer
-VH_M_lateral_condyle_of_femur_sup_L,UBERON:0013754,integumentary system layer
-VH_M_lateral_epicondylar_enthesis_L,UBERON:0013754,integumentary system layer
-VH_M_lateral_perichondular_surface_L,UBERON:0013754,integumentary system layer
-VH_M_distal_most_point_of_medial_condyle_of_femur_L,UBERON:0013754,integumentary system layer
-VH_M_medial_condyle_of_left_femur_inf,UBERON:0013754,integumentary system layer
-VH_M_medial_condyle_of_left_femur_sup,UBERON:0013754,integumentary system layer
-VH_M_medial_epicondylar_enthesis_L,UBERON:0013754,integumentary system layer
-VH_M_medial_perichondular_surface_L,UBERON:0013754,integumentary system layer
-VH_M_patellar_surface_L,UBERON:0013754,integumentary system layer
-VH_M_tibia_L,UBERON:0013754,integumentary system layer
-VH_M_patella_L,UBERON:0013754,integumentary system layer
+VH_M_knee_L,FMA:24978,Left knee
+VH_M_meniscus_L,FMA:64019,Articular disk of knee joint
+VH_M_knee_joint_L,FMA:35177,Left knee joint
+VH_M_fibula_L,FMA:24481,Left fibula
+VH_M_femur_L,FMA:24475,Left femur
+VH_M_articular_cartilage_of_knee_L,FMA:33190,Articular cartilage of distal epiphysis of left femur
+VH_M_intercondylar_fossa_L,FMA:43750,Intercondylar fossa of left femur
+VH_M_lateral_condyle_of_femur_frontal_L,FMA:32861,Lateral condyle of left femur
+VH_M_lateral_condyle_of_femur_inf_L,FMA:32861,Lateral condyle of left femur
+VH_M_lateral_condyle_of_femur_sup_L,FMA:32861,Lateral condyle of left femur
+VH_M_distal_most_point_of_medial_condyle_of_femur_L,UBERON:7500033,distal-most point of medial condyle of femur
+VH_M_medial_condyle_of_left_femur_inf,FMA:32863,Medial condyle of left femur
+VH_M_medial_condyle_of_left_femur_sup,FMA:32863,Medial condyle of left femur
+VH_M_patellar_surface_L,FMA:43747,Patellar surface of left femur
+VH_M_tibia_L,FMA:24478,Left tibia
+VH_M_patella_L,FMA:24487,Left patella

@@ -1,156 +1,124 @@
 node_name,OntologyID,label
-VH_M_blood_vasculature,UBERON:0013754,integumentary system layer
-VH_M_blood_vasculature_of_eye,UBERON:0013754,integumentary system layer
-VH_M_veins_of_eye,UBERON:0013754,integumentary system layer
-VH_M_ocular_veins_L,UBERON:0013754,integumentary system layer
-VH_M_ophthalmic_vein_L,UBERON:0013754,integumentary system layer
-VH_M_superior_ophthalmic_vein_L,UBERON:0013754,integumentary system layer
-VH_M_inferior_ophthalmic_vein_L,UBERON:0013754,integumentary system layer
-VH_M_central_retinal_vein_L,UBERON:0013754,integumentary system layer
-VH_M_ocular_veins_R,UBERON:0013754,integumentary system layer
-VH_M_ophthalmic_vein_R,UBERON:0013754,integumentary system layer
-VH_M_superior_ophthalmic_vein_R,UBERON:0013754,integumentary system layer
-VH_M_inferior_ophthalmic_vein_R,UBERON:0013754,integumentary system layer
-VH_M_central_retinal_vein_R,UBERON:0013754,integumentary system layer
-VH_M_arteries_of_eye,UBERON:0013754,integumentary system layer
-VH_M_ocular_arteries_L,UBERON:0013754,integumentary system layer
-VH_M_central_retinal_artery_L,UBERON:0013754,integumentary system layer
-VH_M_opthalmic_artery_L,UBERON:0013754,integumentary system layer
-VH_M_long_posterior_ciliary_artery_L,UBERON:0013754,integumentary system layer
-VH_M_ocular_arteries_R,UBERON:0013754,integumentary system layer
-VH_M_central_retinal_artery_R,UBERON:0013754,integumentary system layer
-VH_M_opthalmic_artery_R,UBERON:0013754,integumentary system layer
-VH_M_long_posterior_ciliary_artery_R,UBERON:0013754,integumentary system layer
-VH_M_blood_vasculature_of_large_intestine,UBERON:0013754,integumentary system layer
-VH_M_veins_of_large_intestine,UBERON:0013754,integumentary system layer
-VH_M_inferior_mesenteric_vein,UBERON:0013754,integumentary system layer
-VH_M_median_sacral_vein,UBERON:0013754,integumentary system layer
-VH_M_sigmoid_vein,UBERON:0013754,integumentary system layer
-VH_M_superior_mesenteric_vein,UBERON:0013754,integumentary system layer
-VH_M_superior_rectal_vein,UBERON:0013754,integumentary system layer
-VH_M_common_iliac_vein,UBERON:0013754,integumentary system layer
-VH_M_common_iliac_vein_L,UBERON:0013754,integumentary system layer
-VH_M_common_iliac_vein_R,UBERON:0013754,integumentary system layer
-VH_M_inferior_pancreaticoduodenal_vein,UBERON:0013754,integumentary system layer
-VH_M_external_iliac_vein,UBERON:0013754,integumentary system layer
-VH_M_external_iliac_vein_L,UBERON:0013754,integumentary system layer
-VH_M_external_iliac_vein_R,UBERON:0013754,integumentary system layer
-VH_M_inferior_rectal_vein,UBERON:0013754,integumentary system layer
-VH_M_inferior_rectal_vein_L,UBERON:0013754,integumentary system layer
-VH_M_inferior_rectal_vein_R,UBERON:0013754,integumentary system layer
-VH_M_internal_pudendal_vein,UBERON:0013754,integumentary system layer
-VH_M_internal_pudendal_vein_L,UBERON:0013754,integumentary system layer
-VH_M_internal_pudendal_vein_R,UBERON:0013754,integumentary system layer
-VH_M_internal_iliac_vein,UBERON:0013754,integumentary system layer
-VH_M_internal_iliac_vein_L,UBERON:0013754,integumentary system layer
-VH_M_internal_iliac_vein_R,UBERON:0013754,integumentary system layer
-VH_M_colic_vein,UBERON:0013754,integumentary system layer
-VH_M_left_colic_vein,UBERON:0013754,integumentary system layer
-VH_M_ileocolic_vein,UBERON:0013754,integumentary system layer
-VH_M_right_colic_vein,UBERON:0013754,integumentary system layer
-VH_M_middle_colic_vein,UBERON:0013754,integumentary system layer
-VH_M_middle_rectal_vein,UBERON:0013754,integumentary system layer
-VH_M_middle_rectal_vein_L,UBERON:0013754,integumentary system layer
-VH_M_middle_rectal_vein_R,UBERON:0013754,integumentary system layer
-VH_M_arteries_of_large_intestine,UBERON:0013754,integumentary system layer
-VH_M_colic_artery,UBERON:0013754,integumentary system layer
-VH_M_right_colic_artery,UBERON:0013754,integumentary system layer
-VH_M_middle_colic_artery,UBERON:0013754,integumentary system layer
-VH_M_left_colic_artery,UBERON:0013754,integumentary system layer
-VH_M_ileocolic_artery,UBERON:0013754,integumentary system layer
-VH_M_sigmoid_artery,UBERON:0013754,integumentary system layer
-VH_M_sigmoid_artery_a,UBERON:0013754,integumentary system layer
-VH_M_sigmoid_artery_b,UBERON:0013754,integumentary system layer
-VH_M_sigmoid_artery_c,UBERON:0013754,integumentary system layer
-VH_M_inferior_mesenteric_artery,UBERON:0013754,integumentary system layer
-VH_M_superior_mesenteric_artery,UBERON:0013754,integumentary system layer
-VH_M_marginal_artery_of_Drummond,UBERON:0013754,integumentary system layer
-VH_M_blood_vasculature_of_kidney,UBERON:0013754,integumentary system layer
-VH_M_veins_of_kidney,UBERON:0013754,integumentary system layer
-VH_M_renal_vein,UBERON:0013754,integumentary system layer
-VH_M_renal_vein_L,UBERON:0013754,integumentary system layer
-VH_M_renal_vein_R,UBERON:0013754,integumentary system layer
-VH_M_arteries_of_kidney,UBERON:0013754,integumentary system layer
-VH_M_renal_artery,UBERON:0013754,integumentary system layer
-VH_M_left_renal_artery,UBERON:0013754,integumentary system layer
-VH_M_right_renal_artery,UBERON:0013754,integumentary system layer
-VH_M_blood_vasculature_of_heart,UBERON:0013754,integumentary system layer
-VH_M_arteries_of_heart,UBERON:0013754,integumentary system layer
-VH_M_aorta,UBERON:0013754,integumentary system layer
-VH_M_aortic_arch,UBERON:0013754,integumentary system layer
-VH_M_ascending_aorta,UBERON:0013754,integumentary system layer
-VH_M_brachiocephalic_artery,UBERON:0013754,integumentary system layer
-VH_M_brachiocephalic_artery_b,UBERON:0013754,integumentary system layer
-VH_M_brachiocephalic_artery_a,UBERON:0013754,integumentary system layer
-VH_M_left_common_carotid_artery,UBERON:0013754,integumentary system layer
-VH_M_left_common_carotid_artery_a,UBERON:0013754,integumentary system layer
-VH_M_left_common_carotid_artery_b,UBERON:0013754,integumentary system layer
-VH_M_left_subclavian_artery,UBERON:0013754,integumentary system layer
-VH_M_left_subclavian_artery_a,UBERON:0013754,integumentary system layer
-VH_M_left_subclavian_artery_b,UBERON:0013754,integumentary system layer
-VH_M_descending_aorta,UBERON:0013754,integumentary system layer
-VH_M_descending_aorta_a,UBERON:0013754,integumentary system layer
-VH_M_descending_aorta_b,UBERON:0013754,integumentary system layer
-VH_M_cardiac_artery,UBERON:0013754,integumentary system layer
-VH_M_left_anterior_descending_artery,UBERON:0013754,integumentary system layer
-VH_M_right_marginal_artery,UBERON:0013754,integumentary system layer
-VH_M_right_posterior_descending_artery,UBERON:0013754,integumentary system layer
-VH_M_diagonal_branch_of_anterior_descending_branch_of_left_coronary_artery,UBERON:0013754,integumentary system layer
-VH_M_left_coronary_artery,UBERON:0013754,integumentary system layer
-VH_M_right_coronary_artery,UBERON:0013754,integumentary system layer
-VH_M_diagonal_branch_of_left_anterior_descending_artery,UBERON:0013754,integumentary system layer
-VH_M_left_marginal_branch,UBERON:0013754,integumentary system layer
-VH_M_pulmonary_artery,UBERON:0013754,integumentary system layer
-VH_M_pulmonary_artery_L,UBERON:0013754,integumentary system layer
-VH_M_pulmonary_artery_R,UBERON:0013754,integumentary system layer
-VH_M_pulmonary_trunk,UBERON:0013754,integumentary system layer
-VH_M_veins_of_heart,UBERON:0013754,integumentary system layer
-VH_M_cardiac_vein,UBERON:0013754,integumentary system layer
-VH_M_great_cardiac_vein,UBERON:0013754,integumentary system layer
-VH_M_middle_cardiac_vein,UBERON:0013754,integumentary system layer
-VH_M_oblique_vein_of_left_atrium,UBERON:0013754,integumentary system layer
-VH_M_anterior_cardiac_vein,UBERON:0013754,integumentary system layer
-VH_M_coronary_sinus,UBERON:0013754,integumentary system layer
-VH_M_posterior_vein_of_left_ventricle,UBERON:0013754,integumentary system layer
-VH_M_small_cardiac_vein,UBERON:0013754,integumentary system layer
-VH_M_pulmonary_vein,UBERON:0013754,integumentary system layer
-VH_M_pulmonary_vein_R_inf,UBERON:0013754,integumentary system layer
-VH_M_pulmonary_vein_R_sup,UBERON:0013754,integumentary system layer
-VH_M_pulmonary_vein_L_inf,UBERON:0013754,integumentary system layer
-VH_M_pulmonary_vein_L_sup,UBERON:0013754,integumentary system layer
-VH_M_brachiocephalic_vein,UBERON:0013754,integumentary system layer
-VH_M_brachiocephalic_vein_L,UBERON:0013754,integumentary system layer
-VH_M_brachiocephalic_vein_R,UBERON:0013754,integumentary system layer
-VH_M_vena_cava,UBERON:0013754,integumentary system layer
-VH_M_superior_vena_cava,UBERON:0013754,integumentary system layer
-VH_M_inferior_vena_cava,UBERON:0013754,integumentary system layer
-VH_M_inferior_vena_cava_b,UBERON:0013754,integumentary system layer
-VH_M_inferior_vena_cava_a,UBERON:0013754,integumentary system layer
-VH_M_blood_vasculature_of_spleen,UBERON:0013754,integumentary system layer
-VH_M_veins_of_spleen,UBERON:0013754,integumentary system layer
-VH_M_splenic_vein,UBERON:0013754,integumentary system layer
-VH_M_arteries_of_spleen,UBERON:0013754,integumentary system layer
-VH_M_splenic_artery,UBERON:0013754,integumentary system layer
-VH_M_blood_vasculature_of_gall_bladder,UBERON:0013754,integumentary system layer
-VH_M_veins_of_gallbladder,UBERON:0013754,integumentary system layer
-VH_M_cystic_vein,UBERON:0013754,integumentary system layer
-VH_M_arteries_of_gallbladder,UBERON:0013754,integumentary system layer
-VH_M_cystic_artery,UBERON:0013754,integumentary system layer
-VH_M_blood_vasculature_of_liver,UBERON:0013754,integumentary system layer
-VH_M_arteries_of_liver,UBERON:0013754,integumentary system layer
-VH_M_celiac_trunk,UBERON:0013754,integumentary system layer
-VH_M_left_hepatic_artery,UBERON:0013754,integumentary system layer
-VH_M_proper_hepatic_artery,UBERON:0013754,integumentary system layer
-VH_M_posterior_segmental_right_hepatic_artery,UBERON:0013754,integumentary system layer
-VH_M_right_hepatic_artery,UBERON:0013754,integumentary system layer
-VH_M_anterior_segmental_right_hepatic_artery,UBERON:0013754,integumentary system layer
-VH_M_common_hepatic_artery,UBERON:0013754,integumentary system layer
-VH_M_middle_hepatic_artery_branch_of_left_hepatic_artery,UBERON:0013754,integumentary system layer
-VH_M_veins_of_liver,UBERON:0013754,integumentary system layer
-VH_M_right_hepatic_vein,UBERON:0013754,integumentary system layer
-VH_M_left_hepatic_vein,UBERON:0013754,integumentary system layer
-VH_M_middle_hepatic_vein,UBERON:0013754,integumentary system layer
-VH_M_left_branch_of_portal_vein,UBERON:0013754,integumentary system layer
-VH_M_right_branch_of_portal_vein,UBERON:0013754,integumentary system layer
-VH_M_portal_vein,UBERON:0013754,integumentary system layer
-VH_M_hepatic_portal_vein,UBERON:0013754,integumentary system layer
+VH_M_blood_vasculature,UBERON:0004537,blood vasculature
+VH_M_blood_vasculature_of_eye,UBERON:0002203,vasculature of eye
+VH_M_ophthalmic_vein_L,UBERON:0011191,ophthalmic vein
+VH_M_superior_ophthalmic_vein_L,FMA:51249,Left superior ophthalmic vein
+VH_M_inferior_ophthalmic_vein_L,FMA:51251,Left inferior ophthalmic vein
+VH_M_central_retinal_vein_L,FMA:51885,Left central retinal vein
+VH_M_ophthalmic_vein_R,UBERON:0011191,ophthalmic vein
+VH_M_superior_ophthalmic_vein_R,FMA:51248,Right superior ophthalmic vein
+VH_M_inferior_ophthalmic_vein_R,FMA:51250,Right inferior ophthalmic vein
+VH_M_central_retinal_vein_R,FMA:51884,Right central retinal vein
+VH_M_central_retinal_artery_L,FMA:49881,Left central retinal artery
+VH_M_opthalmic_artery_L,UBERON:0001619,ophthalmic artery
+VH_M_long_posterior_ciliary_artery_L,FMA:49958,Left long posterior ciliary artery
+VH_M_central_retinal_artery_R,FMA:49880,Right central retinal artery
+VH_M_opthalmic_artery_R,UBERON:0001619,ophthalmic artery
+VH_M_long_posterior_ciliary_artery_R,FMA:49957,Right long posterior ciliary artery
+VH_M_inferior_mesenteric_vein,UBERON:0001215,inferior mesenteric vein
+VH_M_median_sacral_vein,UBERON:0006687,median sacral vein
+VH_M_sigmoid_vein,FMA:15395,sigmoid vein
+VH_M_superior_mesenteric_vein,UBERON:0001182,superior mesenteric artery
+VH_M_superior_rectal_vein,UBERON:0035040,superior rectal artery
+VH_M_common_iliac_vein,UBERON:0001139,common iliac vein
+VH_M_common_iliac_vein_L,FMA:21388,Left common iliac vein
+VH_M_common_iliac_vein_R,FMA:21387,Right common iliac vein
+VH_M_inferior_pancreaticoduodenal_vein,FMA:0329299,Inferior pancreaticoduodenal vein
+VH_M_external_iliac_vein,UBERON:0001316,external iliac vein
+VH_M_external_iliac_vein_L,UBERON:0001316,external iliac vein
+VH_M_external_iliac_vein_R,UBERON:0001316,external iliac vein
+VH_M_inferior_rectal_vein,FMA:21242,Inferior rectal vein
+VH_M_inferior_rectal_vein_L,FMA:21314,left Inferior rectal vein
+VH_M_inferior_rectal_vein_R,FMA:21313,right Inferior rectal vein
+VH_M_internal_pudendal_vein,UBERON:0018252,internal pudendal vein
+VH_M_internal_pudendal_vein_L,UBERON:0018252,internal pudendal vein
+VH_M_internal_pudendal_vein_R,UBERON:0018252,internal pudendal vein
+VH_M_internal_iliac_vein,UBERON:0001317,internal iliac vein
+VH_M_internal_iliac_vein_L,UBERON:0001317,internal iliac vein
+VH_M_internal_iliac_vein_R,UBERON:0001317,internal iliac vein
+VH_M_left_colic_vein,FMA:15394,Left colic vein
+VH_M_ileocolic_vein,UBERON:0001219,ileocolic vein
+VH_M_right_colic_vein,FMA:15407,Right colic vein
+VH_M_middle_colic_vein,UBERON:0001218,middle colic vein
+VH_M_middle_rectal_vein,FMA:18893,Middle rectal vein
+VH_M_middle_rectal_vein_L,FMA:18895,Left middle rectal vein
+VH_M_middle_rectal_vein_R,FMA:18894,Right middle rectal vein
+VH_M_colic_artery,UBERON:0035548,colic artery
+VH_M_right_colic_artery,FMA:14811,Right colic artery
+VH_M_middle_colic_artery,UBERON:0001196,middle colic artery
+VH_M_left_colic_artery,FMA:14826,Left colic artery
+VH_M_ileocolic_artery,UBERON:0035548,ileocolic artery
+VH_M_sigmoid_artery,UBERON:0035180,sigmoid artery
+VH_M_sigmoid_artery_a,UBERON:0035180,sigmoid artery
+VH_M_sigmoid_artery_b,UBERON:0035180,sigmoid artery
+VH_M_sigmoid_artery_c,UBERON:0035180,sigmoid artery
+VH_M_inferior_mesenteric_artery,UBERON:0001183,inferior mesenteric artery
+VH_M_superior_mesenteric_artery,UBERON:0001182,superior mesenteric artery
+VH_M_marginal_artery_of_Drummond,FMA:14824,marginal colic artery
+VH_M_renal_vein,UBERON:0001140,renal vein
+VH_M_renal_vein_L,UBERON:0001142,left renal vein
+VH_M_renal_vein_R,UBERON:0001141,right renal vein
+VH_M_renal_artery,UBERON:0001184,renal artery
+VH_M_left_renal_artery,UBERON:0001186,left renal artery
+VH_M_right_renal_artery,UBERON:0001185,right renal artery
+VH_M_aorta,UBERON:0000947,aorta
+VH_M_aortic_arch,UBERON:0001508,arch of aorta
+VH_M_ascending_aorta,UBERON:0001496,ascending aorta
+VH_M_brachiocephalic_artery,UBERON:0001529,brachiocephalic artery
+VH_M_brachiocephalic_artery_b,UBERON:0001529,brachiocephalic artery
+VH_M_brachiocephalic_artery_a,UBERON:0001529,brachiocephalic artery
+VH_M_left_common_carotid_artery,UBERON:0001536,left common carotid artery plus branches
+VH_M_left_common_carotid_artery_a,UBERON:0001536,left common carotid artery plus branches
+VH_M_left_common_carotid_artery_b,UBERON:0001536,left common carotid artery plus branches
+VH_M_left_subclavian_artery,UBERON:0001584,left subclavian artery
+VH_M_left_subclavian_artery_a,UBERON:0001584,left subclavian artery
+VH_M_left_subclavian_artery_b,UBERON:0001584,left subclavian artery
+VH_M_descending_aorta,UBERON:0001514,descending aorta
+VH_M_descending_aorta_a,UBERON:0001514,descending aorta
+VH_M_descending_aorta_b,UBERON:0001514,descending aorta
+VH_M_left_anterior_descending_artery,FMA:8636,Anterior descending branch of left pulmonary artery
+VH_M_right_marginal_artery,FMA:3818,marginal branch of right coronary artery
+VH_M_right_posterior_descending_artery,FMA:3840,Posterior interventricular branch of right coronary artery
+VH_M_diagonal_branch_of_anterior_descending_branch_of_left_coronary_artery,FMA:3860,Diagonal branch of anterior descending branch of left coronary artery
+VH_M_left_coronary_artery,UBERON:0001626,left coronary artery
+VH_M_right_coronary_artery,UBERON:0001625,right coronary artery
+VH_M_diagonal_branch_of_left_anterior_descending_artery,FMA:3860,Diagonal branch of anterior descending branch of left coronary artery
+VH_M_left_marginal_branch,FMA:3902,Left marginal artery
+VH_M_pulmonary_artery,UBERON:0002012,pulmonary artery
+VH_M_pulmonary_artery_L,UBERON:0001652,left pulmonary artery
+VH_M_pulmonary_artery_R,UBERON:0001651,right pulmonary artery
+VH_M_pulmonary_trunk,UBERON:0002333,pulmonary trunk
+VH_M_cardiac_vein,UBERON:0004148,cardiac vein
+VH_M_great_cardiac_vein,UBERON:0006958,great vein of heart
+VH_M_middle_cardiac_vein,UBERON:0009687,middle cardiac vein
+VH_M_oblique_vein_of_left_atrium,FMA:4715,Oblique vein of left atrium
+VH_M_anterior_cardiac_vein,FMA:76767,Anterior cardiac vein
+VH_M_coronary_sinus,UBERON:0005438,coronary sinus
+VH_M_posterior_vein_of_left_ventricle,FMA:4712,Posterior vein of left ventricle
+VH_M_small_cardiac_vein,UBERON:0035374,small cardiac vein
+VH_M_pulmonary_vein,UBERON:0002016,pulmonary vein
+VH_M_pulmonary_vein_R_inf,FMA:49911,right inferior pulmonary vein
+VH_M_pulmonary_vein_R_sup,FMA:49914,right superior pulmonary vein
+VH_M_pulmonary_vein_L_inf,FMA:49913,left inferior pulmonary vein
+VH_M_pulmonary_vein_L_sup,FMA:49916,left superior pulmonary vein
+VH_M_brachiocephalic_vein,FMA:4723,brachiocephalic vein
+VH_M_brachiocephalic_vein_L,FMA:4761,Left brachiocephalic vein
+VH_M_brachiocephalic_vein_R,FMA:4751,Right brachiocephalic vein
+VH_M_vena_cava,UBERON:0004087,vena cava
+VH_M_superior_vena_cava,FMA:4720,superior vena cava
+VH_M_inferior_vena_cava,FMA:10951,inferior vena cava
+VH_M_inferior_vena_cava_b,FMA:10951,inferior vena cava
+VH_M_inferior_vena_cava_a,FMA:10951,inferior vena cava
+VH_M_splenic_vein,UBERON:0003713,splenic vein
+VH_M_splenic_artery,UBERON:0001194,splenic artery
+VH_M_cystic_vein,UBERON:0035392,cystic vein
+VH_M_cystic_artery,UBERON:0039222,cystic artery
+VH_M_celiac_trunk,FMA:14812,Celiac trunk
+VH_M_left_hepatic_artery,FMA:14779,Left hepatic artery
+VH_M_proper_hepatic_artery,FMA:14772,Hepatic artery proper
+VH_M_right_hepatic_artery,FMA:14778,Right hepatic artery
+VH_M_common_hepatic_artery,UBERON:0005436,common hepatic artery
+VH_M_right_hepatic_vein,FMA:14338,Right hepatic vein
+VH_M_left_hepatic_vein,FMA:14339,Left hepatic vein
+VH_M_middle_hepatic_vein,FMA:14340,Middle hepatic vein
+VH_M_hepatic_portal_vein,UBERON:0001639,hepatic portal vein
