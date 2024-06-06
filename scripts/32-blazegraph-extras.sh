@@ -11,3 +11,5 @@ done
 blazegraph-runner update --journal=./dist/blazegraph.jnl ./src/blazegraph.extras.rq
 blazegraph-runner select --journal=./dist/blazegraph.jnl ./src/blazegraph.stats.rq ./dist/blazegraph.stats.tsv
 blazegraph-runner select --journal=./dist/blazegraph.jnl ./src/high-level-stats.rq ./dist/blazegraph.high-level-stats.tsv
+blazegraph-runner select --journal=./dist/blazegraph.jnl ./src/reference-entity-ids.rq ./dist/reference-entity-ids.tsv
+perl -i -pe 's/\?//g' ./dist/reference-entity-ids.tsv
