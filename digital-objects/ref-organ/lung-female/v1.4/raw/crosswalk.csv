@@ -1,4 +1,5 @@
 node_name,OntologyID,label
+VH_F_lungs,UBERON:0002048,lung
 VH_F_bronchi,UBERON:0002185,bronchus
 VH_F_cartilage_of_lobar_bronchus_L,FMA:62659,Cartilage of lobar bronchus
 VH_F_cartilage_of_tertiary_bronchus_L,FMA:62662,Cartilage of segmental bronchus
@@ -33,7 +34,6 @@ VH_F_right_posterior_bronchus,FMA:7399,Right posterior segmental bronchus
 VH_F_right_superior_bronchus,FMA:7416,Right superior segmental bronchus
 VH_F_right_apical_bronchus,FMA:7398,Right apical segmental bronchus
 VH_F_right_anterior_basal_bronchus,FMA:7418,Right anterior basal segmental bronchus
-VH_F_lungs,UBERON:0002048,lung
 VH_F_left_lungs_L,UBERON:0002168,left lung
 VH_F_hilum_L,UBERON:0004887,left lung hilus
 VH_F_L_lung_upper_lobe,UBERON:0008952,Upper Lobe of Left Lung

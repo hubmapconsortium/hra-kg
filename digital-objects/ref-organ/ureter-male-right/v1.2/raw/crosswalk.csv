@@ -1,4 +1,5 @@
 node_name,OntologyID,label
+VH_M_ureter_R,UBERON:0001222,right ureter
 VH_M_calyx_R,UBERON:0006517,kidney calyx
 VH_M_major_calyx_R,UBERON:0001226,major calyx
 VH_M_major_calyx_R_a,UBERON:0001226,major calyx
@@ -14,4 +15,3 @@ VH_M_minor_calyx_R_g,UBERON:0001227,minor calyx
 VH_M_minor_calyx_R_h,UBERON:0001227,minor calyx
 VH_M_minor_calyx_R_i,UBERON:0001227,minor calyx
 VH_M_renal_pelvis_R,UBERON:0001224,renal pelvis
-VH_M_ureter_R,UBERON:0001222,right ureter

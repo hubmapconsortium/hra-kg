@@ -1006,7 +1006,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFKneeLigamentsRight,#VHFemaleOrgans,VH_F_anterolateral_ligament_of_knee_R,anterolateral ligament of knee,UBERON:0014899,http://purl.obolibrary.org/obo/UBERON_0014899,mesh,VH_F_Ligaments_of_Knee_R
 #VHFKneeLigamentsRight,#VHFemaleOrgans,VH_F_fibular_collateral_ligament_R,Right fibular collateral ligament,FMA:44609,http://purl.org/sig/ont/fma/fma44609,mesh,VH_F_Ligaments_of_Knee_R
 #VHFKneeLigamentsRight,#VHFemaleOrgans,VH_F_patellar_ligament_R,Right patellar ligament,FMA:44585,http://purl.org/sig/ont/fma/fma44585,mesh,VH_F_Ligaments_of_Knee_R
-#VHFRightKnee,#VHFemaleOrgans,VH_F_knee_R,Right knee,FMA:24977 ,http://purl.org/sig/ont/fma/fma24977,organizational,3d-vh-f-knee-r
+#VHFRightKnee,#VHFemaleOrgans,VH_F_knee_R,Right knee,FMA:24977,http://purl.org/sig/ont/fma/fma24977,organizational,3d-vh-f-knee-r
 #VHFRightKnee,#VHFemaleOrgans,VH_F_meniscus_R,Articular disk of knee joint,FMA64019,http://purl.org/sig/ont/fma/fma64019,mesh,3d-vh-f-knee-r
 #VHFRightKnee,#VHFemaleOrgans,VH_F_knee_joint_R,Right knee joint,FMA:35176,http://purl.org/sig/ont/fma/fma35176,organizational,3d-vh-f-knee-r
 #VHFRightKnee,#VHFemaleOrgans,VH_F_femur_R,Right femur,FMA:24474,http://purl.org/sig/ont/fma/fma24474,mesh,3d-vh-f-knee-r
@@ -1941,7 +1941,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHMLarynx,#VHMaleOrgans,VH_M_corniculate_cartilage,corniculate cartilage,UBERON:0001741,http://purl.obolibrary.org/obo/UBERON_0001741,organizational,3d-vh-m-larynx
 #VHMLarynx,#VHMaleOrgans,VH_M_corniculate_cartilage_L,Left corniculate cartilage,FMA:55116,http://purl.org/sig/ont/fma/fma55116,mesh,3d-vh-m-larynx
 #VHMLarynx,#VHMaleOrgans,VH_M_corniculate_cartilage_R,Right corniculate cartilage,FMA:55115,http://purl.org/sig/ont/fma/fma55115,mesh,3d-vh-m-larynx
--,#VHMaleOrgans,VH_M_tracheobronchial_tree,tracheobronchial tree,UBERON:0007196 ,http://purl.obolibrary.org/obo/UBERON_0007196,organizational,-
+-,#VHMaleOrgans,VH_M_tracheobronchial_tree,tracheobronchial tree,UBERON:0007196,http://purl.obolibrary.org/obo/UBERON_0007196,organizational,-
 #VHMTrachea,#VHMaleOrgans,VH_M_trachea_of_respiratory_system,trachea of respiratory system,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,organizational,3d-vh-m-trachea
 #VHMTrachea,#VHMaleOrgans,VH_M_trachea,trachea,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,surface,3d-vh-m-trachea
 #VHMTrachea,#VHMaleOrgans,VH_M_tracheal_cartilage,trachea cartilage,UBERON:0003604,http://purl.obolibrary.org/obo/UBERON_0003604,mesh,3d-vh-m-trachea

@@ -1,5 +1,5 @@
 node_name,OntologyID,label
-VH_F_knee_R,"FMA:24977 ",Right knee
+VH_F_knee_R,FMA:24977,Right knee
 VH_F_meniscus_R,FMA64019,Articular disk of knee joint
 VH_F_knee_joint_R,FMA:35176,Right knee joint
 VH_F_femur_R,FMA:24474,Right femur
