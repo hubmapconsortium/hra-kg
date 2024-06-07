@@ -1,7 +1,7 @@
 digital-objects:
   # CCF Graphs
   - graph/hra-ccf-body/v2.0
-  - graph/hra-ccf-patches/v2.0
+  - graph/hra-ccf-patches/v2.1
 
   # Landmarks
   - landmark/uterus-female-landmarks/v1.4
