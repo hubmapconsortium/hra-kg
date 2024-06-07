@@ -86,3 +86,17 @@ for d in $DOs $EXTRA_DOs $COLLECTIONS; do
 done
 echo "---- END Syncing built files to S3 ----"
 echo
+
+# Computing release XMLs
+export DOs=$(yq -r '.["digital-objects"][]' digital-objects/collection/hra/$VERSION/raw/digital-objects.yaml)
+
+mkdir -p $DEPLOY_HOME/xmls
+rm -rf $DEPLOY_HOME/xmls/*
+
+for d in $DOs; do
+  ID=$(yq -r '.hubmapId' digital-objects/$d/raw/metadata.yaml)
+  cp $DEPLOY_HOME/$d/doi.xml $DEPLOY_HOME/xmls/${ID}.xml
+done
+
+zip -j $DEPLOY_HOME/hra-${VERSION}-doi-xmls.zip $DEPLOY_HOME/xmls/*.xml
+rm -rf $DEPLOY_HOME/xmls
