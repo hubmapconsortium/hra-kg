@@ -1,4 +1,5 @@
 node_name,OntologyID,label
+VH_F_respiratory_system,UBERON:0001004,respiratory system
 VH_F_lungs,UBERON:0002048,lung
 VH_F_bronchi,UBERON:0002185,bronchus
 VH_F_cartilage_of_lobar_bronchus_L,FMA:62659,Cartilage of lobar bronchus
