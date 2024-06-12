@@ -2,6 +2,34 @@
 
 Changelog for the HRA Knowledge Graph Release Notes
 
+## 2.1 - 2024-06-15
+
+### Added in 2.1
+**The following were new or revised with ccf-release v2.1:**
+
+**Reference organs**
+*all male and female organs were re-exported to include the node types as organizational, mesh or surface
+
+**ASCT+B tables**
+* **13 ASCT+B tables had minor revisions:** :blood, bone marrow, brain, heart, fallopian tube, kidney, knee, liver, lung, lymph node, main bronchus, ovary, palatine tonsil.
+* **6 ASCT+B tables had major revisions:** : blood vasculature,lymph vasculature, peripheral nervous system,  placenta, muscular system, and skeleton
+* 
+* **Crosswalks**
+* **6 new crosswalk tables were added:** pathway crosswalk, lymph vasculature to organ crosswalk, peripheral nervous system to organ crosswalk, azimuth crosswalk, celltypist crosswalk, popv crosswalk
+* **2 revised crosswalk table:** 1 blood vasculature to organ crosswalk, 3D models crosswalk
+
+**Organ Mapping Antibody Panels (OMAPs)**
+* * **13 Organ Mapping Antibody Panels (OMAPs) were revised:**
+  - OMAP-1 through OMAP-13 were revised to use new template fields to match antibody validation report fields: target_name to target_symbol, dilution to dilution_factor, author_orcid to author_orcids
+
+* **8 NEW Organ Mapping Antibody Panels (OMAPs) were added:**
+   - Cyclic immunofluorescence (CyCIF) panel for kidney
+   - CODEX panels that increase the number of markers and cell types detected and optimize for FFPE tissue preservation for intestine and lung
+   - IBEX panels for thymus and palatine tonsil
+   - a sequential IBEX and CellDIVE panel for lymph node
+   - MICS panel for palatine tonsil from FFPE preserved tissue
+   - the firsts sequential imaging mass spectrometry followed by cyclic immunofluorescence panel
+
 ## 2.0 - 2023-12-15
 
 ### Added in 2.0
@@ -24,8 +52,8 @@ Changelog for the HRA Knowledge Graph Release Notes
 **ASCT+B tables**
 
 * **2 ASCT+B table were added:** anatomical systems and palatine tonsil
-* **13 ASCT+B tables had minor revised:** :bone marrow, brain, heart, fallopian tube, kidney; liver, lung; lymph node, main bronchus, pancreas, prostate, skin, and thymus.
-* **7 ASCT+B tables had major revised:** : blood vasculature, knee,lymph vasculature, peripheral nervous system,  placenta, muscular system, and skeleton
+* **13 ASCT+B tables had minor revisions:** :bone marrow, brain, heart, fallopian tube, kidney; liver, lung; lymph node, main bronchus, pancreas, prostate, skin, and thymus.
+* **7 ASCT+B tables had major revisions:** : blood vasculature, knee,lymph vasculature, peripheral nervous system,  placenta, muscular system, and skeleton
   
 **Crosswalks**
 * 1 Musculoskeletal crosswalk table was added
