@@ -2,8 +2,7 @@ title: >-
   OMAP-6  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
   Imaging of Human Pancreas with CODEX
 description: >-
-  The OMAP Pancreas  panel was designed for CODEX (CO Detection by IndEXing)
-  imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples.
+  The OMAP Pancreas panel was designed for CODEX (CO Detection by IndEXing) imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples. Following antigen retrieval (citrate buffer pH=6, heating at high pressure 114-121°C for 20 minutes), tissue autofluorescence was reduced using a photobleaching protocol (Du Z. et al, 2019, modified by Derek Oldrige). CODEX is based on DNA-conjugated antibodies allowing the image acquisition of 3 antibodies per cycle and removal of complementary fluorescently labeled DNA probes afterwards Goltsev, Y. et al, 2018. Cell junction markers (E-cadherin,Beta-catenin) and nuclear marker Hoechst are used for cell segmentation. The resulting OMAP contains 12 antibodies and provides a spatial context for most relevant anatomical structures and cell types in the pancreas including pancreatic cells (alpha, beta, gamma, delta), ductal cells, endothelial cells,smooth muscle and mesenchymal cells present in the ASCT-B pancreas table, v1.0. Acinar and epsilon cells are not targeted in the existing panel due to the complexity of finding suitable and stable antibodies. A representative dataset using this OMAP can be found here: https://zenodo.org/record/7742474. An antibody directed against pancreatic polypeptide (PPY) was originally included in OMAP-5 v1.0 and v1.1, but was removed due to inconsistent labeling. 
 creators:
   - fullName: Anna Martinez Casals
     firstName: Anna
