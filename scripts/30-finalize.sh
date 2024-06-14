@@ -3,6 +3,8 @@ source constants.sh
 shopt -s extglob
 set -ev
 
-FINALIZE_OPTS=""
+# Prepare dist folder for publication
+do-processor finalize --skip-db
 
-do-processor finalize $FINALIZE_OPTS
+# Fix the HRAVS page
+./src/fix-hravs.sh

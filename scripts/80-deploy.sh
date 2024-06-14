@@ -4,7 +4,7 @@ shopt -s extglob
 set -ev
 
 # Run fix-hravs again just in case
-./scripts/32-fix-hravs.sh
+./src/fix-hravs.sh
 
 CLEAN="--delete"
 
