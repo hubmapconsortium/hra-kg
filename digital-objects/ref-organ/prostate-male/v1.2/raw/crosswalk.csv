@@ -1,0 +1,19 @@
+node_name,OntologyID,label
+VH_M_male_reproductive_system,UBERON:0000079,male reproductive system
+VH_M_male_genital_duct,UBERON:0010140,male genital duct
+VH_M_seminal_vesicle,UBERON:0000998,seminal vesicle
+VH_M_ejaculatory_duct,UBERON:0000999,ejaculatory duct
+VH_M_prostate_gland,UBERON:0002367,prostate gland
+VH_M_prostatic_utricle,UBERON:0011199,prostatic utricle
+VH_M_seminal_colliculus,FMA:19719,Verumontanum
+VH_M_prostate_duct_R,UBERON:0002485,prostate duct
+VH_M_apex_of_prostate,UBERON:0035441,apex of prostate
+VH_M_base_of_prostate,UBERON:0035331,base of prostate
+VH_M_peripheral_zone_of_prostate_R,UBERON:8410026,peripheral zone of prostate
+VH_M_peripheral_zone_of_prostate_L,UBERON:8410026,peripheral zone of prostate
+VH_M_transition_zone__of_prostate_L,UBERON:8410025,transition zone of prostate
+VH_M_transition_zone_of_prostate_R,UBERON:8410025,transition zone of prostate
+VH_M_central_zone_of_prostate_R,UBERON:8410027,central zone of prostate
+VH_M_central_zone_of_prostate_L,UBERON:8410027,central zone of prostate
+VH_M_anterior_fibromuscular_stroma_L,FMA:74238,Anterior fibromuscular stroma of prostate
+VH_M_anterior_fibromuscular_stroma_R,FMA:74238,Anterior fibromuscular stroma of prostate

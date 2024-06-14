@@ -1,0 +1,33 @@
+title: Common Coordinate Framework Base Vocabulary
+description: >-
+  The base vocabulary for HRA construction and usage to make it possible to ingest external data 
+  sources; supporting uniform tissue sample registration that includes the spatial positioning and 
+  semantic annotations within 3D reference organs; and supporting user-formulated cross-domain 
+  queries over tissue donor properties, anatomical structures, cell types, biomarkers, and 3D space.
+creators:
+  - fullName: Josef Hardi
+    firstName: Josef
+    lastName: Hardi
+    orcid: 0000-0002-2533-6681
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+version: 3.0.0
+creation_date: '2024-06-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+datatable:
+  - ccf-bso-base.ttl
+  - ccf-sco-base.ttl
+  - ccf-spo-base.ttl

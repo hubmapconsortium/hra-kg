@@ -1,0 +1,18 @@
+node_name,OntologyID,label
+VH_M_ureter_L,UBERON:0001223,left ureter
+VH_M_renal_pelvis_L,UBERON:0001224,renal pelvis
+VH_M_kidney_calyx_L,UBERON:0006517,kidney calyx
+VH_M_major_calyx_L,UBERON:0001226,major calyx
+VH_M_major_calyx_L_a,UBERON:0001226,major calyx
+VH_M_major_calyx_L_b,UBERON:0001226,major calyx
+VH_M_major_calyx_L_c,UBERON:0001226,major calyx
+VH_M_minor_calyx_L,UBERON:0001227,minor calyx
+VH_M_minor_calyx_L_a,UBERON:0001227,minor calyx
+VH_M_minor_calyx_L_b,UBERON:0001227,minor calyx
+VH_M_minor_calyx_L_c,UBERON:0001227,minor calyx
+VH_M_minor_calyx_L_d,UBERON:0001227,minor calyx
+VH_M_minor_calyx_L_e,UBERON:0001227,minor calyx
+VH_M_minor_calyx_L_f,UBERON:0001227,minor calyx
+VH_M_minor_calyx_L_g,UBERON:0001227,minor calyx
+VH_M_minor_calyx_L_h,UBERON:0001227,minor calyx
+VH_M_minor_calyx_L_i,UBERON:0001227,minor calyx

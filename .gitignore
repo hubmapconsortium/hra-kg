@@ -5,3 +5,6 @@ dist/
 scratch/
 staging/
 log*.txt
+
+# Ignore Apple's weird folder junk
+.DS_Store

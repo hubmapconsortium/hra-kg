@@ -1,0 +1,43 @@
+#+ summary: Digital objects counts in the latest HRA release
+
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ccf: <http://purl.org/ccf/>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX HRA: <https://purl.humanatlas.io/collection/hra>
+
+SELECT DISTINCT
+ (STR(?hubmap_idStr) as ?hubmap_id)
+ (CONCAT('https://entity.api.hubmapconsortium.org/redirect/', ?hubmap_id) as ?landing_page_to_register)
+ (STR(?purl) as ?data_information_page)
+ (STR(?doiStr) as ?doi)
+FROM <https://lod.humanatlas.io>
+WHERE {
+  {
+    SELECT ?purl ?release ?version
+    WHERE {
+      ?release a dcat:Dataset ;
+        schema:name ?releaseName ;
+        schema:additionalType ?releaseType ;
+        schema:version ?version ;
+        prov:hadMember ?purlStr ;
+      .
+      BIND(URI(STR(?purlStr)) as ?purl)
+      FILTER(?releaseType = 'collection' && ?releaseName = 'hra')
+    }
+  }
+
+  {
+    ?purl a dcat:Dataset ;
+      prov:wasDerivedFrom [
+        ccf:doi ?doiStr ;
+        ccf:hubmap_id ?hubmap_idStr ;
+      ] ;
+    . 
+  }
+}
+ORDER BY ?version ?hubmap_idStr

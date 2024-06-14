@@ -1,0 +1,12 @@
+node_name,OntologyID,label
+VH_M_larynx,UBERON:0001737,larynx
+VH_M_laryngeal_cartilage,UBERON:0001739,laryngeal cartilage
+VH_M_arytenoid_cartilage,UBERON:0001740,arytenoid cartilage
+VH_M_arytenoid_cartilage_R,FMA:55113,Right arytenoid cartilage
+VH_M_arytenoid_cartilage_L,FMA:55114,Left arytenoid cartilage
+VH_M_epiglottic_cartilage,UBERON:0001742,epiglottic cartilage
+VH_M_cricoid_cartilage,UBERON:0002375,cricoid cartilage
+VH_M_thyroid_cartilage,UBERON:0001738,thyroid cartilage
+VH_M_corniculate_cartilage,UBERON:0001741,corniculate cartilage
+VH_M_corniculate_cartilage_L,FMA:55116,Left corniculate cartilage
+VH_M_corniculate_cartilage_R,FMA:55115,Right corniculate cartilage

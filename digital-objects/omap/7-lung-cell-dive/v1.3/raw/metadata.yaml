@@ -1,0 +1,133 @@
+title: >-
+  OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Lung with Cell DIVE
+description: >-
+  OMAP-7 was designed for Cell DIVE imaging of Formalin-Fixed Paraffin-Embedded
+  (FFPE) lung tissue. Cell DIVE enables highly multiplexed single cell analysis
+  using antibody-based imaging (Gerdes, MJ. et al, 2013). The tissue slides were
+  prepared with a two-step antigen retrieval process (pH 6 and pH 9, as
+  described https://dx.doi.org/10.17504/protocols.io.bpwumpew. Antigens were
+  detected using either primary antibodies with fluorophore-labeled secondaries
+  or fluorescent dye conjugated antibodies (protocol can be found
+  https://dx.doi.org/10.17504/protocols.io.b4kgqutw. The panel contains 30
+  antibodies, 4 of which are used for cell segmentation (Na/K ATPase,
+  Cytokeratin, Cadherin, and S6) and the nuclear marker DAPI for image alignment
+  and nuclear segmentation. This OMAP provides a spatial context for key cell
+  types in the[ASCT+B lung table
+  v1.1](https://doi.org/10.48539/HBM323.SGDF.945).   Additionally, the inclusion
+  of protein biomarkers such as AGTR1, Cathepsin L, TMPRSS2, ICAM-1, and CD55
+  allow characterization of proteins relevant to SARS-CoV-2 infection and
+  profiling of the renin-angiotensin system (RAS) that may play a role in
+  COVID-19 disease. The core and essential protein biomarkers detailed here
+  overlap (~25%) with the panel developed for multiplexed imaging of lung
+  samples established using conventional automated IHC staining for
+  FFPE-material  (Dr. Christopher Werlein, an expert lung pathologist).  This
+  OMAP does not contain antibodies for typing subsets of fibroblasts,
+  macrophages, or endothelial cells. A representative dataset using this OMAP
+  can be found here: https://zenodo.org/record/7731162#.ZBmz2nbMIuU.
+creators:
+  - fullName: Christine Surrette
+    firstName: Christine
+    lastName: Surrette
+    orcid: 0000-0002-7334-4571
+  - fullName: Lisa Lowery
+    firstName: Lisa
+    lastName: Lowery
+    orcid: 0000-0002-9143-6509
+  - fullName: Gloria Pryhuber
+    firstName: Gloria
+    lastName: Pryhuber
+    orcid: 0000-0002-9185-3994
+  - fullName: Gail Deutsch
+    firstName: Gail
+    lastName: Deutsch
+    orcid: 0000-0002-0571-0285
+  - fullName: Fiona Ginty
+    firstName: Fiona
+    lastName: Ginty
+    orcid: 0000-0001-6638-683X
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: James Hagood
+    firstName: James
+    lastName: Hagood
+    orcid: 0000-0003-3938-0330
+  - fullName: Christopher Werlein
+    firstName: Christopher
+    lastName: Werlein
+    orcid: 0000-0002-7694-4257
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Anna Martinez Casals
+    firstName: Anna
+    lastName: Casals
+    orcid: 0000-0003-2722-1965
+  - fullName: Presha Rajbhandari
+    firstName: Presha
+    lastName: Rajbhandari
+    orcid: 0000-0003-2184-7238
+externalReviewers: []
+creation_date: '2024-06-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
+    awardNumber: 3UH3CA246594-02S1
+  - funder: Intramural Research Program of the NIH
+    awardNumber: UH3 CA246635
+  - funder: >-
+      National Institute of Allergy and Infectious Disease and National Cancer
+      Institute
+    awardNumber: OT2OD026671
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Heart
+    awardNumber: U01HL148861-02S1
+  - funder: Lung and Blood Institute
+    awardNumber: U54HL145608-04
+hubmapId: HBM848.XMNH.635
+doi: https://doi.org/10.48539/HBM848.XMNH.635
+citation: >-
+  Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty.
+  OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Lung with Cell DIVE, v1.3,
+  https://doi.org/10.48539/HBM848.XMNH.635. Accessed on June 15, 2024.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
+  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
+  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
+  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
+  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
+  Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
+  Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+datatable:
+  - omap-7-lung-cell-dive.csv
+  - omap-7-lung-cell-dive.xlsx

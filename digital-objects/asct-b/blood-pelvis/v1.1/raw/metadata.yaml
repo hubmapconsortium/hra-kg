@@ -47,7 +47,7 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2022-05-06'
+creation_date: '2021-12-1'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -55,14 +55,14 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM296.NBLN.233
-doi: https://doi.org/10.48539/HBM296.NBLN.233
+hubmapId: HBM957.CKRV.896
+doi: https://doi.org/10.48539/HBM957.CKRV.896
 citation: >-
   Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables.
   Blood/Pelvis v1.1
-  [https://doi.org/10.48539/HBM296.NBLN.233](https://doi.org/10.48539/HBM296.NBLN.233)
+  [https://doi.org/10.48539/HBM957.CKRV.896](https://doi.org/10.48539/HBM957.CKRV.896)
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 06, 2022.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 1, 2021.
 datatable:
   - ASCT-B_VH_BM_Blood_Pelvis.csv

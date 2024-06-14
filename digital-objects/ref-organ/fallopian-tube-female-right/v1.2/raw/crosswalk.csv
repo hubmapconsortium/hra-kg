@@ -1,0 +1,6 @@
+node_name,OntologyID,label
+VH_F_fallopian_tube_R,UBERON:0001302,right uterine tube
+VH_F_ampulla_of_uterine_tube_R,FMA:18491,Ampulla of right uterine tube
+VH_F_isthmus_of_fallopian_tube_R,FMA:18493,Isthmus of right uterine tube
+VH_F_fibria_of_uterine_tube_R,FMA:18497,Fimbria of right uterine tube
+VH_F_uterine_tube_infundibulum_R,FMA:18489,Infundibulum of right uterine tube
