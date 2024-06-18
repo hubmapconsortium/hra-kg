@@ -15,8 +15,6 @@ CONSTRUCT {
 FROM HRA:
 FROM DSGraphs:
 WHERE {
-  hint:Query hint:analytic "true" .
-
   [] ccf:has_registration_location ?rui_location .
   ?rui_location rdf:type ccf:SpatialEntity .
 
