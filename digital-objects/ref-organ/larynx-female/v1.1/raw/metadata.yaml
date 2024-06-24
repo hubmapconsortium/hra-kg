@@ -34,7 +34,7 @@ funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 hubmapId: HBM525.FJHR.643
-doi: v
+doi: https://doi.org/10.48539/HBM525.FJHR.643
 citation: >-
   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Larynx, Female
   v1.1.*
