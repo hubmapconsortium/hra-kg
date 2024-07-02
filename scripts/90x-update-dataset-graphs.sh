@@ -5,7 +5,7 @@ set -e
 
 BUILD_OPTS="--clean --update-db"
 PROCESSOR_OPTS="--skip-validation"
-VERSION=v2023
+VERSION=v2024
 DIGITAL_OBJECTS=$(do-processor list | grep "^ds-graph" | grep $VERSION)
 
 # Go through each ds-graph digital object and download and update if they have a url.txt

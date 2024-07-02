@@ -4,8 +4,8 @@ set -ev
 
 export VERSION=v2.1
 export DEPLOY_HOME=/home/bherr/workspaces/hubmap/hra-kg/dist-${VERSION}
-export EXTRA_DOs="graph/ccf/v2.3.0 graph/ds-graphs-enrichments/v2023"
-export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION collection/ds-graphs/v2023"
+export EXTRA_DOs="graph/ccf/v2.3.0 graph/ds-graphs-enrichments/v2024"
+export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION collection/ds-graphs/v2024"
 export CLEAN="true"
 
 if [ "$CLEAN" = "true" ]; then

@@ -1,0 +1,1 @@
+https://hubmapconsortium.github.io/hra-registrations/federated/rui_locations.jsonld
