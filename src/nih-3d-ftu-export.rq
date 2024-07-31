@@ -1,0 +1,81 @@
+#+ summary: NIH3D 2D FTU Illustration Metadata export query
+
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ccf: <http://purl.org/ccf/>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX UBERON: <http://purl.obolibrary.org/obo/UBERON_>
+PREFIX HRA: <https://purl.humanatlas.io/collection/hra>
+
+SELECT DISTINCT
+ (STR(?purl) as ?HRA_Illustration)
+ ?Title
+ ?Description
+ ('CC-BY' as ?License)
+ (?ftuLabel as ?Keywords)
+ ('Katy Borner' as ?Content_Provider)
+ ?Citations
+ ?Creation_Date
+ ('Adobe Illustrator' as ?Illustration_Software)
+ ('Human Reference Atlas' as ?Subtitle)
+ (STR(?doiStr) as ?DOI)
+ ('' as ?NIH_3D_ID)
+ ('' as ?_)
+ ('Anatomy' as ?Category)
+ ('Vector' as ?Image_Type)
+ ('Human' as ?Animals)
+ ('' as ?Anatomy)
+ ('' as ?Cells_and_Organelles)
+ ('' as ?Molecules)
+ (CONCAT(?organUberonId, ',', ?ftuUberonId) as ?UBERON)
+WHERE {
+  GRAPH <https://lod.humanatlas.io> {
+    SELECT ?purl ?namedGraph ?release ?version
+    WHERE {
+      ?release a dcat:Dataset ;
+        schema:name ?releaseName ;
+        schema:additionalType ?releaseType ;
+        schema:version ?version ;
+        prov:hadMember ?purlStr ;
+      .
+      BIND(URI(STR(?purlStr)) as ?purl)
+      FILTER(?releaseType = 'collection' && ?releaseName = 'hra' && ?version = 'v2.1')
+      FILTER(CONTAINS(STR(?purlStr), '/2d-ftu/'))
+      BIND(URI(STRBEFORE(STR(?purlStr), CONCAT('/v1.'))) as ?namedGraph)
+
+      hint:SubQuery hint:runOnce true .
+    }
+  }
+
+  GRAPH <https://lod.humanatlas.io> {
+    ?purl a dcat:Dataset ;
+      prov:wasDerivedFrom [
+        ccf:doi ?doiStr ;
+        ccf:hubmap_id ?hubmap_idStr ;
+        dcterms:title ?Title ;
+        dcterms:description ?Description ;
+        ccf:project_lead [
+          schema:name ?project_lead ;
+        ] ;
+        schema:citation ?Citations ;
+        schema:dateCreated ?Creation_Date ;
+      ] ;
+    . 
+  }
+
+  GRAPH ?namedGraph {
+    [] rdf:type ccf:FtuIllustration ;
+      a ?ftuUberon ;
+      ccf:ccf_located_in ?organUberonId ;
+    .
+    FILTER(STRSTARTS(STR(?ftuUberon), STR(UBERON:)))
+    BIND(REPLACE(STR(?ftuUberon), STR(UBERON:), 'UBERON:') as ?ftuUberonId)
+
+    ?ftuUberon rdfs:label ?ftuLabel .
+  }
+}
+ORDER BY ?purl
