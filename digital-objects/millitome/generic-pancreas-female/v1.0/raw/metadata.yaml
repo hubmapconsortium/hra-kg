@@ -1,0 +1,32 @@
+title: Millitome for Generic Pancreas, Female
+description: Millitome for Generic Pancreas, Female
+creators:
+  # - fullName: Bhargav Desai
+  #   firstName: Bhargav
+  #   lastName: Desai
+  #   orcid: # Waiting on Bhargav to create an ORCID
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: '2024-07-02'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+datatable:
+  - extraction-sites.jsonld
