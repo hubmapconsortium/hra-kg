@@ -1,14 +1,10 @@
 title: Millitome for Generic Pancreas, Female
 description: Millitome for Generic Pancreas, Female
 creators:
-  # - fullName: Bhargav Desai
-  #   firstName: Bhargav
-  #   lastName: Desai
-  #   orcid: # Waiting on Bhargav to create an ORCID
-  - fullName: Katy Börner
-    firstName: Katy
-    lastName: Börner
-    orcid: 0000-0002-3321-6137
+  - fullName: Bhargav Desai
+    firstName: Bhargav
+    lastName: Desai
+    orcid: 0009-0008-6509-7698
 project_leads:
   - fullName: Katy Börner
     firstName: Katy
