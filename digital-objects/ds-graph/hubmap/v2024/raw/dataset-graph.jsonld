@@ -82,6 +82,17 @@
               "sample_type": "Tissue Section",
               "section_number": 2,
               "samples": [],
+              "datasets": []
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/509d2f22c9e9c33e2bf5b5ebca679570",
+              "@type": "Sample",
+              "label": "Registered 7/19/2024, Thomas Karathanos, TMC-Stanford",
+              "description": "20 x 50 x 1 millimeter, 1 millimeter, block",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/509d2f22c9e9c33e2bf5b5ebca679570",
+              "sample_type": "Tissue Section",
+              "section_number": 3,
+              "samples": [],
               "datasets": [
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/517539cee7b8ea5909150998f5486a17",
@@ -271,6 +282,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/15db48f9317ed83a6c65ae69a4e61340",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/aed6880fb3725de9e945aa2ad648f48e",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/aed6880fb3725de9e945aa2ad648f48e",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/db0d7736f53dcf9bc79af180d8897365",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/db0d7736f53dcf9bc79af180d8897365",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -329,10 +358,21 @@
               "@id": "https://entity.api.hubmapconsortium.org/entities/35e16f13caab262f446836f63cf4ad42",
               "@type": "Sample",
               "label": "Registered 2/16/2022, daniel Cotter, TMC-Stanford",
-              "description": "3 x 30 x 15 millimeter, 15 millimeter, block",
+              "description": "3 x 30 x 7.5 millimeter, 7.5 millimeter, block",
               "link": "https://portal.hubmapconsortium.org/browse/sample/35e16f13caab262f446836f63cf4ad42",
               "sample_type": "Tissue Section",
               "section_number": 1,
+              "samples": [],
+              "datasets": []
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/1367446a254479d80e23dd21b01d7a1a",
+              "@type": "Sample",
+              "label": "Registered 7/19/2024, Thomas Karathanos, TMC-Stanford",
+              "description": "3 x 30 x 7.5 millimeter, 7.5 millimeter, block",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/1367446a254479d80e23dd21b01d7a1a",
+              "sample_type": "Tissue Section",
+              "section_number": 2,
               "samples": [],
               "datasets": [
                 {
@@ -523,15 +563,33 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/1bf86213597aba9a76c1cce3a027edb2",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/9fa780b7403c4b046b2037aa241843dc",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/9fa780b7403c4b046b2037aa241843dc",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/1a3cf1aacd2e8ff688d5420b834dfe18",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/1a3cf1aacd2e8ff688d5420b834dfe18",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
           ],
           "datasets": [],
-          "section_count": 1,
-          "section_size": 15,
+          "section_count": 2,
+          "section_size": 7.5,
           "section_units": "millimeter",
-          "description": "3 x 30 x 15 millimeter, 15 millimeter, 1 Sections"
+          "description": "3 x 30 x 15 millimeter, 7.5 millimeter, 2 Sections"
         },
         {
           "@type": "Sample",
@@ -846,6 +904,17 @@
               "sample_type": "Tissue Section",
               "section_number": 2,
               "samples": [],
+              "datasets": []
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/f0905232556b16082402be606fc7968b",
+              "@type": "Sample",
+              "label": "Registered 7/19/2024, Thomas Karathanos, TMC-Stanford",
+              "description": "20 x 50 x 1 millimeter, 1 millimeter, block",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/f0905232556b16082402be606fc7968b",
+              "sample_type": "Tissue Section",
+              "section_number": 3,
+              "samples": [],
               "datasets": [
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/f84c8edc36a65f248c2649ebbe52ad35",
@@ -1035,6 +1104,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/15db48f9317ed83a6c65ae69a4e61340",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/ca302925f00d722ef17b488cc334f5e7",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/ca302925f00d722ef17b488cc334f5e7",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/2126c844cfbcfce92d3317f83509d746",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/2126c844cfbcfce92d3317f83509d746",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -1292,7 +1379,7 @@
               "@id": "https://entity.api.hubmapconsortium.org/entities/8332815c55f72e2aec5610dcb4eab9d7",
               "@type": "Sample",
               "label": "Registered 2/16/2022, daniel Cotter, TMC-Stanford",
-              "description": "3 x 30 x 7.5 millimeter, 7.5 millimeter, block",
+              "description": "3 x 30 x 5 millimeter, 5 millimeter, block",
               "link": "https://portal.hubmapconsortium.org/browse/sample/8332815c55f72e2aec5610dcb4eab9d7",
               "sample_type": "Tissue Section",
               "section_number": 1,
@@ -1303,10 +1390,21 @@
               "@id": "https://entity.api.hubmapconsortium.org/entities/c42cd175c2085a861119de49240a6769",
               "@type": "Sample",
               "label": "Registered 10/14/2021, daniel Cotter, TMC-Stanford",
-              "description": "3 x 30 x 7.5 millimeter, 7.5 millimeter, block",
+              "description": "3 x 30 x 5 millimeter, 5 millimeter, block",
               "link": "https://portal.hubmapconsortium.org/browse/sample/c42cd175c2085a861119de49240a6769",
               "sample_type": "Tissue Section",
               "section_number": 2,
+              "samples": [],
+              "datasets": []
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/038e4fcefc00f7ecc537b5d8462e6404",
+              "@type": "Sample",
+              "label": "Registered 7/19/2024, Thomas Karathanos, TMC-Stanford",
+              "description": "3 x 30 x 5 millimeter, 5 millimeter, block",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/038e4fcefc00f7ecc537b5d8462e6404",
+              "sample_type": "Tissue Section",
+              "section_number": 3,
               "samples": [],
               "datasets": [
                 {
@@ -1497,15 +1595,33 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/15db48f9317ed83a6c65ae69a4e61340",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/57b475b8ad39fa2cf07ede0cf192b2f6",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/57b475b8ad39fa2cf07ede0cf192b2f6",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/77e7f69bbda6a37658209f3544db1998",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/77e7f69bbda6a37658209f3544db1998",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
           ],
           "datasets": [],
-          "section_count": 2,
-          "section_size": 7.5,
+          "section_count": 3,
+          "section_size": 5,
           "section_units": "millimeter",
-          "description": "3 x 30 x 15 millimeter, 7.5 millimeter, 2 Sections"
+          "description": "3 x 30 x 15 millimeter, 5 millimeter, 3 Sections"
         },
         {
           "@type": "Sample",
@@ -1574,6 +1690,17 @@
               "link": "https://portal.hubmapconsortium.org/browse/sample/963bd2fa410b68b21b45b4498db223c2",
               "sample_type": "Tissue Section",
               "section_number": 2,
+              "samples": [],
+              "datasets": []
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/1cfe67afe97094ac8ceb399e4bb50395",
+              "@type": "Sample",
+              "label": "Registered 7/19/2024, Thomas Karathanos, TMC-Stanford",
+              "description": "20 x 50 x 1 millimeter, 1 millimeter, block",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/1cfe67afe97094ac8ceb399e4bb50395",
+              "sample_type": "Tissue Section",
+              "section_number": 3,
               "samples": [],
               "datasets": [
                 {
@@ -1764,6 +1891,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/15db48f9317ed83a6c65ae69a4e61340",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/bfda5e0865a839a9772522ef97cbca08",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/bfda5e0865a839a9772522ef97cbca08",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/6c9bdbe57fc29b2f61620cf08e3be492",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/6c9bdbe57fc29b2f61620cf08e3be492",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -1828,7 +1973,7 @@
               "@id": "https://entity.api.hubmapconsortium.org/entities/e80cd8fab25ec8e9cb41e3872e2129c7",
               "@type": "Sample",
               "label": "Registered 2/16/2022, daniel Cotter, TMC-Stanford",
-              "description": "3 x 30 x 7.5 millimeter, 7.5 millimeter, block",
+              "description": "3 x 30 x 5 millimeter, 5 millimeter, block",
               "link": "https://portal.hubmapconsortium.org/browse/sample/e80cd8fab25ec8e9cb41e3872e2129c7",
               "sample_type": "Tissue Section",
               "section_number": 1,
@@ -1839,10 +1984,21 @@
               "@id": "https://entity.api.hubmapconsortium.org/entities/540f48cb2b4b85fb1d358f90e51611fd",
               "@type": "Sample",
               "label": "Registered 10/14/2021, daniel Cotter, TMC-Stanford",
-              "description": "3 x 30 x 7.5 millimeter, 7.5 millimeter, block",
+              "description": "3 x 30 x 5 millimeter, 5 millimeter, block",
               "link": "https://portal.hubmapconsortium.org/browse/sample/540f48cb2b4b85fb1d358f90e51611fd",
               "sample_type": "Tissue Section",
               "section_number": 2,
+              "samples": [],
+              "datasets": []
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/6f700af74a252c99065125d908d97f5d",
+              "@type": "Sample",
+              "label": "Registered 7/19/2024, Thomas Karathanos, TMC-Stanford",
+              "description": "3 x 30 x 5 millimeter, 5 millimeter, block",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/6f700af74a252c99065125d908d97f5d",
+              "sample_type": "Tissue Section",
+              "section_number": 3,
               "samples": [],
               "datasets": [
                 {
@@ -2033,15 +2189,33 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/15db48f9317ed83a6c65ae69a4e61340",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/baf976734dd652208d13134bc5c4594b",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/baf976734dd652208d13134bc5c4594b",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/bbbf5a5b29986dd57910daab00193f35",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/bbbf5a5b29986dd57910daab00193f35",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
           ],
           "datasets": [],
-          "section_count": 2,
-          "section_size": 7.5,
+          "section_count": 3,
+          "section_size": 5,
           "section_units": "millimeter",
-          "description": "3 x 30 x 15 millimeter, 7.5 millimeter, 2 Sections"
+          "description": "3 x 30 x 15 millimeter, 5 millimeter, 3 Sections"
         },
         {
           "@type": "Sample",
@@ -2438,7 +2612,7 @@
               "@id": "https://entity.api.hubmapconsortium.org/entities/8124e9475115786c1fae3683a6714c32",
               "@type": "Sample",
               "label": "Registered 2/16/2022, daniel Cotter, TMC-Stanford",
-              "description": "20 x 50 x 2.5 millimeter, 2.5 millimeter, block",
+              "description": "20 x 50 x 1.7 millimeter, 1.7 millimeter, block",
               "link": "https://portal.hubmapconsortium.org/browse/sample/8124e9475115786c1fae3683a6714c32",
               "sample_type": "Tissue Section",
               "section_number": 1,
@@ -2449,10 +2623,21 @@
               "@id": "https://entity.api.hubmapconsortium.org/entities/96d320ccb24a968bc32571895cf1b05e",
               "@type": "Sample",
               "label": "Registered 2/16/2022, daniel Cotter, TMC-Stanford",
-              "description": "20 x 50 x 2.5 millimeter, 2.5 millimeter, block",
+              "description": "20 x 50 x 1.7 millimeter, 1.7 millimeter, block",
               "link": "https://portal.hubmapconsortium.org/browse/sample/96d320ccb24a968bc32571895cf1b05e",
               "sample_type": "Tissue Section",
               "section_number": 2,
+              "samples": [],
+              "datasets": []
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/6874561561f77469bf3ac02d0c1ba598",
+              "@type": "Sample",
+              "label": "Registered 7/19/2024, Thomas Karathanos, TMC-Stanford",
+              "description": "20 x 50 x 1.7 millimeter, 1.7 millimeter, block",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/6874561561f77469bf3ac02d0c1ba598",
+              "sample_type": "Tissue Section",
+              "section_number": 3,
               "samples": [],
               "datasets": [
                 {
@@ -2661,15 +2846,33 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/061b6c8f8e76f9be125f0f93e7734642",
                   "technology": "RNAseq",
                   "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/b0c21c4002cf2d14e7c9a2b7aafb1c49",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/b0c21c4002cf2d14e7c9a2b7aafb1c49",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/20abf6a38391d0b08703376ad56b2130",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/20abf6a38391d0b08703376ad56b2130",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
           ],
           "datasets": [],
-          "section_count": 2,
-          "section_size": 2.5,
+          "section_count": 3,
+          "section_size": 1.7,
           "section_units": "millimeter",
-          "description": "20 x 50 x 5 millimeter, 2.5 millimeter, 2 Sections"
+          "description": "20 x 50 x 5 millimeter, 1.7 millimeter, 3 Sections"
         },
         {
           "@type": "Sample",
@@ -2890,7 +3093,7 @@
               "@id": "https://entity.api.hubmapconsortium.org/entities/e1e1c07203b6c09477e8bbaef8dd48bb",
               "@type": "Sample",
               "label": "Registered 2/16/2022, daniel Cotter, TMC-Stanford",
-              "description": "3 x 30 x 7.5 millimeter, 7.5 millimeter, block",
+              "description": "3 x 30 x 5 millimeter, 5 millimeter, block",
               "link": "https://portal.hubmapconsortium.org/browse/sample/e1e1c07203b6c09477e8bbaef8dd48bb",
               "sample_type": "Tissue Section",
               "section_number": 1,
@@ -2901,10 +3104,21 @@
               "@id": "https://entity.api.hubmapconsortium.org/entities/76b94901ee1e8d7ac4f364cacd1533bc",
               "@type": "Sample",
               "label": "Registered 10/14/2021, daniel Cotter, TMC-Stanford",
-              "description": "3 x 30 x 7.5 millimeter, 7.5 millimeter, block",
+              "description": "3 x 30 x 5 millimeter, 5 millimeter, block",
               "link": "https://portal.hubmapconsortium.org/browse/sample/76b94901ee1e8d7ac4f364cacd1533bc",
               "sample_type": "Tissue Section",
               "section_number": 2,
+              "samples": [],
+              "datasets": []
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/23820292ab47f3196aefb7517d931033",
+              "@type": "Sample",
+              "label": "Registered 7/19/2024, Thomas Karathanos, TMC-Stanford",
+              "description": "3 x 30 x 5 millimeter, 5 millimeter, block",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/23820292ab47f3196aefb7517d931033",
+              "sample_type": "Tissue Section",
+              "section_number": 3,
               "samples": [],
               "datasets": [
                 {
@@ -3095,15 +3309,33 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/15db48f9317ed83a6c65ae69a4e61340",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/856aa4e05b68a78411a2e20f26d3a574",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/856aa4e05b68a78411a2e20f26d3a574",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/7ae50cd47b3d2291adfb58c810aa4bab",
+                  "@type": "Dataset",
+                  "label": "Registered 8/8/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/7ae50cd47b3d2291adfb58c810aa4bab",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
           ],
           "datasets": [],
-          "section_count": 2,
-          "section_size": 7.5,
+          "section_count": 3,
+          "section_size": 5,
           "section_units": "millimeter",
-          "description": "3 x 30 x 15 millimeter, 7.5 millimeter, 2 Sections"
+          "description": "3 x 30 x 15 millimeter, 5 millimeter, 3 Sections"
         },
         {
           "@type": "Sample",
@@ -3966,7 +4198,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/7fd04d1aba61c35843dd2eb6a19d2545",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/7fd04d1aba61c35843dd2eb6a19d2545",
               "technology": "RNAseq",
@@ -4217,7 +4449,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/b40eb3abccf2341f274cfd4ba809c03e",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/b40eb3abccf2341f274cfd4ba809c03e",
               "technology": "RNAseq",
@@ -4470,7 +4702,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/617aa0f0fc9a4ad38ecd96afad012575",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/617aa0f0fc9a4ad38ecd96afad012575",
               "technology": "RNAseq",
@@ -5498,7 +5730,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/f73a65dad610b5d8fc3056a35e6c46ad",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/f73a65dad610b5d8fc3056a35e6c46ad",
               "technology": "RNAseq",
@@ -5516,7 +5748,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/01844e5a048e03aa434ee0afb71c813d",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/01844e5a048e03aa434ee0afb71c813d",
               "technology": "RNAseq",
@@ -5676,7 +5908,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/76e5f8debfe7159dda861a3ad79b87df",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/76e5f8debfe7159dda861a3ad79b87df",
               "technology": "RNAseq",
@@ -5694,7 +5926,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/1d154d589fb8cffbb8d1f056d0f718f6",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/1d154d589fb8cffbb8d1f056d0f718f6",
               "technology": "RNAseq",
@@ -6839,7 +7071,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/8776e9183d5f85d90535a0b1b3b4e32a",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/8776e9183d5f85d90535a0b1b3b4e32a",
               "technology": "RNAseq",
@@ -6906,7 +7138,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/2dca1bf5832a4102ba780e9e54f6c350",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/2dca1bf5832a4102ba780e9e54f6c350",
               "technology": "RNAseq",
@@ -6973,7 +7205,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/8a238da50c0c0436510b857c21e4e792",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/8a238da50c0c0436510b857c21e4e792",
               "technology": "RNAseq",
@@ -7225,7 +7457,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/c03acf2de0caff5e5850e0f76d555e1b",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/c03acf2de0caff5e5850e0f76d555e1b",
               "technology": "RNAseq",
@@ -7581,7 +7813,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/399643b5aed6b71edee96d4bf9e0d306",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/399643b5aed6b71edee96d4bf9e0d306",
               "technology": "RNAseq",
@@ -8724,7 +8956,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/7b3d42e6cc6a1ce7ef07cbbed29cc626",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/7b3d42e6cc6a1ce7ef07cbbed29cc626",
               "technology": "RNAseq",
@@ -9338,7 +9570,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/638799c2725a0c88ec7ee389cb98884f",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/638799c2725a0c88ec7ee389cb98884f",
               "technology": "RNAseq",
@@ -9347,7 +9579,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/cc70b4ebb578528b29b8d6fa5eb499dd",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/cc70b4ebb578528b29b8d6fa5eb499dd",
               "technology": "RNAseq",
@@ -9428,7 +9660,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/76627e9a5a369c5230b9da216fe20eb3",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/76627e9a5a369c5230b9da216fe20eb3",
               "technology": "RNAseq",
@@ -9446,7 +9678,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/f4cd67b641b87d97b5b2749382cfc921",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/f4cd67b641b87d97b5b2749382cfc921",
               "technology": "RNAseq",
@@ -9603,7 +9835,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/0907c9bfdb4d9ffe891f8682ca2f701e",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/0907c9bfdb4d9ffe891f8682ca2f701e",
               "technology": "RNAseq",
@@ -9621,7 +9853,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/67c8950caee99625a5c7a5dda03c4be8",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/67c8950caee99625a5c7a5dda03c4be8",
               "technology": "RNAseq",
@@ -10417,7 +10649,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/8030bee708b211203104616629480b52",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/8030bee708b211203104616629480b52",
                   "technology": "Histology",
@@ -14048,6 +14280,24 @@
                   "thumbnail": "assets/icons/ico-unknown.svg"
                 },
                 {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/4a8b0b107110880ea5c9b1e31370cdcf",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/4a8b0b107110880ea5c9b1e31370cdcf",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/cf779d903caed443c3c1f72f73cf040b",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/cf779d903caed443c3c1f72f73cf040b",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/7f89e537556bed564e674ff941a2fcb6",
                   "@type": "Dataset",
                   "label": "Registered 6/14/2023, Joel Welling, TMC-Stanford",
@@ -14234,6 +14484,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/27db7c3986c56c8ce03e71779e7ce698",
               "technology": "RNAseq",
               "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/f0a0da64a2c472bfb9c2aa8fb97c2878",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/f0a0da64a2c472bfb9c2aa8fb97c2878",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/2a0d04ddd7a9de620d12714f7facb606",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/2a0d04ddd7a9de620d12714f7facb606",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -14395,6 +14663,24 @@
                   "description": "Dataset Type: RNAseq [Salmon]",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/0a0eb095c8e7f7c890da20184d7527cb",
                   "technology": "RNAseq",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/f5e95d2148ab18e97e3a926f4b9291df",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/f5e95d2148ab18e97e3a926f4b9291df",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/f25d6c3b85090f8456ae32d0863eb195",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/f25d6c3b85090f8456ae32d0863eb195",
+                  "technology": "Histology",
                   "thumbnail": "assets/icons/ico-unknown.svg"
                 },
                 {
@@ -14613,6 +14899,24 @@
                   "thumbnail": "assets/icons/ico-unknown.svg"
                 },
                 {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/9325e4b5afb747691be057c06d41a32a",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/9325e4b5afb747691be057c06d41a32a",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/26d072816ee7a8bc95d39d5eea07149a",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/26d072816ee7a8bc95d39d5eea07149a",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/06f672a6fc7ca03d92583055a35c8148",
                   "@type": "Dataset",
                   "label": "Registered 6/14/2023, Joel Welling, TMC-Stanford",
@@ -14803,6 +15107,24 @@
                   "thumbnail": "assets/icons/ico-unknown.svg"
                 },
                 {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/f0a0da64a2c472bfb9c2aa8fb97c2878",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/f0a0da64a2c472bfb9c2aa8fb97c2878",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/2a0d04ddd7a9de620d12714f7facb606",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/2a0d04ddd7a9de620d12714f7facb606",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/7ab73d3f61643071e4dc5fb03349ce9c",
                   "@type": "Dataset",
                   "label": "Registered 6/14/2023, Joel Welling, TMC-Stanford",
@@ -14971,6 +15293,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/4a535055190943788c69d672ba1c8a71",
               "technology": "RNAseq",
               "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/afb0f634a422970e31c8bc724242ee11",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/afb0f634a422970e31c8bc724242ee11",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/499b346e9aecba6b3447cb4f2a801127",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/499b346e9aecba6b3447cb4f2a801127",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -15117,6 +15457,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/0a0eb095c8e7f7c890da20184d7527cb",
               "technology": "RNAseq",
               "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/f5e95d2148ab18e97e3a926f4b9291df",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/f5e95d2148ab18e97e3a926f4b9291df",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/f25d6c3b85090f8456ae32d0863eb195",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/f25d6c3b85090f8456ae32d0863eb195",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -15229,6 +15587,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/ae422532f260b3d6fc662aae69b05d33",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/06d21d70f69fc2d65d8f3b4d3fe23946",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/06d21d70f69fc2d65d8f3b4d3fe23946",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/bfade69028acd21dfb10f44b2e0ed1f9",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/bfade69028acd21dfb10f44b2e0ed1f9",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -15351,6 +15727,24 @@
               "description": "Dataset Type: RNAseq [Salmon]",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/07b9f36478e22bf820ac6a084e01bf94",
               "technology": "RNAseq",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/6d5f8f35ce9de938ca335aca9bc79bfc",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/6d5f8f35ce9de938ca335aca9bc79bfc",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/4b121f698baa3856ff43863206e1dde2",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/4b121f698baa3856ff43863206e1dde2",
+              "technology": "Histology",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
@@ -15481,6 +15875,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/ae422532f260b3d6fc662aae69b05d33",
                   "technology": "CODEX",
                   "thumbnail": "assets/icons/ico-spatial-codex.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/06d21d70f69fc2d65d8f3b4d3fe23946",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/06d21d70f69fc2d65d8f3b4d3fe23946",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/bfade69028acd21dfb10f44b2e0ed1f9",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/bfade69028acd21dfb10f44b2e0ed1f9",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 },
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/8f8742a4b355c9c712574069ad9db417",
@@ -15670,6 +16082,24 @@
                   "thumbnail": "assets/icons/ico-unknown.svg"
                 },
                 {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/afb0f634a422970e31c8bc724242ee11",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/afb0f634a422970e31c8bc724242ee11",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/499b346e9aecba6b3447cb4f2a801127",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/499b346e9aecba6b3447cb4f2a801127",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/18433d783d84682b9e6537e99470d8fa",
                   "@type": "Dataset",
                   "label": "Registered 6/14/2023, Joel Welling, TMC-Stanford",
@@ -15856,6 +16286,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/ced1599b71875ead46a41286ce67ba53",
               "technology": "RNAseq",
               "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/564167adbbb2fdd64c24e7ea409c23f1",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/564167adbbb2fdd64c24e7ea409c23f1",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/6a44cac7dccf547f13b45bcd47696539",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/6a44cac7dccf547f13b45bcd47696539",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -15997,6 +16445,24 @@
                   "description": "Dataset Type: RNAseq [Salmon]",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/07b9f36478e22bf820ac6a084e01bf94",
                   "technology": "RNAseq",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/6d5f8f35ce9de938ca335aca9bc79bfc",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/6d5f8f35ce9de938ca335aca9bc79bfc",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/4b121f698baa3856ff43863206e1dde2",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/4b121f698baa3856ff43863206e1dde2",
+                  "technology": "Histology",
                   "thumbnail": "assets/icons/ico-unknown.svg"
                 },
                 {
@@ -16196,6 +16662,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/69d175d24b6b3997cc99fa6531a5fbce",
               "technology": "RNAseq",
               "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/9325e4b5afb747691be057c06d41a32a",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/9325e4b5afb747691be057c06d41a32a",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/26d072816ee7a8bc95d39d5eea07149a",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/26d072816ee7a8bc95d39d5eea07149a",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -16337,6 +16821,24 @@
                   "description": "Dataset Type: RNAseq [Salmon]",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/ced1599b71875ead46a41286ce67ba53",
                   "technology": "RNAseq",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/564167adbbb2fdd64c24e7ea409c23f1",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/564167adbbb2fdd64c24e7ea409c23f1",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/6a44cac7dccf547f13b45bcd47696539",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/6a44cac7dccf547f13b45bcd47696539",
+                  "technology": "Histology",
                   "thumbnail": "assets/icons/ico-unknown.svg"
                 },
                 {
@@ -16542,6 +17044,24 @@
               "description": "Dataset Type: RNAseq [Salmon]",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/b23c6f176280ad4c9fe8f74509cb6cf6",
               "technology": "RNAseq",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/4a8b0b107110880ea5c9b1e31370cdcf",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/4a8b0b107110880ea5c9b1e31370cdcf",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/cf779d903caed443c3c1f72f73cf040b",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/cf779d903caed443c3c1f72f73cf040b",
+              "technology": "Histology",
               "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
@@ -17843,7 +18363,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/a5234e06fed9a14ee8d29c5aa0258ba5",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/a5234e06fed9a14ee8d29c5aa0258ba5",
               "technology": "RNAseq",
@@ -18468,7 +18988,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/4081680ef553db5f91fb3587dde595b6",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/4081680ef553db5f91fb3587dde595b6",
               "technology": "RNAseq",
@@ -18710,7 +19230,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/3683b49e27133c064ccbd59ff9723e7c",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jesus Penaloza Aponte, TMC-Florida",
+              "label": "Registered 7/25/2024, Jesus Penaloza Aponte, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/3683b49e27133c064ccbd59ff9723e7c",
               "technology": "RNAseq",
@@ -20282,7 +20802,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/1a7c7284d18dd06273dba5861fc19f7b",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/1a7c7284d18dd06273dba5861fc19f7b",
               "technology": "RNAseq",
@@ -20300,7 +20820,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/5ba6a5b81e95c93c26a33980f6e957d7",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/5ba6a5b81e95c93c26a33980f6e957d7",
               "technology": "RNAseq",
@@ -20607,7 +21127,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/7810dadcb43b35ef9de6378f3d53b532",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/7810dadcb43b35ef9de6378f3d53b532",
                   "technology": "Histology",
@@ -21028,7 +21548,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/7eef1634020f429f9855ff319ff0c65e",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/7eef1634020f429f9855ff319ff0c65e",
                   "technology": "Histology",
@@ -22989,6 +23509,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/10c0c11280c00f324259fe38e2291ee4",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/9c2bd56273b1400e9249eaec12290b14",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/9c2bd56273b1400e9249eaec12290b14",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/ae609b3d63f5996bd0e8c13e057f7af4",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/ae609b3d63f5996bd0e8c13e057f7af4",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -23095,6 +23633,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/6039edc6b019fb0974af0af7a25a4fb8",
               "technology": "ATACseq",
               "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/92e6abffa3805515a734d55c20d6247d",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/92e6abffa3805515a734d55c20d6247d",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/4f00a7f3b3afeecbe9db1af33bf2b0a3",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/4f00a7f3b3afeecbe9db1af33bf2b0a3",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -23200,6 +23756,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/fafec5ab4f5c7bb0564d6e7673c316e5",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/4e6c75e2eebad9c246f7d990fca2f11e",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/4e6c75e2eebad9c246f7d990fca2f11e",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/1c0d97740886fb717a098f4174ff7913",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/1c0d97740886fb717a098f4174ff7913",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -23308,6 +23882,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/8d86e6c899e80d0f5f95604eb4ad492e",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/fcdfcc39dd05a9ed003880aad14bf881",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/fcdfcc39dd05a9ed003880aad14bf881",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/bab80df37c14ea944901bdb9b24311d2",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/bab80df37c14ea944901bdb9b24311d2",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -23412,6 +24004,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/ad7c2d2cc423d0324fc1bba43042a515",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/a45eefc99f4b0ca85a2484f23de3d71d",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/a45eefc99f4b0ca85a2484f23de3d71d",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/4e0d9d8dc48c45d1ca1fc3b8de1a2adb",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/4e0d9d8dc48c45d1ca1fc3b8de1a2adb",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -23517,6 +24127,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/cba4c1d05d8316f488c23a5ed20a68b2",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/0293189a4d08f091ee934e11aed24583",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/0293189a4d08f091ee934e11aed24583",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/7da4d562df0dd3980c309f67c35d9ba7",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/7da4d562df0dd3980c309f67c35d9ba7",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -23625,6 +24253,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/fc21e53fb1976b3cf7ca817b18ad2979",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/f9e9d1c20debe6740e5c1c18b03ca087",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/f9e9d1c20debe6740e5c1c18b03ca087",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/a06f7132b878bdcda1b20912d38663c3",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/a06f7132b878bdcda1b20912d38663c3",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -23736,6 +24382,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/b98ca5a13b6b7482fe7acbeeb13f255d",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/57714bef62e59254797c4cfc04d25624",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/57714bef62e59254797c4cfc04d25624",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/9fb6f9c48d3495e0a62bc90c55748a6c",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/9fb6f9c48d3495e0a62bc90c55748a6c",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -24449,6 +25113,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/87922a42fa8bc7ab29a4d2d5374afbb4",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/75db10a5e30a41bb0513b8efd5d2bca8",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/75db10a5e30a41bb0513b8efd5d2bca8",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/b9e4b672645e32ea441d90ed3f05a3d4",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/b9e4b672645e32ea441d90ed3f05a3d4",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -24557,6 +25239,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/00cc71c7e1cddac60e794044079faeee",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/66921ae1bb19ad3e3f4b18b741244a57",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/66921ae1bb19ad3e3f4b18b741244a57",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/d6bfed95277a2a57e95cf0bd9b3eb76b",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/d6bfed95277a2a57e95cf0bd9b3eb76b",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -24662,6 +25362,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/4158174807d97dccbd75d0b162edd9a3",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/3c8f730eda9d2f497d5f992c95b89c40",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/3c8f730eda9d2f497d5f992c95b89c40",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/821a07b92edefe429acceb92e66d6f93",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/821a07b92edefe429acceb92e66d6f93",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -24782,6 +25500,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/69c70762689b20308bb049ac49653342",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/e4a70a43860af3fc2c181e1fddae6274",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/e4a70a43860af3fc2c181e1fddae6274",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/1157770da93ed7a6620c1c1c309ee4d7",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/1157770da93ed7a6620c1c1c309ee4d7",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -24890,6 +25626,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/eaad67a6c6e891ea72cc397c26bd607f",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/ac31408424ab942ab90be38fd5baab48",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/ac31408424ab942ab90be38fd5baab48",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/66d94be40eb3a4cc507c0622ff95254a",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/66d94be40eb3a4cc507c0622ff95254a",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -24995,6 +25749,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/caa55d2b3f62070ea878054c08b0434e",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/9b9e520cb948b0be56c046749d7751af",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/9b9e520cb948b0be56c046749d7751af",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/92eb0030aa924dd2ba805a1d0b903ab0",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/92eb0030aa924dd2ba805a1d0b903ab0",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -25099,6 +25871,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/ff77fcae7f6d9b5b7b8741c282677eef",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/b8829cef1c0a2fe722b2eb2b34aa1839",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/b8829cef1c0a2fe722b2eb2b34aa1839",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/ee6beda45d7971318928e8d8e273706d",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/ee6beda45d7971318928e8d8e273706d",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -25207,6 +25997,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/c18105af8ff3a52bb539868a9fe2252f",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/5ef294eb9e47459423f71434f1b36d5d",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/5ef294eb9e47459423f71434f1b36d5d",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/94e215c432f2fa2ef1495b54f33fc832",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/94e215c432f2fa2ef1495b54f33fc832",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -26721,7 +27529,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/484b359a4b9d4e370f52c4c3fef782a3",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/484b359a4b9d4e370f52c4c3fef782a3",
                   "technology": "Histology",
@@ -31223,7 +32031,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/64fb1a207109beb61404b7e0b4c60810",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/64fb1a207109beb61404b7e0b4c60810",
                   "technology": "Histology",
@@ -31663,6 +32471,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/06e99e38b27d5e3206082cb1a9d5a898",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/5f344a34931a6da42af81b705b01ac9a",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/5f344a34931a6da42af81b705b01ac9a",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/96784bbc6c8c33829e491f81ede80416",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/96784bbc6c8c33829e491f81ede80416",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -31770,6 +32596,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/e990a3b436bfad04d64400ad1c28c685",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/1d94d276f09e578790cf9392177f7242",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/1d94d276f09e578790cf9392177f7242",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/598dd020f089bfa9d017dc2bd666ac9a",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/598dd020f089bfa9d017dc2bd666ac9a",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -31877,6 +32721,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/3e800f0cd138b989b935fb94e7938617",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/015153e7afb510d8624ee9f5fcad121d",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/015153e7afb510d8624ee9f5fcad121d",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/48537b929c9eaf20718e83b3d5864d00",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/48537b929c9eaf20718e83b3d5864d00",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -31987,6 +32849,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/aa54aad994ca8a64fa52b3f3945c01b7",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/861100351ea701536c756529ca8633fb",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/861100351ea701536c756529ca8633fb",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/7284b4856d69d7ca5bb0a7867ad781d7",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/7284b4856d69d7ca5bb0a7867ad781d7",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -32095,6 +32975,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/0126deb572ee57c93e444ebc73de2b91",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/ac66fe681157e71de27e0596bbb4dbb2",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/ac66fe681157e71de27e0596bbb4dbb2",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/cd4faee50e2debd28be271e9cb6e7c8a",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/cd4faee50e2debd28be271e9cb6e7c8a",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -32201,6 +33099,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/8b21db2002a5179b03532d183a4885eb",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/2d331a2f467dcfebb2710e3545bce4b5",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/2d331a2f467dcfebb2710e3545bce4b5",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/67fc1e00cb9d9460489b6bc26a761494",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/67fc1e00cb9d9460489b6bc26a761494",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -32308,6 +33224,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/89e4944336dd47d32a50fe8aac049db1",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/b5d2915aabbfea2ab0639081d28491bf",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/b5d2915aabbfea2ab0639081d28491bf",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/05b2abff2c2ee7718cb6d3128afa0903",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/05b2abff2c2ee7718cb6d3128afa0903",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -32413,6 +33347,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/0173b4e2b3f576109a5aca880a3bdadc",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/0845912877596e21bfbedeea4f7c1f54",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/0845912877596e21bfbedeea4f7c1f54",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/e926975220b334d352a0dc2c9e141d44",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/e926975220b334d352a0dc2c9e141d44",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -34147,6 +35099,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/7b2b9029035d46c4ef8306fa82c8e58e",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/cb9e93f6d1a9e0321c3cff70b53749fd",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/cb9e93f6d1a9e0321c3cff70b53749fd",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/89e7643d4b2fe02fb3a5458490a6ea13",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/89e7643d4b2fe02fb3a5458490a6ea13",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -34219,6 +35189,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/01510a4fb90fd303bd48c4cd51cdd14c",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/3ae25fa8e194aa37a1ffed64bf9143aa",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/3ae25fa8e194aa37a1ffed64bf9143aa",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/9bbf16c480a0421e34061587b32d26a3",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/9bbf16c480a0421e34061587b32d26a3",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -34307,6 +35295,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/c8fa615fb884c7b51d08c0cf35debfee",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/3686680c2377f083c1fd34d20cf2c429",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/3686680c2377f083c1fd34d20cf2c429",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/2fd45ca894b43bf0304450ba603cbc43",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/2fd45ca894b43bf0304450ba603cbc43",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -34418,6 +35424,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/f0597185d99c05b19c1189f9d14c8853",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/fab6f8e84902cdb54b440170c6672d29",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/fab6f8e84902cdb54b440170c6672d29",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/ac7a50e2a7480285317ca056b849238a",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/ac7a50e2a7480285317ca056b849238a",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -34526,6 +35550,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/e8c159fdeabc3c0bf12345b9b1ec99c9",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/904950378ddfbe5926c3cdbc75d7f499",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/904950378ddfbe5926c3cdbc75d7f499",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/fe51f8f766945725fe264f9c9bf8c349",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/fe51f8f766945725fe264f9c9bf8c349",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -34613,6 +35655,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/47b8410d1c51b23e7fb1a721c53a493f",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/422ffcf23466f1d264c2e5e8352bb07a",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/422ffcf23466f1d264c2e5e8352bb07a",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/dfea4ee98de6fbffb4b36e7653e27cba",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/dfea4ee98de6fbffb4b36e7653e27cba",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -34682,6 +35742,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/b38730b2633e0b088619f9bcd514ba13",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/5921d70f96da15562aa8a9a45bb0bffc",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/5921d70f96da15562aa8a9a45bb0bffc",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/377890104812b7771bf0eee9278d869f",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/377890104812b7771bf0eee9278d869f",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -34768,6 +35846,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/7eea0c4c41745d2d54f9796bc5b57d79",
               "technology": "CODEX",
               "thumbnail": "assets/icons/ico-spatial-codex.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/ab07fe937fe55a6a5eb0b7de9c28396b",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/ab07fe937fe55a6a5eb0b7de9c28396b",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/21a925918e006768755659808a0ab80a",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/21a925918e006768755659808a0ab80a",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -35764,7 +36860,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/5eacc268fa94d3419580ff04c9a9c76d",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/5eacc268fa94d3419580ff04c9a9c76d",
                   "technology": "Histology",
@@ -36276,6 +37372,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/426037bb76d97a0d5c9ec32fa7f9842c",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/d42b8444c439e72b699020e3584fe732",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/d42b8444c439e72b699020e3584fe732",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/03d50022ae266fea9db2732743d52c35",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/03d50022ae266fea9db2732743d52c35",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -36473,6 +37587,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/983615906ffac7de5b27b5dd116248f5",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/80a6adc895d494fd968f32e80408c46c",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/80a6adc895d494fd968f32e80408c46c",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/f0c1dd535f0b5ab77a42b86c15ed7420",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/f0c1dd535f0b5ab77a42b86c15ed7420",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -36652,6 +37784,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/855cf140f739b47eea34fee272b3d7fa",
               "technology": "LC",
               "thumbnail": "assets/icons/ico-bulk-lc.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/d25ced2d7a08a59cf31ef5c03466bfd6",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/d25ced2d7a08a59cf31ef5c03466bfd6",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/dfb9830f2b418bfdd7df9778b39fdbca",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/dfb9830f2b418bfdd7df9778b39fdbca",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -36830,6 +37980,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/9d2626f2bf76e7519694ade1742987ef",
               "technology": "LC",
               "thumbnail": "assets/icons/ico-bulk-lc.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/d79c709126025287d35e271ad33470e5",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/d79c709126025287d35e271ad33470e5",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/045a17c5105478c10e856405045700c8",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/045a17c5105478c10e856405045700c8",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -37006,6 +38174,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/fd020f1f94955004eacad97c45577b84",
               "technology": "LC",
               "thumbnail": "assets/icons/ico-bulk-lc.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/d6278db417af49837cfb0538aff3ef2b",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/d6278db417af49837cfb0538aff3ef2b",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/67a9b99e748b0e914d4ef6d0fd1518bc",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/67a9b99e748b0e914d4ef6d0fd1518bc",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -37195,6 +38381,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/9d2626f2bf76e7519694ade1742987ef",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/d79c709126025287d35e271ad33470e5",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/d79c709126025287d35e271ad33470e5",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/045a17c5105478c10e856405045700c8",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/045a17c5105478c10e856405045700c8",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -37395,6 +38599,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/8e43d0212d90eb668e276232f6d6865b",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/04f132e060cbbc929cb3a1e48cc334a6",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/04f132e060cbbc929cb3a1e48cc334a6",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/2beed8765df3388bea0ddaf558fc3a6f",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/2beed8765df3388bea0ddaf558fc3a6f",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -37583,6 +38805,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/983615906ffac7de5b27b5dd116248f5",
               "technology": "LC",
               "thumbnail": "assets/icons/ico-bulk-lc.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/80a6adc895d494fd968f32e80408c46c",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/80a6adc895d494fd968f32e80408c46c",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/f0c1dd535f0b5ab77a42b86c15ed7420",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/f0c1dd535f0b5ab77a42b86c15ed7420",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 0,
@@ -37768,6 +39008,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/855cf140f739b47eea34fee272b3d7fa",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/d25ced2d7a08a59cf31ef5c03466bfd6",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/d25ced2d7a08a59cf31ef5c03466bfd6",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/dfb9830f2b418bfdd7df9778b39fdbca",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/dfb9830f2b418bfdd7df9778b39fdbca",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -37958,6 +39216,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/426037bb76d97a0d5c9ec32fa7f9842c",
               "technology": "LC",
               "thumbnail": "assets/icons/ico-bulk-lc.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/d42b8444c439e72b699020e3584fe732",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/d42b8444c439e72b699020e3584fe732",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/03d50022ae266fea9db2732743d52c35",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/03d50022ae266fea9db2732743d52c35",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -38145,6 +39421,24 @@
               "link": "https://portal.hubmapconsortium.org/browse/dataset/99d48f450dedb2b2b1af656081e419ea",
               "technology": "LC",
               "thumbnail": "assets/icons/ico-bulk-lc.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/5c0753756a1dc7a6d7e2e514cf8b0557",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/5c0753756a1dc7a6d7e2e514cf8b0557",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            },
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/75fbf3b4452190bc5b3768c4399ececf",
+              "@type": "Dataset",
+              "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+              "description": "Dataset Type: Histology [Image Pyramid]",
+              "link": "https://portal.hubmapconsortium.org/browse/dataset/75fbf3b4452190bc5b3768c4399ececf",
+              "technology": "Histology",
+              "thumbnail": "assets/icons/ico-unknown.svg"
             }
           ],
           "section_count": 1,
@@ -38330,6 +39624,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/fd020f1f94955004eacad97c45577b84",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/d6278db417af49837cfb0538aff3ef2b",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/d6278db417af49837cfb0538aff3ef2b",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/67a9b99e748b0e914d4ef6d0fd1518bc",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/67a9b99e748b0e914d4ef6d0fd1518bc",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -38531,6 +39843,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/99d48f450dedb2b2b1af656081e419ea",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/5c0753756a1dc7a6d7e2e514cf8b0557",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/5c0753756a1dc7a6d7e2e514cf8b0557",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/75fbf3b4452190bc5b3768c4399ececf",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/75fbf3b4452190bc5b3768c4399ececf",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -38708,6 +40038,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/89f62b426a357e26ef04fc0704c01d63",
                   "technology": "LC",
                   "thumbnail": "assets/icons/ico-bulk-lc.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/d55b275ac1c70a683fc2f2704abf4a8a",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/d55b275ac1c70a683fc2f2704abf4a8a",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/7c6ac1a390c88b28405d3f5ad0b00d8c",
+                  "@type": "Dataset",
+                  "label": "Registered 7/26/2024, HuBMAP Process, TMC-Stanford",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/7c6ac1a390c88b28405d3f5ad0b00d8c",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 }
               ]
             }
@@ -39496,7 +40844,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/b3a0cf5d7e85cc77f50d1bfd8c380c40",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/b3a0cf5d7e85cc77f50d1bfd8c380c40",
               "technology": "RNAseq",
@@ -39514,7 +40862,7 @@
             {
               "@id": "https://entity.api.hubmapconsortium.org/entities/fbfb5aba4fad7d6565e19387e2d12e0b",
               "@type": "Dataset",
-              "label": "Registered 9/7/2023, Jason Brant, TMC-Florida",
+              "label": "Registered 7/25/2024, Jason Brant, TMC-Florida",
               "description": "Dataset Type: RNAseq",
               "link": "https://portal.hubmapconsortium.org/browse/dataset/fbfb5aba4fad7d6565e19387e2d12e0b",
               "technology": "RNAseq",
@@ -47901,7 +49249,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/058f837db913d4c3d0854eb2229c2695",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/058f837db913d4c3d0854eb2229c2695",
                   "technology": "Histology",
@@ -48079,7 +49427,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/13f68db2ce711221e402e6af2d8cad45",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/13f68db2ce711221e402e6af2d8cad45",
                   "technology": "Histology",
@@ -49221,7 +50569,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/1e9b9d5ac57ac8bd4093f2503675a2cd",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/1e9b9d5ac57ac8bd4093f2503675a2cd",
                   "technology": "Histology",
@@ -56401,7 +57749,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/9eb457ab0141f7ba734e337917a9bde9",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/9eb457ab0141f7ba734e337917a9bde9",
                   "technology": "Histology",
@@ -60363,6 +61711,24 @@
               "samples": [],
               "datasets": [
                 {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/bdcaf115b5046bff2e09c7db32b1c3e4",
+                  "@type": "Dataset",
+                  "label": "Registered 7/23/2024, HuBMAP Process, TMC-Vanderbilt",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/bdcaf115b5046bff2e09c7db32b1c3e4",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/6d8c13bd2b98d76b46fe5ff56a9720a1",
+                  "@type": "Dataset",
+                  "label": "Registered 7/23/2024, HuBMAP Process, TMC-Vanderbilt",
+                  "description": "Dataset Type: Histology [Kaggle-1 Glomerulus Segmentation]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/6d8c13bd2b98d76b46fe5ff56a9720a1",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/2e7123dcf2e9092a42ac42e44c2d686b",
                   "@type": "Dataset",
                   "label": "Registered 5/28/2024, HuBMAP Process, TMC-Vanderbilt",
@@ -60379,6 +61745,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/5cb9ec3acfe11753b9a2899fe87ee0e4",
                   "technology": "AF",
                   "thumbnail": "assets/icons/ico-spatial-af.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/4238d2ef6acdfc8c338ccdffc50ab7e8",
+                  "@type": "Dataset",
+                  "label": "Registered 7/23/2024, HuBMAP Process, TMC-Vanderbilt",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/4238d2ef6acdfc8c338ccdffc50ab7e8",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/e5f4f5b12481c16945bd1a8752ba3583",
+                  "@type": "Dataset",
+                  "label": "Registered 7/23/2024, HuBMAP Process, TMC-Vanderbilt",
+                  "description": "Dataset Type: Histology [Kaggle-1 Glomerulus Segmentation]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/e5f4f5b12481c16945bd1a8752ba3583",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 },
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/a4671d13636abd97f9024930d4f2bb5d",
@@ -60399,6 +61783,24 @@
                   "thumbnail": "assets/icons/ico-spatial-af.svg"
                 },
                 {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/319787ab69a91d2996543badf7b4a289",
+                  "@type": "Dataset",
+                  "label": "Registered 7/23/2024, HuBMAP Process, TMC-Vanderbilt",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/319787ab69a91d2996543badf7b4a289",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/5310b0cb6b5cbc2dd5ae97b91e813652",
+                  "@type": "Dataset",
+                  "label": "Registered 7/23/2024, HuBMAP Process, TMC-Vanderbilt",
+                  "description": "Dataset Type: Histology [Kaggle-1 Glomerulus Segmentation]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/5310b0cb6b5cbc2dd5ae97b91e813652",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/a5a50d42f46b97cd0edbe45ad54219b1",
                   "@type": "Dataset",
                   "label": "Registered 5/28/2024, HuBMAP Process, TMC-Vanderbilt",
@@ -60417,6 +61819,24 @@
                   "thumbnail": "assets/icons/ico-spatial-af.svg"
                 },
                 {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/61b6ebb8f9a938a444a6433137833c50",
+                  "@type": "Dataset",
+                  "label": "Registered 7/23/2024, HuBMAP Process, TMC-Vanderbilt",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/61b6ebb8f9a938a444a6433137833c50",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/c9d9ab5c9ee9642b60dd351024968627",
+                  "@type": "Dataset",
+                  "label": "Registered 7/23/2024, HuBMAP Process, TMC-Vanderbilt",
+                  "description": "Dataset Type: Histology [Kaggle-1 Glomerulus Segmentation]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/c9d9ab5c9ee9642b60dd351024968627",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/e0b9d2fe1ba6e32c7b7c2ff6a5d14202",
                   "@type": "Dataset",
                   "label": "Registered 5/28/2024, HuBMAP Process, TMC-Vanderbilt",
@@ -60433,6 +61853,24 @@
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/5d7800b6d4ee0baf7cb9df115fdd4a64",
                   "technology": "AF",
                   "thumbnail": "assets/icons/ico-spatial-af.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/31b752455e35bdfc8deb27c359342500",
+                  "@type": "Dataset",
+                  "label": "Registered 7/23/2024, HuBMAP Process, TMC-Vanderbilt",
+                  "description": "Dataset Type: Histology",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/31b752455e35bdfc8deb27c359342500",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/18bfa508859d631cae4c9747e275e21b",
+                  "@type": "Dataset",
+                  "label": "Registered 7/23/2024, HuBMAP Process, TMC-Vanderbilt",
+                  "description": "Dataset Type: Histology [Kaggle-1 Glomerulus Segmentation]",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/18bfa508859d631cae4c9747e275e21b",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
                 },
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/993bb1d6fa02e2755fd69613bb9d6e08",
@@ -61244,7 +62682,7 @@
                 {
                   "@id": "https://entity.api.hubmapconsortium.org/entities/7e3f3b5d1890f9612efb91d3a820cdcc",
                   "@type": "Dataset",
-                  "label": "Registered 2/12/2022, Jeff Spraggins, TMC-Vanderbilt",
+                  "label": "Registered 8/8/2024, Jeff Spraggins, TMC-Vanderbilt",
                   "description": "Dataset Type: Histology",
                   "link": "https://portal.hubmapconsortium.org/browse/dataset/7e3f3b5d1890f9612efb91d3a820cdcc",
                   "technology": "Histology",

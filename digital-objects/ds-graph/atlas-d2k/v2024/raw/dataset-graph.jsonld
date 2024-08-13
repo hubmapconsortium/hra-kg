@@ -2,6 +2,69 @@
   "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
   "@graph": [
     {
+      "@id": "https://www.atlas-d2k.org/id/14-4KPP#Donor",
+      "@type": "Donor",
+      "description": "Entered 6/22/2024, M. Todd Valerius, RBK",
+      "link": "https://www.atlas-d2k.org/chaise/record/#2/Gene_Expression:Specimen/RID=14-4KPP",
+      "consortium_name": "RBK",
+      "provider_name": "RBK",
+      "provider_uuid": "RBK",
+      "sex": null,
+      "age": null,
+      "samples": [
+        {
+          "@id": "https://www.atlas-d2k.org/id/14-4KPP",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 6/22/2024, M. Todd Valerius, RBK",
+          "description": "3 x 3 x 3 millimeter, 3 millimeter",
+          "link": "https://www.atlas-d2k.org/chaise/record/#2/Gene_Expression:Specimen/RID=14-4KPP",
+          "section_count": 0,
+          "section_size": 3,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/d86790bc-d93b-4cb3-bfe5-ae48fd9daaaa",
+            "@type": "SpatialEntity",
+            "creator": "M. Todd Valerius",
+            "creator_first_name": "M. Todd",
+            "creator_last_name": "Valerius",
+            "creation_date": "2024-07-22",
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0002015",
+              "http://purl.obolibrary.org/obo/UBERON_0001225",
+              "http://purl.obolibrary.org/obo/UBERON_0002189"
+            ],
+            "slice_thickness": 5,
+            "slice_count": 5,
+            "x_dimension": 3,
+            "y_dimension": 3,
+            "z_dimension": 3,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "http://purl.org/ccf/1.5/d86790bc-d93b-4cb3-bfe5-ae48fd9daaaa_placement",
+              "@type": "SpatialPlacement",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney",
+              "placement_date": "2024-07-22",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 8,
+              "y_rotation": 2,
+              "z_rotation": 16,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 70.749,
+              "y_translation": 60.858,
+              "z_translation": 31.215,
+              "translation_units": "millimeter"
+            }
+          }
+        }
+      ]
+    },
+    {
       "@id": "https://www.atlas-d2k.org/id/16-WMA4#Donor",
       "@type": "Donor",
       "label": "Male, Age 42",
@@ -1336,6 +1399,70 @@
               "x_translation": 11.767,
               "y_translation": 132.71,
               "z_translation": 47.722,
+              "translation_units": "millimeter"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://www.atlas-d2k.org/id/W-RA1W#Donor",
+      "@type": "Donor",
+      "label": "Male",
+      "description": "Entered 6/22/2024, M. Todd Valerius, RBK",
+      "link": "https://www.atlas-d2k.org/chaise/record/#2/Gene_Expression:Specimen/RID=W-RA1W",
+      "consortium_name": "RBK",
+      "provider_name": "RBK",
+      "provider_uuid": "RBK",
+      "sex": "Male",
+      "age": null,
+      "samples": [
+        {
+          "@id": "https://www.atlas-d2k.org/id/W-RA1W",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 6/22/2024, M. Todd Valerius, RBK",
+          "description": "3 x 3 x 3 millimeter, 3 millimeter",
+          "link": "https://www.atlas-d2k.org/chaise/record/#2/Gene_Expression:Specimen/RID=W-RA1W",
+          "section_count": 0,
+          "section_size": 3,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/d86790bc-d93b-4cb3-bfe5-ae48fd9daaaa",
+            "@type": "SpatialEntity",
+            "creator": "M. Todd Valerius",
+            "creator_first_name": "M. Todd",
+            "creator_last_name": "Valerius",
+            "creation_date": "2024-07-22",
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0002015",
+              "http://purl.obolibrary.org/obo/UBERON_0001225",
+              "http://purl.obolibrary.org/obo/UBERON_0002189"
+            ],
+            "slice_thickness": 5,
+            "slice_count": 5,
+            "x_dimension": 3,
+            "y_dimension": 3,
+            "z_dimension": 3,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "http://purl.org/ccf/1.5/d86790bc-d93b-4cb3-bfe5-ae48fd9daaaa_placement",
+              "@type": "SpatialPlacement",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney",
+              "placement_date": "2024-07-22",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 8,
+              "y_rotation": 2,
+              "z_rotation": 16,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 70.749,
+              "y_translation": 60.858,
+              "z_translation": 31.215,
               "translation_units": "millimeter"
             }
           }
