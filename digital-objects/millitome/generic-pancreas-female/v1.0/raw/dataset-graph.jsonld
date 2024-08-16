@@ -54,7 +54,10 @@
               "z_translation": 13.073042842368661,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -99,7 +102,10 @@
               "z_translation": 22.066714618874077,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -144,7 +150,10 @@
               "z_translation": 19.740511378759066,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -189,7 +198,10 @@
               "z_translation": 31.715525213031412,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -234,7 +246,10 @@
               "z_translation": 29.407504198184263,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -279,7 +294,11 @@
               "z_translation": 35.94745786611782,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -324,7 +343,11 @@
               "z_translation": 34.715065749094244,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -369,7 +392,11 @@
               "z_translation": 39.86921883329677,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -414,7 +441,11 @@
               "z_translation": 38.87899199220154,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -459,7 +490,11 @@
               "z_translation": 43.80751274713815,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -504,7 +539,11 @@
               "z_translation": 43.699324335901984,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -549,7 +588,11 @@
               "z_translation": 47.39763889146344,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -594,7 +637,11 @@
               "z_translation": 48.997543364871404,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -639,7 +686,11 @@
               "z_translation": 51.22265424072204,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -684,7 +735,11 @@
               "z_translation": 52.825437352936554,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -729,7 +784,11 @@
               "z_translation": 54.652675536871115,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -774,7 +833,10 @@
               "z_translation": 56.0231889574416,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -819,7 +881,10 @@
               "z_translation": 57.64853932868293,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -864,7 +929,10 @@
               "z_translation": 58.53265417323398,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -909,7 +977,10 @@
               "z_translation": 60.703131569298,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -954,7 +1025,10 @@
               "z_translation": 59.987345580899685,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -999,7 +1073,10 @@
               "z_translation": 62.16919889354814,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -1044,7 +1121,12 @@
               "z_translation": 59.14497851608233,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1089,7 +1171,10 @@
               "z_translation": 61.25756271977471,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -1134,7 +1219,12 @@
               "z_translation": 57.036497578394425,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1179,7 +1269,12 @@
               "z_translation": 60.03839154651135,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1224,7 +1319,12 @@
               "z_translation": 54.429722207595795,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1269,7 +1369,12 @@
               "z_translation": 59.205768280784795,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1314,7 +1419,12 @@
               "z_translation": 52.26062691497401,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1359,7 +1469,12 @@
               "z_translation": 57.43387884224404,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1404,7 +1519,11 @@
               "z_translation": 50.02287452633546,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1449,7 +1568,12 @@
               "z_translation": 54.42887635762572,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1494,7 +1618,11 @@
               "z_translation": 47.498439229848834,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1539,7 +1667,11 @@
               "z_translation": 50.571616042921946,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1584,7 +1716,11 @@
               "z_translation": 44.519738392387254,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1629,7 +1765,11 @@
               "z_translation": 47.17871332726335,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1674,7 +1814,11 @@
               "z_translation": 41.481467049784,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1719,7 +1863,10 @@
               "z_translation": 45.28987285684734,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1764,7 +1911,11 @@
               "z_translation": 40.30296573508718,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1809,7 +1960,10 @@
               "z_translation": 44.4882823925768,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1854,7 +2008,11 @@
               "z_translation": 40.93829247440402,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1899,7 +2057,10 @@
               "z_translation": 43.746820643401364,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1944,7 +2105,11 @@
               "z_translation": 40.8807257117565,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -1989,7 +2154,10 @@
               "z_translation": 43.46811979006305,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -2034,7 +2202,11 @@
               "z_translation": 40.678601899689255,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -2079,7 +2251,10 @@
               "z_translation": 47.909632463272885,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -2124,7 +2299,11 @@
               "z_translation": 45.93113918823833,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -2169,7 +2348,10 @@
               "z_translation": 54.01845961908316,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -2214,7 +2396,11 @@
               "z_translation": 52.36083015264481,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -2259,7 +2445,10 @@
               "z_translation": 25.74128792798428,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2304,7 +2493,10 @@
               "z_translation": 23.90414575926264,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2349,7 +2541,10 @@
               "z_translation": 33.52868077663752,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2394,7 +2589,10 @@
               "z_translation": 31.399266462896236,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2439,7 +2637,10 @@
               "z_translation": 37.7483193636734,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2484,7 +2685,10 @@
               "z_translation": 36.83369893801261,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2529,7 +2733,10 @@
               "z_translation": 41.356317456385455,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2574,7 +2781,10 @@
               "z_translation": 40.93395641513988,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2619,7 +2829,11 @@
               "z_translation": 46.461624764102716,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2664,7 +2878,11 @@
               "z_translation": 45.5887493140401,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2709,7 +2927,11 @@
               "z_translation": 52.642614809145144,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2754,7 +2976,11 @@
               "z_translation": 50.691691980946956,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2799,7 +3025,11 @@
               "z_translation": 58.62132449762264,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2844,7 +3074,11 @@
               "z_translation": 55.58877075634853,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2889,7 +3123,10 @@
               "z_translation": 63.998671182961054,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -2934,7 +3171,11 @@
               "z_translation": 60.574610879636424,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.obolibrary.org/obo/UBERON_0001151"
+            ]
           }
         },
         {
@@ -2979,7 +3220,10 @@
               "z_translation": 68.9414108305834,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -3024,7 +3268,10 @@
               "z_translation": 64.92067067743062,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -3069,7 +3316,10 @@
               "z_translation": 73.53446457175455,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -3114,7 +3364,10 @@
               "z_translation": 67.60587448375068,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -3159,7 +3412,10 @@
               "z_translation": 75.9781948208427,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -3204,7 +3460,10 @@
               "z_translation": 68.69224127283651,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -3249,7 +3508,10 @@
               "z_translation": 75.11540666795358,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150"
+            ]
           }
         },
         {
@@ -3294,7 +3556,11 @@
               "z_translation": 68.00554501224627,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517"
+            ]
           }
         },
         {
@@ -3339,7 +3605,11 @@
               "z_translation": 73.29670611027612,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517"
+            ]
           }
         },
         {
@@ -3384,7 +3654,12 @@
               "z_translation": 66.1287879603569,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3429,7 +3704,11 @@
               "z_translation": 71.31434386413024,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517"
+            ]
           }
         },
         {
@@ -3474,7 +3753,12 @@
               "z_translation": 64.00628173446827,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3519,7 +3803,12 @@
               "z_translation": 69.17571254124125,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3564,7 +3853,12 @@
               "z_translation": 61.83495633064338,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3609,7 +3903,12 @@
               "z_translation": 66.6121652716343,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3654,7 +3953,13 @@
               "z_translation": 59.82672450113824,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3699,7 +4004,13 @@
               "z_translation": 63.89365142175486,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3744,7 +4055,13 @@
               "z_translation": 58.498149903746054,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3789,7 +4106,13 @@
               "z_translation": 61.00829874766552,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3834,7 +4157,13 @@
               "z_translation": 57.3960075125121,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3879,7 +4208,12 @@
               "z_translation": 57.13168666391351,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3924,7 +4258,13 @@
               "z_translation": 54.61911389748527,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001150",
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -3969,7 +4309,12 @@
               "z_translation": 52.761424185374636,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -4014,7 +4359,12 @@
               "z_translation": 51.37201731726734,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -4059,7 +4409,12 @@
               "z_translation": 49.30793894806385,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -4104,7 +4459,12 @@
               "z_translation": 49.13563363874034,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma14517",
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -4149,7 +4509,11 @@
               "z_translation": 47.677215019172756,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -4194,7 +4558,11 @@
               "z_translation": 47.91651058485998,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -4239,7 +4607,11 @@
               "z_translation": 46.208013957046546,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -4284,7 +4656,11 @@
               "z_translation": 46.90572608319883,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -4329,7 +4705,11 @@
               "z_translation": 51.01991470619874,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         },
         {
@@ -4374,7 +4754,11 @@
               "z_translation": 50.009281762818766,
               "translation_units": "millimeter",
               "target": "http://purl.org/ccf/latest/ccf.owl#VHFPancreas"
-            }
+            },
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0010373",
+              "http://purl.obolibrary.org/obo/UBERON_0001069"
+            ]
           }
         }
       ]

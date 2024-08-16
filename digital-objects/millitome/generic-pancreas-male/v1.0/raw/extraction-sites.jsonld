@@ -32,7 +32,10 @@
       "z_translation": 13.462135774533369,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -67,7 +70,10 @@
       "z_translation": 9.241147095327948,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -102,7 +108,10 @@
       "z_translation": 10.020350626511618,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -137,7 +146,10 @@
       "z_translation": 13.171066004356708,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -172,7 +184,10 @@
       "z_translation": 12.353758280448814,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -207,7 +222,10 @@
       "z_translation": 17.514546032646173,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -242,7 +260,10 @@
       "z_translation": 16.8828548775392,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -277,7 +298,11 @@
       "z_translation": 22.78759567154997,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -312,7 +337,10 @@
       "z_translation": 22.74020753697764,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -347,7 +375,11 @@
       "z_translation": 28.584524993894306,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -382,7 +414,11 @@
       "z_translation": 27.779121141548018,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -417,7 +453,11 @@
       "z_translation": 34.97399154982148,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -452,7 +492,11 @@
       "z_translation": 32.688755581633714,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -487,7 +531,11 @@
       "z_translation": 41.58845842665667,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -522,7 +570,11 @@
       "z_translation": 37.62738202415763,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -557,7 +609,11 @@
       "z_translation": 47.979486605814536,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -592,7 +648,11 @@
       "z_translation": 42.88980724692843,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -627,7 +687,10 @@
       "z_translation": 53.38087031893793,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -662,7 +725,11 @@
       "z_translation": 48.564159928983244,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -697,7 +764,10 @@
       "z_translation": 57.332732974297826,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -732,7 +802,10 @@
       "z_translation": 54.11573590658883,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -767,7 +840,10 @@
       "z_translation": 60.98163152943493,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -802,7 +878,10 @@
       "z_translation": 58.92992931557073,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -837,7 +916,11 @@
       "z_translation": 63.1076409476473,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -872,7 +955,10 @@
       "z_translation": 62.70192599301047,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -907,7 +993,11 @@
       "z_translation": 63.77241229459704,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -942,7 +1032,11 @@
       "z_translation": 64.67855490211763,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -977,7 +1071,12 @@
       "z_translation": 64.48755224168626,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1012,7 +1111,12 @@
       "z_translation": 63.442601586784846,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1047,7 +1151,12 @@
       "z_translation": 61.566489197486334,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1082,7 +1191,12 @@
       "z_translation": 59.64100824267507,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1117,7 +1231,12 @@
       "z_translation": 57.35182636465447,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1152,7 +1271,12 @@
       "z_translation": 55.9363793536963,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1187,7 +1311,11 @@
       "z_translation": 54.83176121756178,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1222,7 +1350,11 @@
       "z_translation": 53.857583913159715,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1257,7 +1389,11 @@
       "z_translation": 54.187330294813,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1292,7 +1428,10 @@
       "z_translation": 53.83312350837308,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1327,7 +1466,11 @@
       "z_translation": 54.429180589164964,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1362,7 +1505,11 @@
       "z_translation": 54.429180589164964,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1397,7 +1544,10 @@
       "z_translation": 53.70580024536187,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1432,7 +1582,11 @@
       "z_translation": 53.70580024536187,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1467,7 +1621,10 @@
       "z_translation": 53.511091698662575,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1502,7 +1659,11 @@
       "z_translation": 53.48922642880524,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1537,7 +1698,10 @@
       "z_translation": 52.66937139409343,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1572,7 +1736,11 @@
       "z_translation": 52.29146828517069,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1607,7 +1775,10 @@
       "z_translation": 51.34277693008915,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1642,7 +1813,11 @@
       "z_translation": 50.60635836102563,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1677,7 +1852,11 @@
       "z_translation": 50.6522480331433,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1712,7 +1891,11 @@
       "z_translation": 49.901196189653085,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1747,7 +1930,10 @@
       "z_translation": 23.155901585987955,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1782,7 +1968,10 @@
       "z_translation": 23.155901585987955,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1817,7 +2006,10 @@
       "z_translation": 28.632530878295135,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1852,7 +2044,10 @@
       "z_translation": 28.593504299355683,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1887,7 +2082,11 @@
       "z_translation": 34.44455848800576,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1922,7 +2121,11 @@
       "z_translation": 34.44455848800576,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1957,7 +2160,11 @@
       "z_translation": 39.88137619817515,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -1992,7 +2199,11 @@
       "z_translation": 39.88137619817515,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2027,7 +2238,11 @@
       "z_translation": 46.02539353415388,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2062,7 +2277,11 @@
       "z_translation": 46.02539353415388,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2097,7 +2316,11 @@
       "z_translation": 52.03615572835528,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2132,7 +2355,11 @@
       "z_translation": 51.974510527708105,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2167,7 +2394,10 @@
       "z_translation": 57.16253219823532,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2202,7 +2432,11 @@
       "z_translation": 54.853694247432614,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2237,7 +2471,10 @@
       "z_translation": 61.697246775745526,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2272,7 +2509,10 @@
       "z_translation": 56.318526286498496,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2307,7 +2547,10 @@
       "z_translation": 66.13379636679076,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2342,7 +2585,10 @@
       "z_translation": 59.04039142726011,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2377,7 +2623,10 @@
       "z_translation": 69.94948790315048,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2412,7 +2661,10 @@
       "z_translation": 62.98001890782663,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2447,7 +2699,10 @@
       "z_translation": 72.7635519242859,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2482,7 +2737,10 @@
       "z_translation": 67.36211666254262,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2517,7 +2775,11 @@
       "z_translation": 73.87727126149042,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2552,7 +2814,10 @@
       "z_translation": 71.27020289742694,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2587,7 +2852,11 @@
       "z_translation": 74.35514879608382,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2622,7 +2891,11 @@
       "z_translation": 74.046587909386,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2657,7 +2930,12 @@
       "z_translation": 74.54486580487615,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2692,7 +2970,12 @@
       "z_translation": 75.0096426589818,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2727,7 +3010,12 @@
       "z_translation": 74.2700904781875,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2762,7 +3050,12 @@
       "z_translation": 73.31064554868047,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2797,7 +3090,12 @@
       "z_translation": 73.45400102459135,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2832,7 +3130,11 @@
       "z_translation": 70.92978224043433,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2867,7 +3169,11 @@
       "z_translation": 72.47872490466561,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2902,7 +3208,11 @@
       "z_translation": 69.09378437680985,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2937,7 +3247,11 @@
       "z_translation": 71.08983341185073,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -2972,7 +3286,11 @@
       "z_translation": 68.91069675505375,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3007,7 +3325,10 @@
       "z_translation": 68.6241951428289,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3042,7 +3363,12 @@
       "z_translation": 68.51627677261317,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3077,7 +3403,10 @@
       "z_translation": 65.62079426519426,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3112,7 +3441,13 @@
       "z_translation": 68.95791776167894,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "http://purl.obolibrary.org/obo/UBERON_0001150"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3147,7 +3482,10 @@
       "z_translation": 63.67617569280015,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3182,7 +3520,12 @@
       "z_translation": 68.50054454004325,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3217,7 +3560,10 @@
       "z_translation": 62.66467790757566,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3252,7 +3598,12 @@
       "z_translation": 65.47122887190594,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma14517",
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3287,7 +3638,11 @@
       "z_translation": 62.20576002904492,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3322,7 +3677,11 @@
       "z_translation": 63.19121750715146,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3357,7 +3716,11 @@
       "z_translation": 61.60285917062501,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
@@ -3392,6 +3755,10 @@
       "z_translation": 61.50711452850007,
       "translation_units": "millimeter",
       "target": "http://purl.org/ccf/latest/ccf.owl#VHMPancreas"
-    }
+    },
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "http://purl.obolibrary.org/obo/UBERON_0001069"
+    ]
   }
 ]
