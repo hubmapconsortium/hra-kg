@@ -67,6 +67,9 @@ WHERE {
       # Ureter
       (<http://purl.obolibrary.org/obo/UBERON_0000056> <http://purl.obolibrary.org/obo/UBERON_0001223>)
       (<http://purl.obolibrary.org/obo/UBERON_0000056> <http://purl.obolibrary.org/obo/UBERON_0001222>)
+      # Lung (Edge case: we have reversed the relationship between lung and respiratory system for reasons)
+      (<http://purl.obolibrary.org/obo/UBERON_0002048> <http://purl.obolibrary.org/obo/UBERON_0001004>)
+      (<http://purl.obolibrary.org/obo/UBERON_0001004> <http://purl.obolibrary.org/obo/UBERON_0002048>)
     }
     
     OPTIONAL {
