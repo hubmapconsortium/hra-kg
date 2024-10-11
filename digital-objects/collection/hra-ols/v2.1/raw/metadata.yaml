@@ -32,5 +32,9 @@ citationOverall: >-
   ASCT+B
   Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html).
   Accessed on May 6, 2022.
+ontologyRoot:
+  - ccf:AnatomicalStructure
+  - ccf:CellType
+  - ccf:Biomarker
 datatable:
   - digital-objects.yaml
