@@ -67,36 +67,27 @@ WHERE {
       # Ureter
       (<http://purl.obolibrary.org/obo/UBERON_0000056> <http://purl.obolibrary.org/obo/UBERON_0001223>)
       (<http://purl.obolibrary.org/obo/UBERON_0000056> <http://purl.obolibrary.org/obo/UBERON_0001222>)
+      # Lung (Edge case: we have reversed the relationship between lung and respiratory system for reasons)
+      (<http://purl.obolibrary.org/obo/UBERON_0002048> <http://purl.obolibrary.org/obo/UBERON_0001004>)
+      (<http://purl.obolibrary.org/obo/UBERON_0001004> <http://purl.obolibrary.org/obo/UBERON_0002048>)
     }
     
     OPTIONAL {
-      ?cell_type ccf:ccf_located_in ?as_parent . 
+      ?parent_descriptor rdf:type ccf:CellMarkerDescriptor ;
+                         ccf:primary_anatomical_structure ?as_parent ;
+                         ccf:primary_cell_type ?cell_type .
       OPTIONAL {
-        {
-          ?cell_type rdfs:subClassOf [
-            owl:onProperty has_characterizing_biomarker_set: ;
-            owl:someValuesFrom [ owl:intersectionOf ?bn3 ]] .
-          ?bn3 rdf:rest*/rdf:first [
-            owl:onProperty ccf:has_marker_component ;
-            owl:someValuesFrom ?biomarker
-          ] .
-        }
+        ?parent_descriptor ccf:biomarker ?biomarker .
       }
     }
   }
 
   OPTIONAL {
-    ?cell_type ccf:ccf_located_in ?anatomical_structure . 
+    ?descriptor rdf:type ccf:CellMarkerDescriptor ;
+                ccf:primary_anatomical_structure ?anatomical_structure ;
+                ccf:primary_cell_type ?cell_type .
     OPTIONAL {
-      {
-        ?cell_type rdfs:subClassOf [
-          owl:onProperty has_characterizing_biomarker_set: ;
-          owl:someValuesFrom [ owl:intersectionOf ?bn3 ]] .
-        ?bn3 rdf:rest*/rdf:first [
-          owl:onProperty ccf:has_marker_component ;
-          owl:someValuesFrom ?biomarker
-        ] .
-      }
+      ?descriptor ccf:biomarker ?biomarker .
     }
   }
 }
