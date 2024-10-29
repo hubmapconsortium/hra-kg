@@ -1,0 +1,45 @@
+erDiagram
+Container {
+    uriorcurie iri  
+}
+FtuIllustration {
+    uriorcurie located_in  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+FtuIllustrationNode {
+    string node_name  
+    string part_of_illustration  
+    uriorcurie id  
+    string label  
+}
+FtuIllustrationFile {
+    uri file_url  
+    string file_format  
+    uriorcurie id  
+    string label  
+}
+FtuMetadata {
+    string title  
+    string description  
+    uriorcurieList created_by  
+    string creation_date  
+    string version  
+    string license  
+    string publisher  
+    uriorcurie see_also  
+    uriorcurie derived_from  
+}
+
+Container ||--|o FtuMetadata : "metadata"
+Container ||--}o FtuIllustration : "data"
+FtuIllustration ||--}o FtuIllustrationFile : "image_file"
+FtuIllustration ||--}o FtuIllustrationNode : "illustration_node"
+FtuIllustration ||--}o Named : "type_of"
+FtuIllustrationNode ||--}o Named : "type_of"
+FtuIllustrationFile ||--}o Named : "type_of"
+

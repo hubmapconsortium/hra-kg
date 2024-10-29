@@ -1,0 +1,756 @@
+{
+    "$defs": {
+        "AnatomicalStructure": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "ccf_asctb_type": {
+                    "type": "string"
+                },
+                "ccf_is_provisional": {
+                    "type": "boolean"
+                },
+                "ccf_part_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "ccf_pref_label": {
+                    "type": "string"
+                },
+                "conforms_to": {
+                    "enum": [
+                        "AnatomicalStructure"
+                    ],
+                    "type": "string"
+                },
+                "id": {
+                    "pattern": "(UBERON|FMA):\\d+|https://purl.org/ccf/ASCTB-TEMP_[a-zA-Z0-9-]+",
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "parent_class": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "ccf_pref_label",
+                "ccf_asctb_type",
+                "ccf_is_provisional"
+            ],
+            "title": "AnatomicalStructure",
+            "type": "object"
+        },
+        "AnatomicalStructureInstance": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "ccf_pref_label": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "order_number": {
+                    "type": "integer"
+                },
+                "record_number": {
+                    "type": "integer"
+                },
+                "source_concept": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "ccf_pref_label",
+                "source_concept",
+                "record_number",
+                "order_number",
+                "id"
+            ],
+            "title": "AnatomicalStructureInstance",
+            "type": "object"
+        },
+        "AsctbDataset": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "anatomical_structures": {
+                    "items": {
+                        "$ref": "#/$defs/AnatomicalStructure"
+                    },
+                    "type": "array"
+                },
+                "asctb_record": {
+                    "items": {
+                        "$ref": "#/$defs/AsctbRecord"
+                    },
+                    "type": "array"
+                },
+                "biomarkers": {
+                    "items": {
+                        "$ref": "#/$defs/Biomarker"
+                    },
+                    "type": "array"
+                },
+                "cell_marker_descriptor": {
+                    "items": {
+                        "$ref": "#/$defs/CellMarkerDescriptor"
+                    },
+                    "type": "array"
+                },
+                "cell_types": {
+                    "items": {
+                        "$ref": "#/$defs/CellType"
+                    },
+                    "type": "array"
+                }
+            },
+            "title": "AsctbDataset",
+            "type": "object"
+        },
+        "AsctbMetadata": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "created_by": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "creation_date": {
+                    "type": "string"
+                },
+                "derived_from": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "license": {
+                    "type": "string"
+                },
+                "publisher": {
+                    "type": "string"
+                },
+                "see_also": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "version": {
+                    "type": "string"
+                }
+            },
+            "title": "AsctbMetadata",
+            "type": "object"
+        },
+        "AsctbRecord": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "anatomical_structure_list": {
+                    "items": {
+                        "$ref": "#/$defs/AnatomicalStructureInstance"
+                    },
+                    "type": "array"
+                },
+                "cell_type_list": {
+                    "items": {
+                        "$ref": "#/$defs/CellTypeInstance"
+                    },
+                    "type": "array"
+                },
+                "gene_marker_list": {
+                    "items": {
+                        "$ref": "#/$defs/BiomarkerInstance"
+                    },
+                    "type": "array"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "lipid_marker_list": {
+                    "items": {
+                        "$ref": "#/$defs/BiomarkerInstance"
+                    },
+                    "type": "array"
+                },
+                "metabolites_marker_list": {
+                    "items": {
+                        "$ref": "#/$defs/BiomarkerInstance"
+                    },
+                    "type": "array"
+                },
+                "protein_marker_list": {
+                    "items": {
+                        "$ref": "#/$defs/BiomarkerInstance"
+                    },
+                    "type": "array"
+                },
+                "proteoforms_marker_list": {
+                    "items": {
+                        "$ref": "#/$defs/BiomarkerInstance"
+                    },
+                    "type": "array"
+                },
+                "record_number": {
+                    "type": "integer"
+                },
+                "references": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "record_number",
+                "id"
+            ],
+            "title": "AsctbRecord",
+            "type": "object"
+        },
+        "Biomarker": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "ccf_asctb_type": {
+                    "type": "string"
+                },
+                "ccf_biomarker_type": {
+                    "type": "string"
+                },
+                "ccf_is_provisional": {
+                    "type": "boolean"
+                },
+                "ccf_pref_label": {
+                    "type": "string"
+                },
+                "conforms_to": {
+                    "enum": [
+                        "Biomarker"
+                    ],
+                    "type": "string"
+                },
+                "id": {
+                    "pattern": "HGNC:\\d+|https://purl.org/ccf/ASCTB-TEMP_[a-zA-Z0-9-]+|HGNCO:[a-zA-Z0-9-]+",
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "parent_class": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "ccf_biomarker_type",
+                "id",
+                "ccf_pref_label",
+                "ccf_asctb_type",
+                "ccf_is_provisional"
+            ],
+            "title": "Biomarker",
+            "type": "object"
+        },
+        "BiomarkerInstance": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "ccf_biomarker_type": {
+                    "type": "string"
+                },
+                "ccf_pref_label": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "order_number": {
+                    "type": "integer"
+                },
+                "record_number": {
+                    "type": "integer"
+                },
+                "source_concept": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "ccf_pref_label",
+                "ccf_biomarker_type",
+                "source_concept",
+                "record_number",
+                "order_number",
+                "id"
+            ],
+            "title": "BiomarkerInstance",
+            "type": "object"
+        },
+        "CellMarkerDescriptor": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "biomarker_set": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "derived_from": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "primary_anatomical_structure": {
+                    "type": "string"
+                },
+                "primary_cell_type": {
+                    "type": "string"
+                },
+                "references": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "primary_cell_type",
+                "primary_anatomical_structure",
+                "id"
+            ],
+            "title": "CellMarkerDescriptor",
+            "type": "object"
+        },
+        "CellType": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "ccf_asctb_type": {
+                    "type": "string"
+                },
+                "ccf_ct_isa": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "ccf_is_provisional": {
+                    "type": "boolean"
+                },
+                "ccf_located_in": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "ccf_pref_label": {
+                    "type": "string"
+                },
+                "conforms_to": {
+                    "enum": [
+                        "CellType"
+                    ],
+                    "type": "string"
+                },
+                "has_characterizing_marker_set": {
+                    "items": {
+                        "$ref": "#/$defs/CharacterizingMarkerSet"
+                    },
+                    "type": "array"
+                },
+                "id": {
+                    "pattern": "(CL|PCL|LMHA):\\d+|https://purl.org/ccf/ASCTB-TEMP_[a-zA-Z0-9-]+",
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "parent_class": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "ccf_pref_label",
+                "ccf_asctb_type",
+                "ccf_is_provisional"
+            ],
+            "title": "CellType",
+            "type": "object"
+        },
+        "CellTypeInstance": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "ccf_pref_label": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "order_number": {
+                    "type": "integer"
+                },
+                "record_number": {
+                    "type": "integer"
+                },
+                "source_concept": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "ccf_pref_label",
+                "source_concept",
+                "record_number",
+                "order_number",
+                "id"
+            ],
+            "title": "CellTypeInstance",
+            "type": "object"
+        },
+        "CharacterizingMarkerSet": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "members": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "references": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "title": "CharacterizingMarkerSet",
+            "type": "object"
+        },
+        "Container": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "data": {
+                    "$ref": "#/$defs/AsctbDataset"
+                },
+                "iri": {
+                    "type": "string"
+                },
+                "metadata": {
+                    "$ref": "#/$defs/AsctbMetadata"
+                }
+            },
+            "title": "Container",
+            "type": "object"
+        },
+        "Dataset": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "citation": {
+                    "type": "string"
+                },
+                "citationOverall": {
+                    "type": "string"
+                },
+                "creation_date": {
+                    "type": "string"
+                },
+                "creators": {
+                    "items": {
+                        "anyOf": [
+                            {
+                                "$ref": "#/$defs/Person"
+                            },
+                            {
+                                "$ref": "#/$defs/SoftwareApplication"
+                            }
+                        ]
+                    },
+                    "type": "array"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "distributions": {
+                    "items": {
+                        "$ref": "#/$defs/Distribution"
+                    },
+                    "type": "array"
+                },
+                "doi": {
+                    "type": "string"
+                },
+                "externalReviewers": {
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "type": "array"
+                },
+                "funders": {
+                    "items": {
+                        "$ref": "#/$defs/Grant"
+                    },
+                    "type": "array"
+                },
+                "hubmapId": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "license": {
+                    "type": "string"
+                },
+                "project_leads": {
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "type": "array"
+                },
+                "publisher": {
+                    "type": "string"
+                },
+                "reviewers": {
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "type": "array"
+                },
+                "see_also": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "version": {
+                    "type": "string"
+                },
+                "was_derived_from": {
+                    "$ref": "#/$defs/Dataset"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Dataset",
+            "type": "object"
+        },
+        "Distribution": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "accessUrl": {
+                    "type": "string"
+                },
+                "downloadUrl": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "mediaType": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Distribution",
+            "type": "object"
+        },
+        "Grant": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "awardNumber": {
+                    "type": "string"
+                },
+                "funder": {
+                    "type": "string"
+                }
+            },
+            "title": "Grant",
+            "type": "object"
+        },
+        "Person": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "enum": [
+                        "Person"
+                    ],
+                    "type": "string"
+                },
+                "firstName": {
+                    "type": "string"
+                },
+                "fullName": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "lastName": {
+                    "type": "string"
+                },
+                "orcid": {
+                    "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Person",
+            "type": "object"
+        },
+        "SoftwareApplication": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "enum": [
+                        "SoftwareApplication"
+                    ],
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "target_product": {
+                    "$ref": "#/$defs/SoftwareSourceCode"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "version": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "SoftwareApplication",
+            "type": "object"
+        },
+        "SoftwareSourceCode": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "code_repository": {
+                    "type": "string"
+                },
+                "see_also": {
+                    "type": "string"
+                }
+            },
+            "title": "SoftwareSourceCode",
+            "type": "object"
+        }
+    },
+    "$id": "https://purl.humanatlas.io/schema/asct-b",
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "additionalProperties": true,
+    "description": "",
+    "metamodel_version": "1.7.0",
+    "properties": {
+        "data": {
+            "$ref": "#/$defs/AsctbDataset"
+        },
+        "iri": {
+            "type": "string"
+        },
+        "metadata": {
+            "$ref": "#/$defs/AsctbMetadata"
+        }
+    },
+    "title": "asct-b",
+    "type": "object",
+    "version": null
+}

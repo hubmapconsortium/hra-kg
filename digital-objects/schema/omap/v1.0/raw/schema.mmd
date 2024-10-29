@@ -1,0 +1,101 @@
+erDiagram
+Container {
+    uriorcurie iri  
+}
+OmapDataset {
+
+}
+CoreAntibodyPanel {
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+ExperimentUsedAntibody {
+    float concentration  
+    integer dilution  
+    integer cycle_number  
+    boolean is_core_panel  
+    uriorcurie used_by_experiment  
+    uriorcurie id  
+    string label  
+}
+RegisteredAntibody {
+    string lot_number  
+    uriorcurie id  
+    string label  
+}
+ExperimentCycle {
+    integer cycle_number  
+    uriorcurie id  
+    string label  
+}
+MultiplexedAntibodyBasedImagingExperiment {
+    string method  
+    string tissue_preservation  
+    uriorcurieList protocol_doi  
+    uriorcurieList author_orcid  
+    uriorcurieList has_cycle  
+    uriorcurie id  
+    string label  
+}
+AnatomicalStructure {
+    uriorcurie id  
+}
+Antibody {
+    uriorcurie id  
+    uriorcurie parent_class  
+    string antibody_type  
+    string host  
+    string isotype  
+    string clonality  
+    string clone_id  
+    string conjugate  
+    string fluorescent  
+    string recombinant  
+    string producer  
+    string catalog_number  
+}
+BindsToStatement {
+    string rationale  
+}
+DetectStatement {
+    string rationale  
+}
+Protein {
+    uriorcurie id  
+}
+OmapMetadata {
+    string title  
+    string description  
+    uriorcurieList created_by  
+    string creation_date  
+    string version  
+    string license  
+    string publisher  
+    uriorcurie see_also  
+    uriorcurie derived_from  
+}
+
+Container ||--|o OmapMetadata : "metadata"
+Container ||--|o OmapDataset : "data"
+OmapDataset ||--}| Antibody : "antibody"
+OmapDataset ||--|| MultiplexedAntibodyBasedImagingExperiment : "experiment"
+OmapDataset ||--}| ExperimentCycle : "cycles"
+OmapDataset ||--|| CoreAntibodyPanel : "core_antibody_panel"
+CoreAntibodyPanel ||--}| ExperimentUsedAntibody : "has_antibody_component"
+CoreAntibodyPanel ||--}o Named : "type_of"
+ExperimentUsedAntibody ||--|| RegisteredAntibody : "based_on"
+ExperimentUsedAntibody ||--}o Named : "type_of"
+RegisteredAntibody ||--}o Named : "type_of"
+ExperimentCycle ||--}| ExperimentUsedAntibody : "uses_antibody"
+ExperimentCycle ||--}o Named : "type_of"
+MultiplexedAntibodyBasedImagingExperiment ||--|| AnatomicalStructure : "sample_organ"
+MultiplexedAntibodyBasedImagingExperiment ||--}o Named : "type_of"
+Antibody ||--}o DetectStatement : "detects"
+Antibody ||--}o BindsToStatement : "binds_to"
+BindsToStatement ||--|| Antibody : "antibody_id"
+DetectStatement ||--}| Protein : "protein_id"
+

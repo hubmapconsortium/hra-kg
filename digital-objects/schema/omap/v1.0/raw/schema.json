@@ -1,0 +1,678 @@
+{
+    "$defs": {
+        "AnatomicalStructure": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "id": {
+                    "pattern": "(UBERON|FMA):\\d+",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "AnatomicalStructure",
+            "type": "object"
+        },
+        "Antibody": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "antibody_type": {
+                    "pattern": "(Primary|Secondary)",
+                    "type": "string"
+                },
+                "binds_to": {
+                    "items": {
+                        "$ref": "#/$defs/BindsToStatement"
+                    },
+                    "type": "array"
+                },
+                "catalog_number": {
+                    "type": "string"
+                },
+                "clonality": {
+                    "type": "string"
+                },
+                "clone_id": {
+                    "type": "string"
+                },
+                "conjugate": {
+                    "type": "string"
+                },
+                "detects": {
+                    "items": {
+                        "$ref": "#/$defs/DetectStatement"
+                    },
+                    "type": "array"
+                },
+                "fluorescent": {
+                    "type": "string"
+                },
+                "host": {
+                    "type": "string"
+                },
+                "id": {
+                    "pattern": "AB_\\d+",
+                    "type": "string"
+                },
+                "isotype": {
+                    "type": "string"
+                },
+                "parent_class": {
+                    "type": "string"
+                },
+                "producer": {
+                    "type": "string"
+                },
+                "recombinant": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "antibody_type",
+                "host",
+                "recombinant",
+                "catalog_number"
+            ],
+            "title": "Antibody",
+            "type": "object"
+        },
+        "BindsToStatement": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "antibody_id": {
+                    "type": "string"
+                },
+                "rationale": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "antibody_id",
+                "rationale"
+            ],
+            "title": "BindsToStatement",
+            "type": "object"
+        },
+        "Container": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "data": {
+                    "$ref": "#/$defs/OmapDataset"
+                },
+                "iri": {
+                    "type": "string"
+                },
+                "metadata": {
+                    "$ref": "#/$defs/OmapMetadata"
+                }
+            },
+            "title": "Container",
+            "type": "object"
+        },
+        "CoreAntibodyPanel": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "has_antibody_component": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "has_antibody_component",
+                "id",
+                "label"
+            ],
+            "title": "CoreAntibodyPanel",
+            "type": "object"
+        },
+        "Dataset": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "citation": {
+                    "type": "string"
+                },
+                "citationOverall": {
+                    "type": "string"
+                },
+                "creation_date": {
+                    "type": "string"
+                },
+                "creators": {
+                    "items": {
+                        "anyOf": [
+                            {
+                                "$ref": "#/$defs/Person"
+                            },
+                            {
+                                "$ref": "#/$defs/SoftwareApplication"
+                            }
+                        ]
+                    },
+                    "type": "array"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "distributions": {
+                    "items": {
+                        "$ref": "#/$defs/Distribution"
+                    },
+                    "type": "array"
+                },
+                "doi": {
+                    "type": "string"
+                },
+                "externalReviewers": {
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "type": "array"
+                },
+                "funders": {
+                    "items": {
+                        "$ref": "#/$defs/Grant"
+                    },
+                    "type": "array"
+                },
+                "hubmapId": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "license": {
+                    "type": "string"
+                },
+                "project_leads": {
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "type": "array"
+                },
+                "publisher": {
+                    "type": "string"
+                },
+                "reviewers": {
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "type": "array"
+                },
+                "see_also": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "version": {
+                    "type": "string"
+                },
+                "was_derived_from": {
+                    "$ref": "#/$defs/Dataset"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Dataset",
+            "type": "object"
+        },
+        "DetectStatement": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "protein_id": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "rationale": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "protein_id",
+                "rationale"
+            ],
+            "title": "DetectStatement",
+            "type": "object"
+        },
+        "Distribution": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "accessUrl": {
+                    "type": "string"
+                },
+                "downloadUrl": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "mediaType": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Distribution",
+            "type": "object"
+        },
+        "ExperimentCycle": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "cycle_number": {
+                    "type": "integer"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "uses_antibody": {
+                    "items": {
+                        "$ref": "#/$defs/ExperimentUsedAntibody"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "cycle_number",
+                "uses_antibody",
+                "id",
+                "label"
+            ],
+            "title": "ExperimentCycle",
+            "type": "object"
+        },
+        "ExperimentUsedAntibody": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "based_on": {
+                    "$ref": "#/$defs/RegisteredAntibody"
+                },
+                "concentration": {
+                    "type": "number"
+                },
+                "cycle_number": {
+                    "type": "integer"
+                },
+                "dilution": {
+                    "type": "integer"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "is_core_panel": {
+                    "type": "boolean"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "used_by_experiment": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "cycle_number",
+                "is_core_panel",
+                "used_by_experiment",
+                "based_on",
+                "id",
+                "label"
+            ],
+            "title": "ExperimentUsedAntibody",
+            "type": "object"
+        },
+        "Grant": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "awardNumber": {
+                    "type": "string"
+                },
+                "funder": {
+                    "type": "string"
+                }
+            },
+            "title": "Grant",
+            "type": "object"
+        },
+        "MultiplexedAntibodyBasedImagingExperiment": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "author_orcid": {
+                    "items": {
+                        "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "has_cycle": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "method": {
+                    "type": "string"
+                },
+                "protocol_doi": {
+                    "items": {
+                        "pattern": "https://(?:dx\\.)?doi\\.org/.*",
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "sample_organ": {
+                    "type": "string"
+                },
+                "tissue_preservation": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "method",
+                "tissue_preservation",
+                "author_orcid",
+                "has_cycle",
+                "sample_organ",
+                "id",
+                "label"
+            ],
+            "title": "MultiplexedAntibodyBasedImagingExperiment",
+            "type": "object"
+        },
+        "OmapDataset": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "antibody": {
+                    "items": {
+                        "$ref": "#/$defs/Antibody"
+                    },
+                    "type": "array"
+                },
+                "core_antibody_panel": {
+                    "$ref": "#/$defs/CoreAntibodyPanel"
+                },
+                "cycles": {
+                    "items": {
+                        "$ref": "#/$defs/ExperimentCycle"
+                    },
+                    "type": "array"
+                },
+                "experiment": {
+                    "$ref": "#/$defs/MultiplexedAntibodyBasedImagingExperiment"
+                }
+            },
+            "required": [
+                "antibody",
+                "experiment",
+                "cycles",
+                "core_antibody_panel"
+            ],
+            "title": "OmapDataset",
+            "type": "object"
+        },
+        "OmapMetadata": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "created_by": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "creation_date": {
+                    "type": "string"
+                },
+                "derived_from": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "license": {
+                    "type": "string"
+                },
+                "publisher": {
+                    "type": "string"
+                },
+                "see_also": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "version": {
+                    "type": "string"
+                }
+            },
+            "title": "OmapMetadata",
+            "type": "object"
+        },
+        "Person": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "enum": [
+                        "Person"
+                    ],
+                    "type": "string"
+                },
+                "firstName": {
+                    "type": "string"
+                },
+                "fullName": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "lastName": {
+                    "type": "string"
+                },
+                "orcid": {
+                    "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Person",
+            "type": "object"
+        },
+        "Protein": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "id": {
+                    "pattern": "HGNC:\\d+",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Protein",
+            "type": "object"
+        },
+        "RegisteredAntibody": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "lot_number": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "RegisteredAntibody",
+            "type": "object"
+        },
+        "SoftwareApplication": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "enum": [
+                        "SoftwareApplication"
+                    ],
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "target_product": {
+                    "$ref": "#/$defs/SoftwareSourceCode"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "version": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "SoftwareApplication",
+            "type": "object"
+        },
+        "SoftwareSourceCode": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "code_repository": {
+                    "type": "string"
+                },
+                "see_also": {
+                    "type": "string"
+                }
+            },
+            "title": "SoftwareSourceCode",
+            "type": "object"
+        }
+    },
+    "$id": "https://purl.humanatlas.io/schema/omap",
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "additionalProperties": true,
+    "description": "",
+    "metamodel_version": "1.7.0",
+    "properties": {
+        "data": {
+            "$ref": "#/$defs/OmapDataset"
+        },
+        "iri": {
+            "type": "string"
+        },
+        "metadata": {
+            "$ref": "#/$defs/OmapMetadata"
+        }
+    },
+    "title": "omap",
+    "type": "object",
+    "version": null
+}

@@ -1,0 +1,645 @@
+{
+    "$defs": {
+        "Container": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "data": {
+                    "$ref": "#/$defs/DatasetGraphData"
+                },
+                "iri": {
+                    "type": "string"
+                },
+                "metadata": {
+                    "$ref": "#/$defs/DatasetGraphMetadata"
+                }
+            },
+            "title": "Container",
+            "type": "object"
+        },
+        "Dataset": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "description": {
+                    "type": "string"
+                },
+                "external_link": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "links_back_to": {
+                    "type": "string"
+                },
+                "pref_label": {
+                    "type": "string"
+                },
+                "technology": {
+                    "type": "string"
+                },
+                "thumbnail": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "thumbnail",
+                "id",
+                "label"
+            ],
+            "title": "Dataset",
+            "type": "object"
+        },
+        "DatasetGraphData": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "dataset": {
+                    "items": {
+                        "$ref": "#/$defs/Dataset"
+                    },
+                    "type": "array"
+                },
+                "donor": {
+                    "items": {
+                        "$ref": "#/$defs/Donor"
+                    },
+                    "type": "array"
+                },
+                "sample": {
+                    "items": {
+                        "$ref": "#/$defs/TissueBlock"
+                    },
+                    "type": "array"
+                },
+                "spatial_entity": {
+                    "items": {
+                        "$ref": "#/$defs/SpatialEntity"
+                    },
+                    "type": "array"
+                }
+            },
+            "title": "DatasetGraphData",
+            "type": "object"
+        },
+        "DatasetGraphMetadata": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "created_by": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "creation_date": {
+                    "type": "string"
+                },
+                "derived_from": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "license": {
+                    "type": "string"
+                },
+                "publisher": {
+                    "type": "string"
+                },
+                "see_also": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "version": {
+                    "type": "string"
+                }
+            },
+            "title": "DatasetGraphMetadata",
+            "type": "object"
+        },
+        "Distribution": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "accessUrl": {
+                    "type": "string"
+                },
+                "downloadUrl": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "mediaType": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Distribution",
+            "type": "object"
+        },
+        "Donor": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "age": {
+                    "type": "integer"
+                },
+                "bmi": {
+                    "type": "number"
+                },
+                "consortium_name": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "external_link": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "pref_label": {
+                    "type": "string"
+                },
+                "provider_name": {
+                    "type": "string"
+                },
+                "provider_uuid": {
+                    "type": "string"
+                },
+                "race": {
+                    "type": "string"
+                },
+                "race_id": {
+                    "pattern": "(loinc:LA10608-0|loinc:LA6156-9|loinc:LA10610-6|loinc:LA10611-4|loinc:LA4457-3|loinc:LA4489-6)",
+                    "type": "string"
+                },
+                "samples": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "sex": {
+                    "type": "string"
+                },
+                "sex_id": {
+                    "pattern": "(loinc:LA3-6|loinc:LA2-8|loinc:LA4489-6)",
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Donor",
+            "type": "object"
+        },
+        "Grant": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "awardNumber": {
+                    "type": "string"
+                },
+                "funder": {
+                    "type": "string"
+                }
+            },
+            "title": "Grant",
+            "type": "object"
+        },
+        "Person": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "enum": [
+                        "Person"
+                    ],
+                    "type": "string"
+                },
+                "firstName": {
+                    "type": "string"
+                },
+                "fullName": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "lastName": {
+                    "type": "string"
+                },
+                "orcid": {
+                    "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Person",
+            "type": "object"
+        },
+        "SoftwareApplication": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "enum": [
+                        "SoftwareApplication"
+                    ],
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "target_product": {
+                    "$ref": "#/$defs/SoftwareSourceCode"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "version": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "SoftwareApplication",
+            "type": "object"
+        },
+        "SoftwareSourceCode": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "code_repository": {
+                    "type": "string"
+                },
+                "see_also": {
+                    "type": "string"
+                }
+            },
+            "title": "SoftwareSourceCode",
+            "type": "object"
+        },
+        "SpatialEntity": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "collides_with": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "create_date": {
+                    "format": "date",
+                    "type": "string"
+                },
+                "creator_name": {
+                    "type": "string"
+                },
+                "dimension_unit": {
+                    "pattern": "(centimeter|millimeter)",
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "placement": {
+                    "$ref": "#/$defs/SpatialPlacement"
+                },
+                "pref_label": {
+                    "type": "string"
+                },
+                "slice_count": {
+                    "type": "integer"
+                },
+                "slice_thickness": {
+                    "type": "integer"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "x_dimension": {
+                    "minimum": 0.0,
+                    "type": "number"
+                },
+                "y_dimension": {
+                    "minimum": 0.0,
+                    "type": "number"
+                },
+                "z_dimension": {
+                    "minimum": 0.0,
+                    "type": "number"
+                }
+            },
+            "required": [
+                "x_dimension",
+                "y_dimension",
+                "z_dimension",
+                "dimension_unit",
+                "placement",
+                "id",
+                "label"
+            ],
+            "title": "SpatialEntity",
+            "type": "object"
+        },
+        "SpatialPlacement": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "placement_date": {
+                    "format": "date",
+                    "type": "string"
+                },
+                "rotation_order": {
+                    "pattern": "XYZ",
+                    "type": "string"
+                },
+                "rotation_unit": {
+                    "pattern": "degree",
+                    "type": "string"
+                },
+                "scaling_unit": {
+                    "pattern": "ratio",
+                    "type": "string"
+                },
+                "source": {
+                    "type": "string"
+                },
+                "target": {
+                    "type": "string"
+                },
+                "translation_unit": {
+                    "pattern": "(centimeter|millimeter)",
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "x_rotation": {
+                    "type": "number"
+                },
+                "x_scaling": {
+                    "minimum": 0.0,
+                    "type": "number"
+                },
+                "x_translation": {
+                    "type": "number"
+                },
+                "y_rotation": {
+                    "type": "number"
+                },
+                "y_scaling": {
+                    "minimum": 0.0,
+                    "type": "number"
+                },
+                "y_translation": {
+                    "type": "number"
+                },
+                "z_rotation": {
+                    "type": "number"
+                },
+                "z_scaling": {
+                    "minimum": 0.0,
+                    "type": "number"
+                },
+                "z_translation": {
+                    "type": "number"
+                }
+            },
+            "required": [
+                "target",
+                "placement_date",
+                "x_scaling",
+                "y_scaling",
+                "z_scaling",
+                "scaling_unit",
+                "x_rotation",
+                "y_rotation",
+                "z_rotation",
+                "rotation_unit",
+                "x_translation",
+                "y_translation",
+                "z_translation",
+                "translation_unit",
+                "id",
+                "label"
+            ],
+            "title": "SpatialPlacement",
+            "type": "object"
+        },
+        "TissueBlock": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "datasets": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "external_link": {
+                    "type": "string"
+                },
+                "extraction_site": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "links_back_to": {
+                    "type": "string"
+                },
+                "partially_overlaps": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "pref_label": {
+                    "type": "string"
+                },
+                "rui_location": {
+                    "type": "string"
+                },
+                "section_count": {
+                    "type": "integer"
+                },
+                "section_size": {
+                    "type": "number"
+                },
+                "section_size_unit": {
+                    "type": "string"
+                },
+                "sections": {
+                    "items": {
+                        "$ref": "#/$defs/TissueSection"
+                    },
+                    "type": "array"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "TissueBlock",
+            "type": "object"
+        },
+        "TissueSection": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "datasets": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "external_link": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "links_back_to": {
+                    "type": "string"
+                },
+                "pref_label": {
+                    "type": "string"
+                },
+                "samples": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "section_number": {
+                    "type": "integer"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "TissueSection",
+            "type": "object"
+        }
+    },
+    "$id": "https://purl.humanatlas.io/schema/ds-graph",
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "additionalProperties": true,
+    "description": "",
+    "metamodel_version": "1.7.0",
+    "properties": {
+        "data": {
+            "$ref": "#/$defs/DatasetGraphData"
+        },
+        "iri": {
+            "type": "string"
+        },
+        "metadata": {
+            "$ref": "#/$defs/DatasetGraphMetadata"
+        }
+    },
+    "title": "ds-graph",
+    "type": "object",
+    "version": null
+}

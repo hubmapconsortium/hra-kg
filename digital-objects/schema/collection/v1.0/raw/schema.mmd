@@ -1,0 +1,21 @@
+erDiagram
+Container {
+    uriorcurie iri  
+    stringList data  
+}
+CollectionMetadata {
+    string title  
+    string description  
+    uriorcurieList created_by  
+    string version  
+    string creation_date  
+    string license  
+    string publisher  
+    uriorcurie see_also  
+    uriorcurie derived_from  
+    uriorcurieList had_member  
+    uriorcurieList ontology_root  
+}
+
+Container ||--|o CollectionMetadata : "metadata"
+

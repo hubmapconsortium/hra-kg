@@ -1,0 +1,421 @@
+{
+    "$defs": {
+        "Container": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "data": {
+                    "items": {
+                        "$ref": "#/$defs/FtuIllustration"
+                    },
+                    "type": "array"
+                },
+                "iri": {
+                    "type": "string"
+                },
+                "metadata": {
+                    "$ref": "#/$defs/FtuMetadata"
+                }
+            },
+            "title": "Container",
+            "type": "object"
+        },
+        "Dataset": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "citation": {
+                    "type": "string"
+                },
+                "citationOverall": {
+                    "type": "string"
+                },
+                "creation_date": {
+                    "type": "string"
+                },
+                "creators": {
+                    "items": {
+                        "anyOf": [
+                            {
+                                "$ref": "#/$defs/Person"
+                            },
+                            {
+                                "$ref": "#/$defs/SoftwareApplication"
+                            }
+                        ]
+                    },
+                    "type": "array"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "distributions": {
+                    "items": {
+                        "$ref": "#/$defs/Distribution"
+                    },
+                    "type": "array"
+                },
+                "doi": {
+                    "type": "string"
+                },
+                "externalReviewers": {
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "type": "array"
+                },
+                "funders": {
+                    "items": {
+                        "$ref": "#/$defs/Grant"
+                    },
+                    "type": "array"
+                },
+                "hubmapId": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "license": {
+                    "type": "string"
+                },
+                "project_leads": {
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "type": "array"
+                },
+                "publisher": {
+                    "type": "string"
+                },
+                "reviewers": {
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "type": "array"
+                },
+                "see_also": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "version": {
+                    "type": "string"
+                },
+                "was_derived_from": {
+                    "$ref": "#/$defs/Dataset"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Dataset",
+            "type": "object"
+        },
+        "Distribution": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "accessUrl": {
+                    "type": "string"
+                },
+                "downloadUrl": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "mediaType": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Distribution",
+            "type": "object"
+        },
+        "FtuIllustration": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "illustration_node": {
+                    "items": {
+                        "$ref": "#/$defs/FtuIllustrationNode"
+                    },
+                    "type": "array"
+                },
+                "image_file": {
+                    "items": {
+                        "$ref": "#/$defs/FtuIllustrationFile"
+                    },
+                    "type": "array"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "located_in": {
+                    "pattern": "(UBERON|FMA):\\d+",
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "FtuIllustration",
+            "type": "object"
+        },
+        "FtuIllustrationFile": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "file_format": {
+                    "type": "string"
+                },
+                "file_url": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "FtuIllustrationFile",
+            "type": "object"
+        },
+        "FtuIllustrationNode": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "node_name": {
+                    "type": "string"
+                },
+                "part_of_illustration": {
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "FtuIllustrationNode",
+            "type": "object"
+        },
+        "FtuMetadata": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "created_by": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "creation_date": {
+                    "type": "string"
+                },
+                "derived_from": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "license": {
+                    "type": "string"
+                },
+                "publisher": {
+                    "type": "string"
+                },
+                "see_also": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "version": {
+                    "type": "string"
+                }
+            },
+            "title": "FtuMetadata",
+            "type": "object"
+        },
+        "Grant": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "awardNumber": {
+                    "type": "string"
+                },
+                "funder": {
+                    "type": "string"
+                }
+            },
+            "title": "Grant",
+            "type": "object"
+        },
+        "Person": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "enum": [
+                        "Person"
+                    ],
+                    "type": "string"
+                },
+                "firstName": {
+                    "type": "string"
+                },
+                "fullName": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "lastName": {
+                    "type": "string"
+                },
+                "orcid": {
+                    "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                    "type": "string"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Person",
+            "type": "object"
+        },
+        "SoftwareApplication": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "enum": [
+                        "SoftwareApplication"
+                    ],
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "target_product": {
+                    "$ref": "#/$defs/SoftwareSourceCode"
+                },
+                "type_of": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "version": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "SoftwareApplication",
+            "type": "object"
+        },
+        "SoftwareSourceCode": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "code_repository": {
+                    "type": "string"
+                },
+                "see_also": {
+                    "type": "string"
+                }
+            },
+            "title": "SoftwareSourceCode",
+            "type": "object"
+        }
+    },
+    "$id": "https://purl.humanatlas.io/schema/2d-ftu",
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "additionalProperties": true,
+    "description": "",
+    "metamodel_version": "1.7.0",
+    "properties": {
+        "data": {
+            "items": {
+                "$ref": "#/$defs/FtuIllustration"
+            },
+            "type": "array"
+        },
+        "iri": {
+            "type": "string"
+        },
+        "metadata": {
+            "$ref": "#/$defs/FtuMetadata"
+        }
+    },
+    "title": "ftu-2d",
+    "type": "object",
+    "version": null
+}

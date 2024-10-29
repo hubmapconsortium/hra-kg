@@ -1,0 +1,125 @@
+erDiagram
+Container {
+    uriorcurie iri  
+}
+DatasetGraphData {
+
+}
+SpatialEntity {
+    string pref_label  
+    string creator_name  
+    date create_date  
+    float x_dimension  
+    float y_dimension  
+    float z_dimension  
+    string dimension_unit  
+    uriorcurieList collides_with  
+    integer slice_count  
+    integer slice_thickness  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+SpatialPlacement {
+    uriorcurie target  
+    date placement_date  
+    float x_scaling  
+    float y_scaling  
+    float z_scaling  
+    string scaling_unit  
+    float x_rotation  
+    float y_rotation  
+    float z_rotation  
+    string rotation_unit  
+    string rotation_order  
+    float x_translation  
+    float y_translation  
+    float z_translation  
+    string translation_unit  
+    uriorcurie id  
+    string label  
+}
+Dataset {
+    string pref_label  
+    string description  
+    string external_link  
+    string technology  
+    string thumbnail  
+    uriorcurie links_back_to  
+    uriorcurie id  
+    string label  
+}
+TissueBlock {
+    string pref_label  
+    string description  
+    string external_link  
+    integer section_count  
+    float section_size  
+    string section_size_unit  
+    uriorcurie links_back_to  
+    uriorcurie id  
+    string label  
+}
+TissueSection {
+    string pref_label  
+    string description  
+    string external_link  
+    integer section_number  
+    uriorcurie links_back_to  
+    uriorcurie id  
+    string label  
+}
+Donor {
+    string pref_label  
+    string description  
+    string external_link  
+    integer age  
+    float bmi  
+    string sex  
+    string sex_id  
+    string race  
+    string race_id  
+    string consortium_name  
+    string provider_name  
+    string provider_uuid  
+    uriorcurie id  
+    string label  
+}
+DatasetGraphMetadata {
+    string title  
+    string description  
+    uriorcurieList created_by  
+    string creation_date  
+    string version  
+    string license  
+    string publisher  
+    uriorcurie see_also  
+    uriorcurie derived_from  
+}
+
+Container ||--|o DatasetGraphMetadata : "metadata"
+Container ||--|o DatasetGraphData : "data"
+DatasetGraphData ||--}o Donor : "donor"
+DatasetGraphData ||--}o TissueBlock : "sample"
+DatasetGraphData ||--}o Dataset : "dataset"
+DatasetGraphData ||--}o SpatialEntity : "spatial_entity"
+SpatialEntity ||--|| SpatialPlacement : "placement"
+SpatialEntity ||--}o Named : "type_of"
+SpatialPlacement ||--|o SpatialEntity : "source"
+SpatialPlacement ||--}o Named : "type_of"
+Dataset ||--}o Named : "type_of"
+TissueBlock ||--}o Named : "partially_overlaps"
+TissueBlock ||--|o SpatialEntity : "rui_location"
+TissueBlock ||--|o SpatialEntity : "extraction_site"
+TissueBlock ||--}o TissueSection : "sections"
+TissueBlock ||--}o Dataset : "datasets"
+TissueBlock ||--}o Named : "type_of"
+TissueSection ||--}o TissueBlock : "samples"
+TissueSection ||--}o Dataset : "datasets"
+TissueSection ||--}o Named : "type_of"
+Donor ||--}o TissueBlock : "samples"
+Donor ||--}o Named : "type_of"
+

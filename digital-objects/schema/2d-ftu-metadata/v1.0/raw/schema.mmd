@@ -1,0 +1,72 @@
+erDiagram
+Container {
+    string name  
+    string type  
+    string title  
+    string description  
+    string version  
+    string creation_date  
+    string publisher  
+    string license  
+    uriorcurie see_also  
+    uriorcurie id  
+    string label  
+}
+Dataset {
+    string title  
+    string description  
+    string creation_date  
+    string version  
+    string license  
+    uriorcurie see_also  
+    string publisher  
+    string citation  
+    string citationOverall  
+    uriorcurie doi  
+    string hubmapId  
+    uriorcurie id  
+    string label  
+}
+Distribution {
+    string title  
+    uri downloadUrl  
+    uri accessUrl  
+    string mediaType  
+    uriorcurie id  
+    string label  
+}
+Person {
+    string fullName  
+    string firstName  
+    string lastName  
+    string orcid  
+    string conforms_to  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+Grant {
+    string funder  
+    string awardNumber  
+}
+Creator {
+    string conforms_to  
+    uriorcurie id  
+    string label  
+}
+
+Container ||--}| Creator : "creators"
+Container ||--}| Distribution : "distributions"
+Container ||--|o Dataset : "was_derived_from"
+Dataset ||--}o Creator : "creators"
+Dataset ||--}o Person : "reviewers"
+Dataset ||--}o Grant : "funders"
+Dataset ||--}o Person : "project_leads"
+Dataset ||--}o Person : "externalReviewers"
+Dataset ||--}o Distribution : "distributions"
+Dataset ||--|o Dataset : "was_derived_from"
+Person ||--}o Named : "type_of"
+
