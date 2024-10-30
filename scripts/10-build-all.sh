@@ -12,7 +12,7 @@ echo "Building Digital Objects..."
 echo
 
 for obj in $(do-processor list | grep -v '^collection' | sort); do
-  if [ "${SKIP_BUILT_DOs}" = "true" ] && [ ! -e dist/${obj}/graph.ttl ]; then
+  if [ "${SKIP_BUILT_DOs}" = "false" ] || [ ! -e dist/${obj}/graph.ttl ]; then
     do-processor $PROCESSOR_OPTS build $BUILD_OPTS $CLEAN_DOs $obj
   fi
 done
