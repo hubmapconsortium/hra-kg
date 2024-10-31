@@ -6,7 +6,7 @@ set -ev
 BUILD_OPTS=""
 CLEAN_DOs="--clean"
 PROCESSOR_OPTS="--exclude-bad-values"
-SKIP_BUILT_DOs="false"
+SKIP_BUILT_DOs="true"
 
 echo "Building Digital Objects..."
 echo
