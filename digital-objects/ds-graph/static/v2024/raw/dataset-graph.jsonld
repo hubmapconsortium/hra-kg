@@ -14050,6 +14050,80 @@
       ]
     },
     {
+      "@id": "https://hubmapconsortium.github.io/hra-registrations/staging/htan-colon-snyder-2024#Donor1",
+      "@type": "Donor",
+      "label": "Male, Age 78, BMI 35.1",
+      "description": "Entered 0/15/2024, Thomas V Karathanos, Stanford University",
+      "link": "https://portal.hubmapconsortium.org/browse/donor/d3ad6409d2ad37ef7dbcc90ccc199f68",
+      "consortium_name": "HTAN",
+      "provider_name": "Stanford University",
+      "provider_uuid": "6FB6914E-2DB8-11EF-B58D-20E2A8B75C6B",
+      "age": 78,
+      "sex": "Male",
+      "bmi": 35.1,
+      "samples": [
+        {
+          "@id": "https://hubmapconsortium.github.io/hra-registrations/staging/htan-colon-snyder-2024#Donor1_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 0/15/2024, Thomas V Karathanos, Stanford University",
+          "description": "1 x 4 x 5 millimeter, 5 millimeter",
+          "link": "https://portal.hubmapconsortium.org/browse/donor/d3ad6409d2ad37ef7dbcc90ccc199f68",
+          "section_count": 0,
+          "section_size": 5,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/73f8bc08-60e7-4450-99d8-b303cd4687d8",
+            "@type": "SpatialEntity",
+            "creator": "Thomas V Karathanos",
+            "creator_first_name": "Thomas",
+            "creator_last_name": "Karathanos",
+            "creator_orcid": "https://orcid.org/0000-0003-1754-3872",
+            "creation_date": "2024-01-16",
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0001158",
+              "http://purl.obolibrary.org/obo/UBERON_0001159"
+            ],
+            "x_dimension": 1,
+            "y_dimension": 4,
+            "z_dimension": 5,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "http://purl.org/ccf/1.5/73f8bc08-60e7-4450-99d8-b303cd4687d8_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2024-01-16",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 2,
+              "y_rotation": 175,
+              "z_rotation": 87,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 149.626,
+              "y_translation": 113.65,
+              "z_translation": 112.422,
+              "translation_units": "millimeter",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHMColon"
+            }
+          },
+          "datasets": [
+            {
+              "@id": "https://hubmapconsortium.github.io/hra-registrations/staging/htan-colon-snyder-2024#Donor1_TissueBlock1_TissueBlock1_Dataset1",
+              "@type": "Dataset",
+              "label": "Registered 0/15/2024, Thomas V Karathanos, Stanford University",
+              "description": "Data/Assay Types: Xenium, ",
+              "link": "https://portal.hubmapconsortium.org/browse/donor/d3ad6409d2ad37ef7dbcc90ccc199f68",
+              "technology": "Xenium",
+              "thumbnail": "assets/icons/ico-unknown.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "@id": "https://hubmapconsortium.github.io/hra-registrations/staging/hubmap-lung-pryhuber-2023/rui_locations.jsonld#Donor1",
       "@type": "Donor",
       "label": "Male, Age 23, BMI 23.1",
