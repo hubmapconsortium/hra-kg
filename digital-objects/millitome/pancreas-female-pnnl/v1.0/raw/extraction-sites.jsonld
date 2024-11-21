@@ -1,7 +1,7 @@
 [
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#25",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#25",
     "@type": "SpatialEntity",
     "label": "25",
     "creator": "Bhargav Snehal Desai",
@@ -15,7 +15,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#25_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#25_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -39,7 +39,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C24",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C24",
     "@type": "SpatialEntity",
     "label": "C24",
     "creator": "Bhargav Snehal Desai",
@@ -53,7 +53,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C24_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C24_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -77,7 +77,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D24",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D24",
     "@type": "SpatialEntity",
     "label": "D24",
     "creator": "Bhargav Snehal Desai",
@@ -91,7 +91,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D24_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D24_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -115,7 +115,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C23",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C23",
     "@type": "SpatialEntity",
     "label": "C23",
     "creator": "Bhargav Snehal Desai",
@@ -129,7 +129,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C23_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C23_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -153,7 +153,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D23",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D23",
     "@type": "SpatialEntity",
     "label": "D23",
     "creator": "Bhargav Snehal Desai",
@@ -167,7 +167,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D23_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D23_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -191,7 +191,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C22",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C22",
     "@type": "SpatialEntity",
     "label": "C22",
     "creator": "Bhargav Snehal Desai",
@@ -205,7 +205,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C22_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C22_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -230,7 +230,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D22",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D22",
     "@type": "SpatialEntity",
     "label": "D22",
     "creator": "Bhargav Snehal Desai",
@@ -244,7 +244,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D22_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D22_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -269,7 +269,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C21",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C21",
     "@type": "SpatialEntity",
     "label": "C21",
     "creator": "Bhargav Snehal Desai",
@@ -283,7 +283,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C21_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C21_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -308,7 +308,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D21",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D21",
     "@type": "SpatialEntity",
     "label": "D21",
     "creator": "Bhargav Snehal Desai",
@@ -322,7 +322,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D21_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D21_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -347,7 +347,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C20",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C20",
     "@type": "SpatialEntity",
     "label": "C20",
     "creator": "Bhargav Snehal Desai",
@@ -361,7 +361,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C20_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C20_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -386,7 +386,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D20",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D20",
     "@type": "SpatialEntity",
     "label": "D20",
     "creator": "Bhargav Snehal Desai",
@@ -400,7 +400,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D20_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D20_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -425,7 +425,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C19",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C19",
     "@type": "SpatialEntity",
     "label": "C19",
     "creator": "Bhargav Snehal Desai",
@@ -439,7 +439,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C19_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C19_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -464,7 +464,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D19",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D19",
     "@type": "SpatialEntity",
     "label": "D19",
     "creator": "Bhargav Snehal Desai",
@@ -478,7 +478,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D19_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D19_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -503,7 +503,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C18",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C18",
     "@type": "SpatialEntity",
     "label": "C18",
     "creator": "Bhargav Snehal Desai",
@@ -517,7 +517,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C18_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C18_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -542,7 +542,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D18",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D18",
     "@type": "SpatialEntity",
     "label": "D18",
     "creator": "Bhargav Snehal Desai",
@@ -556,7 +556,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D18_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D18_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -581,7 +581,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C17",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C17",
     "@type": "SpatialEntity",
     "label": "C17",
     "creator": "Bhargav Snehal Desai",
@@ -595,7 +595,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C17_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C17_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -620,7 +620,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D17",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D17",
     "@type": "SpatialEntity",
     "label": "D17",
     "creator": "Bhargav Snehal Desai",
@@ -634,7 +634,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D17_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D17_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -658,7 +658,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C16",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C16",
     "@type": "SpatialEntity",
     "label": "C16",
     "creator": "Bhargav Snehal Desai",
@@ -672,7 +672,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C16_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C16_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -696,7 +696,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D16",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D16",
     "@type": "SpatialEntity",
     "label": "D16",
     "creator": "Bhargav Snehal Desai",
@@ -710,7 +710,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D16_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D16_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -734,7 +734,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C15",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C15",
     "@type": "SpatialEntity",
     "label": "C15",
     "creator": "Bhargav Snehal Desai",
@@ -748,7 +748,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C15_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C15_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -772,7 +772,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D15",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D15",
     "@type": "SpatialEntity",
     "label": "D15",
     "creator": "Bhargav Snehal Desai",
@@ -786,7 +786,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D15_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D15_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -810,7 +810,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C14",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C14",
     "@type": "SpatialEntity",
     "label": "C14",
     "creator": "Bhargav Snehal Desai",
@@ -824,7 +824,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C14_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C14_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -848,7 +848,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D14",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D14",
     "@type": "SpatialEntity",
     "label": "D14",
     "creator": "Bhargav Snehal Desai",
@@ -862,7 +862,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D14_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D14_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -888,7 +888,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C13",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C13",
     "@type": "SpatialEntity",
     "label": "C13",
     "creator": "Bhargav Snehal Desai",
@@ -902,7 +902,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C13_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C13_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -926,7 +926,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D13",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D13",
     "@type": "SpatialEntity",
     "label": "D13",
     "creator": "Bhargav Snehal Desai",
@@ -940,7 +940,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D13_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D13_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -966,7 +966,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C12",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C12",
     "@type": "SpatialEntity",
     "label": "C12",
     "creator": "Bhargav Snehal Desai",
@@ -980,7 +980,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C12_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C12_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1006,7 +1006,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D12",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D12",
     "@type": "SpatialEntity",
     "label": "D12",
     "creator": "Bhargav Snehal Desai",
@@ -1020,7 +1020,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D12_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D12_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1046,7 +1046,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C11",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C11",
     "@type": "SpatialEntity",
     "label": "C11",
     "creator": "Bhargav Snehal Desai",
@@ -1060,7 +1060,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C11_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C11_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1086,7 +1086,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D11",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D11",
     "@type": "SpatialEntity",
     "label": "D11",
     "creator": "Bhargav Snehal Desai",
@@ -1100,7 +1100,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D11_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D11_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1126,7 +1126,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C10",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C10",
     "@type": "SpatialEntity",
     "label": "C10",
     "creator": "Bhargav Snehal Desai",
@@ -1140,7 +1140,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C10_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C10_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1166,7 +1166,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D10",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D10",
     "@type": "SpatialEntity",
     "label": "D10",
     "creator": "Bhargav Snehal Desai",
@@ -1180,7 +1180,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D10_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D10_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1205,7 +1205,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C9",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C9",
     "@type": "SpatialEntity",
     "label": "C9",
     "creator": "Bhargav Snehal Desai",
@@ -1219,7 +1219,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C9_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C9_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1245,7 +1245,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D9",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D9",
     "@type": "SpatialEntity",
     "label": "D9",
     "creator": "Bhargav Snehal Desai",
@@ -1259,7 +1259,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D9_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D9_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1284,7 +1284,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C8",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C8",
     "@type": "SpatialEntity",
     "label": "C8",
     "creator": "Bhargav Snehal Desai",
@@ -1298,7 +1298,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C8_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C8_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1323,7 +1323,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D8",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D8",
     "@type": "SpatialEntity",
     "label": "D8",
     "creator": "Bhargav Snehal Desai",
@@ -1337,7 +1337,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D8_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D8_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1362,7 +1362,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C7",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C7",
     "@type": "SpatialEntity",
     "label": "C7",
     "creator": "Bhargav Snehal Desai",
@@ -1376,7 +1376,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C7_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C7_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1401,7 +1401,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D7",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D7",
     "@type": "SpatialEntity",
     "label": "D7",
     "creator": "Bhargav Snehal Desai",
@@ -1415,7 +1415,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D7_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D7_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1440,7 +1440,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C6",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C6",
     "@type": "SpatialEntity",
     "label": "C6",
     "creator": "Bhargav Snehal Desai",
@@ -1454,7 +1454,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C6_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C6_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1478,7 +1478,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D6",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D6",
     "@type": "SpatialEntity",
     "label": "D6",
     "creator": "Bhargav Snehal Desai",
@@ -1492,7 +1492,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D6_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D6_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1517,7 +1517,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C5",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C5",
     "@type": "SpatialEntity",
     "label": "C5",
     "creator": "Bhargav Snehal Desai",
@@ -1531,7 +1531,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C5_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C5_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1555,7 +1555,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D5",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D5",
     "@type": "SpatialEntity",
     "label": "D5",
     "creator": "Bhargav Snehal Desai",
@@ -1569,7 +1569,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D5_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D5_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1594,7 +1594,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C4",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C4",
     "@type": "SpatialEntity",
     "label": "C4",
     "creator": "Bhargav Snehal Desai",
@@ -1608,7 +1608,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C4_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C4_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1632,7 +1632,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D4",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D4",
     "@type": "SpatialEntity",
     "label": "D4",
     "creator": "Bhargav Snehal Desai",
@@ -1646,7 +1646,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D4_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D4_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1671,7 +1671,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C3",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C3",
     "@type": "SpatialEntity",
     "label": "C3",
     "creator": "Bhargav Snehal Desai",
@@ -1685,7 +1685,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C3_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C3_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1709,7 +1709,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D3",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D3",
     "@type": "SpatialEntity",
     "label": "D3",
     "creator": "Bhargav Snehal Desai",
@@ -1723,7 +1723,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D3_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D3_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1748,7 +1748,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C2",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C2",
     "@type": "SpatialEntity",
     "label": "C2",
     "creator": "Bhargav Snehal Desai",
@@ -1762,7 +1762,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C2_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C2_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1786,7 +1786,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D2",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D2",
     "@type": "SpatialEntity",
     "label": "D2",
     "creator": "Bhargav Snehal Desai",
@@ -1800,7 +1800,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D2_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D2_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1825,7 +1825,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C1",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C1",
     "@type": "SpatialEntity",
     "label": "C1",
     "creator": "Bhargav Snehal Desai",
@@ -1839,7 +1839,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#C1_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#C1_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1863,7 +1863,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D1",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D1",
     "@type": "SpatialEntity",
     "label": "D1",
     "creator": "Bhargav Snehal Desai",
@@ -1877,7 +1877,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#D1_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#D1_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1902,7 +1902,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B24",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B24",
     "@type": "SpatialEntity",
     "label": "B24",
     "creator": "Bhargav Snehal Desai",
@@ -1916,7 +1916,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B24_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B24_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1940,7 +1940,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A24",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A24",
     "@type": "SpatialEntity",
     "label": "A24",
     "creator": "Bhargav Snehal Desai",
@@ -1954,7 +1954,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A24_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A24_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -1978,7 +1978,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B23",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B23",
     "@type": "SpatialEntity",
     "label": "B23",
     "creator": "Bhargav Snehal Desai",
@@ -1992,7 +1992,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B23_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B23_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2016,7 +2016,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A23",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A23",
     "@type": "SpatialEntity",
     "label": "A23",
     "creator": "Bhargav Snehal Desai",
@@ -2030,7 +2030,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A23_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A23_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2054,7 +2054,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B22",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B22",
     "@type": "SpatialEntity",
     "label": "B22",
     "creator": "Bhargav Snehal Desai",
@@ -2068,7 +2068,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B22_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B22_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2092,7 +2092,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A22",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A22",
     "@type": "SpatialEntity",
     "label": "A22",
     "creator": "Bhargav Snehal Desai",
@@ -2106,7 +2106,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A22_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A22_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2130,7 +2130,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B21",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B21",
     "@type": "SpatialEntity",
     "label": "B21",
     "creator": "Bhargav Snehal Desai",
@@ -2144,7 +2144,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B21_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B21_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2168,7 +2168,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A21",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A21",
     "@type": "SpatialEntity",
     "label": "A21",
     "creator": "Bhargav Snehal Desai",
@@ -2182,7 +2182,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A21_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A21_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2206,7 +2206,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B20",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B20",
     "@type": "SpatialEntity",
     "label": "B20",
     "creator": "Bhargav Snehal Desai",
@@ -2220,7 +2220,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B20_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B20_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2245,7 +2245,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A20",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A20",
     "@type": "SpatialEntity",
     "label": "A20",
     "creator": "Bhargav Snehal Desai",
@@ -2259,7 +2259,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A20_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A20_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2284,7 +2284,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B19",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B19",
     "@type": "SpatialEntity",
     "label": "B19",
     "creator": "Bhargav Snehal Desai",
@@ -2298,7 +2298,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B19_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B19_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2323,7 +2323,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A19",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A19",
     "@type": "SpatialEntity",
     "label": "A19",
     "creator": "Bhargav Snehal Desai",
@@ -2337,7 +2337,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A19_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A19_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2362,7 +2362,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B18",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B18",
     "@type": "SpatialEntity",
     "label": "B18",
     "creator": "Bhargav Snehal Desai",
@@ -2376,7 +2376,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B18_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B18_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2401,7 +2401,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A18",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A18",
     "@type": "SpatialEntity",
     "label": "A18",
     "creator": "Bhargav Snehal Desai",
@@ -2415,7 +2415,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A18_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A18_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2440,7 +2440,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B17",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B17",
     "@type": "SpatialEntity",
     "label": "B17",
     "creator": "Bhargav Snehal Desai",
@@ -2454,7 +2454,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B17_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B17_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2478,7 +2478,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A17",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A17",
     "@type": "SpatialEntity",
     "label": "A17",
     "creator": "Bhargav Snehal Desai",
@@ -2492,7 +2492,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A17_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A17_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2517,7 +2517,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B16",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B16",
     "@type": "SpatialEntity",
     "label": "B16",
     "creator": "Bhargav Snehal Desai",
@@ -2531,7 +2531,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B16_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B16_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2555,7 +2555,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A16",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A16",
     "@type": "SpatialEntity",
     "label": "A16",
     "creator": "Bhargav Snehal Desai",
@@ -2569,7 +2569,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A16_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A16_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2593,7 +2593,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B15",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B15",
     "@type": "SpatialEntity",
     "label": "B15",
     "creator": "Bhargav Snehal Desai",
@@ -2607,7 +2607,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B15_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B15_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2631,7 +2631,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A15",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A15",
     "@type": "SpatialEntity",
     "label": "A15",
     "creator": "Bhargav Snehal Desai",
@@ -2645,7 +2645,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A15_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A15_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2669,7 +2669,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B14",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B14",
     "@type": "SpatialEntity",
     "label": "B14",
     "creator": "Bhargav Snehal Desai",
@@ -2683,7 +2683,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B14_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B14_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2707,7 +2707,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A14",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A14",
     "@type": "SpatialEntity",
     "label": "A14",
     "creator": "Bhargav Snehal Desai",
@@ -2721,7 +2721,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A14_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A14_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2745,7 +2745,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B13",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B13",
     "@type": "SpatialEntity",
     "label": "B13",
     "creator": "Bhargav Snehal Desai",
@@ -2759,7 +2759,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B13_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B13_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2783,7 +2783,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A13",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A13",
     "@type": "SpatialEntity",
     "label": "A13",
     "creator": "Bhargav Snehal Desai",
@@ -2797,7 +2797,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A13_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A13_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2822,7 +2822,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B12",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B12",
     "@type": "SpatialEntity",
     "label": "B12",
     "creator": "Bhargav Snehal Desai",
@@ -2836,7 +2836,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B12_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B12_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2861,7 +2861,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A12",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A12",
     "@type": "SpatialEntity",
     "label": "A12",
     "creator": "Bhargav Snehal Desai",
@@ -2875,7 +2875,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A12_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A12_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2901,7 +2901,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B11",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B11",
     "@type": "SpatialEntity",
     "label": "B11",
     "creator": "Bhargav Snehal Desai",
@@ -2915,7 +2915,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B11_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B11_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2940,7 +2940,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A11",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A11",
     "@type": "SpatialEntity",
     "label": "A11",
     "creator": "Bhargav Snehal Desai",
@@ -2954,7 +2954,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A11_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A11_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -2980,7 +2980,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B10",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B10",
     "@type": "SpatialEntity",
     "label": "B10",
     "creator": "Bhargav Snehal Desai",
@@ -2994,7 +2994,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B10_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B10_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3020,7 +3020,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A10",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A10",
     "@type": "SpatialEntity",
     "label": "A10",
     "creator": "Bhargav Snehal Desai",
@@ -3034,7 +3034,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A10_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A10_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3060,7 +3060,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B9",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B9",
     "@type": "SpatialEntity",
     "label": "B9",
     "creator": "Bhargav Snehal Desai",
@@ -3074,7 +3074,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B9_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B9_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3100,7 +3100,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A9",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A9",
     "@type": "SpatialEntity",
     "label": "A9",
     "creator": "Bhargav Snehal Desai",
@@ -3114,7 +3114,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A9_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A9_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3141,7 +3141,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B8",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B8",
     "@type": "SpatialEntity",
     "label": "B8",
     "creator": "Bhargav Snehal Desai",
@@ -3155,7 +3155,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B8_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B8_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3182,7 +3182,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A8",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A8",
     "@type": "SpatialEntity",
     "label": "A8",
     "creator": "Bhargav Snehal Desai",
@@ -3196,7 +3196,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A8_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A8_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3223,7 +3223,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B7",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B7",
     "@type": "SpatialEntity",
     "label": "B7",
     "creator": "Bhargav Snehal Desai",
@@ -3237,7 +3237,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B7_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B7_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3264,7 +3264,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A7",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A7",
     "@type": "SpatialEntity",
     "label": "A7",
     "creator": "Bhargav Snehal Desai",
@@ -3278,7 +3278,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A7_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A7_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3305,7 +3305,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B6",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B6",
     "@type": "SpatialEntity",
     "label": "B6",
     "creator": "Bhargav Snehal Desai",
@@ -3319,7 +3319,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B6_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B6_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3345,7 +3345,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A6",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A6",
     "@type": "SpatialEntity",
     "label": "A6",
     "creator": "Bhargav Snehal Desai",
@@ -3359,7 +3359,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A6_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A6_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3386,7 +3386,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B5",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B5",
     "@type": "SpatialEntity",
     "label": "B5",
     "creator": "Bhargav Snehal Desai",
@@ -3400,7 +3400,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B5_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B5_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3426,7 +3426,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A5",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A5",
     "@type": "SpatialEntity",
     "label": "A5",
     "creator": "Bhargav Snehal Desai",
@@ -3440,7 +3440,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A5_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A5_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3466,7 +3466,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B4",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B4",
     "@type": "SpatialEntity",
     "label": "B4",
     "creator": "Bhargav Snehal Desai",
@@ -3480,7 +3480,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B4_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B4_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3506,7 +3506,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A4",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A4",
     "@type": "SpatialEntity",
     "label": "A4",
     "creator": "Bhargav Snehal Desai",
@@ -3520,7 +3520,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A4_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A4_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3546,7 +3546,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B3",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B3",
     "@type": "SpatialEntity",
     "label": "B3",
     "creator": "Bhargav Snehal Desai",
@@ -3560,7 +3560,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B3_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B3_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3585,7 +3585,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A3",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A3",
     "@type": "SpatialEntity",
     "label": "A3",
     "creator": "Bhargav Snehal Desai",
@@ -3599,7 +3599,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A3_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A3_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3624,7 +3624,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B2",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B2",
     "@type": "SpatialEntity",
     "label": "B2",
     "creator": "Bhargav Snehal Desai",
@@ -3638,7 +3638,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B2_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B2_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3663,7 +3663,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A2",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A2",
     "@type": "SpatialEntity",
     "label": "A2",
     "creator": "Bhargav Snehal Desai",
@@ -3677,7 +3677,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A2_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A2_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3702,7 +3702,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B1",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B1",
     "@type": "SpatialEntity",
     "label": "B1",
     "creator": "Bhargav Snehal Desai",
@@ -3716,7 +3716,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#B1_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#B1_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
@@ -3741,7 +3741,7 @@
   },
   {
     "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-    "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A1",
+    "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A1",
     "@type": "SpatialEntity",
     "label": "A1",
     "creator": "Bhargav Snehal Desai",
@@ -3755,7 +3755,7 @@
     "dimension_units": "millimeter",
     "placement": {
       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-      "@id": "https://purl.humanatlas.io/millitome/generic-pancreas-female#A1_placement",
+      "@id": "https://purl.humanatlas.io/millitome/pancreas-female-pnnl#A1_placement",
       "@type": "SpatialPlacement",
       "placement_date": "2024-08-07",
       "x_scaling": 1,
