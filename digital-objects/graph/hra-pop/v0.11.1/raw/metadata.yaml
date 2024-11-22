@@ -67,7 +67,7 @@ funders:
 citation: >-
   Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas [TBD](https://doi.org/TBD)
 citationOverall: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas [TBD](https://doi.org/TBD
+  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas [TBD](https://doi.org/TBD)
 datatable:
   - atlas-enriched-dataset-graph.jsonld
   - atlas-as-cell-summaries.jsonld
