@@ -17,18 +17,18 @@ creators:
     firstName: Daniel
     lastName: Bolin
     orcid: 0000-0002-3803-2476
-  - fullName: Vicky Daiya
-    firstName: Vicky
-    lastName: Daiya
-    orcid: 0000-0003-2090-574X
-  - fullName: Devin Wright
-    firstName: Devin
-    lastName: Wright
-    orcid: 0000-0003-3047-1631
   - fullName: Danial Qaurooni
     firstName: Danial
     lastName: Qaurooni
     orcid: 0000-0001-6190-073X
+  - fullName: Michael Ginda
+    firstName: Michael
+    lastName: Ginda
+    orcid: 0000-0002-7500-8096
+  - fullName: Kristin Ardlie
+    firstName: Kristin
+    lastName: Ardlie
+    orcid: 0000-0003-4272-6283
   - fullName: Fusheng Wang
     firstName: Fusheng
     lastName: Wang
@@ -65,11 +65,9 @@ funders:
 # hubmapId: 
 # doi: 
 citation: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
-  [TBD](https://doi.org/TBD)
+  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas [TBD](https://doi.org/TBD)
 citationOverall: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
-  [TBD](https://doi.org/TBD)
+  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas [TBD](https://doi.org/TBD
 datatable:
   - atlas-enriched-dataset-graph.jsonld
   - atlas-as-cell-summaries.jsonld
