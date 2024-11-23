@@ -22,15 +22,22 @@
             "description": "",
             "properties": {
                 "citation": {
+                    "description": "A citation or reference to another creative work, such  as another publication, web page, scholarly article, etc.",
+                    "title": "citation",
                     "type": "string"
                 },
                 "citationOverall": {
+                    "description": "A written reference to a source, such as a  book, article, or website, that identifies  the original source of information in a work.",
+                    "title": "citation",
                     "type": "string"
                 },
                 "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
                     "type": "string"
                 },
                 "creators": {
+                    "description": "An entity responsible for making the resource.",
                     "items": {
                         "anyOf": [
                             {
@@ -41,150 +48,194 @@
                             }
                         ]
                     },
+                    "title": "creator",
                     "type": "array"
                 },
                 "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
                     "type": "string"
                 },
                 "distributions": {
+                    "description": "An available distribution of the dataset.",
                     "items": {
                         "$ref": "#/$defs/Distribution"
                     },
+                    "title": "dataset distribution",
                     "type": "array"
                 },
                 "doi": {
+                    "description": "A DOI, or Digital Object Identifier, is a  unique string of numbers, letters, and symbols  that identifies a specific publication.",
+                    "title": "DOI",
                     "type": "string"
                 },
                 "externalReviewers": {
+                    "description": "An independent expert from outside an organization  who provides critical feedback and evaluation on  a program, project, or proposal.",
                     "items": {
                         "$ref": "#/$defs/Person"
                     },
+                    "title": "external reviewer",
                     "type": "array"
                 },
                 "funders": {
+                    "description": "A Grant that directly or indirectly provide  funding or sponsorship for this item.",
                     "items": {
                         "$ref": "#/$defs/Grant"
                     },
+                    "title": "funding",
                     "type": "array"
                 },
                 "hubmapId": {
+                    "description": "HuBMAP identifier.",
+                    "title": "HuBMAP identifier",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
                     "type": "string"
                 },
                 "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
                     "type": "string"
                 },
                 "project_leads": {
+                    "description": "A person who is responsible for leading a project  or a specific aspect of a project, including planning, implementation, and tracking. ",
                     "items": {
                         "$ref": "#/$defs/Person"
                     },
+                    "title": "project lead",
                     "type": "array"
                 },
                 "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
                     "type": "string"
                 },
                 "reviewers": {
+                    "description": "People or organizations that have reviewed the  content on this web page for accuracy and/or  completeness.",
                     "items": {
                         "$ref": "#/$defs/Person"
                     },
+                    "title": "reviewer",
                     "type": "array"
                 },
                 "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
                     "type": "string"
                 },
                 "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
                     "type": "string"
                 },
                 "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
                     "type": "string"
                 },
                 "was_derived_from": {
-                    "$ref": "#/$defs/Dataset"
+                    "$ref": "#/$defs/Dataset",
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.",
+                    "title": "was derived from"
                 }
             },
             "required": [
-                "id",
-                "label"
+                "id"
             ],
             "title": "Dataset",
             "type": "object"
-        },
-        "DimensionUnitEnum": {
-            "description": "",
-            "enum": [
-                "centimeter",
-                "millimeter"
-            ],
-            "title": "DimensionUnitEnum",
-            "type": "string"
         },
         "Distribution": {
             "additionalProperties": false,
             "description": "",
             "properties": {
                 "accessUrl": {
+                    "description": "A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint.",
+                    "title": "access URL",
                     "type": "string"
                 },
                 "downloadUrl": {
+                    "description": "The URL of the downloadable file in a given format.",
+                    "title": "download URL",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
                     "type": "string"
                 },
                 "mediaType": {
+                    "description": "The media type of the distribution as defined by IANA.",
+                    "title": "media type",
                     "type": "string"
                 },
                 "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
                     "type": "string"
                 }
             },
             "required": [
-                "id",
-                "label"
+                "id"
             ],
             "title": "Distribution",
             "type": "object"
         },
         "ExtractionSet": {
             "additionalProperties": false,
-            "description": "",
+            "description": "An extraction set is a curated collection of specific data or  items extracted from a specific source, often  based on specific  locations or features, for targeted analysis or integration.",
             "properties": {
                 "extraction_set_for": {
+                    "description": "Reference to the spatial entity associated with the extraction set.",
+                    "title": "extraction set for",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
                     "type": "string"
                 },
                 "pref_label": {
+                    "title": "preferred label",
                     "type": "string"
                 },
                 "rui_rank": {
+                    "description": "Registration rank.",
+                    "title": "RUI rank",
                     "type": "integer"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
             "required": [
                 "extraction_set_for",
-                "id",
-                "label"
+                "id"
             ],
-            "title": "ExtractionSet",
+            "title": "Extraction Set",
             "type": "object"
         },
         "Grant": {
@@ -192,9 +243,13 @@
             "description": "",
             "properties": {
                 "awardNumber": {
+                    "description": "An award won by or for this item.",
+                    "title": "award",
                     "type": "string"
                 },
                 "funder": {
+                    "description": "A person or organization that supports (sponsors)  something through some kind of financial contribution.",
+                    "title": "funder",
                     "type": "string"
                 }
             },
@@ -203,7 +258,7 @@
         },
         "LandmarkData": {
             "additionalProperties": false,
-            "description": "",
+            "description": "The data section for the \"landmark\" digital object.",
             "properties": {
                 "landmarks": {
                     "items": {
@@ -222,45 +277,63 @@
                 "landmarks",
                 "spatial_entities"
             ],
-            "title": "LandmarkData",
+            "title": "Landmark Data",
             "type": "object"
         },
         "LandmarkMetadata": {
             "additionalProperties": false,
-            "description": "",
+            "description": "The metadata section for the \"landmark\" digital object.",
             "properties": {
                 "created_by": {
+                    "description": "An entity responsible for making the resource.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "creator",
                     "type": "array"
                 },
                 "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
                     "type": "string"
                 },
                 "derived_from": {
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.    ",
+                    "title": "was derived from",
                     "type": "string"
                 },
                 "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
                     "type": "string"
                 },
                 "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
                     "type": "string"
                 },
                 "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
                     "type": "string"
                 },
                 "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
                     "type": "string"
                 },
                 "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
                     "type": "string"
                 },
                 "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
                     "type": "string"
                 }
             },
-            "title": "LandmarkMetadata",
+            "title": "Landmark Metadata",
             "type": "object"
         },
         "Person": {
@@ -268,95 +341,107 @@
             "description": "",
             "properties": {
                 "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
                     "enum": [
                         "Person"
                     ],
+                    "title": "conforms to",
                     "type": "string"
                 },
                 "firstName": {
+                    "description": "Given name. In the U.S., the first name of a person.",
+                    "title": "first name",
                     "type": "string"
                 },
                 "fullName": {
+                    "description": "The full name of a person.",
+                    "title": "full name",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
                     "type": "string"
                 },
                 "lastName": {
+                    "description": "Family name. In the U.S., the last name of a person.",
+                    "title": "last name",
                     "type": "string"
                 },
                 "orcid": {
+                    "description": "ORCID identifier.",
                     "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                    "title": "orcid",
                     "type": "string"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
             "required": [
-                "id",
-                "label"
+                "id"
             ],
             "title": "Person",
             "type": "object"
-        },
-        "RotationUnitEnum": {
-            "description": "",
-            "enum": [
-                "degree"
-            ],
-            "title": "RotationUnitEnum",
-            "type": "string"
-        },
-        "ScalingUnitEnum": {
-            "description": "",
-            "enum": [
-                "ratio"
-            ],
-            "title": "ScalingUnitEnum",
-            "type": "string"
         },
         "SoftwareApplication": {
             "additionalProperties": false,
             "description": "",
             "properties": {
                 "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
                     "enum": [
                         "SoftwareApplication"
                     ],
+                    "title": "conforms to",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
                     "type": "string"
                 },
                 "name": {
+                    "description": "The name of the item.",
+                    "title": "name",
                     "type": "string"
                 },
                 "target_product": {
-                    "$ref": "#/$defs/SoftwareSourceCode"
+                    "$ref": "#/$defs/SoftwareSourceCode",
+                    "description": "Target Operating System / Product to which  the code applies. If applies to several versions,  just the product name can be used.",
+                    "title": "target product"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 },
                 "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
                     "type": "string"
                 }
             },
             "required": [
-                "id",
-                "label"
+                "id"
             ],
             "title": "SoftwareApplication",
             "type": "object"
@@ -366,20 +451,57 @@
             "description": "",
             "properties": {
                 "code_repository": {
+                    "description": "Link to the repository where the un-compiled,  human readable code and related code is located  (SVN, GitHub, CodePlex).",
+                    "title": "code repository",
                     "type": "string"
                 },
                 "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
                     "type": "string"
                 }
             },
             "title": "SoftwareSourceCode",
             "type": "object"
         },
-        "SpatialEntity": {
+        "SpatialData": {
             "additionalProperties": false,
             "description": "",
             "properties": {
+                "cell_summary": {
+                    "type": "string"
+                },
+                "collision": {
+                    "type": "string"
+                },
+                "corridor": {
+                    "type": "string"
+                },
+                "dataset": {
+                    "type": "string"
+                },
+                "donor": {
+                    "type": "string"
+                },
+                "sample": {
+                    "type": "string"
+                },
+                "spatial_entity": {
+                    "items": {
+                        "$ref": "#/$defs/SpatialEntity"
+                    },
+                    "type": "array"
+                }
+            },
+            "title": "SpatialData",
+            "type": "object"
+        },
+        "SpatialEntity": {
+            "additionalProperties": false,
+            "description": "A spatial entity is a defined object or structure with a specific  location, boundary, and orientation in physical or conceptual  space, such as an organ, tissue, or cell in anatomical studies.",
+            "properties": {
                 "creators": {
+                    "description": "An entity responsible for making the resource.",
                     "items": {
                         "anyOf": [
                             {
@@ -390,52 +512,76 @@
                             }
                         ]
                     },
+                    "title": "creator",
                     "type": "array"
                 },
                 "dimension_unit": {
+                    "description": "The unit of measurement used for the spatial entity's dimensions.",
                     "pattern": "(centimeter|millimeter)",
+                    "title": "dimension unit",
                     "type": "string"
                 },
                 "extraction_set": {
+                    "description": "Reference to an extraction set.",
+                    "title": "extraction set",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
                     "type": "string"
                 },
                 "object_reference": {
-                    "$ref": "#/$defs/SpatialObjectReference"
+                    "$ref": "#/$defs/SpatialObjectReference",
+                    "description": "Reference to the object reference.",
+                    "title": "object reference"
                 },
                 "placements": {
+                    "description": "A collection of references to the placement of the  spatial entity.",
                     "items": {
                         "$ref": "#/$defs/SpatialPlacement"
                     },
+                    "title": "spatial entity placement",
                     "type": "array"
                 },
                 "pref_label": {
+                    "title": "preferred label",
                     "type": "string"
                 },
                 "rui_rank": {
+                    "description": "Registration rank.",
+                    "title": "RUI rank",
                     "type": "integer"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 },
                 "x_dimension": {
+                    "description": "The length of the spatial entity along the X-axis.",
                     "minimum": 0.0,
+                    "title": "dimension in x-axis",
                     "type": "number"
                 },
                 "y_dimension": {
+                    "description": "The length of the spatial entity along the Y-axis.",
                     "minimum": 0.0,
+                    "title": "dimension in y-axis",
                     "type": "number"
                 },
                 "z_dimension": {
+                    "description": "The length of the spatial entity along the Z-axis.",
                     "minimum": 0.0,
+                    "title": "dimension in z-axis",
                     "type": "number"
                 }
             },
@@ -445,41 +591,56 @@
                 "z_dimension",
                 "dimension_unit",
                 "extraction_set",
-                "id",
-                "label"
+                "id"
             ],
-            "title": "SpatialEntity",
+            "title": "Spatial Entity",
             "type": "object"
         },
         "SpatialObjectReference": {
             "additionalProperties": false,
-            "description": "",
+            "description": "A spatial object reference is a record describing a spatial entity,  including its placement within a defined space, the associated file  name, URL for access, and file format.",
             "properties": {
                 "file_format": {
+                    "description": "The format of the file to read.",
+                    "title": "file format",
                     "type": "string"
                 },
                 "file_name": {
+                    "description": "The name of the file.",
+                    "title": "file name",
                     "type": "string"
                 },
                 "file_subpath": {
+                    "description": "A relative path.",
+                    "title": "file subpath",
                     "type": "string"
                 },
                 "file_url": {
+                    "description": "The URL of the file to download or viewing.",
+                    "title": "file link",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
                     "type": "string"
                 },
                 "placement": {
-                    "$ref": "#/$defs/SpatialPlacement"
+                    "$ref": "#/$defs/SpatialPlacement",
+                    "description": "Reference to the placement of the spatial entity.",
+                    "title": "spatial entity placement"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -488,78 +649,113 @@
                 "file_url",
                 "file_format",
                 "placement",
-                "id",
-                "label"
+                "id"
             ],
-            "title": "SpatialObjectReference",
+            "title": "Spatial Object Reference",
             "type": "object"
         },
         "SpatialPlacement": {
             "additionalProperties": false,
-            "description": "",
+            "description": "Spatial placement refers to the positioning and orientation of  an entity within a defined space or context, often describing  its location relative to other entities or a coordinate system.",
             "properties": {
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
                     "type": "string"
                 },
                 "rotation_order": {
+                    "description": "The sequence of axis rotations applied to the spatial entity.",
                     "pattern": "XYZ",
+                    "title": "rotation order",
                     "type": "string"
                 },
                 "rotation_unit": {
+                    "description": "The unit for rotation, typically measured in degrees.",
                     "pattern": "degree",
+                    "title": "rotation unit",
                     "type": "string"
                 },
                 "scaling_unit": {
+                    "description": "The unit of measurement for scaling, usually represented as a ratio.",
                     "pattern": "ratio",
+                    "title": "scaling unit",
                     "type": "string"
                 },
                 "source": {
+                    "description": "The originating spatial entity that serves as the source for a placement relationship.",
+                    "title": "placement for",
                     "type": "string"
                 },
                 "target": {
+                    "description": "The spatial entity relative to which the placement is defined.",
+                    "title": "placement relative to",
                     "type": "string"
                 },
                 "translation_unit": {
+                    "description": "The unit for translation distances.",
                     "pattern": "(centimeter|millimeter)",
+                    "title": "translation unit",
                     "type": "string"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 },
                 "x_rotation": {
+                    "description": "Rotation of the spatial entity around the X-axis.",
+                    "title": "rotation in x-axis",
                     "type": "number"
                 },
                 "x_scaling": {
+                    "description": "Scaling factor applied along the X-axis.",
                     "minimum": 0.0,
+                    "title": "scaling in x-axis",
                     "type": "number"
                 },
                 "x_translation": {
+                    "description": "The positional offset along the X-axis.",
+                    "title": "translation in x-axis",
                     "type": "number"
                 },
                 "y_rotation": {
+                    "description": "Rotation of the spatial entity around the Y-axis.",
+                    "title": "rotation in y-axis",
                     "type": "number"
                 },
                 "y_scaling": {
+                    "description": "Scaling factor applied along the Y-axis.",
                     "minimum": 0.0,
+                    "title": "scaling in y-axis",
                     "type": "number"
                 },
                 "y_translation": {
+                    "description": "The positional offset along the Y-axis.",
+                    "title": "translation in y-axis",
                     "type": "number"
                 },
                 "z_rotation": {
+                    "description": "Rotation of the spatial entity around the Z-axis.",
+                    "title": "rotation in z-axis",
                     "type": "number"
                 },
                 "z_scaling": {
+                    "description": "Scaling factor applied along the Z-axis.",
                     "minimum": 0.0,
+                    "title": "scaling in z-axis",
                     "type": "number"
                 },
                 "z_translation": {
+                    "description": "The positional offset along the Z-axis.",
+                    "title": "translation in z-axis",
                     "type": "number"
                 }
             },
@@ -577,20 +773,10 @@
                 "y_translation",
                 "z_translation",
                 "translation_unit",
-                "id",
-                "label"
+                "id"
             ],
-            "title": "SpatialPlacement",
+            "title": "Spatial Placement",
             "type": "object"
-        },
-        "TranslationUnitEnum": {
-            "description": "",
-            "enum": [
-                "centimeter",
-                "millimeter"
-            ],
-            "title": "TranslationUnitEnum",
-            "type": "string"
         }
     },
     "$id": "https://purl.humanatlas.io/schema/landmark",

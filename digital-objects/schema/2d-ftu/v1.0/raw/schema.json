@@ -25,15 +25,22 @@
             "description": "",
             "properties": {
                 "citation": {
+                    "description": "A citation or reference to another creative work, such  as another publication, web page, scholarly article, etc.",
+                    "title": "citation",
                     "type": "string"
                 },
                 "citationOverall": {
+                    "description": "A written reference to a source, such as a  book, article, or website, that identifies  the original source of information in a work.",
+                    "title": "citation",
                     "type": "string"
                 },
                 "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
                     "type": "string"
                 },
                 "creators": {
+                    "description": "An entity responsible for making the resource.",
                     "items": {
                         "anyOf": [
                             {
@@ -44,70 +51,103 @@
                             }
                         ]
                     },
+                    "title": "creator",
                     "type": "array"
                 },
                 "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
                     "type": "string"
                 },
                 "distributions": {
+                    "description": "An available distribution of the dataset.",
                     "items": {
                         "$ref": "#/$defs/Distribution"
                     },
+                    "title": "dataset distribution",
                     "type": "array"
                 },
                 "doi": {
+                    "description": "A DOI, or Digital Object Identifier, is a  unique string of numbers, letters, and symbols  that identifies a specific publication.",
+                    "title": "DOI",
                     "type": "string"
                 },
                 "externalReviewers": {
+                    "description": "An independent expert from outside an organization  who provides critical feedback and evaluation on  a program, project, or proposal.",
                     "items": {
                         "$ref": "#/$defs/Person"
                     },
+                    "title": "external reviewer",
                     "type": "array"
                 },
                 "funders": {
+                    "description": "A Grant that directly or indirectly provide  funding or sponsorship for this item.",
                     "items": {
                         "$ref": "#/$defs/Grant"
                     },
+                    "title": "funding",
                     "type": "array"
                 },
                 "hubmapId": {
+                    "description": "HuBMAP identifier.",
+                    "title": "HuBMAP identifier",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
                     "type": "string"
                 },
                 "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
                     "type": "string"
                 },
                 "project_leads": {
+                    "description": "A person who is responsible for leading a project  or a specific aspect of a project, including planning, implementation, and tracking. ",
                     "items": {
                         "$ref": "#/$defs/Person"
                     },
+                    "title": "project lead",
                     "type": "array"
                 },
                 "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
                     "type": "string"
                 },
                 "reviewers": {
+                    "description": "People or organizations that have reviewed the  content on this web page for accuracy and/or  completeness.",
                     "items": {
                         "$ref": "#/$defs/Person"
                     },
+                    "title": "reviewer",
                     "type": "array"
                 },
                 "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
                     "type": "string"
                 },
                 "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
                     "type": "string"
                 },
                 "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
                     "type": "string"
                 },
                 "was_derived_from": {
-                    "$ref": "#/$defs/Dataset"
+                    "$ref": "#/$defs/Dataset",
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.",
+                    "title": "was derived from"
                 }
             },
             "required": [
@@ -122,21 +162,33 @@
             "description": "",
             "properties": {
                 "accessUrl": {
+                    "description": "A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint.",
+                    "title": "access URL",
                     "type": "string"
                 },
                 "downloadUrl": {
+                    "description": "The URL of the downloadable file in a given format.",
+                    "title": "download URL",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
                     "type": "string"
                 },
                 "mediaType": {
+                    "description": "The media type of the distribution as defined by IANA.",
+                    "title": "media type",
                     "type": "string"
                 },
                 "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
                     "type": "string"
                 }
             },
@@ -149,34 +201,46 @@
         },
         "FtuIllustration": {
             "additionalProperties": false,
-            "description": "",
+            "description": "A two-dimensional illustration of an organ's functional tissue  unit, featuring image assets and labeled nodes that highlight  the constituent cell types.",
             "properties": {
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "illustration_node": {
+                    "description": "Specifies the format of the illustration file (e.g., PNG, JPEG).",
                     "items": {
                         "$ref": "#/$defs/FtuIllustrationNode"
                     },
+                    "title": "has illustration node",
                     "type": "array"
                 },
                 "image_file": {
+                    "description": "Specifies the illustration file that represents the functional tissue unit.",
                     "items": {
                         "$ref": "#/$defs/FtuIllustrationFile"
                     },
+                    "title": "image file",
                     "type": "array"
                 },
                 "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
                     "type": "string"
                 },
                 "located_in": {
+                    "description": "Specifies the anatomical location of a cell type.",
                     "pattern": "(UBERON|FMA):\\d+",
+                    "title": "located in",
                     "type": "string"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -184,29 +248,39 @@
                 "id",
                 "label"
             ],
-            "title": "FtuIllustration",
+            "title": "FTU Illustration",
             "type": "object"
         },
         "FtuIllustrationFile": {
             "additionalProperties": false,
-            "description": "",
+            "description": "An image file that shows the functional tissue unit.",
             "properties": {
                 "file_format": {
+                    "description": "The format of the file to read.",
+                    "title": "file format",
                     "type": "string"
                 },
                 "file_url": {
+                    "description": "The URL of the file to download or viewing.",
+                    "title": "file link",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
                     "type": "string"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -214,29 +288,39 @@
                 "id",
                 "label"
             ],
-            "title": "FtuIllustrationFile",
+            "title": "FTU Illustration File",
             "type": "object"
         },
         "FtuIllustrationNode": {
             "additionalProperties": false,
-            "description": "",
+            "description": "A section of the illustration image representing a highlighted  cell type, annotated with the corresponding Cell Ontology ID  using the type_of relationship.",
             "properties": {
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
                     "type": "string"
                 },
                 "node_name": {
+                    "description": "The name assigned to each node within the FTU illustration, identifying  its anatomical or structural role.",
+                    "title": "node name",
                     "type": "string"
                 },
                 "part_of_illustration": {
+                    "description": "Indicates the part of the illustration to which this node belongs to  connect to the overall FTU structure.",
+                    "title": "is part of illustration",
                     "type": "string"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -244,45 +328,63 @@
                 "id",
                 "label"
             ],
-            "title": "FtuIllustrationNode",
+            "title": "FTU Illustration Node",
             "type": "object"
         },
         "FtuMetadata": {
             "additionalProperties": false,
-            "description": "",
+            "description": "The metadata section for the \"2d-ftu\"\" digital object.",
             "properties": {
                 "created_by": {
+                    "description": "An entity responsible for making the resource.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "creator",
                     "type": "array"
                 },
                 "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
                     "type": "string"
                 },
                 "derived_from": {
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.    ",
+                    "title": "was derived from",
                     "type": "string"
                 },
                 "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
                     "type": "string"
                 },
                 "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
                     "type": "string"
                 },
                 "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
                     "type": "string"
                 },
                 "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
                     "type": "string"
                 },
                 "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
                     "type": "string"
                 },
                 "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
                     "type": "string"
                 }
             },
-            "title": "FtuMetadata",
+            "title": "FTU Metadata",
             "type": "object"
         },
         "Grant": {
@@ -290,9 +392,13 @@
             "description": "",
             "properties": {
                 "awardNumber": {
+                    "description": "An award won by or for this item.",
+                    "title": "award",
                     "type": "string"
                 },
                 "funder": {
+                    "description": "A person or organization that supports (sponsors)  something through some kind of financial contribution.",
+                    "title": "funder",
                     "type": "string"
                 }
             },
@@ -304,34 +410,50 @@
             "description": "",
             "properties": {
                 "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
                     "enum": [
                         "Person"
                     ],
+                    "title": "conforms to",
                     "type": "string"
                 },
                 "firstName": {
+                    "description": "Given name. In the U.S., the first name of a person.",
+                    "title": "first name",
                     "type": "string"
                 },
                 "fullName": {
+                    "description": "The full name of a person.",
+                    "title": "full name",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
                     "type": "string"
                 },
                 "lastName": {
+                    "description": "Family name. In the U.S., the last name of a person.",
+                    "title": "last name",
                     "type": "string"
                 },
                 "orcid": {
+                    "description": "ORCID identifier.",
                     "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                    "title": "orcid",
                     "type": "string"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -347,30 +469,44 @@
             "description": "",
             "properties": {
                 "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
                     "enum": [
                         "SoftwareApplication"
                     ],
+                    "title": "conforms to",
                     "type": "string"
                 },
                 "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
                     "type": "string"
                 },
                 "name": {
+                    "description": "The name of the item.",
+                    "title": "name",
                     "type": "string"
                 },
                 "target_product": {
-                    "$ref": "#/$defs/SoftwareSourceCode"
+                    "$ref": "#/$defs/SoftwareSourceCode",
+                    "description": "Target Operating System / Product to which  the code applies. If applies to several versions,  just the product name can be used.",
+                    "title": "target product"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 },
                 "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
                     "type": "string"
                 }
             },
@@ -386,9 +522,13 @@
             "description": "",
             "properties": {
                 "code_repository": {
+                    "description": "Link to the repository where the un-compiled,  human readable code and related code is located  (SVN, GitHub, CodePlex).",
+                    "title": "code repository",
                     "type": "string"
                 },
                 "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
                     "type": "string"
                 }
             },

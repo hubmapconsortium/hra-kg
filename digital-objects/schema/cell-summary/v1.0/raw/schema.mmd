@@ -1,0 +1,50 @@
+erDiagram
+Container {
+    string iri  
+    string metadata  
+}
+CellSummaryData {
+    string donor  
+    string sample  
+    string dataset  
+    string spatial_entity  
+    string collision  
+    string corridor  
+}
+CellSummary {
+    string annotation_method  
+    uriorcurieList aggregated_summaries  
+    string modality  
+    string donor_sex  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+CellSummaryRow {
+    uriorcurie cell_id  
+    string cell_label  
+    integer count  
+    float percentage  
+    uriorcurie id  
+    string label  
+}
+GeneExpression {
+    uriorcurie gene_id  
+    string gene_label  
+    string ensembl_id  
+    float mean_gene_expression_value  
+    uriorcurie id  
+    string label  
+}
+
+Container ||--|o CellSummaryData : "data"
+CellSummaryData ||--}o CellSummary : "cell_summary"
+CellSummary ||--}| CellSummaryRow : "summary_rows"
+CellSummary ||--}o Named : "type_of"
+CellSummaryRow ||--}o GeneExpression : "gene_expressions"
+CellSummaryRow ||--}o Named : "type_of"
+GeneExpression ||--}o Named : "type_of"
+

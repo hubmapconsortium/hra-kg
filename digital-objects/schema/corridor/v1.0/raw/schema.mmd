@@ -1,0 +1,39 @@
+erDiagram
+Container {
+    uriorcurie iri  
+}
+CorridorData {
+    string donor  
+    string sample  
+    string dataset  
+    string spatial_entity  
+    string cell_summary  
+    string collision  
+}
+Corridor {
+    string file_format  
+    string file_url  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+CorridorMetadata {
+    string title  
+    string description  
+    uriorcurieList created_by  
+    string creation_date  
+    string version  
+    string license  
+    string publisher  
+    uriorcurie see_also  
+    uriorcurie derived_from  
+}
+
+Container ||--|o CorridorMetadata : "metadata"
+Container ||--|o CorridorData : "data"
+CorridorData ||--}o Corridor : "corridor"
+Corridor ||--}o Named : "type_of"
+

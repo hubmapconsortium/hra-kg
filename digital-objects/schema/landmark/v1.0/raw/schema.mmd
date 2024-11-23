@@ -21,6 +21,7 @@ Named {
     string label  
 }
 SpatialPlacement {
+    uriorcurie target  
     float x_scaling  
     float y_scaling  
     float z_scaling  
@@ -78,7 +79,6 @@ SpatialEntity ||--|o SpatialObjectReference : "object_reference"
 SpatialEntity ||--}o SpatialPlacement : "placements"
 SpatialEntity ||--}o Named : "type_of"
 SpatialPlacement ||--|o SpatialEntity : "source"
-SpatialPlacement ||--|| SpatialEntity : "target"
 SpatialPlacement ||--}o Named : "type_of"
 SpatialObjectReference ||--|| SpatialPlacement : "placement"
 SpatialObjectReference ||--}o Named : "type_of"

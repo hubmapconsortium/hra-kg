@@ -28,12 +28,6 @@ prefixes:
   schema:
     prefix_prefix: schema
     prefix_reference: http://schema.org/
-  rdfs:
-    prefix_prefix: rdfs
-    prefix_reference: http://www.w3.org/2000/01/rdf-schema#
-  rdf:
-    prefix_prefix: rdf
-    prefix_reference: http://www.w3.org/1999/02/22-rdf-syntax-ns#
   owl:
     prefix_prefix: owl
     prefix_reference: http://www.w3.org/2002/07/owl#
@@ -58,6 +52,12 @@ prefixes:
   foaf:
     prefix_prefix: foaf
     prefix_reference: http://xmlns.com/foaf/0.1/
+  rdfs:
+    prefix_prefix: rdfs
+    prefix_reference: http://www.w3.org/2000/01/rdf-schema#
+  rdf:
+    prefix_prefix: rdf
+    prefix_reference: http://www.w3.org/1999/02/22-rdf-syntax-ns#
   skos:
     prefix_prefix: skos
     prefix_reference: http://www.w3.org/2004/02/skos/core#
@@ -295,39 +295,535 @@ types:
     uri: xsd:string
     repr: str
 slots:
-  partially_overlaps:
-    name: partially_overlaps
-    annotations:
-      owl.template:
-        tag: owl.template
-        value: AnnotationAssertion( rdfs:label RO:0002151 "partially overlaps" )
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: RO:0002151
-    multivalued: true
-    range: Named
   donor:
     name: donor
+    description: List of donors referenced in the experiment dataset metadata records.
+    title: donor data
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     multivalued: true
     range: Donor
     inlined_as_list: true
   sample:
     name: sample
+    description: List of tissue samples referenced in the experiment dataset metadata
+      records.
+    title: tissue sample data
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     multivalued: true
     range: TissueBlock
     inlined_as_list: true
   dataset:
     name: dataset
+    description: List of datasets referenced in the experiment dataset metadata records.
+    title: dataset data
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     multivalued: true
-    range: Dataset
+    range: AssayDataset
     inlined_as_list: true
   spatial_entity:
     name: spatial_entity
+    description: List of spatial entities referenced in the experiment dataset metadata
+      records.
+    title: spatial entity data
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     multivalued: true
     range: SpatialEntity
+    inlined_as_list: true
+  cell_summary:
+    name: cell_summary
+    description: List of cell summaries referenced in the experiment dataset metadata
+      records.
+    title: cell summary data
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    multivalued: true
+    range: CellSummary
+    required: false
+    inlined_as_list: true
+  collision:
+    name: collision
+    description: List of collisions referenced in the experiment dataset metadata
+      records.
+    title: collision data
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    multivalued: true
+    range: CollisionSummary
+    required: false
+    inlined_as_list: true
+  corridor:
+    name: corridor
+    description: List of corridors referenced in the experiment dataset metadata records.
+    title: corridor data
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    multivalued: true
+    range: Corridor
+    required: false
+    inlined_as_list: true
+  distributions:
+    name: distributions
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: An available distribution of the dataset.
+    title: dataset distribution
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dcat:distribution
+    multivalued: true
+    range: Distribution
+    inlined_as_list: true
+  downloadUrl:
+    name: downloadUrl
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The URL of the downloadable file in a given format.
+    title: download URL
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dcat:downloadURL
+    range: uri
+  accessUrl:
+    name: accessUrl
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A URL of the resource that gives access to a distribution of the
+      dataset. E.g. landing page, feed, SPARQL endpoint.
+    title: access URL
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dcat:accessURL
+    range: uri
+  mediaType:
+    name: mediaType
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The media type of the distribution as defined by IANA.
+    title: media type
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dcat:mediaType
+  was_derived_from:
+    name: was_derived_from
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.
+    title: was derived from
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: prov:wasDerivedFrom
+    range: Dataset
+    inlined: true
+  derived_from:
+    name: derived_from
+    description: 'A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.    '
+    title: was derived from
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: prov:wasDerivedFrom
+    range: uriorcurie
+  had_member:
+    name: had_member
+    description: A collection is an entity that provides a structure to some  constituents,
+      which are themselves entities. These constituents  are said to be member of
+      the collections.
+    title: had member
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: prov:hadMember
+    multivalued: true
+    range: uriorcurie
+    inlined_as_list: true
+  title:
+    name: title
+    description: A name given to the resource.
+    title: title
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dct:title
+  description:
+    name: description
+    description: An account of the resource.
+    title: description
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dct:description
+  license:
+    name: license
+    description: A legal document giving official permission to do something  with
+      the resource.
+    title: license
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dct:license
+  publisher:
+    name: publisher
+    description: An entity responsible for making the resource available.
+    title: publisher
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dct:publisher
+  create_date:
+    name: create_date
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Date of creation of the resource.
+    title: date created
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dct:created
+    range: date
+  creator_name:
+    name: creator_name
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dct:creator
+  creators:
+    name: creators
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dct:creator
+    multivalued: true
+    range: Creator
+    inlined_as_list: true
+  created_by:
+    name: created_by
+    description: An entity responsible for making the resource.
+    title: creator
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dct:creator
+    multivalued: true
+    range: uriorcurie
+    inlined_as_list: true
+  references:
+    name: references
+    description: A related resource that is referenced, cited, or otherwise  pointed
+      to by the described resource.
+    title: references
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: dct:references
+    multivalued: true
+    range: string
+    inlined_as_list: true
+  about:
+    name: about
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The subject matter of the content.
+    title: about
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:about
+  version:
+    name: version
+    description: The version of the CreativeWork embodied by a specified  resource.
+    title: version
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:version
+  name:
+    name: name
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The name of the item.
+    title: name
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:name
+  type:
+    name: type
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: 'An additional type for the item, typically used for  adding more
+      specific types from external vocabularies  in microdata syntax. '
+    title: type
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:additionalType
+  fullName:
+    name: fullName
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The full name of a person.
+    title: full name
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:name
+  firstName:
+    name: firstName
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Given name. In the U.S., the first name of a person.
+    title: first name
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:givenName
+  lastName:
+    name: lastName
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Family name. In the U.S., the last name of a person.
+    title: last name
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:familyName
+  orcid:
+    name: orcid
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: ORCID identifier.
+    title: orcid
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:identifier
+    pattern: ^(\d{4}-){3}\d{3}(\d|X)$
+  funder:
+    name: funder
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A person or organization that supports (sponsors)  something through
+      some kind of financial contribution.
+    title: funder
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:funder
+  awardNumber:
+    name: awardNumber
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: An award won by or for this item.
+    title: award
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:award
+  citation:
+    name: citation
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A citation or reference to another creative work, such  as another
+      publication, web page, scholarly article, etc.
+    title: citation
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:citation
+  creation_date:
+    name: creation_date
+    description: The date on which the CreativeWork was created or the  item was added
+      to a DataFeed.
+    title: created date
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:dateCreated
+  propertyId:
+    name: propertyId
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: 'A commonly used identifier for the characteristic  represented by
+      the property, e.g. a manufacturer or a  standard code for a property. '
+    title: property ID
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:propertyID
+  value:
+    name: value
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The value of a property value node.
+    title: value
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:value
+  reviewers:
+    name: reviewers
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: People or organizations that have reviewed the  content on this web
+      page for accuracy and/or  completeness.
+    title: reviewer
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:reviewedBy
+    multivalued: true
+    range: Person
+    inlined_as_list: true
+  funders:
+    name: funders
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A Grant that directly or indirectly provide  funding or sponsorship
+      for this item.
+    title: funding
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:funding
+    multivalued: true
+    range: Grant
+    inlined_as_list: true
+  target_product:
+    name: target_product
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Target Operating System / Product to which  the code applies. If
+      applies to several versions,  just the product name can be used.
+    title: target product
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:targetProduct
+    range: SoftwareSourceCode
+  code_repository:
+    name: code_repository
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Link to the repository where the un-compiled,  human readable code
+      and related code is located  (SVN, GitHub, CodePlex).
+    title: code repository
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: schema:codeRepository
+    range: uriorcurie
+  versionInfo:
+    name: versionInfo
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A string giving information about this version.
+    title: version info
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: owl:versionInfo
+  label:
+    name: label
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A string used to provide a human-readable version of  a resource's
+      name.
+    title: label
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: rdfs:label
+  see_also:
+    name: see_also
+    description: A reference used to indicate a resource that might  provide additional
+      information about the subject resource.
+    title: see also
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: rdfs:seeAlso
+    range: uriorcurie
+  pref_label:
+    name: pref_label
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    title: preferred label
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: skos:prefLabel
+  ontology_root:
+    name: ontology_root
+    description: 'Relates an ontology to a term that is a designated  root term of
+      the ontology. '
+    title: has ontology root term
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: obo:IAO_0000700
+    multivalued: true
+    range: uriorcurie
+  hubmapId:
+    name: hubmapId
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: HuBMAP identifier.
+    title: HuBMAP identifier
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:hubmap_id
+  doi:
+    name: doi
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A DOI, or Digital Object Identifier, is a  unique string of numbers,
+      letters, and symbols  that identifies a specific publication.
+    title: DOI
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:doi
+    range: uriorcurie
+  citationOverall:
+    name: citationOverall
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A written reference to a source, such as a  book, article, or website,
+      that identifies  the original source of information in a work.
+    title: citation
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:citation_overall
+  datatable:
+    name: datatable
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A list of table resources.
+    title: data table
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:data_table
+    multivalued: true
+  project_leads:
+    name: project_leads
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: 'A person who is responsible for leading a project  or a specific
+      aspect of a project, including planning, implementation, and tracking. '
+    title: project lead
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:project_lead
+    multivalued: true
+    range: Person
+    inlined_as_list: true
+  externalReviewers:
+    name: externalReviewers
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: An independent expert from outside an organization  who provides
+      critical feedback and evaluation on  a program, project, or proposal.
+    title: external reviewer
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:external_reviewer
+    multivalued: true
+    range: Person
     inlined_as_list: true
   external_link:
     name: external_link
@@ -335,6 +831,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A link to an external resource to provide more information.
+    title: external link
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:url
   age:
@@ -343,6 +841,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The age of the donor.
+    title: age
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: integer
   bmi:
@@ -351,6 +851,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The Body Mass Index (BMI) of the donor.
+    title: body mass index
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
   sex:
@@ -359,9 +861,13 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty
+    description: The biological sex of the donor.
+    title: biological sex
     from_schema: https://purl.humanatlas.io/schema/ds-graph
   sex_id:
     name: sex_id
+    description: A code representing the donor's sex according to the LOINC vocabulary.
+    title: biological sex identifier
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: loinc:46098-0
   race:
@@ -370,10 +876,14 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty
+    description: The race of the donor.
+    title: race
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:has_race
   race_id:
     name: race_id
+    description: A code representing the donor's race according to the LOINC vocabulary.
+    title: race identifier
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: loinc:32624-9
   consortium_name:
@@ -382,6 +892,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The name of the consortium associated with the data.
+    title: consortium name
     from_schema: https://purl.humanatlas.io/schema/ds-graph
   provider_name:
     name: provider_name
@@ -389,6 +901,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The name of the tissue provider responsible for supplying the tissue  sample
+      data.
+    title: provider name
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:tissue_provider_name
   provider_uuid:
@@ -397,28 +912,63 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A unique identifier for the tissue provider linked to the tissue
+      sample data.
+    title: provider UUID
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:tissue_provider_uuid
-  samples:
-    name: samples
+  provides_samples:
+    name: provides_samples
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A collection of references to tissue samples associated with the
+      donor.
+    title: provides
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:provides
     multivalued: true
+    range: uriorcurie
+    inlined: false
+  related_samples:
+    name: related_samples
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A collection of references to additional related samples.
+    title: related sample
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:related_sample
+    multivalued: true
     range: TissueBlock
     inlined: false
+  partially_overlaps:
+    name: partially_overlaps
+    annotations:
+      owl.template:
+        tag: owl.template
+        value: AnnotationAssertion( rdfs:label RO:0002151 "partially overlaps" )
+    description: Identifies other anatomical structures that partially overlap with
+      the spatial positioning of the tissue block.
+    title: partially overlaps
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: RO:0002151
+    multivalued: true
+    range: Named
   rui_location:
     name: rui_location
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the registration location for the tissue block within
+      the reference atlas.
+    title: registration location
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:has_registration_location
-    range: SpatialEntity
+    range: uriorcurie
     required: false
   extraction_site:
     name: extraction_site
@@ -426,9 +976,11 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the anatomical site from which the tissue was extracted.
+    title: extraction site
     from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: ccf:extraction_site
-    range: SpatialEntity
+    slot_uri: ccf:has_extraction_site
+    range: uriorcurie
     required: false
   sections:
     name: sections
@@ -436,6 +988,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: References to individual tissue sections that are part of the tissue
+      block.
+    title: subdivided into sections
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:subdivided_into_sections
     multivalued: true
@@ -447,6 +1002,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Datasets generated from the tissue block or section.
+    title: generates dataset
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:generates_dataset
     multivalued: true
@@ -458,6 +1015,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The number of sections contained within the tissue block.
+    title: section count
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: integer
     required: false
@@ -467,6 +1026,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The physical size of each tissue section.
+    title: section size
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: false
@@ -476,6 +1037,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The unit of measurement used for the section size.
+    title: section size unit
     from_schema: https://purl.humanatlas.io/schema/ds-graph
   section_number:
     name: section_number
@@ -483,25 +1046,39 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The order number of a specific section within a tissue block.
+    title: section number
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: integer
     required: false
-  technology:
-    name: technology
+  collision_summaries:
+    name: collision_summaries
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Summaries of collision data indicating spatial collisions with other
+      organs.
+    title: collision summary
     from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:has_collision_summary
+    multivalued: true
+    range: uriorcurie
     required: false
-  thumbnail:
-    name: thumbnail
+  corridors:
+    name: corridors
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: References to corridor structures linked to the spatial positioning
+      of the  tissue block.
+    title: corridor
     from_schema: https://purl.humanatlas.io/schema/ds-graph
-    required: true
+    slot_uri: ccf:has_corridor
+    multivalued: true
+    range: uriorcurie
+    required: false
   links_back_to:
     name: links_back_to
     annotations:
@@ -514,7 +1091,42 @@ slots:
           )
 
           TransitiveObjectProperty( ccf:links_back_to )'
+    description: URI that links back to a related resource as a reference connection.
+    title: links back to
     from_schema: https://purl.humanatlas.io/schema/ds-graph
+    range: uriorcurie
+    required: false
+  technology:
+    name: technology
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Type of technology or technique used to collect or analyze the data.
+    title: assay technology
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: false
+  thumbnail:
+    name: thumbnail
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Image or icon used in user interfaces.
+    title: thumbnail
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: true
+  cell_summaries:
+    name: cell_summaries
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: List of cell summary data associated with this dataset.
+    title: cell summary
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:has_cell_summary
+    multivalued: true
     range: uriorcurie
     required: false
   x_dimension:
@@ -523,6 +1135,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The length of the spatial entity along the X-axis.
+    title: dimension in x-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -533,6 +1147,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The length of the spatial entity along the Y-axis.
+    title: dimension in y-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -543,6 +1159,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The length of the spatial entity along the Z-axis.
+    title: dimension in z-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -553,6 +1171,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The unit of measurement used for the spatial entity's dimensions.
+    title: dimension unit
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     required: true
   collides_with:
@@ -561,6 +1181,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Identifies other anatomical structures that intersect or collide
+      with this spatial entity.
+    title: collides with
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     multivalued: true
     range: uriorcurie
@@ -570,6 +1193,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The number of slices or layers within the spatial entity.
+    title: slice count
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: integer
   slice_thickness:
@@ -578,14 +1203,30 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The thickness of each slice within the spatial entity.
+    title: slice thickness
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: integer
+  object_reference:
+    name: object_reference
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the object reference.
+    title: object reference
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:has_object_reference
+    range: SpatialObjectReference
+    inlined: true
   placement:
     name: placement
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the placement of the spatial entity.
+    title: spatial entity placement
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:has_placement
     range: SpatialPlacement
@@ -597,6 +1238,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The spatial entity relative to which the placement is defined.
+    title: placement relative to
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:placement_relative_to
     range: uriorcurie
@@ -607,6 +1250,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The originating spatial entity that serves as the source for a placement
+      relationship.
+    title: placement for
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: ccf:placement_for
     range: SpatialEntity
@@ -618,6 +1264,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The date when the placement of the entity was established.
+    title: placement date
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: date
     required: true
@@ -627,6 +1275,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Scaling factor applied along the X-axis.
+    title: scaling in x-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -637,6 +1287,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Scaling factor applied along the Y-axis.
+    title: scaling in y-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -647,6 +1299,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Scaling factor applied along the Z-axis.
+    title: scaling in z-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -657,6 +1311,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The unit of measurement for scaling, usually represented as a ratio.
+    title: scaling unit
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     required: true
   x_rotation:
@@ -665,6 +1321,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Rotation of the spatial entity around the X-axis.
+    title: rotation in x-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -674,6 +1332,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Rotation of the spatial entity around the Y-axis.
+    title: rotation in y-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -683,6 +1343,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Rotation of the spatial entity around the Z-axis.
+    title: rotation in z-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -692,6 +1354,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The unit for rotation, typically measured in degrees.
+    title: rotation unit
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     required: true
   rotation_order:
@@ -700,6 +1364,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The sequence of axis rotations applied to the spatial entity.
+    title: rotation order
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     required: false
   x_translation:
@@ -708,6 +1374,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The positional offset along the X-axis.
+    title: translation in x-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -717,6 +1385,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The positional offset along the Y-axis.
+    title: translation in y-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -726,6 +1396,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The positional offset along the Z-axis.
+    title: translation in z-axis
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     range: float
     required: true
@@ -735,32 +1407,267 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The unit for translation distances.
+    title: translation unit
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     required: true
-  type_of:
-    name: type_of
-    annotations:
-      owl:
-        tag: owl
-        value: ClassAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: rdf:type
-    multivalued: true
-    range: Named
-  id:
-    name: id
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    identifier: true
-    range: uriorcurie
-    required: true
-  label:
-    name: label
+  file_name:
+    name: file_name
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The name of the file.
+    title: file name
     from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: rdfs:label
+    required: true
+  file_url:
+    name: file_url
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The URL of the file to download or viewing.
+    title: file link
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: true
+  file_subpath:
+    name: file_subpath
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A relative path.
+    title: file subpath
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: false
+  file_format:
+    name: file_format
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The format of the file to read.
+    title: file format
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: true
+  annotation_method:
+    name: annotation_method
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Method used to annotate cells, detailing how each cell was identified
+      or  labeled in the dataset.
+    title: annotation method
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:cell_annotation_method
+    required: true
+  aggregated_summaries:
+    name: aggregated_summaries
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Collection of summaries derived by aggregating data across various  samples
+      or cells.
+    title: aggregated summary
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:aggregates
+    multivalued: true
+    range: uriorcurie
+    required: false
+  modality:
+    name: modality
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Type or method of data collection, such as imaging or sequencing.
+    title: modality
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: true
+  donor_sex:
+    name: donor_sex
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Biological sex of the donor from which the tissue samples were derived.
+    title: donor biological sex
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: true
+  summary_rows:
+    name: summary_rows
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Collection of detailed cell summary entries, listing each cell's  specifics
+      like count and gene expression.
+    title: cell summary row
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:has_cell_summary_row
+    multivalued: true
+    range: CellSummaryRow
+    required: true
+    inlined_as_list: true
+  cell_id:
+    name: cell_id
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Unique identifier assigned to a cell type.
+    title: cell type identifier
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    range: uriorcurie
+    required: true
+  cell_label:
+    name: cell_label
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Descriptive label assigned to a cell type.
+    title: cell label
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: true
+  gene_expressions:
+    name: gene_expressions
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: List of gene expression profiles for the cell type.
+    title: gene expression
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:has_gene_expression
+    multivalued: true
+    range: GeneExpression
+    required: false
+    inlined_as_list: true
+  count:
+    name: count
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Number of occurrences of this cell type within the sample.
+    title: cell count
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:cell_count
+    range: integer
+    required: true
+  percentage:
+    name: percentage
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Percentage of the total sample that this cell type represents.
+    title: percentage
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:percentage_of_total
+    range: float
+    required: true
+  gene_id:
+    name: gene_id
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Unique identifier assigned to a gene symbol.
+    title: gene identifier
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    range: uriorcurie
+    required: true
+  gene_label:
+    name: gene_label
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Descriptive label assigned to a gene symbol.
+    title: gene label
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: true
+  ensembl_id:
+    name: ensembl_id
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Ensembl database identifier for the gene, used for cross-referencing.
+    title: ensembl identifier
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: true
+  mean_gene_expression_value:
+    name: mean_gene_expression_value
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Average expression level of the gene across the sample or dataset.
+    title: mean gene expression value
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    range: float
+    required: true
+  collision_method:
+    name: collision_method
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Method used to determine or calculate collisions between spatial
+      entities.
+    title: collision method
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    required: true
+  collision_items:
+    name: collision_items
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: List of collision instances detailing specific spatial entity interactions.
+    title: collision item
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:has_collision_item
+    multivalued: true
+    range: CollisionItem
+    required: true
+    inlined_as_list: true
+  spatial_entity_reference:
+    name: spatial_entity_reference
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the spatial entity involved in the collision.
+    title: spatial entity
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slot_uri: ccf:has_spatial_entity
+    range: uriorcurie
+    required: true
+  volume:
+    name: volume
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Volume of the spatial entity in the collision.
+    title: volume
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    range: float
+    required: true
+  id:
+    name: id
+    description: A unique identifier for the entity
+    title: concept identifier
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    identifier: true
+    range: uriorcurie
     required: true
   parent_class:
     name: parent_class
@@ -768,532 +1675,47 @@ slots:
       owl:
         tag: owl
         value: SubClassOf
+    description: Specifies the parent or superclass of the entity.
+    title: subclass of
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slot_uri: rdfs:subClassOf
     range: uriorcurie
   conforms_to:
     name: conforms_to
+    description: Indicates the type or specification that the entity adheres to.
+    title: conforms to
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     designates_type: true
-  distributions:
-    name: distributions
+  type_of:
+    name: type_of
     annotations:
       owl:
         tag: owl
-        value: AnnotationProperty, AnnotationAssertion
+        value: ClassAssertion
+    description: Defines the class type that this instance belongs to.
+    title: type of
     from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dcat:distribution
+    slot_uri: rdf:type
     multivalued: true
-    range: Distribution
-    inlined_as_list: true
-  downloadUrl:
-    name: downloadUrl
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dcat:downloadURL
-    range: uri
-  accessUrl:
-    name: accessUrl
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dcat:accessURL
-    range: uri
-  mediaType:
-    name: mediaType
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dcat:mediaType
-  was_derived_from:
-    name: was_derived_from
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: prov:wasDerivedFrom
-    range: Dataset
-    inlined: true
-  derived_from:
-    name: derived_from
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: prov:wasDerivedFrom
-    range: uriorcurie
-  had_member:
-    name: had_member
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: prov:hadMember
-    multivalued: true
-    range: uriorcurie
-    inlined_as_list: true
-  title:
-    name: title
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dct:title
-  description:
-    name: description
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dct:description
-  license:
-    name: license
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dct:license
-  publisher:
-    name: publisher
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dct:publisher
-  create_date:
-    name: create_date
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dct:created
-    range: date
-  creator_name:
-    name: creator_name
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dct:creator
-  creators:
-    name: creators
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dct:creator
-    multivalued: true
-    range: Creator
-    inlined_as_list: true
-  created_by:
-    name: created_by
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dct:creator
-    multivalued: true
-    range: uriorcurie
-    inlined_as_list: true
-  references:
-    name: references
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: dct:reference
-    multivalued: true
-    range: string
-    inlined_as_list: true
-  about:
-    name: about
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:about
-  version:
-    name: version
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:version
-  name:
-    name: name
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:name
-  type:
-    name: type
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:additionalType
-  fullName:
-    name: fullName
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:name
-  firstName:
-    name: firstName
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:givenName
-  lastName:
-    name: lastName
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:familyName
-  orcid:
-    name: orcid
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:identifier
-    pattern: ^(\d{4}-){3}\d{3}(\d|X)$
-  funder:
-    name: funder
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:funder
-  awardNumber:
-    name: awardNumber
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:award
-  citation:
-    name: citation
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:citation
-  creation_date:
-    name: creation_date
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:dateCreated
-  propertyId:
-    name: propertyId
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:propertyID
-  value:
-    name: value
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:value
-  reviewers:
-    name: reviewers
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:reviewedBy
-    multivalued: true
-    range: Person
-    inlined_as_list: true
-  funders:
-    name: funders
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:funding
-    multivalued: true
-    range: Grant
-    inlined_as_list: true
-  target_product:
-    name: target_product
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:targetProduct
-    range: SoftwareSourceCode
-  code_repository:
-    name: code_repository
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: schema:codeRepository
-    range: uriorcurie
-  versionInfo:
-    name: versionInfo
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: owl:versionInfo
-  see_also:
-    name: see_also
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: rdfs:seeAlso
-    range: uriorcurie
-  pref_label:
-    name: pref_label
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: skos:prefLabel
-  ontology_root:
-    name: ontology_root
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: obo:IAO_0000700
-    multivalued: true
-    range: uriorcurie
-  hubmapId:
-    name: hubmapId
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: ccf:hubmap_id
-  doi:
-    name: doi
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: ccf:doi
-    range: uriorcurie
-  citationOverall:
-    name: citationOverall
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: ccf:citation_overall
-  datatable:
-    name: datatable
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: ccf:data_table
-    multivalued: true
-  project_leads:
-    name: project_leads
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: ccf:project_lead
-    multivalued: true
-    range: Person
-    inlined_as_list: true
-  externalReviewers:
-    name: externalReviewers
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    slot_uri: ccf:external_reviewer
-    multivalued: true
-    range: Person
-    inlined_as_list: true
+    range: Named
 classes:
-  Donor:
-    name: Donor
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    mixins:
-    - Named
-    - Instance
-    slots:
-    - pref_label
-    - description
-    - external_link
-    - age
-    - bmi
-    - sex
-    - sex_id
-    - race
-    - race_id
-    - consortium_name
-    - provider_name
-    - provider_uuid
-    - samples
-    slot_usage:
-      sex:
-        name: sex
-        annotations:
-          owl.template:
-            tag: owl.template
-            value: "{% if sex %}\nAnnotationAssertion(\n  Annotation(oboInOwl:hasDbXref\
-              \ {{sex_id}})\n  ccf:sex\n  {{id}}\n  \"{{sex}}\"\n)\n{% endif %}"
-      race:
-        name: race
-        annotations:
-          owl.template:
-            tag: owl.template
-            value: "{% if race %}\nAnnotationAssertion(\n  Annotation(oboInOwl:hasDbXref\
-              \ {{race_id}})\n  ccf:has_race\n  {{id}}\n  \"{{race}}\"\n)\n{% endif\
-              \ %}"
-      sex_id:
-        name: sex_id
-        pattern: (loinc:LA3-6|loinc:LA2-8|loinc:LA4489-6)
-      race_id:
-        name: race_id
-        pattern: (loinc:LA10608-0|loinc:LA6156-9|loinc:LA10610-6|loinc:LA10611-4|loinc:LA4457-3|loinc:LA4489-6)
-    class_uri: ccf:Donor
-  TissueBlock:
-    name: TissueBlock
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    mixins:
-    - Named
-    - Instance
-    slots:
-    - partially_overlaps
-    - pref_label
-    - description
-    - rui_location
-    - extraction_site
-    - external_link
-    - sections
-    - datasets
-    - section_count
-    - section_size
-    - section_size_unit
-    - links_back_to
-    slot_usage:
-      partially_overlaps:
-        name: partially_overlaps
-        annotations:
-          owl.template:
-            tag: owl.template
-            value: '{% for organ_part in partially_overlaps %}
-
-              ClassAssertion(ObjectSomeValuesFrom(RO:0002151 {{organ_part}}) {{id}})
-
-              {% endfor %}'
-    class_uri: ccf:TissueBlock
-  TissueSection:
-    name: TissueSection
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    mixins:
-    - Named
-    - Instance
-    slots:
-    - pref_label
-    - description
-    - external_link
-    - samples
-    - datasets
-    - section_number
-    - links_back_to
-    class_uri: ccf:TissueSection
-  Dataset:
-    name: Dataset
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    mixins:
-    - Named
-    - Instance
-    slots:
-    - pref_label
-    - description
-    - external_link
-    - technology
-    - thumbnail
-    - links_back_to
-    class_uri: ccf:Dataset
-  SpatialEntity:
-    name: SpatialEntity
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    mixins:
-    - Named
-    - Instance
-    slots:
-    - pref_label
-    - creator_name
-    - create_date
-    - x_dimension
-    - y_dimension
-    - z_dimension
-    - dimension_unit
-    - collides_with
-    - slice_count
-    - slice_thickness
-    - placement
-    slot_usage:
-      dimension_unit:
-        name: dimension_unit
-        pattern: (centimeter|millimeter)
-    class_uri: ccf:SpatialEntity
-  SpatialPlacement:
-    name: SpatialPlacement
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    mixins:
-    - Named
-    - Instance
-    slots:
-    - source
-    - target
-    - placement_date
-    - x_scaling
-    - y_scaling
-    - z_scaling
-    - scaling_unit
-    - x_rotation
-    - y_rotation
-    - z_rotation
-    - rotation_unit
-    - rotation_order
-    - x_translation
-    - y_translation
-    - z_translation
-    - translation_unit
-    slot_usage:
-      scaling_unit:
-        name: scaling_unit
-        pattern: ratio
-      rotation_unit:
-        name: rotation_unit
-        pattern: degree
-      rotation_order:
-        name: rotation_order
-        pattern: XYZ
-      translation_unit:
-        name: translation_unit
-        pattern: (centimeter|millimeter)
-    class_uri: ccf:SpatialPlacement
   DatasetGraphData:
     name: DatasetGraphData
+    description: The data section for the "ds-graph" digital object.
+    title: Dataset Graph Data
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slots:
     - donor
     - sample
     - dataset
     - spatial_entity
+    - cell_summary
+    - collision
+    - corridor
   DatasetGraphMetadata:
     name: DatasetGraphMetadata
+    description: The metadadata section for the "ds-graph" digital object.
+    title: Dataset Graph Metadata
     from_schema: https://purl.humanatlas.io/schema/ds-graph
     slots:
     - title
@@ -1358,23 +1780,6 @@ classes:
         from_schema: https://purl.humanatlas.io/schema/ds-graph
         range: DatasetGraphData
     tree_root: true
-  Instance:
-    name: Instance
-    annotations:
-      owl:
-        tag: owl
-        value: Individual
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    mixin: true
-    slots:
-    - type_of
-  Named:
-    name: Named
-    from_schema: https://purl.humanatlas.io/schema/ds-graph
-    mixin: true
-    slots:
-    - id
-    - label
   ProvEntity:
     name: ProvEntity
     from_schema: https://purl.humanatlas.io/schema/ds-graph
@@ -1440,5 +1845,629 @@ classes:
     - accessUrl
     - mediaType
     class_uri: dcat:Distribution
+  Dataset:
+    name: Dataset
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    is_a: ProvEntity
+    slots:
+    - title
+    - description
+    - creators
+    - reviewers
+    - creation_date
+    - version
+    - license
+    - see_also
+    - publisher
+    - citation
+    - citationOverall
+    - funders
+    - doi
+    - hubmapId
+    - project_leads
+    - externalReviewers
+    - distributions
+    class_uri: dcat:Dataset
+  Donor:
+    name: Donor
+    description: A donor refers to an individual from whom biological samples or  data
+      are obtained for research, with associated information  including age, BMI,
+      sex, race, the providers supplying the sample,  and the consortium responsible
+      for its collection.
+    title: Donor
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - pref_label
+    - description
+    - external_link
+    - age
+    - bmi
+    - sex
+    - sex_id
+    - race
+    - race_id
+    - consortium_name
+    - provider_name
+    - provider_uuid
+    - provides_samples
+    slot_usage:
+      sex:
+        name: sex
+        annotations:
+          owl.template:
+            tag: owl.template
+            value: "{% if sex %}\nAnnotationAssertion(\n  Annotation(oboInOwl:hasDbXref\
+              \ {{sex_id}})\n  ccf:sex\n  {{id}}\n  \"{{sex}}\"\n)\n{% endif %}"
+      race:
+        name: race
+        annotations:
+          owl.template:
+            tag: owl.template
+            value: "{% if race %}\nAnnotationAssertion(\n  Annotation(oboInOwl:hasDbXref\
+              \ {{race_id}})\n  ccf:has_race\n  {{id}}\n  \"{{race}}\"\n)\n{% endif\
+              \ %}"
+      sex_id:
+        name: sex_id
+        pattern: (loinc:LA3-6|loinc:LA2-8|loinc:LA4489-6)
+      race_id:
+        name: race_id
+        pattern: (loinc:LA10608-0|loinc:LA6156-9|loinc:LA10610-6|loinc:LA10611-4|loinc:LA4457-3|loinc:LA4489-6)
+    class_uri: ccf:Donor
+  DonorData:
+    name: DonorData
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    attributes:
+      donor:
+        name: donor
+        from_schema: https://purl.humanatlas.io/specs/donor
+        multivalued: true
+        range: Donor
+        inlined_as_list: true
+      sample:
+        name: sample
+        from_schema: https://purl.humanatlas.io/specs/donor
+        required: false
+      dataset:
+        name: dataset
+        from_schema: https://purl.humanatlas.io/specs/donor
+        required: false
+      spatial_entity:
+        name: spatial_entity
+        from_schema: https://purl.humanatlas.io/specs/donor
+        required: false
+      cell_summary:
+        name: cell_summary
+        from_schema: https://purl.humanatlas.io/specs/donor
+        required: false
+      collision:
+        name: collision
+        from_schema: https://purl.humanatlas.io/specs/donor
+        required: false
+      corridor:
+        name: corridor
+        from_schema: https://purl.humanatlas.io/specs/donor
+        required: false
+  TissueBlock:
+    name: TissueBlock
+    description: A tissue block is a defined piece of tissue extracted from a  specific
+      location for research or analysis, with detailed  information about its extraction
+      site, tissue sections,  associated datasets, section counts and sizes, and collision  summaries
+      related to spatial overlaps.
+    title: Tissue Block
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - partially_overlaps
+    - pref_label
+    - description
+    - rui_location
+    - extraction_site
+    - external_link
+    - sections
+    - datasets
+    - section_count
+    - section_size
+    - section_size_unit
+    - collision_summaries
+    - corridors
+    - links_back_to
+    slot_usage:
+      partially_overlaps:
+        name: partially_overlaps
+        annotations:
+          owl.template:
+            tag: owl.template
+            value: '{% for organ_part in partially_overlaps %}
+
+              ClassAssertion(ObjectSomeValuesFrom(RO:0002151 {{organ_part}}) {{id}})
+
+              {% endfor %}'
+    class_uri: ccf:TissueBlock
+  TissueSection:
+    name: TissueSection
+    description: 'A tissue section is a thin slice or layer derived from a tissue
+      block,  associated with a specific section number, and linked to datasets  generated
+      from its analysis. '
+    title: Tissue Section
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - pref_label
+    - description
+    - external_link
+    - related_samples
+    - datasets
+    - section_number
+    - links_back_to
+    class_uri: ccf:TissueSection
+  SampleData:
+    name: SampleData
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    attributes:
+      donor:
+        name: donor
+        from_schema: https://purl.humanatlas.io/specs/sample
+        required: false
+      sample:
+        name: sample
+        from_schema: https://purl.humanatlas.io/specs/sample
+        multivalued: true
+        range: TissueBlock
+        inlined_as_list: true
+      dataset:
+        name: dataset
+        from_schema: https://purl.humanatlas.io/specs/sample
+        required: false
+      spatial_entity:
+        name: spatial_entity
+        from_schema: https://purl.humanatlas.io/specs/sample
+        required: false
+      cell_summary:
+        name: cell_summary
+        from_schema: https://purl.humanatlas.io/specs/sample
+        required: false
+      collision:
+        name: collision
+        from_schema: https://purl.humanatlas.io/specs/sample
+        required: false
+      corridor:
+        name: corridor
+        from_schema: https://purl.humanatlas.io/specs/sample
+        required: false
+  AssayDataset:
+    name: AssayDataset
+    description: An assay dataset is a collection of data generated from a specific  experimental
+      assay, providing details about the description of  the dataset, the technology
+      or methodology used, and the  associated cell summaries that outline the analyzed
+      cell types a nd their attributes.
+    title: Assay Dataset
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - pref_label
+    - description
+    - external_link
+    - technology
+    - thumbnail
+    - cell_summaries
+    - links_back_to
+    class_uri: ccf:Dataset
+  AssayDatasetData:
+    name: AssayDatasetData
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    attributes:
+      donor:
+        name: donor
+        from_schema: https://purl.humanatlas.io/specs/dataset
+        required: false
+      sample:
+        name: sample
+        from_schema: https://purl.humanatlas.io/specs/dataset
+        required: false
+      dataset:
+        name: dataset
+        from_schema: https://purl.humanatlas.io/specs/dataset
+        multivalued: true
+        range: AssayDataset
+        inlined_as_list: true
+      spatial_entity:
+        name: spatial_entity
+        from_schema: https://purl.humanatlas.io/specs/dataset
+        required: false
+      cell_summary:
+        name: cell_summary
+        from_schema: https://purl.humanatlas.io/specs/dataset
+        required: false
+      collision:
+        name: collision
+        from_schema: https://purl.humanatlas.io/specs/dataset
+        required: false
+      corridor:
+        name: corridor
+        from_schema: https://purl.humanatlas.io/specs/dataset
+        required: false
+  SpatialEntity:
+    name: SpatialEntity
+    description: A spatial entity is a defined object or structure with a specific  location,
+      boundary, and orientation in physical or conceptual  space, such as an organ,
+      tissue, or cell in anatomical studies.
+    title: Spatial Entity
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - pref_label
+    - creator_name
+    - create_date
+    - x_dimension
+    - y_dimension
+    - z_dimension
+    - dimension_unit
+    - collides_with
+    - slice_count
+    - slice_thickness
+    - placement
+    slot_usage:
+      dimension_unit:
+        name: dimension_unit
+        pattern: (centimeter|millimeter)
+    class_uri: ccf:SpatialEntity
+  SpatialPlacement:
+    name: SpatialPlacement
+    description: Spatial placement refers to the positioning and orientation of  an
+      entity within a defined space or context, often describing  its location relative
+      to other entities or a coordinate system.
+    title: Spatial Placement
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - source
+    - target
+    - placement_date
+    - x_scaling
+    - y_scaling
+    - z_scaling
+    - scaling_unit
+    - x_rotation
+    - y_rotation
+    - z_rotation
+    - rotation_unit
+    - rotation_order
+    - x_translation
+    - y_translation
+    - z_translation
+    - translation_unit
+    slot_usage:
+      scaling_unit:
+        name: scaling_unit
+        pattern: ratio
+      rotation_unit:
+        name: rotation_unit
+        pattern: degree
+      rotation_order:
+        name: rotation_order
+        pattern: XYZ
+      translation_unit:
+        name: translation_unit
+        pattern: (centimeter|millimeter)
+    class_uri: ccf:SpatialPlacement
+  SpatialObjectReference:
+    name: SpatialObjectReference
+    description: A spatial object reference is a record describing a spatial entity,  including
+      its placement within a defined space, the associated file  name, URL for access,
+      and file format.
+    title: Spatial Object Reference
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - file_name
+    - file_url
+    - file_subpath
+    - file_format
+    - placement
+    class_uri: ccf:SpatialObjectReference
+  SpatialData:
+    name: SpatialData
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    attributes:
+      donor:
+        name: donor
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+      sample:
+        name: sample
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+      dataset:
+        name: dataset
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+      spatial_entity:
+        name: spatial_entity
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        multivalued: true
+        range: SpatialEntity
+        inlined_as_list: true
+      cell_summary:
+        name: cell_summary
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+      collision:
+        name: collision
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+      corridor:
+        name: corridor
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+  CellSummary:
+    name: CellSummary
+    description: A cell summary is a detailed overview of cell-related data, including  the
+      annotation method used, summary rows with cell types and their  counts, the
+      modality (e.g., scRNA-seq), aggregated summaries of  findings, and contextual
+      information such as the donor tissue's sex.
+    title: Cell Summary
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - annotation_method
+    - aggregated_summaries
+    - modality
+    - donor_sex
+    - summary_rows
+    class_uri: ccf:CellSummary
+  CellSummaryRow:
+    name: CellSummaryRow
+    description: A cell summary row is a single entry in a cell summary table that  provides
+      information about a specific cell type, including its name,  count, and any
+      related attributes such as tissue, modality, or donor  characteristics.
+    title: Cell Summary Row
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - cell_id
+    - cell_label
+    - gene_expressions
+    - count
+    - percentage
+    class_uri: ccf:CellSummaryRow
+  GeneExpression:
+    name: GeneExpression
+    description: Gene expression refers to data that captures the activity levels
+      of  specific genes within a summarized cell population, including details  like
+      gene ID, label, Ensembl ID, and the mean expression value across  the cells.
+    title: Gene Expression
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - gene_id
+    - gene_label
+    - ensembl_id
+    - mean_gene_expression_value
+    class_uri: ccf:GeneExpression
+  CellSummaryData:
+    name: CellSummaryData
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    attributes:
+      donor:
+        name: donor
+        from_schema: https://purl.humanatlas.io/specs/cell-summary
+        required: false
+      sample:
+        name: sample
+        from_schema: https://purl.humanatlas.io/specs/cell-summary
+        required: false
+      dataset:
+        name: dataset
+        from_schema: https://purl.humanatlas.io/specs/cell-summary
+        required: false
+      spatial_entity:
+        name: spatial_entity
+        from_schema: https://purl.humanatlas.io/specs/cell-summary
+        required: false
+      cell_summary:
+        name: cell_summary
+        from_schema: https://purl.humanatlas.io/specs/cell-summary
+        multivalued: true
+        range: CellSummary
+        inlined_as_list: true
+      collision:
+        name: collision
+        from_schema: https://purl.humanatlas.io/specs/cell-summary
+        required: false
+      corridor:
+        name: corridor
+        from_schema: https://purl.humanatlas.io/specs/cell-summary
+        required: false
+  CellSummaryMetadata:
+    name: CellSummaryMetadata
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slots:
+    - title
+    - description
+    - created_by
+    - creation_date
+    - version
+    - license
+    - publisher
+    - see_also
+    - derived_from
+    class_uri: dcat:Dataset
+  CollisionSummary:
+    name: CollisionSummary
+    description: A collision summary provides an overview of detected collisions,  including
+      the method used for collision detection and details  about the specific collision
+      items identified.
+    title: Collision Summary
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - collision_method
+    - collision_items
+    class_uri: ccf:CollisionSummary
+  CollisionItem:
+    name: CollisionItem
+    description: A collision item is a detailed record of a spatial overlap, including  information
+      about the spatial entity involved, the volume of the  collision, and the percentage
+      of overlap relative to the entity's  total volume.
+    title: Collision Item
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - spatial_entity_reference
+    - volume
+    - percentage
+    class_uri: ccf:CollisionItem
+  CollisionData:
+    name: CollisionData
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    attributes:
+      donor:
+        name: donor
+        from_schema: https://purl.humanatlas.io/specs/collision
+        required: false
+      sample:
+        name: sample
+        from_schema: https://purl.humanatlas.io/specs/collision
+        required: false
+      dataset:
+        name: dataset
+        from_schema: https://purl.humanatlas.io/specs/collision
+        required: false
+      spatial_entity:
+        name: spatial_entity
+        from_schema: https://purl.humanatlas.io/specs/collision
+        required: false
+      cell_summary:
+        name: cell_summary
+        from_schema: https://purl.humanatlas.io/specs/collision
+        required: false
+      collision:
+        name: collision
+        from_schema: https://purl.humanatlas.io/specs/collision
+        multivalued: true
+        range: CollisionSummary
+        inlined_as_list: true
+      corridor:
+        name: corridor
+        from_schema: https://purl.humanatlas.io/specs/collision
+        required: false
+  CollisionMetadata:
+    name: CollisionMetadata
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slots:
+    - title
+    - description
+    - created_by
+    - creation_date
+    - version
+    - license
+    - publisher
+    - see_also
+    - derived_from
+    class_uri: dcat:Dataset
+  Named:
+    name: Named
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixin: true
+    slots:
+    - id
+    - label
+  Instance:
+    name: Instance
+    annotations:
+      owl:
+        tag: owl
+        value: Individual
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixin: true
+    slots:
+    - type_of
+  Corridor:
+    name: Corridor
+    description: A corridor is a spatial data representation or model, often used  to
+      describe pathways or regions of interest in a given space.  It includes details
+      about the file format and the file URL for  accessing the data.
+    title: Corridor
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - file_format
+    - file_url
+    class_uri: ccf:Corridor
+  CorridorData:
+    name: CorridorData
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    attributes:
+      donor:
+        name: donor
+        from_schema: https://purl.humanatlas.io/specs/corridor
+        required: false
+      sample:
+        name: sample
+        from_schema: https://purl.humanatlas.io/specs/corridor
+        required: false
+      dataset:
+        name: dataset
+        from_schema: https://purl.humanatlas.io/specs/corridor
+        required: false
+      spatial_entity:
+        name: spatial_entity
+        from_schema: https://purl.humanatlas.io/specs/corridor
+        required: false
+      cell_summary:
+        name: cell_summary
+        from_schema: https://purl.humanatlas.io/specs/corridor
+        required: false
+      collision:
+        name: collision
+        from_schema: https://purl.humanatlas.io/specs/corridor
+        required: false
+      corridor:
+        name: corridor
+        from_schema: https://purl.humanatlas.io/specs/corridor
+        multivalued: true
+        range: Corridor
+        inlined_as_list: true
+  CorridorMetadata:
+    name: CorridorMetadata
+    from_schema: https://purl.humanatlas.io/schema/ds-graph
+    slots:
+    - title
+    - description
+    - created_by
+    - creation_date
+    - version
+    - license
+    - publisher
+    - see_also
+    - derived_from
+    class_uri: dcat:Dataset
 source_file: schemas/src/digital-objects/ds-graph.yaml
 

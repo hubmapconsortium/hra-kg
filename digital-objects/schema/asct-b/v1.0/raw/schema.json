@@ -2,37 +2,53 @@
     "$defs": {
         "AnatomicalStructure": {
             "additionalProperties": false,
-            "description": "",
+            "description": "An anatomical structure is a distinct biological entity, such as  an organ or tissue with a defined form and function within an  organism.",
             "properties": {
                 "ccf_asctb_type": {
+                    "description": "Data category classification within the ASCT+B framework.",
+                    "title": "asct+b type",
                     "type": "string"
                 },
                 "ccf_is_provisional": {
+                    "description": "Flag indicating whether the concept is in provisional status.",
+                    "title": "is provisional?",
                     "type": "boolean"
                 },
                 "ccf_part_of": {
+                    "description": "Defines part-whole relationships within anatomical structures.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "part of",
                     "type": "array"
                 },
                 "ccf_pref_label": {
+                    "description": "Specifies the preferred label of a concept.",
+                    "title": "preferred label",
                     "type": "string"
                 },
                 "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
                     "enum": [
                         "AnatomicalStructure"
                     ],
+                    "title": "conforms to",
                     "type": "string"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
                     "pattern": "(UBERON|FMA):\\d+|https://purl.org/ccf/ASCTB-TEMP_[a-zA-Z0-9-]+",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "parent_class": {
+                    "description": "Specifies the parent or superclass of the entity.",
+                    "title": "subclass of",
                     "type": "string"
                 }
             },
@@ -42,35 +58,49 @@
                 "ccf_asctb_type",
                 "ccf_is_provisional"
             ],
-            "title": "AnatomicalStructure",
+            "title": "Anatomical Structure",
             "type": "object"
         },
-        "AnatomicalStructureInstance": {
+        "AnatomicalStructureRecord": {
             "additionalProperties": false,
-            "description": "",
+            "description": "An anatomical structure record represents a specific value  in the ASCT+B table, located in the \"AS\" column, identified  by its row (record number) and column (order number).",
             "properties": {
                 "ccf_pref_label": {
+                    "description": "Specifies the preferred label of a concept.",
+                    "title": "preferred label",
                     "type": "string"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "order_number": {
+                    "description": "Order position within a defined sequence.",
+                    "title": "order number",
                     "type": "integer"
                 },
                 "record_number": {
+                    "description": "Numerical identifier for individual records.",
+                    "title": "record number",
                     "type": "integer"
                 },
                 "source_concept": {
+                    "description": "Source concept providing the origin of this record within the  ASCT+B model.",
+                    "title": "source concept",
                     "type": "string"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -81,150 +111,202 @@
                 "order_number",
                 "id"
             ],
-            "title": "AnatomicalStructureInstance",
+            "title": "Anatomical Structure Record",
             "type": "object"
         },
         "AsctbDataset": {
             "additionalProperties": false,
-            "description": "",
+            "description": "The data section for the \"asct-b\" digital object.",
             "properties": {
                 "anatomical_structures": {
+                    "description": "List of anatomical structures referenced in the ASCT+B records.",
                     "items": {
                         "$ref": "#/$defs/AnatomicalStructure"
                     },
+                    "title": "anatomical structure data",
                     "type": "array"
                 },
                 "asctb_record": {
+                    "description": "Records containing ASCT+B concepts and related data.",
                     "items": {
                         "$ref": "#/$defs/AsctbRecord"
                     },
+                    "title": "ASCT+B record",
                     "type": "array"
                 },
                 "biomarkers": {
+                    "description": "List of biomarkers (i.e., gene, protein, lipid, metabolites, proteoforms)  referenced in the ASCT+B records.",
                     "items": {
                         "$ref": "#/$defs/Biomarker"
                     },
+                    "title": "biomarker data",
                     "type": "array"
                 },
                 "cell_marker_descriptor": {
+                    "description": "Descriptors for cell markers within the ASCT+B dataset.",
                     "items": {
                         "$ref": "#/$defs/CellMarkerDescriptor"
                     },
+                    "title": "cell marker descriptor",
                     "type": "array"
                 },
                 "cell_types": {
+                    "description": "List of cell types referenced in the ASCT+B records.",
                     "items": {
                         "$ref": "#/$defs/CellType"
                     },
+                    "title": "cell type data",
                     "type": "array"
                 }
             },
-            "title": "AsctbDataset",
+            "title": "ASCT+B Data",
             "type": "object"
         },
         "AsctbMetadata": {
             "additionalProperties": false,
-            "description": "",
+            "description": "The metadata section for the \"asct-b\" digital object.",
             "properties": {
                 "created_by": {
+                    "description": "An entity responsible for making the resource.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "creator",
                     "type": "array"
                 },
                 "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
                     "type": "string"
                 },
                 "derived_from": {
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.    ",
+                    "title": "was derived from",
                     "type": "string"
                 },
                 "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
                     "type": "string"
                 },
                 "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
                     "type": "string"
                 },
                 "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
                     "type": "string"
                 },
                 "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
                     "type": "string"
                 },
                 "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
                     "type": "string"
                 },
                 "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
                     "type": "string"
                 }
             },
-            "title": "AsctbMetadata",
+            "title": "ASCT+B Metadata",
             "type": "object"
         },
         "AsctbRecord": {
             "additionalProperties": false,
-            "description": "",
+            "description": "An ASCT+B record is a single row in the ASCT+B table that documents  anatomical structures (AS), cell types (CT), and biomarkers (B),  providing a structured representation of their relationships.",
             "properties": {
                 "anatomical_structure_list": {
+                    "description": "List of anatomical structure instances related to ASCT+B records.",
                     "items": {
-                        "$ref": "#/$defs/AnatomicalStructureInstance"
+                        "$ref": "#/$defs/AnatomicalStructureRecord"
                     },
+                    "title": "anatomical structure",
                     "type": "array"
                 },
                 "cell_type_list": {
+                    "description": "List of cell type instances associated with ASCT+B records.",
                     "items": {
-                        "$ref": "#/$defs/CellTypeInstance"
+                        "$ref": "#/$defs/CellTypeRecord"
                     },
+                    "title": "cell type",
                     "type": "array"
                 },
                 "gene_marker_list": {
+                    "description": "List of gene markers referenced within ASCT+B records.",
                     "items": {
-                        "$ref": "#/$defs/BiomarkerInstance"
+                        "$ref": "#/$defs/BiomarkerRecord"
                     },
+                    "title": "gene marker",
                     "type": "array"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "lipid_marker_list": {
+                    "description": "List of lipid markers referenced within ASCT+B records.",
                     "items": {
-                        "$ref": "#/$defs/BiomarkerInstance"
+                        "$ref": "#/$defs/BiomarkerRecord"
                     },
+                    "title": "lipid marker",
                     "type": "array"
                 },
                 "metabolites_marker_list": {
+                    "description": "List of metabolites markers referenced within ASCT+B records.",
                     "items": {
-                        "$ref": "#/$defs/BiomarkerInstance"
+                        "$ref": "#/$defs/BiomarkerRecord"
                     },
+                    "title": "metabolite marker",
                     "type": "array"
                 },
                 "protein_marker_list": {
+                    "description": "List of protein markers referenced within ASCT+B records.",
                     "items": {
-                        "$ref": "#/$defs/BiomarkerInstance"
+                        "$ref": "#/$defs/BiomarkerRecord"
                     },
+                    "title": "protein marker",
                     "type": "array"
                 },
                 "proteoforms_marker_list": {
+                    "description": "List of proteoforms markers referenced within ASCT+B records.",
                     "items": {
-                        "$ref": "#/$defs/BiomarkerInstance"
+                        "$ref": "#/$defs/BiomarkerRecord"
                     },
+                    "title": "proteoform marker",
                     "type": "array"
                 },
                 "record_number": {
+                    "description": "Numerical identifier for individual records.",
+                    "title": "record number",
                     "type": "integer"
                 },
                 "references": {
+                    "description": "A related resource that is referenced, cited, or otherwise  pointed to by the described resource.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "references",
                     "type": "array"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -232,39 +314,55 @@
                 "record_number",
                 "id"
             ],
-            "title": "AsctbRecord",
+            "title": "ASCT+B Record",
             "type": "object"
         },
         "Biomarker": {
             "additionalProperties": false,
-            "description": "",
+            "description": "A biomarker is a specific molecule or feature, such as a gene,  protein, or surface marker, that uniquely identifies or  distinguishes a particular cell type.",
             "properties": {
                 "ccf_asctb_type": {
+                    "description": "Data category classification within the ASCT+B framework.",
+                    "title": "asct+b type",
                     "type": "string"
                 },
                 "ccf_biomarker_type": {
+                    "description": "Type of biomarker as per the ASCT+B specification.",
+                    "title": "biomarker type",
                     "type": "string"
                 },
                 "ccf_is_provisional": {
+                    "description": "Flag indicating whether the concept is in provisional status.",
+                    "title": "is provisional?",
                     "type": "boolean"
                 },
                 "ccf_pref_label": {
+                    "description": "Specifies the preferred label of a concept.",
+                    "title": "preferred label",
                     "type": "string"
                 },
                 "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
                     "enum": [
                         "Biomarker"
                     ],
+                    "title": "conforms to",
                     "type": "string"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
                     "pattern": "HGNC:\\d+|https://purl.org/ccf/ASCTB-TEMP_[a-zA-Z0-9-]+|HGNCO:[a-zA-Z0-9-]+",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "parent_class": {
+                    "description": "Specifies the parent or superclass of the entity.",
+                    "title": "subclass of",
                     "type": "string"
                 }
             },
@@ -278,35 +376,51 @@
             "title": "Biomarker",
             "type": "object"
         },
-        "BiomarkerInstance": {
+        "BiomarkerRecord": {
             "additionalProperties": false,
-            "description": "",
+            "description": "An biomarker record represents a specific value in the ASCT+B table,  located in the \"B\" column, identified by its row (record number) and  column (order number).",
             "properties": {
                 "ccf_biomarker_type": {
+                    "description": "Type of biomarker as per the ASCT+B specification.",
+                    "title": "biomarker type",
                     "type": "string"
                 },
                 "ccf_pref_label": {
+                    "description": "Specifies the preferred label of a concept.",
+                    "title": "preferred label",
                     "type": "string"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "order_number": {
+                    "description": "Order position within a defined sequence.",
+                    "title": "order number",
                     "type": "integer"
                 },
                 "record_number": {
+                    "description": "Numerical identifier for individual records.",
+                    "title": "record number",
                     "type": "integer"
                 },
                 "source_concept": {
+                    "description": "Source concept providing the origin of this record within the  ASCT+B model.",
+                    "title": "source concept",
                     "type": "string"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -318,44 +432,60 @@
                 "order_number",
                 "id"
             ],
-            "title": "BiomarkerInstance",
+            "title": "Biomarker Record",
             "type": "object"
         },
         "CellMarkerDescriptor": {
             "additionalProperties": false,
-            "description": "",
+            "description": "A cell marker descriptor is study-derived information about a set  of biomarkers used to identify a specific cell type within a particular  tissue location, supported by associated scientific references.",
             "properties": {
                 "biomarker_set": {
+                    "description": "Collection of characterizing biomarker set in the cell marker descriptor.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "biomarker set",
                     "type": "array"
                 },
-                "derived_from": {
-                    "type": "string"
-                },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "primary_anatomical_structure": {
+                    "description": "The anatomical structure in the cell marker descriptor.",
+                    "title": "primary anatomical structure",
                     "type": "string"
                 },
                 "primary_cell_type": {
+                    "description": "The cell type in the cell marker descriptor.",
+                    "title": "primary cell type",
                     "type": "string"
                 },
                 "references": {
+                    "description": "A related resource that is referenced, cited, or otherwise  pointed to by the described resource.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "references",
                     "type": "array"
                 },
+                "source_record": {
+                    "description": "Reference to the ASCT+B record that contains the actual information.",
+                    "title": "source record",
+                    "type": "string"
+                },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -364,54 +494,74 @@
                 "primary_anatomical_structure",
                 "id"
             ],
-            "title": "CellMarkerDescriptor",
+            "title": "Cell Marker Descriptor",
             "type": "object"
         },
         "CellType": {
             "additionalProperties": false,
-            "description": "",
+            "description": "A cell type is a distinct classification of cells defined by  specific structural, functional, and molecular characteristics  within an organism.",
             "properties": {
                 "ccf_asctb_type": {
+                    "description": "Data category classification within the ASCT+B framework.",
+                    "title": "asct+b type",
                     "type": "string"
                 },
                 "ccf_ct_isa": {
+                    "description": "Specifies subclass relationships for cell types.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "parent cell type",
                     "type": "array"
                 },
                 "ccf_is_provisional": {
+                    "description": "Flag indicating whether the concept is in provisional status.",
+                    "title": "is provisional?",
                     "type": "boolean"
                 },
                 "ccf_located_in": {
+                    "description": "Specifies the anatomical location of a cell type.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "located in",
                     "type": "array"
                 },
                 "ccf_pref_label": {
+                    "description": "Specifies the preferred label of a concept.",
+                    "title": "preferred label",
                     "type": "string"
                 },
                 "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
                     "enum": [
                         "CellType"
                     ],
+                    "title": "conforms to",
                     "type": "string"
                 },
                 "has_characterizing_marker_set": {
+                    "description": "Sets of markers characterizing a specific cell type.",
                     "items": {
                         "$ref": "#/$defs/CharacterizingMarkerSet"
                     },
+                    "title": "has characterizing marker set",
                     "type": "array"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
                     "pattern": "(CL|PCL|LMHA):\\d+|https://purl.org/ccf/ASCTB-TEMP_[a-zA-Z0-9-]+",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "parent_class": {
+                    "description": "Specifies the parent or superclass of the entity.",
+                    "title": "subclass of",
                     "type": "string"
                 }
             },
@@ -421,35 +571,49 @@
                 "ccf_asctb_type",
                 "ccf_is_provisional"
             ],
-            "title": "CellType",
+            "title": "Cell Type",
             "type": "object"
         },
-        "CellTypeInstance": {
+        "CellTypeRecord": {
             "additionalProperties": false,
-            "description": "",
+            "description": "An cell type record represents a specific value in the ASCT+B table,  located in the \"CT\" column, identified by its row (record number)  and column (order number).",
             "properties": {
                 "ccf_pref_label": {
+                    "description": "Specifies the preferred label of a concept.",
+                    "title": "preferred label",
                     "type": "string"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "order_number": {
+                    "description": "Order position within a defined sequence.",
+                    "title": "order number",
                     "type": "integer"
                 },
                 "record_number": {
+                    "description": "Numerical identifier for individual records.",
+                    "title": "record number",
                     "type": "integer"
                 },
                 "source_concept": {
+                    "description": "Source concept providing the origin of this record within the  ASCT+B model.",
+                    "title": "source concept",
                     "type": "string"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -460,27 +624,31 @@
                 "order_number",
                 "id"
             ],
-            "title": "CellTypeInstance",
+            "title": "Cell Type Record",
             "type": "object"
         },
         "CharacterizingMarkerSet": {
             "additionalProperties": false,
-            "description": "",
+            "description": "A characterizing marker set is a group of biomarkers used collectively  to define and distinguish a specific cell type or state.",
             "properties": {
                 "members": {
+                    "description": "Biomarkers that are members of a characterizing marker set.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "contains biomarker",
                     "type": "array"
                 },
                 "references": {
+                    "description": "A related resource that is referenced, cited, or otherwise  pointed to by the described resource.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "references",
                     "type": "array"
                 }
             },
-            "title": "CharacterizingMarkerSet",
+            "title": "Characterizing Marker Set",
             "type": "object"
         },
         "Container": {
@@ -505,15 +673,22 @@
             "description": "",
             "properties": {
                 "citation": {
+                    "description": "A citation or reference to another creative work, such  as another publication, web page, scholarly article, etc.",
+                    "title": "citation",
                     "type": "string"
                 },
                 "citationOverall": {
+                    "description": "A written reference to a source, such as a  book, article, or website, that identifies  the original source of information in a work.",
+                    "title": "citation",
                     "type": "string"
                 },
                 "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
                     "type": "string"
                 },
                 "creators": {
+                    "description": "An entity responsible for making the resource.",
                     "items": {
                         "anyOf": [
                             {
@@ -524,70 +699,103 @@
                             }
                         ]
                     },
+                    "title": "creator",
                     "type": "array"
                 },
                 "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
                     "type": "string"
                 },
                 "distributions": {
+                    "description": "An available distribution of the dataset.",
                     "items": {
                         "$ref": "#/$defs/Distribution"
                     },
+                    "title": "dataset distribution",
                     "type": "array"
                 },
                 "doi": {
+                    "description": "A DOI, or Digital Object Identifier, is a  unique string of numbers, letters, and symbols  that identifies a specific publication.",
+                    "title": "DOI",
                     "type": "string"
                 },
                 "externalReviewers": {
+                    "description": "An independent expert from outside an organization  who provides critical feedback and evaluation on  a program, project, or proposal.",
                     "items": {
                         "$ref": "#/$defs/Person"
                     },
+                    "title": "external reviewer",
                     "type": "array"
                 },
                 "funders": {
+                    "description": "A Grant that directly or indirectly provide  funding or sponsorship for this item.",
                     "items": {
                         "$ref": "#/$defs/Grant"
                     },
+                    "title": "funding",
                     "type": "array"
                 },
                 "hubmapId": {
+                    "description": "HuBMAP identifier.",
+                    "title": "HuBMAP identifier",
                     "type": "string"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
                     "type": "string"
                 },
                 "project_leads": {
+                    "description": "A person who is responsible for leading a project  or a specific aspect of a project, including planning, implementation, and tracking. ",
                     "items": {
                         "$ref": "#/$defs/Person"
                     },
+                    "title": "project lead",
                     "type": "array"
                 },
                 "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
                     "type": "string"
                 },
                 "reviewers": {
+                    "description": "People or organizations that have reviewed the  content on this web page for accuracy and/or  completeness.",
                     "items": {
                         "$ref": "#/$defs/Person"
                     },
+                    "title": "reviewer",
                     "type": "array"
                 },
                 "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
                     "type": "string"
                 },
                 "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
                     "type": "string"
                 },
                 "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
                     "type": "string"
                 },
                 "was_derived_from": {
-                    "$ref": "#/$defs/Dataset"
+                    "$ref": "#/$defs/Dataset",
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.",
+                    "title": "was derived from"
                 }
             },
             "required": [
@@ -601,21 +809,33 @@
             "description": "",
             "properties": {
                 "accessUrl": {
+                    "description": "A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint.",
+                    "title": "access URL",
                     "type": "string"
                 },
                 "downloadUrl": {
+                    "description": "The URL of the downloadable file in a given format.",
+                    "title": "download URL",
                     "type": "string"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "mediaType": {
+                    "description": "The media type of the distribution as defined by IANA.",
+                    "title": "media type",
                     "type": "string"
                 },
                 "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
                     "type": "string"
                 }
             },
@@ -630,9 +850,13 @@
             "description": "",
             "properties": {
                 "awardNumber": {
+                    "description": "An award won by or for this item.",
+                    "title": "award",
                     "type": "string"
                 },
                 "funder": {
+                    "description": "A person or organization that supports (sponsors)  something through some kind of financial contribution.",
+                    "title": "funder",
                     "type": "string"
                 }
             },
@@ -644,34 +868,50 @@
             "description": "",
             "properties": {
                 "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
                     "enum": [
                         "Person"
                     ],
+                    "title": "conforms to",
                     "type": "string"
                 },
                 "firstName": {
+                    "description": "Given name. In the U.S., the first name of a person.",
+                    "title": "first name",
                     "type": "string"
                 },
                 "fullName": {
+                    "description": "The full name of a person.",
+                    "title": "full name",
                     "type": "string"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "lastName": {
+                    "description": "Family name. In the U.S., the last name of a person.",
+                    "title": "last name",
                     "type": "string"
                 },
                 "orcid": {
+                    "description": "ORCID identifier.",
                     "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                    "title": "orcid",
                     "type": "string"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 }
             },
@@ -686,30 +926,44 @@
             "description": "",
             "properties": {
                 "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
                     "enum": [
                         "SoftwareApplication"
                     ],
+                    "title": "conforms to",
                     "type": "string"
                 },
                 "id": {
+                    "description": "Unique identifier for ASCT+B concepts.",
+                    "title": "concept identifier",
                     "type": "string"
                 },
                 "label": {
+                    "description": "Human-readable label or name for the concept.",
+                    "title": "label",
                     "type": "string"
                 },
                 "name": {
+                    "description": "The name of the item.",
+                    "title": "name",
                     "type": "string"
                 },
                 "target_product": {
-                    "$ref": "#/$defs/SoftwareSourceCode"
+                    "$ref": "#/$defs/SoftwareSourceCode",
+                    "description": "Target Operating System / Product to which  the code applies. If applies to several versions,  just the product name can be used.",
+                    "title": "target product"
                 },
                 "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
                     "items": {
                         "type": "string"
                     },
+                    "title": "type of",
                     "type": "array"
                 },
                 "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
                     "type": "string"
                 }
             },
@@ -724,9 +978,13 @@
             "description": "",
             "properties": {
                 "code_repository": {
+                    "description": "Link to the repository where the un-compiled,  human readable code and related code is located  (SVN, GitHub, CodePlex).",
+                    "title": "code repository",
                     "type": "string"
                 },
                 "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
                     "type": "string"
                 }
             },

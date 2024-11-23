@@ -58,6 +58,15 @@ prefixes:
   skos:
     prefix_prefix: skos
     prefix_reference: http://www.w3.org/2004/02/skos/core#
+  oboInOwl:
+    prefix_prefix: oboInOwl
+    prefix_reference: http://www.geneontology.org/formats/oboInOwl#
+  loinc:
+    prefix_prefix: loinc
+    prefix_reference: http://purl.bioontology.org/ontology/LNC/
+  RO:
+    prefix_prefix: RO
+    prefix_reference: http://purl.obolibrary.org/obo/RO_
 default_prefix: ccf
 default_range: string
 types:
@@ -291,49 +300,6 @@ types:
     base: str
     uri: xsd:string
     repr: str
-enums:
-  DimensionUnitEnum:
-    name: DimensionUnitEnum
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    permissible_values:
-      centimeter:
-        text: centimeter
-        description: A length unit which is equal to one hundredth of a meter.
-        meaning: obo:UO_0000015
-      millimeter:
-        text: millimeter
-        description: A length unit which is equal to one thousandth of a meter.
-        meaning: obo:UO_0000016
-  ScalingUnitEnum:
-    name: ScalingUnitEnum
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    permissible_values:
-      ratio:
-        text: ratio
-        description: A dimensionless ratio unit which, given a pair of quantities
-          a and b, for which b is a multiple of a, denotes b by giving the multiplier
-          (coefficient) c for a to result in b.
-        meaning: obo:UO_0010006
-  RotationUnitEnum:
-    name: RotationUnitEnum
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    permissible_values:
-      degree:
-        text: degree
-        description: A plane angle unit which is equal to 1/360 of a full rotation.
-        meaning: obo:UO_0000185
-  TranslationUnitEnum:
-    name: TranslationUnitEnum
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    permissible_values:
-      centimeter:
-        text: centimeter
-        description: A length unit which is equal to one hundredth of a meter.
-        meaning: obo:UO_0000015
-      millimeter:
-        text: millimeter
-        description: A length unit which is equal to one thousandth of a meter.
-        meaning: obo:UO_0000016
 slots:
   landmarks:
     name: landmarks
@@ -349,247 +315,18 @@ slots:
     range: SpatialEntity
     required: true
     inlined_as_list: true
-  x_dimension:
-    name: x_dimension
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-    minimum_value: 0.0
-  y_dimension:
-    name: y_dimension
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-    minimum_value: 0.0
-  z_dimension:
-    name: z_dimension
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-    minimum_value: 0.0
-  dimension_unit:
-    name: dimension_unit
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    required: true
-  x_scaling:
-    name: x_scaling
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-    minimum_value: 0.0
-  y_scaling:
-    name: y_scaling
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-    minimum_value: 0.0
-  z_scaling:
-    name: z_scaling
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-    minimum_value: 0.0
-  scaling_unit:
-    name: scaling_unit
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    required: true
-  x_rotation:
-    name: x_rotation
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-  y_rotation:
-    name: y_rotation
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-  z_rotation:
-    name: z_rotation
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-  rotation_unit:
-    name: rotation_unit
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    required: true
-  rotation_order:
-    name: rotation_order
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    required: false
-  x_translation:
-    name: x_translation
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-  y_translation:
-    name: y_translation
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-  z_translation:
-    name: z_translation
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    range: float
-    required: true
-  translation_unit:
-    name: translation_unit
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    required: true
-  file_name:
-    name: file_name
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    required: true
-  file_url:
-    name: file_url
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    required: true
-  file_subpath:
-    name: file_subpath
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    required: false
-  file_format:
-    name: file_format
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    required: true
-  source:
-    name: source
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    slot_uri: ccf:placement_for
-    range: SpatialEntity
-    required: false
-    inlined: false
-  target:
-    name: target
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    slot_uri: ccf:placement_relative_to
-    range: SpatialEntity
-    required: true
-    inlined: false
-  object_reference:
-    name: object_reference
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    slot_uri: ccf:has_object_reference
-    range: SpatialObjectReference
-    required: false
-    inlined: true
-  placement:
-    name: placement
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    slot_uri: ccf:has_placement
-    range: SpatialPlacement
-    required: true
-    inlined: true
   placements:
     name: placements
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A collection of references to the placement of the  spatial entity.
+    title: spatial entity placement
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: ccf:has_placement
     multivalued: true
     range: SpatialPlacement
-    required: false
     inlined: true
     inlined_as_list: true
   reference_organ:
@@ -598,10 +335,11 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the reference organ's spatial entity.
+    title: reference organ
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: ccf:has_reference_organ
     range: SpatialEntity
-    required: false
     inlined: false
   extraction_set:
     name: extraction_set
@@ -609,6 +347,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to an extraction set.
+    title: extraction set
     from_schema: https://purl.humanatlas.io/schema/landmark
     range: uriorcurie
     required: true
@@ -619,6 +359,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the spatial entity associated with the extraction set.
+    title: extraction set for
     from_schema: https://purl.humanatlas.io/schema/landmark
     range: uriorcurie
     required: true
@@ -629,6 +371,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Registration rank.
+    title: RUI rank
     from_schema: https://purl.humanatlas.io/schema/landmark
     range: integer
     required: false
@@ -639,44 +383,20 @@ slots:
       owl:
         tag: owl
         value: ClassAssertion
+    description: Defines the class type that this instance belongs to.
+    title: type of
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: rdf:type
     multivalued: true
     range: Named
-  id:
-    name: id
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    identifier: true
-    range: uriorcurie
-    required: true
-  label:
-    name: label
-    annotations:
-      owl:
-        tag: owl
-        value: AnnotationProperty, AnnotationAssertion
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    slot_uri: rdfs:label
-    required: true
-  parent_class:
-    name: parent_class
-    annotations:
-      owl:
-        tag: owl
-        value: SubClassOf
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    slot_uri: rdfs:subClassOf
-    range: uriorcurie
-  conforms_to:
-    name: conforms_to
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    designates_type: true
   distributions:
     name: distributions
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An available distribution of the dataset.
+    title: dataset distribution
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dcat:distribution
     multivalued: true
@@ -688,6 +408,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The URL of the downloadable file in a given format.
+    title: download URL
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dcat:downloadURL
     range: uri
@@ -697,6 +419,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A URL of the resource that gives access to a distribution of the
+      dataset. E.g. landing page, feed, SPARQL endpoint.
+    title: access URL
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dcat:accessURL
     range: uri
@@ -706,6 +431,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The media type of the distribution as defined by IANA.
+    title: media type
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dcat:mediaType
   was_derived_from:
@@ -714,17 +441,29 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.
+    title: was derived from
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: prov:wasDerivedFrom
     range: Dataset
     inlined: true
   derived_from:
     name: derived_from
+    description: 'A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.    '
+    title: was derived from
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: prov:wasDerivedFrom
     range: uriorcurie
   had_member:
     name: had_member
+    description: A collection is an entity that provides a structure to some  constituents,
+      which are themselves entities. These constituents  are said to be member of
+      the collections.
+    title: had member
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: prov:hadMember
     multivalued: true
@@ -732,18 +471,27 @@ slots:
     inlined_as_list: true
   title:
     name: title
+    description: A name given to the resource.
+    title: title
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dct:title
   description:
     name: description
+    description: An account of the resource.
+    title: description
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dct:description
   license:
     name: license
+    description: A legal document giving official permission to do something  with
+      the resource.
+    title: license
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dct:license
   publisher:
     name: publisher
+    description: An entity responsible for making the resource available.
+    title: publisher
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dct:publisher
   create_date:
@@ -752,6 +500,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Date of creation of the resource.
+    title: date created
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dct:created
     range: date
@@ -761,6 +511,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dct:creator
   creators:
@@ -769,6 +521,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dct:creator
     multivalued: true
@@ -776,6 +530,8 @@ slots:
     inlined_as_list: true
   created_by:
     name: created_by
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: dct:creator
     multivalued: true
@@ -783,8 +539,11 @@ slots:
     inlined_as_list: true
   references:
     name: references
+    description: A related resource that is referenced, cited, or otherwise  pointed
+      to by the described resource.
+    title: references
     from_schema: https://purl.humanatlas.io/schema/landmark
-    slot_uri: dct:reference
+    slot_uri: dct:references
     multivalued: true
     range: string
     inlined_as_list: true
@@ -794,10 +553,14 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The subject matter of the content.
+    title: about
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:about
   version:
     name: version
+    description: The version of the CreativeWork embodied by a specified  resource.
+    title: version
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:version
   name:
@@ -806,6 +569,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The name of the item.
+    title: name
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:name
   type:
@@ -814,6 +579,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'An additional type for the item, typically used for  adding more
+      specific types from external vocabularies  in microdata syntax. '
+    title: type
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:additionalType
   fullName:
@@ -822,6 +590,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The full name of a person.
+    title: full name
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:name
   firstName:
@@ -830,6 +600,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Given name. In the U.S., the first name of a person.
+    title: first name
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:givenName
   lastName:
@@ -838,6 +610,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Family name. In the U.S., the last name of a person.
+    title: last name
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:familyName
   orcid:
@@ -846,6 +620,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: ORCID identifier.
+    title: orcid
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:identifier
     pattern: ^(\d{4}-){3}\d{3}(\d|X)$
@@ -855,6 +631,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A person or organization that supports (sponsors)  something through
+      some kind of financial contribution.
+    title: funder
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:funder
   awardNumber:
@@ -863,6 +642,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An award won by or for this item.
+    title: award
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:award
   citation:
@@ -871,10 +652,16 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A citation or reference to another creative work, such  as another
+      publication, web page, scholarly article, etc.
+    title: citation
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:citation
   creation_date:
     name: creation_date
+    description: The date on which the CreativeWork was created or the  item was added
+      to a DataFeed.
+    title: created date
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:dateCreated
   propertyId:
@@ -883,6 +670,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'A commonly used identifier for the characteristic  represented by
+      the property, e.g. a manufacturer or a  standard code for a property. '
+    title: property ID
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:propertyID
   value:
@@ -891,6 +681,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The value of a property value node.
+    title: value
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:value
   reviewers:
@@ -899,6 +691,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: People or organizations that have reviewed the  content on this web
+      page for accuracy and/or  completeness.
+    title: reviewer
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:reviewedBy
     multivalued: true
@@ -910,6 +705,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A Grant that directly or indirectly provide  funding or sponsorship
+      for this item.
+    title: funding
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:funding
     multivalued: true
@@ -921,6 +719,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Target Operating System / Product to which  the code applies. If
+      applies to several versions,  just the product name can be used.
+    title: target product
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:targetProduct
     range: SoftwareSourceCode
@@ -930,6 +731,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Link to the repository where the un-compiled,  human readable code
+      and related code is located  (SVN, GitHub, CodePlex).
+    title: code repository
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: schema:codeRepository
     range: uriorcurie
@@ -939,10 +743,26 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A string giving information about this version.
+    title: version info
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: owl:versionInfo
+  label:
+    name: label
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A string used to provide a human-readable version of  a resource's
+      name.
+    title: label
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    slot_uri: rdfs:label
   see_also:
     name: see_also
+    description: A reference used to indicate a resource that might  provide additional
+      information about the subject resource.
+    title: see also
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: rdfs:seeAlso
     range: uriorcurie
@@ -952,10 +772,14 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    title: preferred label
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: skos:prefLabel
   ontology_root:
     name: ontology_root
+    description: 'Relates an ontology to a term that is a designated  root term of
+      the ontology. '
+    title: has ontology root term
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: obo:IAO_0000700
     multivalued: true
@@ -966,6 +790,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: HuBMAP identifier.
+    title: HuBMAP identifier
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: ccf:hubmap_id
   doi:
@@ -974,6 +800,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A DOI, or Digital Object Identifier, is a  unique string of numbers,
+      letters, and symbols  that identifies a specific publication.
+    title: DOI
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: ccf:doi
     range: uriorcurie
@@ -983,6 +812,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A written reference to a source, such as a  book, article, or website,
+      that identifies  the original source of information in a work.
+    title: citation
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: ccf:citation_overall
   datatable:
@@ -991,6 +823,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A list of table resources.
+    title: data table
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: ccf:data_table
     multivalued: true
@@ -1000,6 +834,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'A person who is responsible for leading a project  or a specific
+      aspect of a project, including planning, implementation, and tracking. '
+    title: project lead
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: ccf:project_lead
     multivalued: true
@@ -1011,14 +848,368 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An independent expert from outside an organization  who provides
+      critical feedback and evaluation on  a program, project, or proposal.
+    title: external reviewer
     from_schema: https://purl.humanatlas.io/schema/landmark
     slot_uri: ccf:external_reviewer
     multivalued: true
     range: Person
     inlined_as_list: true
+  id:
+    name: id
+    description: A unique identifier for the entity
+    title: concept identifier
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    identifier: true
+    range: uriorcurie
+    required: true
+  parent_class:
+    name: parent_class
+    annotations:
+      owl:
+        tag: owl
+        value: SubClassOf
+    description: Specifies the parent or superclass of the entity.
+    title: subclass of
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    slot_uri: rdfs:subClassOf
+    range: uriorcurie
+  conforms_to:
+    name: conforms_to
+    description: Indicates the type or specification that the entity adheres to.
+    title: conforms to
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    designates_type: true
+  x_dimension:
+    name: x_dimension
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The length of the spatial entity along the X-axis.
+    title: dimension in x-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+    minimum_value: 0.0
+  y_dimension:
+    name: y_dimension
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The length of the spatial entity along the Y-axis.
+    title: dimension in y-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+    minimum_value: 0.0
+  z_dimension:
+    name: z_dimension
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The length of the spatial entity along the Z-axis.
+    title: dimension in z-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+    minimum_value: 0.0
+  dimension_unit:
+    name: dimension_unit
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The unit of measurement used for the spatial entity's dimensions.
+    title: dimension unit
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    required: true
+  collides_with:
+    name: collides_with
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Identifies other anatomical structures that intersect or collide
+      with this spatial entity.
+    title: collides with
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    multivalued: true
+    range: uriorcurie
+  slice_count:
+    name: slice_count
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The number of slices or layers within the spatial entity.
+    title: slice count
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: integer
+  slice_thickness:
+    name: slice_thickness
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The thickness of each slice within the spatial entity.
+    title: slice thickness
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: integer
+  object_reference:
+    name: object_reference
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the object reference.
+    title: object reference
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    slot_uri: ccf:has_object_reference
+    range: SpatialObjectReference
+    inlined: true
+  placement:
+    name: placement
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the placement of the spatial entity.
+    title: spatial entity placement
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    slot_uri: ccf:has_placement
+    range: SpatialPlacement
+    required: true
+    inlined: true
+  target:
+    name: target
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The spatial entity relative to which the placement is defined.
+    title: placement relative to
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    slot_uri: ccf:placement_relative_to
+    range: uriorcurie
+    required: true
+  source:
+    name: source
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The originating spatial entity that serves as the source for a placement
+      relationship.
+    title: placement for
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    slot_uri: ccf:placement_for
+    range: SpatialEntity
+    required: false
+    inlined: false
+  placement_date:
+    name: placement_date
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The date when the placement of the entity was established.
+    title: placement date
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: date
+    required: true
+  x_scaling:
+    name: x_scaling
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Scaling factor applied along the X-axis.
+    title: scaling in x-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+    minimum_value: 0.0
+  y_scaling:
+    name: y_scaling
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Scaling factor applied along the Y-axis.
+    title: scaling in y-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+    minimum_value: 0.0
+  z_scaling:
+    name: z_scaling
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Scaling factor applied along the Z-axis.
+    title: scaling in z-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+    minimum_value: 0.0
+  scaling_unit:
+    name: scaling_unit
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The unit of measurement for scaling, usually represented as a ratio.
+    title: scaling unit
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    required: true
+  x_rotation:
+    name: x_rotation
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Rotation of the spatial entity around the X-axis.
+    title: rotation in x-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+  y_rotation:
+    name: y_rotation
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Rotation of the spatial entity around the Y-axis.
+    title: rotation in y-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+  z_rotation:
+    name: z_rotation
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Rotation of the spatial entity around the Z-axis.
+    title: rotation in z-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+  rotation_unit:
+    name: rotation_unit
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The unit for rotation, typically measured in degrees.
+    title: rotation unit
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    required: true
+  rotation_order:
+    name: rotation_order
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The sequence of axis rotations applied to the spatial entity.
+    title: rotation order
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    required: false
+  x_translation:
+    name: x_translation
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The positional offset along the X-axis.
+    title: translation in x-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+  y_translation:
+    name: y_translation
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The positional offset along the Y-axis.
+    title: translation in y-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+  z_translation:
+    name: z_translation
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The positional offset along the Z-axis.
+    title: translation in z-axis
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    range: float
+    required: true
+  translation_unit:
+    name: translation_unit
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The unit for translation distances.
+    title: translation unit
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    required: true
+  file_name:
+    name: file_name
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The name of the file.
+    title: file name
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    required: true
+  file_url:
+    name: file_url
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The URL of the file to download or viewing.
+    title: file link
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    required: true
+  file_subpath:
+    name: file_subpath
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A relative path.
+    title: file subpath
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    required: false
+  file_format:
+    name: file_format
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The format of the file to read.
+    title: file format
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    required: true
 classes:
   SpatialEntity:
     name: SpatialEntity
+    description: A spatial entity is a defined object or structure with a specific  location,
+      boundary, and orientation in physical or conceptual  space, such as an organ,
+      tissue, or cell in anatomical studies.
+    title: Spatial Entity
     from_schema: https://purl.humanatlas.io/schema/landmark
     mixins:
     - Named
@@ -1039,21 +1230,12 @@ classes:
         name: dimension_unit
         pattern: (centimeter|millimeter)
     class_uri: ccf:SpatialEntity
-  SpatialObjectReference:
-    name: SpatialObjectReference
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    mixins:
-    - Named
-    - Instance
-    slots:
-    - file_name
-    - file_url
-    - file_subpath
-    - file_format
-    - placement
-    class_uri: ccf:SpatialObjectReference
   SpatialPlacement:
     name: SpatialPlacement
+    description: Spatial placement refers to the positioning and orientation of  an
+      entity within a defined space or context, often describing  its location relative
+      to other entities or a coordinate system.
+    title: Spatial Placement
     from_schema: https://purl.humanatlas.io/schema/landmark
     mixins:
     - Named
@@ -1090,6 +1272,10 @@ classes:
     class_uri: ccf:SpatialPlacement
   ExtractionSet:
     name: ExtractionSet
+    description: An extraction set is a curated collection of specific data or  items
+      extracted from a specific source, often  based on specific  locations or features,
+      for targeted analysis or integration.
+    title: Extraction Set
     from_schema: https://purl.humanatlas.io/schema/landmark
     mixins:
     - Named
@@ -1101,12 +1287,16 @@ classes:
     class_uri: ccf:ExtractionSet
   LandmarkData:
     name: LandmarkData
+    description: The data section for the "landmark" digital object.
+    title: Landmark Data
     from_schema: https://purl.humanatlas.io/schema/landmark
     slots:
     - landmarks
     - spatial_entities
   LandmarkMetadata:
     name: LandmarkMetadata
+    description: The metadata section for the "landmark" digital object.
+    title: Landmark Metadata
     from_schema: https://purl.humanatlas.io/schema/landmark
     slots:
     - title
@@ -1177,13 +1367,6 @@ classes:
     mixin: true
     slots:
     - type_of
-  Named:
-    name: Named
-    from_schema: https://purl.humanatlas.io/schema/landmark
-    mixin: true
-    slots:
-    - id
-    - label
   ProvEntity:
     name: ProvEntity
     from_schema: https://purl.humanatlas.io/schema/landmark
@@ -1272,6 +1455,64 @@ classes:
     - externalReviewers
     - distributions
     class_uri: dcat:Dataset
+  Named:
+    name: Named
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    mixin: true
+    slots:
+    - id
+    - label
+  SpatialObjectReference:
+    name: SpatialObjectReference
+    description: A spatial object reference is a record describing a spatial entity,  including
+      its placement within a defined space, the associated file  name, URL for access,
+      and file format.
+    title: Spatial Object Reference
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    mixins:
+    - Named
+    - Instance
+    slots:
+    - file_name
+    - file_url
+    - file_subpath
+    - file_format
+    - placement
+    class_uri: ccf:SpatialObjectReference
+  SpatialData:
+    name: SpatialData
+    from_schema: https://purl.humanatlas.io/schema/landmark
+    attributes:
+      donor:
+        name: donor
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+      sample:
+        name: sample
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+      dataset:
+        name: dataset
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+      spatial_entity:
+        name: spatial_entity
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        multivalued: true
+        range: SpatialEntity
+        inlined_as_list: true
+      cell_summary:
+        name: cell_summary
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+      collision:
+        name: collision
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
+      corridor:
+        name: corridor
+        from_schema: https://purl.humanatlas.io/specs/spatial
+        required: false
 source_file: schemas/src/digital-objects/landmark.yaml
 settings:
   uberon:

@@ -297,6 +297,8 @@ types:
 slots:
   antibody:
     name: antibody
+    description: List of antibodies referenced in the OMAP records.
+    title: antibody data
     from_schema: https://purl.humanatlas.io/schema/omap
     multivalued: true
     range: Antibody
@@ -308,25 +310,33 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The type of antibody, specified as either Primary or Secondary.
+    title: antibody type
     from_schema: https://purl.humanatlas.io/schema/omap
     required: true
   experiment:
     name: experiment
+    description: List of experiments referenced in the OMAP records.
+    title: experiment data
     from_schema: https://purl.humanatlas.io/schema/omap
     range: MultiplexedAntibodyBasedImagingExperiment
     required: true
     inlined: true
   cycles:
     name: cycles
+    description: List of experiment cycles referenced in the OMAP records.
+    title: cycle data
     from_schema: https://purl.humanatlas.io/schema/omap
     multivalued: true
     range: ExperimentCycle
     required: true
     inlined_as_list: true
-  core_antibody_panel:
-    name: core_antibody_panel
+  antibody_panel:
+    name: antibody_panel
+    description: List of antibodies in the panel referenced in the OMAP records.
+    title: antibody panel data
     from_schema: https://purl.humanatlas.io/schema/omap
-    range: CoreAntibodyPanel
+    range: AntibodyPanel
     required: true
     inlined: true
   concentration:
@@ -335,6 +345,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The concentration of the antibody used in the experiment.
+    title: concentration
     from_schema: https://purl.humanatlas.io/schema/omap
     range: float
     required: false
@@ -344,6 +356,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The dilution factor applied to the antibody in the experiment.
+    title: dilution
     from_schema: https://purl.humanatlas.io/schema/omap
     range: integer
     required: false
@@ -353,6 +367,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Specifies if the antibody is part of the core panel for the experiment.
+    title: is core panel?
     from_schema: https://purl.humanatlas.io/schema/omap
     range: boolean
     required: true
@@ -362,6 +378,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: References to the experiment where the antibody was used.
+    title: is used by experiment
     from_schema: https://purl.humanatlas.io/schema/omap
     range: uriorcurie
     required: true
@@ -371,6 +389,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A substance attached to the antibody to aid in detection, such as
+      a fluorescent marker.
+    title: conjugate
     from_schema: https://purl.humanatlas.io/schema/omap
     required: false
   fluorescent:
@@ -379,6 +400,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Indicates whether the antibody is fluorescently labeled.
+    title: is fluorescent?
     from_schema: https://purl.humanatlas.io/schema/omap
     required: false
   based_on:
@@ -387,16 +410,20 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the antibody on which this instance is based.
+    title: based on
     from_schema: https://purl.humanatlas.io/schema/omap
     range: RegisteredAntibody
     required: true
     inlined: true
-  method:
-    name: method
+  study_method:
+    name: study_method
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The study method used in the experiment involving the antibody.
+    title: study method
     from_schema: https://purl.humanatlas.io/schema/omap
     required: true
   tissue_preservation:
@@ -405,6 +432,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Method used on the tissue to preserve it prior to analysis.
+    title: tissue preservation method
     from_schema: https://purl.humanatlas.io/schema/omap
     required: true
   protocol_doi:
@@ -413,6 +442,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference DOI for the experimental protocol used.
+    title: protocol DOI
     from_schema: https://purl.humanatlas.io/schema/omap
     multivalued: true
     range: uriorcurie
@@ -424,6 +455,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the author by the ORCID identifier.
+    title: author ORCID
     from_schema: https://purl.humanatlas.io/schema/omap
     multivalued: true
     range: uriorcurie
@@ -435,6 +468,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A reference to the experimental cycles within which the antibody
+      was used.
+    title: has cycle
     from_schema: https://purl.humanatlas.io/schema/omap
     multivalued: true
     range: uriorcurie
@@ -446,6 +482,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The anatomical structure or organ sampled in the experiment.
+    title: sample organ
     from_schema: https://purl.humanatlas.io/schema/omap
     range: AnatomicalStructure
     required: true
@@ -455,27 +493,36 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The specific cycle number within the experiment where the antibody
+      was used.
+    title: cycle number
     from_schema: https://purl.humanatlas.io/schema/omap
     range: integer
     required: true
-  uses_antibody:
-    name: uses_antibody
+  uses_antibodies:
+    name: uses_antibodies
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the antibodies applied in each experiment cycle.
+    title: uses antibody
     from_schema: https://purl.humanatlas.io/schema/omap
+    slot_uri: ccf:uses_antibody
     multivalued: true
     range: ExperimentUsedAntibody
     required: true
     inlined_as_list: true
-  has_antibody_component:
-    name: has_antibody_component
+  contains_antibodies:
+    name: contains_antibodies
     annotations:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the antibodies that are part of the core antibody panel.
+    title: contains antibody
     from_schema: https://purl.humanatlas.io/schema/omap
+    slot_uri: ccf:contains_antibody
     multivalued: true
     range: ExperimentUsedAntibody
     required: true
@@ -486,6 +533,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The unique identifier for the specific clone of the antibody.
+    title: clone identifier
     from_schema: https://purl.humanatlas.io/schema/omap
     required: false
   lot_number:
@@ -494,6 +543,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The lot number associated with a particular batch of the antibody.
+    title: lot number
     from_schema: https://purl.humanatlas.io/schema/omap
     required: false
   catalog_number:
@@ -502,6 +553,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The catalog number associated with the antibody in the supplier's
+      catalog.
+    title: catalog number
     from_schema: https://purl.humanatlas.io/schema/omap
     required: true
   host:
@@ -510,6 +564,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The host organism in which the antibody was produced.
+    title: host
     from_schema: https://purl.humanatlas.io/schema/omap
     required: true
   isotype:
@@ -518,6 +574,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Classifies the antibody by isotype.
+    title: isotype
     from_schema: https://purl.humanatlas.io/schema/omap
     required: false
   clonality:
@@ -526,6 +584,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Indicates whether the antibody is monoclonal or polyclonal.
+    title: clonality
     from_schema: https://purl.humanatlas.io/schema/omap
     required: false
   recombinant:
@@ -534,6 +594,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Indicates if the antibody was created through recombinant DNA technology.
+    title: recombinant
     from_schema: https://purl.humanatlas.io/schema/omap
     required: true
   producer:
@@ -542,7 +604,10 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The manufacturer or producer of the antibody.
+    title: antibody manufacturer
     from_schema: https://purl.humanatlas.io/schema/omap
+    slot_uri: ccf:antibody_manufacturer
     required: false
   detects:
     name: detects
@@ -550,6 +615,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the proteins or antigens that the antibody can detect.
+    title: detects
     from_schema: https://purl.humanatlas.io/schema/omap
     multivalued: true
     range: DetectStatement
@@ -557,6 +624,8 @@ slots:
     inlined_as_list: true
   protein_id:
     name: protein_id
+    description: Reference to the protein.
+    title: protein identifier
     from_schema: https://purl.humanatlas.io/schema/omap
     multivalued: true
     range: Protein
@@ -568,6 +637,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Reference to the secondary antibodies or molecules that this antibody
+      binds to.
+    title: binds to
     from_schema: https://purl.humanatlas.io/schema/omap
     multivalued: true
     range: BindsToStatement
@@ -575,15 +647,22 @@ slots:
     inlined_as_list: true
   antibody_id:
     name: antibody_id
+    description: Reference to the antibody concept.
+    title: antibody identifier
     from_schema: https://purl.humanatlas.io/schema/omap
     range: Antibody
     required: true
   rationale:
     name: rationale
+    description: The justification or purpose behind the use of the antibody in the
+      experiment.
+    title: rationale
     from_schema: https://purl.humanatlas.io/schema/omap
     required: true
   id:
     name: id
+    description: A unique identifier for the entity
+    title: concept identifier
     from_schema: https://purl.humanatlas.io/schema/omap
     identifier: true
     range: uriorcurie
@@ -594,6 +673,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A human-readable label or name associated with the entity.
+    title: concept label
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: rdfs:label
     required: true
@@ -603,11 +684,15 @@ slots:
       owl:
         tag: owl
         value: SubClassOf
+    description: Specifies the parent or superclass of the entity.
+    title: subclass of
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: rdfs:subClassOf
     range: uriorcurie
   conforms_to:
     name: conforms_to
+    description: Indicates the type or specification that the entity adheres to.
+    title: conforms to
     from_schema: https://purl.humanatlas.io/schema/omap
     designates_type: true
   type_of:
@@ -616,6 +701,8 @@ slots:
       owl:
         tag: owl
         value: ClassAssertion
+    description: Defines the class type that this instance belongs to.
+    title: type of
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: rdf:type
     multivalued: true
@@ -626,6 +713,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An available distribution of the dataset.
+    title: dataset distribution
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dcat:distribution
     multivalued: true
@@ -637,6 +726,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The URL of the downloadable file in a given format.
+    title: download URL
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dcat:downloadURL
     range: uri
@@ -646,6 +737,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A URL of the resource that gives access to a distribution of the
+      dataset. E.g. landing page, feed, SPARQL endpoint.
+    title: access URL
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dcat:accessURL
     range: uri
@@ -655,6 +749,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The media type of the distribution as defined by IANA.
+    title: media type
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dcat:mediaType
   was_derived_from:
@@ -663,17 +759,29 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.
+    title: was derived from
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: prov:wasDerivedFrom
     range: Dataset
     inlined: true
   derived_from:
     name: derived_from
+    description: 'A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.    '
+    title: was derived from
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: prov:wasDerivedFrom
     range: uriorcurie
   had_member:
     name: had_member
+    description: A collection is an entity that provides a structure to some  constituents,
+      which are themselves entities. These constituents  are said to be member of
+      the collections.
+    title: had member
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: prov:hadMember
     multivalued: true
@@ -681,18 +789,27 @@ slots:
     inlined_as_list: true
   title:
     name: title
+    description: A name given to the resource.
+    title: title
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dct:title
   description:
     name: description
+    description: An account of the resource.
+    title: description
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dct:description
   license:
     name: license
+    description: A legal document giving official permission to do something  with
+      the resource.
+    title: license
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dct:license
   publisher:
     name: publisher
+    description: An entity responsible for making the resource available.
+    title: publisher
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dct:publisher
   create_date:
@@ -701,6 +818,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Date of creation of the resource.
+    title: date created
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dct:created
     range: date
@@ -710,6 +829,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dct:creator
   creators:
@@ -718,6 +839,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dct:creator
     multivalued: true
@@ -725,6 +848,8 @@ slots:
     inlined_as_list: true
   created_by:
     name: created_by
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: dct:creator
     multivalued: true
@@ -732,8 +857,11 @@ slots:
     inlined_as_list: true
   references:
     name: references
+    description: A related resource that is referenced, cited, or otherwise  pointed
+      to by the described resource.
+    title: references
     from_schema: https://purl.humanatlas.io/schema/omap
-    slot_uri: dct:reference
+    slot_uri: dct:references
     multivalued: true
     range: string
     inlined_as_list: true
@@ -743,10 +871,14 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The subject matter of the content.
+    title: about
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:about
   version:
     name: version
+    description: The version of the CreativeWork embodied by a specified  resource.
+    title: version
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:version
   name:
@@ -755,6 +887,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The name of the item.
+    title: name
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:name
   type:
@@ -763,6 +897,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'An additional type for the item, typically used for  adding more
+      specific types from external vocabularies  in microdata syntax. '
+    title: type
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:additionalType
   fullName:
@@ -771,6 +908,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The full name of a person.
+    title: full name
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:name
   firstName:
@@ -779,6 +918,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Given name. In the U.S., the first name of a person.
+    title: first name
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:givenName
   lastName:
@@ -787,6 +928,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Family name. In the U.S., the last name of a person.
+    title: last name
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:familyName
   orcid:
@@ -795,6 +938,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: ORCID identifier.
+    title: orcid
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:identifier
     pattern: ^(\d{4}-){3}\d{3}(\d|X)$
@@ -804,6 +949,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A person or organization that supports (sponsors)  something through
+      some kind of financial contribution.
+    title: funder
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:funder
   awardNumber:
@@ -812,6 +960,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An award won by or for this item.
+    title: award
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:award
   citation:
@@ -820,10 +970,16 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A citation or reference to another creative work, such  as another
+      publication, web page, scholarly article, etc.
+    title: citation
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:citation
   creation_date:
     name: creation_date
+    description: The date on which the CreativeWork was created or the  item was added
+      to a DataFeed.
+    title: created date
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:dateCreated
   propertyId:
@@ -832,6 +988,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'A commonly used identifier for the characteristic  represented by
+      the property, e.g. a manufacturer or a  standard code for a property. '
+    title: property ID
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:propertyID
   value:
@@ -840,6 +999,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The value of a property value node.
+    title: value
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:value
   reviewers:
@@ -848,6 +1009,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: People or organizations that have reviewed the  content on this web
+      page for accuracy and/or  completeness.
+    title: reviewer
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:reviewedBy
     multivalued: true
@@ -859,6 +1023,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A Grant that directly or indirectly provide  funding or sponsorship
+      for this item.
+    title: funding
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:funding
     multivalued: true
@@ -870,6 +1037,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Target Operating System / Product to which  the code applies. If
+      applies to several versions,  just the product name can be used.
+    title: target product
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:targetProduct
     range: SoftwareSourceCode
@@ -879,6 +1049,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Link to the repository where the un-compiled,  human readable code
+      and related code is located  (SVN, GitHub, CodePlex).
+    title: code repository
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: schema:codeRepository
     range: uriorcurie
@@ -888,10 +1061,15 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A string giving information about this version.
+    title: version info
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: owl:versionInfo
   see_also:
     name: see_also
+    description: A reference used to indicate a resource that might  provide additional
+      information about the subject resource.
+    title: see also
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: rdfs:seeAlso
     range: uriorcurie
@@ -901,10 +1079,14 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    title: preferred label
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: skos:prefLabel
   ontology_root:
     name: ontology_root
+    description: 'Relates an ontology to a term that is a designated  root term of
+      the ontology. '
+    title: has ontology root term
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: obo:IAO_0000700
     multivalued: true
@@ -915,6 +1097,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: HuBMAP identifier.
+    title: HuBMAP identifier
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: ccf:hubmap_id
   doi:
@@ -923,6 +1107,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A DOI, or Digital Object Identifier, is a  unique string of numbers,
+      letters, and symbols  that identifies a specific publication.
+    title: DOI
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: ccf:doi
     range: uriorcurie
@@ -932,6 +1119,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A written reference to a source, such as a  book, article, or website,
+      that identifies  the original source of information in a work.
+    title: citation
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: ccf:citation_overall
   datatable:
@@ -940,6 +1130,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A list of table resources.
+    title: data table
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: ccf:data_table
     multivalued: true
@@ -949,6 +1141,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'A person who is responsible for leading a project  or a specific
+      aspect of a project, including planning, implementation, and tracking. '
+    title: project lead
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: ccf:project_lead
     multivalued: true
@@ -960,6 +1155,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An independent expert from outside an organization  who provides
+      critical feedback and evaluation on  a program, project, or proposal.
+    title: external reviewer
     from_schema: https://purl.humanatlas.io/schema/omap
     slot_uri: ccf:external_reviewer
     multivalued: true
@@ -977,6 +1175,11 @@ classes:
           {% endfor %}\n{% for statement in binds_to %}\nAnnotationAssertion(\n  Annotation(ccf:rationale\
           \ \"{{statement.rationale}}\")\n  ccf:binds_to\n  {{id}}\n  {{statement.antibody_id}}\n\
           )\n{% endfor %}"
+    description: An antibody is a protein produced by the immune system or engineered  in
+      the lab that specifically binds to a target molecule, such as a  protein or
+      antigen on a cell, and is widely used for identifying,  labeling, or isolating
+      specific cell types or biomarkers.
+    title: Antibody
     from_schema: https://purl.humanatlas.io/schema/omap
     slots:
     - id
@@ -1006,6 +1209,11 @@ classes:
         pattern: (Primary|Secondary)
   Protein:
     name: Protein
+    description: a protein is a biological macromolecule composed of amino  acids
+      that performs essential functions, such as providing  structure, facilitating
+      biochemical reactions (enzymes),  signaling, transport, and regulating cellular
+      processes.
+    title: Protein
     from_schema: https://purl.humanatlas.io/schema/omap
     slots:
     - id
@@ -1019,18 +1227,30 @@ classes:
           partial_match: false
   DetectStatement:
     name: DetectStatement
+    description: A description of an antibody that identifies and binds  specifically
+      to a target protein.
+    title: Detect Statement
     from_schema: https://purl.humanatlas.io/schema/omap
     slots:
     - protein_id
     - rationale
   BindsToStatement:
     name: BindsToStatement
+    description: A description of an antibody that binds specifically to a  secondary
+      antibody, typically as part of a detection or  amplification process in experimental
+      assays.
+    title: Binds-to Statement
     from_schema: https://purl.humanatlas.io/schema/omap
     slots:
     - antibody_id
     - rationale
   ExperimentUsedAntibody:
     name: ExperimentUsedAntibody
+    description: An experiment-used antibody is a detailed record of an antibody  utilized
+      in a specific experiment, including information about  its concentration and
+      dilution, the cycle or stage in which it  was applied, the experiment where
+      it was used, and the primary  antibody it is derived from or based on.
+    title: Experiment-used Antibody
     from_schema: https://purl.humanatlas.io/schema/omap
     mixins:
     - Named
@@ -1045,6 +1265,10 @@ classes:
     class_uri: ccf:ExperimentUsedAntibody
   RegisteredAntibody:
     name: RegisteredAntibody
+    description: A registered antibody is an antibody with documented information,  including
+      its factory-assigned lot number, ensuring traceability  and consistency for
+      use in experiments or applications.
+    title: Registered Antibody
     from_schema: https://purl.humanatlas.io/schema/omap
     mixins:
     - Named
@@ -1053,12 +1277,16 @@ classes:
     - lot_number
   MultiplexedAntibodyBasedImagingExperiment:
     name: MultiplexedAntibodyBasedImagingExperiment
+    description: A Multiplexed Antibody-based Imaging Experiment is a technique that  uses
+      multiple antibodies, each tagged with distinct markers or labels, to simultaneously
+      visualize and analyze multiple proteins or biomarkers  within a single sample.
+    title: Mutliplexed Antibody-based Imaging Experiment
     from_schema: https://purl.humanatlas.io/schema/omap
     mixins:
     - Named
     - Instance
     slots:
-    - method
+    - study_method
     - tissue_preservation
     - protocol_doi
     - author_orcid
@@ -1082,23 +1310,31 @@ classes:
     class_uri: ccf:MultiplexedAntibodyBasedImagingExperiment
   ExperimentCycle:
     name: ExperimentCycle
+    description: An experiment cycle refers to a single round of staining, imaging,  and
+      data acquisition for a specific set of antibodies, repeated  iteratively to
+      detect multiple targets within the same sample.
+    title: Experiment Cycle
     from_schema: https://purl.humanatlas.io/schema/omap
     mixins:
     - Named
     - Instance
     slots:
     - cycle_number
-    - uses_antibody
+    - uses_antibodies
     class_uri: ccf:ExperimentCycle
-  CoreAntibodyPanel:
-    name: CoreAntibodyPanel
+  AntibodyPanel:
+    name: AntibodyPanel
+    description: An antibody panel is a curated set of antibodies selected for a  specific
+      experiment or analysis, designed to target multiple  proteins or biomarkers
+      of interest simultaneously, often in  multiplexed assays or imaging studies.
+    title: Antibody Panel
     from_schema: https://purl.humanatlas.io/schema/omap
     mixins:
     - Named
     - Instance
     slots:
-    - has_antibody_component
-    class_uri: ccf:CoreAntibodyPanel
+    - contains_antibodies
+    class_uri: ccf:AntibodyPanel
   AnatomicalStructure:
     name: AnatomicalStructure
     from_schema: https://purl.humanatlas.io/schema/omap
@@ -1114,14 +1350,18 @@ classes:
           partial_match: false
   OmapDataset:
     name: OmapDataset
+    description: The data section for the "omap" digital object.
+    title: OMAP Data
     from_schema: https://purl.humanatlas.io/schema/omap
     slots:
     - antibody
     - experiment
     - cycles
-    - core_antibody_panel
+    - antibody_panel
   OmapMetadata:
     name: OmapMetadata
+    description: The metadata section for the "omap" digital object.
+    title: OMAP Metadata
     from_schema: https://purl.humanatlas.io/schema/omap
     slots:
     - title

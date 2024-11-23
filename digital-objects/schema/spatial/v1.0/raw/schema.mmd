@@ -1,0 +1,58 @@
+erDiagram
+Container {
+    string iri  
+    string metadata  
+}
+SpatialData {
+    string donor  
+    string sample  
+    string dataset  
+    string cell_summary  
+    string collision  
+    string corridor  
+}
+SpatialEntity {
+    string pref_label  
+    string creator_name  
+    date create_date  
+    float x_dimension  
+    float y_dimension  
+    float z_dimension  
+    string dimension_unit  
+    uriorcurieList collides_with  
+    integer slice_count  
+    integer slice_thickness  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+SpatialPlacement {
+    uriorcurie target  
+    date placement_date  
+    float x_scaling  
+    float y_scaling  
+    float z_scaling  
+    string scaling_unit  
+    float x_rotation  
+    float y_rotation  
+    float z_rotation  
+    string rotation_unit  
+    string rotation_order  
+    float x_translation  
+    float y_translation  
+    float z_translation  
+    string translation_unit  
+    uriorcurie id  
+    string label  
+}
+
+Container ||--|o SpatialData : "data"
+SpatialData ||--}o SpatialEntity : "spatial_entity"
+SpatialEntity ||--|| SpatialPlacement : "placement"
+SpatialEntity ||--}o Named : "type_of"
+SpatialPlacement ||--|o SpatialEntity : "source"
+SpatialPlacement ||--}o Named : "type_of"
+

@@ -25,6 +25,7 @@ ExtractionSet {
     string label  
 }
 SpatialPlacement {
+    uriorcurie target  
     date placement_date  
     float x_scaling  
     float y_scaling  
@@ -81,7 +82,6 @@ SpatialEntity ||--|o ExtractionSet : "extraction_set"
 SpatialEntity ||--}o Named : "type_of"
 ExtractionSet ||--|| SpatialEntity : "extraction_set_for"
 ExtractionSet ||--}o Named : "type_of"
-SpatialPlacement ||--|| SpatialEntity : "target"
 SpatialPlacement ||--|o SpatialEntity : "source"
 SpatialPlacement ||--}o Named : "type_of"
 SpatialObjectReference ||--|| SpatialPlacement : "placement"

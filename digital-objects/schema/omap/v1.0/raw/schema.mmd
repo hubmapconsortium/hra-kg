@@ -5,7 +5,7 @@ Container {
 OmapDataset {
 
 }
-CoreAntibodyPanel {
+AntibodyPanel {
     uriorcurie id  
     string label  
 }
@@ -33,7 +33,7 @@ ExperimentCycle {
     string label  
 }
 MultiplexedAntibodyBasedImagingExperiment {
-    string method  
+    string study_method  
     string tissue_preservation  
     uriorcurieList protocol_doi  
     uriorcurieList author_orcid  
@@ -84,13 +84,13 @@ Container ||--|o OmapDataset : "data"
 OmapDataset ||--}| Antibody : "antibody"
 OmapDataset ||--|| MultiplexedAntibodyBasedImagingExperiment : "experiment"
 OmapDataset ||--}| ExperimentCycle : "cycles"
-OmapDataset ||--|| CoreAntibodyPanel : "core_antibody_panel"
-CoreAntibodyPanel ||--}| ExperimentUsedAntibody : "has_antibody_component"
-CoreAntibodyPanel ||--}o Named : "type_of"
+OmapDataset ||--|| AntibodyPanel : "antibody_panel"
+AntibodyPanel ||--}| ExperimentUsedAntibody : "contains_antibodies"
+AntibodyPanel ||--}o Named : "type_of"
 ExperimentUsedAntibody ||--|| RegisteredAntibody : "based_on"
 ExperimentUsedAntibody ||--}o Named : "type_of"
 RegisteredAntibody ||--}o Named : "type_of"
-ExperimentCycle ||--}| ExperimentUsedAntibody : "uses_antibody"
+ExperimentCycle ||--}| ExperimentUsedAntibody : "uses_antibodies"
 ExperimentCycle ||--}o Named : "type_of"
 MultiplexedAntibodyBasedImagingExperiment ||--|| AnatomicalStructure : "sample_organ"
 MultiplexedAntibodyBasedImagingExperiment ||--}o Named : "type_of"

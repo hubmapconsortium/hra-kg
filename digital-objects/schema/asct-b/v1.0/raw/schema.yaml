@@ -315,30 +315,41 @@ types:
 slots:
   anatomical_structures:
     name: anatomical_structures
+    description: List of anatomical structures referenced in the ASCT+B records.
+    title: anatomical structure data
     from_schema: https://purl.humanatlas.io/schema/asct-b
     multivalued: true
     range: AnatomicalStructure
     inlined_as_list: true
   cell_types:
     name: cell_types
+    description: List of cell types referenced in the ASCT+B records.
+    title: cell type data
     from_schema: https://purl.humanatlas.io/schema/asct-b
     multivalued: true
     range: CellType
     inlined_as_list: true
   biomarkers:
     name: biomarkers
+    description: List of biomarkers (i.e., gene, protein, lipid, metabolites, proteoforms)  referenced
+      in the ASCT+B records.
+    title: biomarker data
     from_schema: https://purl.humanatlas.io/schema/asct-b
     multivalued: true
     range: Biomarker
     inlined_as_list: true
   asctb_record:
     name: asctb_record
+    description: Records containing ASCT+B concepts and related data.
+    title: ASCT+B record
     from_schema: https://purl.humanatlas.io/schema/asct-b
     multivalued: true
     range: AsctbRecord
     inlined_as_list: true
   cell_marker_descriptor:
     name: cell_marker_descriptor
+    description: Descriptors for cell markers within the ASCT+B dataset.
+    title: cell marker descriptor
     from_schema: https://purl.humanatlas.io/schema/asct-b
     multivalued: true
     range: CellMarkerDescriptor
@@ -349,17 +360,24 @@ slots:
       owl:
         tag: owl
         value: SomeValuesFrom
+    description: Biomarkers that are members of a characterizing marker set.
+    title: contains biomarker
     from_schema: https://purl.humanatlas.io/schema/asct-b
+    slot_uri: ccf:contains_biomarker
     multivalued: true
     range: Biomarker
   has_characterizing_marker_set:
     name: has_characterizing_marker_set
+    description: Sets of markers characterizing a specific cell type.
+    title: has characterizing marker set
     from_schema: https://purl.humanatlas.io/schema/asct-b
     multivalued: true
     range: CharacterizingMarkerSet
     required: false
   id:
     name: id
+    description: Unique identifier for ASCT+B concepts.
+    title: concept identifier
     from_schema: https://purl.humanatlas.io/schema/asct-b
     identifier: true
     range: uriorcurie
@@ -370,6 +388,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Human-readable label or name for the concept.
+    title: label
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: rdfs:label
     required: false
@@ -379,6 +399,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Specifies the preferred label of a concept.
+    title: preferred label
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:ccf_pref_label
     required: true
@@ -388,6 +410,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Data category classification within the ASCT+B framework.
+    title: asct+b type
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:ccf_asctb_type
     required: true
@@ -397,6 +421,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Flag indicating whether the concept is in provisional status.
+    title: is provisional?
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:ccf_is_provisional
     range: boolean
@@ -407,6 +433,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Defines part-whole relationships within anatomical structures.
+    title: part of
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:ccf_part_of
     multivalued: true
@@ -418,6 +446,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Specifies the anatomical location of a cell type.
+    title: located in
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:ccf_located_in
     multivalued: true
@@ -429,6 +459,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Specifies subclass relationships for cell types.
+    title: parent cell type
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:ccf_ct_isa
     multivalued: true
@@ -440,6 +472,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Type of biomarker as per the ASCT+B specification.
+    title: biomarker type
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:ccf_biomarker_type
     required: true
@@ -449,6 +483,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Source concept providing the origin of this record within the  ASCT+B
+      model.
+    title: source concept
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:source_concept
     range: AsctbConcept
@@ -459,6 +496,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Numerical identifier for individual records.
+    title: record number
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:record_number
     range: integer
@@ -469,6 +508,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Order position within a defined sequence.
+    title: order number
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:order_number
     range: integer
@@ -479,10 +520,12 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: List of anatomical structure instances related to ASCT+B records.
+    title: anatomical structure
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:anatomical_structure
     multivalued: true
-    range: AnatomicalStructureInstance
+    range: AnatomicalStructureRecord
     required: false
     inlined_as_list: true
   cell_type_list:
@@ -491,10 +534,12 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: List of cell type instances associated with ASCT+B records.
+    title: cell type
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:cell_type
     multivalued: true
-    range: CellTypeInstance
+    range: CellTypeRecord
     required: false
     inlined_as_list: true
   gene_marker_list:
@@ -503,10 +548,12 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: List of gene markers referenced within ASCT+B records.
+    title: gene marker
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:gene_marker
     multivalued: true
-    range: BiomarkerInstance
+    range: BiomarkerRecord
     required: false
     inlined_as_list: true
   protein_marker_list:
@@ -515,10 +562,12 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: List of protein markers referenced within ASCT+B records.
+    title: protein marker
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:protein_marker
     multivalued: true
-    range: BiomarkerInstance
+    range: BiomarkerRecord
     required: false
     inlined_as_list: true
   lipid_marker_list:
@@ -527,10 +576,12 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: List of lipid markers referenced within ASCT+B records.
+    title: lipid marker
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:lipid_marker
     multivalued: true
-    range: BiomarkerInstance
+    range: BiomarkerRecord
     required: false
     inlined_as_list: true
   metabolites_marker_list:
@@ -539,10 +590,12 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: List of metabolites markers referenced within ASCT+B records.
+    title: metabolite marker
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:metabolite_marker
     multivalued: true
-    range: BiomarkerInstance
+    range: BiomarkerRecord
     required: false
     inlined_as_list: true
   proteoforms_marker_list:
@@ -551,10 +604,12 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: List of proteoforms markers referenced within ASCT+B records.
+    title: proteoform marker
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:proteoform_marker
     multivalued: true
-    range: BiomarkerInstance
+    range: BiomarkerRecord
     required: false
     inlined_as_list: true
   primary_cell_type:
@@ -563,8 +618,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: The cell type in the cell marker descriptor.
+    title: primary cell type
     from_schema: https://purl.humanatlas.io/schema/asct-b
-    slot_uri: ccf:primary_cell_type
     range: CellType
     required: true
   primary_anatomical_structure:
@@ -573,8 +629,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: The anatomical structure in the cell marker descriptor.
+    title: primary anatomical structure
     from_schema: https://purl.humanatlas.io/schema/asct-b
-    slot_uri: ccf:primary_anatomical_structure
     range: AnatomicalStructure
     required: true
   biomarker_set:
@@ -583,21 +640,37 @@ slots:
       owl:
         tag: owl
         value: AnnotationAssertion, AnnotationProperty
+    description: Collection of characterizing biomarker set in the cell marker descriptor.
+    title: biomarker set
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:biomarker
     multivalued: true
     range: Biomarker
+  source_record:
+    name: source_record
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationAssertion, AnnotationProperty
+    description: Reference to the ASCT+B record that contains the actual information.
+    title: source record
+    from_schema: https://purl.humanatlas.io/schema/asct-b
+    range: AsctbRecord
   parent_class:
     name: parent_class
     annotations:
       owl:
         tag: owl
         value: SubClassOf
+    description: Specifies the parent or superclass of the entity.
+    title: subclass of
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: rdfs:subClassOf
     range: uriorcurie
   conforms_to:
     name: conforms_to
+    description: Indicates the type or specification that the entity adheres to.
+    title: conforms to
     from_schema: https://purl.humanatlas.io/schema/asct-b
     designates_type: true
   type_of:
@@ -606,6 +679,8 @@ slots:
       owl:
         tag: owl
         value: ClassAssertion
+    description: Defines the class type that this instance belongs to.
+    title: type of
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: rdf:type
     multivalued: true
@@ -616,6 +691,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An available distribution of the dataset.
+    title: dataset distribution
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dcat:distribution
     multivalued: true
@@ -627,6 +704,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The URL of the downloadable file in a given format.
+    title: download URL
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dcat:downloadURL
     range: uri
@@ -636,6 +715,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A URL of the resource that gives access to a distribution of the
+      dataset. E.g. landing page, feed, SPARQL endpoint.
+    title: access URL
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dcat:accessURL
     range: uri
@@ -645,6 +727,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The media type of the distribution as defined by IANA.
+    title: media type
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dcat:mediaType
   was_derived_from:
@@ -653,17 +737,29 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.
+    title: was derived from
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: prov:wasDerivedFrom
     range: Dataset
     inlined: true
   derived_from:
     name: derived_from
+    description: 'A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.    '
+    title: was derived from
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: prov:wasDerivedFrom
     range: uriorcurie
   had_member:
     name: had_member
+    description: A collection is an entity that provides a structure to some  constituents,
+      which are themselves entities. These constituents  are said to be member of
+      the collections.
+    title: had member
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: prov:hadMember
     multivalued: true
@@ -671,18 +767,27 @@ slots:
     inlined_as_list: true
   title:
     name: title
+    description: A name given to the resource.
+    title: title
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dct:title
   description:
     name: description
+    description: An account of the resource.
+    title: description
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dct:description
   license:
     name: license
+    description: A legal document giving official permission to do something  with
+      the resource.
+    title: license
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dct:license
   publisher:
     name: publisher
+    description: An entity responsible for making the resource available.
+    title: publisher
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dct:publisher
   create_date:
@@ -691,6 +796,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Date of creation of the resource.
+    title: date created
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dct:created
     range: date
@@ -700,6 +807,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dct:creator
   creators:
@@ -708,6 +817,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dct:creator
     multivalued: true
@@ -715,6 +826,8 @@ slots:
     inlined_as_list: true
   created_by:
     name: created_by
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: dct:creator
     multivalued: true
@@ -722,8 +835,11 @@ slots:
     inlined_as_list: true
   references:
     name: references
+    description: A related resource that is referenced, cited, or otherwise  pointed
+      to by the described resource.
+    title: references
     from_schema: https://purl.humanatlas.io/schema/asct-b
-    slot_uri: dct:reference
+    slot_uri: dct:references
     multivalued: true
     range: string
     inlined_as_list: true
@@ -733,10 +849,14 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The subject matter of the content.
+    title: about
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:about
   version:
     name: version
+    description: The version of the CreativeWork embodied by a specified  resource.
+    title: version
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:version
   name:
@@ -745,6 +865,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The name of the item.
+    title: name
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:name
   type:
@@ -753,6 +875,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'An additional type for the item, typically used for  adding more
+      specific types from external vocabularies  in microdata syntax. '
+    title: type
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:additionalType
   fullName:
@@ -761,6 +886,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The full name of a person.
+    title: full name
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:name
   firstName:
@@ -769,6 +896,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Given name. In the U.S., the first name of a person.
+    title: first name
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:givenName
   lastName:
@@ -777,6 +906,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Family name. In the U.S., the last name of a person.
+    title: last name
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:familyName
   orcid:
@@ -785,6 +916,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: ORCID identifier.
+    title: orcid
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:identifier
     pattern: ^(\d{4}-){3}\d{3}(\d|X)$
@@ -794,6 +927,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A person or organization that supports (sponsors)  something through
+      some kind of financial contribution.
+    title: funder
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:funder
   awardNumber:
@@ -802,6 +938,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An award won by or for this item.
+    title: award
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:award
   citation:
@@ -810,10 +948,16 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A citation or reference to another creative work, such  as another
+      publication, web page, scholarly article, etc.
+    title: citation
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:citation
   creation_date:
     name: creation_date
+    description: The date on which the CreativeWork was created or the  item was added
+      to a DataFeed.
+    title: created date
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:dateCreated
   propertyId:
@@ -822,6 +966,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'A commonly used identifier for the characteristic  represented by
+      the property, e.g. a manufacturer or a  standard code for a property. '
+    title: property ID
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:propertyID
   value:
@@ -830,6 +977,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The value of a property value node.
+    title: value
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:value
   reviewers:
@@ -838,6 +987,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: People or organizations that have reviewed the  content on this web
+      page for accuracy and/or  completeness.
+    title: reviewer
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:reviewedBy
     multivalued: true
@@ -849,6 +1001,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A Grant that directly or indirectly provide  funding or sponsorship
+      for this item.
+    title: funding
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:funding
     multivalued: true
@@ -860,6 +1015,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Target Operating System / Product to which  the code applies. If
+      applies to several versions,  just the product name can be used.
+    title: target product
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:targetProduct
     range: SoftwareSourceCode
@@ -869,6 +1027,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Link to the repository where the un-compiled,  human readable code
+      and related code is located  (SVN, GitHub, CodePlex).
+    title: code repository
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: schema:codeRepository
     range: uriorcurie
@@ -878,10 +1039,15 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A string giving information about this version.
+    title: version info
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: owl:versionInfo
   see_also:
     name: see_also
+    description: A reference used to indicate a resource that might  provide additional
+      information about the subject resource.
+    title: see also
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: rdfs:seeAlso
     range: uriorcurie
@@ -891,10 +1057,14 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    title: preferred label
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: skos:prefLabel
   ontology_root:
     name: ontology_root
+    description: 'Relates an ontology to a term that is a designated  root term of
+      the ontology. '
+    title: has ontology root term
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: obo:IAO_0000700
     multivalued: true
@@ -905,6 +1075,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: HuBMAP identifier.
+    title: HuBMAP identifier
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:hubmap_id
   doi:
@@ -913,6 +1085,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A DOI, or Digital Object Identifier, is a  unique string of numbers,
+      letters, and symbols  that identifies a specific publication.
+    title: DOI
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:doi
     range: uriorcurie
@@ -922,6 +1097,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A written reference to a source, such as a  book, article, or website,
+      that identifies  the original source of information in a work.
+    title: citation
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:citation_overall
   datatable:
@@ -930,6 +1108,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A list of table resources.
+    title: data table
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:data_table
     multivalued: true
@@ -939,6 +1119,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'A person who is responsible for leading a project  or a specific
+      aspect of a project, including planning, implementation, and tracking. '
+    title: project lead
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:project_lead
     multivalued: true
@@ -950,6 +1133,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An independent expert from outside an organization  who provides
+      critical feedback and evaluation on  a program, project, or proposal.
+    title: external reviewer
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slot_uri: ccf:external_reviewer
     multivalued: true
@@ -974,6 +1160,9 @@ classes:
       owl:
         tag: owl
         value: Class
+    description: An anatomical structure is a distinct biological entity, such as  an
+      organ or tissue with a defined form and function within an  organism.
+    title: Anatomical Structure
     from_schema: https://purl.humanatlas.io/schema/asct-b
     is_a: AsctbConcept
     slots:
@@ -995,10 +1184,13 @@ classes:
       owl.template:
         tag: owl.template
         value: "{% for s in has_characterizing_marker_set %}\nSubClassOf(\n  {% for\
-          \ r in s.references %}\n    Annotation(dct:reference \"{{r}}\")\n  {% endfor\
-          \ %}\n  {{id}}\n  ObjectSomeValuesFrom(\n    RO:0015004\n    ObjectIntersectionOf(\n\
+          \ r in s.references %}\n    Annotation(dct:reference \"{{r|e}}\")\n  {%\
+          \ endfor %}\n  {{id}}\n  ObjectSomeValuesFrom(\n    RO:0015004\n    ObjectIntersectionOf(\n\
           \      SO:0001260\n      {% for m in s.members %}\n        ObjectSomeValuesFrom(ccf:has_marker_component\
           \ {{m}})\n      {% endfor %}\n    )\n  )\n)\n{% endfor %}"
+    description: A cell type is a distinct classification of cells defined by  specific
+      structural, functional, and molecular characteristics  within an organism.
+    title: Cell Type
     from_schema: https://purl.humanatlas.io/schema/asct-b
     is_a: AsctbConcept
     slots:
@@ -1019,6 +1211,10 @@ classes:
       owl:
         tag: owl
         value: Class
+    description: A biomarker is a specific molecule or feature, such as a gene,  protein,
+      or surface marker, that uniquely identifies or  distinguishes a particular cell
+      type.
+    title: Biomarker
     from_schema: https://purl.humanatlas.io/schema/asct-b
     is_a: AsctbConcept
     slots:
@@ -1033,6 +1229,9 @@ classes:
           partial_match: false
   CharacterizingMarkerSet:
     name: CharacterizingMarkerSet
+    description: A characterizing marker set is a group of biomarkers used collectively  to
+      define and distinguish a specific cell type or state.
+    title: Characterizing Marker Set
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slots:
     - members
@@ -1043,6 +1242,10 @@ classes:
         range: string
   AsctbRecord:
     name: AsctbRecord
+    description: An ASCT+B record is a single row in the ASCT+B table that documents  anatomical
+      structures (AS), cell types (CT), and biomarkers (B),  providing a structured
+      representation of their relationships.
+    title: ASCT+B Record
     from_schema: https://purl.humanatlas.io/schema/asct-b
     mixins:
     - Named
@@ -1065,8 +1268,12 @@ classes:
             tag: owl
             value: AnnotationAssertion, AnnotationProperty
         range: string
-  AnatomicalStructureInstance:
-    name: AnatomicalStructureInstance
+  AnatomicalStructureRecord:
+    name: AnatomicalStructureRecord
+    description: An anatomical structure record represents a specific value  in the
+      ASCT+B table, located in the "AS" column, identified  by its row (record number)
+      and column (order number).
+    title: Anatomical Structure Record
     from_schema: https://purl.humanatlas.io/schema/asct-b
     mixins:
     - Named
@@ -1076,8 +1283,12 @@ classes:
     - source_concept
     - record_number
     - order_number
-  CellTypeInstance:
-    name: CellTypeInstance
+  CellTypeRecord:
+    name: CellTypeRecord
+    description: An cell type record represents a specific value in the ASCT+B table,  located
+      in the "CT" column, identified by its row (record number)  and column (order
+      number).
+    title: Cell Type Record
     from_schema: https://purl.humanatlas.io/schema/asct-b
     mixins:
     - Named
@@ -1087,8 +1298,12 @@ classes:
     - source_concept
     - record_number
     - order_number
-  BiomarkerInstance:
-    name: BiomarkerInstance
+  BiomarkerRecord:
+    name: BiomarkerRecord
+    description: An biomarker record represents a specific value in the ASCT+B table,  located
+      in the "B" column, identified by its row (record number) and  column (order
+      number).
+    title: Biomarker Record
     from_schema: https://purl.humanatlas.io/schema/asct-b
     mixins:
     - Named
@@ -1101,6 +1316,10 @@ classes:
     - order_number
   CellMarkerDescriptor:
     name: CellMarkerDescriptor
+    description: A cell marker descriptor is study-derived information about a set  of
+      biomarkers used to identify a specific cell type within a particular  tissue
+      location, supported by associated scientific references.
+    title: Cell Marker Descriptor
     from_schema: https://purl.humanatlas.io/schema/asct-b
     mixins:
     - Named
@@ -1110,7 +1329,7 @@ classes:
     - primary_anatomical_structure
     - biomarker_set
     - references
-    - derived_from
+    - source_record
     slot_usage:
       references:
         name: references
@@ -1119,15 +1338,10 @@ classes:
             tag: owl
             value: AnnotationAssertion, AnnotationProperty
         range: string
-      derived_from:
-        name: derived_from
-        annotations:
-          owl:
-            tag: owl
-            value: AnnotationAssertion, AnnotationProperty
-        range: AsctbRecord
   AsctbDataset:
     name: AsctbDataset
+    description: The data section for the "asct-b" digital object.
+    title: ASCT+B Data
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slots:
     - anatomical_structures
@@ -1137,6 +1351,8 @@ classes:
     - cell_marker_descriptor
   AsctbMetadata:
     name: AsctbMetadata
+    description: The metadata section for the "asct-b" digital object.
+    title: ASCT+B Metadata
     from_schema: https://purl.humanatlas.io/schema/asct-b
     slots:
     - title

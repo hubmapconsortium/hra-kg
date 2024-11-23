@@ -20,7 +20,7 @@ AsctbRecord {
     uriorcurie id  
     string label  
 }
-BiomarkerInstance {
+BiomarkerRecord {
     string ccf_pref_label  
     string ccf_biomarker_type  
     integer record_number  
@@ -37,14 +37,14 @@ AsctbConcept {
     string ccf_asctb_type  
     boolean ccf_is_provisional  
 }
-CellTypeInstance {
+CellTypeRecord {
     string ccf_pref_label  
     integer record_number  
     integer order_number  
     uriorcurie id  
     string label  
 }
-AnatomicalStructureInstance {
+AnatomicalStructureRecord {
     string ccf_pref_label  
     integer record_number  
     integer order_number  
@@ -104,22 +104,22 @@ AsctbDataset ||--}o CellMarkerDescriptor : "cell_marker_descriptor"
 CellMarkerDescriptor ||--|| CellType : "primary_cell_type"
 CellMarkerDescriptor ||--|| AnatomicalStructure : "primary_anatomical_structure"
 CellMarkerDescriptor ||--}o Biomarker : "biomarker_set"
-CellMarkerDescriptor ||--|o AsctbRecord : "derived_from"
+CellMarkerDescriptor ||--|o AsctbRecord : "source_record"
 CellMarkerDescriptor ||--}o Named : "type_of"
-AsctbRecord ||--}o AnatomicalStructureInstance : "anatomical_structure_list"
-AsctbRecord ||--}o CellTypeInstance : "cell_type_list"
-AsctbRecord ||--}o BiomarkerInstance : "gene_marker_list"
-AsctbRecord ||--}o BiomarkerInstance : "protein_marker_list"
-AsctbRecord ||--}o BiomarkerInstance : "lipid_marker_list"
-AsctbRecord ||--}o BiomarkerInstance : "metabolites_marker_list"
-AsctbRecord ||--}o BiomarkerInstance : "proteoforms_marker_list"
+AsctbRecord ||--}o AnatomicalStructureRecord : "anatomical_structure_list"
+AsctbRecord ||--}o CellTypeRecord : "cell_type_list"
+AsctbRecord ||--}o BiomarkerRecord : "gene_marker_list"
+AsctbRecord ||--}o BiomarkerRecord : "protein_marker_list"
+AsctbRecord ||--}o BiomarkerRecord : "lipid_marker_list"
+AsctbRecord ||--}o BiomarkerRecord : "metabolites_marker_list"
+AsctbRecord ||--}o BiomarkerRecord : "proteoforms_marker_list"
 AsctbRecord ||--}o Named : "type_of"
-BiomarkerInstance ||--|| AsctbConcept : "source_concept"
-BiomarkerInstance ||--}o Named : "type_of"
-CellTypeInstance ||--|| AsctbConcept : "source_concept"
-CellTypeInstance ||--}o Named : "type_of"
-AnatomicalStructureInstance ||--|| AsctbConcept : "source_concept"
-AnatomicalStructureInstance ||--}o Named : "type_of"
+BiomarkerRecord ||--|| AsctbConcept : "source_concept"
+BiomarkerRecord ||--}o Named : "type_of"
+CellTypeRecord ||--|| AsctbConcept : "source_concept"
+CellTypeRecord ||--}o Named : "type_of"
+AnatomicalStructureRecord ||--|| AsctbConcept : "source_concept"
+AnatomicalStructureRecord ||--}o Named : "type_of"
 AnatomicalStructure ||--}o AnatomicalStructure : "ccf_part_of"
 CellType ||--}o CellType : "ccf_ct_isa"
 CellType ||--}o AnatomicalStructure : "ccf_located_in"

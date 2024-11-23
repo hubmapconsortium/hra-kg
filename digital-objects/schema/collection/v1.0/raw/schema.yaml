@@ -285,6 +285,8 @@ types:
 slots:
   id:
     name: id
+    description: A unique identifier for the entity
+    title: concept identifier
     from_schema: https://purl.humanatlas.io/schema/collection
     identifier: true
     range: uriorcurie
@@ -295,6 +297,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A human-readable label or name associated with the entity.
+    title: concept label
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: rdfs:label
     required: true
@@ -304,11 +308,15 @@ slots:
       owl:
         tag: owl
         value: SubClassOf
+    description: Specifies the parent or superclass of the entity.
+    title: subclass of
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: rdfs:subClassOf
     range: uriorcurie
   conforms_to:
     name: conforms_to
+    description: Indicates the type or specification that the entity adheres to.
+    title: conforms to
     from_schema: https://purl.humanatlas.io/schema/collection
     designates_type: true
   type_of:
@@ -317,6 +325,8 @@ slots:
       owl:
         tag: owl
         value: ClassAssertion
+    description: Defines the class type that this instance belongs to.
+    title: type of
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: rdf:type
     multivalued: true
@@ -327,6 +337,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An available distribution of the dataset.
+    title: dataset distribution
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dcat:distribution
     multivalued: true
@@ -338,6 +350,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The URL of the downloadable file in a given format.
+    title: download URL
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dcat:downloadURL
     range: uri
@@ -347,6 +361,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A URL of the resource that gives access to a distribution of the
+      dataset. E.g. landing page, feed, SPARQL endpoint.
+    title: access URL
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dcat:accessURL
     range: uri
@@ -356,6 +373,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The media type of the distribution as defined by IANA.
+    title: media type
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dcat:mediaType
   was_derived_from:
@@ -364,17 +383,29 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.
+    title: was derived from
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: prov:wasDerivedFrom
     range: Dataset
     inlined: true
   derived_from:
     name: derived_from
+    description: 'A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.    '
+    title: was derived from
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: prov:wasDerivedFrom
     range: uriorcurie
   had_member:
     name: had_member
+    description: A collection is an entity that provides a structure to some  constituents,
+      which are themselves entities. These constituents  are said to be member of
+      the collections.
+    title: had member
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: prov:hadMember
     multivalued: true
@@ -382,18 +413,27 @@ slots:
     inlined_as_list: true
   title:
     name: title
+    description: A name given to the resource.
+    title: title
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dct:title
   description:
     name: description
+    description: An account of the resource.
+    title: description
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dct:description
   license:
     name: license
+    description: A legal document giving official permission to do something  with
+      the resource.
+    title: license
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dct:license
   publisher:
     name: publisher
+    description: An entity responsible for making the resource available.
+    title: publisher
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dct:publisher
   create_date:
@@ -402,6 +442,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Date of creation of the resource.
+    title: date created
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dct:created
     range: date
@@ -411,6 +453,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dct:creator
   creators:
@@ -419,6 +463,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dct:creator
     multivalued: true
@@ -426,6 +472,8 @@ slots:
     inlined_as_list: true
   created_by:
     name: created_by
+    description: An entity responsible for making the resource.
+    title: creator
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: dct:creator
     multivalued: true
@@ -433,8 +481,11 @@ slots:
     inlined_as_list: true
   references:
     name: references
+    description: A related resource that is referenced, cited, or otherwise  pointed
+      to by the described resource.
+    title: references
     from_schema: https://purl.humanatlas.io/schema/collection
-    slot_uri: dct:reference
+    slot_uri: dct:references
     multivalued: true
     range: string
     inlined_as_list: true
@@ -444,10 +495,14 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The subject matter of the content.
+    title: about
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:about
   version:
     name: version
+    description: The version of the CreativeWork embodied by a specified  resource.
+    title: version
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:version
   name:
@@ -456,6 +511,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The name of the item.
+    title: name
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:name
   type:
@@ -464,6 +521,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'An additional type for the item, typically used for  adding more
+      specific types from external vocabularies  in microdata syntax. '
+    title: type
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:additionalType
   fullName:
@@ -472,6 +532,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The full name of a person.
+    title: full name
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:name
   firstName:
@@ -480,6 +542,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Given name. In the U.S., the first name of a person.
+    title: first name
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:givenName
   lastName:
@@ -488,6 +552,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Family name. In the U.S., the last name of a person.
+    title: last name
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:familyName
   orcid:
@@ -496,6 +562,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: ORCID identifier.
+    title: orcid
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:identifier
     pattern: ^(\d{4}-){3}\d{3}(\d|X)$
@@ -505,6 +573,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A person or organization that supports (sponsors)  something through
+      some kind of financial contribution.
+    title: funder
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:funder
   awardNumber:
@@ -513,6 +584,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An award won by or for this item.
+    title: award
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:award
   citation:
@@ -521,10 +594,16 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A citation or reference to another creative work, such  as another
+      publication, web page, scholarly article, etc.
+    title: citation
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:citation
   creation_date:
     name: creation_date
+    description: The date on which the CreativeWork was created or the  item was added
+      to a DataFeed.
+    title: created date
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:dateCreated
   propertyId:
@@ -533,6 +612,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'A commonly used identifier for the characteristic  represented by
+      the property, e.g. a manufacturer or a  standard code for a property. '
+    title: property ID
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:propertyID
   value:
@@ -541,6 +623,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: The value of a property value node.
+    title: value
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:value
   reviewers:
@@ -549,6 +633,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: People or organizations that have reviewed the  content on this web
+      page for accuracy and/or  completeness.
+    title: reviewer
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:reviewedBy
     multivalued: true
@@ -560,6 +647,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A Grant that directly or indirectly provide  funding or sponsorship
+      for this item.
+    title: funding
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:funding
     multivalued: true
@@ -571,6 +661,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Target Operating System / Product to which  the code applies. If
+      applies to several versions,  just the product name can be used.
+    title: target product
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:targetProduct
     range: SoftwareSourceCode
@@ -580,6 +673,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: Link to the repository where the un-compiled,  human readable code
+      and related code is located  (SVN, GitHub, CodePlex).
+    title: code repository
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: schema:codeRepository
     range: uriorcurie
@@ -589,10 +685,15 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A string giving information about this version.
+    title: version info
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: owl:versionInfo
   see_also:
     name: see_also
+    description: A reference used to indicate a resource that might  provide additional
+      information about the subject resource.
+    title: see also
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: rdfs:seeAlso
     range: uriorcurie
@@ -602,10 +703,14 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    title: preferred label
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: skos:prefLabel
   ontology_root:
     name: ontology_root
+    description: 'Relates an ontology to a term that is a designated  root term of
+      the ontology. '
+    title: has ontology root term
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: obo:IAO_0000700
     multivalued: true
@@ -616,6 +721,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: HuBMAP identifier.
+    title: HuBMAP identifier
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: ccf:hubmap_id
   doi:
@@ -624,6 +731,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A DOI, or Digital Object Identifier, is a  unique string of numbers,
+      letters, and symbols  that identifies a specific publication.
+    title: DOI
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: ccf:doi
     range: uriorcurie
@@ -633,6 +743,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A written reference to a source, such as a  book, article, or website,
+      that identifies  the original source of information in a work.
+    title: citation
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: ccf:citation_overall
   datatable:
@@ -641,6 +754,8 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: A list of table resources.
+    title: data table
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: ccf:data_table
     multivalued: true
@@ -650,6 +765,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: 'A person who is responsible for leading a project  or a specific
+      aspect of a project, including planning, implementation, and tracking. '
+    title: project lead
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: ccf:project_lead
     multivalued: true
@@ -661,6 +779,9 @@ slots:
       owl:
         tag: owl
         value: AnnotationProperty, AnnotationAssertion
+    description: An independent expert from outside an organization  who provides
+      critical feedback and evaluation on  a program, project, or proposal.
+    title: external reviewer
     from_schema: https://purl.humanatlas.io/schema/collection
     slot_uri: ccf:external_reviewer
     multivalued: true
@@ -669,6 +790,8 @@ slots:
 classes:
   CollectionMetadata:
     name: CollectionMetadata
+    description: The metadata section for the "collection" digital object.
+    title: Collection Metadata
     from_schema: https://purl.humanatlas.io/schema/collection
     slots:
     - title
