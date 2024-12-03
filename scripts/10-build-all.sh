@@ -12,8 +12,9 @@ SKIP_BUILT_DOs="true"
 echo "Building Digital Objects..."
 echo
 
-for obj in $(do-processor list | grep -v '^collection' | sort); do
+for obj in $(do-processor list | grep -v '^collection' | shuf); do
   if [ "${SKIP_BUILT_DOs}" = "false" ] || [ ! -e dist/${obj}/graph.ttl ]; then
+    mkdir -p dist/${obj}
     queue_job "do-processor $PROCESSOR_OPTS build $BUILD_OPTS $CLEAN_DOs $obj"
   fi
 done
@@ -25,16 +26,6 @@ echo
 
 for obj in $(do-processor list | grep '^collection'); do
   do-processor $PROCESSOR_OPTS normalize $BUILD_OPTS $obj
+  do-processor $PROCESSOR_OPTS enrich $BUILD_OPTS $obj
+  do-processor $PROCESSOR_OPTS deploy $BUILD_OPTS $obj
 done
-
-for obj in $(do-processor list | grep '^collection'); do
-  queue_job "do-processor $PROCESSOR_OPTS enrich $BUILD_OPTS $obj"
-done
-
-wait_for_empty_queue
-
-for obj in $(do-processor list | grep '^collection'); do
-  queue_job "do-processor $PROCESSOR_OPTS deploy $BUILD_OPTS $obj"
-done
-
-wait_for_empty_queue
