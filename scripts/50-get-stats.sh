@@ -6,7 +6,7 @@ set -ev
 TEMP_JNL='scratch/ALL-blazegraph.jnl'
 rm -f $TEMP_JNL
 
-do-processor create-db --include-all-versions --journal=$TEMP_JNL
+do-processor create-db --include-all-versions --journal $TEMP_JNL
 blazegraph-runner --journal=$TEMP_JNL select src/nodes.rq scratch/ALL-nodes.tsv
 blazegraph-runner --journal=$TEMP_JNL select src/edge-count.rq scratch/edge-count.tsv
 
