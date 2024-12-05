@@ -27,4 +27,4 @@ echo "Nodes in the HRA Knowledge Graph,${NODES}," >> dist/high-level-stats.csv
 echo "Edges in the HRA Knowledge Graph,${EDGES}," >> dist/high-level-stats.csv
 echo "Size of the HRA Knowledge Graph,${SIZE},MB" >> dist/high-level-stats.csv
 
-rm -f scratch/ALL-nodes.tsv scratch/edge-count.tsv $TEMP_JNL
+rm -f scratch/ALL-nodes.tsv scratch/edge-count.tsv
