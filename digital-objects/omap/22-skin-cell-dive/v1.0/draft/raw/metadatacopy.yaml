@@ -1,0 +1,75 @@
+title: >-
+  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of
+  Human Skin with Cell DIVE
+description: >-
+  The OMAP Skin panel was designed for Cell DIVETM multiplexed imaging of
+  formalin-fixed paraffin-embedded (FFPE) human skin.  The panel contains 18
+  antibodies and the nuclear marker DAPI for image registration and nuclear
+  segmentation.  Antigens were detected using either primary antibodies with
+  fluorophore-labelled secondary antibodies or fluorescent dye conjugated
+  antibodies. This OMAP provides a spatial context for most anatomical
+  structures and cell types present in the [ASCT+B skin table,
+  v1.1](https://doi.org/10.48539/HBM423.RTRR.746).  Additionally, the inclusion
+  of protein biomarkers DDB2 and p53 allow for profiling of skin damage and
+  aging effects. The panel was designed to get a broad representation of cell
+  types found in the skin and in the future will be expanded to include dermal
+  dendritic cell (DC) markers (e.g. Langerin, CD11c).
+creators:
+  - fullName: Liz McDonough
+    firstName: Liz
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Fiona Ginty
+    firstName: Fiona
+    lastName: Ginty
+    orcid: 0000-0001-6638-683X
+  - fullName: Ari Karunamurthy
+    firstName: Ari
+    lastName: Karunamurthy
+    orcid: 0000-0002-5739-4923
+externalReviewers: []
+creation_date: '2021-05-06'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Institute of Allergy and Infectious Disease
+    awardNumber: NIH 5UH3CA246594-02
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+hubmapId: HBM467.LRKZ.884
+doi: https://doi.org/10.48539/HBM467.LRKZ.884
+citation: >-
+  Liz McDonough. Organ Mapping Antibody Panel (OMAP) for Multiplexed
+  Antibody-Based Imaging of Human Skin with Cell DIVE v1.0.
+  [https://doi.org/10.48539/HBM467.LRKZ.884](https://doi.org/10.48539/HBM467.LRKZ.884)
+citationOverall: >-
+  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo,
+  Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021.
+  “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for
+  Multiplexed Antibody-Based Imaging.” *Nature Methods*, November.
+  https://doi.org/10.1038/s41592-021-01316-y.
+datatable:
+  - OMAP_Skin_Cell_DIVE.csv
+  - OMAP_Skin_Cell_DIVE.xlsx
