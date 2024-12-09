@@ -8,6 +8,10 @@ description: >-
   composition of mouse and human lymph nodes varies between species, the overall
   anatomy is well-conserved.
 creators:
+  - fullName: Li Yao
+    firstName: Li
+    lastName: Yao
+    orcid: https://orcid.org/0000-0003-2390-083X
   - fullName: Kristen Browne
     firstName: Kristen
     lastName: Browne
@@ -27,7 +31,7 @@ reviewers:
     lastName: Jorgensen
     orcid: 0000-0002-7250-3569
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: '2024-12-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -37,17 +41,17 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM975.VKZK.899
-doi: https://doi.org/10.48539/HBM975.VKZK.899
+hubmapId: HBM425.PTPB.732
+doi: https://doi.org/10.48539/HBM425.PTPB.732
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Lymph Node,
-  Female v1.3.*
-  [https://doi.org/10.48539/HBM975.VKZK.899](https://doi.org/10.48539/HBM975.VKZK.899). 
-  Accessed on June 15, 2024.
+  Li Yao, Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Lymph Node,
+  Female v1.4.*
+  [https://doi.org/10.48539/HBM425.PTPB.732](https://doi.org/10.48539/HBM425.PTPB.732). 
+  Accessed on December 15, 2024.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
+  Li Yao, Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
   Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2024.
+  Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2024.
 datatable:
   - 3d-nih-f-lymph-node.glb
   - crosswalk.csv
