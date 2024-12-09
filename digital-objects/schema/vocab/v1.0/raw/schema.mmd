@@ -1,0 +1,19 @@
+erDiagram
+Container {
+    uriorcurie iri  
+    stringList data  
+}
+VocabMetadata {
+    string title  
+    string description  
+    uriorcurieList created_by  
+    string creation_date  
+    string version  
+    string license  
+    string publisher  
+    uriorcurie see_also  
+    uriorcurie derived_from  
+}
+
+Container ||--|o VocabMetadata : "metadata"
+

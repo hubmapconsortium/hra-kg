@@ -1,0 +1,973 @@
+name: collection
+id: https://purl.humanatlas.io/schema/collection
+prefixes:
+  ccf:
+    prefix_prefix: ccf
+    prefix_reference: http://purl.org/ccf/
+  linkml:
+    prefix_prefix: linkml
+    prefix_reference: https://w3id.org/linkml/
+  xsd:
+    prefix_prefix: xsd
+    prefix_reference: http://www.w3.org/2001/XMLSchema#
+  shex:
+    prefix_prefix: shex
+    prefix_reference: http://www.w3.org/ns/shex#
+  schema:
+    prefix_prefix: schema
+    prefix_reference: http://schema.org/
+  rdfs:
+    prefix_prefix: rdfs
+    prefix_reference: http://www.w3.org/2000/01/rdf-schema#
+  rdf:
+    prefix_prefix: rdf
+    prefix_reference: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+  owl:
+    prefix_prefix: owl
+    prefix_reference: http://www.w3.org/2002/07/owl#
+  obo:
+    prefix_prefix: obo
+    prefix_reference: http://purl.obolibrary.org/obo/
+  pav:
+    prefix_prefix: pav
+    prefix_reference: http://purl.org/pav/
+  dcat:
+    prefix_prefix: dcat
+    prefix_reference: http://www.w3.org/ns/dcat#
+  prov:
+    prefix_prefix: prov
+    prefix_reference: http://www.w3.org/ns/prov#
+  dct:
+    prefix_prefix: dct
+    prefix_reference: http://purl.org/dc/terms/
+  dc:
+    prefix_prefix: dc
+    prefix_reference: http://purl.org/dc/elements/1.1/
+  foaf:
+    prefix_prefix: foaf
+    prefix_reference: http://xmlns.com/foaf/0.1/
+  skos:
+    prefix_prefix: skos
+    prefix_reference: http://www.w3.org/2004/02/skos/core#
+default_prefix: ccf
+default_range: string
+types:
+  string:
+    name: string
+    description: A character string
+    notes:
+    - In RDF serializations, a slot with range of string is treated as a literal or
+      type xsd:string.   If you are authoring schemas in LinkML YAML, the type is
+      referenced with the lower case "string".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    exact_mappings:
+    - schema:Text
+    base: str
+    uri: xsd:string
+  integer:
+    name: integer
+    description: An integer
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "integer".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    exact_mappings:
+    - schema:Integer
+    base: int
+    uri: xsd:integer
+  boolean:
+    name: boolean
+    description: A binary (true or false) value
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "boolean".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    exact_mappings:
+    - schema:Boolean
+    base: Bool
+    uri: xsd:boolean
+    repr: bool
+  float:
+    name: float
+    description: A real number that conforms to the xsd:float specification
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "float".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    exact_mappings:
+    - schema:Float
+    base: float
+    uri: xsd:float
+  double:
+    name: double
+    description: A real number that conforms to the xsd:double specification
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "double".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    close_mappings:
+    - schema:Float
+    base: float
+    uri: xsd:double
+  decimal:
+    name: decimal
+    description: A real number with arbitrary precision that conforms to the xsd:decimal
+      specification
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "decimal".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    broad_mappings:
+    - schema:Number
+    base: Decimal
+    uri: xsd:decimal
+  time:
+    name: time
+    description: A time object represents a (local) time of day, independent of any
+      particular day
+    notes:
+    - URI is dateTime because OWL reasoners do not work with straight date or time
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "time".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    exact_mappings:
+    - schema:Time
+    base: XSDTime
+    uri: xsd:time
+    repr: str
+  date:
+    name: date
+    description: a date (year, month and day) in an idealized calendar
+    notes:
+    - URI is dateTime because OWL reasoners don't work with straight date or time
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "date".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    exact_mappings:
+    - schema:Date
+    base: XSDDate
+    uri: xsd:date
+    repr: str
+  datetime:
+    name: datetime
+    description: The combination of a date and time
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "datetime".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    exact_mappings:
+    - schema:DateTime
+    base: XSDDateTime
+    uri: xsd:dateTime
+    repr: str
+  date_or_datetime:
+    name: date_or_datetime
+    description: Either a date or a datetime
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "date_or_datetime".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    base: str
+    uri: linkml:DateOrDatetime
+    repr: str
+  uriorcurie:
+    name: uriorcurie
+    description: a URI or a CURIE
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "uriorcurie".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    base: URIorCURIE
+    uri: xsd:anyURI
+    repr: str
+  curie:
+    name: curie
+    conforms_to: https://www.w3.org/TR/curie/
+    description: a compact URI
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "curie".
+    comments:
+    - in RDF serializations this MUST be expanded to a URI
+    - in non-RDF serializations MAY be serialized as the compact representation
+    from_schema: https://purl.humanatlas.io/schema/collection
+    base: Curie
+    uri: xsd:string
+    repr: str
+  uri:
+    name: uri
+    conforms_to: https://www.ietf.org/rfc/rfc3987.txt
+    description: a complete URI
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "uri".
+    comments:
+    - in RDF serializations a slot with range of uri is treated as a literal or type
+      xsd:anyURI unless it is an identifier or a reference to an identifier, in which
+      case it is translated directly to a node
+    from_schema: https://purl.humanatlas.io/schema/collection
+    close_mappings:
+    - schema:URL
+    base: URI
+    uri: xsd:anyURI
+    repr: str
+  ncname:
+    name: ncname
+    description: Prefix part of CURIE
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "ncname".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    base: NCName
+    uri: xsd:string
+    repr: str
+  objectidentifier:
+    name: objectidentifier
+    description: A URI or CURIE that represents an object in the model.
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "objectidentifier".
+    comments:
+    - Used for inheritance and type checking
+    from_schema: https://purl.humanatlas.io/schema/collection
+    base: ElementIdentifier
+    uri: shex:iri
+    repr: str
+  nodeidentifier:
+    name: nodeidentifier
+    description: A URI, CURIE or BNODE that represents a node in a model.
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "nodeidentifier".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    base: NodeIdentifier
+    uri: shex:nonLiteral
+    repr: str
+  jsonpointer:
+    name: jsonpointer
+    conforms_to: https://datatracker.ietf.org/doc/html/rfc6901
+    description: A string encoding a JSON Pointer. The value of the string MUST conform
+      to JSON Point syntax and SHOULD dereference to a valid object within the current
+      instance document when encoded in tree form.
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "jsonpointer".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    base: str
+    uri: xsd:string
+    repr: str
+  jsonpath:
+    name: jsonpath
+    conforms_to: https://www.ietf.org/archive/id/draft-goessner-dispatch-jsonpath-00.html
+    description: A string encoding a JSON Path. The value of the string MUST conform
+      to JSON Point syntax and SHOULD dereference to zero or more valid objects within
+      the current instance document when encoded in tree form.
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "jsonpath".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    base: str
+    uri: xsd:string
+    repr: str
+  sparqlpath:
+    name: sparqlpath
+    conforms_to: https://www.w3.org/TR/sparql11-query/#propertypaths
+    description: A string encoding a SPARQL Property Path. The value of the string
+      MUST conform to SPARQL syntax and SHOULD dereference to zero or more valid objects
+      within the current instance document when encoded as RDF.
+    notes:
+    - If you are authoring schemas in LinkML YAML, the type is referenced with the
+      lower case "sparqlpath".
+    from_schema: https://purl.humanatlas.io/schema/collection
+    base: str
+    uri: xsd:string
+    repr: str
+slots:
+  id:
+    name: id
+    description: A unique identifier for the entity
+    title: concept identifier
+    from_schema: https://purl.humanatlas.io/schema/collection
+    identifier: true
+    range: uriorcurie
+    required: true
+  label:
+    name: label
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A human-readable label or name associated with the entity.
+    title: concept label
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: rdfs:label
+    required: true
+  parent_class:
+    name: parent_class
+    annotations:
+      owl:
+        tag: owl
+        value: SubClassOf
+    description: Specifies the parent or superclass of the entity.
+    title: subclass of
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: rdfs:subClassOf
+    range: uriorcurie
+  conforms_to:
+    name: conforms_to
+    description: Indicates the type or specification that the entity adheres to.
+    title: conforms to
+    from_schema: https://purl.humanatlas.io/schema/collection
+    designates_type: true
+  type_of:
+    name: type_of
+    annotations:
+      owl:
+        tag: owl
+        value: ClassAssertion
+    description: Defines the class type that this instance belongs to.
+    title: type of
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: rdf:type
+    multivalued: true
+    range: Named
+  distributions:
+    name: distributions
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: An available distribution of the dataset.
+    title: dataset distribution
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dcat:distribution
+    multivalued: true
+    range: Distribution
+    inlined_as_list: true
+  downloadUrl:
+    name: downloadUrl
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The URL of the downloadable file in a given format.
+    title: download URL
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dcat:downloadURL
+    range: uri
+  accessUrl:
+    name: accessUrl
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A URL of the resource that gives access to a distribution of the
+      dataset. E.g. landing page, feed, SPARQL endpoint.
+    title: access URL
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dcat:accessURL
+    range: uri
+  mediaType:
+    name: mediaType
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The media type of the distribution as defined by IANA.
+    title: media type
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dcat:mediaType
+  was_derived_from:
+    name: was_derived_from
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.
+    title: was derived from
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: prov:wasDerivedFrom
+    range: Dataset
+    inlined: true
+  derived_from:
+    name: derived_from
+    description: 'A derivation is a transformation of an entity into another, an  update
+      of an entity resulting in a new one, or the construction  of a new entity based
+      on a pre-existing entity.    '
+    title: was derived from
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: prov:wasDerivedFrom
+    range: uriorcurie
+  had_member:
+    name: had_member
+    description: A collection is an entity that provides a structure to some  constituents,
+      which are themselves entities. These constituents  are said to be member of
+      the collections.
+    title: had member
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: prov:hadMember
+    multivalued: true
+    range: uriorcurie
+    inlined_as_list: true
+  title:
+    name: title
+    description: A name given to the resource.
+    title: title
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dct:title
+  description:
+    name: description
+    description: An account of the resource.
+    title: description
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dct:description
+  license:
+    name: license
+    description: A legal document giving official permission to do something  with
+      the resource.
+    title: license
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dct:license
+  publisher:
+    name: publisher
+    description: An entity responsible for making the resource available.
+    title: publisher
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dct:publisher
+  create_date:
+    name: create_date
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Date of creation of the resource.
+    title: date created
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dct:created
+    range: date
+  creator_name:
+    name: creator_name
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dct:creator
+  creators:
+    name: creators
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: An entity responsible for making the resource.
+    title: creator
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dct:creator
+    multivalued: true
+    range: Creator
+    inlined_as_list: true
+  created_by:
+    name: created_by
+    description: An entity responsible for making the resource.
+    title: creator
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dct:creator
+    multivalued: true
+    range: uriorcurie
+    inlined_as_list: true
+  references:
+    name: references
+    description: A related resource that is referenced, cited, or otherwise  pointed
+      to by the described resource.
+    title: references
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: dct:references
+    multivalued: true
+    range: string
+    inlined_as_list: true
+  about:
+    name: about
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The subject matter of the content.
+    title: about
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:about
+  version:
+    name: version
+    description: The version of the CreativeWork embodied by a specified  resource.
+    title: version
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:version
+  name:
+    name: name
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The name of the item.
+    title: name
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:name
+  type:
+    name: type
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: 'An additional type for the item, typically used for  adding more
+      specific types from external vocabularies  in microdata syntax. '
+    title: type
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:additionalType
+  fullName:
+    name: fullName
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The full name of a person.
+    title: full name
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:name
+  firstName:
+    name: firstName
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Given name. In the U.S., the first name of a person.
+    title: first name
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:givenName
+  lastName:
+    name: lastName
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Family name. In the U.S., the last name of a person.
+    title: last name
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:familyName
+  orcid:
+    name: orcid
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: ORCID identifier.
+    title: orcid
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:identifier
+    pattern: ^(\d{4}-){3}\d{3}(\d|X)$
+  funder:
+    name: funder
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A person or organization that supports (sponsors)  something through
+      some kind of financial contribution.
+    title: funder
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:funder
+  awardNumber:
+    name: awardNumber
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: An award won by or for this item.
+    title: award
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:award
+  citation:
+    name: citation
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A citation or reference to another creative work, such  as another
+      publication, web page, scholarly article, etc.
+    title: citation
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:citation
+  creation_date:
+    name: creation_date
+    description: The date on which the CreativeWork was created or the  item was added
+      to a DataFeed.
+    title: created date
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:dateCreated
+  propertyId:
+    name: propertyId
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: 'A commonly used identifier for the characteristic  represented by
+      the property, e.g. a manufacturer or a  standard code for a property. '
+    title: property ID
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:propertyID
+  value:
+    name: value
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: The value of a property value node.
+    title: value
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:value
+  reviewers:
+    name: reviewers
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: People or organizations that have reviewed the  content on this web
+      page for accuracy and/or  completeness.
+    title: reviewer
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:reviewedBy
+    multivalued: true
+    range: Person
+    inlined_as_list: true
+  funders:
+    name: funders
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A Grant that directly or indirectly provide  funding or sponsorship
+      for this item.
+    title: funding
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:funding
+    multivalued: true
+    range: Grant
+    inlined_as_list: true
+  target_product:
+    name: target_product
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Target Operating System / Product to which  the code applies. If
+      applies to several versions,  just the product name can be used.
+    title: target product
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:targetProduct
+    range: SoftwareSourceCode
+  code_repository:
+    name: code_repository
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: Link to the repository where the un-compiled,  human readable code
+      and related code is located  (SVN, GitHub, CodePlex).
+    title: code repository
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: schema:codeRepository
+    range: uriorcurie
+  versionInfo:
+    name: versionInfo
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A string giving information about this version.
+    title: version info
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: owl:versionInfo
+  see_also:
+    name: see_also
+    description: A reference used to indicate a resource that might  provide additional
+      information about the subject resource.
+    title: see also
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: rdfs:seeAlso
+    range: uriorcurie
+  pref_label:
+    name: pref_label
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    title: preferred label
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: skos:prefLabel
+  ontology_root:
+    name: ontology_root
+    description: 'Relates an ontology to a term that is a designated  root term of
+      the ontology. '
+    title: has ontology root term
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: obo:IAO_0000700
+    multivalued: true
+    range: uriorcurie
+  hubmapId:
+    name: hubmapId
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: HuBMAP identifier.
+    title: HuBMAP identifier
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: ccf:hubmap_id
+  doi:
+    name: doi
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A DOI, or Digital Object Identifier, is a  unique string of numbers,
+      letters, and symbols  that identifies a specific publication.
+    title: DOI
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: ccf:doi
+    range: uriorcurie
+  citationOverall:
+    name: citationOverall
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A written reference to a source, such as a  book, article, or website,
+      that identifies  the original source of information in a work.
+    title: citation
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: ccf:citation_overall
+  datatable:
+    name: datatable
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: A list of table resources.
+    title: data table
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: ccf:data_table
+    multivalued: true
+  project_leads:
+    name: project_leads
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: 'A person who is responsible for leading a project  or a specific
+      aspect of a project, including planning, implementation, and tracking. '
+    title: project lead
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: ccf:project_lead
+    multivalued: true
+    range: Person
+    inlined_as_list: true
+  externalReviewers:
+    name: externalReviewers
+    annotations:
+      owl:
+        tag: owl
+        value: AnnotationProperty, AnnotationAssertion
+    description: An independent expert from outside an organization  who provides
+      critical feedback and evaluation on  a program, project, or proposal.
+    title: external reviewer
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slot_uri: ccf:external_reviewer
+    multivalued: true
+    range: Person
+    inlined_as_list: true
+classes:
+  CollectionMetadata:
+    name: CollectionMetadata
+    description: The metadata section for the "collection" digital object.
+    title: Collection Metadata
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slots:
+    - title
+    - description
+    - created_by
+    - version
+    - creation_date
+    - license
+    - publisher
+    - see_also
+    - derived_from
+    - had_member
+    - ontology_root
+    class_uri: dcat:Dataset
+  Container:
+    name: Container
+    annotations:
+      owl.template:
+        tag: owl.template
+        value: 'AnnotationAssertion( dct:title {{iri}} "{{metadata.title|e}}" )
+
+          AnnotationAssertion( dct:description {{iri}} "{{metadata.description|e}}"
+          )
+
+          {% for creator_iri in metadata.created_by %}
+
+          AnnotationAssertion( dct:creator {{iri}} {{creator_iri|e}} )
+
+          {% endfor %}
+
+          AnnotationAssertion( schema:version {{iri}} "{{metadata.version|e}}" )
+
+          AnnotationAssertion( schema:dateCreated {{iri}} "{{metadata.creation_date|e}}"
+          )
+
+          AnnotationAssertion( dct:license {{iri}} "{{metadata.license|e}}" )
+
+          AnnotationAssertion( dct:publisher {{iri}} "{{metadata.publisher|e}}" )
+
+          AnnotationAssertion( rdfs:seeAlso {{iri}} {{metadata.see_also|e}} )
+
+          AnnotationAssertion( prov:wasDerivedFrom {{iri}} {{metadata.derived_from|e}}
+          )
+
+          {% for member_iri in metadata.had_member %}
+
+          AnnotationAssertion( prov:hadMember {{iri}} {{member_iri|e}} )
+
+          {% endfor %}
+
+          {% for root_iri in metadata.ontology_root %}
+
+          AnnotationAssertion( obo:IAO_0000700 {{iri}} {{root_iri|e}} )
+
+          {% endfor %}'
+    from_schema: https://purl.humanatlas.io/schema/collection
+    attributes:
+      iri:
+        name: iri
+        from_schema: https://purl.humanatlas.io/schema/collection
+        range: uriorcurie
+      metadata:
+        name: metadata
+        from_schema: https://purl.humanatlas.io/schema/collection
+        range: CollectionMetadata
+      data:
+        name: data
+        from_schema: https://purl.humanatlas.io/schema/collection
+        multivalued: true
+        required: true
+        inlined_as_list: true
+    tree_root: true
+  Named:
+    name: Named
+    from_schema: https://purl.humanatlas.io/schema/collection
+    mixin: true
+    slots:
+    - id
+    - label
+  Instance:
+    name: Instance
+    annotations:
+      owl:
+        tag: owl
+        value: Individual
+    from_schema: https://purl.humanatlas.io/schema/collection
+    mixin: true
+    slots:
+    - type_of
+  ProvEntity:
+    name: ProvEntity
+    from_schema: https://purl.humanatlas.io/schema/collection
+    abstract: true
+    mixins:
+    - Named
+    slots:
+    - was_derived_from
+    class_uri: prov:Entity
+  Creator:
+    name: Creator
+    from_schema: https://purl.humanatlas.io/schema/collection
+    abstract: true
+    mixins:
+    - Named
+    slots:
+    - conforms_to
+  Person:
+    name: Person
+    from_schema: https://purl.humanatlas.io/schema/collection
+    is_a: Creator
+    mixins:
+    - Instance
+    slots:
+    - fullName
+    - firstName
+    - lastName
+    - orcid
+    class_uri: schema:Person
+  SoftwareApplication:
+    name: SoftwareApplication
+    from_schema: https://purl.humanatlas.io/schema/collection
+    is_a: Creator
+    mixins:
+    - Instance
+    slots:
+    - name
+    - version
+    - target_product
+    class_uri: schema:SoftwareApplication
+  SoftwareSourceCode:
+    name: SoftwareSourceCode
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slots:
+    - code_repository
+    - see_also
+    class_uri: schema:SoftwareSourceCode
+  Grant:
+    name: Grant
+    from_schema: https://purl.humanatlas.io/schema/collection
+    slots:
+    - funder
+    - awardNumber
+    class_uri: schema:Grant
+  Distribution:
+    name: Distribution
+    from_schema: https://purl.humanatlas.io/schema/collection
+    mixins:
+    - Named
+    slots:
+    - title
+    - downloadUrl
+    - accessUrl
+    - mediaType
+    class_uri: dcat:Distribution
+  Dataset:
+    name: Dataset
+    from_schema: https://purl.humanatlas.io/schema/collection
+    is_a: ProvEntity
+    slots:
+    - title
+    - description
+    - creators
+    - reviewers
+    - creation_date
+    - version
+    - license
+    - see_also
+    - publisher
+    - citation
+    - citationOverall
+    - funders
+    - doi
+    - hubmapId
+    - project_leads
+    - externalReviewers
+    - distributions
+    class_uri: dcat:Dataset
+source_file: schemas/src/digital-objects/collection.yaml
+

@@ -1,0 +1,89 @@
+erDiagram
+Container {
+    uriorcurie iri  
+}
+SpatialEntity {
+    string pref_label  
+    date create_date  
+    float x_dimension  
+    float y_dimension  
+    float z_dimension  
+    string dimension_unit  
+    string organ_owner_sex  
+    string organ_side  
+    integer rui_rank  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+ExtractionSet {
+    integer rui_rank  
+    uriorcurie id  
+    string label  
+}
+SpatialPlacement {
+    uriorcurie target  
+    date placement_date  
+    float x_scaling  
+    float y_scaling  
+    float z_scaling  
+    string scaling_unit  
+    float x_rotation  
+    float y_rotation  
+    float z_rotation  
+    string rotation_unit  
+    string rotation_order  
+    float x_translation  
+    float y_translation  
+    float z_translation  
+    string translation_unit  
+    uriorcurie id  
+    string label  
+}
+SpatialObjectReference {
+    string file_name  
+    string file_url  
+    string file_subpath  
+    string file_format  
+    uriorcurie id  
+    string label  
+}
+AnatomicalStructure {
+    uriorcurie id  
+}
+Creator {
+    string conforms_to  
+    uriorcurie id  
+    string label  
+}
+RefOrganMetadata {
+    string title  
+    string description  
+    uriorcurieList created_by  
+    string creation_date  
+    string version  
+    string license  
+    string publisher  
+    uriorcurie see_also  
+    uriorcurie derived_from  
+}
+
+Container ||--|o RefOrganMetadata : "metadata"
+Container ||--}o SpatialEntity : "data"
+SpatialEntity ||--}o Creator : "creators"
+SpatialEntity ||--|o AnatomicalStructure : "representation_of"
+SpatialEntity ||--|o SpatialObjectReference : "object_reference"
+SpatialEntity ||--}o SpatialPlacement : "placements"
+SpatialEntity ||--|o SpatialEntity : "reference_organ"
+SpatialEntity ||--|o ExtractionSet : "extraction_set"
+SpatialEntity ||--}o Named : "type_of"
+ExtractionSet ||--|| SpatialEntity : "extraction_set_for"
+ExtractionSet ||--}o Named : "type_of"
+SpatialPlacement ||--|o SpatialEntity : "source"
+SpatialPlacement ||--}o Named : "type_of"
+SpatialObjectReference ||--|| SpatialPlacement : "placement"
+SpatialObjectReference ||--}o Named : "type_of"
+

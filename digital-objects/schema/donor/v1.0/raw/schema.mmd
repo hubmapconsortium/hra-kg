@@ -1,0 +1,39 @@
+erDiagram
+Container {
+    string iri  
+    string metadata  
+}
+DonorData {
+    string sample  
+    string dataset  
+    string spatial_entity  
+    string cell_summary  
+    string collision  
+    string corridor  
+}
+Donor {
+    string pref_label  
+    string description  
+    string external_link  
+    integer age  
+    float bmi  
+    string sex  
+    string sex_id  
+    string race  
+    string race_id  
+    string consortium_name  
+    string provider_name  
+    string provider_uuid  
+    uriorcurieList provides_samples  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+
+Container ||--|o DonorData : "data"
+DonorData ||--}o Donor : "donor"
+Donor ||--}o Named : "type_of"
+

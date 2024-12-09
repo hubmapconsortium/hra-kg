@@ -1,0 +1,896 @@
+{
+    "$defs": {
+        "AnatomicalStructure": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "pattern": "(UBERON|FMA):\\d+",
+                    "title": "concept identifier",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "AnatomicalStructure",
+            "type": "object"
+        },
+        "Antibody": {
+            "additionalProperties": false,
+            "description": "An antibody is a protein produced by the immune system or engineered  in the lab that specifically binds to a target molecule, such as a  protein or antigen on a cell, and is widely used for identifying,  labeling, or isolating specific cell types or biomarkers.",
+            "properties": {
+                "antibody_type": {
+                    "description": "The type of antibody, specified as either Primary or Secondary.",
+                    "pattern": "(Primary|Secondary)",
+                    "title": "antibody type",
+                    "type": "string"
+                },
+                "binds_to": {
+                    "description": "Reference to the secondary antibodies or molecules that this antibody binds to.",
+                    "items": {
+                        "$ref": "#/$defs/BindsToStatement"
+                    },
+                    "title": "binds to",
+                    "type": "array"
+                },
+                "catalog_number": {
+                    "description": "The catalog number associated with the antibody in the supplier's catalog.",
+                    "title": "catalog number",
+                    "type": "string"
+                },
+                "clonality": {
+                    "description": "Indicates whether the antibody is monoclonal or polyclonal.",
+                    "title": "clonality",
+                    "type": "string"
+                },
+                "clone_id": {
+                    "description": "The unique identifier for the specific clone of the antibody.",
+                    "title": "clone identifier",
+                    "type": "string"
+                },
+                "conjugate": {
+                    "description": "A substance attached to the antibody to aid in detection, such as a fluorescent marker.",
+                    "title": "conjugate",
+                    "type": "string"
+                },
+                "detects": {
+                    "description": "Reference to the proteins or antigens that the antibody can detect.",
+                    "items": {
+                        "$ref": "#/$defs/DetectStatement"
+                    },
+                    "title": "detects",
+                    "type": "array"
+                },
+                "fluorescent": {
+                    "description": "Indicates whether the antibody is fluorescently labeled.",
+                    "title": "is fluorescent?",
+                    "type": "string"
+                },
+                "host": {
+                    "description": "The host organism in which the antibody was produced.",
+                    "title": "host",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "pattern": "AB_\\d+",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "isotype": {
+                    "description": "Classifies the antibody by isotype.",
+                    "title": "isotype",
+                    "type": "string"
+                },
+                "parent_class": {
+                    "description": "Specifies the parent or superclass of the entity.",
+                    "title": "subclass of",
+                    "type": "string"
+                },
+                "producer": {
+                    "description": "The manufacturer or producer of the antibody.",
+                    "title": "antibody manufacturer",
+                    "type": "string"
+                },
+                "recombinant": {
+                    "description": "Indicates if the antibody was created through recombinant DNA technology.",
+                    "title": "recombinant",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "antibody_type",
+                "host",
+                "recombinant",
+                "catalog_number"
+            ],
+            "title": "Antibody",
+            "type": "object"
+        },
+        "AntibodyPanel": {
+            "additionalProperties": false,
+            "description": "An antibody panel is a curated set of antibodies selected for a  specific experiment or analysis, designed to target multiple  proteins or biomarkers of interest simultaneously, often in  multiplexed assays or imaging studies.",
+            "properties": {
+                "contains_antibodies": {
+                    "description": "Reference to the antibodies that are part of the core antibody panel.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "contains antibody",
+                    "type": "array"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "contains_antibodies",
+                "id",
+                "label"
+            ],
+            "title": "Antibody Panel",
+            "type": "object"
+        },
+        "BindsToStatement": {
+            "additionalProperties": false,
+            "description": "A description of an antibody that binds specifically to a  secondary antibody, typically as part of a detection or  amplification process in experimental assays.",
+            "properties": {
+                "antibody_id": {
+                    "description": "Reference to the antibody concept.",
+                    "title": "antibody identifier",
+                    "type": "string"
+                },
+                "rationale": {
+                    "description": "The justification or purpose behind the use of the antibody in the experiment.",
+                    "title": "rationale",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "antibody_id",
+                "rationale"
+            ],
+            "title": "Binds-to Statement",
+            "type": "object"
+        },
+        "Container": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "data": {
+                    "$ref": "#/$defs/OmapDataset"
+                },
+                "iri": {
+                    "type": "string"
+                },
+                "metadata": {
+                    "$ref": "#/$defs/OmapMetadata"
+                }
+            },
+            "title": "Container",
+            "type": "object"
+        },
+        "Dataset": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "citation": {
+                    "description": "A citation or reference to another creative work, such  as another publication, web page, scholarly article, etc.",
+                    "title": "citation",
+                    "type": "string"
+                },
+                "citationOverall": {
+                    "description": "A written reference to a source, such as a  book, article, or website, that identifies  the original source of information in a work.",
+                    "title": "citation",
+                    "type": "string"
+                },
+                "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
+                    "type": "string"
+                },
+                "creators": {
+                    "description": "An entity responsible for making the resource.",
+                    "items": {
+                        "anyOf": [
+                            {
+                                "$ref": "#/$defs/Person"
+                            },
+                            {
+                                "$ref": "#/$defs/SoftwareApplication"
+                            }
+                        ]
+                    },
+                    "title": "creator",
+                    "type": "array"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "distributions": {
+                    "description": "An available distribution of the dataset.",
+                    "items": {
+                        "$ref": "#/$defs/Distribution"
+                    },
+                    "title": "dataset distribution",
+                    "type": "array"
+                },
+                "doi": {
+                    "description": "A DOI, or Digital Object Identifier, is a  unique string of numbers, letters, and symbols  that identifies a specific publication.",
+                    "title": "DOI",
+                    "type": "string"
+                },
+                "externalReviewers": {
+                    "description": "An independent expert from outside an organization  who provides critical feedback and evaluation on  a program, project, or proposal.",
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "title": "external reviewer",
+                    "type": "array"
+                },
+                "funders": {
+                    "description": "A Grant that directly or indirectly provide  funding or sponsorship for this item.",
+                    "items": {
+                        "$ref": "#/$defs/Grant"
+                    },
+                    "title": "funding",
+                    "type": "array"
+                },
+                "hubmapId": {
+                    "description": "HuBMAP identifier.",
+                    "title": "HuBMAP identifier",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
+                    "type": "string"
+                },
+                "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
+                    "type": "string"
+                },
+                "project_leads": {
+                    "description": "A person who is responsible for leading a project  or a specific aspect of a project, including planning, implementation, and tracking. ",
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "title": "project lead",
+                    "type": "array"
+                },
+                "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
+                    "type": "string"
+                },
+                "reviewers": {
+                    "description": "People or organizations that have reviewed the  content on this web page for accuracy and/or  completeness.",
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "title": "reviewer",
+                    "type": "array"
+                },
+                "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
+                    "type": "string"
+                },
+                "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
+                    "type": "string"
+                },
+                "was_derived_from": {
+                    "$ref": "#/$defs/Dataset",
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.",
+                    "title": "was derived from"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Dataset",
+            "type": "object"
+        },
+        "DetectStatement": {
+            "additionalProperties": false,
+            "description": "A description of an antibody that identifies and binds  specifically to a target protein.",
+            "properties": {
+                "protein_id": {
+                    "description": "Reference to the protein.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "protein identifier",
+                    "type": "array"
+                },
+                "rationale": {
+                    "description": "The justification or purpose behind the use of the antibody in the experiment.",
+                    "title": "rationale",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "protein_id",
+                "rationale"
+            ],
+            "title": "Detect Statement",
+            "type": "object"
+        },
+        "Distribution": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "accessUrl": {
+                    "description": "A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint.",
+                    "title": "access URL",
+                    "type": "string"
+                },
+                "downloadUrl": {
+                    "description": "The URL of the downloadable file in a given format.",
+                    "title": "download URL",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
+                    "type": "string"
+                },
+                "mediaType": {
+                    "description": "The media type of the distribution as defined by IANA.",
+                    "title": "media type",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Distribution",
+            "type": "object"
+        },
+        "ExperimentCycle": {
+            "additionalProperties": false,
+            "description": "An experiment cycle refers to a single round of staining, imaging,  and data acquisition for a specific set of antibodies, repeated  iteratively to detect multiple targets within the same sample.",
+            "properties": {
+                "cycle_number": {
+                    "description": "The specific cycle number within the experiment where the antibody was used.",
+                    "title": "cycle number",
+                    "type": "integer"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                },
+                "uses_antibodies": {
+                    "description": "Reference to the antibodies applied in each experiment cycle.",
+                    "items": {
+                        "$ref": "#/$defs/ExperimentUsedAntibody"
+                    },
+                    "title": "uses antibody",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "cycle_number",
+                "uses_antibodies",
+                "id",
+                "label"
+            ],
+            "title": "Experiment Cycle",
+            "type": "object"
+        },
+        "ExperimentUsedAntibody": {
+            "additionalProperties": false,
+            "description": "An experiment-used antibody is a detailed record of an antibody  utilized in a specific experiment, including information about  its concentration and dilution, the cycle or stage in which it  was applied, the experiment where it was used, and the primary  antibody it is derived from or based on.",
+            "properties": {
+                "based_on": {
+                    "$ref": "#/$defs/RegisteredAntibody",
+                    "description": "Reference to the antibody on which this instance is based.",
+                    "title": "based on"
+                },
+                "concentration": {
+                    "description": "The concentration of the antibody used in the experiment.",
+                    "title": "concentration",
+                    "type": "number"
+                },
+                "cycle_number": {
+                    "description": "The specific cycle number within the experiment where the antibody was used.",
+                    "title": "cycle number",
+                    "type": "integer"
+                },
+                "dilution": {
+                    "description": "The dilution factor applied to the antibody in the experiment.",
+                    "title": "dilution",
+                    "type": "integer"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "is_core_panel": {
+                    "description": "Specifies if the antibody is part of the core panel for the experiment.",
+                    "title": "is core panel?",
+                    "type": "boolean"
+                },
+                "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                },
+                "used_by_experiment": {
+                    "description": "References to the experiment where the antibody was used.",
+                    "title": "is used by experiment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "cycle_number",
+                "is_core_panel",
+                "used_by_experiment",
+                "based_on",
+                "id",
+                "label"
+            ],
+            "title": "Experiment-used Antibody",
+            "type": "object"
+        },
+        "Grant": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "awardNumber": {
+                    "description": "An award won by or for this item.",
+                    "title": "award",
+                    "type": "string"
+                },
+                "funder": {
+                    "description": "A person or organization that supports (sponsors)  something through some kind of financial contribution.",
+                    "title": "funder",
+                    "type": "string"
+                }
+            },
+            "title": "Grant",
+            "type": "object"
+        },
+        "MultiplexedAntibodyBasedImagingExperiment": {
+            "additionalProperties": false,
+            "description": "A Multiplexed Antibody-based Imaging Experiment is a technique that  uses multiple antibodies, each tagged with distinct markers or labels, to simultaneously visualize and analyze multiple proteins or biomarkers  within a single sample.",
+            "properties": {
+                "author_orcid": {
+                    "description": "Reference to the author by the ORCID identifier.",
+                    "items": {
+                        "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                        "type": "string"
+                    },
+                    "title": "author ORCID",
+                    "type": "array"
+                },
+                "has_cycle": {
+                    "description": "A reference to the experimental cycles within which the antibody was used.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "has cycle",
+                    "type": "array"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
+                    "type": "string"
+                },
+                "protocol_doi": {
+                    "description": "Reference DOI for the experimental protocol used.",
+                    "items": {
+                        "pattern": "https://(?:dx\\.)?doi\\.org/.*",
+                        "type": "string"
+                    },
+                    "title": "protocol DOI",
+                    "type": "array"
+                },
+                "sample_organ": {
+                    "description": "The anatomical structure or organ sampled in the experiment.",
+                    "title": "sample organ",
+                    "type": "string"
+                },
+                "study_method": {
+                    "description": "The study method used in the experiment involving the antibody.",
+                    "title": "study method",
+                    "type": "string"
+                },
+                "tissue_preservation": {
+                    "description": "Method used on the tissue to preserve it prior to analysis.",
+                    "title": "tissue preservation method",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "study_method",
+                "tissue_preservation",
+                "author_orcid",
+                "has_cycle",
+                "sample_organ",
+                "id",
+                "label"
+            ],
+            "title": "Mutliplexed Antibody-based Imaging Experiment",
+            "type": "object"
+        },
+        "OmapDataset": {
+            "additionalProperties": false,
+            "description": "The data section for the \"omap\" digital object.",
+            "properties": {
+                "antibody": {
+                    "description": "List of antibodies referenced in the OMAP records.",
+                    "items": {
+                        "$ref": "#/$defs/Antibody"
+                    },
+                    "title": "antibody data",
+                    "type": "array"
+                },
+                "antibody_panel": {
+                    "$ref": "#/$defs/AntibodyPanel",
+                    "description": "List of antibodies in the panel referenced in the OMAP records.",
+                    "title": "antibody panel data"
+                },
+                "cycles": {
+                    "description": "List of experiment cycles referenced in the OMAP records.",
+                    "items": {
+                        "$ref": "#/$defs/ExperimentCycle"
+                    },
+                    "title": "cycle data",
+                    "type": "array"
+                },
+                "experiment": {
+                    "$ref": "#/$defs/MultiplexedAntibodyBasedImagingExperiment",
+                    "description": "List of experiments referenced in the OMAP records.",
+                    "title": "experiment data"
+                }
+            },
+            "required": [
+                "antibody",
+                "experiment",
+                "cycles",
+                "antibody_panel"
+            ],
+            "title": "OMAP Data",
+            "type": "object"
+        },
+        "OmapMetadata": {
+            "additionalProperties": false,
+            "description": "The metadata section for the \"omap\" digital object.",
+            "properties": {
+                "created_by": {
+                    "description": "An entity responsible for making the resource.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "creator",
+                    "type": "array"
+                },
+                "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
+                    "type": "string"
+                },
+                "derived_from": {
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.    ",
+                    "title": "was derived from",
+                    "type": "string"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
+                    "type": "string"
+                },
+                "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
+                    "type": "string"
+                },
+                "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
+                    "type": "string"
+                },
+                "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
+                    "type": "string"
+                }
+            },
+            "title": "OMAP Metadata",
+            "type": "object"
+        },
+        "Person": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
+                    "enum": [
+                        "Person"
+                    ],
+                    "title": "conforms to",
+                    "type": "string"
+                },
+                "firstName": {
+                    "description": "Given name. In the U.S., the first name of a person.",
+                    "title": "first name",
+                    "type": "string"
+                },
+                "fullName": {
+                    "description": "The full name of a person.",
+                    "title": "full name",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
+                    "type": "string"
+                },
+                "lastName": {
+                    "description": "Family name. In the U.S., the last name of a person.",
+                    "title": "last name",
+                    "type": "string"
+                },
+                "orcid": {
+                    "description": "ORCID identifier.",
+                    "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                    "title": "orcid",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Person",
+            "type": "object"
+        },
+        "Protein": {
+            "additionalProperties": false,
+            "description": "a protein is a biological macromolecule composed of amino  acids that performs essential functions, such as providing  structure, facilitating biochemical reactions (enzymes),  signaling, transport, and regulating cellular processes.",
+            "properties": {
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "pattern": "HGNC:\\d+",
+                    "title": "concept identifier",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Protein",
+            "type": "object"
+        },
+        "RegisteredAntibody": {
+            "additionalProperties": false,
+            "description": "A registered antibody is an antibody with documented information,  including its factory-assigned lot number, ensuring traceability  and consistency for use in experiments or applications.",
+            "properties": {
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
+                    "type": "string"
+                },
+                "lot_number": {
+                    "description": "The lot number associated with a particular batch of the antibody.",
+                    "title": "lot number",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "Registered Antibody",
+            "type": "object"
+        },
+        "SoftwareApplication": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
+                    "enum": [
+                        "SoftwareApplication"
+                    ],
+                    "title": "conforms to",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A human-readable label or name associated with the entity.",
+                    "title": "concept label",
+                    "type": "string"
+                },
+                "name": {
+                    "description": "The name of the item.",
+                    "title": "name",
+                    "type": "string"
+                },
+                "target_product": {
+                    "$ref": "#/$defs/SoftwareSourceCode",
+                    "description": "Target Operating System / Product to which  the code applies. If applies to several versions,  just the product name can be used.",
+                    "title": "target product"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                },
+                "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id",
+                "label"
+            ],
+            "title": "SoftwareApplication",
+            "type": "object"
+        },
+        "SoftwareSourceCode": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "code_repository": {
+                    "description": "Link to the repository where the un-compiled,  human readable code and related code is located  (SVN, GitHub, CodePlex).",
+                    "title": "code repository",
+                    "type": "string"
+                },
+                "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
+                    "type": "string"
+                }
+            },
+            "title": "SoftwareSourceCode",
+            "type": "object"
+        }
+    },
+    "$id": "https://purl.humanatlas.io/schema/omap",
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "additionalProperties": true,
+    "description": "",
+    "metamodel_version": "1.7.0",
+    "properties": {
+        "data": {
+            "$ref": "#/$defs/OmapDataset"
+        },
+        "iri": {
+            "type": "string"
+        },
+        "metadata": {
+            "$ref": "#/$defs/OmapMetadata"
+        }
+    },
+    "title": "omap",
+    "type": "object",
+    "version": null
+}

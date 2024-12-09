@@ -1,0 +1,33 @@
+erDiagram
+Container {
+    string iri  
+    string metadata  
+}
+AssayDatasetData {
+    string donor  
+    string sample  
+    string spatial_entity  
+    string cell_summary  
+    string collision  
+    string corridor  
+}
+AssayDataset {
+    string pref_label  
+    string description  
+    string external_link  
+    string technology  
+    string thumbnail  
+    uriorcurieList cell_summaries  
+    uriorcurie links_back_to  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+
+Container ||--|o AssayDatasetData : "data"
+AssayDatasetData ||--}o AssayDataset : "dataset"
+AssayDataset ||--}o Named : "type_of"
+

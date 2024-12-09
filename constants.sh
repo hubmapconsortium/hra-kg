@@ -1,3 +1,5 @@
+export MAX_PROCESSES=12
+export JAVA_OPTS="-Xms2g -Xmx64g"
 
 if [ "$(which do-processor)" ==  "" ]; then
   if [ -e "../hra-do-processor/.venv/bin/activate" ]; then

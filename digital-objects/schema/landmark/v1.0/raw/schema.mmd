@@ -1,0 +1,86 @@
+erDiagram
+Container {
+    uriorcurie iri  
+}
+LandmarkData {
+
+}
+SpatialEntity {
+    string pref_label  
+    float x_dimension  
+    float y_dimension  
+    float z_dimension  
+    string dimension_unit  
+    uriorcurie extraction_set  
+    integer rui_rank  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+SpatialPlacement {
+    uriorcurie target  
+    float x_scaling  
+    float y_scaling  
+    float z_scaling  
+    string scaling_unit  
+    float x_rotation  
+    float y_rotation  
+    float z_rotation  
+    string rotation_unit  
+    string rotation_order  
+    float x_translation  
+    float y_translation  
+    float z_translation  
+    string translation_unit  
+    uriorcurie id  
+    string label  
+}
+SpatialObjectReference {
+    string file_name  
+    string file_url  
+    string file_subpath  
+    string file_format  
+    uriorcurie id  
+    string label  
+}
+Creator {
+    string conforms_to  
+    uriorcurie id  
+    string label  
+}
+ExtractionSet {
+    string pref_label  
+    uriorcurie extraction_set_for  
+    integer rui_rank  
+    uriorcurie id  
+    string label  
+}
+LandmarkMetadata {
+    string title  
+    string description  
+    uriorcurieList created_by  
+    string creation_date  
+    string version  
+    string license  
+    string publisher  
+    uriorcurie see_also  
+    uriorcurie derived_from  
+}
+
+Container ||--|o LandmarkMetadata : "metadata"
+Container ||--|o LandmarkData : "data"
+LandmarkData ||--}| ExtractionSet : "landmarks"
+LandmarkData ||--}| SpatialEntity : "spatial_entities"
+SpatialEntity ||--}o Creator : "creators"
+SpatialEntity ||--|o SpatialObjectReference : "object_reference"
+SpatialEntity ||--}o SpatialPlacement : "placements"
+SpatialEntity ||--}o Named : "type_of"
+SpatialPlacement ||--|o SpatialEntity : "source"
+SpatialPlacement ||--}o Named : "type_of"
+SpatialObjectReference ||--|| SpatialPlacement : "placement"
+SpatialObjectReference ||--}o Named : "type_of"
+ExtractionSet ||--}o Named : "type_of"
+
