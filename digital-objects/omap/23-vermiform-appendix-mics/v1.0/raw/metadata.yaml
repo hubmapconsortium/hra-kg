@@ -59,8 +59,7 @@ citation: >-
   Werner Müller; Julia Femel; Andreas Bosio. v1.0,
   [https://doi.org/10.48539/HBM244.BCMQ.737](https://doi.org/10.48539/HBM244.BCMQ.737). 
   Accessed on December 15, 2024.
-citationOverall: >-
- 
+# citationOverall: >-
 datatable:
-  - omap-23-vermiform-appendix-mics.csv
-  - omap-23-vermiform-appendix-mics.xlsx
+  - omap-23-vermiform-appendix.csv
+  - omap-23-vermiform-appendix.csv
