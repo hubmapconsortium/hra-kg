@@ -1,7 +1,7 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Brain
 description: >-
-  Brain v1.6 is a minor update of the table correcting PCL labels for precursor oligodendricytes and updates citation formats.
-  [Brain v1.5](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-allen-brain.csv)
+  Brain v1.7 is a minor update of the table correcting PCL labels for precursor oligodendricytes and updates citation formats.
+  [Brain v1.6](https://cdn.humanatlas.io/digital-objects/asct-b/allen-brain/v1.6/assets/asct-b-allen-brain.csv)
   is a minor update of the table that provides parent cell type mappings to Cell
   Ontology for the specific cell types that were added to [Brain
   v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-allen-brain.csv),
@@ -40,7 +40,7 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: 2024-06-15
+creation_date: 2024-12-15
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -50,13 +50,13 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM867.NWWP.997
-doi: https://doi.org/10.48539/HBM867.NWWP.997
+hubmapId: HBM849.ZMHS.766
+doi: https://doi.org/10.48539/HBM849.ZMHS.766
 citation: >-
   Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables.
-  Brain v1.6,[https://doi.org/10.48539/HBM867.NWWP.997](https://doi.org/10.48539/HBM867.NWWP.997), Accessed on June 15, 2024.
+  Brain v1.7,[https://doi.org/10.48539/HBM849.ZMHS.766](https://doi.org/10.48539/HBM849.ZMHS.766), Accessed on December 15, 2024.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2024.
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2024.
 datatable:
   - asct-b-allen-brain.csv
