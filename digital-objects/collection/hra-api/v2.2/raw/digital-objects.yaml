@@ -135,8 +135,8 @@ digital-objects:
   - ref-organ/heart-female/v1.3
   - ref-organ/kidney-female-left/v1.3
   - ref-organ/kidney-female-right/v1.3
-  - ref-organ/knee-female-left/v1.2
-  - ref-organ/knee-female-right/v1.2
+  - ref-organ/knee-female-left/v1.3
+  - ref-organ/knee-female-right/v1.3
   - ref-organ/large-intestine-female/v1.3
   - ref-organ/larynx-female/v1.1
   - ref-organ/liver-female/v1.2
@@ -146,8 +146,8 @@ digital-objects:
   - ref-organ/mammary-gland-female-left/v1.1
   - ref-organ/mammary-gland-female-right/v1.1
   - ref-organ/manubrium-female/v1.0
-  - ref-organ/ovary-female-left/v1.2
-  - ref-organ/ovary-female-right/v1.2
+  - ref-organ/ovary-female-left/v1.3
+  - ref-organ/ovary-female-right/v1.3
   - ref-organ/palatine-tonsil-female-left/v1.1
   - ref-organ/palatine-tonsil-female-right/v1.1
   - ref-organ/pancreas-female/v1.3
