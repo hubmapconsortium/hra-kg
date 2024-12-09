@@ -44,7 +44,7 @@ reviewers:
     lastName: Gustilo
     orcid: 0000-0002-5574-4272
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: '2024-12-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -54,13 +54,14 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM546.QZBB.572
-doi: https://doi.org/10.48539/HBM546.QZBB.572
+hubmapId: HBM244.XPQP.845
+doi: https://doi.org/10.48539/HBM244.XPQP.845
 citation: >-
   Griffin Weber; Sujin Lee; Rajeev Malhotra. HuBMAP ASCT+B Tables. Blood
-  Vasculature v1.6 [https://doi.org/10.48539/HBM546.QZBB.572](https://doi.org/10.48539/HBM546.QZBB.572), Accessed on June 15, 2024.
+  Vasculature v1.7 [https://doi.org/10.48539/HBM244.XPQP.845](https://doi.org/10.48539/HBM244.XPQP.845), 
+  Accessed on December 15, 2024.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2024.
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2024.
 datatable:
   - asct-b-vh-blood-vasculature.csv
