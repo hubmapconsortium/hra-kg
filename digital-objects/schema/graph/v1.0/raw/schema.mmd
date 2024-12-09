@@ -1,0 +1,19 @@
+erDiagram
+Container {
+    uriorcurie iri  
+    stringList data  
+}
+GraphMetadata {
+    string title  
+    string description  
+    uriorcurieList created_by  
+    string version  
+    string creation_date  
+    string license  
+    string publisher  
+    uriorcurie see_also  
+    uriorcurie derived_from  
+}
+
+Container ||--|o GraphMetadata : "metadata"
+

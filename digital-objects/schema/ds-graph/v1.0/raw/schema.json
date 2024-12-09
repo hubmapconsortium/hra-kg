@@ -1,0 +1,1817 @@
+{
+    "$defs": {
+        "AssayDataset": {
+            "additionalProperties": false,
+            "description": "An assay dataset is a collection of data generated from a specific  experimental assay, providing details about the description of  the dataset, the technology or methodology used, and the  associated cell summaries that outline the analyzed cell types a nd their attributes.",
+            "properties": {
+                "cell_summaries": {
+                    "description": "List of cell summary data associated with this dataset.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "cell summary",
+                    "type": "array"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "external_link": {
+                    "description": "A link to an external resource to provide more information.",
+                    "title": "external link",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "links_back_to": {
+                    "description": "URI that links back to a related resource as a reference connection.",
+                    "title": "links back to",
+                    "type": "string"
+                },
+                "pref_label": {
+                    "title": "preferred label",
+                    "type": "string"
+                },
+                "technology": {
+                    "description": "Type of technology or technique used to collect or analyze the data.",
+                    "title": "assay technology",
+                    "type": "string"
+                },
+                "thumbnail": {
+                    "description": "Image or icon used in user interfaces.",
+                    "title": "thumbnail",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "thumbnail",
+                "id"
+            ],
+            "title": "Assay Dataset",
+            "type": "object"
+        },
+        "AssayDatasetData": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "cell_summary": {
+                    "type": "string"
+                },
+                "collision": {
+                    "type": "string"
+                },
+                "corridor": {
+                    "type": "string"
+                },
+                "dataset": {
+                    "items": {
+                        "$ref": "#/$defs/AssayDataset"
+                    },
+                    "type": "array"
+                },
+                "donor": {
+                    "type": "string"
+                },
+                "sample": {
+                    "type": "string"
+                },
+                "spatial_entity": {
+                    "type": "string"
+                }
+            },
+            "title": "AssayDatasetData",
+            "type": "object"
+        },
+        "CellSummary": {
+            "additionalProperties": false,
+            "description": "A cell summary is a detailed overview of cell-related data, including  the annotation method used, summary rows with cell types and their  counts, the modality (e.g., scRNA-seq), aggregated summaries of  findings, and contextual information such as the donor tissue's sex.",
+            "properties": {
+                "aggregated_summaries": {
+                    "description": "Collection of summaries derived by aggregating data across various  samples or cells.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "aggregated summary",
+                    "type": "array"
+                },
+                "annotation_method": {
+                    "description": "Method used to annotate cells, detailing how each cell was identified or  labeled in the dataset.",
+                    "title": "annotation method",
+                    "type": "string"
+                },
+                "donor_sex": {
+                    "description": "Biological sex of the donor from which the tissue samples were derived.",
+                    "title": "donor biological sex",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "modality": {
+                    "description": "Type or method of data collection, such as imaging or sequencing.",
+                    "title": "modality",
+                    "type": "string"
+                },
+                "summary_rows": {
+                    "description": "Collection of detailed cell summary entries, listing each cell's  specifics like count and gene expression.",
+                    "items": {
+                        "$ref": "#/$defs/CellSummaryRow"
+                    },
+                    "title": "cell summary row",
+                    "type": "array"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "annotation_method",
+                "modality",
+                "donor_sex",
+                "summary_rows",
+                "id"
+            ],
+            "title": "Cell Summary",
+            "type": "object"
+        },
+        "CellSummaryData": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "cell_summary": {
+                    "items": {
+                        "$ref": "#/$defs/CellSummary"
+                    },
+                    "type": "array"
+                },
+                "collision": {
+                    "type": "string"
+                },
+                "corridor": {
+                    "type": "string"
+                },
+                "dataset": {
+                    "type": "string"
+                },
+                "donor": {
+                    "type": "string"
+                },
+                "sample": {
+                    "type": "string"
+                },
+                "spatial_entity": {
+                    "type": "string"
+                }
+            },
+            "title": "CellSummaryData",
+            "type": "object"
+        },
+        "CellSummaryMetadata": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "created_by": {
+                    "description": "An entity responsible for making the resource.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "creator",
+                    "type": "array"
+                },
+                "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
+                    "type": "string"
+                },
+                "derived_from": {
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.    ",
+                    "title": "was derived from",
+                    "type": "string"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
+                    "type": "string"
+                },
+                "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
+                    "type": "string"
+                },
+                "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
+                    "type": "string"
+                },
+                "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
+                    "type": "string"
+                }
+            },
+            "title": "CellSummaryMetadata",
+            "type": "object"
+        },
+        "CellSummaryRow": {
+            "additionalProperties": false,
+            "description": "A cell summary row is a single entry in a cell summary table that  provides information about a specific cell type, including its name,  count, and any related attributes such as tissue, modality, or donor  characteristics.",
+            "properties": {
+                "cell_id": {
+                    "description": "Unique identifier assigned to a cell type.",
+                    "title": "cell type identifier",
+                    "type": "string"
+                },
+                "cell_label": {
+                    "description": "Descriptive label assigned to a cell type.",
+                    "title": "cell label",
+                    "type": "string"
+                },
+                "count": {
+                    "description": "Number of occurrences of this cell type within the sample.",
+                    "title": "cell count",
+                    "type": "integer"
+                },
+                "gene_expressions": {
+                    "description": "List of gene expression profiles for the cell type.",
+                    "items": {
+                        "$ref": "#/$defs/GeneExpression"
+                    },
+                    "title": "gene expression",
+                    "type": "array"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "percentage": {
+                    "description": "Percentage of the total sample that this cell type represents.",
+                    "title": "percentage",
+                    "type": "number"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "cell_id",
+                "cell_label",
+                "count",
+                "percentage",
+                "id"
+            ],
+            "title": "Cell Summary Row",
+            "type": "object"
+        },
+        "CollisionData": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "cell_summary": {
+                    "type": "string"
+                },
+                "collision": {
+                    "items": {
+                        "$ref": "#/$defs/CollisionSummary"
+                    },
+                    "type": "array"
+                },
+                "corridor": {
+                    "type": "string"
+                },
+                "dataset": {
+                    "type": "string"
+                },
+                "donor": {
+                    "type": "string"
+                },
+                "sample": {
+                    "type": "string"
+                },
+                "spatial_entity": {
+                    "type": "string"
+                }
+            },
+            "title": "CollisionData",
+            "type": "object"
+        },
+        "CollisionItem": {
+            "additionalProperties": false,
+            "description": "A collision item is a detailed record of a spatial overlap, including  information about the spatial entity involved, the volume of the  collision, and the percentage of overlap relative to the entity's  total volume.",
+            "properties": {
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "percentage": {
+                    "description": "Percentage of the total sample that this cell type represents.",
+                    "title": "percentage",
+                    "type": "number"
+                },
+                "spatial_entity_reference": {
+                    "description": "Reference to the spatial entity involved in the collision.",
+                    "title": "spatial entity",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                },
+                "volume": {
+                    "description": "Volume of the spatial entity in the collision.",
+                    "title": "volume",
+                    "type": "number"
+                }
+            },
+            "required": [
+                "spatial_entity_reference",
+                "volume",
+                "percentage",
+                "id"
+            ],
+            "title": "Collision Item",
+            "type": "object"
+        },
+        "CollisionMetadata": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "created_by": {
+                    "description": "An entity responsible for making the resource.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "creator",
+                    "type": "array"
+                },
+                "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
+                    "type": "string"
+                },
+                "derived_from": {
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.    ",
+                    "title": "was derived from",
+                    "type": "string"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
+                    "type": "string"
+                },
+                "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
+                    "type": "string"
+                },
+                "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
+                    "type": "string"
+                },
+                "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
+                    "type": "string"
+                }
+            },
+            "title": "CollisionMetadata",
+            "type": "object"
+        },
+        "CollisionSummary": {
+            "additionalProperties": false,
+            "description": "A collision summary provides an overview of detected collisions,  including the method used for collision detection and details  about the specific collision items identified.",
+            "properties": {
+                "collision_items": {
+                    "description": "List of collision instances detailing specific spatial entity interactions.",
+                    "items": {
+                        "$ref": "#/$defs/CollisionItem"
+                    },
+                    "title": "collision item",
+                    "type": "array"
+                },
+                "collision_method": {
+                    "description": "Method used to determine or calculate collisions between spatial entities.",
+                    "title": "collision method",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "collision_method",
+                "collision_items",
+                "id"
+            ],
+            "title": "Collision Summary",
+            "type": "object"
+        },
+        "Container": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "data": {
+                    "$ref": "#/$defs/DatasetGraphData"
+                },
+                "iri": {
+                    "type": "string"
+                },
+                "metadata": {
+                    "$ref": "#/$defs/DatasetGraphMetadata"
+                }
+            },
+            "title": "Container",
+            "type": "object"
+        },
+        "Corridor": {
+            "additionalProperties": false,
+            "description": "A corridor is a spatial data representation or model, often used  to describe pathways or regions of interest in a given space.  It includes details about the file format and the file URL for  accessing the data.",
+            "properties": {
+                "file_format": {
+                    "description": "The format of the file to read.",
+                    "title": "file format",
+                    "type": "string"
+                },
+                "file_url": {
+                    "description": "The URL of the file to download or viewing.",
+                    "title": "file link",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "file_format",
+                "file_url",
+                "id"
+            ],
+            "title": "Corridor",
+            "type": "object"
+        },
+        "CorridorData": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "cell_summary": {
+                    "type": "string"
+                },
+                "collision": {
+                    "type": "string"
+                },
+                "corridor": {
+                    "items": {
+                        "$ref": "#/$defs/Corridor"
+                    },
+                    "type": "array"
+                },
+                "dataset": {
+                    "type": "string"
+                },
+                "donor": {
+                    "type": "string"
+                },
+                "sample": {
+                    "type": "string"
+                },
+                "spatial_entity": {
+                    "type": "string"
+                }
+            },
+            "title": "CorridorData",
+            "type": "object"
+        },
+        "CorridorMetadata": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "created_by": {
+                    "description": "An entity responsible for making the resource.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "creator",
+                    "type": "array"
+                },
+                "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
+                    "type": "string"
+                },
+                "derived_from": {
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.    ",
+                    "title": "was derived from",
+                    "type": "string"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
+                    "type": "string"
+                },
+                "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
+                    "type": "string"
+                },
+                "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
+                    "type": "string"
+                },
+                "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
+                    "type": "string"
+                }
+            },
+            "title": "CorridorMetadata",
+            "type": "object"
+        },
+        "Dataset": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "citation": {
+                    "description": "A citation or reference to another creative work, such  as another publication, web page, scholarly article, etc.",
+                    "title": "citation",
+                    "type": "string"
+                },
+                "citationOverall": {
+                    "description": "A written reference to a source, such as a  book, article, or website, that identifies  the original source of information in a work.",
+                    "title": "citation",
+                    "type": "string"
+                },
+                "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
+                    "type": "string"
+                },
+                "creators": {
+                    "description": "An entity responsible for making the resource.",
+                    "items": {
+                        "anyOf": [
+                            {
+                                "$ref": "#/$defs/Person"
+                            },
+                            {
+                                "$ref": "#/$defs/SoftwareApplication"
+                            }
+                        ]
+                    },
+                    "title": "creator",
+                    "type": "array"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "distributions": {
+                    "description": "An available distribution of the dataset.",
+                    "items": {
+                        "$ref": "#/$defs/Distribution"
+                    },
+                    "title": "dataset distribution",
+                    "type": "array"
+                },
+                "doi": {
+                    "description": "A DOI, or Digital Object Identifier, is a  unique string of numbers, letters, and symbols  that identifies a specific publication.",
+                    "title": "DOI",
+                    "type": "string"
+                },
+                "externalReviewers": {
+                    "description": "An independent expert from outside an organization  who provides critical feedback and evaluation on  a program, project, or proposal.",
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "title": "external reviewer",
+                    "type": "array"
+                },
+                "funders": {
+                    "description": "A Grant that directly or indirectly provide  funding or sponsorship for this item.",
+                    "items": {
+                        "$ref": "#/$defs/Grant"
+                    },
+                    "title": "funding",
+                    "type": "array"
+                },
+                "hubmapId": {
+                    "description": "HuBMAP identifier.",
+                    "title": "HuBMAP identifier",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
+                    "type": "string"
+                },
+                "project_leads": {
+                    "description": "A person who is responsible for leading a project  or a specific aspect of a project, including planning, implementation, and tracking. ",
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "title": "project lead",
+                    "type": "array"
+                },
+                "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
+                    "type": "string"
+                },
+                "reviewers": {
+                    "description": "People or organizations that have reviewed the  content on this web page for accuracy and/or  completeness.",
+                    "items": {
+                        "$ref": "#/$defs/Person"
+                    },
+                    "title": "reviewer",
+                    "type": "array"
+                },
+                "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
+                    "type": "string"
+                },
+                "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
+                    "type": "string"
+                },
+                "was_derived_from": {
+                    "$ref": "#/$defs/Dataset",
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.",
+                    "title": "was derived from"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Dataset",
+            "type": "object"
+        },
+        "DatasetGraphData": {
+            "additionalProperties": false,
+            "description": "The data section for the \"ds-graph\" digital object.",
+            "properties": {
+                "cell_summary": {
+                    "description": "List of cell summaries referenced in the experiment dataset metadata records.",
+                    "items": {
+                        "$ref": "#/$defs/CellSummary"
+                    },
+                    "title": "cell summary data",
+                    "type": "array"
+                },
+                "collision": {
+                    "description": "List of collisions referenced in the experiment dataset metadata records.",
+                    "items": {
+                        "$ref": "#/$defs/CollisionSummary"
+                    },
+                    "title": "collision data",
+                    "type": "array"
+                },
+                "corridor": {
+                    "description": "List of corridors referenced in the experiment dataset metadata records.",
+                    "items": {
+                        "$ref": "#/$defs/Corridor"
+                    },
+                    "title": "corridor data",
+                    "type": "array"
+                },
+                "dataset": {
+                    "description": "List of datasets referenced in the experiment dataset metadata records.",
+                    "items": {
+                        "$ref": "#/$defs/AssayDataset"
+                    },
+                    "title": "dataset data",
+                    "type": "array"
+                },
+                "donor": {
+                    "description": "List of donors referenced in the experiment dataset metadata records.",
+                    "items": {
+                        "$ref": "#/$defs/Donor"
+                    },
+                    "title": "donor data",
+                    "type": "array"
+                },
+                "sample": {
+                    "description": "List of tissue samples referenced in the experiment dataset metadata records.",
+                    "items": {
+                        "$ref": "#/$defs/TissueBlock"
+                    },
+                    "title": "tissue sample data",
+                    "type": "array"
+                },
+                "spatial_entity": {
+                    "description": "List of spatial entities referenced in the experiment dataset metadata records.",
+                    "items": {
+                        "$ref": "#/$defs/SpatialEntity"
+                    },
+                    "title": "spatial entity data",
+                    "type": "array"
+                }
+            },
+            "title": "Dataset Graph Data",
+            "type": "object"
+        },
+        "DatasetGraphMetadata": {
+            "additionalProperties": false,
+            "description": "The metadadata section for the \"ds-graph\" digital object.",
+            "properties": {
+                "created_by": {
+                    "description": "An entity responsible for making the resource.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "creator",
+                    "type": "array"
+                },
+                "creation_date": {
+                    "description": "The date on which the CreativeWork was created or the  item was added to a DataFeed.",
+                    "title": "created date",
+                    "type": "string"
+                },
+                "derived_from": {
+                    "description": "A derivation is a transformation of an entity into another, an  update of an entity resulting in a new one, or the construction  of a new entity based on a pre-existing entity.    ",
+                    "title": "was derived from",
+                    "type": "string"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "license": {
+                    "description": "A legal document giving official permission to do something  with the resource.",
+                    "title": "license",
+                    "type": "string"
+                },
+                "publisher": {
+                    "description": "An entity responsible for making the resource available.",
+                    "title": "publisher",
+                    "type": "string"
+                },
+                "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
+                    "type": "string"
+                },
+                "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
+                    "type": "string"
+                }
+            },
+            "title": "Dataset Graph Metadata",
+            "type": "object"
+        },
+        "Distribution": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "accessUrl": {
+                    "description": "A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint.",
+                    "title": "access URL",
+                    "type": "string"
+                },
+                "downloadUrl": {
+                    "description": "The URL of the downloadable file in a given format.",
+                    "title": "download URL",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "mediaType": {
+                    "description": "The media type of the distribution as defined by IANA.",
+                    "title": "media type",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "A name given to the resource.",
+                    "title": "title",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Distribution",
+            "type": "object"
+        },
+        "Donor": {
+            "additionalProperties": false,
+            "description": "A donor refers to an individual from whom biological samples or  data are obtained for research, with associated information  including age, BMI, sex, race, the providers supplying the sample,  and the consortium responsible for its collection.",
+            "properties": {
+                "age": {
+                    "description": "The age of the donor.",
+                    "title": "age",
+                    "type": "integer"
+                },
+                "bmi": {
+                    "description": "The Body Mass Index (BMI) of the donor.",
+                    "title": "body mass index",
+                    "type": "number"
+                },
+                "consortium_name": {
+                    "description": "The name of the consortium associated with the data.",
+                    "title": "consortium name",
+                    "type": "string"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "external_link": {
+                    "description": "A link to an external resource to provide more information.",
+                    "title": "external link",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "pref_label": {
+                    "title": "preferred label",
+                    "type": "string"
+                },
+                "provider_name": {
+                    "description": "The name of the tissue provider responsible for supplying the tissue  sample data.",
+                    "title": "provider name",
+                    "type": "string"
+                },
+                "provider_uuid": {
+                    "description": "A unique identifier for the tissue provider linked to the tissue sample data.",
+                    "title": "provider UUID",
+                    "type": "string"
+                },
+                "provides_samples": {
+                    "description": "A collection of references to tissue samples associated with the donor.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "provides",
+                    "type": "array"
+                },
+                "race": {
+                    "description": "The race of the donor.",
+                    "title": "race",
+                    "type": "string"
+                },
+                "race_id": {
+                    "description": "A code representing the donor's race according to the LOINC vocabulary.",
+                    "pattern": "(loinc:LA10608-0|loinc:LA6156-9|loinc:LA10610-6|loinc:LA10611-4|loinc:LA4457-3|loinc:LA4489-6)",
+                    "title": "race identifier",
+                    "type": "string"
+                },
+                "sex": {
+                    "description": "The biological sex of the donor.",
+                    "title": "biological sex",
+                    "type": "string"
+                },
+                "sex_id": {
+                    "description": "A code representing the donor's sex according to the LOINC vocabulary.",
+                    "pattern": "(loinc:LA3-6|loinc:LA2-8|loinc:LA4489-6)",
+                    "title": "biological sex identifier",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Donor",
+            "type": "object"
+        },
+        "DonorData": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "cell_summary": {
+                    "type": "string"
+                },
+                "collision": {
+                    "type": "string"
+                },
+                "corridor": {
+                    "type": "string"
+                },
+                "dataset": {
+                    "type": "string"
+                },
+                "donor": {
+                    "items": {
+                        "$ref": "#/$defs/Donor"
+                    },
+                    "type": "array"
+                },
+                "sample": {
+                    "type": "string"
+                },
+                "spatial_entity": {
+                    "type": "string"
+                }
+            },
+            "title": "DonorData",
+            "type": "object"
+        },
+        "GeneExpression": {
+            "additionalProperties": false,
+            "description": "Gene expression refers to data that captures the activity levels of  specific genes within a summarized cell population, including details  like gene ID, label, Ensembl ID, and the mean expression value across  the cells.",
+            "properties": {
+                "ensembl_id": {
+                    "description": "Ensembl database identifier for the gene, used for cross-referencing.",
+                    "title": "ensembl identifier",
+                    "type": "string"
+                },
+                "gene_id": {
+                    "description": "Unique identifier assigned to a gene symbol.",
+                    "title": "gene identifier",
+                    "type": "string"
+                },
+                "gene_label": {
+                    "description": "Descriptive label assigned to a gene symbol.",
+                    "title": "gene label",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "mean_gene_expression_value": {
+                    "description": "Average expression level of the gene across the sample or dataset.",
+                    "title": "mean gene expression value",
+                    "type": "number"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "gene_id",
+                "gene_label",
+                "ensembl_id",
+                "mean_gene_expression_value",
+                "id"
+            ],
+            "title": "Gene Expression",
+            "type": "object"
+        },
+        "Grant": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "awardNumber": {
+                    "description": "An award won by or for this item.",
+                    "title": "award",
+                    "type": "string"
+                },
+                "funder": {
+                    "description": "A person or organization that supports (sponsors)  something through some kind of financial contribution.",
+                    "title": "funder",
+                    "type": "string"
+                }
+            },
+            "title": "Grant",
+            "type": "object"
+        },
+        "Person": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
+                    "enum": [
+                        "Person"
+                    ],
+                    "title": "conforms to",
+                    "type": "string"
+                },
+                "firstName": {
+                    "description": "Given name. In the U.S., the first name of a person.",
+                    "title": "first name",
+                    "type": "string"
+                },
+                "fullName": {
+                    "description": "The full name of a person.",
+                    "title": "full name",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "lastName": {
+                    "description": "Family name. In the U.S., the last name of a person.",
+                    "title": "last name",
+                    "type": "string"
+                },
+                "orcid": {
+                    "description": "ORCID identifier.",
+                    "pattern": "^(\\d{4}-){3}\\d{3}(\\d|X)$",
+                    "title": "orcid",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Person",
+            "type": "object"
+        },
+        "SampleData": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "cell_summary": {
+                    "type": "string"
+                },
+                "collision": {
+                    "type": "string"
+                },
+                "corridor": {
+                    "type": "string"
+                },
+                "dataset": {
+                    "type": "string"
+                },
+                "donor": {
+                    "type": "string"
+                },
+                "sample": {
+                    "items": {
+                        "$ref": "#/$defs/TissueBlock"
+                    },
+                    "type": "array"
+                },
+                "spatial_entity": {
+                    "type": "string"
+                }
+            },
+            "title": "SampleData",
+            "type": "object"
+        },
+        "SoftwareApplication": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "conforms_to": {
+                    "description": "Indicates the type or specification that the entity adheres to.",
+                    "enum": [
+                        "SoftwareApplication"
+                    ],
+                    "title": "conforms to",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "name": {
+                    "description": "The name of the item.",
+                    "title": "name",
+                    "type": "string"
+                },
+                "target_product": {
+                    "$ref": "#/$defs/SoftwareSourceCode",
+                    "description": "Target Operating System / Product to which  the code applies. If applies to several versions,  just the product name can be used.",
+                    "title": "target product"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                },
+                "version": {
+                    "description": "The version of the CreativeWork embodied by a specified  resource.",
+                    "title": "version",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "SoftwareApplication",
+            "type": "object"
+        },
+        "SoftwareSourceCode": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "code_repository": {
+                    "description": "Link to the repository where the un-compiled,  human readable code and related code is located  (SVN, GitHub, CodePlex).",
+                    "title": "code repository",
+                    "type": "string"
+                },
+                "see_also": {
+                    "description": "A reference used to indicate a resource that might  provide additional information about the subject resource.",
+                    "title": "see also",
+                    "type": "string"
+                }
+            },
+            "title": "SoftwareSourceCode",
+            "type": "object"
+        },
+        "SpatialData": {
+            "additionalProperties": false,
+            "description": "",
+            "properties": {
+                "cell_summary": {
+                    "type": "string"
+                },
+                "collision": {
+                    "type": "string"
+                },
+                "corridor": {
+                    "type": "string"
+                },
+                "dataset": {
+                    "type": "string"
+                },
+                "donor": {
+                    "type": "string"
+                },
+                "sample": {
+                    "type": "string"
+                },
+                "spatial_entity": {
+                    "items": {
+                        "$ref": "#/$defs/SpatialEntity"
+                    },
+                    "type": "array"
+                }
+            },
+            "title": "SpatialData",
+            "type": "object"
+        },
+        "SpatialEntity": {
+            "additionalProperties": false,
+            "description": "A spatial entity is a defined object or structure with a specific  location, boundary, and orientation in physical or conceptual  space, such as an organ, tissue, or cell in anatomical studies.",
+            "properties": {
+                "collides_with": {
+                    "description": "Identifies other anatomical structures that intersect or collide with this spatial entity.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "collides with",
+                    "type": "array"
+                },
+                "create_date": {
+                    "description": "Date of creation of the resource.",
+                    "format": "date",
+                    "title": "date created",
+                    "type": "string"
+                },
+                "creator_name": {
+                    "description": "An entity responsible for making the resource.",
+                    "title": "creator",
+                    "type": "string"
+                },
+                "dimension_unit": {
+                    "description": "The unit of measurement used for the spatial entity's dimensions.",
+                    "pattern": "(centimeter|millimeter)",
+                    "title": "dimension unit",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "placement": {
+                    "$ref": "#/$defs/SpatialPlacement",
+                    "description": "Reference to the placement of the spatial entity.",
+                    "title": "spatial entity placement"
+                },
+                "pref_label": {
+                    "title": "preferred label",
+                    "type": "string"
+                },
+                "slice_count": {
+                    "description": "The number of slices or layers within the spatial entity.",
+                    "title": "slice count",
+                    "type": "integer"
+                },
+                "slice_thickness": {
+                    "description": "The thickness of each slice within the spatial entity.",
+                    "title": "slice thickness",
+                    "type": "integer"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                },
+                "x_dimension": {
+                    "description": "The length of the spatial entity along the X-axis.",
+                    "minimum": 0.0,
+                    "title": "dimension in x-axis",
+                    "type": "number"
+                },
+                "y_dimension": {
+                    "description": "The length of the spatial entity along the Y-axis.",
+                    "minimum": 0.0,
+                    "title": "dimension in y-axis",
+                    "type": "number"
+                },
+                "z_dimension": {
+                    "description": "The length of the spatial entity along the Z-axis.",
+                    "minimum": 0.0,
+                    "title": "dimension in z-axis",
+                    "type": "number"
+                }
+            },
+            "required": [
+                "x_dimension",
+                "y_dimension",
+                "z_dimension",
+                "dimension_unit",
+                "placement",
+                "id"
+            ],
+            "title": "Spatial Entity",
+            "type": "object"
+        },
+        "SpatialObjectReference": {
+            "additionalProperties": false,
+            "description": "A spatial object reference is a record describing a spatial entity,  including its placement within a defined space, the associated file  name, URL for access, and file format.",
+            "properties": {
+                "file_format": {
+                    "description": "The format of the file to read.",
+                    "title": "file format",
+                    "type": "string"
+                },
+                "file_name": {
+                    "description": "The name of the file.",
+                    "title": "file name",
+                    "type": "string"
+                },
+                "file_subpath": {
+                    "description": "A relative path.",
+                    "title": "file subpath",
+                    "type": "string"
+                },
+                "file_url": {
+                    "description": "The URL of the file to download or viewing.",
+                    "title": "file link",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "placement": {
+                    "$ref": "#/$defs/SpatialPlacement",
+                    "description": "Reference to the placement of the spatial entity.",
+                    "title": "spatial entity placement"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "file_name",
+                "file_url",
+                "file_format",
+                "placement",
+                "id"
+            ],
+            "title": "Spatial Object Reference",
+            "type": "object"
+        },
+        "SpatialPlacement": {
+            "additionalProperties": false,
+            "description": "Spatial placement refers to the positioning and orientation of  an entity within a defined space or context, often describing  its location relative to other entities or a coordinate system.",
+            "properties": {
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "placement_date": {
+                    "description": "The date when the placement of the entity was established.",
+                    "format": "date",
+                    "title": "placement date",
+                    "type": "string"
+                },
+                "rotation_order": {
+                    "description": "The sequence of axis rotations applied to the spatial entity.",
+                    "pattern": "XYZ",
+                    "title": "rotation order",
+                    "type": "string"
+                },
+                "rotation_unit": {
+                    "description": "The unit for rotation, typically measured in degrees.",
+                    "pattern": "degree",
+                    "title": "rotation unit",
+                    "type": "string"
+                },
+                "scaling_unit": {
+                    "description": "The unit of measurement for scaling, usually represented as a ratio.",
+                    "pattern": "ratio",
+                    "title": "scaling unit",
+                    "type": "string"
+                },
+                "source": {
+                    "description": "The originating spatial entity that serves as the source for a placement relationship.",
+                    "title": "placement for",
+                    "type": "string"
+                },
+                "target": {
+                    "description": "The spatial entity relative to which the placement is defined.",
+                    "title": "placement relative to",
+                    "type": "string"
+                },
+                "translation_unit": {
+                    "description": "The unit for translation distances.",
+                    "pattern": "(centimeter|millimeter)",
+                    "title": "translation unit",
+                    "type": "string"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                },
+                "x_rotation": {
+                    "description": "Rotation of the spatial entity around the X-axis.",
+                    "title": "rotation in x-axis",
+                    "type": "number"
+                },
+                "x_scaling": {
+                    "description": "Scaling factor applied along the X-axis.",
+                    "minimum": 0.0,
+                    "title": "scaling in x-axis",
+                    "type": "number"
+                },
+                "x_translation": {
+                    "description": "The positional offset along the X-axis.",
+                    "title": "translation in x-axis",
+                    "type": "number"
+                },
+                "y_rotation": {
+                    "description": "Rotation of the spatial entity around the Y-axis.",
+                    "title": "rotation in y-axis",
+                    "type": "number"
+                },
+                "y_scaling": {
+                    "description": "Scaling factor applied along the Y-axis.",
+                    "minimum": 0.0,
+                    "title": "scaling in y-axis",
+                    "type": "number"
+                },
+                "y_translation": {
+                    "description": "The positional offset along the Y-axis.",
+                    "title": "translation in y-axis",
+                    "type": "number"
+                },
+                "z_rotation": {
+                    "description": "Rotation of the spatial entity around the Z-axis.",
+                    "title": "rotation in z-axis",
+                    "type": "number"
+                },
+                "z_scaling": {
+                    "description": "Scaling factor applied along the Z-axis.",
+                    "minimum": 0.0,
+                    "title": "scaling in z-axis",
+                    "type": "number"
+                },
+                "z_translation": {
+                    "description": "The positional offset along the Z-axis.",
+                    "title": "translation in z-axis",
+                    "type": "number"
+                }
+            },
+            "required": [
+                "target",
+                "placement_date",
+                "x_scaling",
+                "y_scaling",
+                "z_scaling",
+                "scaling_unit",
+                "x_rotation",
+                "y_rotation",
+                "z_rotation",
+                "rotation_unit",
+                "x_translation",
+                "y_translation",
+                "z_translation",
+                "translation_unit",
+                "id"
+            ],
+            "title": "Spatial Placement",
+            "type": "object"
+        },
+        "TissueBlock": {
+            "additionalProperties": false,
+            "description": "A tissue block is a defined piece of tissue extracted from a  specific location for research or analysis, with detailed  information about its extraction site, tissue sections,  associated datasets, section counts and sizes, and collision  summaries related to spatial overlaps.",
+            "properties": {
+                "collision_summaries": {
+                    "description": "Summaries of collision data indicating spatial collisions with other organs.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "collision summary",
+                    "type": "array"
+                },
+                "corridors": {
+                    "description": "References to corridor structures linked to the spatial positioning of the  tissue block.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "corridor",
+                    "type": "array"
+                },
+                "datasets": {
+                    "description": "Datasets generated from the tissue block or section.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "generates dataset",
+                    "type": "array"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "external_link": {
+                    "description": "A link to an external resource to provide more information.",
+                    "title": "external link",
+                    "type": "string"
+                },
+                "extraction_site": {
+                    "description": "Reference to the anatomical site from which the tissue was extracted.",
+                    "title": "extraction site",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "links_back_to": {
+                    "description": "URI that links back to a related resource as a reference connection.",
+                    "title": "links back to",
+                    "type": "string"
+                },
+                "partially_overlaps": {
+                    "description": "Identifies other anatomical structures that partially overlap with the spatial positioning of the tissue block.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "partially overlaps",
+                    "type": "array"
+                },
+                "pref_label": {
+                    "title": "preferred label",
+                    "type": "string"
+                },
+                "rui_location": {
+                    "description": "Reference to the registration location for the tissue block within the reference atlas.",
+                    "title": "registration location",
+                    "type": "string"
+                },
+                "section_count": {
+                    "description": "The number of sections contained within the tissue block.",
+                    "title": "section count",
+                    "type": "integer"
+                },
+                "section_size": {
+                    "description": "The physical size of each tissue section.",
+                    "title": "section size",
+                    "type": "number"
+                },
+                "section_size_unit": {
+                    "description": "The unit of measurement used for the section size.",
+                    "title": "section size unit",
+                    "type": "string"
+                },
+                "sections": {
+                    "description": "References to individual tissue sections that are part of the tissue block.",
+                    "items": {
+                        "$ref": "#/$defs/TissueSection"
+                    },
+                    "title": "subdivided into sections",
+                    "type": "array"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Tissue Block",
+            "type": "object"
+        },
+        "TissueSection": {
+            "additionalProperties": false,
+            "description": "A tissue section is a thin slice or layer derived from a tissue block,  associated with a specific section number, and linked to datasets  generated from its analysis.",
+            "properties": {
+                "datasets": {
+                    "description": "Datasets generated from the tissue block or section.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "generates dataset",
+                    "type": "array"
+                },
+                "description": {
+                    "description": "An account of the resource.",
+                    "title": "description",
+                    "type": "string"
+                },
+                "external_link": {
+                    "description": "A link to an external resource to provide more information.",
+                    "title": "external link",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "A unique identifier for the entity",
+                    "title": "concept identifier",
+                    "type": "string"
+                },
+                "label": {
+                    "description": "A string used to provide a human-readable version of  a resource's name.",
+                    "title": "label",
+                    "type": "string"
+                },
+                "links_back_to": {
+                    "description": "URI that links back to a related resource as a reference connection.",
+                    "title": "links back to",
+                    "type": "string"
+                },
+                "pref_label": {
+                    "title": "preferred label",
+                    "type": "string"
+                },
+                "related_samples": {
+                    "description": "A collection of references to additional related samples.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "related sample",
+                    "type": "array"
+                },
+                "section_number": {
+                    "description": "The order number of a specific section within a tissue block.",
+                    "title": "section number",
+                    "type": "integer"
+                },
+                "type_of": {
+                    "description": "Defines the class type that this instance belongs to.",
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "type of",
+                    "type": "array"
+                }
+            },
+            "required": [
+                "id"
+            ],
+            "title": "Tissue Section",
+            "type": "object"
+        }
+    },
+    "$id": "https://purl.humanatlas.io/schema/ds-graph",
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "additionalProperties": true,
+    "description": "",
+    "metamodel_version": "1.7.0",
+    "properties": {
+        "data": {
+            "$ref": "#/$defs/DatasetGraphData"
+        },
+        "iri": {
+            "type": "string"
+        },
+        "metadata": {
+            "$ref": "#/$defs/DatasetGraphMetadata"
+        }
+    },
+    "title": "ds-graph",
+    "type": "object",
+    "version": null
+}

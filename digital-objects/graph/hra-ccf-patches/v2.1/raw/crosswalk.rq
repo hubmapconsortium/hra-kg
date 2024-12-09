@@ -7,11 +7,13 @@ PREFIX hra-ccf-body: <https://purl.humanatlas.io/graph/hra-ccf-body#>
 PREFIX CCF: <https://purl.humanatlas.io/graph/ccf>
 
 CONSTRUCT {
- ?ccf1RefOrgan owl:sameAs ?hraRefOrgan .
- ?ccf1RefOrgan a ccf:SpatialEntity .
- ?hraRefOrgan a ccf:SpatialEntity .
+  ?ccf1RefOrgan a ccf:SpatialEntity ;
+    owl:sameAs ?hraRefOrgan ;
+    ccf:organ_owner_sex ?sex ;
+    ccf:representation_of ?organIri .
+  ?hraRefOrgan a ccf:SpatialEntity .
 
- ?ccf1HraPlacement a ccf:SpatialPlacement ;
+  ?ccf1HraPlacement a ccf:SpatialPlacement ;
     ccf:placement_for ?ccf1RefOrgan ;
     ccf:placement_relative_to ?hraRefOrgan ;
     ccf:rotation_unit "degree" ;
@@ -48,12 +50,13 @@ WHERE {
   }
   
   {
-    SELECT (?refOrgan as ?hraRefOrgan) ?sex ?sceneNode
+    SELECT (?refOrgan as ?hraRefOrgan) ?sex ?sceneNode ?organIri
     WHERE {
       # ?refOrgan ccf:has_placement ?n .
       ?n ccf:placement_for ?refOrgan .
       ?n ccf:placement_relative_to ?target .
       ?refOrgan ccf:organ_owner_sex ?sex .
+      ?refOrgan ccf:representation_of ?organIri .
       ?refOrgan ccf:has_reference_organ ?refOrgan .
       ?refOrgan ccf:has_object_reference [
         ccf:file_subpath ?sceneNode  

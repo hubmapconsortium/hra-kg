@@ -1,0 +1,47 @@
+erDiagram
+Container {
+    uriorcurie iri  
+}
+CollisionData {
+    string donor  
+    string sample  
+    string dataset  
+    string spatial_entity  
+    string cell_summary  
+    string corridor  
+}
+CollisionSummary {
+    string collision_method  
+    uriorcurie id  
+    string label  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+CollisionItem {
+    uriorcurie spatial_entity_reference  
+    float volume  
+    float percentage  
+    uriorcurie id  
+    string label  
+}
+CollisionMetadata {
+    string title  
+    string description  
+    uriorcurieList created_by  
+    string creation_date  
+    string version  
+    string license  
+    string publisher  
+    uriorcurie see_also  
+    uriorcurie derived_from  
+}
+
+Container ||--|o CollisionMetadata : "metadata"
+Container ||--|o CollisionData : "data"
+CollisionData ||--}o CollisionSummary : "collision"
+CollisionSummary ||--}| CollisionItem : "collision_items"
+CollisionSummary ||--}o Named : "type_of"
+CollisionItem ||--}o Named : "type_of"
+
