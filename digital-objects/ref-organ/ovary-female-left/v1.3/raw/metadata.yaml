@@ -37,17 +37,17 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM435.VRCV.874
-# doi: https://doi.org/10.48539/HBM435.VRCV.874
+# hubmapId: HBM695.KCXS.294
+# doi: https://doi.org/10.48539/HBM695.KCXS.294
 citation: >-
   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Ovary, Female,
-  Left v1.2.*
-  [https://doi.org/10.48539/HBM435.VRCV.874](https://doi.org/10.48539/HBM435.VRCV.874).
-  Accessed on June 15, 2024.
+  Left v1.3.*
+  [https://doi.org/10.48539/HBM695.KCXS.294](https://doi.org/10.48539/HBM695.KCXS.294).
+  Accessed on December 15, 2024.
 citationOverall: >-
   Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
   Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2024.
+  Library*.](https://humanatlas.io/3d-reference-library)   Accessed on December 15, 2024.
 datatable:
   - 3d-vh-f-ovary-l.glb
   - crosswalk.csv
