@@ -1,8 +1,8 @@
-title: 3D Reference Organ Set for United, Male
+title: 3D Reference Organ for Renal Pelvis, male, left
 description: >-
-  [This reference organ set](https://humanatlas.io/3d-reference-library) was
-  created using data from the Visible Human Male, provided by the National
-  Library of Medicine.
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created
+  using data from the Visible Human Female provided by the National Library of
+  Medicine.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -18,16 +18,16 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 reviewers:
-  - fullName: Bruce W. Herr II
-    firstName: Bruce
-    lastName: Herr
-    orcid: 0000-0002-6703-7647
-  - fullName: Ellen M. Quardokus
-    firstName: Ellen
-    lastName: Quardokus
-    orcid: 0000-0001-7655-4833
+  - fullName: Jeffrey Spraggins
+    firstName: Jeffrey
+    lastName: Spraggins
+    orcid: 0000-0001-9198-5498
+  - fullName: Sanjay Jain
+    firstName: Sanjay
+    lastName: Jain
+    orcid: 0000-0003-2804-127X
 externalReviewers: []
-creation_date: '2024-12-15'
+creation_date: '2021-12-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -37,16 +37,16 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM933.WSQW.966
-doi: https://doi.org/10.48539/HBM933.WSQW.966
+hubmapId: HBM636.ZFCT.453
+doi: https://doi.org/10.48539/HBM636.ZFCT.453
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ Set for Male
-  v1.7.*,[https://doi.org/10.48539/HBM933.WSQW.966](https://doi.org/10.48539/HBM933.WSQW.966). Accessed on December 15,
-  2024.
+  Kristen Browne, Heidi Schlehlein. 2024. *3D Reference Organ for Renal Pelvis, male, left v1.0.*
+  [https://doi.org/10.48539/HBM636.ZFCT.453](https://doi.org/10.48539/HBM636.ZFCT.453).
+  Accessed on December 15, 2024.
 citationOverall: >-
   Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
   Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
   Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2024.
 datatable:
-  - 3d-vh-m-united.glb
+  - V3d-vh-m-renal-pelvis-l.glb
   - crosswalk.csv
