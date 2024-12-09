@@ -33,17 +33,17 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM962.GJQT.954
-# doi: https://doi.org/10.48539/HBM962.GJQT.954
+# hubmapId: HBM542.WHJW.673
+# doi: https://doi.org/10.48539/HBM542.WHJW.673
 citation: >-
   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Knee, Female,
-  Right v1.2.*
-  [https://doi.org/10.48539/HBM983.RDXQ.667](https://doi.org/10.48539/HBM983.RDXQ.667).
-  Accessed on June 15, 2024.
+  Right v1.3.*
+  [https://doi.org/10.48539/HBM542.WHJW.673](https://doi.org/10.48539/HBM542.WHJW.673).
+  Accessed on December 15, 2024.
 citationOverall: >-
   Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
   Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2024.
+  Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2024.
 datatable:
   - 3d-vh-f-knee-r.glb
   - crosswalk.csv
