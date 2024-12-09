@@ -1,9 +1,0 @@
-node_name,OntologyID,label
-Yao_lymph_node,UBERON:0002509,mesenteric lymph node
-Yao_afferent_lymphatic_vessel,UBERON:0010396,afferent lymphatic vessel
-Yao_capsule_of_lymph_node,UBERON:0002194,capsule of lymph node
-Yao_follicles,UBERON:0010748,lymph node follicle
-Yao_efferent_lymph_node,UBERON:0010397,efferent lymphatic vessel
-Yao_medulla_of_lymph_node,UBERON:0002007,medulla of lymph node
-Yao_paracortex,UBERON:0010417,lymph node T cell domain
-Yao_blood_vasculature,UBERON:0004536,Lymph vasculature
