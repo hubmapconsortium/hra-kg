@@ -27,7 +27,7 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: '2024-12-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -37,17 +37,16 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM562.KLJF.473
-doi: https://doi.org/10.48539/HBM562.KLJF.473
+hubmapId: HBM933.WSQW.966
+doi: https://doi.org/10.48539/HBM933.WSQW.966
 citation: >-
   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ Set for Male
-  v1.6.*,[https://doi.org/10.48539/HBM562.KLJF.473](https://doi.org/10.48539/HBM562.KLJF.473). Accessed on June 15,
+  v1.7.*,[https://doi.org/10.48539/HBM933.WSQW.966](https://doi.org/10.48539/HBM933.WSQW.966). Accessed on December 15,
   2024.
 citationOverall: >-
   Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
   Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June
-  15, 2024.
+  Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2024.
 datatable:
   - 3d-vh-m-united.glb
   - crosswalk.csv
