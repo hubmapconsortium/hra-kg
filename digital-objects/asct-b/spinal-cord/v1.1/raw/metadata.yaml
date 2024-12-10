@@ -30,7 +30,7 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2023-06-15'
+creation_date: '2024-12-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -38,14 +38,14 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM869.WZFK.485
-doi: https://doi.org/10.48539/HBM869.WZFK.485
+hubmapId: HBM943.HDLM.983
+doi: https://doi.org/10.48539/HBM943.HDLM.983
 citation: >-
-  Vilas Menon, HuBMAP ASCT+B Tables. Spinal Cord v1.0
-  [https://doi.org/10.48539/HBM869.WZFK.485](https://doi.org/10.48539/HBM869.WZFK.485)
+  Vilas Menon, HuBMAP ASCT+B Tables. Spinal Cord v1.1
+  [https://doi.org/10.48539/HBM943.HDLM.983](https://doi.org/10.48539/HBM943.HDLM.983)
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2023.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
+  2024.
 datatable:
   - asct-b-vh-spinal-cord.csv
