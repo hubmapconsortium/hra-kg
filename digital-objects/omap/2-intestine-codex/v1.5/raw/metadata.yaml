@@ -1,0 +1,108 @@
+title: >-
+  OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Intestines with CODEX
+description: >-
+  OMAP-2 was designed for CODEX (CO Detection by IndEXing) imaging of fresh
+  frozen human intestine (https://doi.org/10.1038/s41596-021-00556-8,
+  https://doi.org/10.1002/eji.202048891). The panel contains 54 antibodies and
+  the nuclear marker Hoechst for image alignment and nuclear segmentation. This
+  panel provides spatial context for all anatomical structures and most cell
+  types present in the [ASCT+B intestine
+  table,v1.1](https://doi.org/10.48539/HBM325.NZPB.589). However, this panel
+  does not include a marker for tuft cells, M cells, and subsets of major cell
+  types that are known to be present in the intestine (e.g., neuroendocrine cell
+  lineages, distinctions between alpha/beta and gamma/delta T cells, and IgA+
+  plasma cells). In general the panel was aimed to provide a broad
+  representation of cell types found in the intestine spanning stromal, immune,
+  and epithelial origins and could be used across disease settings of the
+  intestine. Data from this panel has been analyzed as described previously
+  (https://doi.org/10.3389/fimmu.2021.727626,
+  https://doi.org/10.1101/2021.11.25.469203). All antibodies are custom
+  conjugated in house with oligonucleotide barcodes (no lot number available)
+  and run using CODEX imaging per previous protocols
+  (https://doi.org/10.1038/s41596-021-00556-8). Representative datasets using
+  this OMAP can be found here: https://doi.org/10.5061/dryad.76hdr7t1p;
+  https://doi.org/10.5061/dryad.gmsbcc2sq. OMAP-2 v1.3 corrects the rrid listed
+  for CDX2 to  AB_2864405 and the protein target detected by panCytokeratin
+  cloneID AE-1/AE-3 Biolegend 914204 from KRT17 to all of these KRT1, KRT2,
+  KRT3, KRT4, KRT5, KRT7, KRT8, KRT10, KRT14, KRT15, KRT16, KRT19. OMAP-2 v1.5 revises the UniProt accession
+  number for CD45RO to P08575-4 to distinguish it from CD45.
+creators:
+  - fullName: John Hickey
+    firstName: John
+    lastName: Hickey
+    orcid: 0000-0001-9961-7673
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Teri Longacre
+    firstName: Teri
+    lastName: Longacre
+    orcid: 0000-0002-0935-7300
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Christopher Werlein
+    firstName: Christopher
+    lastName: Werlein
+    orcid: 0000-0002-7694-4257
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Anna Martinez Casals
+    firstName: Anna
+    lastName: Casals
+    orcid: 0000-0003-2722-1965
+  - fullName: Presha Rajbhandari
+    firstName: Presha
+    lastName: Rajbhandari
+    orcid: 0000-0003-2184-7238
+externalReviewers: []
+creation_date: '2024-12-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM243.TNZD.275
+doi: https://doi.org/10.48539/HBM243.TNZD.275
+citation: >-
+  John Hickey. OMAP-2 Organ Mapping Antibody Panel (OMAP)  for Multiplexed
+  Antibody-Based Imaging of Human Intestine with CODEX v1.5.
+  https://doi.org/10.48539/HBM243.TNZD.275. Accessed December 15,2024.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
+  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
+  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
+  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
+  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
+  Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
+  Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+datatable:
+  - omap-2-intestine-codex.csv
+  - omap-2-intestine-codex.xlsx
