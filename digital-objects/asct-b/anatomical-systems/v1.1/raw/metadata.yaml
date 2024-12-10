@@ -14,7 +14,7 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: '2024-12-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -24,14 +24,14 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM323.SHHZ.249
-doi: https://doi.org/10.48539/HBM323.SHHZ.249
+hubmapId: HBM792.MPHZ.454
+doi: https://doi.org/10.48539/HBM792.MPHZ.454
 citation: >-
   Ellen M. Quardokus. HuBMAP ASCT+B Tables. Anatomical Systems,
-  v1.0,https://doi.org/10.48539/HBM323.SHHZ.249, Accessed on Decembr 15, 2023.
+  v1.1,https://doi.org/10.48539/HBM792.MPHZ.454, Accessed on Decembr 15, 2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on Decembr 15,
-  2023.
+  2024.
 datatable:
   - asct-b-vh-anatomical-systems.csv
