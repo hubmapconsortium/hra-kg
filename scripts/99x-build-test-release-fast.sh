@@ -1,22 +1,24 @@
 #!/bin/bash
-source ../hra-do-processor/.venv/bin/activate
+source constants.sh
+source src/parallel_jobs.sh
 set -ev
 
 export VERSION=v2.2
 export DEPLOY_HOME=~/workspaces/hubmap/hra-kg/dist-${VERSION}
 export EXTRA_DOs="graph/ccf/v2.3.0 graph/ds-graphs-enrichments/v2024"
 export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION collection/ds-graphs/v2024"
-export CLEAN="true"
-
-# export EXTRA_DOs=$(git diff --name-only main..develop | grep metadata.yaml | grep -v collection | grep -v draft | cut -d '/' -f 2,3,4 | sort | uniq)
-# export EXTRA_DOs="ref-organ/lymph-node-male/v1.4"
-# export COLLECTIONS=""
+export CLEAN="false"
 
 if [ "$CLEAN" = "true" ]; then
   rm -rf $DEPLOY_HOME
   mkdir -p $DEPLOY_HOME
   echo "*" > $DEPLOY_HOME/.gitignore
 fi
+
+BUILD_OPTS=""
+CLEAN_DOs="--clean"
+PROCESSOR_OPTS="--exclude-bad-values"
+SKIP_BUILT_DOs="true"
 
 # Determine Digital Objects to process
 touch $DEPLOY_HOME/.digital-objects
@@ -26,51 +28,29 @@ done
 for DO in $COLLECTIONS; do
   yq -r '.["digital-objects"][]' digital-objects/$DO/raw/digital-objects.yaml >> $DEPLOY_HOME/.digital-objects
 done
-export DOs=$(sort $DEPLOY_HOME/.digital-objects | uniq)
+export DOs=$(cat $DEPLOY_HOME/.digital-objects | sort | uniq | shuf)
+echo "Digital Object Count: $(cat $DEPLOY_HOME/.digital-objects | sort | uniq | wc -l)"
 rm -f $DEPLOY_HOME/.digital-objects
 
-# Normalize digital objects
-for d in $DOs; do
-  if [ ! -e digital-objects/$d/normalized/normalized.yaml ] || [ "$CLEAN" = "true" ]; then
-    echo
-    echo "---- START NORMALIZE ${d} ----"
-    do-processor --exclude-bad-values normalize $d
-    echo "---- END NORMALIZE ${d} ----"
-    echo
+echo "Building Digital Objects..."
+echo
+
+for obj in $DOs; do
+  if [ "${SKIP_BUILT_DOs}" = "false" ] || [ ! -e ${DEPLOY_HOME}/${obj}/graph.ttl ]; then
+    mkdir -p $DEPLOY_HOME/${obj}
+    queue_job "do-processor $PROCESSOR_OPTS build $BUILD_OPTS $CLEAN_DOs $obj"
   fi
 done
 
-# Enrich digital objects
-for d in $DOs; do
-  if [ ! -e digital-objects/$d/enriched/enriched.ttl ] || [ "$CLEAN" = "true" ]; then
-    echo
-    echo "---- START ENRICH ${d} ----"
-    do-processor enrich $d
-    echo "---- END ENRICH ${d} ----"
-    echo
-  fi
-done
+wait_for_empty_queue
 
-# Deploy digital objects
-for d in $DOs; do
-  if [ ! -e $DEPLOY_HOME/$d/graph.ttl ] || [ "$CLEAN" = "true" ]; then
-    echo
-    echo "---- START DEPLOY ${d} ----"
-    do-processor deploy $d
-    echo "---- END DEPLOY ${d} ----"
-    echo
-  fi
-done
+echo "Building Collections..."
+echo
 
-# Process collections
-for d in $COLLECTIONS; do
-  echo
-  echo "---- START COLLECTION ${d} ----"
-  do-processor normalize $d
-  do-processor enrich $d
-  do-processor deploy $d
-  echo "---- END COLLECTION ${d} ----"
-  echo
+for obj in $COLLECTIONS; do
+  do-processor $PROCESSOR_OPTS normalize $BUILD_OPTS $obj
+  do-processor $PROCESSOR_OPTS enrich $BUILD_OPTS $obj
+  do-processor $PROCESSOR_OPTS deploy $BUILD_OPTS $obj
 done
 
 # Finalize deployment, including creating a fresh blazegraph.jnl
