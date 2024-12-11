@@ -1,6 +1,6 @@
 digital-objects:
   - 2d-ftu/kidney-ascending-thin-loop-of-henle/v1.2
-  - 2d-ftu/kidney-cortical-collecting-duct/v1.1
+  - 2d-ftu/kidney-cortical-collecting-duct/v1.2
   - 2d-ftu/kidney-descending-thin-loop-of-henle/v1.1
   - 2d-ftu/kidney-inner-medullary-collecting-duct/v1.1
   - 2d-ftu/kidney-nephron/v1.2
@@ -45,7 +45,7 @@ digital-objects:
   - asct-b/pancreas/v1.3
   - asct-b/pathway-crosswalk/v1.1
   - asct-b/peripheral-nervous-system/v1.2
-  - asct-b/peripheral-nervous-system-organ-crosswalk/v1.0
+  - asct-b/peripheral-nervous-system-organ-crosswalk/v1.1
   - asct-b/placenta/v1.2
   - asct-b/prostate/v1.1
   - asct-b/skeleton/v1.2
