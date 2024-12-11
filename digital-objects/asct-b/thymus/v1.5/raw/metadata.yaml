@@ -41,7 +41,7 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: 2024-12-15
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -51,15 +51,15 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM668.QPSF.678
-doi: https://doi.org/10.48539/HBM668.QPSF.678
+hubmapId: HBM682.DVWX.968
+doi: https://doi.org/10.48539/HBM682.DVWX.968
 citation: >-
   Maigan Brusko; Rebecca T. Beuschel; Andrea J. Radtke, HuBMAP ASCT+B Tables.
-  Thymus v1.4, https://doi.org/10.48539/HBM668.QPSF.678, Accessed on December
-  15, 2023.
+  Thymus v1.5, https://doi.org/10.48539/HBM682.DVWX.968, Accessed on December
+  15, 2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
-  2023.
+  2024.
 datatable:
   - asct-b-vh-thymus.csv
