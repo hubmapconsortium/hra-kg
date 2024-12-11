@@ -64,7 +64,7 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2022-05-06'
+creation_date: '2024-12-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -72,15 +72,15 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM763.QFRB.477
-doi: https://doi.org/10.48539/HBM763.QFRB.477
+hubmapId: HBM888.MGDC.395
+doi: https://doi.org/10.48539/HBM888.MGDC.395
 citation: >-
   Marda Jorgensen; Andrea J. Radtke; Rebecca T. Beuschel, HuBMAP ASCT+B Tables.
-  Spleen v1.3,https://doi.org/10.48539/HBM763.QFRB.477. Accessed on December 15,
-  2022.
+  Spleen v1.4,https://doi.org/10.48539/HBM888.MGDC.395. Accessed on December 15,
+  2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. [*HuBMAP
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
-  2022.
+  2024.
 datatable:
   - asct-b-vh-spleen.csv
