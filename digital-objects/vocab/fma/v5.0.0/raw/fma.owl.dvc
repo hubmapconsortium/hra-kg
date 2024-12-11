@@ -1,9 +1,0 @@
-outs:
-- md5: 1183ef2d23cf1b8bc8f1b9fc5231be89
-  size: 208021709
-  hash: md5
-  path: fma.owl
-  cloud:
-    s3:
-      etag: 102f558af6a46a16a8c0010945ec776f-4
-      version_id: _C6elfcBvCzSmKKnwYiMNUUNHV.twnSb
