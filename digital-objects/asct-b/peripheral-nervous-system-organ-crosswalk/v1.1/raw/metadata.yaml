@@ -6,6 +6,8 @@ description: >-
   The BodySubPart structure is contained within the anatomical structure listed in the BodyPart column. The BodyPart is typically an organ or organ system.
 
   IDs are provided for the Nerve, BodySubPart, BodySubPartSequence, BodyPart, FTU, and Angiosome columns to enable linkage to other datasets and ontologies.
+  
+  Version 1.1 adds support for  the  pelvis, abdomen, back, and lower limb.
 
   NOTE: In this version 1.0 crosswalk file, there is no BodySubPartSequence, FTU or Angiosome information. These are placeholders for future versions of this crosswalk.
 
@@ -34,7 +36,7 @@ reviewers:
     orcid: 0000-0002-2597-881X
 
 externalReviewers: []
-creation_date: "2024-06-15"
+creation_date: "2024-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -44,11 +46,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM446.ZZZN.837
-doi: https://doi.org/10.48539/HBM446.ZZZN.837
+hubmapId: HBM493.TBMS.423
+doi: https://doi.org/10.48539/HBM493.TBMS.423
 citation: >-
-  Katherine S Gustilo.Ilias Ziogas, and Fahim Imam. Peripheral Nervous System Organ Crosswalk,v1.0
-  [https://doi.org/10.48539/HBM446.ZZZN.837](https://doi.org/10.48539/HBM446.ZZZN.837), Accessed on June 15, 2024.
+  Katherine S Gustilo.Ilias Ziogas, and Fahim Imam. Peripheral Nervous System Organ Crosswalk,v1.1
+  [https://doi.org/10.48539/HBM493.TBMS.423](https://doi.org/10.48539/HBM493.TBMS.423), Accessed on December 15, 2024.
 citationOverall: >-
 datatable:
   - peripheral-nervous-system-organ-crosswalk.csv
