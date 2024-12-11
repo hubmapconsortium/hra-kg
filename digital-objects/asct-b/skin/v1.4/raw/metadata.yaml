@@ -49,7 +49,7 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: 2024-12-15
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -61,15 +61,15 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM785.XBPB.444
-doi: https://doi.org/10.48539/HBM785.XBPB.444
+hubmapId: HBM474.TDSP.668
+doi: https://doi.org/10.48539/HBM474.TDSP.668
 citation: >-
   Fiona Ginty; Jonhan Ho; Joel Sunshine; Arivarasan Karunamurthy, HuBMAP ASCT+B
-  Tables. Skin v1.3
-  [https://doi.org/10.48539/HBM785.XBPB.444](https://doi.org/10.48539/HBM785.XBPB.444).
+  Tables. Skin v1.4
+  [https://doi.org/10.48539/HBM474.TDSP.668](https://doi.org/10.48539/HBM474.TDSP.668).
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
-  2023.
+  2024.
 datatable:
   - asct-b-vh-skin.csv
