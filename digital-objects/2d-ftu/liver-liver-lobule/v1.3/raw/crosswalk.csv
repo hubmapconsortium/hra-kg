@@ -1,0 +1,153 @@
+node_id,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Hepatic_Portal_Fibroblast_1,hepatic portal fibroblast,CL:0009100,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Portal_Fibroblast_2,hepatic portal fibroblast,CL:0009100,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Portal_Fibroblast_3,hepatic portal fibroblast,CL:0009100,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Portal_Fibroblast_4,hepatic portal fibroblast,CL:0009100,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Blood_Vessel_Smooth_Muscle_Cell_1,blood vessel smooth muscle cell,CL:0019018,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Blood_Vessel_Smooth_Muscle_Cell_2,blood vessel smooth muscle cell,CL:0019018,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Blood_Vessel_Smooth_Muscle_Cell_3,blood vessel smooth muscle cell,CL:0019018,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Blood_Vessel_Smooth_Muscle_Cell_4,blood vessel smooth muscle cell,CL:0019018,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Blood_Vessel_Smooth_Muscle_Cell_5,blood vessel smooth muscle cell,CL:0019018,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Blood_Vessel_Smooth_Muscle_Cell_6,blood vessel smooth muscle cell,CL:0019018,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Blood_Vessel_Smooth_Muscle_Cell_7,blood vessel smooth muscle cell,CL:0019018,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Blood_Vessel_Smooth_Muscle_Cell_8,blood vessel smooth muscle cell,CL:0019018,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_1,endothelial cell of artery,CL:1000413,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_2,endothelial cell of artery,CL:1000413,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_3,endothelial cell of artery,CL:1000413,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_4,endothelial cell of artery,CL:1000413,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Stratified_Cuboidal_Epithelial_Cell_1,stratified cuboidal epithelial cell,CL:0000241,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Stratified_Cuboidal_Epithelial_Cell_2,stratified cuboidal epithelial cell,CL:0000241,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Stratified_Cuboidal_Epithelial_Cell_3,stratified cuboidal epithelial cell,CL:0000241,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Stratified_Cuboidal_Epithelial_Cell_4,stratified cuboidal epithelial cell,CL:0000241,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Stratified_Cuboidal_Epithelial_Cell_5,stratified cuboidal epithelial cell,CL:0000241,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Stratified_Cuboidal_Epithelial_Cell_6,stratified cuboidal epithelial cell,CL:0000241,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Stratified_Cuboidal_Epithelial_Cell_7,stratified cuboidal epithelial cell,CL:0000241,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Columnar_Cuboidal_epithelial_Cell_1,columnar/cuboidal epithelial cell,CL:0000075,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Columnar_Cuboidal_epithelial_Cell_2,columnar/cuboidal epithelial cell,CL:0000075,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Columnar_Cuboidal_epithelial_Cell_3,columnar/cuboidal epithelial cell,CL:0000075,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Columnar_Cuboidal_epithelial_Cell_4,columnar/cuboidal epithelial cell,CL:0000075,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Columnar_Cuboidal_epithelial_Cell_5,columnar/cuboidal epithelial cell,CL:0000075,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Columnar_Cuboidal_epithelial_Cell_6,columnar/cuboidal epithelial cell,CL:0000075,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Columnar_Cuboidal_epithelial_Cell_7,columnar/cuboidal epithelial cell,CL:0000075,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Columnar_Cuboidal_epithelial_Cell_8,columnar/cuboidal epithelial cell,CL:0000075,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Columnar_Cuboidal_epithelial_Cell_9,columnar/cuboidal epithelial cell,CL:0000075,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_1,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_2,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_3,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_4,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_5,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_6,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_7,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_8,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_9,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_10,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_11,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_12,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Vein_Endothelial_Cell_13,vein endothelial cell,CL:0002543,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_1,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_2,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_3,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_4,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_5,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_6,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_7,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_8,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_9,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_10,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_11,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_12,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_13,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_14,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_15,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_16,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_17,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Progenitor_Cell_18,Hepatic oval stem cell,CL:0002196,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_1,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_2,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_3,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_4,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_5,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_6,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_7,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_8,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_9,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_10,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_11,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_12,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Endothelial_Cell_Of_Hepatic_Sinusoid_13,endothelial cell of hepatic sinusoid,CL:1000398,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Stellate_Cell_1,hepatic stellate cell,CL:0000632,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Stellate_Cell_2,hepatic stellate cell,CL:0000632,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Stellate_Cell_3,hepatic stellate cell,CL:0000632,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatic_Stellate_Cell_4,hepatic stellate cell,CL:0000632,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Kupffer_Cell_1,Kupffer Cell,CL:0000091,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Kupffer_Cell_2,Kupffer Cell,CL:0000091,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Kupffer_Cell_3,Kupffer Cell,CL:0000091,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Kupffer_Cell_4,Kupffer Cell,CL:0000091,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_1,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_2,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_3,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_4,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_5,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_6,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_7,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_8,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_9,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_10,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_11,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_12,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_13,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_14,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_15,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_16,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_17,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_18,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_19,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_20,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_21,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_22,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_23,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_24,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_25,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_26,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_27,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_28,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_29,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_30,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_31,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_32,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_33,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_34,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_35,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_36,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_37,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_38,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_39,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_40,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_41,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_42,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_43,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_44,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_45,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_46,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_47,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_48,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_49,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_50,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_51,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_52,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_53,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_54,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_55,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_56,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_57,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_58,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_59,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_60,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_61,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_62,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_63,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_64,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_65,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_66,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_67,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107
+Hepatocyte_68,hepatocyte,CL:0000182,liver lobule,UBERON:0004647,Liver,UBERON:0002107

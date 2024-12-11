@@ -6,14 +6,14 @@ digital-objects:
   - 2d-ftu/kidney-nephron/v1.2
   - 2d-ftu/kidney-outer-medullary-collecting-duct/v1.2
   - 2d-ftu/kidney-renal-corpuscle/v1.2
-  - 2d-ftu/kidney-thick-ascending-loop-of-henle/v1.1
+  - 2d-ftu/kidney-thick-ascending-loop-of-henle/v1.2
   - 2d-ftu/large-intestine-crypt-lieberkuhn/v1.2
-  - 2d-ftu/liver-liver-lobule/v1.2
+  - 2d-ftu/liver-liver-lobule/v1.3
   - 2d-ftu/lung-bronchial-submucosal-gland/v1.1
-  - 2d-ftu/lung-pulmonary-alveolus/v1.2
-  - 2d-ftu/pancreas-intercalated-duct/v1.1
+  - 2d-ftu/lung-pulmonary-alveolus/v1.3
+  - 2d-ftu/pancreas-intercalated-duct/v1.2
   - 2d-ftu/pancreas-islets-langerhans/v1.2
-  - 2d-ftu/pancreas-pancreatic-acinus/v1.1
+  - 2d-ftu/pancreas-pancreatic-acinus/v1.2
   - 2d-ftu/prostate-prostate-glandular-acinus/v1.2
   - 2d-ftu/skin-dermal-papilla/v1.1
   - 2d-ftu/skin-epidermal-ridge/v1.1
