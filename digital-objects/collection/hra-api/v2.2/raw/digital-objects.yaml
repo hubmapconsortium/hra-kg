@@ -1,9 +1,7 @@
 digital-objects:
-  # CCF Graphs
   - graph/hra-ccf-body/v2.0
-  - graph/hra-ccf-patches/v2.1
+  - graph/hra-ccf-patches/v2.2
 
-  # Landmarks
   - landmark/uterus-female-landmarks/v1.4
   - landmark/urinary-bladder-male-landmarks/v1.2
   - landmark/urinary-bladder-female-landmarks/v1.4
@@ -64,40 +62,15 @@ digital-objects:
   - landmark/eye-female-right-landmarks/v1.4
   - landmark/eye-female-left-landmarks/v1.4
 
-  # 2D FTUs
-  # - 2d-ftu/kidney-ascending-thin-loop-of-henle/v1.1
-  # - 2d-ftu/kidney-cortical-collecting-duct/v1.1
-  # - 2d-ftu/kidney-descending-thin-loop-of-henle/v1.1
-  # - 2d-ftu/kidney-inner-medullary-collecting-duct/v1.1
-  # - 2d-ftu/kidney-nephron/v1.2
-  # - 2d-ftu/kidney-outer-medullary-collecting-duct/v1.1
-  # - 2d-ftu/kidney-renal-corpuscle/v1.2
-  # - 2d-ftu/kidney-thick-ascending-loop-of-henle/v1.1
-  # - 2d-ftu/large-intestine-crypt-lieberkuhn/v1.2
-  # - 2d-ftu/liver-liver-lobule/v1.2
-  # - 2d-ftu/lung-bronchial-submucosal-gland/v1.1
-  # - 2d-ftu/lung-pulmonary-alveolus/v1.2
-  # - 2d-ftu/pancreas-intercalated-duct/v1.1
-  # - 2d-ftu/pancreas-islets-langerhans/v1.2
-  # - 2d-ftu/pancreas-pancreatic-acinus/v1.1
-  # - 2d-ftu/prostate-prostate-glandular-acinus/v1.2
-  # - 2d-ftu/skin-dermal-papilla/v1.1
-  # - 2d-ftu/skin-epidermal-ridge/v1.1
-  # - 2d-ftu/small-intestine-villus/v1.0
-  # - 2d-ftu/spleen-red-pulp/v1.1
-  # - 2d-ftu/spleen-white-pulp/v1.1
-  # - 2d-ftu/thymus-thymus-lobule/v1.2
-
-  # ASCT+B Tables
-  - asct-b/allen-brain/v1.6
-  - asct-b/anatomical-systems/v1.0
+  - asct-b/allen-brain/v1.7
+  - asct-b/anatomical-systems/v1.1
   - asct-b/blood-pelvis/v1.4
-  - asct-b/blood-vasculature/v1.6
+  - asct-b/blood-vasculature/v1.7
   - asct-b/bone-marrow/v1.5
-  - asct-b/eye/v1.3
-  - asct-b/fallopian-tube/v1.3
-  - asct-b/heart/v1.4
-  - asct-b/kidney/v1.5
+  - asct-b/eye/v1.4
+  - asct-b/fallopian-tube/v1.4
+  - asct-b/heart/v1.5
+  - asct-b/kidney/v1.6
   - asct-b/knee/v1.3
   - asct-b/large-intestine/v1.3
   - asct-b/liver/v1.3
@@ -116,7 +89,7 @@ digital-objects:
   - asct-b/skeleton/v1.2
   - asct-b/skin/v1.3
   - asct-b/small-intestine/v1.1
-  - asct-b/spinal-cord/v1.0
+  - asct-b/spinal-cord/v1.1
   - asct-b/spleen/v1.3
   - asct-b/thymus/v1.4
   - asct-b/trachea/v1.0
@@ -124,7 +97,6 @@ digital-objects:
   - asct-b/urinary-bladder/v1.0
   - asct-b/uterus/v1.1
 
-  # Reference Organs
   - ref-organ/brain-female/v1.4
   - ref-organ/brain-male/v1.4
   - ref-organ/blood-vasculature-female/v1.3

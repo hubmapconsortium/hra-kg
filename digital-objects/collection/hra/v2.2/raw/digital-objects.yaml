@@ -1,5 +1,5 @@
 digital-objects:
-  - 2d-ftu/kidney-ascending-thin-loop-of-henle/v1.1
+  - 2d-ftu/kidney-ascending-thin-loop-of-henle/v1.2
   - 2d-ftu/kidney-cortical-collecting-duct/v1.1
   - 2d-ftu/kidney-descending-thin-loop-of-henle/v1.1
   - 2d-ftu/kidney-inner-medullary-collecting-duct/v1.1
@@ -27,7 +27,7 @@ digital-objects:
   - asct-b/blood-pelvis/v1.4
   - asct-b/blood-vasculature/v1.7
   - asct-b/bone-marrow/v1.5
-  - asct-b/eye/v1.3
+  - asct-b/eye/v1.4
   - asct-b/fallopian-tube/v1.4
   - asct-b/heart/v1.5
   - asct-b/kidney/v1.6
@@ -51,7 +51,7 @@ digital-objects:
   - asct-b/skeleton/v1.2
   - asct-b/skin/v1.3
   - asct-b/small-intestine/v1.1
-  - asct-b/spinal-cord/v1.0
+  - asct-b/spinal-cord/v1.1
   - asct-b/spleen/v1.3
   - asct-b/thymus/v1.4
   - asct-b/trachea/v1.0
@@ -75,7 +75,7 @@ digital-objects:
   - omap/18-lymph-node-cell-dive-ibex/v1.0
   - omap/19-palatine-tonsil-ibex/v1.0
   - omap/20-kidney-ims-cycif/v1.0
-  - omap/21-palatine-tonsil-mics/v1.0
+  - omap/21-palatine-tonsil-mics/v1.1
   - omap/2-intestine-codex/v1.5
   - omap/3-kidney-codex/v1.3
   - omap/4-skin-cell-dive/v1.3

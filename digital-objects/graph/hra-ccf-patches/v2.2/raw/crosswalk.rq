@@ -1,0 +1,69 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX ccf: <http://purl.org/ccf/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX ccf-spo: <http://purl.org/ccf/latest/ccf.owl#>
+PREFIX hra-ccf-body: <https://purl.humanatlas.io/graph/hra-ccf-body#>
+PREFIX CCF: <https://purl.humanatlas.io/graph/ccf>
+
+CONSTRUCT {
+  ?ccf1RefOrgan a ccf:SpatialEntity ;
+    owl:sameAs ?hraRefOrgan ;
+    ccf:organ_owner_sex ?sex ;
+    ccf:representation_of ?organIri .
+  ?hraRefOrgan a ccf:SpatialEntity .
+
+  ?ccf1HraPlacement a ccf:SpatialPlacement ;
+    ccf:placement_for ?ccf1RefOrgan ;
+    ccf:placement_relative_to ?hraRefOrgan ;
+    ccf:rotation_unit "degree" ;
+    ccf:scaling_unit "ratio" ;
+    ccf:translation_unit "millimeter" ;
+    ccf:x_rotation 0 ;
+    ccf:x_scaling 1 ;
+    ccf:x_translation 0 ;
+    ccf:y_rotation 0 ;
+    ccf:y_scaling 1 ;
+    ccf:y_translation 0 ;
+    ccf:z_rotation 0 ;
+    ccf:z_scaling 1 ;
+    ccf:z_translation 0 ;
+    dcterms:created ?date .
+}
+#SELECT DISTINCT ?ccf1RefOrgan ?hraRefOrgan ?sex ?sceneNode
+WHERE {
+  BIND(STRBEFORE(STR(NOW()), 'T') as ?date) 
+  BIND(URI(CONCAT(STR(?ccf1RefOrgan), '_hra_placement')) as ?ccf1HraPlacement)
+
+  GRAPH CCF: {
+    SELECT DISTINCT (?refOrgan as ?ccf1RefOrgan) ?sex ?sceneNode
+    WHERE {
+      ?n ccf:placement_for ?refOrgan .
+      ?n ccf:placement_relative_to ?target .
+      ?refOrgan ccf:organ_owner_sex ?sex .
+      ?refOrgan ccf:has_reference_organ ?refOrgan .
+      ?refOrgan ccf:has_object_reference [
+        ccf:file_subpath ?sceneNode  
+      ] .
+      FILTER ( ?target = ccf-spo:VHFemale || ?target = ccf-spo:VHMale )
+    }
+  }
+  
+  {
+    SELECT (?refOrgan as ?hraRefOrgan) ?sex ?sceneNode ?organIri
+    WHERE {
+      # ?refOrgan ccf:has_placement ?n .
+      ?n ccf:placement_for ?refOrgan .
+      ?n ccf:placement_relative_to ?target .
+      ?refOrgan ccf:organ_owner_sex ?sex .
+      ?refOrgan ccf:representation_of ?organIri .
+      ?refOrgan ccf:has_reference_organ ?refOrgan .
+      ?refOrgan ccf:has_object_reference [
+        ccf:file_subpath ?sceneNode  
+      ] .
+      # FILTER ( ?target = hra-ccf-body:VHFemale || ?target = hra-ccf-body:VHMale )
+      FILTER ( STR(?target) = STR(hra-ccf-body:VHFemale) || STR(?target) = STR(hra-ccf-body:VHMale) )
+    }
+  }
+}
+ORDER BY ?sex ?sceneNode

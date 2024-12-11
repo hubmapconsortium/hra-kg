@@ -59,8 +59,8 @@ WHERE {
       (<http://purl.obolibrary.org/obo/UBERON_0001911> <http://purl.org/sig/ont/fma/fma57991>)
       (<http://purl.obolibrary.org/obo/UBERON_0001911> <http://purl.org/sig/ont/fma/fma57987>)
       # Ovary
-      (<http://purl.obolibrary.org/obo/UBERON_0000992> <http://purl.org/sig/ont/fma/fma7214>)
-      (<http://purl.obolibrary.org/obo/UBERON_0000992> <http://purl.org/sig/ont/fma/fma7213>)
+      (<http://purl.obolibrary.org/obo/UBERON_0000992> <http://purl.obolibrary.org/obo/UBERON_0002119>)
+      (<http://purl.obolibrary.org/obo/UBERON_0000992> <http://purl.obolibrary.org/obo/UBERON_0002118>)
       # Palatine Tonsil
       (<http://purl.obolibrary.org/obo/UBERON_0002373> <http://purl.org/sig/ont/fma/fma54974>)
       (<http://purl.obolibrary.org/obo/UBERON_0002373> <http://purl.org/sig/ont/fma/fma54973>)
