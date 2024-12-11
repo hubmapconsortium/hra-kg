@@ -1,0 +1,92 @@
+title: >-
+  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of
+  Human Skin with Cell DIVE
+description: >-
+  OMAP-22 was designed for Cell DIVE multiplexed imaging of formalin-fixed paraffin-embedded (FFPE)
+  human skin. Cell DIVE enables highly multiplexed single cell analysis using antibody-based imaging 
+  (Gerdes, MJ. et al, 2013). The tissue slides were prepared with a two-step antigen retrieval process 
+  (pH 6 and pH 9, as described in https://dx.doi.org/10.17504/protocols.io.bpwumpew). 
+  Antigens were detected using either primary antibodies with fluorophore-labeled secondaries or 
+  fluorescent dye-conjugated antibodies (protocol can be found at 
+  https://dx.doi.org/10.17504/protocols.io.b4kgqutw). The panel contains 34 antibodies and the nuclear 
+  marker DAPI for image registration and nuclear segmentation. This updated OMAP provides a spatial 
+  context for most anatomical structures and cell types present in the [ASCT+B skin table,
+  v1.3](https://doi.org/10.48539/HBM785.XBPB.444). This OMAP builds from OMAP-4 (https://doi.org/10.48539/HBM485.ZCFD.459)
+  and additionally includes: CD103, CD14, CD1a, CD207, CD34, F13A1, CDKN1A, KRT1, KRT5, KRT7, KRT10, 
+  MLANA, PDPN, TPSAB1, and VWF. Updates from OMAP-4 include identification of specific keratinocyte populations. 
+  Additionally, the panel now identifies dermal dendritic cell populations, mast cells, melanocytes, 
+  and Langerhans cells. The inclusion of protein biomarkers DDB2, CDKN1A, and p53 allow profiling of skin 
+  damage and aging effects. Other updates include the use of commercially available conjugates in place of 
+  custom conjugations when available for down-selected antibody clones. Representative datasets created using 
+  this OMAP are publicly available on the HuBMAP data portal.
+  
+creators:
+  - fullName: Liz McDonough
+    firstName: Liz
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Fiona Ginty
+    firstName: Fiona
+    lastName: Ginty
+    orcid: 0000-0001-6638-683X
+  - fullName: Ari Karunamurthy
+    firstName: Ari
+    lastName: Karunamurthy
+    orcid: 0000-0002-5739-4923
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Diane Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: '2024-12-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Institute of Allergy and Infectious Disease
+    awardNumber: NIH 5UH3CA246594-02
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+hubmapId: HBM594.HCJD.563
+doi: https://doi.org/10.48539/HBM594.HCJD.563
+citation: >-
+  Liz McDonough. Organ Mapping Antibody Panel (OMAP)-22 for Multiplexed
+  Antibody-Based Imaging of Human Skin with Cell DIVE v1.0.
+  [https://doi.org/10.48539/HBM594.HCJD.563](https://doi.org/10.48539/HBM594.HCJD.563)
+citationOverall: >-
+  Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, 
+  Christine Surrette, Presha Rajbhandari, et al. 2023. “Organ Mapping Antibody Panels: A Community 
+  Resource for Standardized Multiplexed Tissue Imaging.” Nature Methods 20 (8): 1174–78. 
+  https://doi.org/10.1038/s41592-023-01846-7.
+datatable:
+  - omap-22-skin-cell-dive.csv
+  - omap-22-skin-cell-dive.xlsx

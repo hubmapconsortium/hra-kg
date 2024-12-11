@@ -1,0 +1,65 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Thymus
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts.
+creators:
+  - fullName: Maigan Brusko
+    firstName: Maigan
+    lastName: Brusko
+    orcid: 0000-0002-4331-2202
+  - fullName: Rebecca T. Beuschel
+    firstName: Rebecca
+    lastName: Beuschel
+    orcid: 0000-0002-3882-457X
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Sarah A. Teichmann
+    firstName: Sarah
+    lastName: Teichmann
+    orcid: 0000-0002-6294-6366
+  - fullName: Jakub Abramson
+    firstName: Jakub
+    lastName: Abramson
+    orcid: 0000-0002-1745-8996
+  - fullName: Tom Taghon
+    firstName: Tom
+    lastName: Taghon
+    orcid: 0000-0002-5781-0288
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: 2024-12-15
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM682.DVWX.968
+doi: https://doi.org/10.48539/HBM682.DVWX.968
+citation: >-
+  Maigan Brusko; Rebecca T. Beuschel; Andrea J. Radtke, HuBMAP ASCT+B Tables.
+  Thymus v1.5, https://doi.org/10.48539/HBM682.DVWX.968, Accessed on December
+  15, 2024.
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
+  2024.
+datatable:
+  - asct-b-vh-thymus.csv

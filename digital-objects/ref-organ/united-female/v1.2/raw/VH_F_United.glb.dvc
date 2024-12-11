@@ -1,9 +1,0 @@
-outs:
-- md5: f19dd00fc61724e77bfcb1eccccc25a7
-  size: 105809696
-  hash: md5
-  path: VH_F_United.glb
-  cloud:
-    s3:
-      etag: 5325b6f18c085363efa040045974f145-3
-      version_id: rYlHG4bs0vz9tEMKZPUT1juO7.BBpXh3

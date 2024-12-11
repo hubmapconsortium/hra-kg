@@ -10422,49 +10422,49 @@
         {
           "@id": "https://entity.api.hubmapconsortium.org/entities/60da3463ccefe031ad887014140a341e",
           "@type": "Sample",
-          "label": "Registered 10/25/2021, Dana L Jackson, TMC-CalTech",
+          "label": "Registered 11/27/2024, Dana L Jackson, TMC-CalTech",
           "link": "https://portal.hubmapconsortium.org/browse/sample/60da3463ccefe031ad887014140a341e",
-          "description": "13 x 13 x 13 millimeter, 13 millimeter, 0 Sections",
+          "description": "12 x 15 x 10 millimeter, 10 millimeter, 0 Sections",
           "sample_type": "Tissue Block",
           "rui_location": {
             "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
-            "@id": "http://purl.org/ccf/1.5/1995aefd-5289-4652-a7e0-cc66c495649f",
+            "@id": "http://purl.org/ccf/1.5/5c798396-639b-4964-9a91-501b42d23d6f",
             "@type": "SpatialEntity",
             "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0003978",
               "http://purl.obolibrary.org/obo/UBERON_0002494",
-              "http://purl.org/sig/ont/fma/fma72655",
               "http://purl.obolibrary.org/obo/UBERON_0002080",
               "http://purl.obolibrary.org/obo/UBERON_0002094",
               "http://purl.obolibrary.org/obo/UBERON_0002084"
             ],
-            "creation_date": "2021-10-25",
+            "creation_date": "2021-09-24",
             "creator": "Andreas Bueckle",
             "creator_first_name": "Andreas",
             "creator_last_name": "Bueckle",
             "dimension_units": "millimeter",
             "placement": {
               "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
-              "@id": "http://purl.org/ccf/1.5/1995aefd-5289-4652-a7e0-cc66c495649f_placement",
+              "@id": "http://purl.org/ccf/1.5/5c798396-639b-4964-9a91-501b42d23d6f_placement",
               "@type": "SpatialPlacement",
-              "placement_date": "2021-10-25",
+              "placement_date": "2021-09-24",
               "rotation_order": "XYZ",
               "rotation_units": "degree",
               "scaling_units": "ratio",
-              "target": "http://purl.org/ccf/latest/ccf.owl#VHFHeart",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart",
               "translation_units": "millimeter",
-              "x_rotation": -49,
+              "x_rotation": 44,
               "x_scaling": 1,
-              "x_translation": 122.163,
-              "y_rotation": 26,
+              "x_translation": 88.904,
+              "y_rotation": 18,
               "y_scaling": 1,
-              "y_translation": 42.787,
-              "z_rotation": 40,
+              "y_translation": 44.669,
+              "z_rotation": 1,
               "z_scaling": 1,
-              "z_translation": 94.951
+              "z_translation": 85.668
             },
-            "x_dimension": 13,
-            "y_dimension": 13,
-            "z_dimension": 13
+            "x_dimension": 12,
+            "y_dimension": 15,
+            "z_dimension": 10
           },
           "sections": [],
           "datasets": [
@@ -10488,7 +10488,7 @@
             }
           ],
           "section_count": 0,
-          "section_size": 13,
+          "section_size": 10,
           "section_units": "millimeter"
         },
         {
@@ -70761,6 +70761,105 @@
           "datasets": [],
           "section_count": 1,
           "section_size": 16,
+          "section_units": "millimeter"
+        }
+      ]
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/9b52efad34df0cca520909e1cb22cc43",
+      "@type": "Donor",
+      "label": "Female, Age 1.6",
+      "description": "Entered 11/15/2024, Anthony Corbett, University of Rochester Medical Center TMC",
+      "link": "https://portal.hubmapconsortium.org/browse/donor/9b52efad34df0cca520909e1cb22cc43",
+      "age": 1.6,
+      "sex": "Female",
+      "race": "White",
+      "consortium_name": "HuBMAP",
+      "provider_name": "University of Rochester Medical Center TMC",
+      "provider_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+      "samples": [
+        {
+          "@id": "https://entity.api.hubmapconsortium.org/entities/ef5e2aac8cab431cc6f5731acf78e8ce",
+          "@type": "Sample",
+          "label": "Registered 9/24/2024, Anthony Corbett, University of Rochester Medical Center TMC",
+          "link": "https://portal.hubmapconsortium.org/browse/sample/ef5e2aac8cab431cc6f5731acf78e8ce",
+          "description": "15 x 10 x 5 millimeter, 5 millimeter, 1 Sections",
+          "sample_type": "Tissue Block",
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/aed760ae-295a-43fc-b6cd-abdf6f012975",
+            "@type": "SpatialEntity",
+            "ccf_annotations": [
+              "http://purl.obolibrary.org/obo/UBERON_0002048",
+              "http://purl.obolibrary.org/obo/UBERON_0002167",
+              "http://purl.obolibrary.org/obo/UBERON_0002171",
+              "http://purl.org/sig/ont/fma/fma7362"
+            ],
+            "creation_date": "2024-03-11",
+            "creator": "Gloria S Pryhuber",
+            "creator_first_name": "Gloria",
+            "creator_last_name": "Pryhuber",
+            "creator_middle_name": "S",
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "http://purl.org/ccf/1.5/aed760ae-295a-43fc-b6cd-abdf6f012975_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2024-03-11",
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "scaling_units": "ratio",
+              "target": "http://purl.org/ccf/latest/ccf.owl#VHFLungV1.2",
+              "translation_units": "millimeter",
+              "x_rotation": 0,
+              "x_scaling": 1,
+              "x_translation": 62.415,
+              "y_rotation": 0,
+              "y_scaling": 1,
+              "y_translation": 67.513,
+              "z_rotation": 0,
+              "z_scaling": 1,
+              "z_translation": 7.776
+            },
+            "x_dimension": 15,
+            "y_dimension": 10,
+            "z_dimension": 5
+          },
+          "sections": [
+            {
+              "@id": "https://entity.api.hubmapconsortium.org/entities/354e7232a92811832d7114e65c67b8af",
+              "@type": "Sample",
+              "label": "Registered 9/24/2024, Andrew Watts, University of Rochester Medical Center TMC",
+              "link": "https://portal.hubmapconsortium.org/browse/sample/354e7232a92811832d7114e65c67b8af",
+              "description": "15 x 10 x 5 millimeter, 5 millimeter",
+              "sample_type": "Tissue Section",
+              "section_number": 1,
+              "samples": [],
+              "datasets": [
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/7036a70229eff1a51af965454dddbe7d",
+                  "@type": "Dataset",
+                  "label": "Registered 11/26/2024, HuBMAP Process, University of Rochester Medical Center TMC",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/7036a70229eff1a51af965454dddbe7d",
+                  "description": "Dataset Type: Histology",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                },
+                {
+                  "@id": "https://entity.api.hubmapconsortium.org/entities/c15f813973ff7b6f1a7e674022119733",
+                  "@type": "Dataset",
+                  "label": "Registered 11/26/2024, HuBMAP Process, University of Rochester Medical Center TMC",
+                  "link": "https://portal.hubmapconsortium.org/browse/dataset/c15f813973ff7b6f1a7e674022119733",
+                  "description": "Dataset Type: Histology [Image Pyramid]",
+                  "technology": "Histology",
+                  "thumbnail": "assets/icons/ico-unknown.svg"
+                }
+              ]
+            }
+          ],
+          "datasets": [],
+          "section_count": 1,
+          "section_size": 5,
           "section_units": "millimeter"
         }
       ]

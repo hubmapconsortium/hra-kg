@@ -1,9 +1,0 @@
-outs:
-- md5: 12e8b3849579a6b54b0889558e715662
-  size: 89229901
-  hash: md5
-  path: pcl-base.owl
-  cloud:
-    s3:
-      etag: 12e8b3849579a6b54b0889558e715662
-      version_id: CoLnlqrUrQwSNcomY1r2tIRdrdbkO3VA

@@ -1,9 +1,0 @@
-outs:
-- md5: 7b837c51c8540ae80995e0ce27c99196
-  size: 148934689
-  hash: md5
-  path: hgnc.owl
-  cloud:
-    s3:
-      etag: a25bb92806bf2df0f0a60935f162c670-3
-      version_id: HNwFBMDGXmpjiyXz1BsjAFagDwvjoLOs
