@@ -60,9 +60,9 @@ digital-objects:
   - asct-b/uterus/v1.1
   - asct-b/blood-vasculature-organ-crosswalk/v1.3
   - asct-b/musculoskeletal-crosswalk/v1.0
-  - ctann/azimuth/v1.0
+  - ctann/azimuth/v1.1
   - ctann/celltypist/v1.0
-  - ctann/popv/v1.0
+  - ctann/popv/v1.1
   - omap/1-human-lymph-node-ibex/v1.4
   - omap/10-palatine-tonsil-mics/v1.1
   - omap/11-spleen-ibex/v1.1
