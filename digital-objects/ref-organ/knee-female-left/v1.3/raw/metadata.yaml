@@ -33,8 +33,8 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM892.RGKB.238
-# doi: https://doi.org/10.48539/HBM892.RGKB.238
+hubmapId: HBM892.RGKB.238
+doi: https://doi.org/10.48539/HBM892.RGKB.238
 citation: >-
   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Knee, Female,
   Left v1.3.*

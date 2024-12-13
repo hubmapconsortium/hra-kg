@@ -37,8 +37,8 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM277.TVMB.676
-# doi: https://doi.org/10.48539/HBM277.TVMB.676
+hubmapId: HBM277.TVMB.676
+doi: https://doi.org/10.48539/HBM277.TVMB.676
 citation: >-
   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Ovary, Female,
   Right v1.3.*
