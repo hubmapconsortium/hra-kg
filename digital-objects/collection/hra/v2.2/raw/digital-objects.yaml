@@ -76,6 +76,8 @@ digital-objects:
   - omap/19-palatine-tonsil-ibex/v1.0
   - omap/20-kidney-ims-cycif/v1.0
   - omap/21-palatine-tonsil-mics/v1.1
+  - omap/22-skin-cell-dive/v1.0
+  - omap/23-vermiform-appendix-mics/v1.0
   - omap/2-intestine-codex/v1.5
   - omap/3-kidney-codex/v1.3
   - omap/4-skin-cell-dive/v1.3
