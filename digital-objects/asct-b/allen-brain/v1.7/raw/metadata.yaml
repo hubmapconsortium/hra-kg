@@ -1,0 +1,62 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Brain
+description: >-
+  Brain v1.7 is a minor update of the table correcting PCL labels for precursor oligodendricytes and updates citation formats.
+  [Brain v1.6](https://cdn.humanatlas.io/digital-objects/asct-b/allen-brain/v1.6/assets/asct-b-allen-brain.csv)
+  is a minor update of the table that provides parent cell type mappings to Cell
+  Ontology for the specific cell types that were added to [Brain
+  v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-allen-brain.csv),
+  but do not yet have Cell Ontology (CL) or Provisional Cell Ontology (PCL) IDs.
+  More of the brain anatomy was also mapped to the Uberon multispecies anatomy
+  ontology based on exact matching synonym terms.
+creators:
+  - fullName: Jeremy A. Miller
+    firstName: Jeremy
+    lastName: Miller
+    orcid: 0000-0003-4549-588X
+  - fullName: Kimberly Siletti
+    firstName: Kimberly
+    lastName: Siletti
+    orcid: 0000-0001-7620-8973
+  - fullName: Richard H. Scheuermann
+    firstName: Richard
+    lastName: Scheuermann
+    orcid: 0000-0003-1355-892X
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Ed Lein
+    firstName: Ed
+    lastName: Lein
+    orcid: 0000-0001-9012-6552
+  - fullName: David Osumi-Sutherland
+    firstName: David
+    lastName: Osumi-Sutherland
+    orcid: 0000-0002-7073-9172
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: 2024-12-15
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM849.ZMHS.766
+doi: https://doi.org/10.48539/HBM849.ZMHS.766
+citation: >-
+  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables.
+  Brain v1.7,[https://doi.org/10.48539/HBM849.ZMHS.766](https://doi.org/10.48539/HBM849.ZMHS.766), Accessed on December 15, 2024.
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2024.
+datatable:
+  - asct-b-allen-brain.csv
