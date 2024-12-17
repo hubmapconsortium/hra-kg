@@ -65,7 +65,7 @@
       "@id": "ccf:percentage_of_total"
     },
     "cell_count": {
-      "@id": "ccf:gene_count",
+      "@id": "ccf:cell_count",
       "@type": "xsd:integer"
     },
     "gene_count": {
