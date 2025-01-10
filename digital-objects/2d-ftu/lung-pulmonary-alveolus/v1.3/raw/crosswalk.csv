@@ -1,66 +1,66 @@
-node_id,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
-Type_II_Pneumocyte_1,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_II_Pneumocyte_2,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_II_Pneumocyte_3,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_II_Pneumocyte_4,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_II_Pneumocyte_5,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_II_Pneumocyte_6,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Pericyte_1,lung pericyte,CL:0009089,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Pericyte_2,lung pericyte,CL:0009089,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_1,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_2,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_3,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_4,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_5,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_6,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_7,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_8,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_9,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_10,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_11,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_12,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_13,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Type_I_Pneumocyte_14,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Lung_Matrix_Fibroblast_1,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Lung_Matrix_Fibroblast_2,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Lung_Matrix_Fibroblast_3,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Lung_Matrix_Fibroblast_4,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Lung_Matrix_Fibroblast_5,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Lung_Matrix_Fibroblast_6,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Lung_Matrix_Fibroblast_7,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Secondary_Crest_Myofibroblast_1,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Secondary_Crest_Myofibroblast_2,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Secondary_Crest_Myofibroblast_3,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Secondary_Crest_Myofibroblast_4,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Secondary_Crest_Myofibroblast_5,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Secondary_Crest_Myofibroblast_6,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Secondary_Crest_Myofibroblast_7,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Secondary_Crest_Myofibroblast_8,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Secondary_Crest_Myofibroblast_9,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_1,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_2,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_3,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_4,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_5,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_6,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_7,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_8,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_9,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_10,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_11,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_12,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_13,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_14,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_15,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_16,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_17,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_18,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_19,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_20,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_21,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_22,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_23,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_24,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_25,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_26,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
-Capillary_Endothelial_Cell_27,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Type_II_Pneumocyte_1,Type_II_Pneumocyte,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_II_Pneumocyte_2,Type_II_Pneumocyte,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_II_Pneumocyte_3,Type_II_Pneumocyte,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_II_Pneumocyte_4,Type_II_Pneumocyte,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_II_Pneumocyte_5,Type_II_Pneumocyte,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_II_Pneumocyte_6,Type_II_Pneumocyte,type II pneumocyte,CL:0002063,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Pericyte_1,Pericyte,lung pericyte,CL:0009089,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Pericyte_2,Pericyte,lung pericyte,CL:0009089,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_1,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_2,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_3,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_4,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_5,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_6,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_7,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_8,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_9,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_10,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_11,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_12,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_13,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Type_I_Pneumocyte_14,Type_I_Pneumocyte,type I pneumocyte,CL:0002062,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_1,Lung_Matrix_Fibroblast,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_2,Lung_Matrix_Fibroblast,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_3,Lung_Matrix_Fibroblast,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_4,Lung_Matrix_Fibroblast,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_5,Lung_Matrix_Fibroblast,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_6,Lung_Matrix_Fibroblast,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Lung_Matrix_Fibroblast_7,Lung_Matrix_Fibroblast,alveolar type 1 fibroblast cell,CL:4028004,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_1,Secondary_Crest_Myofibroblast,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_2,Secondary_Crest_Myofibroblast,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_3,Secondary_Crest_Myofibroblast,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_4,Secondary_Crest_Myofibroblast,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_5,Secondary_Crest_Myofibroblast,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_6,Secondary_Crest_Myofibroblast,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_7,Secondary_Crest_Myofibroblast,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_8,Secondary_Crest_Myofibroblast,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Secondary_Crest_Myofibroblast_9,Secondary_Crest_Myofibroblast,secondary crest myofibroblast,CL:4033016,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_1,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_2,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_3,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_4,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_5,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_6,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_7,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_8,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_9,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_10,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_11,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_12,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_13,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_14,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_15,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_16,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_17,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_18,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_19,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_20,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_21,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_22,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_23,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_24,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_25,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_26,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048
+Capillary_Endothelial_Cell_27,Capillary_Endothelial_Cell,alveolar capillary type 1 endothelial cell,CL:4028002,alveolus of lung,UBERON:0002299,Lung,UBERON:0002048

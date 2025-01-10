@@ -1,80 +1,559 @@
-node_id,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
-CD14_Positive_1,"CD14-positive, CD16-low monocyte",CL:0001055,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-CD14_Positive_2,"CD14-positive, CD16-low monocyte",CL:0001055,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Follicular_Dendritic_Cell_1,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Follicular_Dendritic_Cell_2,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Follicular_Dendritic_Cell_3,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Follicular_Dendritic_Cell_4,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Follicular_Dendritic_Cell_5,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Follicular_Dendritic_Cell_6,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Follicular_Dendritic_Cell_7,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Plasmablast_1,plasmablast,CL:0000980,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Plasmablast_2,plasmablast,CL:0000980,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Plasmablast_3,plasmablast,CL:0000980,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Neutrophil_1,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Neutrophil_2,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Neutrophil_3,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Marginal_Zone_Macrophage_1,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Marginal_Zone_Macrophage_2,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Marginal_Zone_Macrophage_3,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Marginal_Zone_Macrophage_4,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Marginal_Zone_Macrophage_5,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Marginal_Zone_Macrophage_6,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Marginal_Zone_Macrophage_7,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Marginal_Zone_Macrophage_8,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_1,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_2,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_3,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_4,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_5,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_6,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_7,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_8,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_9,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_10,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Smooth_Muscle_Cell_11,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_1,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_2,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_3,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_4,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_5,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_6,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_7,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_8,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_9,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_10,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_White_Pulp_Macrophage_11,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_1,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_2,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_3,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_4,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_5,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_6,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_7,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_8,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_9,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_10,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_11,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_12,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_13,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_14,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_15,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_16,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_17,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_18,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_19,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_20,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Endothelial_Cell_21,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Stromal_Cell_1,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Stromal_Cell_2,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Stromal_Cell_3,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Stromal_Cell_4,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Stromal_Cell_5,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Stromal_Cell_6,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Reticular_Cell_Of_Splenic_Cord_1,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Reticular_Cell_Of_Splenic_Cord_2,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Reticular_Cell_Of_Splenic_Cord_3,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Reticular_Cell_Of_Splenic_Cord_4,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Reticular_Cell_Of_Splenic_Cord_5,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Reticular_Cell_Of_Splenic_Cord_6,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Reticular_Cell_Of_Splenic_Cord_7,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+CD14_Positive_1,CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+CD14_Positive_2,CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_1,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_2,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_3,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_4,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_5,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_6,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_7,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Plasmablast_1,Plasmablast,plasmablast,CL:0000980,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Plasmablast_2,Plasmablast,plasmablast,CL:0000980,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Plasmablast_3,Plasmablast,plasmablast,CL:0000980,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Neutrophil_1,Neutrophil,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Neutrophil_2,Neutrophil,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Neutrophil_3,Neutrophil,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Marginal_Zone_Macrophage_1,Splenic_Marginal_Zone_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Marginal_Zone_Macrophage_2,Splenic_Marginal_Zone_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Marginal_Zone_Macrophage_3,Splenic_Marginal_Zone_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Marginal_Zone_Macrophage_4,Splenic_Marginal_Zone_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Marginal_Zone_Macrophage_5,Splenic_Marginal_Zone_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Marginal_Zone_Macrophage_6,Splenic_Marginal_Zone_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Marginal_Zone_Macrophage_7,Splenic_Marginal_Zone_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Marginal_Zone_Macrophage_8,Splenic_Marginal_Zone_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_1,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_2,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_3,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_4,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_5,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_6,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_7,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_8,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_9,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_10,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_11,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_12,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_13,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_14,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_15,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_16,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_17,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_18,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_19,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_20,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_21,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_22,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_23,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_24,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_25,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_26,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_27,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_28,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_29,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_30,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_31,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_32,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_33,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_34,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_35,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_36,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_37,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_38,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_39,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_40,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_41,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_42,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_43,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_44,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_45,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_46,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_47,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_48,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_49,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_50,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_51,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_52,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_53,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_54,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_55,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_56,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_57,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_58,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_59,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_60,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_61,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_62,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_63,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_64,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_65,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_66,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_67,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_68,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_69,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_70,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_71,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_72,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_73,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_74,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_75,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_76,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_77,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_78,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_79,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_80,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_81,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_82,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_83,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_84,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_85,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_86,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_87,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_88,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_89,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_90,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_91,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_92,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_93,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Outer_Pals_94,T_Cells_Outer_Pals,T cell (outer PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_1,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_2,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_3,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_4,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_5,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_6,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_7,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_8,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_9,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_10,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_11,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_12,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_13,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_14,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_15,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_16,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_17,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_18,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_19,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_20,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_21,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_22,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_23,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_24,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_25,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_26,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_27,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_28,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_29,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_30,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_31,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_32,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_33,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_34,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_35,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_36,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_37,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_38,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_39,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_40,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_41,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_42,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_43,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_44,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_45,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_46,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_47,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_48,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_49,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_50,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_51,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_52,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_53,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_54,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_55,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_56,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_57,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_58,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_59,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_60,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_61,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_62,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_63,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_64,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_65,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_66,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_67,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_68,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_69,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_70,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_71,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_72,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_73,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_74,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_75,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_76,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_77,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_78,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_79,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_80,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_81,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_82,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_83,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_84,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_85,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_86,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_87,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_88,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_89,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_90,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_91,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_92,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_93,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_94,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_95,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_96,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_97,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_98,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_99,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_100,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_101,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_102,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_103,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_104,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_105,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_106,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_107,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_108,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_109,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_110,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_111,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_112,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_113,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_114,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_115,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_116,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_117,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_118,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_119,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_120,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_121,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_122,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_123,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_124,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_125,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_126,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_127,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_128,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_129,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_130,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_131,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_132,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_133,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_134,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_135,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_136,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_137,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_138,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_139,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_140,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_141,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_142,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_143,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_144,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_145,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_146,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_147,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_148,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_149,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_150,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_151,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_152,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_153,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_154,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_155,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_156,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_157,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_158,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_159,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_160,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_161,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_162,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_163,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_164,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_165,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_166,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_167,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_168,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_169,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_170,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_171,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_172,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_173,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_174,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_175,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_176,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_177,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_178,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_179,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_180,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_181,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_182,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_183,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_184,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_185,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_186,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_187,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_188,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_189,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_190,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_191,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_192,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_193,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_194,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_195,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_196,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_197,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_198,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_199,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_200,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_201,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_202,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_203,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_204,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_205,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_206,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_207,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_208,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_209,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_210,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_211,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_212,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_213,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_214,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_215,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_216,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_217,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_218,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_219,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_220,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_221,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_222,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_223,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_224,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_225,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_226,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_227,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_228,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_229,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_230,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_231,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_232,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_233,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_234,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_235,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_236,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_237,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_238,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_239,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_240,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_241,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_242,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_243,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_244,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_245,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_246,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_247,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_248,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_249,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_250,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_251,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_252,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_253,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_254,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_255,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_256,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_257,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_258,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_259,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_260,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_261,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_262,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_263,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_264,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_265,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_266,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_267,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_268,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_269,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_270,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_271,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_272,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_273,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_274,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_275,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_276,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_277,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_278,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_279,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_280,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_281,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_282,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_283,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_284,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_285,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_286,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_287,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_288,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_289,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_290,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_291,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_292,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_293,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_294,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_295,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_296,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_297,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_298,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_299,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_300,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_301,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_302,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_303,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_304,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_305,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_306,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_307,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_308,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_309,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_310,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_311,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_312,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_313,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_314,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_315,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_316,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_317,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_318,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_319,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_320,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_321,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_322,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_323,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_324,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_325,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_326,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_327,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_328,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_329,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_330,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_331,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_332,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_333,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_334,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_335,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_336,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_337,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_338,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_339,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_340,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_341,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_342,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_343,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_344,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_345,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_346,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_347,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_348,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_349,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_350,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_351,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_352,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_353,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_354,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_355,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_356,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_357,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_358,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_359,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_360,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_361,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_362,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_363,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_364,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_365,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_366,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_367,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_368,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_369,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_370,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_371,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_372,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_373,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_374,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_375,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_376,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_377,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_378,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_379,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_380,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_381,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_382,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_383,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_384,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+T_Cells_Inner_Pals_385,T_Cells_Inner_Pals,T cell (inner PALS),,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_1,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_2,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_3,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_4,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_5,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_6,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_7,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_8,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_9,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_10,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Smooth_Muscle_Cell_11,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_1,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_2,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_3,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_4,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_5,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_6,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_7,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_8,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_9,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_10,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_White_Pulp_Macrophage_11,Splenic_White_Pulp_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_1,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_2,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_3,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_4,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_5,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_6,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_7,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_8,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_9,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_10,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_11,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_12,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_13,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_14,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_15,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_16,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_17,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_18,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_19,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_20,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Endothelial_Cell_21,Splenic_Endothelial_Cell,splenic endothelial cell,CL:2000053,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_1,Stromal_Cell,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_2,Stromal_Cell,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_3,Stromal_Cell,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_4,Stromal_Cell,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_5,Stromal_Cell,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Stromal_Cell_6,Stromal_Cell,stromal cell,CL:0000499,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_1,Reticular_Cell_Of_Splenic_Cord,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_2,Reticular_Cell_Of_Splenic_Cord,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_3,Reticular_Cell_Of_Splenic_Cord,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_4,Reticular_Cell_Of_Splenic_Cord,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_5,Reticular_Cell_Of_Splenic_Cord,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_6,Reticular_Cell_Of_Splenic_Cord,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Cord_7,Reticular_Cell_Of_Splenic_Cord,reticular cell of splenic cord,CL:1000489,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
