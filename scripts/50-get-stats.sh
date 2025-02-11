@@ -3,7 +3,7 @@ source constants.sh
 shopt -s extglob
 set -ev
 
-TEMP_JNL='scratch/ALL-blazegraph.jnl'
+TEMP_JNL='dist/ALL-blazegraph.jnl'
 rm -f $TEMP_JNL
 
 do-processor create-db --include-all-versions --journal $TEMP_JNL
