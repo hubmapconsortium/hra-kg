@@ -1,0 +1,48 @@
+title: 2D Acinus FTU for Pancreas
+description: >-
+  This functional tissue unit (FTU) illustration includes cell types related to
+  the acinus FTU in the Anatomical Structures, Cell Types and Biomarkers table
+  [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557).
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Martha Campbell-Thompson
+    firstName: Martha
+    lastName: Campbell-Thompson
+    orcid: 0000-0001-6878-1235
+externalReviewers: []
+creation_date: "2024-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM586.MNXV.276
+doi: https://doi.org/10.48539/HBM586.MNXV.276
+citation: >-
+  Rachel Bajema 2024. *Pancreas, Acinus 2D FTU v.1.2.*
+  https://doi.org/10.48539/HBM586.MNXV.276. Accessed on December 15 2024.
+citationOverall: >-
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
+  Börner. 2024. [*HuBMAP CCF 2D Reference Object
+  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15
+  2024.
+datatable:
+  - 2d-ftu-pancreas-pancreatic-acinus.svg
+  - 2d-ftu-pancreas-pancreatic-acinus.png
+  - 2d-ftu-pancreas-pancreatic-acinus.ai
+  - crosswalk.csv
+references:
+  - http://doi.org/10.1097/00006676-198601000-00008
