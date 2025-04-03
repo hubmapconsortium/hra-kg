@@ -1,0 +1,83 @@
+title: >-
+  OMAP-27: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based 
+  Imaging of Human Kidney with CODEX
+description: >-
+  OMAP-27 was designed for CO-Detection by indEXing (CODEX) imaging of fresh 
+  frozen human kidney samples (https://dx.doi.org/10.17504/protocols.io.buc5nsy6) 
+  for profiling cell types and cell states. The panel contains 46 antibodies 
+  and the DAPI nuclear marker for image alignment, and builds on the initial 
+  panel validated for OMAP-3 (https://doi.org/10.48539/HBM268.ZQNV.826). 
+  It also overlaps considerably (24 markers)  with OMAP-9 
+  (https://doi.org/10.48539/HBM697.FWDQ.488).  In addition, all antibodies in 
+  OMAP-26, which is designed for use following imaging mass spectrometry are 
+  included in OMAP-27.  This OMAP captures all functional tissue units of the 
+  nephron as well as basement membranes, vasculature, lymphatics, the stromal 
+  compartment, adaptive immune cell types (B and T cells), innate immune cells, 
+  and cells that are injured. This OMAP provides a spatial context for all 
+  anatomical structures and most cell types present in the ASCT+B kidney 
+  table v1.6 (https://doi.org/10.48539/HBM699.PTNX.744). Additional details 
+  on sample preparation and antibody validation can be found here 
+  (https://www.protocols.io/workspaces/BIOMIC).
+creators:
+  - fullName: Thai Pham
+    firstName: Thai
+    lastName: Pham
+    orcid: 0000-0002-6124-7678
+  - fullName: Melissa Farrow
+    firstName: Melissa
+    lastName: Farrow
+    orcid: 0000-0002-1602-2082
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+# hubmapId: <insert hubmap ID>
+# doi: https://doi.org/10.48539/<insert hubmap ID>
+# citation: >-
+# Thai Pham and Melissa Farrow. OMAP-27: Organ Mapping Antibody Panel (OMAP)
+# for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX, v.1.0,
+# <insert new DOI> Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, 
+  Rajbhandari P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, 
+  Croteau J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, 
+  Spraggins JM, Pryhuber GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D, 
+  Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,Lundberg E, 
+  Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. 
+  Organ Mapping Antibody Panels: a community resource for standardized multiplexed 
+  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
+  https://doi.org/10.1038/s41592-023-01846-7.
+datatable:
+  - omap-27-kidney-codex.csv
+  - omap-27-kidney-codex.xlsx

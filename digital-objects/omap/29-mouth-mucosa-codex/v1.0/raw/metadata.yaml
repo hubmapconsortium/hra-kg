@@ -1,0 +1,94 @@
+title: >-
+  OMAP-29 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based 
+  Imaging of human mouth mucosa with CODEX
+description: >-
+  OMAP-29 was designed for CO-Detection by indEXing (CODEX) multiplexed imaging 
+  of formalin-fixed paraffin embedded (FFPE) human oral mucosa (fixed in 4% PFA 
+  instead of 10% formalin) using the PhenoCycler Fusion (PCF) system 
+  (Akoya Biosciences). The tissue slides were prepared with a two-step antigen 
+  retrieval process (pH 9, as described in 
+  https://dx.doi.org/10.17504/protocols.io.x54v9p4j1g3e/v1). Antigens were 
+  detected in oral mucosa tissue using primary antibodies with fluorophore-labeled 
+  barcodes as described in https://doi.org/10.1038/s41467-024-49037-y. OMAP-29 
+  contains 40 antibodies and the nuclear marker DAPI for image registration and 
+  nuclear segmentation. This OMAP provides a spatial context for most anatomical 
+  structures and cell types present in the ASCT+B mouth table v1, and includes 
+  core markers for epithelial cells (pan-cytokeratin), fibroblasts (vimentin), 
+  and immune (CD45) and vascular (CD31) populations.
+creators:
+  - fullName: Kevin M. Byrd
+    firstName: Kevin M.
+    lastName: Byrd
+    orcid: 0000-0002-5565-0524
+  - fullName: Quinn Easter
+    firstName: Quinn
+    lastName: Easter
+    orcid: 0000-0002-8018-0405
+  - fullName: Bruno Matuck
+    firstName: Bruno
+    lastName: Matuck
+    orcid: 0000-0002-2132-3402
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Liz McDonough
+    firstName: Liz
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+# hubmapId: <insert hubmap ID>
+# doi: https://doi.org/10.48539/<insert hubmap ID>
+# citation: >-
+# Kevin M. Byrd; Quinn Easter; Bruno Matuck.. OMAP-29 Organ Mapping Antibody Panel
+# (OMAP) for Multiplexed Antibody-Based Imaging of human mouth mucosa with CODEX,
+# v.1.0,<insert new DOI> Accessed June 15, 2025.
+
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, 
+  Rajbhandari P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, 
+  Croteau J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, 
+  Spraggins JM, Pryhuber GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D, 
+  Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,Lundberg E, 
+  Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. 
+  Organ Mapping Antibody Panels: a community resource for standardized multiplexed 
+  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
+  https://doi.org/10.1038/s41592-023-01846-7.
+datatable:
+  - omap-29-mouth-mucosa-codex.csv
+  - omap-29-mouth-mucosa-codex.xlsx
