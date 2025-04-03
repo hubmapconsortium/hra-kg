@@ -1,0 +1,11 @@
+node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Thick_Ascending_Limb_Cell_1,Thick_Ascending_Limb_Cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,thick ascending limb of loop of Henle,UBERON:0001291,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Cell_2,Thick_Ascending_Limb_Cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,thick ascending limb of loop of Henle,UBERON:0001291,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Cell_3,Thick_Ascending_Limb_Cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,thick ascending limb of loop of Henle,UBERON:0001291,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Cell_4,Thick_Ascending_Limb_Cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,thick ascending limb of loop of Henle,UBERON:0001291,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Cell_5,Thick_Ascending_Limb_Cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,thick ascending limb of loop of Henle,UBERON:0001291,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Cell_6,Thick_Ascending_Limb_Cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,thick ascending limb of loop of Henle,UBERON:0001291,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Cell_7,Thick_Ascending_Limb_Cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,thick ascending limb of loop of Henle,UBERON:0001291,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Cell_8,Thick_Ascending_Limb_Cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,thick ascending limb of loop of Henle,UBERON:0001291,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Cell_9,Thick_Ascending_Limb_Cell,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,thick ascending limb of loop of Henle,UBERON:0001291,Kidney,UBERON:0002113
+Endothelium_Peritubular_Capillary,Endothelium_Peritubular_Capillary,peritubular capillary endothelial cell,CL:1001033,thick ascending limb of loop of Henle,UBERON:0001291,Kidney,UBERON:0002113
