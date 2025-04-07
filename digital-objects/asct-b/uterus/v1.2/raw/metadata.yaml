@@ -1,0 +1,45 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Uterus
+description: >-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts.
+creators:
+  - fullName: Kathleen O'Neill
+    firstName: Kathleen
+    lastName: O'Neill
+    orcid: 0000-0003-1980-6840
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers:
+  - fullName: Carlos Simon
+    firstName: Carlos
+    lastName: Simon
+    orcid: 0000-0003-0902-9531
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM866.BCMC.625
+# doi: https://doi.org/10.48539/HBM866.BCMC.625
+# citation: >-
+#   Kathleen O'Neill, HuBMAP ASCT+B Tables. Uterus v1.2
+#   [https://doi.org/10.48539/HBM866.BCMC.625](https://doi.org/10.48539/HBM866.BCMC.625)
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2025.
+datatable:
+  - ASCT-B_VH_Uterus.csv
