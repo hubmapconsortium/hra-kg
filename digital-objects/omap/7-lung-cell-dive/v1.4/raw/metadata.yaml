@@ -116,11 +116,11 @@ funders:
     awardNumber: U54HL145608-04
 # hubmapId: <insert hubmap ID>
 # doi: https://doi.org/10.48539/<insert hubmap ID>
-citation: >-
-  Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty.
-  OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Lung with Cell DIVE, v1.3,
-  https://doi.org/10.48539/HBM848.XMNH.635. Accessed on June 15, 2024.
+# citation: >-
+#   Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty.
+#   OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+#   Imaging of Human Lung with Cell DIVE, v1.4,
+#  <insert new doi>. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, 
   Rajbhandari P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, 
