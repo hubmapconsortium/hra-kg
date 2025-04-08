@@ -1,0 +1,41 @@
+title: 3D Reference Organ for Lymph Node, Female, Right
+description:
+  "[This reference organ](https://humanatlas.io/3d-reference-library) was
+  created using the Clearing-enhanced 3D (Ce3D) method developed by Dr. Weizhe Li,
+  Laboratory of Immune System Biology, National Institute of Allergy and Infectious
+  Diseases, NIH using data documented in https://www.pnas.org/content/114/35/E7321.
+  While the size and cellular composition of mouse and human lymph nodes varies between
+  species, the overall anatomy is well-conserved."
+creators:
+  - fullName: Li Yao
+    firstName: Li
+    lastName: Yao
+    orcid: 0000-0003-2390-083X
+project_leads:
+  - fullName: "Katy B\xF6rner"
+    firstName: Katy
+    lastName: "B\xF6rner"
+    orcid: 0000-0002-3321-6137
+reviewers: []
+externalReviewers: []
+creation_date: "2021-03-12"
+license: Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM439.ZTGH.778
+doi: https://doi.org/10.48539/hbm439.ztgh.778
+citation:
+  Li Yao. 2021. *3D Reference Organ for Lymph Node, Female, Right v1.0.* [https://doi.org/10.48539/hbm439.ztgh.778](https://doi.org/10.48539/hbm439.ztgh.778).
+  Accessed on March 12, 2021.
+citationOverall:
+  "Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record,\
+  \ Ellen Quardokus, Andreas Bueckle, Katy B\xF6rner. 2021. *HuBMAP CCF 3D Reference\
+  \ Object Library*. https://humanatlas.io/3d-reference-library. Accessed on March\
+  \ 12, 2021."
+datatable:
+  - NIH_F_Lymph_Node_Right.glb
+  - crosswalk.csv
+references:
+  - https://doi.org/10.1073/pnas.1708981114

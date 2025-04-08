@@ -1,0 +1,49 @@
+title: 3D Reference Organ for Brain, Male
+description: "[This reference organ](https://humanatlas.io/3d-reference-library) was\
+  \ created using data from the \"[Allen Human Reference Atlas \u2013 3D, 2020](https://doi.org/10.1002/cne.24080)\"\
+  \ representing one half of the human brain (Ding et al., 2016). The 141 anatomical\
+  \ structures were mirrored to arrive at a whole human brain (as intended) and resized\
+  \ to fit the Visible Human Male and Female bodies. In version v1.3, an update in\
+  \ licensing occurred; this brain model is now licensed under Creative Commons Attribution\
+  \ 4.0 International (CC BY 4.0)."
+creators:
+- fullName: Kristen Browne
+  firstName: Kristen
+  lastName: Browne
+  orcid: 0000-0003-4066-7531
+- fullName: Heidi Schlehlein
+  firstName: Heidi
+  lastName: Schlehlein
+  orcid: 0000-0002-3333-5646
+project_leads:
+- fullName: "Katy B\xF6rner"
+  firstName: Katy
+  lastName: "B\xF6rner"
+  orcid: 0000-0002-3321-6137
+reviewers:
+- fullName: Song-Lin Ding
+  firstName: Song-Lin
+  lastName: Ding
+  orcid: 0000-0002-7072-5272
+externalReviewers: []
+creation_date: '2024-06-15'
+license: Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+- funder: National Institutes of Health
+  awardNumber: OT2OD033756
+- funder: National Institutes of Health
+  awardNumber: OT2OD026671
+hubmapId: HBM538.NKCT.649
+doi: https://doi.org/10.48539/HBM538.NKCT.649
+citation: Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Brain, Male
+  v1.4*. [https://doi.org/10.48539/HBM538.NKCT.649](https://doi.org/10.48539/HBM538.NKCT.649).
+  Accessed on June 15, 2024.
+citationOverall: "Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus,\
+  \ Andreas Bueckle, Katy B\xF6rner. 2024. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library)\
+  \  Accessed on June 15, 2024."
+datatable:
+- 3d-allen-m-brain.glb
+- crosswalk.csv
+references:
+- https://doi.org/10.1002/cne.24080

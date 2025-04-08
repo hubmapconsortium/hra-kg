@@ -1,0 +1,56 @@
+title: 3D Reference Organ for Placenta, Full Term, Female
+description: "[This reference organ](https://humanatlas.io/3d-reference-library) The\
+  \ placenta was sculpted partly from MRI data from the Department of Obstetrics,\
+  \ Gynecology, and Reproductive Sciences, Division of Maternal-Fetal Medicine at\
+  \ UC San Diego Health. The atlas \u201CHuman Microscopic Anatomy\u201D (R.V. Krsti\u0107\
+  , 1994) and  [(Mannelli et al. 2015)](https://doi.org/10.1177/1559325815611902)\
+  \ were consulted."
+creators:
+- fullName: Heidi Schlehlein
+  firstName: Heidi
+  lastName: Schlehlein
+  orcid: 0000-0002-3333-5646
+project_leads:
+- fullName: "Katy B\xF6rner"
+  firstName: Katy
+  lastName: "B\xF6rner"
+  orcid: 0000-0002-3321-6137
+reviewers:
+- fullName: Ana Rodriguez-Soto
+  firstName: Ana
+  lastName: Rodriguez-Soto
+  orcid: 0000-0002-9544-547X
+- fullName: Mana Parast
+  firstName: Mana
+  lastName: Parast
+  orcid: 0000-0001-5963-2246
+- fullName: Louise Laurent
+  firstName: Louise
+  lastName: Laurent
+  orcid: 0000-0002-2095-7534
+- fullName: Rebecca Rakow-Penner
+  firstName: Rebecca
+  lastName: Rakow-Penner
+  orcid: 0000-0002-2566-1978
+externalReviewers: []
+creation_date: '2024-06-15'
+license: Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+- funder: National Institutes of Health
+  awardNumber: OT2OD033756
+- funder: National Institutes of Health
+  awardNumber: OT2OD026671
+hubmapId: HBM593.ZRJH.644
+doi: https://doi.org/10.48539/HBM593.ZRJH.644
+citation: Heidi Schlehlein 2024. *3D Reference Organ for Placenta, Full Term, Female
+  v1.1* [https://doi.org/10.48539/HBM593.ZRJH.644](https://doi.org/10.48539/HBM593.ZRJH.644).
+  Accessed on June 15, 2024.
+citationOverall: "Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus,\
+  \ Andreas Bueckle, Katy B\xF6rner. 2024. [*HuBMAP CCF 3D Reference Object Library*](https://humanatlas.io/3d-reference-library).\
+  \ Accessed on June 15, 2024."
+datatable:
+- 3d-vh-f-placenta-full-term.glb
+- crosswalk.csv
+references:
+- https://doi.org/10.1177/1559325815611902
