@@ -1,0 +1,97 @@
+title: >-
+  OMAP-28: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based 
+  Imaging of Heart with CODEX
+description: >-
+  The heart OMAP panel was designed for CO-Detection by indEXing (CODEX), 
+  with the Akoya biosciences PhenoCycler system on formalin fixed paraffin 
+  embedded (FFPE) human heart samples. Following antigen retrieval in Dako 
+  Target Retrieval Solution, pH 9, by heating in a high pressure cooker for 
+  20 minutes, tissue autofluorescence was reduced by incubating sample slides 
+  in 4.5% (w/v) H2O2 and 20mM NaOH in PBS sandwiched between two broad-spectrum 
+  LED light sources for 2 X 45 minutes. The full CODEX protocol can be found 
+  at https://doi.org/10.17504/protocols.io.5jyl8pzodg2w/v1.  
+  The panel contains 38 antibodies and the nuclear marker DAPI. This OMAP 
+  provides a spatial context for 26 anatomical structures and 14 cell types 
+  present in the ASCT+B Heart table, v1.5 
+  (https://lod.humanatlas.io/asct-b/heart/v1.5/). Cell membrane markers 
+  (Sodium-potassium ATPase, CD45, vimentin) and nuclear marker DAPI are used 
+  for cell segmentation.  In general the panel was aimed to provide a broad 
+  representation of cell types found in the heart including cardiomyocyte 
+  (atrial and/or ventricular), vascular endothelial, lymphatic endothelial, 
+  pericyte, vascular smooth muscle, lymphocyte, macrophage, fibroblast, 
+  adipocyte, mesothelial, and Schwann cells.  All of the major cell types 
+  are represented, although cell states and subtypes of immune cells may be 
+  future additions to the panel.
+  Markers of the specialized pacemaking regions of the heart, the sinoatrial and atrioventricular nodes, are also provided.
+
+creators:
+  - fullName: Kyung Jin Ahn
+    firstName: Kyung Jin
+    lastName: Ahn
+    orcid: 0000-0002-4184-482X
+  - fullName: Kai Tan
+    firstName: Kai
+    lastName: Tan
+    orcid: 0000-0002-9104-5567
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Liz McDonough
+    firstName: Liz
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+# hubmapId: <insert hubmap ID>
+# doi: https://doi.org/10.48539/<insert hubmap ID>
+# citation: >-
+# Kyung Jin Ahn and Kai Tan. OMAP-28: Organ Mapping Antibody Panel (OMAP)
+# for Multiplexed Antibody-Based Imaging of Heart with CODEX, v1.0, ,
+# <insert new DOI> Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, 
+  Rajbhandari P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, 
+  Croteau J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, 
+  Spraggins JM, Pryhuber GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D, 
+  Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,Lundberg E, 
+  Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. 
+  Organ Mapping Antibody Panels: a community resource for standardized multiplexed 
+  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
+  https://doi.org/10.1038/s41592-023-01846-7.
+datatable:
+  - omap-28-heart-codex.csv
+  - omap-28-heart-codex.xlsx
