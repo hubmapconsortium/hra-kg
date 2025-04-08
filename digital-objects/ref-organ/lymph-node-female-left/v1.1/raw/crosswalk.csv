@@ -1,0 +1,9 @@
+node_name,OntologyID,label
+Yao_lymph_node_a,UBERON:0000029,lymph node
+Yao_afferent_lymphatic_vessel_a,UBERON:0010396,afferent lymphatic vessel
+Yao_capsule_of_lymph_node_a,UBERON:0002194,capsule of lymph node
+Yao_follicles_a,UBERON:0010748,lymph node follicle
+Yao_efferent_lymph_node_a,UBERON:0010397,efferent lymphatic vessel
+Yao_medulla_of_lymph_node_a,UBERON:0002007,medulla of lymph node
+Yao_paracortex_a,UBERON:0010417,lymph node T cell domain
+Yao_vasculature_a,,
