@@ -34,12 +34,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM532.TNXR.875
-doi: https://doi.org/10.48539/HBM532.TNXR.875
-citation:
-  Li Yao, Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for
-  Lymph Node, Male v1.4.* [https://doi.org/10.48539/HBM532.TNXR.875](https://doi.org/10.48539/HBM532.TNXR.875).
-  Accessed on December 15, 2024.
+# hubmapId: HBM532.TNXR.875
+# doi: https://doi.org/10.48539/HBM532.TNXR.875
+# citation:
+#   Li Yao, Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for
+#   Lymph Node, Male v1.4.* [https://doi.org/10.48539/HBM532.TNXR.875](https://doi.org/10.48539/HBM532.TNXR.875).
+#   Accessed on December 15, 2024.
 citationOverall:
   "Li Yao,Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen\
   \ Quardokus, Andreas Bueckle, Katy B\xF6rner. 2024. [*HuBMAP CCF 3D Reference Object\
