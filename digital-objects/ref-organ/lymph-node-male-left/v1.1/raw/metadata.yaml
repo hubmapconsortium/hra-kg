@@ -24,11 +24,11 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM668.RBLW.256
-doi: https://doi.org/10.48539/hbm668.rblw.256
-citation:
-  Li Yao. 2021. *3D Reference Organ for Lymph Node, Male, Left v1.0.* [https://doi.org/10.48539/hbm668.rblw.256](https://doi.org/10.48539/hbm668.rblw.256).
-  Accessed on March 12, 2021.
+# hubmapId: HBM668.RBLW.256
+# doi: https://doi.org/10.48539/hbm668.rblw.256
+# citation:
+#   Li Yao. 2021. *3D Reference Organ for Lymph Node, Male, Left v1.0.* [https://doi.org/10.48539/hbm668.rblw.256](https://doi.org/10.48539/hbm668.rblw.256).
+#   Accessed on March 12, 2021.
 citationOverall:
   "Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record,\
   \ Ellen Quardokus, Andreas Bueckle, Katy B\xF6rner. 2021. *HuBMAP CCF 3D Reference\

@@ -32,12 +32,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM575.VDJW.494
-doi: https://doi.org/10.48539/HBM575.VDJW.494
-citation:
-  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Spinal Cord,
-  Male, v1.1.* [https://doi.org/10.48539/HBM575.VDJW.494](https://doi.org/10.48539/HBM575.VDJW.494).
-  Accessed on June 15, 2024.
+# hubmapId: HBM575.VDJW.494
+# doi: https://doi.org/10.48539/HBM575.VDJW.494
+# citation:
+#   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Spinal Cord,
+#   Male, v1.1.* [https://doi.org/10.48539/HBM575.VDJW.494](https://doi.org/10.48539/HBM575.VDJW.494).
+#   Accessed on June 15, 2024.
 citationOverall:
   "Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus,\
   \ Andreas Bueckle, Katy B\xF6rner. 2024. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library)\
