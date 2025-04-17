@@ -8,6 +8,7 @@ set -ev
 
 CLEAN="--delete"
 
-rsync -ri $CLEAN --checksum ./dist/ ./staging/
-
-aws s3 sync $CLEAN ./staging/ s3://cdn-humanatlas-io/digital-objects/
+if [ "${DEFAULT_CDN_IRI}" = "https://cdn.humanatlas.io/digital-objects/" ]; then
+  rsync -ri $CLEAN --checksum ./dist/ ./staging/
+  aws s3 sync $CLEAN ./staging/ s3://cdn-humanatlas-io/digital-objects/
+fi
