@@ -1,0 +1,49 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Main
+  Bronchus
+description: ""
+creators:
+  - fullName: Gloria Pryhuber
+    firstName: Gloria
+    lastName: Pryhuber
+    orcid: 0000-0002-9185-3994
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Martijn Nawijn
+    firstName: Martijn
+    lastName: Nawijn
+    orcid: 0000-0003-3372-6521
+  - fullName: Ellen Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Gail Deutsch
+    firstName: Gail
+    lastName: Deutsch
+    orcid: 0000-0002-0571-0285
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM673.RKQV.672
+# doi: https://doi.org/10.48539/HBM673.RKQV.672
+# citation: >-
+#   Gloria Pryhuber. HuBMAP ASCT+B Tables. Main Bronchus v1.3
+#   [https://doi.org/10.48539/HBM673.RKQV.672](https://doi.org/10.48539/HBM673.RKQV.672)
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
+  2025.
+datatable:
+  - asct-b-vh-main-bronchus.csv

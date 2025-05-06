@@ -1,0 +1,100 @@
+title: >-
+  OMAP-24: Organ Mapping Antibody Panel (OMAP) for Multiplexed 
+  Antibody-Based Imaging of Human Pancreas with CyCIF
+description: >-
+  OMAP-24 was created for the detection of 13 protein biomarkers in the human pancreas 
+  with a focus on pancreatic ganglia and nervous innervation. We employed a cyclic 
+  immunofluorescence (CyCIF) staining pipeline on FFPE pancreas sections (fixed in 4% PFA 
+  instead of 10% formalin). Our full staining protocol can be found at 
+  https://dx.doi.org/10.17504/protocols.io.261ger4djl47/v1. Images from sequential 
+  staining rounds were aligned using nuclear markers DAPI (cycle 1) and Hoechst S769121 
+  (cycles 2 & 3). This OMAP contributes spatial data for anatomical structures and cell 
+  types listed in ASCT+B pancreas table version 1.3 
+  (https://lod.humanatlas.io/asct-b/pancreas/v1.3/) with a focus on pancreatic ganglia and 
+  nerves. This OMAP builds on previous OMAPs 6 and 13 for the human pancreas 
+  (DOI 10.5281/zenodo.7742473 and DOI 10.5281/zenodo.7916783, respectively), adding 
+  valuable spatial data on nervous innervation in the pancreas. Glial cells, interstitial 
+  cells, and immune cells are not targeted in this OMAP due to difficulties finding 
+  appropriate antibodies. This is the first OMAP focused on pancreas nerve innervation and 
+  pancreatic ganglia, shedding more light on pancreatic diseases including type 1 diabetes. 
+  Tissue sections were prepared according to the Human Pancreas Processing protocol found 
+  at http://dx.doi.org/10.17504/protocols.io.n2bvj6dnblk5/v1. Our full CyCIF staining 
+  protocol can be found at dx.doi.org/10.17504/protocols.io.261ger4djl47/v1. A sample 
+  dataset for this OMAP can be found at https://doi.org/10.5281/zenodo.14867745. All 
+  tissue samples were subjected to antigen retrieval for 25 minutes at 95°C in a 
+  vegetable steamer using 1X AR9 solution prepared from stock. For primary antibodies 
+  requiring TSA amplification, HRP polymer reagents (ImmPRESS HRP Horse anti-Goat IgG 
+  Polymer Reagent, Vector Laboratories #30036; ImmPRESS HRP Goat anti-Rat IgG Polymer 
+  Reagent, Vector Laboratories #MP-7404-50; 1X Opal Anti-Ms + Rb HRP, Akoya Biosciences 
+  #ARH1001EA) were used; see our CyCIF protocol for additional details. To detect the 
+  antibodies in our OMAP, we used a combination of OPAL TSA fluorophores and Alexa Fluor 
+  conjugated secondary antibodies. In our tests, we did not find any staining cycle 
+  sensitivity of specific antibodies.
+creators:
+  - fullName: Samuel L.
+    firstName: Samuel L.
+    lastName: Ewing
+    orcid: 0009-0008-9946-8581
+  - fullName: Martha Campbell-Thompson
+    firstName: Martha
+    lastName: Campbell-Thompson
+    orcid: 0000-0001-6878-1235
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+# hubmapId: <insert hubmap ID>
+# doi: https://doi.org/10.48539/<insert hubmap ID>
+# citation: >-
+# Samuel L. Ewing and Martha Campbell-Thompson. OMAP-24:
+# Organ Mapping Antibody Panel (OMAP) for Multiplexed
+# Antibody-Based Imaging of Human Pancreas with CyCIF,
+# v.1.0 <insert new DOI> Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, 
+  Rajbhandari P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, 
+  Croteau J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, 
+  Spraggins JM, Pryhuber GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D, 
+  Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,Lundberg E, 
+  Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. 
+  Organ Mapping Antibody Panels: a community resource for standardized multiplexed 
+  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
+  https://doi.org/10.1038/s41592-023-01846-7.
+datatable:
+  - omap-24-pancreas-cycif.csv
+  - omap-24-pancreas-cycif.xlsx

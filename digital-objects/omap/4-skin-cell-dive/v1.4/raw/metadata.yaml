@@ -1,0 +1,122 @@
+title: >-
+  OMAP-4  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Skin with Cell DIVE
+description: >-
+  OMAP-4 was designed for Cell DIVE multiplexed imaging of formalin-fixed
+  paraffin-embedded (FFPE) human skin. Cell DIVE enables highly multiplexed
+  single cell analysis using antibody-based imaging (Gerdes, MJ. et al, 2013)
+  The tissue slides were prepared with a two-step antigen retrieval process (pH
+  6 and pH 9, as described https://dx.doi.org/10.17504/protocols.io.bpwumpew).
+  Antigens were detected using either primary antibodies with
+  fluorophore-labeled secondaries or fluorescent dye conjugated antibodies
+  (protocol can be found https://dx.doi.org/10.17504/protocols.io.b4kgqutw). The
+  panel contains 18 antibodies and the nuclear marker DAPI for image
+  registration and nuclear segmentation. This OMAP provides a spatial context
+  for most anatomical structures and cell types present in the [ASCT+B skin
+  table, v1.1](https://doi.org/10.48539/HBM423.RTRR.746).  Keratinocyte
+  populations can be identified based on their spatial location, distinct
+  morphology and, in the case of corneocytes, absence of nuclei.  Additionally,
+  the inclusion of protein biomarkers DDB2 and p53 allow profiling of skin
+  damage and aging effects. The panel was designed to get a broad representation
+  of cell types found in the skin and in the future will be expanded to include
+  dermal dendritic cell (DC) markers (e.g. Langerin, CD11c). This panel does not
+  include markers targeting several immune cell subsets including Langerhans
+  cells, mast cells, and gamma delta T cells. Representative datasets created
+  using this OMAP are publicly available on the [HuBMAP data portal.]
+  (https://portal.hubmapconsortium.org/browse/publication/e8338966c69e759157d6c6ad24847989) 
+  This revised v1.4 OMAP corrects CD3 was corrected from CD3D to CD3E.
+creators:
+  - fullName: Elizabeth McDonough
+    firstName: Elizabeth
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+  - fullName: Chrystal Chadwick
+    firstName: Chrystal
+    lastName: Chadwick
+    orcid: 0000-0001-6355-5677
+  - fullName: Fiona Ginty
+    firstName: Fiona
+    lastName: Ginty
+    orcid: 0000-0001-6638-683X
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Ari Karunamurthy
+    firstName: Ari
+    lastName: Karunamurthy
+    orcid: 0000-0002-5739-4923
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Christopher Werlein
+    firstName: Christopher
+    lastName: Werlein
+    orcid: 0000-0002-7694-4257
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Anna Martinez Casals
+    firstName: Anna
+    lastName: Casals
+    orcid: 0000-0003-2722-1965
+  - fullName: Presha Rajbhandari
+    firstName: Presha
+    lastName: Rajbhandari
+    orcid: 0000-0003-2184-7238
+externalReviewers: []
+creation_date: "2024-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institute of Allergy and Infectious Disease
+    awardNumber: NIH 5UH3CA246594-02
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246594-01
+# hubmapId: <insert hubmap ID>
+# doi: https://doi.org/10.48539/<insert hubmap ID>
+# citation: >-
+#   Liz McDonough, Chrystal Chadwick, and Fiona Ginty. OMAP-4  Organ Mapping
+#   Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin
+#   with Cell DIVE, v1.4.,<insert new DOI> Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, 
+  Rajbhandari P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, 
+  Neelakantan TV, Croteau J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, 
+  Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty F, Nolan GP, 
+  Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, 
+  Stockwell BR,Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, 
+  Börner K, Radtke AJ. Organ Mapping Antibody Panels: a community resource 
+  for standardized multiplexed tissue imaging. Nat Methods. 2023 Aug;
+  20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+datatable:
+  - omap-4-skin-cell-dive.csv
+  - omap-4-skin-cell-dive.xlsx
