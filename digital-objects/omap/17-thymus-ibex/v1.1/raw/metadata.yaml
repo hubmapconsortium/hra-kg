@@ -1,0 +1,149 @@
+title: >-
+  OMAP-17: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging
+  of Thymus with IBEX
+description: >-
+  OMAP-17 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging
+  of fixed frozen human pediatric thymus samples (https://doi.org/10.1038/s41596-921-00644-9;
+  https://doi.org/10.1073/pnas.2018488117). The panel consists of 9 cycles of 43 primary
+  antibodies, 6 secondary antibodies, and the nuclear label Hoechst for image alignment
+  and nuclear segmentation. This OMAP provides a spatial context for 7 anatomical
+  structures and more than 30 cell types and cell states (dividing, immature, precommitted)
+  present in the ASCT+B thymus table (https://doi.org/10.48539/HBM668.QPSF.678). This
+  panel was specifically designed to phenotype unique, and often rare, populations
+  of thymic epithelial cells (TECs) of the medulla, e.g., myo-TECs and neuro-TECs.  Marker
+  selection was guided by companion studies using advanced sequencing methods (scRNA-seq
+  and CITE-seq) as well as expert review. OMAP-17 is the first OMAP for the human
+  thymus but targets several stromal and immune cell types included in OMAPs for other
+  lymphoid organs. OMAP-1 (lymph node; https://doi.org/10.48539/HBM458.NSWR.957),
+  OMAP-11 (spleen; https://doi.org/10.48539/HBM957.RHVB.545), and OMAP-10 (tonsil;
+  (https://doi.org/10.48539/HBM663.JJMJ.628). This OMAP does not contain markers for
+  phenotyping plasma cells or ionocytes/tuft TECs. CD1a, a critical marker for developing
+  thymocytes, was removed from OMAP-17 due to steric hindrance of T cell markers in
+  later cycles. Several antibodies required custom conjugation by commercial suppliers
+  or in house via antibody conjugation kits (e.g., Alexa Fluor 532 and iFluor 594
+  conjugates). This work is included in a spatial thymus atlas constructed by the
+  Human Cell Atlas. Additional details on image analysis, data integration, and the
+  establishment of a common coordinate framework for the thymus can be found in the
+  accompanying paper (https://doi.org/10.1038/s41586-024-07944-6). Note that three
+  of the antibodies have been discontinued since this OMAP-17 was created: Novus Biologicals
+  (KRT10: catalog #: NBP2-54402PE), Novus Biologicals (LY75: catalog #: NBP2-75467),
+  and this detection reagent from Thermo Fisher Scientific (catalogy #: Z25303). Representative
+  datasets can be accessed on Image Data Resource (https://idr.openmicroscopy.org)
+  using the link supplied here: (https://doi.org/10.17867/10000200).
+creators:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Brianna T. Wachter
+    firstName: Brianna T.
+    lastName: Wachter
+    orcid: 0000-0002-2950-2683
+  - fullName: Rebecca T. Beuschel,
+    firstName: Rebecca T.
+    lastName: Beuschel
+    orcid: 0000-0002-3882-457X
+  - fullName: Nadav Yayon
+    firstName: Nadav
+    lastName: Yayon
+    orcid: 0000-0002-7034-0524
+  - fullName: Veronika Kedlian
+    firstName: Veronika
+    lastName: Kedlian
+    orcid: 0000-0001-6563-0829
+  - fullName: Lena Boehme
+    firstName: Lena
+    lastName: Boehme
+    orcid: 0000-0001-7593-7533
+  - fullName: Ronald Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+  - fullName: Luigi Notarangelo
+    firstName: Luigi
+    lastName: Notarangelo
+    orcid: 0000-0002-8335-0262
+  - fullName: Marita Bosticardo
+    firstName: Marita
+    lastName: Bosticardo
+    orcid: 0000-0002-1771-4523
+  - fullName: Francesca Pala
+    firstName: Francesca
+    lastName: Pala
+    orcid: 0000-0003-4537-9061
+  - fullName: Sarah Teichmann
+    firstName: Sarah
+    lastName: Teichmann
+    orcid: 0000-0002-6294-6366
+  - fullName: Tom Taghon
+    firstName: Tom
+    lastName: Taghon
+    orcid: 0000-0002-5781-0288
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM723.QPQZ.388
+# doi: https://doi.org/10.48539/HBM723.QPQZ.388
+# citation: >-
+#   Andrea J. Radtke, Brianna T. Wachter, Rebecca T. Beuschel, Nadav Yayon, Veronika Kedlian, Lena Boehme, Ronald Germain, Luigi Notarangelo, Marita Bosticardo, Francesca Pala, Sarah Teichmann, Tom Taghon. OMAP-17: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Thymus with IBEX v1.1.
+#   [https://doi.org/10.48539/HBM723.QPQZ.388](https://doi.org/10.48539/HBM723.QPQZ.388). Accessed on June 15, 2025.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
+  P,
+   Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J,
+  Wiblin AE,
+   Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch
+  G, Ginty  
+   F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N,
+  Stockwell BR,
+   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke
+  AJ. Organ
+   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
+  imaging. Nat  
+   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+datatable:
+  - omap-17-thymus-ibex.csv
+  - omap-17-thymus-ibex.xlsx
+references:
+  - https://doi.org/10.1038/s41596-921-00644-9;
+  - https://doi.org/10.1073/pnas.2018488117
+  - https://doi.org/10.48539/HBM668.QPSF.678
+  - https://doi.org/10.48539/HBM458.NSWR.957
+  - https://doi.org/10.48539/HBM957.RHVB.545
+  - https://doi.org/10.48539/HBM663.JJMJ.628
+  - https://doi.org/10.1038/s41586-024-07944-6
+  - https://doi.org/10.17867/10000200

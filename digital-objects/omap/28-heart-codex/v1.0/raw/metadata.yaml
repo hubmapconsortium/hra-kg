@@ -1,29 +1,28 @@
 title: >-
-  OMAP-28: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based 
-  Imaging of Heart with CODEX
+  OMAP-28: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging
+  of Heart with CODEX
 description: >-
-  The heart OMAP panel was designed for CO-Detection by indEXing (CODEX), 
-  with the Akoya biosciences PhenoCycler system on formalin fixed paraffin 
-  embedded (FFPE) human heart samples. Following antigen retrieval in Dako 
-  Target Retrieval Solution, pH 9, by heating in a high pressure cooker for 
-  20 minutes, tissue autofluorescence was reduced by incubating sample slides 
-  in 4.5% (w/v) H2O2 and 20mM NaOH in PBS sandwiched between two broad-spectrum 
-  LED light sources for 2 X 45 minutes. The full CODEX protocol can be found 
-  at https://doi.org/10.17504/protocols.io.5jyl8pzodg2w/v1.  
-  The panel contains 38 antibodies and the nuclear marker DAPI. This OMAP 
-  provides a spatial context for 26 anatomical structures and 14 cell types 
-  present in the ASCT+B Heart table, v1.5 
-  (https://lod.humanatlas.io/asct-b/heart/v1.5/). Cell membrane markers 
-  (Sodium-potassium ATPase, CD45, vimentin) and nuclear marker DAPI are used 
-  for cell segmentation.  In general the panel was aimed to provide a broad 
-  representation of cell types found in the heart including cardiomyocyte 
-  (atrial and/or ventricular), vascular endothelial, lymphatic endothelial, 
-  pericyte, vascular smooth muscle, lymphocyte, macrophage, fibroblast, 
-  adipocyte, mesothelial, and Schwann cells.  All of the major cell types 
-  are represented, although cell states and subtypes of immune cells may be 
-  future additions to the panel.
-  Markers of the specialized pacemaking regions of the heart, the sinoatrial and atrioventricular nodes, are also provided.
-
+  The heart OMAP panel was designed for CO-Detection by indEXing (CODEX) with the
+  Akoya Biosciences PhenoCycler system on human formalin fixed paraffin embedded (FFPE)
+  heart samples. Antigen retrieval was performed by heating the tissue samples in
+  Dako Target Retrieval Solution (pH 9) within a high-pressure cooker for 20 minutes.
+  Subsequently, to minimize tissue autofluorescence, the sample slides were incubated
+  in a solution of 4.5% (w/v) hydrogen peroxide (H₂O₂) and 20mM sodium hydroxide (NaOH)
+  in PBS. This incubation was combined with photoirradiation using two broad-spectrum
+  LED light sources for two cycles of 45 minutes each, with the slides positioned
+  between the light sources. The complete CODEX protocol is available at https://doi.org/10.17504/protocols.io.5jyl8pzodg2w/v1.
+  The panel contains 38 antibodies and the nuclear marker DAPI. This OMAP provides
+  a spatial context for 26 anatomical structures and 14 cell types present in the
+  ASCT+B Heart table, v1.5  (https://lod.humanatlas.io/asct-b/heart/v1.5/). Cell membrane
+  markers (Sodium-Potassium ATPase, CD45, vimentin) and nuclear marker DAPI are used
+  for cell segmentation. In general, OMAP-28 was aimed to provide a broad representation
+  of cell types found in the heart including cardiomyocytes (atrial and/or ventricular),
+  vascular endothelial cells, lymphatic endothelial cells, pericytes, vascular smooth
+  muscle cells, lymphocytes, macrophages, fibroblasts, adipocytes, mesothelial cells,
+  and Schwann cells.  All of the major cell types are represented, although cell states
+  and subtypes of immune cells may be future additions to the panel. Markers of the
+  specialized pacemaking regions of the heart, the sinoatrial and atrioventricular
+  nodes, are also provided.
 creators:
   - fullName: Kyung Jin Ahn
     firstName: Kyung Jin
@@ -83,15 +82,15 @@ funders:
 # for Multiplexed Antibody-Based Imaging of Heart with CODEX, v1.0, ,
 # <insert new DOI> Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, 
-  Rajbhandari P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, 
-  Croteau J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, 
-  Spraggins JM, Pryhuber GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D, 
-  Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,Lundberg E, 
-  Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. 
-  Organ Mapping Antibody Panels: a community resource for standardized multiplexed 
-  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
-  https://doi.org/10.1038/s41592-023-01846-7.
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C,  Rajbhandari
+  P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV,  Croteau
+  J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC,  Spraggins JM, Pryhuber
+  GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D,  Caldwell MA, Vlachos IS, Muller
+  W, Gehlenborg N, Stockwell BR,Lundberg E,  Snyder MP, Germain RN, Camarillo JM,
+  Kelleher NL, Börner K, Radtke AJ.  Organ Mapping Antibody Panels: a community resource
+  for standardized multiplexed  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8,  https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-28-heart-codex.csv
   - omap-28-heart-codex.xlsx
+references:
+  - https://doi.org/10.17504/protocols.io.5jyl8pzodg2w/v1.
