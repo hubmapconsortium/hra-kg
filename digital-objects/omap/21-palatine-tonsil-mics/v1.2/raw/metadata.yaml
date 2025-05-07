@@ -1,0 +1,98 @@
+title: >-
+  OMAP-21: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging
+  of Palatine Tonsil (FFPE) with MICS on MACSima
+description: >-
+  OMAP-21 was designed for MICS (MACSima imaging cyclic staining) imaging of human
+  formalin fixed paraffin embedded (FFPE) tonsil samples. Tissue fixation and antigen
+  retrieval is described here (https://doi.org/10.1101/2023.10.27.564191). The MACSima
+  technology is described in detail in the following publication: (https://doi.org/10.1038/s41598-022-05841-4).
+  Most, but not all, antibodies in this panel are recombinant antibodies with a mutated
+  human IgG1 constant region. The described mutation removes the Fc receptor binding
+  capacity of human IgG1, eliminating the need for additional blocking steps and reducing
+  non-specific binding of human antibodies on human tissues. Highly multiplexed imaging
+  is achieved through cycles of immunolabeling with FITC, PE, and  APC conjugated
+  antibodies and photobleaching to eliminate fluorescence signal between imaging cycles.
+  The panel contains 47 antibodies and the nuclear marker DAPI for image alignment
+  and nuclear segmentation. This OMAP provides a spatial context for all anatomical
+  structures and most cell types present in the human palatine tonsil. OMAP-21 follows
+  closely OMAP-1 described for human lymph nodes (omap-1-human-lymph-node-ibex) and
+  OMAP-10 (omap-10-palatine-tonsil-macsima).  All reagents were obtained from Miltenyi
+  Biotec and have been rigorously tested through an internal quality control system
+  to have minimal variation between lots. For this reason, lot information is not
+  included in this table. Analysis was performed by an accompanied software package
+  MACSIQ View Analysis also described in the MACSima publication (https://doi.org/10.1038/s41598-022-05841-4).
+  The result of the analysis is included in the uploaded dataset found here: https://doi.org/10.5281/zenodo.13132639.
+  In brief, the software processes the raw images of the MACSima run, generates stitched  images,
+  and then allows downstream analysis including cell segmentation, cell gating, data
+  normalization, dimension reduction plots (tSNE, UMAP), heat maps, distance analyses
+  and cluster analyses, all of which are interactively linked together. The MACSima
+  system is continuously evolving, this is the second OMAP for the  MACSima system.
+  v1.1 updates UniProt IDs for CD45 splice variants: P08575-9 CD45RB, P08575-8 CD45RA,
+  P08575-4 CD45R0 vs P08575 CD45.
+creators:
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Julia Femel
+    firstName: Julia
+    lastName: Femel
+    orcid: 0000-0002-0254-316X
+  - fullName: Silvia Rüberg
+    firstName: Silvia
+    lastName: Rüberg
+    orcid: 0009-0008-1003-987X
+  - fullName: Andreas Bosio
+    firstName: Andreas
+    lastName: Bosio
+    orcid: 0000-0001-9776-2535
+project_leads:
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Silvia Rüberg
+    firstName: Silvia
+    lastName: Rüberg
+    orcid: 0009-0008-1003-987X
+  - fullName: Andreas Bosio
+    firstName: Andreas
+    lastName: Bosio
+    orcid: 0000-0001-9776-2535
+reviewers:
+  - fullName: Andrea Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: Miltenyi Biotec
+    awardNumber: ""
+# hubmapId: HBM639.TMLM.723
+# doi: https://doi.org/10.48539/HBM639.TMLM.723
+# citation: >-
+#   Werner Müller; Julia Femel; Silvia Rüberg; Andreas Bosio. v1.2,
+#   [https://doi.org/10.48539/HBM639.TMLM.723](https://doi.org/10.48539/HBM639.TMLM.723). Accessed on June 15, 2025.
+citationOverall: >
+
+datatable:
+  - omap-21-palatine-tonsil-mics.csv
+  - omap-21-palatine-tonsil-mics.xlsx
+references:
+  - https://doi.org/10.1101/2023.10.27.564191
+  - https://doi.org/10.1038/s41598-022-05841-4
+  - https://doi.org/10.1038/s41598-022-05841-4
+  - https://doi.org/10.5281/zenodo.13132639.

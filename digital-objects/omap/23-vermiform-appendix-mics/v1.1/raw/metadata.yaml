@@ -1,0 +1,85 @@
+title: >-
+  OMAP-23: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging
+  of vermiform appendix (FFPE)
+  with MICS on MACSima
+description: >-
+  OMAP-23 was designed for MICS (MACSima imaging cyclic staining) imaging of human
+  formalin fixed paraffin embedded (FFPE) vermiform appendix samples. Tissue fixation
+  and antigen retrieval is described here (https://doi.org/10.1101/2023.10.27.564191).
+  The MACSima technology is described in detail in the following publication: (https://doi.org/10.1038/s41598-022-05841-4).
+  All antibodies in this panel are recombinant antibodies with a mutated human IgG1
+  constant region, removing Fc receptor binding capacity of human IgG1, eliminating
+  the need for additional blocking steps and reducing non-specific binding. The use
+  of human IgG1 recombinant antibodies allows for the addition of uncoupled monoclonal
+  antibodies from other species followed by a fluorescence labelled secondary reagent
+  specific for the species of the monoclonal antibody. The multiplex system has been
+  described for OMAP-10 and OMAP-21. A new dye, VioB515, is used to detect one marker.
+  The fluorescence is removed by cleavage. The panel contains 28 antibodies and the
+  nuclear marker DAPI for image alignment and nuclear segmentation. This OMAP provides
+  a spatial context for all anatomical structures and most cell types present in the
+  vermiform appendix. OMAP-23 follows OMAP-21 with addition of antibodies for non-immune
+  cells. All reagents are from Miltenyi Biotec and have been rigorously tested through
+  an internal quality control system to have minimal variation between lots. For this
+  reason, lot information is not included in this table.  Analysis was performed by
+  an accompanied software package MACSIQ View Analysis also described in the MACSima
+  publication (https://doi.org/10.1038/s41598-022-05841-4). The MACSima system is
+  continuously evolving, this is the third OMAP for the MACSima system. A representative
+  dataset created using OMAP-23 can be found here: https://zenodo.org/records/14008816.
+creators:
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Julia Femel
+    firstName: Julia
+    lastName: Femel
+    orcid: 0000-0002-0254-316X
+  - fullName: Andreas Bosio
+    firstName: Andreas
+    lastName: Bosio
+    orcid: 0000-0001-9776-2535
+project_leads:
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Andreas Bosio
+    firstName: Andreas
+    lastName: Bosio
+    orcid: 0000-0001-9776-2535
+reviewers:
+  - fullName: Andrea Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: "2024-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: Miltenyi Biotec
+    awardNumber: ""
+hubmapId: HBM244.BCMQ.737
+doi: https://doi.org/10.48539/HBM244.BCMQ.737
+citation: >-
+  Werner Müller; Julia Femel; Andreas Bosio. v1.0,
+  [https://doi.org/10.48539/HBM244.BCMQ.737](https://doi.org/10.48539/HBM244.BCMQ.737).  Accessed
+  on December 15, 2024.
+# citationOverall: >-
+datatable:
+  - omap-23-vermiform-appendix-mics.csv
+  - omap-23-vermiform-appendix-mics.xlsx
+references:
+  - https://doi.org/10.1101/2023.10.27.564191
+  - https://doi.org/10.1038/s41598-022-05841-4
+  - https://doi.org/10.1038/s41598-022-05841-4

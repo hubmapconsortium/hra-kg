@@ -1,22 +1,23 @@
 title: >-
-  OMAP-26: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based 
-  Imaging of Human Kidney with IMS-CODEX
+  OMAP-26: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging
+  of Human Kidney with IMS-CODEX
 description: >-
-  OMAP-26  was designed for CO-Detection by indEXing (CODEX) imaging of fresh frozen 
-  human kidney samples (https://dx.doi.org/10.17504/protocols.io.x54v9rb24v3e/v1) 
-  following imaging mass spectrometry (IMS). The panel contains 22 antibodies and 
-  the DAPI nuclear marker for image alignment. There is considerable marker overlap 
-  with other kidney OMAPs (OMAP-3, OMAP-9, OMAP-14, and OMAP-20). In addition, all 
-  antibodies in this panel are included in OMAP-27, which is an expanded CODEX 
-  kidney panel. This OMAP captures all functional tissue units of the nephron as 
-  well as basement membranes, vasculature, lymphatics, stromal, and immune cell 
-  types (B and T cells). Innate immune cells are not captured in this panel. 
-  This OMAP provides a spatial context for all anatomical structures and most 
-  cell types present in the ASCT+B kidney table v1.6 
-  (https://doi.org/10.48539/HBM699.PTNX.744). This panel was developed and validated 
-  for use after matrix-assisted laser desorption/ionization mass spectrometry 
-  (MALDI IMS) imaging. Additional details on sample preparation and antibody 
-  validation can be found at https://www.protocols.io/workspaces/BIOMIC.
+  OMAP-26 was designed for CO-Detection by indEXing (CODEX) imaging of fresh frozen
+  human kidney samples following imaging mass spectrometry (IMS)a as described here:
+  (https://doi.org/10.17504/protocols.io.x54v9rb24v3e/v1). The panel contains 22 antibodies
+  and the DAPI nuclear marker for image alignment. There is considerable marker overlap
+  with other kidney OMAPs (OMAP-3 (https://doi.org/10.48539/HBM268.ZQNV.826), OMAP-9
+  (https://doi.org/10.48539/HBM697.FWDQ.488), OMAP-14 (https://doi.org/10.48539/HBM872.RNSG.734),
+  and OMAP-20 (https://doi.org/10.48539/HBM624.CHLG.652)). In addition, all antibodies
+  in this panel are included in OMAP-27 (Include DOI when minted), which is an expanded
+  CODEX kidney panel. This OMAP captures all functional tissue units of the nephron
+  as well as basement membranes, vasculature, lymphatics, stromal, and immune cell
+  types (B and T cells). Innate immune cells are not captured in this panel. This
+  OMAP provides a spatial context for all anatomical structures and most cell types
+  present in the ASCT+B kidney table v1.6  (https://doi.org/10.48539/HBM699.PTNX.744).
+  This panel was developed and validated for use after matrix-assisted laser desorption/ionization
+  mass spectrometry (MALDI IMS) imaging. Additional details on sample preparation
+  and antibody validation can be found at (https://www.protocols.io/workspaces/BIOMIC).
 creators:
   - fullName: Thai Pham
     firstName: Thai
@@ -68,15 +69,20 @@ funders:
 # for Multiplexed Antibody-Based Imaging of Human Kidney with IMS-CODEX,
 # v.1.0,<insert new DOI> Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, 
-  Rajbhandari P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, 
-  Croteau J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, 
-  Spraggins JM, Pryhuber GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D, 
-  Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,Lundberg E, 
-  Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. 
-  Organ Mapping Antibody Panels: a community resource for standardized multiplexed 
-  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
-  https://doi.org/10.1038/s41592-023-01846-7.
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C,  Rajbhandari
+  P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV,  Croteau
+  J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC,  Spraggins JM, Pryhuber
+  GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D,  Caldwell MA, Vlachos IS, Muller
+  W, Gehlenborg N, Stockwell BR,Lundberg E,  Snyder MP, Germain RN, Camarillo JM,
+  Kelleher NL, Börner K, Radtke AJ.  Organ Mapping Antibody Panels: a community resource
+  for standardized multiplexed  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8,  https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-26-kidney-ims-codex.csv
   - omap-26-kidney-ims-codex.xlsx
+references:
+  - https://doi.org/10.17504/protocols.io.x54v9rb24v3e/v1
+  - https://doi.org/10.48539/HBM268.ZQNV.826
+  - https://doi.org/10.48539/HBM697.FWDQ.488
+  - https://doi.org/10.48539/HBM872.RNSG.734
+  - https://doi.org/10.48539/HBM624.CHLG.652
+  - https://doi.org/10.48539/HBM699.PTNX.744
