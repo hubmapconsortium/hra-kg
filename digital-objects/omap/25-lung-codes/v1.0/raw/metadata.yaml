@@ -1,36 +1,32 @@
 title: >-
-  OMAP-25: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based 
-  Imaging of Lung with CODEX
+  OMAP-25: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging
+  of Lung with CODEX
 description: >-
-  OMAP-25 was designed for Multiplexed Immunofluorescence (MxIF) imaging of human 
-  FFPE lung sections utilizing Akoya Biosciences Phenocycler-Fusion platform as 
-  described dx.doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3.  The panel contains 
-  45 antibodies and the nuclear marker DAPI for image alignment and nuclear 
-  segmentation. OMAP-25 provides spatial context for airway, vasculature, and 
-  alveolar features and identifies ~40 of 72 key epithelial, endothelial, and 
-  immune cell types in the ASCT+B lung table v1.2 
-  (https://hubmapconsortium.github.io/ccf-releases/v1.2/docs/asct-b/lung.html). 
-  OMAP-25 does not yet identify capillary type 1 and capillary type 2 endothelial 
-  cells, eosinophils/basophils, fibroblast/pericytes, chondrocytes, and NK cells 
-  as antibody-oligonucleotide conjugates with sufficient specificity to target 
-  markers for these cell types are in development. Assay details include quenching 
-  of autofluorescence and antigen retrieval in AR9 Buffer (Akoya Biosciences, 
-  PN#AR9001KT) at high pressure (pressure cooker, high pressure protocol) for 
-  20 minutes. Protein targets were detected with antibody barcode conjugates 
-  obtained directly from Akoya Biosciences, or via custom conjugation of 
-  commercially available antibodies utilizing antibody conjugation kit 
-  (Akoya Biosciences, Cat# 232195).  MxIF imaging of lung sections using this OMAP
-  can be found in the protocol cited above. The antibody validation protocol can
-  be found here https://doi.org/10.17504/protocols.io.rm7vzkm14vx1/v1.   
-  When imaging proximal lung tissue containing large airway and vascular features, 
-  antibodies directed against extracellular matrix, endothelium and vascular 
-  smooth muscle should be imaged within the first five cycles to mitigate 
-  potential loss of feature integrity during later cycles, whereas antibodies 
-  targeting abundantly expressed pan markers identifying major cell types 
-  (e.g. PanCK, ACTA2) can be imaged in later cycles.  Image analysis methods 
-  including cell segmentation annotation of vascular or airway features, and 
-  export of annotations and masks is described here 
-  https://doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3.
+  OMAP-25 was designed for Multiplexed Immunofluorescence (MxIF) imaging of human
+  formalin fixed paraffin embedded (FFPE) lung sections utilizing Akoya Biosciences
+  Phenocycler-Fusion platform as described (https://doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3).
+  The panel contains 45 antibodies and the nuclear marker DAPI for image alignment
+  and nuclear segmentation. OMAP-25 provides spatial context for airway, vasculature,
+  and alveolar features and identifies ~40 of 72 key epithelial, endothelial, and
+  immune cell types in the ASCT+B lung table v1.2 (https://hubmapconsortium.github.io/ccf-releases/v1.2/docs/asct-b/lung.html).
+  OMAP-25 does not yet identify capillary type 1 and capillary type 2 endothelial  cells,
+  eosinophils/basophils, fibroblast/pericytes, chondrocytes, and NK cells as antibody-oligonucleotide
+  conjugates with sufficient specificity to target markers for these cell types are
+  in development. Assay details include quenching of autofluorescence and antigen
+  retrieval in AR9 Buffer (Akoya Biosciences,  PN#AR9001KT) at high pressure (pressure
+  cooker, high pressure protocol) for 20 minutes. Protein targets were detected with
+  antibody barcode conjugates obtained directly from Akoya Biosciences, or via custom
+  conjugation of commercially available antibodies utilizing an antibody conjugation
+  kit (Akoya Biosciences, Cat# 232195). MxIF imaging of lung sections using this OMAP
+  can be found in the protocol cited above. The antibody validation protocol can be
+  found here (https://doi.org/10.17504/protocols.io.rm7vzkm14vx1/v1). When imaging
+  proximal lung tissue that includes large airway and vascular features, antibodies
+  targeting the extracellular matrix, endothelium, and vascular smooth muscle should
+  be imaged within the first five cycles to prevent potential loss of feature integrity
+  in later cycles. Conversely, antibodies targeting abundantly expressed pan markers
+  that identify major cell types (e.g., PanCK, ACTA2) can be imaged in later cycles.
+  Image analysis methods, including cell segmentation, annotation of vascular or airway
+  features, and export of annotations and masks, are described here (https://doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3).
 creators:
   - fullName: Jeffrey M. Purkerson
     firstName: Jeffrey M.
@@ -90,15 +86,17 @@ funders:
 # (OMAP) for Multiplexed Antibody-Based Imaging of Lung with CODEX, v.1.0,
 # <insert new DOI> Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, 
-  Rajbhandari P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, 
-  Croteau J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, 
-  Spraggins JM, Pryhuber GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D, 
-  Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,Lundberg E, 
-  Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. 
-  Organ Mapping Antibody Panels: a community resource for standardized multiplexed 
-  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
-  https://doi.org/10.1038/s41592-023-01846-7.
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C,  Rajbhandari
+  P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV,  Croteau
+  J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC,  Spraggins JM, Pryhuber
+  GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D,  Caldwell MA, Vlachos IS, Muller
+  W, Gehlenborg N, Stockwell BR,Lundberg E,  Snyder MP, Germain RN, Camarillo JM,
+  Kelleher NL, Börner K, Radtke AJ.  Organ Mapping Antibody Panels: a community resource
+  for standardized multiplexed  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8,  https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-25-lung-codex.csv
   - omap-25-lung-codex.xlsx
+references:
+  - https://doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3
+  - https://doi.org/10.17504/protocols.io.rm7vzkm14vx1/v1
+  - https://doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3
