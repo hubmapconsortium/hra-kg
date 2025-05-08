@@ -100,7 +100,7 @@ datatable:
   - omap-11-spleen-ibex.csv
   - omap-11-spleen-ibex.xlsx
 references:
-  - https://doi.org/10.1038/s41596-021-00644-9;
+  - https://doi.org/10.1038/s41596-021-00644-9
   - https://doi.org/10.1073/pnas.2018488117
   - https://doi.org/10.1111/imm.12469
   - https://doi.org/10.5281/zenodo.5244550

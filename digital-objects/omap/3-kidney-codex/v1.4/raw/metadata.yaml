@@ -121,10 +121,11 @@ datatable:
   - omap-3-kidney-codex.csv
   - omap-3-kidney-codex.xlsx
 references:
-  - https://doi.org/10.1038/s41596-021-00556-8;
+  - https://doi.org/10.1038/s41596-021-00556-8
   - https://doi.org/10.1002/eji.202048891
-  - https://doi.org/10.1016/j.kint.2021.08.033;
+  - https://doi.org/10.1016/j.kint.2021.08.033
   - https://doi.org/10.1016/j.xpro.2021.100747
   - https://doi.org/10.48539/HBM673.ZZDK.622
   - https://doi.org/10.1172/jci.insight.129477
-  - https://doi.org/10.5281/zenodo.8082943.
+  - https://doi.org/10.5281/zenodo.8082943
+  - https://doi.org/10.1038/s41592-021-01316-y
