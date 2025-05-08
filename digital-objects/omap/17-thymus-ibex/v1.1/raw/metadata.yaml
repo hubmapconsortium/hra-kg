@@ -139,7 +139,7 @@ datatable:
   - omap-17-thymus-ibex.csv
   - omap-17-thymus-ibex.xlsx
 references:
-  - https://doi.org/10.1038/s41596-921-00644-9;
+  - https://doi.org/10.1038/s41596-921-00644-9
   - https://doi.org/10.1073/pnas.2018488117
   - https://doi.org/10.48539/HBM668.QPSF.678
   - https://doi.org/10.48539/HBM458.NSWR.957
@@ -147,3 +147,4 @@ references:
   - https://doi.org/10.48539/HBM663.JJMJ.628
   - https://doi.org/10.1038/s41586-024-07944-6
   - https://doi.org/10.17867/10000200
+  - https://doi.org/10.1101/2023.10.25.562925
