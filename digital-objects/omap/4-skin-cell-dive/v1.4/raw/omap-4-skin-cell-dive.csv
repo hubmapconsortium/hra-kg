@@ -6,7 +6,7 @@ Reviewer(s):,Ari Karunamurthy; Andrea J. Radtke; Christopher Werlein; Ellen M. Q
 Reviewer ORCID(s):,0000-0002-5739-4923; 0000-0003-4379-8967; 0000-0002-7694-4257; 0000-0001-7655-4833; 0000-0002-8849-6746; 0000-0003-2722-1965; 0000-0003-2184-7238,,,,,,,,,,,,,,,,,,,,,,,,
 General Publication(s):,https://doi.org/10.1073/pnas.1300136110,,,,,,,,,,,,,,,,,,,,,,,,
 Data DOI:,,,,,,,,,,,,,,,,,,,,,,,,,
-Date:,"June 15, 2024",,,,,,,,,,,,,,,,,,,,,,,,
+Date:,"June 15, 2025",,,,,,,,,,,,,,,,,,,,,,,,
 Version number,v1.4,,,,,,,,,,,,,,,,,,,,,,,,
 omap_id,uniprot_accession_number,HGNC_ID,target_symbol,host,isotype,clonality,clone_id,vendor,catalog_number,lot_number,recombinant,concentration_value,dilution_factor,conjugate,rrid,method,tissue_preservation,cycle_number,fluorescent_reporter,protocol_doi,author_orcids,core_panel,rationale,organ,organ_uberon
 OMAP-4,P09936,HGNC:12513,UCHL1,Mouse,IgG2a,Monoclonal,13C4,Santa Cruz,sc-58594,H0118,N,4,,Cy3 secondary detection,AB_793620,Cell DIVE,FFPE,1,,https://doi.org/10.17504/protocols.io.bqjimuke,0000-0001-7524-8260,N,Structural marker for nerve bundles. This marker represents a prioritized target in the skin OMAP.,skin of body,UBERON:0002097
