@@ -30,8 +30,7 @@ funders:
 #   Ellen M. Quardokus. HuBMAP ASCT+B Tables. Anatomical Systems,
 #   v1.2,https://doi.org/10.48539/HBM792.MPHZ.454, Accessed on June 15, 2025.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2025.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2025. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2025.
 datatable:
   - asct-b-vh-anatomical-systems.csv
