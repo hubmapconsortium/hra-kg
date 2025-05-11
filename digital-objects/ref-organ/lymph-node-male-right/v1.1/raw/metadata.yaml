@@ -12,9 +12,9 @@ creators:
     lastName: Yao
     orcid: 0000-0003-2390-083X
 project_leads:
-  - fullName: "Katy B\xF6rner"
+  - fullName: "Katy Börner"
     firstName: Katy
-    lastName: "B\xF6rner"
+    lastName: "Börner"
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
@@ -31,7 +31,7 @@ funders:
 #   Accessed on March 12, 2021.
 citationOverall:
   "Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record,\
-  \ Ellen Quardokus, Andreas Bueckle, Katy B\xF6rner. 2021. *HuBMAP CCF 3D Reference\
+  \ Ellen Quardokus, Andreas Bueckle, Katy Börner. 2021. *HuBMAP CCF 3D Reference\
   \ Object Library*. https://humanatlas.io/3d-reference-library. Accessed on March\
   \ 12, 2021."
 datatable:
