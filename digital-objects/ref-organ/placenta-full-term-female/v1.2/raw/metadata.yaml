@@ -12,9 +12,9 @@ creators:
     lastName: Schlehlein
     orcid: 0000-0002-3333-5646
 project_leads:
-  - fullName: "Katy B\xF6rner"
+  - fullName: "Katy Börner"
     firstName: Katy
-    lastName: "B\xF6rner"
+    lastName: "Börner"
     orcid: 0000-0002-3321-6137
 reviewers:
   - fullName: Ana Rodriguez-Soto
@@ -49,7 +49,7 @@ funders:
 #   Accessed on June 15, 2024.
 citationOverall:
   "Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus,\
-  \ Andreas Bueckle, Katy B\xF6rner. 2024. [*HuBMAP CCF 3D Reference Object Library*](https://humanatlas.io/3d-reference-library).\
+  \ Andreas Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object Library*](https://humanatlas.io/3d-reference-library).\
   \ Accessed on June 15, 2024."
 datatable:
   - 3d-vh-f-placenta-full-term.glb

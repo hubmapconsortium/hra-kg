@@ -16,9 +16,9 @@ creators:
     lastName: Browne
     orcid: 0000-0003-4066-7531
 project_leads:
-  - fullName: "Katy B\xF6rner"
+  - fullName: "Katy Börner"
     firstName: Katy
-    lastName: "B\xF6rner"
+    lastName: "Börner"
     orcid: 0000-0002-3321-6137
 reviewers:
   - fullName: Marda Jorgensen
@@ -42,7 +42,7 @@ funders:
 #   Accessed on December 15, 2024.
 citationOverall:
   "Li Yao,Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen\
-  \ Quardokus, Andreas Bueckle, Katy B\xF6rner. 2024. [*HuBMAP CCF 3D Reference Object\
+  \ Quardokus, Andreas Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object\
   \ Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15,\
   \ 2024."
 datatable:
