@@ -11,3 +11,6 @@ log*.txt
 
 # Ignore vscode local settings
 .vscode
+
+# Per deployment environment file
+env.sh

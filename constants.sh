@@ -1,5 +1,10 @@
 export MAX_PROCESSES=12
 export JAVA_OPTS="-Xms2g -Xmx164g"
+export NODE_OPTIONS="--max-old-space-size=164000"
+
+if [ -e "env.sh" ]; then
+  source env.sh
+fi
 
 if [ "$(which do-processor)" ==  "" ]; then
   if [ -e "../hra-do-processor/.venv/bin/activate" ]; then
