@@ -1,0 +1,45 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for
+  Mouth
+description: ""
+creators:
+  - fullName: Kevin M. Byrd
+    firstName: Kevin M.
+    lastName: Byrd
+    orcid: 0000-0002-5565-0524
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Griffin M Weber
+    firstName: Griffin
+    lastName: Weber
+    orcid: 0000-0002-2597-881X
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM792.MPHZ.454
+# doi: https://doi.org/10.48539/HBM792.MPHZ.454
+# citation: >-
+#   Ellen M. Quardokus. HuBMAP ASCT+B Tables. Anatomical Systems,
+#   v1.2,https://doi.org/10.48539/HBM792.MPHZ.454, Accessed on June 15, 2025.
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
+  2025.
+datatable:
+  - asct-b-vh-mouth.csv
