@@ -24,15 +24,15 @@ WHERE {
         schema:name ?releaseName ;
         schema:additionalType ?releaseType ;
         schema:version ?version ;
-        prov:hadMember ?purlStr ;
+        prov:hadMember ?purl ;
       .
-      BIND(URI(STR(?purlStr)) as ?purl)
       FILTER(?releaseType = 'collection' && ?releaseName = 'hra')
     }
   }
 
   {
-    ?purl a dcat:Dataset ;
+    ?lod a dcat:Dataset ;
+      rdfs:seeAlso ?purl ;
       prov:wasDerivedFrom [
         ccf:doi ?doiStr ;
         ccf:hubmap_id ?hubmap_idStr ;
