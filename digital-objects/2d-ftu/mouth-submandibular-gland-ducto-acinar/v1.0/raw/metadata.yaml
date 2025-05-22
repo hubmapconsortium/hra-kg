@@ -41,6 +41,6 @@ datatable:
   - 2d-ftu-mouth-submandibular-gland-ducto-acinar.svg
   - 2d-ftu-mouth-submandibular-gland-ducto-acinar.png
   - 2d-ftu-mouth-submandibular-gland-ducto-acinar.ai
-  # - crosswalk.csv
+  - crosswalk.csv
 references:
   - https://doi.org/10.53347/rID-24634

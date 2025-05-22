@@ -45,6 +45,6 @@ datatable:
   - 2d-ftu-skin-hair-follicle.svg
   - 2d-ftu-skin-hair-follicle.png
   - 2d-ftu-skin-hair-follicle.ai
-  # - crosswalk.csv
+  - crosswalk.csv
 references:
   - https://doi.org/10.53347/rID-24634

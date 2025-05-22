@@ -41,6 +41,6 @@ datatable:
   - 2d-ftu-mouth-sublingual-gland-ducto-Acinar.svg
   - 2d-ftu-mouth-sublingual-gland-ducto-Acinar.png
   - 2d-ftu-mouth-sublingual-gland-ducto-Acinar.ai
-  # - crosswalk.csv
+  - crosswalk.csv
 references:
   - https://doi.org/10.53347/rID-24634
