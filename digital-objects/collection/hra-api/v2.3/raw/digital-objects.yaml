@@ -70,7 +70,7 @@ digital-objects:
   - asct-b/heart/v1.5
   - asct-b/kidney/v1.6
   - asct-b/knee/v1.3
-  - asct-b/large-intestine/v1.3
+  - asct-b/large-intestine/v1.4
   - asct-b/liver/v1.4
   - asct-b/lung/v1.5
   - asct-b/lymph-node/v1.4
@@ -85,8 +85,8 @@ digital-objects:
   - asct-b/placenta/v1.2
   - asct-b/prostate/v1.1
   - asct-b/skeleton/v1.2
-  - asct-b/skin/v1.4
-  - asct-b/small-intestine/v1.1
+  - asct-b/skin/v1.5
+  - asct-b/small-intestine/v1.2
   - asct-b/spinal-cord/v1.1
   - asct-b/spleen/v1.5
   - asct-b/thymus/v1.5
@@ -94,8 +94,8 @@ digital-objects:
   - asct-b/ureter/v1.0
   - asct-b/urinary-bladder/v1.0
   - asct-b/uterus/v1.2
-  - ref-organ/brain-female/v1.4
-  - ref-organ/brain-male/v1.4
+  - ref-organ/brain-female/v1.5
+  - ref-organ/brain-male/v1.5
   - ref-organ/blood-vasculature-female/v1.3
   - ref-organ/eye-female-left/v1.3
   - ref-organ/eye-female-right/v1.3
@@ -110,25 +110,26 @@ digital-objects:
   - ref-organ/larynx-female/v1.1
   - ref-organ/liver-female/v1.2
   - ref-organ/lung-female/v1.4
-  - ref-organ/lymph-node-female/v1.4
+  - ref-organ/lymph-node-female/v1.5
   - ref-organ/main-bronchus-female/v1.1
   - ref-organ/mammary-gland-female-left/v1.1
   - ref-organ/mammary-gland-female-right/v1.1
   - ref-organ/manubrium-female/v1.0
+  - ref-organ/mouth-female/v1.0
   - ref-organ/ovary-female-left/v1.3
   - ref-organ/ovary-female-right/v1.3
-  - ref-organ/palatine-tonsil-female-left/v1.1
-  - ref-organ/palatine-tonsil-female-right/v1.1
+  - ref-organ/palatine-tonsil-female-left/v1.2
+  - ref-organ/palatine-tonsil-female-right/v1.2
   - ref-organ/pancreas-female/v1.3
   - ref-organ/pelvis-female/v1.3
-  - ref-organ/placenta-full-term-female/v1.1
+  - ref-organ/placenta-full-term-female/v1.2
   - ref-organ/renal-pelvis-female-left/v1.0
   - ref-organ/renal-pelvis-female-right/v1.0
   - ref-organ/renal-pelvis-male-left/v1.0
   - ref-organ/renal-pelvis-male-right/v1.0
-  - ref-organ/skin-female/v1.4
+  - ref-organ/skin-female/v1.5
   - ref-organ/small-intestine-female/v1.2
-  - ref-organ/spinal-cord-female/v1.1
+  - ref-organ/spinal-cord-female/v1.2
   - ref-organ/spleen-female/v1.3
   - ref-organ/sternum-female/v1.0
   - ref-organ/thymus-female/v1.3
@@ -149,16 +150,17 @@ digital-objects:
   - ref-organ/larynx-male/v1.1
   - ref-organ/liver-male/v1.2
   - ref-organ/lung-male/v1.4
-  - ref-organ/lymph-node-male/v1.4
+  - ref-organ/lymph-node-male/v1.5
   - ref-organ/main-bronchus-male/v1.1
-  - ref-organ/palatine-tonsil-male-left/v1.1
-  - ref-organ/palatine-tonsil-male-right/v1.1
+  - ref-organ/mouth-male/v1.0
+  - ref-organ/palatine-tonsil-male-left/v1.2
+  - ref-organ/palatine-tonsil-male-right/v1.2
   - ref-organ/pancreas-male/v1.3
   - ref-organ/pelvis-male/v1.3
   - ref-organ/prostate-male/v1.2
-  - ref-organ/skin-male/v1.3
+  - ref-organ/skin-male/v1.4
   - ref-organ/small-intestine-male/v1.2
-  - ref-organ/spinal-cord-male/v1.1
+  - ref-organ/spinal-cord-male/v1.2
   - ref-organ/spleen-male/v1.3
   - ref-organ/thymus-male/v1.3
   - ref-organ/trachea-male/v1.1
