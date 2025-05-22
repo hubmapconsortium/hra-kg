@@ -45,6 +45,10 @@ externalReviewers:
     firstName: Oyedele
     lastName: Adeyi
     orcid: 0000-0003-4272-1095
+  - fullName: Marcos Garcia Teneche
+    firstName: Marcos
+    lastName: Teneche
+    orcid: 0000-0003-4785-7987
 creation_date: "2025-06-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
