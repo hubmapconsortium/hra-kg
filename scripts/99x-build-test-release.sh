@@ -7,7 +7,7 @@ set -ev
 
 export VERSION=v2.3
 export EXTRA_DOs=$(git diff --name-only main..develop | grep metadata.yaml | grep -v collection | grep -v draft | cut -d '/' -f 2,3,4 | sort | uniq)
-export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION"
+export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION collection/hra-ols/$VERSION"
 export CLEAN="true"
 export S3_HOME="s3://cdn-humanatlas-io/hra-kg--staging"
 
@@ -89,6 +89,8 @@ for d in $DOs $COLLECTIONS; do
 done
 echo "---- END Syncing built files to S3 ----"
 echo
+
+aws s3 sync $DEPLOY_HOME/ $S3_HOME/
 
 # Computing release XMLs
 export DOs=$(yq -r '.["digital-objects"][]' digital-objects/collection/hra/$VERSION/raw/digital-objects.yaml)
