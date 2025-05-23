@@ -1,0 +1,43 @@
+title: Crosswalk of Azimuth annotated cells to Cell Ontology
+description: >-
+  This crosswalk maps the cell type annotations from Azimuth https://azimuth.hubmapconsortium.org/ to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl in which many new cell types have been added since the original cell type annotations were mapped for Human - PBMC, Human - Pancreas, Human - Kidney, and Human - Bone Marrow. New Azimuth references for Human - Lung v2 (HLCA), Human - Adipose, Human - Heart, Human - Liver and Human - Tonsil v2 were mapped for the first time in this crosswalk.
+creators:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+ 
+externalReviewers: []
+
+creation_date: '2024-12-15'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM257.FFGJ.978
+doi: https://doi.org/10.48539/HBM257.FFGJ.978
+citation: >-
+ Ellen M. Quardokus. Crosswalk of Azimuth annotated cells to Cell Ontology,v1.1
+ [https://doi.org/10.48539/HBM257.FFGJ.978](https://doi.org/10.48539/HBM257.FFGJ.978), Accessed on December 15, 2024.
+citationOverall: >-
+datatable:
+  - azimuth-crosswalk.csv

@@ -1,0 +1,43 @@
+title: Crosswalk of deepcelltypes-HuBMAP annotated cells to Cell Ontology
+description: >-
+  This crosswalk maps the cell type annotations from deepcelltypes-HuBMAP https://doi.org/10.1101/2024.11.02.621624 to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl in which many new cell types have been added since the original cell type annotations were mapped.
+creators:
+  - fullName: Aleix Puig-Barbe
+    firstName: Aleix
+    lastName: Puig-Barbe
+    orcid: 0000-0001-6677-8489
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+ 
+externalReviewers: []
+
+creation_date: '2025-05-19'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: 
+doi: 
+citation: >-
+ Aleix Puig-Barbe. Crosswalk of deepcelltypes-HuBMAP annotated cells to Cell Ontology,v1.0
+()[], Accessed on May 19, 2025.
+citationOverall: >-
+datatable:
+  - deepcelltypes-hubmap-crosswalks.csv
