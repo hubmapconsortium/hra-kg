@@ -3,11 +3,11 @@ source constants.sh
 source src/parallel_jobs.sh
 set -ev
 
-export VERSION=v2.2
-export DEPLOY_HOME=~/workspaces/hubmap/hra-kg/dist-${VERSION}
-export EXTRA_DOs="graph/ccf/v2.3.0 graph/ds-graphs-enrichments/v2024"
-export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION collection/ds-graphs/v2024"
+export VERSION=v2.3
+export EXTRA_DOs=$(git diff --name-only main..develop | grep metadata.yaml | grep -v collection | grep -v draft | cut -d '/' -f 2,3,4 | sort | uniq)
+export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION"
 export CLEAN="false"
+export S3_HOME="s3://cdn-humanatlas-io/hra-kg--staging"
 
 if [ "$CLEAN" = "true" ]; then
   rm -rf $DEPLOY_HOME
@@ -66,7 +66,7 @@ echo
 echo
 echo "---- START Syncing built files to S3 ----"
 for d in $DOs $COLLECTIONS; do
-  aws s3 sync $DEPLOY_HOME/$d/ s3://cdn-humanatlas-io/digital-objects/$d/
+  aws s3 sync $DEPLOY_HOME/$d/ $S3_HOME/$d/
 done
 echo "---- END Syncing built files to S3 ----"
 echo

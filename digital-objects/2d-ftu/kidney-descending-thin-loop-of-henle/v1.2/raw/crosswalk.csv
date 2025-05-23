@@ -1,0 +1,7 @@
+node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Descending_Thin_Limb_Cell_1,Descending_Thin_Limb_Cell,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,descending limb of loop of Henle,UBERON:0001289,Kidney,UBERON:0002113
+Descending_Thin_Limb_Cell_2,Descending_Thin_Limb_Cell,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,descending limb of loop of Henle,UBERON:0001289,Kidney,UBERON:0002113
+Descending_Thin_Limb_Cell_3,Descending_Thin_Limb_Cell,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,descending limb of loop of Henle,UBERON:0001289,Kidney,UBERON:0002113
+Descending_Vasa_Recta_1,Descending_Vasa_Recta,vasa recta descending limb cell,CL:1001285,descending limb of loop of Henle,UBERON:0001289,Kidney,UBERON:0002113
+Descending_Vasa_Recta_2,Descending_Vasa_Recta,vasa recta descending limb cell,CL:1001285,descending limb of loop of Henle,UBERON:0001289,Kidney,UBERON:0002113
+Descending_Vasa_Recta_3,Descending_Vasa_Recta,vasa recta descending limb cell,CL:1001285,descending limb of loop of Henle,UBERON:0001289,Kidney,UBERON:0002113

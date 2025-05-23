@@ -27,7 +27,7 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2024-12-15'
+creation_date: '2025-06-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -37,11 +37,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM669.PSCF.525
-doi: https://doi.org/10.48539/HBM669.PSCF.525
-citation: >-
-  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ Set for Female,
-  v1.7.*, [https://doi.org/10.48539/HBM669.PSCF.525](https://doi.org/10.48539/HBM669.PSCF.525). Accessed on December 15, 2024.
+# hubmapId: HBM669.PSCF.525
+# doi: https://doi.org/10.48539/HBM669.PSCF.525
+# citation: >-
+#   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ Set for Female,
+#   v1.7.*, [https://doi.org/10.48539/HBM669.PSCF.525](https://doi.org/10.48539/HBM669.PSCF.525). Accessed on December 15, 2024.
 citationOverall: >-
   Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
   Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
