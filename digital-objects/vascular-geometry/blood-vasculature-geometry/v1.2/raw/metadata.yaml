@@ -21,7 +21,7 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: '2025-06-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -31,11 +31,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM863.MPMP.647
-doi: https://doi.org/10.48539/HBM863.MPMP.647
-citation: >-
-  Griffin Weber; Katherine S Gustilo. Blood Vasculature Geometry, v1.1,
-  https://doi.org/10.48539/HBM863.MPMP.647, Accessed June 15, 2025.
+# hubmapId: HBM863.MPMP.647
+# doi: https://doi.org/10.48539/HBM863.MPMP.647
+# citation: >-
+#   Griffin Weber; Katherine S Gustilo. Blood Vasculature Geometry, v1.1,
+#   https://doi.org/10.48539/HBM863.MPMP.647, Accessed June 15, 2025.
 citationOverall: >-
   Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Katherine S.
   Gustilo, Ellen M. Quardokus, Bruce W. Herr, Katy Börner, and Griffin M. Weber.
