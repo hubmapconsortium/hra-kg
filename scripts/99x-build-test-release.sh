@@ -7,7 +7,7 @@ set -ev
 
 export VERSION=v2.3
 export EXTRA_DOs=$(git diff --name-only main..develop | grep metadata.yaml | grep -v collection | grep -v draft | cut -d '/' -f 2,3,4 | sort | uniq)
-export COLLECTIONS="collection/hra/$VERSION collection/hra-api/$VERSION collection/hra-ols/$VERSION"
+export COLLECTIONS="collection/ds-graphs/v2025 collection/hra/$VERSION collection/hra-api/$VERSION collection/hra-ols/$VERSION collection/hra-millitomes/$VERSION"
 export CLEAN="true"
 export S3_HOME="s3://cdn-humanatlas-io/hra-kg--staging"
 
@@ -19,6 +19,7 @@ fi
 
 # Determine Digital Objects to process
 touch $DEPLOY_HOME/.digital-objects
+echo "graph/hra-pop/v0.11.1" > $DEPLOY_HOME/.digital-objects #temp
 for DO in $EXTRA_DOs; do
   echo $DO >> $DEPLOY_HOME/.digital-objects
 done
