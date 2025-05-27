@@ -26,6 +26,8 @@ digital-objects:
   - landmark/palatine-tonsil-female-left-landmarks/v1.4
   - landmark/ovary-female-right-landmarks/v1.4
   - landmark/ovary-female-left-landmarks/v1.4
+  - landmark/mouth-male-landmarks/v1.0
+  - landmark/mouth-female-landmarks/v1.0
   - landmark/mammary-gland-female-right-landmarks/v1.4
   - landmark/mammary-gland-female-left-landmarks/v1.4
   - landmark/main-bronchus-male-landmarks/v1.4

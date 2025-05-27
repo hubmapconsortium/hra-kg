@@ -1,0 +1,19 @@
+extraction_set_for,extraction_set_id,extraction_set_label,node_name,label
+-,-,Landmarks,VH_F_mouth_landmarks,mouth landmarks
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_palatine_tonsil,palatine tonsils
+-,-,Landmarks,VH_F_mouth_landmark_bones,mouth landmark bones
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_mandible,mandible
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_palatine,palatine
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_maxillary,maxillary
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_sphenoid,sphenoid
+-,-,Landmarks,VH_F_mouth_landmark_muscles,mouth landmark muscles
+-,-,Landmarks,VH_F_mouth_landmark_palatal_muscles,palatal muscles landmarks
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_musculus_uvulae,musculus uvulae
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_tensor_veli_palatini,tensor veli palatini
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_palatopharyngeus,palatopharyngeus
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_levator_veli_palatini,levator veli palatini
+-,-,Landmarks,VH_F_mouth_landmark_extrinsic_muscles_of_tongue,extrinsic muscles of tongue landmarks
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_palatoglossus,palatoglossus
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_hyoglossus,hyoglossus
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_genioglossus,genioglossus
+https://purl.humanatlas.io/ref-organ/mouth-female,#VHFMouthLandmarks,Landmarks,VH_F_mouth_landmark_styloglossus,styloglossus
