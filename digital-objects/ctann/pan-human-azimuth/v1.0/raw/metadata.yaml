@@ -20,10 +20,8 @@ reviewers:
     firstName: Katy
     lastName: Börner
     orcid: 0000-0002-3321-6137
- 
 externalReviewers: []
-
-creation_date: '2025-05-19'
+creation_date: '2025-06-15'
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -33,11 +31,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: 
-doi: 
-citation: >-
- Aleix Puig-Barbe. Crosswalk of pan-human Azimuth annotated cells to Cell Ontology,v1.0
-()[], Accessed on May 19, 2025.
+# hubmapId: 
+# doi: 
+# citation: >-
+#  Aleix Puig-Barbe. Crosswalk of pan-human Azimuth annotated cells to Cell Ontology,v1.0
+# ()[], Accessed on May 19, 2025.
 citationOverall: >-
 datatable:
-  - pan-human-azimuth-crosswalks.csv
+  - pan-human-azimuth-crosswalk.csv
