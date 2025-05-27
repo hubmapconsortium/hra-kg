@@ -20,7 +20,6 @@ reviewers:
     firstName: Katy
     lastName: Börner
     orcid: 0000-0002-3321-6137
- 
 externalReviewers: []
 creation_date: 2025-06-15
 license: >-
@@ -35,8 +34,8 @@ funders:
 # hubmapId: HBM487.DWCB.974
 # doi: https://doi.org/10.48539/HBM487.DWCB.974
 # citation: >-
- Ellen M. Quardokus. Crosswalk of Popular Vote (popV) annotated cells to Cell Ontology,v1.1
- [https://doi.org/10.48539/HBM487.DWCB.974](https://doi.org/10.48539/HBM487.DWCB.974), Accessed on December 15, 2024.
+#  Ellen M. Quardokus. Crosswalk of Popular Vote (popV) annotated cells to Cell Ontology,v1.1
+#  [https://doi.org/10.48539/HBM487.DWCB.974](https://doi.org/10.48539/HBM487.DWCB.974), Accessed on December 15, 2024.
 citationOverall: >-
 datatable:
   - popv-crosswalk.csv
