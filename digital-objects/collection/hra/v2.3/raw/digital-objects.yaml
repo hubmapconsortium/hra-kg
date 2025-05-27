@@ -68,6 +68,11 @@ digital-objects:
   - ctann/azimuth/v1.1
   - ctann/celltypist/v1.0
   - ctann/popv/v1.1
+  - millitome/uterus-female-upenn/v1.0
+  - millitome/pancreas-male-vu/v1.0
+  - millitome/pancreas-female-vu/v1.0
+  - millitome/ovary-female-right-upenn/v1.0
+  - millitome/ovary-female-left-upenn/v1.0
   - omap/1-human-lymph-node-ibex/v1.5
   - omap/10-palatine-tonsil-mics/v1.2
   - omap/11-spleen-ibex/v1.2
