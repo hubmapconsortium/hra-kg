@@ -65,14 +65,19 @@ digital-objects:
   - asct-b/uterus/v1.2
   - asct-b/blood-vasculature-organ-crosswalk/v1.4
   - asct-b/musculoskeletal-crosswalk/v1.1
-  - ctann/azimuth/v1.1
-  - ctann/celltypist/v1.0
-  - ctann/popv/v1.1
-  - millitome/uterus-female-upenn/v1.0
-  - millitome/pancreas-male-vu/v1.0
-  - millitome/pancreas-female-vu/v1.0
-  - millitome/ovary-female-right-upenn/v1.0
+  - ctann/azimuth/v1.2
+  - ctann/celltypist/v1.1
+  - ctann/deepcelltypes-hubmap/v1.0
+  - ctann/deepcelltypes/v1.0
+  - ctann/pan-human-azimuth/v1.0
+  - ctann/popv/v1.2
+  - ctann/ribca/v1.0
+  - ctann/vccf/v1.0
   - millitome/ovary-female-left-upenn/v1.0
+  - millitome/ovary-female-right-upenn/v1.0
+  - millitome/pancreas-female-vu/v1.0
+  - millitome/pancreas-male-vu/v1.0
+  - millitome/uterus-female-upenn/v1.0
   - omap/1-human-lymph-node-ibex/v1.5
   - omap/10-palatine-tonsil-mics/v1.2
   - omap/11-spleen-ibex/v1.2
@@ -179,4 +184,4 @@ digital-objects:
   - ref-organ/ureter-male-right/v1.2
   - ref-organ/urinary-bladder-male/v1.2
   - ref-organ/asct-b-3d-models-crosswalk/v1.8
-  - vascular-geometry/blood-vasculature-geometry/v1.1
+  - vascular-geometry/blood-vasculature-geometry/v1.2
