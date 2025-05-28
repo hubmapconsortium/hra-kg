@@ -17,7 +17,7 @@ description: >-
   appropriate antibodies. This is the first OMAP focused on pancreas nerve innervation
   and pancreatic ganglia, shedding more light on pancreatic diseases including type
   1 diabetes. Tissue sections were prepared according to the Human Pancreas Processing
-  protocol found at (http://doi.org/10.17504/protocols.io.n2bvj6dnblk5/v1). Our full
+  protocol found at (https://doi.org/10.17504/protocols.io.n2bvj6dnblk5/v1). Our full
   CyCIF staining protocol can be found at (https://doi.org/10.17504/protocols.io.261ger4djl47/v1).
   All tissue samples were subjected to antigen retrieval for 25 minutes at 95°C in
   a vegetable steamer using 1X AR9 solution prepared from stock. For primary antibodies  requiring
@@ -98,6 +98,6 @@ references:
   - https://doi.org/10.17504/protocols.io.261ger4djl47/v1
   - https://doi.org/10.48539/HBM847.DNHP.222
   - https://doi.org/10.48539/HBM434.SDFF.876
-  - http://doi.org/10.17504/protocols.io.n2bvj6dnblk5/v1
+  - https://doi.org/10.17504/protocols.io.n2bvj6dnblk5/v1
   - https://doi.org/10.5281/zenodo.14867745
   - https://doi.org/10.1158/1541-7786.MCR-22-0593
