@@ -1,30 +1,30 @@
 digital-objects:
-  - 2d-ftu/kidney-ascending-thin-loop-of-henle/v1.3
-  - 2d-ftu/kidney-cortical-collecting-duct/v1.3
-  - 2d-ftu/kidney-descending-thin-loop-of-henle/v1.2
-  - 2d-ftu/kidney-inner-medullary-collecting-duct/v1.3
-  - 2d-ftu/kidney-nephron/v1.3
-  - 2d-ftu/kidney-outer-medullary-collecting-duct/v1.3
-  - 2d-ftu/kidney-renal-corpuscle/v1.3
-  - 2d-ftu/kidney-thick-ascending-loop-of-henle/v1.3
-  - 2d-ftu/large-intestine-crypt-lieberkuhn/v1.3
-  - 2d-ftu/liver-liver-lobule/v1.4
-  - 2d-ftu/lung-bronchial-submucosal-gland/v1.2
-  - 2d-ftu/lung-pulmonary-alveolus/v1.4
+  - 2d-ftu/kidney-ascending-thin-loop-of-henle/v1.2
+  - 2d-ftu/kidney-cortical-collecting-duct/v1.2
+  - 2d-ftu/kidney-descending-thin-loop-of-henle/v1.1
+  - 2d-ftu/kidney-inner-medullary-collecting-duct/v1.2
+  - 2d-ftu/kidney-nephron/v1.2
+  - 2d-ftu/kidney-outer-medullary-collecting-duct/v1.2
+  - 2d-ftu/kidney-renal-corpuscle/v1.2
+  - 2d-ftu/kidney-thick-ascending-loop-of-henle/v1.2
+  - 2d-ftu/large-intestine-crypt-lieberkuhn/v1.2
+  - 2d-ftu/liver-liver-lobule/v1.3
+  - 2d-ftu/lung-bronchial-submucosal-gland/v1.1
+  - 2d-ftu/lung-pulmonary-alveolus/v1.3
   - 2d-ftu/mouth-submandibular-gland-ducto-acinar/v1.0
   - 2d-ftu/mouth-sublingual-gland-ducto-acinar/v1.0
   - 2d-ftu/mouth-parotid-gland-ducto-acinar/v1.0
-  - 2d-ftu/pancreas-intercalated-duct/v1.3
-  - 2d-ftu/pancreas-islets-langerhans/v1.3
-  - 2d-ftu/pancreas-pancreatic-acinus/v1.3
-  - 2d-ftu/prostate-prostate-glandular-acinus/v1.3
-  - 2d-ftu/skin-dermal-papilla/v1.2
-  - 2d-ftu/skin-epidermal-ridge/v1.2
+  - 2d-ftu/pancreas-intercalated-duct/v1.2
+  - 2d-ftu/pancreas-islets-langerhans/v1.2
+  - 2d-ftu/pancreas-pancreatic-acinus/v1.2
+  - 2d-ftu/prostate-prostate-glandular-acinus/v1.2
+  - 2d-ftu/skin-dermal-papilla/v1.1
+  - 2d-ftu/skin-epidermal-ridge/v1.1
   - 2d-ftu/skin-hair-follicle/v1.0
-  - 2d-ftu/small-intestine-villus/v1.1
-  - 2d-ftu/spleen-red-pulp/v1.3
-  - 2d-ftu/spleen-white-pulp/v1.3
-  - 2d-ftu/thymus-thymus-lobule/v1.3
+  - 2d-ftu/small-intestine-villus/v1.0
+  - 2d-ftu/spleen-red-pulp/v1.2
+  - 2d-ftu/spleen-white-pulp/v1.2
+  - 2d-ftu/thymus-thymus-lobule/v1.2
   - 2d-ftu/asct-b-2d-models-crosswalk/v1.5
   - asct-b/allen-brain/v1.7
   - asct-b/anatomical-systems/v1.2
@@ -116,8 +116,8 @@ digital-objects:
   - omap/7-lung-cell-dive/v1.4
   - omap/8-placenta-full-term-imc/v1.2
   - omap/9-kidney-codex/v1.4
-  - ref-organ/brain-female/v1.5
-  - ref-organ/brain-male/v1.5
+  - ref-organ/brain-female/v1.4
+  - ref-organ/brain-male/v1.4
   - ref-organ/blood-vasculature-female/v1.3
   - ref-organ/eye-female-left/v1.3
   - ref-organ/eye-female-right/v1.3
@@ -132,7 +132,7 @@ digital-objects:
   - ref-organ/larynx-female/v1.1
   - ref-organ/liver-female/v1.2
   - ref-organ/lung-female/v1.4
-  - ref-organ/lymph-node-female/v1.5
+  - ref-organ/lymph-node-female/v1.4
   - ref-organ/main-bronchus-female/v1.1
   - ref-organ/mammary-gland-female-left/v1.1
   - ref-organ/mammary-gland-female-right/v1.1
@@ -144,14 +144,14 @@ digital-objects:
   - ref-organ/palatine-tonsil-female-right/v1.2
   - ref-organ/pancreas-female/v1.3
   - ref-organ/pelvis-female/v1.3
-  - ref-organ/placenta-full-term-female/v1.2
+  - ref-organ/placenta-full-term-female/v1.1
   - ref-organ/renal-pelvis-female-left/v1.0
   - ref-organ/renal-pelvis-female-right/v1.0
   - ref-organ/renal-pelvis-male-left/v1.0
   - ref-organ/renal-pelvis-male-right/v1.0
   - ref-organ/skin-female/v1.5
   - ref-organ/small-intestine-female/v1.2
-  - ref-organ/spinal-cord-female/v1.2
+  - ref-organ/spinal-cord-female/v1.1
   - ref-organ/spleen-female/v1.3
   - ref-organ/sternum-female/v1.0
   - ref-organ/thymus-female/v1.3
@@ -173,7 +173,7 @@ digital-objects:
   - ref-organ/larynx-male/v1.1
   - ref-organ/liver-male/v1.2
   - ref-organ/lung-male/v1.4
-  - ref-organ/lymph-node-male/v1.5
+  - ref-organ/lymph-node-male/v1.4
   - ref-organ/main-bronchus-male/v1.1
   - ref-organ/mouth-male/v1.0
   - ref-organ/palatine-tonsil-male-left/v1.2
@@ -183,7 +183,7 @@ digital-objects:
   - ref-organ/prostate-male/v1.2
   - ref-organ/skin-male/v1.4
   - ref-organ/small-intestine-male/v1.2
-  - ref-organ/spinal-cord-male/v1.2
+  - ref-organ/spinal-cord-male/v1.1
   - ref-organ/spleen-male/v1.3
   - ref-organ/thymus-male/v1.3
   - ref-organ/trachea-male/v1.1
