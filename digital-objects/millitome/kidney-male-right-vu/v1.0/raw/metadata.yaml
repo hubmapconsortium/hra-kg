@@ -1,10 +1,10 @@
-title: Millitome for UPenn Ovary, Female, Right
+title: Millitome for VU Kidney, Male, Right
 description: >-
   A millitome is a device used to hold and slice organs into a grid of equally sized tissue blocks. 
   It has an associated digital data package that includes an STL file and a spreadsheet for assigning 
   spatial locations to HuBMAP IDs and gathering metadata with information about the size, dimensions, 
   donor sex, and laterality of the reference organ for which the millitome is fitted (https://humanatlas.io/millitome). 
-  This millitome was designed in collaboration with the University of Pennsylvania for the Ovary, Female, Right.
+  This millitome was designed in collaboration with Vanderbilt University for the Kidney, Male, Right.
 creators:
   - fullName: Antara Bhavsar
     firstName: Antara

@@ -6,6 +6,10 @@ description: >-
   donor sex, and laterality of the reference organ for which the millitome is fitted (https://humanatlas.io/millitome). 
   This millitome was designed in collaboration with the University of Pennsylvania for the Ovary, Female, Left.
 creators:
+  - fullName: Antara Bhavsar
+    firstName: Antara
+    lastName: Bhavsar
+    orcid: 0009-0006-6491-6503
   - fullName: Bhargav Desai
     firstName: Bhargav
     lastName: Desai
