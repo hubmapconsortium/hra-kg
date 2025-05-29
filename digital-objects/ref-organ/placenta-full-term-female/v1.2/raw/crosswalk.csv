@@ -1,8 +1,0 @@
-node_name,OntologyID,label
-VH_F_placenta,UBERON:0001987,placenta
-VH_F_chorionic_plate,UBERON:0004027,chorionic plate
-VH_F_amnion,UBERON:0000305,amnion
-VH_F_umbilical_cord,UBERON:0002331,umbilical cord
-VH_F_umbilical_artery_1,UBERON:0001310,umbilical artery
-VH_F_umbilical_artery_2,UBERON:0001310,umbilical artery
-VH_F_umbilical_vein,UBERON:0002066,umbilical vein
