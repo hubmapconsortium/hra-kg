@@ -1,6 +1,14 @@
 digital-objects:
-  - millitome/ovary-female-left-upenn/v1.0
-  - millitome/ovary-female-right-upenn/v1.0
-  - millitome/pancreas-female-vu/v1.0
-  - millitome/pancreas-male-vu/v1.0
   - millitome/uterus-female-upenn/v1.0
+  - millitome/pancreas-male-vu/v1.0
+  - millitome/pancreas-male-uf/v1.0
+  - millitome/pancreas-female-vu/v1.0
+  - millitome/pancreas-female-uf/v1.0
+  - millitome/ovary-female-right-upenn/v1.0
+  - millitome/ovary-female-left-upenn/v1.0
+  - millitome/kidney-male-right-vu/v1.0
+  - millitome/kidney-male-left-vu/v1.0
+  - millitome/kidney-female-right-vu/v1.0
+  - millitome/kidney-female-left-vu/v1.0
+  - millitome/fallopian-tube-female-right-upenn/v1.0
+  - millitome/fallopian-tube-female-left-upenn/v1.0
