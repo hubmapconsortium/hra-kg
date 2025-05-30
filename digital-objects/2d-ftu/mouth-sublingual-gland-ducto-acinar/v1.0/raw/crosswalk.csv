@@ -1,2 +1,287 @@
 node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
-Placeholder,Placeholder,cell,CL:0000000,Placeholder,UBERON:0000165,Mouth,UBERON:0000165
+Macrophage_1,Macrophage,macrophage,CL:0000235,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mast_Cell,Mast_Cell,mast cell,CL:0000097,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Endothelial_Cell_1,Endothelial_Cell,endothelial cell,CL:0000115,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Endothelial_Cell_2,Endothelial_Cell,endothelial cell,CL:0000115,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Endothelial_Cell_3,Endothelial_Cell,endothelial cell,CL:0000115,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_1,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_2,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_3,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_4,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_5,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_6,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_7,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_8,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_9,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_10,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_11,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_12,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_13,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_14,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_15,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_16,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_17,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_18,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_19,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_20,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_21,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_22,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_23,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_24,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_25,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_26,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_27,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_28,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_29,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_30,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_31,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_32,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_33,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_34,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_35,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_36,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_37,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_38,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_39,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_40,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_41,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_42,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_43,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_44,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_45,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_46,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_47,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_48,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_49,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_50,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_51,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_52,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_53,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_54,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_55,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_56,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_57,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_58,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_59,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_60,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_61,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_62,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_63,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_64,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_65,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_66,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_67,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_68,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_69,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_70,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_71,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_72,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_73,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_74,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_75,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_76,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_77,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_78,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_79,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_80,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_81,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_82,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_83,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_84,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_85,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_86,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_87,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_88,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_89,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_90,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_91,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_92,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_93,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_94,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_95,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_96,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_97,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_98,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_99,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_100,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_101,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Intercalated_Duct_Epithelial_Cell_102,Intercalated_Duct_Epithelial_Cell,intercalated cell of salivary gland,CL:4052048,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Ionocyte_1,Ionocyte,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Ionocyte_2,Ionocyte,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Ionocyte_3,Ionocyte,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_1,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_2,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_3,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_4,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_5,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_6,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_7,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_8,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_9,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_10,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_11,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_12,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_13,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_14,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_15,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_16,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_17,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_18,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_19,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_20,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_21,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_22,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_23,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_24,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_25,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_26,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_27,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_28,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_29,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_30,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_31,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_32,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_33,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_34,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_35,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_36,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_37,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_38,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_39,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_40,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_41,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_42,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_43,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Myoepithelial_Cell_44,Myoepithelial_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Smooth_Muscle_ Cell_1,Smooth_Muscle_ Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Smooth_Muscle_ Cell_2,Smooth_Muscle_ Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Smooth_Muscle_ Cell_3,Smooth_Muscle_ Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Smooth_Muscle_ Cell_4,Smooth_Muscle_ Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Smooth_Muscle_ Cell_5,Smooth_Muscle_ Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Smooth_Muscle_ Cell_6,Smooth_Muscle_ Cell,smooth muscle cell,CL:0000192,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Pericyte_1,Pericyte,pericyte,CL:0000669,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Pericyte_2,Pericyte,pericyte,CL:0000669,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Pericyte_3,Pericyte,pericyte,CL:0000669,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_1,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_2,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_3,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_4,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_5,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_6,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_7,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_8,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_9,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_10,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_11,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_12,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_13,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_14,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_15,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_16,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_17,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_18,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_19,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_20,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_21,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_22,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_23,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_24,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_25,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_26,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_27,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_28,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_29,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_30,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_31,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_32,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_33,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_34,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periductal_Fibroblast_35,Periductal_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_1,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_2,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_3,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_4,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_5,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_6,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_7,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_8,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_9,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_10,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_11,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_12,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_13,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_14,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_15,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_16,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_17,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_18,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_19,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_20,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Periacinar_Fibroblast_21,Periacinar_Fibroblast,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Seromucosal_Acinar_Cell_1,Seromucosal_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Seromucosal_Acinar_Cell_2,Seromucosal_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Seromucosal_Acinar_Cell_3,Seromucosal_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Seromucosal_Acinar_Cell_4,Seromucosal_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Seromucosal_Acinar_Cell_5,Seromucosal_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Dendritic_Cell,Dendritic_Cell,dendritic cell,CL:0000451,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Helper_T_Cell_1,Helper_T_Cell,helper T cell,CL:0000912,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Helper_T_Cell_2,Helper_T_Cell,helper T cell,CL:0000912,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Helper_T_Cell_3,Helper_T_Cell,helper T cell,CL:0000912,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Helper_T_Cell_4,Helper_T_Cell,helper T cell,CL:0000912,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_1,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_2,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_3,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_4,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_5,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_6,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_7,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_8,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_9,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_10,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_11,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_12,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+IgA_Secreting_Plasma_Cell_13,IgA_Secreting_Plasma_Cell,IgA plasma cell,CL:0000987,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_1,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_2,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_3,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_4,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_5,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_6,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_7,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_8,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_9,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_10,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_11,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_12,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_13,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_14,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_15,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_16,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_17,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_18,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_19,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_20,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_21,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_22,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_23,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_24,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_25,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_26,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_27,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_28,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_29,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_30,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_31,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Mucous_Acinar_Cell_32,Mucous_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_1,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_2,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_3,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_4,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_5,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_6,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_7,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_8,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_9,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_10,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_11,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
+Demilune_Acinar_Cell_12,Demilune_Acinar_Cell,,,sublingual gland,UBERON:0001832,Mouth,UBERON:0000165
