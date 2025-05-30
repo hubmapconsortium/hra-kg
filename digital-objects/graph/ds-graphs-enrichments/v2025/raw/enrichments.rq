@@ -1,0 +1,97 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX ccf: <http://purl.org/ccf/>
+PREFIX HRA: <https://purl.humanatlas.io/collection/hra-api>
+PREFIX DSGraphs: <https://purl.humanatlas.io/collection/ds-graphs>
+PREFIX has_characterizing_biomarker_set: <http://purl.obolibrary.org/obo/RO_0015004>
+
+CONSTRUCT {
+  ?rui_location ccf:collides_with ?anatomical_structure ;
+    ccf:collides_with ?as_parent ;
+    ccf:collides_with_ct ?cell_type ;
+    ccf:collides_with_bm ?biomarker .
+}
+FROM HRA:
+FROM DSGraphs:
+WHERE {
+  [] ccf:has_registration_location ?rui_location .
+  ?rui_location rdf:type ccf:SpatialEntity .
+
+  {
+    ?rui_location ccf:collides_with ?anatomical_structure .
+  }
+  UNION
+  {
+    [] rdf:type ccf:SpatialPlacement ;
+        ccf:placement_relative_to ?refOrgan ;
+        ccf:placement_for ?rui_location .
+
+    {
+      ?refOrgan ccf:representation_of ?anatomical_structure .
+    }
+    UNION
+    {
+      ?refOrgan owl:sameAs [
+        ccf:representation_of ?anatomical_structure ;
+      ] .
+    }
+  }
+
+  # Manually add paired organ parents
+  OPTIONAL {
+    VALUES (?as_parent ?anatomical_structure) {
+      # Lymph Node
+      (<http://purl.obolibrary.org/obo/UBERON_0000029> <http://purl.obolibrary.org/obo/UBERON_0002509>)
+      # Eye
+      (<http://purl.obolibrary.org/obo/UBERON_0000970> <http://purl.obolibrary.org/obo/UBERON_0004548>)
+      (<http://purl.obolibrary.org/obo/UBERON_0000970> <http://purl.obolibrary.org/obo/UBERON_0004549>)
+      # Fallopian Tube
+      (<http://purl.obolibrary.org/obo/UBERON_0003889> <http://purl.obolibrary.org/obo/UBERON_0001303>)
+      (<http://purl.obolibrary.org/obo/UBERON_0003889> <http://purl.obolibrary.org/obo/UBERON_0001302>)
+      # Kidney
+      (<http://purl.obolibrary.org/obo/UBERON_0002113> <http://purl.obolibrary.org/obo/UBERON_0004538>)
+      (<http://purl.obolibrary.org/obo/UBERON_0002113> <http://purl.obolibrary.org/obo/UBERON_0004539>)
+      # Knee
+      (<http://purl.obolibrary.org/obo/UBERON_0001465> <http://purl.org/sig/ont/fma/fma24978>)
+      (<http://purl.obolibrary.org/obo/UBERON_0001465> <http://purl.org/sig/ont/fma/fma24977>)
+      # Mammary Gland
+      (<http://purl.obolibrary.org/obo/UBERON_0001911> <http://purl.org/sig/ont/fma/fma57991>)
+      (<http://purl.obolibrary.org/obo/UBERON_0001911> <http://purl.org/sig/ont/fma/fma57987>)
+      # Ovary
+      (<http://purl.obolibrary.org/obo/UBERON_0000992> <http://purl.obolibrary.org/obo/UBERON_0002119>)
+      (<http://purl.obolibrary.org/obo/UBERON_0000992> <http://purl.obolibrary.org/obo/UBERON_0002118>)
+      # Palatine Tonsil
+      (<http://purl.obolibrary.org/obo/UBERON_0002373> <http://purl.org/sig/ont/fma/fma54974>)
+      (<http://purl.obolibrary.org/obo/UBERON_0002373> <http://purl.org/sig/ont/fma/fma54973>)
+      # Renal Pelvis
+      (<http://purl.obolibrary.org/obo/UBERON_0001224> <http://purl.obolibrary.org/obo/UBERON_0018116>)
+      (<http://purl.obolibrary.org/obo/UBERON_0001224> <http://purl.obolibrary.org/obo/UBERON_0018115>)
+      # Ureter
+      (<http://purl.obolibrary.org/obo/UBERON_0000056> <http://purl.obolibrary.org/obo/UBERON_0001223>)
+      (<http://purl.obolibrary.org/obo/UBERON_0000056> <http://purl.obolibrary.org/obo/UBERON_0001222>)
+      # Lung (Edge case: we have reversed the relationship between lung and respiratory system for reasons)
+      (<http://purl.obolibrary.org/obo/UBERON_0002048> <http://purl.obolibrary.org/obo/UBERON_0001004>)
+      (<http://purl.obolibrary.org/obo/UBERON_0001004> <http://purl.obolibrary.org/obo/UBERON_0002048>)
+    }
+    
+    OPTIONAL {
+      ?parent_descriptor rdf:type ccf:CellMarkerDescriptor ;
+                         ccf:primary_anatomical_structure ?as_parent ;
+                         ccf:primary_cell_type ?cell_type .
+      OPTIONAL {
+        ?parent_descriptor ccf:biomarker ?biomarker .
+      }
+    }
+  }
+
+  OPTIONAL {
+    ?descriptor rdf:type ccf:CellMarkerDescriptor ;
+                ccf:primary_anatomical_structure ?anatomical_structure ;
+                ccf:primary_cell_type ?cell_type .
+    OPTIONAL {
+      ?descriptor ccf:biomarker ?biomarker .
+    }
+  }
+}
+ORDER BY ?anatomical_structure ?as_parent ?cell_type ?biomarker

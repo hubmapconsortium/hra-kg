@@ -1,0 +1,14 @@
+title: Cell Ontology
+description: >-
+  An ontology of cell types.
+creators:
+  - fullName: Alexander D. Diehl
+    firstName: Alexander
+    lastName: Diehl
+    orcid: 0000-0001-9990-8331
+creation_date: '2025-04-10'
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
+datatable:
+  - cl-base.owl
