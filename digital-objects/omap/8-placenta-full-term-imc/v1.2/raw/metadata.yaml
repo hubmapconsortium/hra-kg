@@ -75,13 +75,13 @@ funders:
     awardNumber: OT2OD026671
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
-# hubmapId: HBM826.WXNC.743
-# doi: https://doi.org/10.48539/HBM826.WXNC.743
-# citation: >-
-#   Paul Robson; Santhosh Sivajothi; Ramalakshmi Ramasamy. OMAP-8: Organ Mapping
-#   Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Placenta with
-#   Imaging Mass Cytometry (IMC), v1.2,https://doi.org/10.48539/HBM826.WXNC.743 .
-#   Accessed on June 15, 2025.
+hubmapId: HBM492.PWHV.975
+doi: https://doi.org/10.48539/HBM492.PWHV.975
+citation: >-
+  Paul Robson; Santhosh Sivajothi; Ramalakshmi Ramasamy. OMAP-8: Organ Mapping
+  Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Placenta with
+  Imaging Mass Cytometry (IMC), v1.2,https://doi.org/10.48539/HBM492.PWHV.975.
+  Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -95,10 +95,12 @@ citationOverall: >-
   AJ. Organ
    Mapping Antibody Panels: a community resource for standardized multiplexed tissue
   imaging. Nat  
-   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed on June 15, 2025.
 datatable:
   - omap-8-placenta-full-term-imc.csv
   - omap-8-placenta-full-term-imc.xlsx
 references:
   - https://doi.org/10.17504/protocols.io.bpwumpew
   - https://doi.org/10.48539/HBM446.WGLG.755
+  - https://doi.org/10.1038/nmeth.2869
+  - https://doi.org/10.5281/zenodo.10406597

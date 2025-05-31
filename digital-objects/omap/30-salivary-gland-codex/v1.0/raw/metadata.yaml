@@ -72,12 +72,12 @@ funders:
     awardNumber: OT2OD026671
   - funder: National Cancer Institute
     awardNumber: UH3 CA246635
-# hubmapId: <insert hubmap ID>
-# doi: https://doi.org/10.48539/<insert hubmap ID>
-# citation: >-
-# Kevin M. Byrd; Quinn Easter; Bruno Matuck.. OMAP-30 Organ Mapping Antibody Panel
-# (OMAP) for Multiplexed Antibody-Based Imaging of human salivary gland with CODEX,
-# v.1.0,<insert new DOI> Accessed June 15, 2025.
+hubmapId: HBM788.PDVM.389
+doi: https://doi.org/10.48539/HBM788.PDVM.389
+citation: >-
+  Kevin M. Byrd; Quinn Easter; Bruno Matuck.. OMAP-30 Organ Mapping Antibody Panel
+  (OMAP) for Multiplexed Antibody-Based Imaging of human salivary gland with CODEX,
+  v.1.0, https://doi.org/10.48539/HBM788.PDVM.389. Accessed June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C,  Rajbhandari
   P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV,  Croteau
@@ -86,6 +86,7 @@ citationOverall: >-
   W, Gehlenborg N, Stockwell BR,Lundberg E,  Snyder MP, Germain RN, Camarillo JM,
   Kelleher NL, Börner K, Radtke AJ.  Organ Mapping Antibody Panels: a community resource
   for standardized multiplexed  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8,  https://doi.org/10.1038/s41592-023-01846-7.
+  Accessed June 15, 2025.
 datatable:
   - omap-30-salivary-gland-codex.csv
   - omap-30-salivary-gland-codex.xlsx

@@ -54,14 +54,17 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM244.XPQP.845
-# doi: https://doi.org/10.48539/HBM244.XPQP.845
-# citation: >-
-#   Griffin Weber; Sujin Lee; Rajeev Malhotra. HuBMAP ASCT+B Tables. Blood
-#   Vasculature v1.8 [https://doi.org/10.48539/HBM244.XPQP.845](https://doi.org/10.48539/HBM244.XPQP.845),
-#   Accessed on June 15, 2025.
+hubmapId: HBM252.TTQD.772
+doi: https://doi.org/10.48539/HBM252.TTQD.772
+citation: >-
+  Griffin Weber; Sujin Lee; Rajeev Malhotra. HuBMAP ASCT+B Tables. Blood
+  Vasculature v1.8 (https://doi.org/10.48539/HBM252.TTQD.772),
+  Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2025.
 datatable:
   - asct-b-vh-blood-vasculature.csv
+references:
+  - https://doi.org/10.1038/s41597-023-02018-0
+  - https://doi.org/10.1038/s41556-021-00788-6

@@ -51,15 +51,16 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM243.ZZGL.262
-# doi: https://doi.org/10.48539/HBM243.ZZGL.262
-# citation: >-
-#   Teri A. Longacre; John Hickey; Yiing Lin, HuBMAP ASCT+B Tables. Large
-#   Intestine v1.4, https://doi.org/10.48539/HBM243.ZZGL.262, Accessed on June
-#   15, 2025.
+hubmapId: HBM325.ZPWW.358
+doi: https://doi.org/10.48539/HBM325.ZPWW.358
+citation: >-
+  Teri A. Longacre; John Hickey; Yiing Lin, HuBMAP ASCT+B Tables. Large
+  Intestine v1.4, https://doi.org/10.48539/HBM325.ZPWW.358, Accessed on June
+  15, 2025.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2025. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
   2025.
 datatable:
   - asct-b-vh-large-intestine.csv
+references:

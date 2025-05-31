@@ -116,11 +116,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM723.QPQZ.388
-# doi: https://doi.org/10.48539/HBM723.QPQZ.388
-# citation: >-
-#   Andrea J. Radtke, Brianna T. Wachter, Rebecca T. Beuschel, Nadav Yayon, Veronika Kedlian, Lena Boehme, Ronald Germain, Luigi Notarangelo, Marita Bosticardo, Francesca Pala, Sarah Teichmann, Tom Taghon. OMAP-17: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Thymus with IBEX v1.1.
-#   [https://doi.org/10.48539/HBM723.QPQZ.388](https://doi.org/10.48539/HBM723.QPQZ.388). Accessed on June 15, 2025.
+hubmapId: HBM469.BKTC.228
+doi: https://doi.org/10.48539/HBM469.BKTC.228
+citation: >-
+  Andrea J. Radtke, Brianna T. Wachter, Rebecca T. Beuschel, Nadav Yayon, Veronika Kedlian, Lena Boehme, Ronald Germain, Luigi Notarangelo, Marita Bosticardo, Francesca Pala, Sarah Teichmann, Tom Taghon. OMAP-17: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Thymus with IBEX v1.1.
+  https://doi.org/10.48539/HBM469.BKTC.228. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -134,7 +134,7 @@ citationOverall: >-
   AJ. Organ
    Mapping Antibody Panels: a community resource for standardized multiplexed tissue
   imaging. Nat  
-   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
 datatable:
   - omap-17-thymus-ibex.csv
   - omap-17-thymus-ibex.xlsx
@@ -148,3 +148,4 @@ references:
   - https://doi.org/10.1038/s41586-024-07944-6
   - https://doi.org/10.17867/10000200
   - https://doi.org/10.1101/2023.10.25.562925
+  - https://doi. org/10.1371/journal.pbio.3003070

@@ -77,12 +77,12 @@ publisher: HuBMAP
 funders:
   - funder: Miltenyi Biotec
     awardNumber: ""
-# hubmapId: HBM577.TNMJ.736
-# doi: https://doi.org/10.48539/HBM577.TNMJ.736
-# citation: >-
-#   Werner Müller; Silvia Rüberg; Andreas Bosio. OMAP-10: Multiplexed
-#   Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.2,
-#   https://doi.org/10.48539/HBM577.TNMJ.736. Accessed on June 15, 2025.
+hubmapId: HBM925.JGND.963
+doi: https://doi.org/10.48539/HBM925.JGND.963
+citation: >-
+  Werner Müller; Silvia Rüberg; Andreas Bosio. OMAP-10: Multiplexed
+  Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.2,
+  https://doi.org/10.48539/HBM925.JGND.963. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -96,10 +96,12 @@ citationOverall: >-
   AJ. Organ
    Mapping Antibody Panels: a community resource for standardized multiplexed tissue
   imaging. Nat  
-   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
 datatable:
   - omap-10-palatine-tonsil-mics.csv
   - omap-10-palatine-tonsil-mics.xlsx
 references:
   - https://doi.org/10.1038/s41598-022-05841-4
   - https://doi.org/10.5281/zenodo.7875937
+  - https://doi.org/10.5281/zenodo.7875938
+

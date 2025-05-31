@@ -27,15 +27,18 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
-# hubmapId: HBM668.VJNV.946
-# doi: https://doi.org/10.48539/HBM668.VJNV.946
-# citation: >-
-#   Heidi Schlehlein. 2024. *3D Reference Organ for mouth, Female v1.0.*
-#   [https://doi.org/10.48539/HBM668.VJNV.946](https://doi.org/10.48539/HBM668.VJNV.946).
-#   Accessed on June 15, 2024.
+hubmapId: HBM568.RFGM.978
+doi: https://doi.org/10.48539/HBM568.RFGM.978
+citation: >-
+  Heidi Schlehlein. 2024. *3D Reference Organ for mouth, Female v1.0.*
+  https://doi.org/10.48539/HBM568.RFGM.978.
+  Accessed on June 15, 2025.
 citationOverall: >-
   Schlehlein, Heidi, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2024.
+  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2025.
 datatable:
   - 3d-vh-m-mouth.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9
+  - https://doi.org/10.1109/5.662875

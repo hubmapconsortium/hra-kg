@@ -31,11 +31,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: 
-# doi: 
+# hubmapId: HBM485.ZNHM.242
+# doi: https://doi.org/10.48539/HBM485.ZNHM.242
 # citation: >-
 #  Aleix Puig-Barbe. Crosswalk of Vasculature Common Coordinate Framework (VCCF) annotated cells to Cell Ontology,v1.0
-# ()[], Accessed on May 19, 2025.
+#  (https://doi.org/10.48539/HBM485.ZNHM.242), Accessed on June 15, 2025.
 citationOverall: >-
 datatable:
   - vccf-crosswalk.csv
+references:

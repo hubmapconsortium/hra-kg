@@ -98,12 +98,12 @@ funders:
     awardNumber: UH3 CA246635
   - funder: National Cancer Institute
     awardNumber: UH3 CA246594-01
-# hubmapId: <insert hubmap ID>
-# doi: https://doi.org/10.48539/<insert hubmap ID>
-# citation: >-
-#   Liz McDonough, Chrystal Chadwick, and Fiona Ginty. OMAP-4  Organ Mapping
-#   Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin
-#   with Cell DIVE, v1.4.,<insert new DOI> Accessed June 15, 2025.
+hubmapId: HBM447.DQMQ.693
+doi: https://doi.org/10.48539/HBM447.DQMQ.693
+citation: >-
+  Liz McDonough, Chrystal Chadwick, and Fiona Ginty. OMAP-4  Organ Mapping
+  Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin
+  with Cell DIVE, v1.4.,https://doi.org/10.48539/HBM447.DQMQ.693. Accessed June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C,  Rajbhandari
   P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F,  Neelakantan TV, Croteau
@@ -112,7 +112,7 @@ citationOverall: >-
   W, Gehlenborg N,  Stockwell BR,Lundberg E, Snyder MP, Germain RN, Camarillo JM,
   Kelleher NL,  Börner K, Radtke AJ. Organ Mapping Antibody Panels: a community resource  for
   standardized multiplexed tissue imaging. Nat Methods. 2023 Aug;
-  20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
 datatable:
   - omap-4-skin-cell-dive.csv
   - omap-4-skin-cell-dive.xlsx
@@ -121,3 +121,4 @@ references:
   - https://doi.org/10.17504/protocols.io.bpwumpew
   - https://dx.doi.org/10.17504/protocols.io.b4kgqutw
   - https://doi.org/10.48539/HBM423.RTRR.746
+

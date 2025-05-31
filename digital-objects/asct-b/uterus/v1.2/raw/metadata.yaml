@@ -33,13 +33,15 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM866.BCMC.625
-# doi: https://doi.org/10.48539/HBM866.BCMC.625
-# citation: >-
-#   Kathleen O'Neill, HuBMAP ASCT+B Tables. Uterus v1.2
-#   [https://doi.org/10.48539/HBM866.BCMC.625](https://doi.org/10.48539/HBM866.BCMC.625)
+hubmapId: HBM994.KXQS.423
+doi: https://doi.org/10.48539/HBM994.KXQS.423
+citation: >-
+  Kathleen O'Neill, HuBMAP ASCT+B Tables. Uterus v1.2
+  (https://doi.org/10.48539/HBM994.KXQS.423). Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2025.
 datatable:
   - ASCT-B_VH_Uterus.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6

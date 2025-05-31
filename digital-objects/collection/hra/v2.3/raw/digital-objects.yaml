@@ -11,9 +11,9 @@ digital-objects:
   - 2d-ftu/liver-liver-lobule/v1.3
   - 2d-ftu/lung-bronchial-submucosal-gland/v1.1
   - 2d-ftu/lung-pulmonary-alveolus/v1.3
-  - 2d-ftu/mouth-submandibular-gland/v1.0
-  - 2d-ftu/mouth-sublingual-gland/v1.0
-  - 2d-ftu/mouth-parotid-gland/v1.0
+  - 2d-ftu/mouth-submandibular-gland-ducto-acinar/v1.0
+  - 2d-ftu/mouth-sublingual-gland-ducto-acinar/v1.0
+  - 2d-ftu/mouth-parotid-gland-ducto-acinar/v1.0
   - 2d-ftu/pancreas-intercalated-duct/v1.2
   - 2d-ftu/pancreas-islets-langerhans/v1.2
   - 2d-ftu/pancreas-pancreatic-acinus/v1.2

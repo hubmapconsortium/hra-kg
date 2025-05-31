@@ -80,12 +80,12 @@ funders:
       National Institute of Allergy and Infectious Disease and National Cancer
       Institute
     awardNumber: UH3 CA246594-01
-# hubmapId: HBM434.SDFF.876
-# doi: https://doi.org/10.48539/HBM434.SDFF.876
-# citation: >-
-#   Diane Saunders; Conrad Reihsmann. OMAP-13: Organ Mapping Antibody Panel (OMAP)
-#   for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.2,
-#   https://doi.org/10.48539/HBM434.SDFF.876. Accessed on June 15, 2025.
+hubmapId: HBM328.WTLZ.372
+doi: https://doi.org/10.48539/HBM328.WTLZ.372
+citation: >-
+  Diane Saunders; Conrad Reihsmann. OMAP-13: Organ Mapping Antibody Panel (OMAP)
+  for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.2,
+  https://doi.org/10.48539/HBM328.WTLZ.372. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -99,7 +99,7 @@ citationOverall: >-
   AJ. Organ
    Mapping Antibody Panels: a community resource for standardized multiplexed tissue
   imaging. Nat  
-   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
 datatable:
   - omap-13-pancreas-codex.csv
   - omap-13-pancreas-codex.xlsx
@@ -110,3 +110,4 @@ references:
   - https://doi.org/10.1101/2021.12.16.466282
   - https://doi.org/10.17504/protocols.io.36wgq7dryvk5/v1
   - https://doi.org/10.5281/zenodo.7916784
+

@@ -37,15 +37,17 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM669.PSCF.525
-doi: https://doi.org/10.48539/HBM669.PSCF.525
+hubmapId: HBM726.WNMT.265
+doi: https://doi.org/10.48539/HBM726.WNMT.265
 citation: >-
   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ Set for Female,
-  v1.7.*, [https://doi.org/10.48539/HBM669.PSCF.525](https://doi.org/10.48539/HBM669.PSCF.525). Accessed on December 15, 2024.
+  v1.8.*, https://doi.org/10.48539/HBM726.WNMT.265. Accessed on June 15, 2025.
 citationOverall: >-
   Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
   Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2024.
+  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2025.
 datatable:
   - 3d-vh-f-united.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9

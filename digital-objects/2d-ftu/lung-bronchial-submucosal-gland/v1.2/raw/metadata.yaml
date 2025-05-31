@@ -29,19 +29,21 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM537.LBGR.599
-# doi: https://doi.org/10.48539/HBM537.LBGR.599
-# citation: >-
-#   Rachel Bajema 2023. *2D Reference Bronchial Submucosal Gland FTU for Lung,
-#   v1.1.* https://doi.org/10.48539/HBM537.LBGR.599. Accessed on December 15,
-#   2023.
+hubmapId: HBM656.TJVD.294
+doi: https://doi.org/10.48539/HBM656.TJVD.294
+citation: >-
+  Rachel Bajema 2023. *2D Reference Bronchial Submucosal Gland FTU for Lung,
+  v1.2.* https://doi.org/10.48539/HBM656.TJVD.294. Accessed on June 15,
+  2025.
 citationOverall: >-
   Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
   Börner. 2023. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
-  15, 2023.
+  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on June
+  15, 2025.
 datatable:
   - 2d-ftu-lung-bronchial-submucosal-gland.svg
   - 2d-ftu-lung-bronchial-submucosal-gland.png
   - 2d-ftu-lung-bronchial-submucosal-gland.ai
   - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM396.QVLQ.449

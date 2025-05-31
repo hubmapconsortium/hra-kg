@@ -71,4 +71,4 @@ citationOverall: >-
   Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
   [TBD](https://doi.org/TBD)
 datatable:
-  - atlas-dataset-graph.jsonld
+  - full-dataset-graph.jsonld

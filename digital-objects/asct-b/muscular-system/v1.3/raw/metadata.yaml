@@ -43,13 +43,14 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM592.DKWW.943
-# doi: https://doi.org/10.48539/HBM592.DKWW.943
-# citation: >-
-#   Katherine S Gustilo; Griffin Weber. Muscular System, v1.3
-#   https://doi.org/10.48539/HBM257.RSRQ.666, Accessed on June 15, 2025.
+hubmapId: HBM525.VNXM.373
+doi: https://doi.org/10.48539/HBM525.VNXM.373
+citation: >-
+  Katherine S Gustilo; Griffin Weber. Muscular System, v1.3
+  https://doi.org/10.48539/HBM525.VNXM.373, Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2025.
 datatable:
   - asct-b-vh-muscular-system.csv
+references:

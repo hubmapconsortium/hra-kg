@@ -67,10 +67,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM974.QWFP.588
-# doi: https://doi.org/10.48539/HBM974.QWFP.588
-# citation: >-
-#   Andrea J. Radtke. OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of human lymph node with Cell DIVE-IBEX v1.1. [https://doi.org/10.48539/HBM974.QWFP.588](https://doi.org/10.48539/HBM974.QWFP.588). Accessed on June 15, 2025.
+hubmapId: HBM356.HGHM.686
+doi: https://doi.org/10.48539/HBM356.HGHM.686
+citation: >-
+  Andrea J. Radtke. OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of human lymph node with 
+  Cell DIVE-IBEX v1.1. https://doi.org/10.48539/HBM356.HGHM.686. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -80,7 +81,7 @@ citationOverall: >-
   W, Gehlenborg N, Stockwell BR, Lundberg E, Snyder MP, Germain RN, Camarillo JM,
   Kelleher NL, Börner K, Radtke AJ. Organ Mapping Antibody Panels: a community resource
   for standardized multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8,
-  https://doi.org/10.1038/s41592-023-01846-7.
+  https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
 datatable:
   - omap-18-lymph-node-cell-dive-ibex.csv
   - omap-18-lymph-node-cell-dive-ibex.xlsx

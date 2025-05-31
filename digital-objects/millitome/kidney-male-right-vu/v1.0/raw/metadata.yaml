@@ -33,5 +33,10 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
+# hubmapId: HBM447.WDMP.739
+# doi: https://doi.org/10.48539/HBM447.WDMP.739
+# citation: >-
+#  Antara Bhavsar, Bhargav Desai. Millitome for VU Kidney, Male, Right,v1.0
+#  https://doi.org/10.48539/HBM447.WDMP.739, Accessed on June 15, 2025.
 datatable:
   - extraction-sites.jsonld

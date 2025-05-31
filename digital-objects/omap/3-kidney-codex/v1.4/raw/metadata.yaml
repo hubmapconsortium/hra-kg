@@ -99,12 +99,12 @@ funders:
       National Institutes of Health and National Institute of Diabetes and
       Digestive and Kidney Diseases (NIDDK)
     awardNumber: 1F32DK128887-01A1
-# hubmapId: HBM268.ZQNV.826
-# doi: https://doi.org/10.48539/HBM268.ZQNV.826
-# citation: >-
-#   Elizabeth K. Neumann; Melissa Farrow. OMAP-3 Organ Mapping Antibody Panel
-#   (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.4
-#   https://doi.org/10.48539/HBM268.ZQNV.826. Accessed June 15, 2025
+hubmapId: HBM989.WTJW.393
+doi: https://doi.org/10.48539/HBM989.WTJW.393
+citation: >-
+  Elizabeth K. Neumann; Melissa Farrow. OMAP-3 Organ Mapping Antibody Panel
+  (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.4
+  https://doi.org/10.48539/HBM989.WTJW.393. Accessed June 15, 2025
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -117,6 +117,7 @@ citationOverall: >-
   Organ
   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
   imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  Accessed June 15, 2025
 datatable:
   - omap-3-kidney-codex.csv
   - omap-3-kidney-codex.xlsx
@@ -129,3 +130,4 @@ references:
   - https://doi.org/10.1172/jci.insight.129477
   - https://doi.org/10.5281/zenodo.8082943
   - https://doi.org/10.1038/s41592-021-01316-y
+  - https://doi.org/10.5281/zenodo.8082943

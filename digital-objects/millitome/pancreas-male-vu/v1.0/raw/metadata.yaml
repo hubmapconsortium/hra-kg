@@ -33,5 +33,10 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
+# hubmapId: HBM338.KZRH.469
+# doi: https://doi.org/10.48539/HBM338.KZRH.469
+# citation: >-
+#  Antara Bhavsar, Bhargav Desai. Millitome for VU Pancreas, Male,v1.0
+#  https://doi.org/10.48539/HBM338.KZRH.469, Accessed on June 15, 2025.
 datatable:
   - extraction-sites.jsonld

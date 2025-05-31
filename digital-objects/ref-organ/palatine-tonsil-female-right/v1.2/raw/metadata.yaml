@@ -34,18 +34,21 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM797.QWCT.945
-# doi: https://doi.org/10.48539/HBM797.QWCT.945
-# citation: >-
-#   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Palatine
-#   Tonsil, Female, Right v1.1.*
-#   [https://doi.org/10.48539/HBM797.QWCT.945](https://doi.org/10.48539/HBM797.QWCT.945).
-#   Accessed on June 15, 2024.
+hubmapId: HBM549.HTLQ.527
+doi: https://doi.org/10.48539/HBM549.HTLQ.527
+citation: >-
+  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Palatine
+  Tonsil, Female, Right v1.2.*
+  https://doi.org/10.48539/HBM549.HTLQ.527.
+  Accessed on June 15, 2025.
 citationOverall: >-
   Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
   Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
   Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15,
-  2024.
+  2025.
 datatable:
   - 3d-vh-f-palatine-tonsil-r.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1109/5.662875
+  - https://doi.org/10.1136/jamia.1996.96236280

@@ -72,15 +72,21 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM888.MGDC.395
-# doi: https://doi.org/10.48539/HBM888.MGDC.395
-# citation: >-
-#   Marda Jorgensen; Andrea J. Radtke; Rebecca T. Beuschel, HuBMAP ASCT+B Tables.
-#   Spleen v1.5,https://doi.org/10.48539/HBM888.MGDC.395. Accessed on June 15,
-#   2025.
+hubmapId: HBM952.HXMD.576
+doi: https://doi.org/10.48539/HBM952.HXMD.576
+citation: >-
+  Marda Jorgensen; Andrea J. Radtke; Rebecca T. Beuschel, HuBMAP ASCT+B Tables.
+  Spleen v1.5,https://doi.org/10.48539/HBM952.HXMD.576. Accessed on June 15,
+  2025.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
   2025.
 datatable:
   - asct-b-vh-spleen.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6
+  - https://doi.org/10.1007/s00418-007-0320-8 
+  - https://doi.org/10.1038/s41598-018-34105-3
+  - https://doi.org/10.1111/imm.12469
+  - https://doi.org/10.1186/s13059-019-1906-x

@@ -31,11 +31,13 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: 
-# doi: 
+# hubmapId: HBM679.XXLW.422
+# doi: https://doi.org/10.48539/HBM679.XXLW.422
 # citation: >-
 #  Aleix Puig-Barbe. Crosswalk of deepcelltypes-HuBMAP annotated cells to Cell Ontology,v1.0
-# ()[], Accessed on May 19, 2025.
+#  (https://doi.org/10.48539/HBM679.XXLW.422), Accessed on June 15, 2025.
 citationOverall: >-
 datatable:
   - deepcelltypes-hubmap-crosswalk.csv
+references:
+  - https://doi.org/10.1101/2024.11.02.621624

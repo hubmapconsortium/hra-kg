@@ -59,15 +59,21 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM996.JBVC.522
-# doi: https://doi.org/10.48539/HBM996.JBVC.522
-# citation: >-
-#   Anna Maria Masci; Tim Kendall; Ayako Suzuki, HuBMAP ASCT+B Tables. Liver v1.4
-#   [https://doi.org/10.48539/HBM996.JBVC.522](https://doi.org/10.48539/HBM996.JBVC.522), Accessed on June 15,
-#   2025.
+hubmapId: HBM668.JVLM.333
+doi: https://doi.org/10.48539/HBM668.JVLM.333
+citation: >-
+  Anna Maria Masci; Tim Kendall; Ayako Suzuki, HuBMAP ASCT+B Tables. Liver v1.4
+  (https://doi.org/10.48539/HBM668.JVLM.333), Accessed on June 15,
+  2025.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
   2025.
 datatable:
   - asct-b-vh-liver.csv
+references:
+  - https://doi.org/10.1080/01926230600867727
+  - https://doi.org/10.1038/s41590-020-0602-z 
+  - https://doi.org/10.3389/fcvm.2020.00052 
+  - https://doi.org/10.1038/s41467-019-12464-3
+  - https://doi.org/10.1016/j.immuni.2018.04.006 

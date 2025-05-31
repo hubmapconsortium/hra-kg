@@ -35,14 +35,16 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM934.NJHF.526
-# doi: https://doi.org/10.48539/HBM934.NJHF.526
-# citation: >-
-#   Teri Longacre, HuBMAP ASCT+B Tables. Small Intestine v1.2,
-#   https://doi.org/10.48539/HBM934.NJHF.526. Accessed on June 15, 2025.
+hubmapId: HBM243.LZXV.772
+doi: https://doi.org/10.48539/HBM243.LZXV.772
+citation: >-
+  Teri Longacre, HuBMAP ASCT+B Tables. Small Intestine v1.2,
+  https://doi.org/10.48539/HBM243.LZXV.772. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2025. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
   2025.
 datatable:
   - asct-b-vh-small-intestine.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6
