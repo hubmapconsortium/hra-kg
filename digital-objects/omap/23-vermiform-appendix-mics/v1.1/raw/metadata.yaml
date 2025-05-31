@@ -69,12 +69,12 @@ publisher: HuBMAP
 funders:
   - funder: Miltenyi Biotec
     awardNumber: ""
-hubmapId: HBM244.BCMQ.737
-doi: https://doi.org/10.48539/HBM244.BCMQ.737
+hubmapId: HBM554.CZZX.885
+doi: https://doi.org/10.48539/HBM554.CZZX.885
 citation: >-
-  Werner Müller; Julia Femel; Andreas Bosio. v1.0,
-  [https://doi.org/10.48539/HBM244.BCMQ.737](https://doi.org/10.48539/HBM244.BCMQ.737).  Accessed
-  on December 15, 2024.
+  Werner Müller; Julia Femel; Andreas Bosio. v1.1,
+  https://doi.org/10.48539/HBM554.CZZX.885.  
+  Accessed June 15, 2025.
 # citationOverall: >-
 datatable:
   - omap-23-vermiform-appendix-mics.csv

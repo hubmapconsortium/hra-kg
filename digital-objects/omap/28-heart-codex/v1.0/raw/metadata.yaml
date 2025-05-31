@@ -75,12 +75,12 @@ funders:
     awardNumber: OT2OD026671
   - funder: National Cancer Institute
     awardNumber: UH3 CA246635
-# hubmapId: <insert hubmap ID>
-# doi: https://doi.org/10.48539/<insert hubmap ID>
+# hubmapId: HBM564.VPJV.699
+# doi: https://doi.org/10.48539/HBM564.VPJV.699
 # citation: >-
 # Kyung Jin Ahn and Kai Tan. OMAP-28: Organ Mapping Antibody Panel (OMAP)
-# for Multiplexed Antibody-Based Imaging of Heart with CODEX, v1.0, ,
-# <insert new DOI> Accessed June 15, 2025.
+# for Multiplexed Antibody-Based Imaging of Heart with CODEX, v1.0,
+# https://doi.org/10.48539/HBM564.VPJV.699 Accessed June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C,  Rajbhandari
   P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV,  Croteau
@@ -89,6 +89,7 @@ citationOverall: >-
   W, Gehlenborg N, Stockwell BR,Lundberg E,  Snyder MP, Germain RN, Camarillo JM,
   Kelleher NL, Börner K, Radtke AJ.  Organ Mapping Antibody Panels: a community resource
   for standardized multiplexed  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8,  https://doi.org/10.1038/s41592-023-01846-7.
+  Accessed June 15, 2025.
 datatable:
   - omap-28-heart-codex.csv
   - omap-28-heart-codex.xlsx

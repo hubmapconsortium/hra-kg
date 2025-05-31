@@ -90,11 +90,11 @@ funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
 
-# hubmapId: HBM995.KTHD.545
-# doi: https://doi.org/10.48539/HBM995.KTHD.545
-# citation: >-
-#   Hua Tian, Presha Rajbhandari. OMAP-5 Organ Mapping Antibody Panel (OMAP)  for
-#   Multiplexed Antibody-Based Imaging of Human Liver with SIMS, v1.4, https://doi.org/10.48539/HBM995.KTHD.545. Accessed June 15, 2025.
+hubmapId: HBM552.VJGW.787
+doi: https://doi.org/10.48539/HBM552.VJGW.787
+citation: >-
+  Hua Tian, Presha Rajbhandari. OMAP-5 Organ Mapping Antibody Panel (OMAP)  for
+  Multiplexed Antibody-Based Imaging of Human Liver with SIMS, v1.4, https://doi.org/10.48539/HBM552.VJGW.787. Accessed June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -107,6 +107,7 @@ citationOverall: >-
   Organ
   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
   imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  Accessed June 15, 2025.
 datatable:
   - omap-5-liver-sims.csv
   - omap-5-liver-sims.xlsx
@@ -114,3 +115,5 @@ references:
   - https://doi.org/10.1101/2022.09.26.508878
   - https://doi.org/10.48539/HBM476.BQCC.574
   - https://doi.org/10.17504/protocols.io.b5qmq5u6
+  - https://doi.org/10.5281/zenodo.8084259
+  

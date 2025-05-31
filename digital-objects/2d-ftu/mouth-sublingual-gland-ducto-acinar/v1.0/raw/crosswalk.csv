@@ -1,0 +1,2 @@
+node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Placeholder,Placeholder,cell,CL:0000000,Placeholder,UBERON:0000165,Mouth,UBERON:0000165

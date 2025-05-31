@@ -60,12 +60,12 @@ funders:
     awardNumber: OT2OD026671
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
-# hubmapId: HBM635.WJHB.325
-# doi: https://doi.org/10.48539/HBM635.WJHB.325
-# citation: >-
-#   Colin J. Chu. OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed
-#   Antibody-Based Imaging of Human Retina with IBEX, v2,
-#   https://doi.org/10.48539/HBM635.WJHB.325. Accessed on June 15, 2025.
+hubmapId: HBM438.GKBC.879
+doi: https://doi.org/10.48539/HBM438.GKBC.879
+citation: >-
+  Colin J. Chu. OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed
+  Antibody-Based Imaging of Human Retina with IBEX, v1.2,
+  https://doi.org/10.48539/HBM438.GKBC.879. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -79,12 +79,14 @@ citationOverall: >-
   AJ. Organ
    Mapping Antibody Panels: a community resource for standardized multiplexed tissue
   imaging. Nat  
-   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
 datatable:
   - omap-12-eye-retina-ibex.csv
   - omap-12-eye-retina-ibex.xlsx
 references:
-  - https://doi.org/10.1038/s41596-021-00644-9
   - https://doi.org/10.1073/pnas.2018488117
   - https://doi.org/10.1038/s41596-021-00644-9
   - https://doi.org/10.5281/zenodo.7777285
+  - https://doi.org/10.5281/zenodo.7777286
+  - https://doi. org/10.1371/journal.pbio.3003070
+ 

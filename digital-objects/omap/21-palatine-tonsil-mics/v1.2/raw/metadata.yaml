@@ -81,11 +81,11 @@ publisher: HuBMAP
 funders:
   - funder: Miltenyi Biotec
     awardNumber: ""
-# hubmapId: HBM639.TMLM.723
-# doi: https://doi.org/10.48539/HBM639.TMLM.723
-# citation: >-
-#   Werner Müller; Julia Femel; Silvia Rüberg; Andreas Bosio. v1.2,
-#   [https://doi.org/10.48539/HBM639.TMLM.723](https://doi.org/10.48539/HBM639.TMLM.723). Accessed on June 15, 2025.
+hubmapId: HBM625.ZLPR.824
+doi: https://doi.org/10.48539/HBM625.ZLPR.824
+citation: >-
+  Werner Müller; Julia Femel; Silvia Rüberg; Andreas Bosio. v1.2,
+  https://doi.org/10.48539/HBM625.ZLPR.824. Accessed on June 15, 2025.
 citationOverall: >
 
 datatable:
