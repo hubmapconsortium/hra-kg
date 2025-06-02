@@ -37,9 +37,7 @@ citationOverall: >-
   Börner. 2025. [*HuBMAP CCF 2D Reference Object
   Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on June 15 2025.
 datatable:
-  - 2d-ftu-mouth-sublingual-gland-ducto-Acinar.svg
-  - 2d-ftu-mouth-sublingual-gland-ducto-Acinar.png
-  - 2d-ftu-mouth-sublingual-gland-ducto-Acinar.ai
+  - 2d-ftu-mouth-sublingual-gland.svg
+  - 2d-ftu-mouth-sublingual-gland.png
+  - 2d-ftu-mouth-sublingual-gland.ai
   - crosswalk.csv
-references:
-

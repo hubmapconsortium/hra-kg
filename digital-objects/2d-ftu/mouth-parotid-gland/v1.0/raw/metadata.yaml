@@ -37,9 +37,7 @@ citationOverall: >-
   Börner. 2025. [*HuBMAP CCF 2D Reference Object
   Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on June 15 2025.
 datatable:
-  - 2d-ftu-mouth-parotid-gland-ducto-acinar.svg
-  - 2d-ftu-mouth-parotid-gland-ducto-acinar.png
-  - 2d-ftu-mouth-parotid-gland-ducto-acinar.ai
+  - 2d-ftu-mouth-parotid-gland.svg
+  - 2d-ftu-mouth-parotid-gland.png
+  - 2d-ftu-mouth-parotid-gland.ai
   - crosswalk.csv
-references: 
-
