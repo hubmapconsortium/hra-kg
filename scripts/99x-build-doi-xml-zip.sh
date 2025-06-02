@@ -1,8 +1,8 @@
 #!/bin/bash
+source constants.sh
 
-VERSION=v2.2
-PREV=v2.1
-export DEPLOY_HOME=dist
+VERSION=v2.3
+PREV=v2.2
 
 COLL=collection/hra/$VERSION
 PREV_COLL=collection/hra/$PREV
@@ -20,6 +20,8 @@ for d in $DOs; do
   if [ "$ID" == "null" ]; then
     echo $d needs a DOI.
   else
+    mkdir -p $DEPLOY_HOME/$d
+    do-processor deploy-doi-xml $d
     cp $DEPLOY_HOME/$d/doi.xml $DEPLOY_HOME/xmls/${ID}.xml
   fi
 done
