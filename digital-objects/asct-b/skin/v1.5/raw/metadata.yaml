@@ -65,15 +65,18 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM474.TDSP.668
-# doi: https://doi.org/10.48539/HBM474.TDSP.668
-# citation: >-
-#   Fiona Ginty; Jonhan Ho; Joel Sunshine; Arivarasan Karunamurthy, HuBMAP ASCT+B
-#   Tables. Skin v1.5
-#   [https://doi.org/10.48539/HBM474.TDSP.668](https://doi.org/10.48539/HBM474.TDSP.668).
+hubmapId: HBM762.FXXL.375
+doi: https://doi.org/10.48539/HBM762.FXXL.375
+citation: >-
+  Fiona Ginty; Jonhan Ho; Joel Sunshine; Arivarasan Karunamurthy, HuBMAP ASCT+B
+  Tables. Skin v1.5
+  (https://doi.org/10.48539/HBM762.FXXL.375). Accessed on June 15,
+  2025.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2025. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
   2025.
 datatable:
   - asct-b-vh-skin.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6

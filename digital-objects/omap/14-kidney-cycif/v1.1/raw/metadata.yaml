@@ -78,12 +78,12 @@ funders:
   - funder: National Cancer Institute
     awardNumber: UH3 CA246594-01
 
-# hubmapId: HBM872.RNSG.734
-# doi: https://doi.org/10.48539/HBM872.RNSG.734
-# citation: >-
-#   Mark de Caestecker. OMAP-14: Organ Mapping Antibody Panel (OMAP)
-#   for Multiplexed Antibody-Based Imaging of Human Kidney with CyCIF, v1.1.
-#   [https://doi.org/10.48539/HBM872.RNSG.734](https://doi.org/10.48539/HBM872.RNSG.734). Accessed on June  15, 2025.
+hubmapId: HBM966.SMJD.846
+doi: https://doi.org/10.48539/HBM966.SMJD.846
+citation: >-
+  Mark de Caestecker. OMAP-14: Organ Mapping Antibody Panel (OMAP)
+  for Multiplexed Antibody-Based Imaging of Human Kidney with CyCIF, v1.1.
+  https://doi.org/10.48539/HBM966.SMJD.846. Accessed on June  15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -95,7 +95,7 @@ citationOverall: >-
   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ.
   Organ
   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
 datatable:
   - omap-14-kidney-cycif.csv
   - omap-14-kidney-cycif.xlsx
@@ -110,3 +110,7 @@ references:
   - https://doi.org/10.5281/zenodo.10447488
   - https://doi.org/10.5281/zenodo.10445551
   - https://doi.org/10.1038/ncomms9390
+  - https://doi.org/10.5281/zenodo.10445539
+  - https://doi.org/10.5281/zenodo.10407947
+  - https://doi.org/10.5281/zenodo.10440321
+  - https://doi.org/10.5281/zenodo.10447489

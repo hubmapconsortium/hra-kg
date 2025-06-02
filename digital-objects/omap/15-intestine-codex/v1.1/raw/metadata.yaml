@@ -71,12 +71,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM332.XBSP.863
-# doi: https://doi.org/10.48539/HBM332.XBSP.863
-# citation: >-
-#   Bei Wei, Joanna Yang Bi. OMAP-15 Organ Mapping Antibody Panel (OMAP) for Multiplexed
-#   Antibody-Based Imaging of Human Intestine with CODEX v1.1.
-#   [https://doi.org/10.48539/HBM332.XBSP.863](https://doi.org/10.48539/HBM332.XBSP.863). Accessed June 15,2025.
+hubmapId: HBM493.DJFQ.925
+doi: https://doi.org/10.48539/HBM493.DJFQ.925
+citation: >-
+  Bei Wei, Joanna Yang Bi. OMAP-15 Organ Mapping Antibody Panel (OMAP) for Multiplexed
+  Antibody-Based Imaging of Human Intestine with CODEX v1.1.
+  https://doi.org/10.48539/HBM493.DJFQ.925. Accessed June 15,2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -88,7 +88,7 @@ citationOverall: >-
   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ.
   Organ
   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
 datatable:
   - omap-15-intestine-codex.csv
   - omap-15-intestine-codex.xlsx
@@ -99,3 +99,4 @@ references:
   - https://doi.org//10.17504/protocols.io.4r3l2q8q4l1y/v1
   - https://doi.org/10.17504/protocols.io.n92ldm6y9l5b/v1
   - https://doi.org/10.5281/zenodo.10963120
+  - https://doi.org/10.5281/zenodo.10963121

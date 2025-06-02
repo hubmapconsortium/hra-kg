@@ -38,16 +38,17 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM387.DSQL.745
-# doi: https://doi.org/10.48539/HBM387.DSQL.745
-# citation: >-
-#   Griffin Weber; Katherine S Gustilo. Blood Vasculature Organ Crosswalk,v1.1
-#   https://doi.org/10.48539/HBM387.DSQL.745, Accessed on June 15, 2025.
+hubmapId: HBM693.NGDL.755
+doi: https://doi.org/10.48539/HBM693.NGDL.755
+citation: >-
+  Griffin Weber; Katherine S Gustilo. Blood Vasculature Organ Crosswalk,v1.1
+  https://doi.org/10.48539/HBM693.NGDL.755, Accessed on June 15, 2025.
 citationOverall: >-
   Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Katherine S.
   Gustilo, Ellen M. Quardokus, Bruce W. Herr, Katy Börner, and Griffin M. Weber.
   2023. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human
   Blood Vasculature.” Scientific Data 10 (1): 452.
-  https://doi.org/10.1038/s41597-023-02018-0.
+  https://doi.org/10.1038/s41597-023-02018-0, Accessed on June 15, 2025.
 datatable:
   - musculoskeletal-crosswalk.csv
+references:

@@ -90,12 +90,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM656.VQRD.249
-# doi: https://doi.org/10.48539/HBM656.VQRD.249
-# citation: >-
-#   Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP) for Multiplexed
-#   Antibody-Based Imaging of Human Lymph Node with IBEX v1.5.
-#   https://doi.org/10.48539/HBM656.VQRD.249. Accessed on June 15, 2025.
+hubmapId: HBM453.CPJP.646
+doi: https://doi.org/10.48539/HBM453.CPJP.646
+citation: >-
+  Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP) for Multiplexed
+  Antibody-Based Imaging of Human Lymph Node with IBEX v1.5.
+  https://doi.org/10.48539/HBM453.CPJP.646. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -107,7 +107,7 @@ citationOverall: >-
   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ.
   Organ
   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat   Methods. 2023 Aug;20(8):1174–8.
+  imaging. Nat   Methods. 2023 Aug;20(8):1174–8. Accessed on June 15, 2025.
 datatable:
   - omap-1-human-lymph-node-ibex.csv
   - omap-1-human-lymph-node-ibex.xlsx
@@ -117,5 +117,8 @@ references:
   - https://doi.org/10.48539/HBM573.SHCQ.259
   - https://doi.org/10.7554/eLife.31657
   - https://doi.org/10.1002/eji.202048891
-  - https://doi.org/10.1101/2022.06.03.494716
+ - https://doi.org/10.1101/2022.06.03.494716 
   - https://doi.org/10.5281/zenodo.5244550
+  - https://doi.org/10.1016/j.ccell.2024.02.001.  
+  - https://doi.org/10.1371/journal.pbio.3003070
+  - https://doi.org/10.5281/zenodo.5244551

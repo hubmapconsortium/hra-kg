@@ -24,14 +24,16 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM792.MPHZ.454
-# doi: https://doi.org/10.48539/HBM792.MPHZ.454
-# citation: >-
-#   Ellen M. Quardokus. HuBMAP ASCT+B Tables. Anatomical Systems,
-#   v1.2,https://doi.org/10.48539/HBM792.MPHZ.454, Accessed on June 15, 2025.
+hubmapId: HBM723.WZWK.335
+doi: https://doi.org/10.48539/HBM723.WZWK.335
+citation: >-
+  Ellen M. Quardokus. HuBMAP ASCT+B Tables. Anatomical Systems,
+  v1.2,https://doi.org/10.48539/HBM723.WZWK.335, Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
   2025.
 datatable:
   - asct-b-vh-anatomical-systems.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6

@@ -31,11 +31,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: 
-# doi: 
+# hubmapId: HBM896.TKLN.495
+# doi: https://doi.org/10.48539/HBM896.TKLN.495
 # citation: >-
 #  Aleix Puig-Barbe. Crosswalk of pan-human Azimuth annotated cells to Cell Ontology,v1.0
-# ()[], Accessed on May 19, 2025.
+#  (https://doi.org/10.48539/HBM896.TKLN.495), Accessed on June 15, 2025.
 citationOverall: >-
 datatable:
   - pan-human-azimuth-crosswalk.csv
+references:
