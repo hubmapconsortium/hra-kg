@@ -91,12 +91,12 @@ funders:
       National Institute of Allergy and Infectious Disease and National Cancer
       Institute
     awardNumber: UH3 CA246635
-# hubmapId: HBM847.DNHP.222
-# doi: https://doi.org/10.48539/HBM847.DNHP.222
-# citation: >-
-#   Anna Martinez Casals, Frida Björklund. OMAP-6 Organ Mapping Antibody Panel
-#   (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX,
-#   v1.4, https://doi.org/10.48539/HBM847.DNHP.222. Accessed June 15, 2025.
+hubmapId: HBM787.DMFW.993
+doi: https://doi.org/10.48539/HBM787.DMFW.993
+citation: >-
+  Anna Martinez Casals, Frida Björklund. OMAP-6 Organ Mapping Antibody Panel
+  (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX,
+  v1.4, https://doi.org/10.48539/HBM787.DMFW.993. Accessed June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -108,10 +108,12 @@ citationOverall: >-
   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ.
   Organ
   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
 datatable:
   - omap-6-pancreas-codex.csv
   - omap-6-pancreas-codex.xlsx
 references:
   - https://doi.org/10.1016/j.cell.2018.07.010
   - https://doi.org/10.48539/HBM336.TBNP.923
+  - https://doi.org/10.5281/zenodo.7742474
+ 

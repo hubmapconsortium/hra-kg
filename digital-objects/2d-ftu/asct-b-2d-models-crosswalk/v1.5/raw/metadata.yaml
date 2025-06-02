@@ -44,17 +44,16 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM455.PXDJ.289
-# doi: https://doi.org/10.48539/HBM455.PXDJ.289
-# citation: >-
-#   Supriya Bidanta (2024). *Anatomical Structures, Cell Types and Biomarkers
-#   (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library
-#   Crosswalk, v1.4*, https://doi.org/10.48539/HBM455.PXDJ.289)  Accessed on
-#   December 15, 2024.
+hubmapId: HBM475.RXGX.435
+doi: https://doi.org/10.48539/HBM475.RXGX.435
+citation: >-
+  Supriya Bidanta (2024). *Anatomical Structures, Cell Types and Biomarkers
+  (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library
+  Crosswalk, v1.5*, https://doi.org/10.48539/HBM475.RXGX.435)  Accessed on
+  June 15, 2025.
 citationOverall: >-
   Supriya Bidanta; Rachel Bajema; Ellen M. Quardokus; Bruce W. Herr II; Katy
   Börner. 2024. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
-  15, 2024.
+  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on  June 15, 2025.
 datatable:
   - asct-b-2d-models-crosswalk.csv

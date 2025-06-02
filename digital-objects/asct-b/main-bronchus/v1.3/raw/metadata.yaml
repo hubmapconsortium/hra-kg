@@ -36,11 +36,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM673.RKQV.672
-# doi: https://doi.org/10.48539/HBM673.RKQV.672
-# citation: >-
-#   Gloria Pryhuber. HuBMAP ASCT+B Tables. Main Bronchus v1.3
-#   [https://doi.org/10.48539/HBM673.RKQV.672](https://doi.org/10.48539/HBM673.RKQV.672)
+hubmapId: HBM564.JKBW.989
+doi: https://doi.org/10.48539/HBM564.JKBW.989
+citation: >-
+  Gloria Pryhuber. HuBMAP ASCT+B Tables. Main Bronchus v1.3
+  (https://doi.org/10.48539/HBM564.JKBW.989)
 citationOverall: >-
   Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
   ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,

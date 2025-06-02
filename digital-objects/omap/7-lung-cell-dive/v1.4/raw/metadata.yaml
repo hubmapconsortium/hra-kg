@@ -111,13 +111,13 @@ funders:
     awardNumber: U01HL148861-02S1
   - funder: Lung and Blood Institute
     awardNumber: U54HL145608-04
-# hubmapId: <insert hubmap ID>
-# doi: https://doi.org/10.48539/<insert hubmap ID>
-# citation: >-
-#   Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty.
-#   OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-#   Imaging of Human Lung with Cell DIVE, v1.4,
-#  <insert new doi>. Accessed on June 15, 2025.
+hubmapId: HBM952.LHQS.538
+doi: https://doi.org/10.48539/HBM952.LHQS.538
+citation: >-
+  Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty.
+  OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Lung with Cell DIVE, v1.4,
+  https://doi.org/10.48539/HBM952.LHQS.538. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C,  Rajbhandari
   P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F,  Neelakantan TV, Croteau
@@ -126,7 +126,7 @@ citationOverall: >-
   W, Gehlenborg N,  Stockwell BR, Lundberg E, Snyder MP, Germain RN, Camarillo JM,
   Kelleher NL,  Börner K, Radtke AJ. Organ Mapping Antibody Panels: a community resource  for
   standardized multiplexed tissue imaging. Nat  Methods. 2023 Aug;
-  20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed on June 15, 2025.
 datatable:
   - omap-7-lung-cell-dive.csv
   - omap-7-lung-cell-dive.xlsx
@@ -136,3 +136,4 @@ references:
   - https://doi.org/10.17504/protocols.io.b4kgqutw
   - https://doi.org/10.48539/HBM323.SGDF.945
   - https://doi.org/10.1016/j.devcel.2021.11.007
+  - https://doi.org/10.5281/zenodo.7731162

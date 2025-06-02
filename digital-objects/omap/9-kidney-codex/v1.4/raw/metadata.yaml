@@ -89,13 +89,13 @@ funders:
     awardNumber: OT2OD033756
   - funder: Intramural Research Program of the NIH
     awardNumber: OT2OD026671
-# hubmapId: HBM697.FWDQ.488
-# doi: https://doi.org/10.48539/HBM697.FWDQ.488
-# citation: >-
-#   Daria Barwinska; Tarek M. El-Achkar; Angela R. Sabo; Michael J. Ferkowicz;
-#   Seth Winfree; William S. Bowen. OMAP-9: Organ Mapping Antibody Panel (OMAP)
-#   for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX, v1.4,
-#   https://doi.org/10.48539/HBM697.FWDQ.488. Accessed on December 15, 2025.
+hubmapId: HBM657.RTHQ.837
+doi: https://doi.org/10.48539/HBM657.RTHQ.837
+citation: >-
+  Daria Barwinska; Tarek M. El-Achkar; Angela R. Sabo; Michael J. Ferkowicz;
+  Seth Winfree; William S. Bowen. OMAP-9: Organ Mapping Antibody Panel (OMAP)
+  for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX, v1.4,
+  https://doi.org/10.48539/HBM657.RTHQ.837. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -107,10 +107,12 @@ citationOverall: >-
   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ.
   Organ
   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed on June 15, 2025.
 datatable:
   - omap-9-kidney-codex.csv
   - omap-9-kidney-codex.xlsx
 references:
   - https://doi.org/10.48539/HBM268.ZQNV.826
   - https://doi.org/10.5281/zenodo.14537009
+  - https://doi.org/10.17504/protocols.io.8epv5jdbnl1b/v1
+  

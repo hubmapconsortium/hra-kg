@@ -78,12 +78,12 @@ funders:
     awardNumber: U01HL148861-02S1
   - funder: Lung and Blood Institute
     awardNumber: U54HL145608-04
-# hubmapId: HBM854.CXRG.779
-# doi: https://doi.org/10.48539/HBM854.CXRG.779
-# citation: >-
-#   Andrea J. Radtke. OMAP-11: Organ Mapping Antibody Panel (OMAP) for Multiplexed
-#   Antibody-Based Imaging of Human Spleen with IBEX, v1.2,
-#   https://doi.org/10.48539/HBM854.CXRG.779. Accessed on June 15, 2025.
+hubmapId: HBM339.SNFN.682
+doi: https://doi.org/10.48539/HBM339.SNFN.682
+citation: >-
+  Andrea J. Radtke. OMAP-11: Organ Mapping Antibody Panel (OMAP) for Multiplexed
+  Antibody-Based Imaging of Human Spleen with IBEX, v1.2,
+  https://doi.org/10.48539/HBM339.SNFN.682. Accessed on June 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
   P,
@@ -95,7 +95,7 @@ citationOverall: >-
   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ.
   Organ
   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
 datatable:
   - omap-11-spleen-ibex.csv
   - omap-11-spleen-ibex.xlsx
@@ -104,3 +104,5 @@ references:
   - https://doi.org/10.1073/pnas.2018488117
   - https://doi.org/10.1111/imm.12469
   - https://doi.org/10.5281/zenodo.5244550
+  - https://doi. org/10.1371/journal.pbio.3003070
+  - https://doi.org/10.5281/zenodo.5244551

@@ -27,20 +27,17 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM992.RCJX.478
-# doi: https://doi.org/10.48539/HBM992.RCJX.478
-# citation: >-
-#   Rachel Bajema 2024. *Mouth, Sublingual Gland Ducto-Acinar 2D FTU v.1.0.*
-#   https://doi.org/10.48539/HBM992.RCJX.478. Accessed on June 15 2025.
+hubmapId: HBM664.JPSV.649
+doi: https://doi.org/10.48539/HBM664.JPSV.649
+citation: >-
+  Rachel Bajema 2024. *Mouth, Sublingual Gland Ducto-Acinar 2D FTU v.1.0.*
+  https://doi.org/10.48539/HBM664.JPSV.649. Accessed on June 15 2025.
 citationOverall: >-
   Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
   Börner. 2025. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15
-  2024.
+  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on June 15 2025.
 datatable:
   - 2d-ftu-mouth-sublingual-gland.svg
   - 2d-ftu-mouth-sublingual-gland.png
   - 2d-ftu-mouth-sublingual-gland.ai
   - crosswalk.csv
-references:
-  - https://doi.org/10.53347/rID-24634
