@@ -13,6 +13,10 @@ creators:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
+  - fullName: Aleix Puig-Barbe
+    firstName: Aleix
+    lastName: Puig-Barbe
+    orcid: 0000-0001-6677-8489
 project_leads:
   - fullName: Katy Börner
     firstName: Katy
