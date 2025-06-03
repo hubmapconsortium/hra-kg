@@ -1,5 +1,5 @@
 title: HRA sample linkml schema
-description: Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for sample
+description: HThis schema defines a data model for biological sample management that tracks the hierarchical relationship between tissue blocks and their derived tissue sections. It captures tissue blocks as extracted pieces of tissue with spatial registration information, section counts, and physical measurements, while tissue sections represent thin slices derived from blocks with specific section numbers. The schema enables comprehensive sample provenance tracking from donor through tissue extraction to dataset generation, including spatial registration within reference atlases and detailed physical characterization of sample dimensions.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
