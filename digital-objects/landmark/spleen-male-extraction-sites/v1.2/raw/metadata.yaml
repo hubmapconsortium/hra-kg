@@ -1,6 +1,10 @@
 title: 3D Extraction Sites for Spleen Male
 description: >-
-  Extraction sites for spleen, male were defined in collaboration with subject matter experts (SMEs), who provided approximate guidance regarding typical tissue removal locations. In the initial phase of development, these sites were modeled using rectangular prisms—box-like geometries customized to each extraction region. Some visual markers indicating these regions were placed directly by the SMEs within Blender, while others were positioned based on SME descriptions.  
+  Extraction sites for spleen, male were defined in collaboration with subject matter experts (SMEs), who provided
+  approximate guidance regarding typical tissue removal locations. In the initial phase of development, these sites were
+  modeled using rectangular prisms—box-like geometries customized to each extraction region. Some visual markers
+  indicating these regions were placed directly by the SMEs within Blender, while others were positioned based on SME
+  descriptions.
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce
@@ -12,8 +16,7 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

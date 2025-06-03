@@ -1,16 +1,33 @@
 title: >-
-  OMAP-3 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based
-  Imaging of Kidney with CODEX
+  OMAP-3 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Kidney with CODEX
 description: >-
-  OMAP-3 was designed for CODEX (CO Detection by indEXing) of fresh frozen human kidney samples (Black et al. 2021; 2021). The panel contains 24 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. Additional details on tissue preparation, panel design, image analysis, and representative images can be found in accompanying publications (Neumann et al. 2022; 2021). This OMAP provides a spatial context for all anatomical structures and most cell types present in the ASCT+B kidney table v1.1 (Jain, Valerius, and He 2021). Additionally, the inclusion of tryptase and MARCKS allow profiling of different regions in the glomeruli that are often affected by disease. Several cell types are identified by their morphology, location in the kidney, and expression of Cytokeratin 7. The panel was designed to provide a survey of the cell types found in the kidney and does not allow for granular phenotyping of immune cell populations. However, mast cells, NK cells, T cells, and B cells are broadly classified by several markers included in this OMAP. The core and essential protein biomarkers detailed here overlap (>40%) with a panel developed for multiplexed imaging of kidney samples using imaging mass cytometry (IMC) (Singh et al. 2019). A representative dataset can be found here: (Neumann and Farrow 2023).
+  OMAP-3 was designed for CODEX (CO Detection by indEXing) of fresh frozen human kidney samples (Black et al. 2021;
+  2021). The panel contains 24 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation.
+  Additional details on tissue preparation, panel design, image analysis, and representative images can be found in
+  accompanying publications (Neumann et al. 2022; 2021). This OMAP provides a spatial context for all anatomical
+  structures and most cell types present in the ASCT+B kidney table v1.1 (Jain, Valerius, and He 2021). Additionally,
+  the inclusion of tryptase and MARCKS allow profiling of different regions in the glomeruli that are often affected by
+  disease. Several cell types are identified by their morphology, location in the kidney, and expression of Cytokeratin
+  7. The panel was designed to provide a survey of the cell types found in the kidney and does not allow for granular
+  phenotyping of immune cell populations. However, mast cells, NK cells, T cells, and B cells are broadly classified by
+  several markers included in this OMAP. The core and essential protein biomarkers detailed here overlap (>40%) with a
+  panel developed for multiplexed imaging of kidney samples using imaging mass cytometry (IMC) (Singh et al. 2019). A
+  representative dataset can be found here: (Neumann and Farrow 2023).
 
-  Bibliography:
-  Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated Antibodies.” Nature Protocols 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
-  Jain, Sanjey, M. Todd Valerius, and Yongqun He. 2021. “Kidney (v1.1) Graph Data, v1.1.” 2021. https://lod.humanatlas.io/asct-b/kidney/v1.1/.
-  Neumann, Elizabeth K., and Melissa Farrow. 2023. “OMAP Kidney-3.” Zenodo. https://zenodo.org/records/8082943.
-  Neumann, Elizabeth K., Nathan Heath Patterson, Jamie L. Allen, Lukasz G. Migas, Haichun Yang, Maya Brewer, David M. Anderson, et al. 2021. “Protocol for Multimodal Analysis of Human Kidney Tissue by Imaging Mass Spectrometry and CODEX Multiplexed Immunofluorescence.” STAR Protocols 2 (3): 100747. https://doi.org/10.1016/j.xpro.2021.100747.
-  Neumann, Elizabeth K., Nathan Heath Patterson, Emilio S. Rivera, Jamie L. Allen, Maya Brewer, Mark P. deCaestecker, Richard M. Caprioli, Agnes B. Fogo, and Jeffrey M. Spraggins. 2022. “Highly Multiplexed Immunofluorescence of the Human Kidney Using Co-Detection by Indexing.” Kidney International 101 (1): 137–43. https://doi.org/10.1016/j.kint.2021.08.033.
-  Singh, Nikhil, Zachary M. Avigan, Judith A. Kliegel, Brian M. Shuch, Ruth R. Montgomery, Gilbert W. Moeckel, and Lloyd G. Cantley. 2019. “Development of a 2-Dimensional Atlas of the Human Kidney with Imaging Mass Cytometry.” JCI Insight 4 (12). https://doi.org/10.1172/jci.insight.129477.
+  Bibliography: Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay
+  Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with
+  DNA-Conjugated Antibodies.” Nature Protocols 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8. Jain,
+  Sanjey, M. Todd Valerius, and Yongqun He. 2021. “Kidney (v1.1) Graph Data, v1.1.” 2021.
+  https://lod.humanatlas.io/asct-b/kidney/v1.1/. Neumann, Elizabeth K., and Melissa Farrow. 2023. “OMAP Kidney-3.”
+  Zenodo. https://zenodo.org/records/8082943. Neumann, Elizabeth K., Nathan Heath Patterson, Jamie L. Allen, Lukasz G.
+  Migas, Haichun Yang, Maya Brewer, David M. Anderson, et al. 2021. “Protocol for Multimodal Analysis of Human Kidney
+  Tissue by Imaging Mass Spectrometry and CODEX Multiplexed Immunofluorescence.” STAR Protocols 2 (3): 100747.
+  https://doi.org/10.1016/j.xpro.2021.100747. Neumann, Elizabeth K., Nathan Heath Patterson, Emilio S. Rivera, Jamie L.
+  Allen, Maya Brewer, Mark P. deCaestecker, Richard M. Caprioli, Agnes B. Fogo, and Jeffrey M. Spraggins. 2022. “Highly
+  Multiplexed Immunofluorescence of the Human Kidney Using Co-Detection by Indexing.” Kidney International 101 (1):
+  137–43. https://doi.org/10.1016/j.kint.2021.08.033. Singh, Nikhil, Zachary M. Avigan, Judith A. Kliegel, Brian M.
+  Shuch, Ruth R. Montgomery, Gilbert W. Moeckel, and Lloyd G. Cantley. 2019. “Development of a 2-Dimensional Atlas of
+  the Human Kidney with Imaging Mass Cytometry.” JCI Insight 4 (12). https://doi.org/10.1172/jci.insight.129477.
 creators:
   - fullName: Elizabeth K. Neumann
     firstName: Elizabeth
@@ -65,31 +82,25 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: >-
-      National Institutes of Health and National Institute of Diabetes and
-      Digestive and Kidney Diseases (NIDDK)
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
     awardNumber: OT2OD026671
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
   - funder: >-
-      National Institutes of Health and National Institute of Diabetes and
-      Digestive and Kidney Diseases (NIDDK)
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
     awardNumber: UH3 CA246635
   - funder: >-
-      National Institutes of Health and National Institute of Diabetes and
-      Digestive and Kidney Diseases (NIDDK)
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
     awardNumber: U54DK120058
   - funder: >-
-      National Institutes of Health and National Institute of Diabetes and
-      Digestive and Kidney Diseases (NIDDK)
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
     awardNumber: T32ES00702
   - funder: >-
-      National Institutes of Health and National Institute of Diabetes and
-      Digestive and Kidney Diseases (NIDDK)
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
     awardNumber: 1F32DK128887-01A1
 hubmapId: HBM989.WTJW.393
 doi: https://doi.org/10.48539/HBM989.WTJW.393

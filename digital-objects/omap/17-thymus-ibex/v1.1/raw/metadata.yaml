@@ -1,19 +1,50 @@
 title: >-
-  OMAP-17: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging
-  of Thymus with IBEX
+  OMAP-17: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Thymus with IBEX
 description: >-
-  OMAP-17 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human pediatric thymus samples (Radtke et al. 2022; 2020). The panel consists of 9 cycles of 43 primary antibodies, 6 secondary antibodies, and the nuclear label Hoechst for image alignment and nuclear segmentation. This OMAP provides a spatial context for 7 anatomical structures and more than 30 cell types and cell states (dividing, immature, precommitted) present in the ASCT+B thymus table (Brusko, Beuschel, and Radtke 2023). This panel was specifically designed to phenotype unique, and often rare, populations of thymic epithelial cells (TECs) of the medulla, e.g., myo-TECs and neuro-TECs. Marker selection was guided by companion studies using advanced sequencing methods (scRNA-seq and CITE-seq) as well as expert review. OMAP-17 is the first OMAP for the human thymus but targets several stromal and immune cell types included in OMAPs for other lymphoid organs. OMAP-1 (lymph node) (Radtke 2023a), OMAP-11 (spleen) (Radtke 2023b), and OMAP-10 (tonsil) (Müller, Rüberg, and Bosio 2023). This OMAP does not contain markers for phenotyping plasma cells or ionocytes/tuft TECs. CD1a, a critical marker for developing thymocytes, was removed from OMAP-17 due to steric hindrance of T cell markers in later cycles. Several antibodies required custom conjugation by commercial suppliers or in house via antibody conjugation kits (e.g., Alexa Fluor 532 and iFluor 594 conjugates). This work is included in a spatial thymus atlas constructed by the Human Cell Atlas. Additional details on image analysis, data integration, and the establishment of a common coordinate framework for the thymus can be found in the accompanying paper (Yayon et al. 2024). Note that three of the antibodies have been discontinued since this OMAP-17 was created: Novus Biologicals (KRT10: catalog #: NBP2-54402PE), Novus Biologicals (LY75: catalog #: NBP2-75467), and this detection reagent from Thermo Fisher Scientific (catalogy #: Z25303). Representative datasets can be accessed on Image Data Resource (https://idr.openmicroscopy.org) using the link supplied here (Image Data Resource 2025). Additional details on the IBEX method, sample preparation, reagent validation, and example datasets can be found on the IBEX Knowledge-Base (Radtke et al. 2025, Yaniv et al. 2025).
+  OMAP-17 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human pediatric
+  thymus samples (Radtke et al. 2022; 2020). The panel consists of 9 cycles of 43 primary antibodies, 6 secondary
+  antibodies, and the nuclear label Hoechst for image alignment and nuclear segmentation. This OMAP provides a spatial
+  context for 7 anatomical structures and more than 30 cell types and cell states (dividing, immature, precommitted)
+  present in the ASCT+B thymus table (Brusko, Beuschel, and Radtke 2023). This panel was specifically designed to
+  phenotype unique, and often rare, populations of thymic epithelial cells (TECs) of the medulla, e.g., myo-TECs and
+  neuro-TECs. Marker selection was guided by companion studies using advanced sequencing methods (scRNA-seq and
+  CITE-seq) as well as expert review. OMAP-17 is the first OMAP for the human thymus but targets several stromal and
+  immune cell types included in OMAPs for other lymphoid organs. OMAP-1 (lymph node) (Radtke 2023a), OMAP-11 (spleen)
+  (Radtke 2023b), and OMAP-10 (tonsil) (Müller, Rüberg, and Bosio 2023). This OMAP does not contain markers for
+  phenotyping plasma cells or ionocytes/tuft TECs. CD1a, a critical marker for developing thymocytes, was removed from
+  OMAP-17 due to steric hindrance of T cell markers in later cycles. Several antibodies required custom conjugation by
+  commercial suppliers or in house via antibody conjugation kits (e.g., Alexa Fluor 532 and iFluor 594 conjugates). This
+  work is included in a spatial thymus atlas constructed by the Human Cell Atlas. Additional details on image analysis,
+  data integration, and the establishment of a common coordinate framework for the thymus can be found in the
+  accompanying paper (Yayon et al. 2024). Note that three of the antibodies have been discontinued since this OMAP-17
+  was created: Novus Biologicals (KRT10: catalog #: NBP2-54402PE), Novus Biologicals (LY75: catalog #: NBP2-75467), and
+  this detection reagent from Thermo Fisher Scientific (catalogy #: Z25303). Representative datasets can be accessed on
+  Image Data Resource (https://idr.openmicroscopy.org) using the link supplied here (Image Data Resource 2025).
+  Additional details on the IBEX method, sample preparation, reagent validation, and example datasets can be found on
+  the IBEX Knowledge-Base (Radtke et al. 2025, Yaniv et al. 2025).
 
-  Bibliography:
-  Brusko, Maigan, Rebecca T. Beuschel, and Andrea J. Radtke. 2023. “Thymus (v1.4) Graph Data, v1.4.” 2023. https://lod.humanatlas.io/asct-b/thymus/v1.4/.
-  Image Data Resource. 2025. “Webclient for Image Data Resource.” 2025. https://idr.openmicroscopy.org/webclient/?show=project-3051.
-  Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023. “10-Palatine-Tonsil-Mics (v1.0) Graph Data, v1.0.” 2023. https://lod.humanatlas.io/omap/10-palatine-tonsil-mics/v1.0/.
-  Radtke, Andrea J. 2023a. “1-Human-Lymph-Node-Ibex (v1.3) Graph Data, v1.3.” 2023. https://lod.humanatlas.io/omap/1-human-lymph-node-ibex/v1.3/.
-  ———. 2023b. “11-Spleen-Ibex (v1.0) Graph Data, v1.0.” 2023. https://lod.humanatlas.io/omap/11-spleen-ibex/v1.0/.
-  Radtke, Andrea J., Colin J. Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T. Beuschel, Hiroshi Ichise, et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” Nature Protocols 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
-  Radtke, Andrea J., Evelyn Kandov, Bradley Lowekamp, Emily Speranza, Colin J. Chu, Anita Gola, Nishant Thakur, et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial Analysis of Cells in Complex Tissues.” Proceedings of the National Academy of Sciences 117 (52): 33455–65. https://doi.org/10.1073/pnas.2018488117.
-  Yayon, Nadav, Veronika R. Kedlian, Lena Boehme, Chenqu Suo, Brianna T. Wachter, Rebecca T. Beuschel, Oren Amsalem, et al. 2024. “A Spatial Human Thymus Cell Atlas Mapped to a Continuous Tissue Axis.” Nature 635 (8039): 708–18. https://doi.org/10.1038/s41586-024-07944-6.
-  Radtke, Andrea J., Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et al. 2025. “The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques.” PLoS Biol 23(3): e3003070. https://doi. org/10.1371/journal.pbio.3003070."                                                                                                                                                                                  Yaniv, Ziv, Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of Immunofluoresence Imaging Methods.” eLife14:RP105737.
+  Bibliography: Brusko, Maigan, Rebecca T. Beuschel, and Andrea J. Radtke. 2023. “Thymus (v1.4) Graph Data, v1.4.” 2023.
+  https://lod.humanatlas.io/asct-b/thymus/v1.4/. Image Data Resource. 2025. “Webclient for Image Data Resource.” 2025.
+  https://idr.openmicroscopy.org/webclient/?show=project-3051. Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023.
+  “10-Palatine-Tonsil-Mics (v1.0) Graph Data, v1.0.” 2023. https://lod.humanatlas.io/omap/10-palatine-tonsil-mics/v1.0/.
+  Radtke, Andrea J. 2023a. “1-Human-Lymph-Node-Ibex (v1.3) Graph Data, v1.3.” 2023.
+  https://lod.humanatlas.io/omap/1-human-lymph-node-ibex/v1.3/. ———. 2023b. “11-Spleen-Ibex (v1.0) Graph Data, v1.0.”
+  2023. https://lod.humanatlas.io/omap/11-spleen-ibex/v1.0/. Radtke, Andrea J., Colin J. Chu, Ziv Yaniv, Li Yao, James
+  Marr, Rebecca T. Beuschel, Hiroshi Ichise, et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching
+  Method for High-Content Imaging of Diverse Tissues.” Nature Protocols 17 (2): 378–401.
+  https://doi.org/10.1038/s41596-021-00644-9. Radtke, Andrea J., Evelyn Kandov, Bradley Lowekamp, Emily Speranza, Colin
+  J. Chu, Anita Gola, Nishant Thakur, et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep
+  Phenotyping and Spatial Analysis of Cells in Complex Tissues.” Proceedings of the National Academy of Sciences 117
+  (52): 33455–65. https://doi.org/10.1073/pnas.2018488117. Yayon, Nadav, Veronika R. Kedlian, Lena Boehme, Chenqu Suo,
+  Brianna T. Wachter, Rebecca T. Beuschel, Oren Amsalem, et al. 2024. “A Spatial Human Thymus Cell Atlas Mapped to a
+  Continuous Tissue Axis.” Nature 635 (8039): 708–18. https://doi.org/10.1038/s41586-024-07944-6. Radtke, Andrea J.,
+  Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et
+  al. 2025. “The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques.” PLoS Biol 23(3): e3003070.
+  https://doi.
+  org/10.1371/journal.pbio.3003070."                                                                                                                                                                                  Yaniv,
+  Ziv, Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu,
+  et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of
+  Immunofluoresence Imaging Methods.” eLife14:RP105737.
 creators:
   - fullName: Andrea J. Radtke
     firstName: Andrea
@@ -92,8 +123,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

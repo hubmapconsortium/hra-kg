@@ -1,30 +1,21 @@
 title: >-
-  OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Lung with Cell DIVE
+  OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE
 description: >-
-  OMAP-7 was designed for Cell DIVE imaging of Formalin-Fixed Paraffin-Embedded
-  (FFPE) lung tissue. Cell DIVE enables highly multiplexed single cell analysis
-  using antibody-based imaging (Gerdes, MJ. et al, 2013). The tissue slides were
-  prepared with a two-step antigen retrieval process (pH 6 and pH 9, as
-  described https://dx.doi.org/10.17504/protocols.io.bpwumpew. Antigens were
-  detected using either primary antibodies with fluorophore-labeled secondaries
-  or fluorescent dye conjugated antibodies (protocol can be found
-  https://dx.doi.org/10.17504/protocols.io.b4kgqutw. The panel contains 30
-  antibodies, 4 of which are used for cell segmentation (Na/K ATPase,
-  Cytokeratin, Cadherin, and S6) and the nuclear marker DAPI for image alignment
-  and nuclear segmentation. This OMAP provides a spatial context for key cell
-  types in the[ASCT+B lung table
-  v1.1](https://doi.org/10.48539/HBM323.SGDF.945).   Additionally, the inclusion
-  of protein biomarkers such as AGTR1, Cathepsin L, TMPRSS2, ICAM-1, and CD55
-  allow characterization of proteins relevant to SARS-CoV-2 infection and
-  profiling of the renin-angiotensin system (RAS) that may play a role in
-  COVID-19 disease. The core and essential protein biomarkers detailed here
-  overlap (~25%) with the panel developed for multiplexed imaging of lung
-  samples established using conventional automated IHC staining for
-  FFPE-material  (Dr. Christopher Werlein, an expert lung pathologist).  This
-  OMAP does not contain antibodies for typing subsets of fibroblasts,
-  macrophages, or endothelial cells. A representative dataset using this OMAP
-  can be found here: https://zenodo.org/record/7731162#.ZBmz2nbMIuU.
+  OMAP-7 was designed for Cell DIVE imaging of Formalin-Fixed Paraffin-Embedded (FFPE) lung tissue. Cell DIVE enables
+  highly multiplexed single cell analysis using antibody-based imaging (Gerdes, MJ. et al, 2013). The tissue slides were
+  prepared with a two-step antigen retrieval process (pH 6 and pH 9, as described
+  https://dx.doi.org/10.17504/protocols.io.bpwumpew. Antigens were detected using either primary antibodies with
+  fluorophore-labeled secondaries or fluorescent dye conjugated antibodies (protocol can be found
+  https://dx.doi.org/10.17504/protocols.io.b4kgqutw. The panel contains 30 antibodies, 4 of which are used for cell
+  segmentation (Na/K ATPase, Cytokeratin, Cadherin, and S6) and the nuclear marker DAPI for image alignment and nuclear
+  segmentation. This OMAP provides a spatial context for key cell types in the[ASCT+B lung table
+  v1.1](https://doi.org/10.48539/HBM323.SGDF.945).   Additionally, the inclusion of protein biomarkers such as AGTR1,
+  Cathepsin L, TMPRSS2, ICAM-1, and CD55 allow characterization of proteins relevant to SARS-CoV-2 infection and
+  profiling of the renin-angiotensin system (RAS) that may play a role in COVID-19 disease. The core and essential
+  protein biomarkers detailed here overlap (~25%) with the panel developed for multiplexed imaging of lung samples
+  established using conventional automated IHC staining for FFPE-material  (Dr. Christopher Werlein, an expert lung
+  pathologist).  This OMAP does not contain antibodies for typing subsets of fibroblasts, macrophages, or endothelial
+  cells. A representative dataset using this OMAP can be found here: https://zenodo.org/record/7731162#.ZBmz2nbMIuU.
 creators:
   - fullName: Christine Surrette
     firstName: Christine
@@ -93,10 +84,9 @@ reviewers:
     lastName: Rajbhandari
     orcid: 0000-0003-2184-7238
 externalReviewers: []
-creation_date: '2023-06-15'
+creation_date: "2023-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
@@ -104,8 +94,7 @@ funders:
   - funder: Intramural Research Program of the NIH
     awardNumber: UH3 CA246635
   - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer
-      Institute
+      National Institute of Allergy and Infectious Disease and National Cancer Institute
     awardNumber: OT2OD026671
   - funder: National Heart
     awardNumber: U01HL148861-02S1
@@ -114,16 +103,13 @@ funders:
 hubmapId: HBM933.MRZD.495
 doi: https://doi.org/10.48539/HBM933.MRZD.495
 citation: >-
-  Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty.
-  OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Lung with Cell DIVE, v1.2,
-  https://doi.org/10.48539/HBM933.MRZD.495. Accessed on June 15, 2023.
+  Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty. OMAP-7 Organ Mapping Antibody Panel (OMAP)
+  for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE, v1.2, https://doi.org/10.48539/HBM933.MRZD.495.
+  Accessed on June 15, 2023.
 citationOverall: >-
-  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo,
-  Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021.
-  “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for
-  Multiplexed Antibody-Based Imaging.” *Nature Methods*, November.
-  https://doi.org/10.1038/s41592-021-01316-y.
+  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre
+  Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer
+  for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.
 datatable:
   - omap-7-lung-cell-dive.csv
   - omap-7-lung-cell-dive.xlsx

@@ -1,13 +1,10 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Brain
 description: >-
-  [Brain
-  v1.5](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-allen-brain.csv)
-  is a minor update of the table that provides parent cell type mappings to Cell
-  Ontology for the specific cell types that were added to [Brain
-  v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-allen-brain.csv),
-  but do not yet have Cell Ontology (CL) or Provisional Cell Ontology (PCL) IDs.
-  More of the brain anatomy was also mapped to the Uberon multispecies anatomy
-  ontology based on exact matching synonym terms.
+  [Brain v1.5](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-allen-brain.csv) is a minor update of the table
+  that provides parent cell type mappings to Cell Ontology for the specific cell types that were added to [Brain
+  v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-allen-brain.csv), but do not yet have Cell Ontology
+  (CL) or Provisional Cell Ontology (PCL) IDs. More of the brain anatomy was also mapped to the Uberon multispecies
+  anatomy ontology based on exact matching synonym terms.
 creators:
   - fullName: Jeremy A. Miller
     firstName: Jeremy
@@ -42,8 +39,7 @@ reviewers:
 externalReviewers: []
 creation_date: 2023-12-15
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -53,12 +49,10 @@ funders:
 hubmapId: HBM474.JXRC.885
 doi: https://doi.org/10.48539/HBM474.JXRC.885
 citation: >-
-  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables.
-  Brain v1.5,https://doi.org/10.48539/HBM474.JXRC.885, Accessed on December 15,
-  2023.
+  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables. Brain
+  v1.5,https://doi.org/10.48539/HBM474.JXRC.885, Accessed on December 15, 2023.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
-  2023.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B
+  Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2023.
 datatable:
   - asct-b-allen-brain.csv

@@ -1,6 +1,9 @@
 title: 2D Parotid Gland Ducto-Acinar for Mouth
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to the parotid gland ducto-acinar FTU in the ASCT+B Table [Mouth v1.0] (link to table TBD). Uberon describes this FTU as follows: "The parotid gland is the largest of the salivary glands. It is found wrapped around the mandibular ramus, and it secretes saliva through Stensen's duct into the oral cavity, to facilitate mastication and swallowing." 
+  This functional tissue unit (FTU) illustration includes cell types related to the parotid gland ducto-acinar FTU in
+  the ASCT+B Table [Mouth v1.0] (link to table TBD). Uberon describes this FTU as follows: "The parotid gland is the
+  largest of the salivary glands. It is found wrapped around the mandibular ramus, and it secretes saliva through
+  Stensen's duct into the oral cavity, to facilitate mastication and swallowing."
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -19,8 +22,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -30,11 +32,11 @@ funders:
 hubmapId: HBM466.TLJQ.498
 doi: https://doi.org/10.48539/HBM466.TLJQ.498
 citation: >-
-  Bajema, Rachel. 2024. *Mouth, Parotid Gland Ducto-Acinar 2D FTU v.1.0*.
-  https://doi.org/10.48539/HBM466.TLJQ.498. Accessed on June 15, 2025.
+  Bajema, Rachel. 2024. *Mouth, Parotid Gland Ducto-Acinar 2D FTU v.1.0*. https://doi.org/10.48539/HBM466.TLJQ.498.
+  Accessed on June 15, 2025.
 citationOverall: >-
-  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025.
-  *HuBMAP CCF 2D Reference Object Library*. Accessed on June 15, 2025. https://humanatlas.io/2d-ftu-illustrations). 
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. *HuBMAP CCF 2D Reference
+  Object Library*. Accessed on June 15, 2025. https://humanatlas.io/2d-ftu-illustrations).
 datatable:
   - 2d-ftu-mouth-parotid-gland.svg
   - 2d-ftu-mouth-parotid-gland.png

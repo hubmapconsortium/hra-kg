@@ -1,8 +1,7 @@
 title: 2D Intercalated Duct FTU for Pancreas
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to
-  the intercalated duct FTU in the Anatomical Structures, Cell Types and
-  Biomarkers table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557).
+  This functional tissue unit (FTU) illustration includes cell types related to the intercalated duct FTU in the
+  Anatomical Structures, Cell Types and Biomarkers table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557).
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -19,10 +18,9 @@ reviewers:
     lastName: Campbell-Thompson
     orcid: 0000-0001-6878-1235
 externalReviewers: []
-creation_date: '2022-12-15'
+creation_date: "2022-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -30,13 +28,11 @@ funders:
 hubmapId: HBM458.HKKL.976
 doi: https://doi.org/10.48539/HBM458.HKKL.976
 citation: >-
-  Rachel Bajema 2022. *Pancreas, Intercalated Duct 2D FTU v.1.0.*
-  https://doi.org/10.48539/HBM458.HKKL.976. Accessed on December 15 2022.
+  Rachel Bajema 2022. *Pancreas, Intercalated Duct 2D FTU v.1.0.* https://doi.org/10.48539/HBM458.HKKL.976. Accessed on
+  December 15 2022.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2022. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15
-  2022.
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference
+  Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15 2022.
 datatable:
   - 2d-ftu-pancreas-intercalated-duct.svg
   - 2d-ftu-pancreas-intercalated-duct.png

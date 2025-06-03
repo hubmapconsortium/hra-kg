@@ -1,12 +1,28 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Prostate
 description: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Prostate ASCT+B table represents terms related to the adult human prostate. These include both macroscopic and microscopic anatomical structures, major cell types, and protein biomarkers specific for each cell type listed. This table was generated based on published histopathologic nomenclature, as well as published literature on cell-type specific biomarkers. Most of the markers listed are observed in more than one study or orthogonally validated. Note that these are predicted markers and a single marker to annotate a cell type is not likely sufficient or specific. Where more refined cell types are not available in the ontologies, the closest general term is used. For example, there are likely multiple types of prostate stromal cells; however, further characterization is needed to distinguish between these cell types. Where cells of similar type occur in different locations, the closest and highest level of resolution available is used. For example, basal epithelial cells and luminal epithelial cells occur in multiple different contexts within the prostate, including the peripheral zone, central zone, and transition zone.
-  
-  Bibliography:
-  Madissoon, E., A. Wilbrey-Clark, R. J. Miragaia, K. Saeb-Parsy, K. T. Mahbubani, N. Georgakopoulos, P. Harding, et al. 2019. “scRNA-Seq Assessment of the Human Lung, Spleen, and Esophagus Tissue Stability after Cold Preservation.” Genome Biology 21 (1): 1. https://doi.org/10.1186/s13059-019-1906-x.
-  Steiniger, B. S., V. Wilhelmi, M. Berthold, M. Guthe, and O. Lobachev. 2018. “Locating Human Splenic Capillary Sheaths in Virtual Reality.” Scientific Reports 8 (1): 15720. https://doi.org/10.1038/s41598-018-34105-3.
-  Steiniger, Birte S. 2015. “Human Spleen Microanatomy: Why Mice Do Not Suffice.” Immunology 145 (3): 334–46. https://doi.org/10.1111/imm.12469.
-  Steiniger, Birte, Vitus Stachniss, Hans Schwarzbach, and Peter J. Barth. 2007. “Phenotypic Differences between Red Pulp Capillary and Sinusoidal Endothelia Help Localizing the Open Splenic Circulation in Humans.” Histochemistry and Cell Biology 128 (5): 391–98. https://doi.org/10.1007/s00418-007-0320-8.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
+  authored and reviewed by an international team of experts. The Prostate ASCT+B table represents terms related to the
+  adult human prostate. These include both macroscopic and microscopic anatomical structures, major cell types, and
+  protein biomarkers specific for each cell type listed. This table was generated based on published histopathologic
+  nomenclature, as well as published literature on cell-type specific biomarkers. Most of the markers listed are
+  observed in more than one study or orthogonally validated. Note that these are predicted markers and a single marker
+  to annotate a cell type is not likely sufficient or specific. Where more refined cell types are not available in the
+  ontologies, the closest general term is used. For example, there are likely multiple types of prostate stromal cells;
+  however, further characterization is needed to distinguish between these cell types. Where cells of similar type occur
+  in different locations, the closest and highest level of resolution available is used. For example, basal epithelial
+  cells and luminal epithelial cells occur in multiple different contexts within the prostate, including the peripheral
+  zone, central zone, and transition zone.
+
+  Bibliography: Madissoon, E., A. Wilbrey-Clark, R. J. Miragaia, K. Saeb-Parsy, K. T. Mahbubani, N. Georgakopoulos, P.
+  Harding, et al. 2019. “scRNA-Seq Assessment of the Human Lung, Spleen, and Esophagus Tissue Stability after Cold
+  Preservation.” Genome Biology 21 (1): 1. https://doi.org/10.1186/s13059-019-1906-x. Steiniger, B. S., V. Wilhelmi, M.
+  Berthold, M. Guthe, and O. Lobachev. 2018. “Locating Human Splenic Capillary Sheaths in Virtual Reality.” Scientific
+  Reports 8 (1): 15720. https://doi.org/10.1038/s41598-018-34105-3. Steiniger, Birte S. 2015. “Human Spleen
+  Microanatomy: Why Mice Do Not Suffice.” Immunology 145 (3): 334–46. https://doi.org/10.1111/imm.12469. Steiniger,
+  Birte, Vitus Stachniss, Hans Schwarzbach, and Peter J. Barth. 2007. “Phenotypic Differences between Red Pulp Capillary
+  and Sinusoidal Endothelia Help Localizing the Open Splenic Circulation in Humans.” Histochemistry and Cell Biology 128
+  (5): 391–98. https://doi.org/10.1007/s00418-007-0320-8.
 creators:
   - fullName: Douglas Strand
     firstName: Douglas
@@ -27,10 +43,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: "2023-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -54,4 +69,3 @@ references:
   - https://doi.org/10.1038/s41598-018-34105-3
   - https://doi.org/10.1111/imm.12469
   - https://doi.org/10.1007/s00418-007-0320-8
-

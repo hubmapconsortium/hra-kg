@@ -1,6 +1,10 @@
 title: HRA ref-organ linkml schema
 description: >-
-  This schema defines the structure for representing 3D reference organs and their spatial entities within the Human Reference Atlas project. It models anatomical structures as spatial entities with dimensional properties, placement information, and relationships to extraction sets for data analysis. The schema supports the representation of organ metadata, anatomical references using UBERON and FMA ontologies, and spatial placement data for anatomical mapping and registration purposes.
+  This schema defines the structure for representing 3D reference organs and their spatial entities within the Human
+  Reference Atlas project. It models anatomical structures as spatial entities with dimensional properties, placement
+  information, and relationships to extraction sets for data analysis. The schema supports the representation of organ
+  metadata, anatomical references using UBERON and FMA ontologies, and spatial placement data for anatomical mapping and
+  registration purposes.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -20,10 +24,9 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

@@ -1,9 +1,8 @@
 title: 3D Reference Organ for Skin, Male
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Male, provided by the National Library of
-  Medicine. It was adjusted to add space for the triceps surae and the ankle
-  bones for the eventual addition of the triceps surae muscles.
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male,
+  provided by the National Library of Medicine. It was adjusted to add space for the triceps surae and the ankle bones
+  for the eventual addition of the triceps surae muscles.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -24,10 +23,9 @@ reviewers:
     lastName: Ginty
     orcid: 0000-0001-6638-683X
 externalReviewers: []
-creation_date: '2022-05-06'
+creation_date: "2022-05-06"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -36,12 +34,10 @@ hubmapId: HBM369.SBSP.863
 doi: https://doi.org/10.48539/HBM369.SBSP.863
 citation: >-
   Kristen Browne. 2021. *3D Reference Organ for Skin, Male v1.2.*
-  [https://doi.org/10.48539/HBM369.SBSP.863](https://doi.org/10.48539/HBM369.SBSP.863).
-  Accessed on May 06, 2022.
+  [https://doi.org/10.48539/HBM369.SBSP.863](https://doi.org/10.48539/HBM369.SBSP.863). Accessed on May 06, 2022.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2022. *HuBMAP CCF 3D Reference Object Library*.
-  https://humanatlas.io/3d-reference-library. Accessed on May 06, 2022.
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2022. *HuBMAP CCF
+  3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on May 06, 2022.
 datatable:
   - VH_M_Skin.glb
   - crosswalk.csv

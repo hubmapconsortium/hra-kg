@@ -1,6 +1,10 @@
 title: HRA asct-b linkml schema
 description: >-
-  This schema defines a data model for ASCT+B (Anatomical Structures, Cell Types and Biomarkers) tables that systematically organize knowledge about the relationships between anatomical structures, cell types, and their molecular markers. It captures hierarchical anatomical organization, cell type classifications and locations, and the biomarkers (genes, proteins, lipids, metabolites, proteoforms) that characterize specific cell types within particular anatomical contexts.
+  This schema defines a data model for ASCT+B (Anatomical Structures, Cell Types and Biomarkers) tables that
+  systematically organize knowledge about the relationships between anatomical structures, cell types, and their
+  molecular markers. It captures hierarchical anatomical organization, cell type classifications and locations, and the
+  biomarkers (genes, proteins, lipids, metabolites, proteoforms) that characterize specific cell types within particular
+  anatomical contexts.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -20,10 +24,9 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

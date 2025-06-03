@@ -1,8 +1,10 @@
 title: Crosswalk of pan-human Azimuth annotated cells to Cell Ontology
 description: >-
-  This crosswalk maps the cell type annotations from pan-human Azimuth to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl 
+  This crosswalk maps the cell type annotations from pan-human Azimuth to the latest revision of Cell Ontology Version
+  IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl 
 
-  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
+  available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data.
 creators:
   - fullName: Aleix Puig-Barbe
     firstName: Aleix
@@ -23,10 +25,9 @@ reviewers:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 externalReviewers: []
-creation_date: '2025-06-15'
+creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -36,8 +37,8 @@ funders:
 # hubmapId: HBM896.TKLN.495
 # doi: https://doi.org/10.48539/HBM896.TKLN.495
 # citation: >-
-# Puig-Barbe, Aleix.	
-# 2025.	"Crosswalk of Pan-Human Azimuth Annotated Cells to Cell Ontology, v1.0."	
+# Puig-Barbe, Aleix.
+# 2025.	"Crosswalk of Pan-Human Azimuth Annotated Cells to Cell Ontology, v1.0."
 # https://doi.org/10.48539/HBM896.TKLN.495.	Accessed June 15, 2025.
 datatable:
   - pan-human-azimuth-crosswalk.csv

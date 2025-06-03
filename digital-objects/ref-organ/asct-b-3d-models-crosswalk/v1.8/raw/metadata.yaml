@@ -1,16 +1,23 @@
 title: >-
-  Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D
-  Reference Object Library Crosswalk
+  Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk
 description: >-
-  This lookup table associates anatomical structure terms used in the 3D Reference Object Library (https://humanatlas.io/3d-reference-library) to Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table (https://humanatlas.io/asctb-tables) (Börner et al. 2021) via ontology IDs from Uberon (Mungall et al. 2012) and Foundational Model of Anatomy (Golbreich, Grosjean, and Darmoni 2013; Rosse and Mejino 2003).
+  This lookup table associates anatomical structure terms used in the 3D Reference Object Library
+  (https://humanatlas.io/3d-reference-library) to Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table
+  (https://humanatlas.io/asctb-tables) (Börner et al. 2021) via ontology IDs from Uberon (Mungall et al. 2012) and
+  Foundational Model of Anatomy (Golbreich, Grosjean, and Darmoni 2013; Rosse and Mejino 2003).
 
-  Bibliography:
-  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” Nature Cell Biology 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
+  Bibliography: Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David
+  Osumi-Sutherland, Bruce W. Herr, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference
+  Atlas.” Nature Cell Biology 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
 
-  Golbreich, Christine, Julien Grosjean, and Stefan Jacques Darmoni. 2013. “The Foundational Model of Anatomy in OWL 2 and Its Use.” Artificial Intelligence in Medicine 57 (2): 119–32. https://doi.org/10.1016/j.artmed.2012.11.002.                                                                                                                                                                                                  
-  Rosse, Cornelius, and José L.V. Mejino. 2003. “A Reference Ontology for Biomedical Informatics: The Foundational Model of Anatomy.” Journal of Biomedical Informatics 36 (6): 478–500. https://doi.org/10.1016/j.jbi.2003.11.007.
+  Golbreich, Christine, Julien Grosjean, and Stefan Jacques Darmoni. 2013. “The Foundational Model of Anatomy in OWL 2
+  and Its Use.” Artificial Intelligence in Medicine 57 (2): 119–32.
+  https://doi.org/10.1016/j.artmed.2012.11.002.                                                                                                                                                                                                  
+  Rosse, Cornelius, and José L.V. Mejino. 2003. “A Reference Ontology for Biomedical Informatics: The Foundational Model
+  of Anatomy.” Journal of Biomedical Informatics 36 (6): 478–500. https://doi.org/10.1016/j.jbi.2003.11.007.
 
-  Mungall, C. J., C. Torniai, G. V. Gkoutos, S. E. Lewis, and M. A. Haendel. 2012. “Uberon, an Integrative Multi-Species Anatomy Ontology.” Genome Biol 13 (1): R5. https://doi.org/10.1186/gb-2012-13-1-r5.
+  Mungall, C. J., C. Torniai, G. V. Gkoutos, S. E. Lewis, and M. A. Haendel. 2012. “Uberon, an Integrative Multi-Species
+  Anatomy Ontology.” Genome Biol 13 (1): R5. https://doi.org/10.1186/gb-2012-13-1-r5.
 creators:
   - fullName: Ellen M. Quardokus
     firstName: Ellen
@@ -35,10 +42,9 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: '2025-06-15'
+creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -49,7 +55,8 @@ hubmapId: HBM228.PZGR.344
 doi: https://doi.org/10.48539/HBM228.PZGR.344
 citation: >-
   Quardokus, Ellen M.,	Heidi Schlehlein,	Bruce W. Herr II,	and Katy Börner.	
-  2024.	"Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk, v1.8."	
+  2024.	"Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk,
+  v1.8."	
   https://doi.org/10.48539/HBM228.PZGR.344.	Accessed June 15, 2025.
 citationOverall: >-
   Schlehlein, Heidi,	Bruce W. Herr II,	Ellen M. Quardokus,	Andreas Bueckle,	and Katy Börner.	

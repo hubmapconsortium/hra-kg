@@ -1,15 +1,19 @@
 title: (Experimental) Vasculature Common Coordinate Framework Ontology
 description: >-
-  The Vasculature Common Coordinate Framework Ontology (VCCF) provides a systematic description of blood vessels and their relationships and mappings to anatomical structures the vessels supply or drain (Börner et al. 2021; Weber, Ju, and Börner 2020).
+  The Vasculature Common Coordinate Framework Ontology (VCCF) provides a systematic description of blood vessels and
+  their relationships and mappings to anatomical structures the vessels supply or drain (Börner et al. 2021; Weber, Ju,
+  and Börner 2020).
 
-  Bibliography:
-  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” Nature Cell Biology 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
+  Bibliography: Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David
+  Osumi-Sutherland, Bruce W. Herr, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference
+  Atlas.” Nature Cell Biology 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
 
-  Weber, Griffin M., Yingnan Ju, and Katy Börner. 2020. “Considerations for Using the Vasculature as a Coordinate System to Map All the Cells in the Human Body.” Frontiers in Cardiovascular Medicine 7 (March). https://doi.org/10.3389/fcvm.2020.00029."
-creation_date: '2024-02-13'
+  Weber, Griffin M., Yingnan Ju, and Katy Börner. 2020. “Considerations for Using the Vasculature as a Coordinate System
+  to Map All the Cells in the Human Body.” Frontiers in Cardiovascular Medicine 7 (March).
+  https://doi.org/10.3389/fcvm.2020.00029."
+creation_date: "2024-02-13"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 datatable:
   - vccf.owl
 references:

@@ -1,5 +1,11 @@
 title: HRA sample linkml schema
-description: HThis schema defines a data model for biological sample management that tracks the hierarchical relationship between tissue blocks and their derived tissue sections. It captures tissue blocks as extracted pieces of tissue with spatial registration information, section counts, and physical measurements, while tissue sections represent thin slices derived from blocks with specific section numbers. The schema enables comprehensive sample provenance tracking from donor through tissue extraction to dataset generation, including spatial registration within reference atlases and detailed physical characterization of sample dimensions.
+description: >-
+  HThis schema defines a data model for biological sample management that tracks the hierarchical relationship between
+  tissue blocks and their derived tissue sections. It captures tissue blocks as extracted pieces of tissue with spatial
+  registration information, section counts, and physical measurements, while tissue sections represent thin slices
+  derived from blocks with specific section numbers. The schema enables comprehensive sample provenance tracking from
+  donor through tissue extraction to dataset generation, including spatial registration within reference atlases and
+  detailed physical characterization of sample dimensions.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -19,10 +25,9 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

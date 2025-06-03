@@ -1,27 +1,19 @@
 title: >-
-  OMAP-3 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based
-  Imaging of Kidney with CODEX
+  OMAP-3 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Kidney with CODEX
 description: >-
-  OMAP-3 was designed for CODEX (CO Detection by IndEXing) of fresh frozen human
-  kidney samples (https://doi.org/10.1038/s41596-021-00556-8,
-  https://doi.org/10.1002/eji.202048891). The panel contains 24 antibodies and
-  the nuclear marker DAPI for image alignment and nuclear segmentation.
-  Additional details on tissue preparation, panel design, image analysis, and
-  representative images can be found in accompanying publications
-  (https://doi.org/10.1016/j.kint.2021.08.033,
-  https://doi.org/10.1016/j.xpro.2021.100747). This OMAP provides a spatial
-  context for all anatomical structures and most cell types present in the
-  [ASCT+B kidney table v1.1](https://doi.org/10.48539/HBM673.ZZDK.622).
-  Additionally, the inclusion of tryptase and MARCKS allow profiling of
-  different regions in the glomeruli that are often affected by disease. Several
-  cell types are identified by their morphology, location in the kidney, and
-  expression of Cytokeratin 7. The panel was designed to provide a survey of the
-  cell types found in the kidney and does not allow for granular phenotyping of
-  immune cell populations. However, mast cells, NK cells, T cells, and B cells
-  are broadly classified by several markers included in this OMAP. The core and
-  essential protein biomarkers detailed here overlap (>40%) with a panel
-  developed for multiplexed imaging of kidney samples using imaging mass
-  cytometry (IMC) (10.1172/jci.insight.129477).
+  OMAP-3 was designed for CODEX (CO Detection by IndEXing) of fresh frozen human kidney samples
+  (https://doi.org/10.1038/s41596-021-00556-8, https://doi.org/10.1002/eji.202048891). The panel contains 24 antibodies
+  and the nuclear marker DAPI for image alignment and nuclear segmentation. Additional details on tissue preparation,
+  panel design, image analysis, and representative images can be found in accompanying publications
+  (https://doi.org/10.1016/j.kint.2021.08.033, https://doi.org/10.1016/j.xpro.2021.100747). This OMAP provides a spatial
+  context for all anatomical structures and most cell types present in the [ASCT+B kidney table
+  v1.1](https://doi.org/10.48539/HBM673.ZZDK.622). Additionally, the inclusion of tryptase and MARCKS allow profiling of
+  different regions in the glomeruli that are often affected by disease. Several cell types are identified by their
+  morphology, location in the kidney, and expression of Cytokeratin 7. The panel was designed to provide a survey of the
+  cell types found in the kidney and does not allow for granular phenotyping of immune cell populations. However, mast
+  cells, NK cells, T cells, and B cells are broadly classified by several markers included in this OMAP. The core and
+  essential protein biomarkers detailed here overlap (>40%) with a panel developed for multiplexed imaging of kidney
+  samples using imaging mass cytometry (IMC) (10.1172/jci.insight.129477).
 creators:
   - fullName: Elizabeth K. Neumann
     firstName: Elizabeth
@@ -74,47 +66,40 @@ reviewers:
     lastName: Rajbhandari
     orcid: 0000-0003-2184-7238
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: >-
-      National Institutes of Health and National Institute of Diabetes and
-      Digestive and Kidney Diseases (NIDDK)
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
     awardNumber: OT2OD026671
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
   - funder: >-
-      National Institutes of Health and National Institute of Diabetes and
-      Digestive and Kidney Diseases (NIDDK)
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
     awardNumber: UH3 CA246635
   - funder: >-
-      National Institutes of Health and National Institute of Diabetes and
-      Digestive and Kidney Diseases (NIDDK)
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
     awardNumber: U54DK120058
   - funder: >-
-      National Institutes of Health and National Institute of Diabetes and
-      Digestive and Kidney Diseases (NIDDK)
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
     awardNumber: T32ES00702
   - funder: >-
-      National Institutes of Health and National Institute of Diabetes and
-      Digestive and Kidney Diseases (NIDDK)
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
     awardNumber: 1F32DK128887-01A1
 hubmapId: HBM268.ZQNV.826
 doi: https://doi.org/10.48539/HBM268.ZQNV.826
 citation: >-
-  Elizabeth K. Neumann; Melissa Farrow. OMAP-3 Organ Mapping Antibody Panel
-  (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.3
-  https://doi.org/10.48539/HBM268.ZQNV.826. Accessed June 15, 2024
+  Elizabeth K. Neumann; Melissa Farrow. OMAP-3 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Kidney with CODEX, v1.3 https://doi.org/10.48539/HBM268.ZQNV.826. Accessed June 15, 2024
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
-  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
-  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
-  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
-  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
-  Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P, Casals AM, Tian H, Lowery L,
+  Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE, Fisher J, Livengood AJ, Dowell KG, Silverstein JC,
+  Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
+  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR, Lundberg E, Snyder MP,
+  Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ Mapping Antibody Panels: a community resource for
+  standardized multiplexed tissue imaging. Nat  
   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-3-kidney-codex.csv

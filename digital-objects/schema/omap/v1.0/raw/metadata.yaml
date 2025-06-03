@@ -1,5 +1,11 @@
 title: HRA omap linkml schema
-description: This schema defines a data model for the Organ Mapping Antibody Panel (OMAP) system, which standardizes the representation of antibodies used in multiplexed antibody-based imaging experiments. The schema captures detailed information about antibodies (including their properties, target proteins, and experimental usage), experimental cycles, antibody panels, and the multiplexed imaging experiments themselves. It enables systematic documentation and interoperability of antibody data across different research contexts by providing structured formats for recording antibody characteristics, experimental protocols, and the relationships between antibodies and their target proteins.
+description: >-
+  This schema defines a data model for the Organ Mapping Antibody Panel (OMAP) system, which standardizes the
+  representation of antibodies used in multiplexed antibody-based imaging experiments. The schema captures detailed
+  information about antibodies (including their properties, target proteins, and experimental usage), experimental
+  cycles, antibody panels, and the multiplexed imaging experiments themselves. It enables systematic documentation and
+  interoperability of antibody data across different research contexts by providing structured formats for recording
+  antibody characteristics, experimental protocols, and the relationships between antibodies and their target proteins.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -19,10 +25,9 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

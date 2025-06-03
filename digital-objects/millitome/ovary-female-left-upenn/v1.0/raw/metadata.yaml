@@ -1,10 +1,10 @@
 title: Millitome for UPenn Ovary, Female, Left
 description: >-
-  A millitome is a device used to hold and slice organs into a grid of equally sized tissue blocks. 
-  It has an associated digital data package that includes an STL file and a spreadsheet for assigning 
-  spatial locations to HuBMAP IDs and gathering metadata with information about the size, dimensions, 
-  donor sex, and laterality of the reference organ for which the millitome is fitted (https://humanatlas.io/millitome). 
-  This millitome was designed in collaboration with the University of Pennsylvania for the Ovary, Female, Left.
+  A millitome is a device used to hold and slice organs into a grid of equally sized tissue blocks.  It has an
+  associated digital data package that includes an STL file and a spreadsheet for assigning  spatial locations to HuBMAP
+  IDs and gathering metadata with information about the size, dimensions,  donor sex, and laterality of the reference
+  organ for which the millitome is fitted (https://humanatlas.io/millitome).  This millitome was designed in
+  collaboration with the University of Pennsylvania for the Ovary, Female, Left.
 creators:
   - fullName: Antara Bhavsar
     firstName: Antara
@@ -25,10 +25,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2025-06-15'
+creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -36,8 +35,8 @@ funders:
 # hubmapId: HBM584.ZVQW.954
 # doi: https://doi.org/10.48539/HBM584.ZVQW.954
 # citation: >-
-# Bhavsar, Antara,	and Bhargav Desai.	
-# 2025.	"Millitome for UPenn Ovary, Female, Left, v1.0."	
+# Bhavsar, Antara,	and Bhargav Desai.
+# 2025.	"Millitome for UPenn Ovary, Female, Left, v1.0."
 # https://doi.org/10.48539/HBM584.ZVQW.954.	Accessed June 15, 2025.
 datatable:
   - extraction-sites.jsonld

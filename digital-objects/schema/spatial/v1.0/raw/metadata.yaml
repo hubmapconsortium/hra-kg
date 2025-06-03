@@ -1,5 +1,9 @@
 title: HRA spatial linkml schema
-description: This schema defines a spatial data model for three-dimensional positioning and orientation of anatomical entities within coordinate systems used in digital anatomy atlases. It captures spatial entities with precise dimensional measurements, scaling, rotation, and translation parameters, along with spatial placements that define how entities are positioned relative to each other in 3D space.
+description: >-
+  This schema defines a spatial data model for three-dimensional positioning and orientation of anatomical entities
+  within coordinate systems used in digital anatomy atlases. It captures spatial entities with precise dimensional
+  measurements, scaling, rotation, and translation parameters, along with spatial placements that define how entities
+  are positioned relative to each other in 3D space.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -19,10 +23,9 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

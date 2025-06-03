@@ -1,6 +1,11 @@
 title: 3D Landmarks for Large Intestine Female
 description: >-
-  Anatomical landmarks for large intestine, female were not derived from direct volumetric data, as no suitable source was available at the time of modeling. Instead, the general trajectory and curvature of the Visible Human Female colon were followed to ensure anatomical plausibility and spatial coherence with adjacent organs. This method emphasized anatomical consistency within the context of the surrounding structures rather than detailed or specimen-specific accuracy. Accordingly, the model and its associated landmarks should be considered approximate and conceptual, serving to support the continuity and integration of the broader reference organ system.
+  Anatomical landmarks for large intestine, female were not derived from direct volumetric data, as no suitable source
+  was available at the time of modeling. Instead, the general trajectory and curvature of the Visible Human Female colon
+  were followed to ensure anatomical plausibility and spatial coherence with adjacent organs. This method emphasized
+  anatomical consistency within the context of the surrounding structures rather than detailed or specimen-specific
+  accuracy. Accordingly, the model and its associated landmarks should be considered approximate and conceptual, serving
+  to support the continuity and integration of the broader reference organ system.
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce
@@ -12,8 +17,7 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

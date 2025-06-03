@@ -1,8 +1,26 @@
 title: >-
-  OMAP-14: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Kidney with CyCIF
+  OMAP-14: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CyCIF
 description: >-
-  OMAP-14 was designed for CyCIF imaging of unfixed frozen human kidney samples (https://dx.doi.org/10.17504/protocols.io.81wgb1m3yvpk/v3). The panel contains 17 antibodies, 1 lectin, and Hoechst 33342 for image alignment and nuclear segmentation. The OMAP provides a spatial context for the main anatomical structures and key cell types present in the healthy human kidney. These include markers for podocytes, mesangial and endothelial cells, glomerular basement membrane, mesangial matrix in glomeruli,  endothelial and vascular smooth muscle cells in the renal vasculature, renal tubular segments including proximal tubular epithelial cells, loops of Henle (including descending thin limb and thick ascending limb), distal convoluted tubules, connecting segment, cortical and medullary collecting duct principal cells and intercalated cells, myofibroblasts and peritubular extracellular matrix. A polyclonal antibody recognizing Zonula occludens-1 ZO-1, also known as Tight junction protein-1,  antibodies, which detect tight junctions, were used to segment podocyte plasma membranes as well as basolateral plasma membranes in all tubular epithelium distal to proximal tubules. Lotus Tetragonolobus Lectin (LTL) was used to visualize proximal tubular epithelial cells, collecting duct intercalated cells, and inner medullary collecting duct principal cells. LTL is visualized in the accompanying datasets but not included in the OMAP because it is not an antibody. Additional details on sample preparation (https://dx.doi.org/10.17504/protocols.io.bfskjncw) and custom conjugation of antibodies (https://dx.doi.org/10.17504/protocols.io.667hhhn) are included in these links. Representative datasets including two tubular segment and one glomerular segmentation 2D CyCIF images, and one glomerular segmentation 3D image have been uploaded here:https://dx.doi.org/10.5281/zenodo.10407946; https://dx.doi.org/10.5281/zenodo.10440320; https://dx.doi.org/10.5281/zenodo.10445538;  https://dx.doi.org/10.5281/zenodo.10445538; https://dx.doi.org/10.5281/zenodo.10447488 ; https://dx.doi.org/10.5281/zenodo.10445551.
+  OMAP-14 was designed for CyCIF imaging of unfixed frozen human kidney samples
+  (https://dx.doi.org/10.17504/protocols.io.81wgb1m3yvpk/v3). The panel contains 17 antibodies, 1 lectin, and Hoechst
+  33342 for image alignment and nuclear segmentation. The OMAP provides a spatial context for the main anatomical
+  structures and key cell types present in the healthy human kidney. These include markers for podocytes, mesangial and
+  endothelial cells, glomerular basement membrane, mesangial matrix in glomeruli,  endothelial and vascular smooth
+  muscle cells in the renal vasculature, renal tubular segments including proximal tubular epithelial cells, loops of
+  Henle (including descending thin limb and thick ascending limb), distal convoluted tubules, connecting segment,
+  cortical and medullary collecting duct principal cells and intercalated cells, myofibroblasts and peritubular
+  extracellular matrix. A polyclonal antibody recognizing Zonula occludens-1 ZO-1, also known as Tight junction
+  protein-1,  antibodies, which detect tight junctions, were used to segment podocyte plasma membranes as well as
+  basolateral plasma membranes in all tubular epithelium distal to proximal tubules. Lotus Tetragonolobus Lectin (LTL)
+  was used to visualize proximal tubular epithelial cells, collecting duct intercalated cells, and inner medullary
+  collecting duct principal cells. LTL is visualized in the accompanying datasets but not included in the OMAP because
+  it is not an antibody. Additional details on sample preparation (https://dx.doi.org/10.17504/protocols.io.bfskjncw)
+  and custom conjugation of antibodies (https://dx.doi.org/10.17504/protocols.io.667hhhn) are included in these links.
+  Representative datasets including two tubular segment and one glomerular segmentation 2D CyCIF images, and one
+  glomerular segmentation 3D image have been uploaded here:https://dx.doi.org/10.5281/zenodo.10407946;
+  https://dx.doi.org/10.5281/zenodo.10440320;
+  https://dx.doi.org/10.5281/zenodo.10445538;  https://dx.doi.org/10.5281/zenodo.10445538;
+  https://dx.doi.org/10.5281/zenodo.10447488 ; https://dx.doi.org/10.5281/zenodo.10445551.
 
 creators:
   - fullName: Mark de Caestecker
@@ -41,10 +59,9 @@ reviewers:
     lastName: Saunders
     orcid: 0000-0002-8849-6746
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
@@ -59,16 +76,16 @@ funders:
 hubmapId: HBM872.RNSG.734
 doi: https://doi.org/10.48539/HBM872.RNSG.734
 citation: >-
-  Mark de Caestecker. OMAP-14: Organ Mapping Antibody Panel (OMAP)
-  for Multiplexed Antibody-Based Imaging of Human Kidney with CyCIF, v1.0.
-  [https://doi.org/10.48539/HBM872.RNSG.734](https://doi.org/10.48539/HBM872.RNSG.734). Accessed on June  15, 2024.
+  Mark de Caestecker. OMAP-14: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human
+  Kidney with CyCIF, v1.0. [https://doi.org/10.48539/HBM872.RNSG.734](https://doi.org/10.48539/HBM872.RNSG.734).
+  Accessed on June  15, 2024.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
-  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
-  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
-  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
-  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
-  Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P, Casals AM, Tian H, Lowery L,
+  Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE, Fisher J, Livengood AJ, Dowell KG, Silverstein JC,
+  Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
+  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR, Lundberg E, Snyder MP,
+  Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ Mapping Antibody Panels: a community resource for
+  standardized multiplexed tissue imaging. Nat  
   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-14-kidney-cycif.csv

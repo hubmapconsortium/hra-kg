@@ -1,17 +1,36 @@
 title: >-
-  OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Intestines with CODEX
+  OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestines with CODEX
 description: >-
-  OMAP-2 was designed for CODEX (CO Detection by indEXing) imaging of fresh frozen human intestine (Black et al. 2021; Kennedy‐Darling et al. 2021). The panel contains 54 antibodies and the nuclear marker Hoechst for image alignment and nuclear segmentation. This panel provides spatial context for all anatomical structures and most cell types present in the ASCT+B intestine table, v1.1 (Longacre, Hickey, and Lin 2021). However, this panel does not include a marker for tuft cells, M cells, and subsets of major cell types that are known to be present in the intestine (e.g., neuroendocrine cell lineages, distinctions between alpha/beta and gamma/delta T cells, and IgA+ plasma cells). In general, the panel was aimed to provide a broad representation of cell types found in the intestine spanning stromal, immune, and epithelial origins and may be used across disease settings of the intestine. Data from this panel has been analyzed as described previously (J. W. Hickey et al. 2021; 2023). All antibodies are custom conjugated in house with oligonucleotide barcodes (no lot number available) and run using CODEX imaging per previous protocols (Black et al. 2021). Representative datasets using this OMAP can be found here (J. Hickey 2023a; 2023b). OMAP-2 v1.3 corrects the RRID listed for CDX2 to AB_2864405 and the protein target detected by panCytokeratin (cloneID AE-1/AE-3, BioLegend, catalog #: 914204) from KRT17 to the following: KRT1, KRT2, KRT3, KRT4, KRT5, KRT7, KRT8, KRT10, KRT14, KRT15, KRT16, and KRT19. OMAP-2 v1.5 revises the UniProt accession number for CD45RO to P08575-4 to distinguish it from CD45.
+  OMAP-2 was designed for CODEX (CO Detection by indEXing) imaging of fresh frozen human intestine (Black et al. 2021;
+  Kennedy‐Darling et al. 2021). The panel contains 54 antibodies and the nuclear marker Hoechst for image alignment and
+  nuclear segmentation. This panel provides spatial context for all anatomical structures and most cell types present in
+  the ASCT+B intestine table, v1.1 (Longacre, Hickey, and Lin 2021). However, this panel does not include a marker for
+  tuft cells, M cells, and subsets of major cell types that are known to be present in the intestine (e.g.,
+  neuroendocrine cell lineages, distinctions between alpha/beta and gamma/delta T cells, and IgA+ plasma cells). In
+  general, the panel was aimed to provide a broad representation of cell types found in the intestine spanning stromal,
+  immune, and epithelial origins and may be used across disease settings of the intestine. Data from this panel has been
+  analyzed as described previously (J. W. Hickey et al. 2021; 2023). All antibodies are custom conjugated in house with
+  oligonucleotide barcodes (no lot number available) and run using CODEX imaging per previous protocols (Black et al.
+  2021). Representative datasets using this OMAP can be found here (J. Hickey 2023a; 2023b). OMAP-2 v1.3 corrects the
+  RRID listed for CDX2 to AB_2864405 and the protein target detected by panCytokeratin (cloneID AE-1/AE-3, BioLegend,
+  catalog #: 914204) from KRT17 to the following: KRT1, KRT2, KRT3, KRT4, KRT5, KRT7, KRT8, KRT10, KRT14, KRT15, KRT16,
+  and KRT19. OMAP-2 v1.5 revises the UniProt accession number for CD45RO to P08575-4 to distinguish it from CD45.
 
-  Bibliography:
-  Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated Antibodies.” Nature Protocols 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
-  Hickey, John. 2023a. “Human Intestine Processed CODEX Multiplexed Images for Donors B004-6, B008 (Part 1/2).” Dryad. https://doi.org/10.5061/DRYAD.76HDR7T1P.
-  ———. 2023b. “Human Intestine Processed CODEX Multiplexed Images for Donors B009-B012 (Part 2/2).” Dryad. https://doi.org/10.5061/DRYAD.GMSBCC2SQ.
-  Hickey, John W., Winston R. Becker, Stephanie A. Nevins, Aaron Horning, Almudena Espin Perez, Chenchen Zhu, Bokai Zhu, et al. 2023. “Organization of the Human Intestine at Single-Cell Resolution.” Nature 619 (7970): 572–84. https://doi.org/10.1038/s41586-023-05915-x.
-  Hickey, John W., Yuqi Tan, Garry P. Nolan, and Yury Goltsev. 2021. “Strategies for Accurate Cell Type Identification in CODEX Multiplexed Imaging Data.” Frontiers in Immunology 12 (August):727626. https://doi.org/10.3389/fimmu.2021.727626.
-  Kennedy‐Darling, Julia, Salil S. Bhate, John W. Hickey, Sarah Black, Graham L. Barlow, Gustavo Vazquez, Vishal G. Venkataraaman, et al. 2021. “Highly Multiplexed Tissue Imaging Using Repeated Oligonucleotide Exchange Reaction.” European Journal of Immunology 51 (5): 1262–77. https://doi.org/10.1002/eji.202048891.
-  Longacre, Teri, John Hickey, and Yiing Lin. 2021. “Large-Intestine (v1.1) Graph Data, v1.1.” 2021. https://lod.humanatlas.io/asct-b/large-intestine/v1.1/.
+  Bibliography: Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay
+  Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with
+  DNA-Conjugated Antibodies.” Nature Protocols 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8. Hickey,
+  John. 2023a. “Human Intestine Processed CODEX Multiplexed Images for Donors B004-6, B008 (Part 1/2).” Dryad.
+  https://doi.org/10.5061/DRYAD.76HDR7T1P. ———. 2023b. “Human Intestine Processed CODEX Multiplexed Images for Donors
+  B009-B012 (Part 2/2).” Dryad. https://doi.org/10.5061/DRYAD.GMSBCC2SQ. Hickey, John W., Winston R. Becker, Stephanie
+  A. Nevins, Aaron Horning, Almudena Espin Perez, Chenchen Zhu, Bokai Zhu, et al. 2023. “Organization of the Human
+  Intestine at Single-Cell Resolution.” Nature 619 (7970): 572–84. https://doi.org/10.1038/s41586-023-05915-x. Hickey,
+  John W., Yuqi Tan, Garry P. Nolan, and Yury Goltsev. 2021. “Strategies for Accurate Cell Type Identification in CODEX
+  Multiplexed Imaging Data.” Frontiers in Immunology 12 (August):727626. https://doi.org/10.3389/fimmu.2021.727626.
+  Kennedy‐Darling, Julia, Salil S. Bhate, John W. Hickey, Sarah Black, Graham L. Barlow, Gustavo Vazquez, Vishal G.
+  Venkataraaman, et al. 2021. “Highly Multiplexed Tissue Imaging Using Repeated Oligonucleotide Exchange Reaction.”
+  European Journal of Immunology 51 (5): 1262–77. https://doi.org/10.1002/eji.202048891. Longacre, Teri, John Hickey,
+  and Yiing Lin. 2021. “Large-Intestine (v1.1) Graph Data, v1.1.” 2021.
+  https://lod.humanatlas.io/asct-b/large-intestine/v1.1/.
 creators:
   - fullName: John Hickey
     firstName: John
@@ -66,8 +85,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -77,8 +95,8 @@ funders:
 hubmapId: HBM752.RGMN.948
 doi: https://doi.org/10.48539/HBM752.RGMN.948
 citation: >-
-  Hickey, John. 2025. "OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.6." 
-  https://doi.org/10.48539/HBM752.RGMN.948. Accessed June 15,2025.
+  Hickey, John. 2025. "OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human
+  Intestine with CODEX v1.6."  https://doi.org/10.48539/HBM752.RGMN.948. Accessed June 15,2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
   P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	

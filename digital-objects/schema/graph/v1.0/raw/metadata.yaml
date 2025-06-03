@@ -1,5 +1,9 @@
 title: HRA graph linkml schema
-description: This schema defines a minimal data model for graph-based data structures, providing a standardized container with metadata but without specifying the actual graph content format. It serves as a flexible framework for publishing various types of graph data (knowledge graphs, network data, relationship structures) while ensuring consistent metadata documentation including provenance, versioning, and licensing information.
+description: >-
+  This schema defines a minimal data model for graph-based data structures, providing a standardized container with
+  metadata but without specifying the actual graph content format. It serves as a flexible framework for publishing
+  various types of graph data (knowledge graphs, network data, relationship structures) while ensuring consistent
+  metadata documentation including provenance, versioning, and licensing information.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -19,10 +23,9 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

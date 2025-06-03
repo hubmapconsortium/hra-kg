@@ -1,8 +1,7 @@
 title: 3D Reference Organ Set for United, Female
 description: >-
-  [This reference organ set](https://humanatlas.io/3d-reference-library) was
-  created using data from the Visible Human Female, provided by the National
-  Library of Medicine.
+  [This reference organ set](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human
+  Female, provided by the National Library of Medicine.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -27,10 +26,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2025-06-15'
+creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -43,9 +41,8 @@ funders:
 #   Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ Set for Female,
 #   v1.7.*, [https://doi.org/10.48539/HBM669.PSCF.525](https://doi.org/10.48539/HBM669.PSCF.525). Accessed on December 15, 2024.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2024.
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2024. [*HuBMAP CCF
+  3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2024.
 datatable:
   - 3d-vh-f-united.glb
   - crosswalk.csv

@@ -1,14 +1,31 @@
 title: >-
-  OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Kidney with CODEX
+  OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX
 description: >-
-  OMAP-9 was designed for CO-Detection by indEXing (CODEX) imaging of fresh frozen human kidney tissue using the protocol described here: (Sabo et al. 2023a). The panel contains 41 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. OMAP-9 provides a spatial context for all anatomical structures and most cell types present in the ASCT+B kidney table v1.1. This OMAP expands on OMAP-3 (Neumann and Farrow 2024), an 18-plex kidney CODEX panel, by including additional markers for granular phenotyping of key cells in the kidney such as structural cells (Podocalyxin, LRP2, E-cadherin, SLC12A3, Na/K ATPase and Cytokeratin 8), immune cells including T cells (CD3D, CD4, CD45RO, CD8, FOXP3, GATA-3), myeloid cells (CD11c, CD68, CD206, HLA-DR, Myeloperoxidase), and B cells (CD20). Antibodies directed against injury markers (KIM1, IGFBP7, Osteopontin, PLSCR1, VCAM1, MCP1, phosphor c-JUN, phosphor MLKL, Fibronectin, Collagen IV, LC3, Cystatin 3, and PROM1) allows profiling of kidney disease progression, prognosis, and repair. The following markers utilize different antibody clones than OMAP-3: vimentin, beta-catenin, and uromodulin. Mesangial cells present in the glomerulus are not targeted in the existing panel due to the absence of suitable antibodies compatible with the methodology. Additional details on sample preparation and CODEX multiplexing workflow can be found on Protocols.io (Sabo et al. 2023b). Correction to update to authors list and spelling of names appears in OMAP-9 v1.1. OMAP-9 v1.5 revises the UniProt accession number for CD45RO to P08575-4 to distinguish it from CD45. A representative dataset using this OMAP can be found here: (Barwinska, Sabo, and EL-Achkar 2024).
+  OMAP-9 was designed for CO-Detection by indEXing (CODEX) imaging of fresh frozen human kidney tissue using the
+  protocol described here: (Sabo et al. 2023a). The panel contains 41 antibodies and the nuclear marker DAPI for image
+  alignment and nuclear segmentation. OMAP-9 provides a spatial context for all anatomical structures and most cell
+  types present in the ASCT+B kidney table v1.1. This OMAP expands on OMAP-3 (Neumann and Farrow 2024), an 18-plex
+  kidney CODEX panel, by including additional markers for granular phenotyping of key cells in the kidney such as
+  structural cells (Podocalyxin, LRP2, E-cadherin, SLC12A3, Na/K ATPase and Cytokeratin 8), immune cells including T
+  cells (CD3D, CD4, CD45RO, CD8, FOXP3, GATA-3), myeloid cells (CD11c, CD68, CD206, HLA-DR, Myeloperoxidase), and B
+  cells (CD20). Antibodies directed against injury markers (KIM1, IGFBP7, Osteopontin, PLSCR1, VCAM1, MCP1, phosphor
+  c-JUN, phosphor MLKL, Fibronectin, Collagen IV, LC3, Cystatin 3, and PROM1) allows profiling of kidney disease
+  progression, prognosis, and repair. The following markers utilize different antibody clones than OMAP-3: vimentin,
+  beta-catenin, and uromodulin. Mesangial cells present in the glomerulus are not targeted in the existing panel due to
+  the absence of suitable antibodies compatible with the methodology. Additional details on sample preparation and CODEX
+  multiplexing workflow can be found on Protocols.io (Sabo et al. 2023b). Correction to update to authors list and
+  spelling of names appears in OMAP-9 v1.1. OMAP-9 v1.5 revises the UniProt accession number for CD45RO to P08575-4 to
+  distinguish it from CD45. A representative dataset using this OMAP can be found here: (Barwinska, Sabo, and EL-Achkar
+  2024).
 
-  Bibliography:
-  Barwinska, Daria, Angela Sabo, and Tarek EL-Achkar. 2024. “OMAP-9.” Zenodo. https://doi.org/10.5281/zenodo.14537009.
-  Neumann, Elizabeth K., and Melissa Farrow. 2024. “3-Kidney-Codex (v1.3) Graph Data, v1.3.” 2024. https://lod.humanatlas.io/omap/3-kidney-codex/v1.3/.
-  Sabo, Angela R., Connor J. Gulbronson, Daria Barwinska, Michael J. Ferkowicz, William Bowen, Seth Winfree, and Tarek Ashkar. 2023a. “Indiana University Adapted Akoya Phenocycler-Fusion Tissue Staining and Imaging Protocol for Fresh Frozen K...,” March. https://www.protocols.io/view/indiana-university-adapted-akoya-phenocycler-fusio-cpchvit6.
-  ———. 2023b. “Indiana University Adapted Akoya Phenocycler-Fusion Tissue Staining and Imaging Protocol for Fresh Frozen K...,” March. https://www.protocols.io/view/indiana-university-adapted-akoya-phenocycler-fusio-cpchvit6.
+  Bibliography: Barwinska, Daria, Angela Sabo, and Tarek EL-Achkar. 2024. “OMAP-9.” Zenodo.
+  https://doi.org/10.5281/zenodo.14537009. Neumann, Elizabeth K., and Melissa Farrow. 2024. “3-Kidney-Codex (v1.3) Graph
+  Data, v1.3.” 2024. https://lod.humanatlas.io/omap/3-kidney-codex/v1.3/. Sabo, Angela R., Connor J. Gulbronson, Daria
+  Barwinska, Michael J. Ferkowicz, William Bowen, Seth Winfree, and Tarek Ashkar. 2023a. “Indiana University Adapted
+  Akoya Phenocycler-Fusion Tissue Staining and Imaging Protocol for Fresh Frozen K...,” March.
+  https://www.protocols.io/view/indiana-university-adapted-akoya-phenocycler-fusio-cpchvit6. ———. 2023b. “Indiana
+  University Adapted Akoya Phenocycler-Fusion Tissue Staining and Imaging Protocol for Fresh Frozen K...,” March.
+  https://www.protocols.io/view/indiana-university-adapted-akoya-phenocycler-fusio-cpchvit6.
 creators:
   - fullName: Daria Barwinska
     firstName: Daria
@@ -67,8 +84,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
@@ -80,7 +96,8 @@ doi: https://doi.org/10.48539/HBM657.RTHQ.837
 citation: >-
   Barwinska, Daria,	Tarek M. El-Achkar,	Angela R. Sabo,	Michael J. Ferkowicz,	
   Seth Winfree,	and William S. Bowen.	
-  2025.	"OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX, v1.4."	
+  2025.	"OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX,
+  v1.4."	
   https://doi.org/10.48539/HBM657.RTHQ.837.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
@@ -99,4 +116,3 @@ references:
   - https://doi.org/10.48539/HBM268.ZQNV.826
   - https://doi.org/10.5281/zenodo.14537009
   - https://doi.org/10.17504/protocols.io.8epv5jdbnl1b/v1
-  

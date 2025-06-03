@@ -1,14 +1,35 @@
 title: >-
-  OMAP-25: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging
-  of Lung with CODEX
+  OMAP-25: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging of Lung with CODEX
 description: >-
-  OMAP-25 was designed for Multiplexed Immunofluorescence (MxIF) imaging of human formalin fixed paraffin embedded (FFPE) lung sections utilizing Akoya Biosciences Phenocycler-Fusion platform as described (Purkerson, Pryhuber, Colon, et al. 2025a). The panel contains 45 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. OMAP-25 provides spatial context for airway, vasculature, and alveolar features and identifies ~40 of 72 key epithelial, endothelial, and immune cell types in the ASCT+B lung table v1.2 (Pryhuber 2021). OMAP-25 does not yet identify capillary type 1 and capillary type 2 endothelial cells, eosinophils/basophils, fibroblast/pericytes, chondrocytes, and NK cells as antibody-oligonucleotide conjugates with sufficient specificity to target markers for these cell types are in development. Assay details include quenching of autofluorescence and antigen retrieval in AR9 Buffer (Akoya Biosciences, PN#AR9001KT) at high pressure (pressure cooker, high pressure protocol) for 20 minutes. Protein targets were detected with antibody barcode conjugates obtained directly from Akoya Biosciences, or via custom conjugation of commercially available antibodies utilizing an antibody conjugation kit (Akoya Biosciences, Cat# 232195). MxIF imaging of lung sections using this OMAP can be found in the protocol cited above. The antibody validation protocol can be found here (Purkerson, Pryhuber, Huyck, et al. 2025). When imaging proximal lung tissue that includes large airway and vascular features, antibodies targeting the extracellular matrix, endothelium, and vascular smooth muscle should be imaged within the first five cycles to prevent potential loss of feature integrity in later cycles. Conversely, antibodies targeting abundantly expressed pan markers that identify major cell types (e.g., PanCK, ACTA2) can be imaged in later cycles. Image analysis methods, including cell segmentation, annotation of vascular or airway features, and export of annotations and masks, are described here (Purkerson, Pryhuber, Colon, et al. 2025b).
+  OMAP-25 was designed for Multiplexed Immunofluorescence (MxIF) imaging of human formalin fixed paraffin embedded
+  (FFPE) lung sections utilizing Akoya Biosciences Phenocycler-Fusion platform as described (Purkerson, Pryhuber, Colon,
+  et al. 2025a). The panel contains 45 antibodies and the nuclear marker DAPI for image alignment and nuclear
+  segmentation. OMAP-25 provides spatial context for airway, vasculature, and alveolar features and identifies ~40 of 72
+  key epithelial, endothelial, and immune cell types in the ASCT+B lung table v1.2 (Pryhuber 2021). OMAP-25 does not yet
+  identify capillary type 1 and capillary type 2 endothelial cells, eosinophils/basophils, fibroblast/pericytes,
+  chondrocytes, and NK cells as antibody-oligonucleotide conjugates with sufficient specificity to target markers for
+  these cell types are in development. Assay details include quenching of autofluorescence and antigen retrieval in AR9
+  Buffer (Akoya Biosciences, PN#AR9001KT) at high pressure (pressure cooker, high pressure protocol) for 20 minutes.
+  Protein targets were detected with antibody barcode conjugates obtained directly from Akoya Biosciences, or via custom
+  conjugation of commercially available antibodies utilizing an antibody conjugation kit (Akoya Biosciences, Cat#
+  232195). MxIF imaging of lung sections using this OMAP can be found in the protocol cited above. The antibody
+  validation protocol can be found here (Purkerson, Pryhuber, Huyck, et al. 2025). When imaging proximal lung tissue
+  that includes large airway and vascular features, antibodies targeting the extracellular matrix, endothelium, and
+  vascular smooth muscle should be imaged within the first five cycles to prevent potential loss of feature integrity in
+  later cycles. Conversely, antibodies targeting abundantly expressed pan markers that identify major cell types (e.g.,
+  PanCK, ACTA2) can be imaged in later cycles. Image analysis methods, including cell segmentation, annotation of
+  vascular or airway features, and export of annotations and masks, are described here (Purkerson, Pryhuber, Colon, et
+  al. 2025b).
 
-  Bibliography:
-  Pryhuber, Gloria. 2021. “Lung (v1.2) Graph Data, v1.2.” 2021. https://lod.humanatlas.io/asct-b/lung/v1.2/.
-  Purkerson, Jeffrey, Gloria S. Pryhuber, Luis Colon, and Heidie Huyck. 2025a. “813.1 Multiplexed Immunofluorescence Phenocycler-Fusion® Imaging of FFPE Lung Sections,” February. https://www.protocols.io/view/813-1-multiplexed-immunofluorescence-phenocycler-f-dt3j6qkn.
-  ———. 2025b. “813.1 Multiplexed Immunofluorescence Phenocycler-Fusion® Imaging of FFPE Lung Sections,” February. https://www.protocols.io/view/813-1-multiplexed-immunofluorescence-phenocycler-f-dt3j6qkn.
-  Purkerson, Jeffrey, Gloria S. Pryhuber, Heidie Huyck, and gail.deutsch. 2025. “812.2 Lung FFPE Multiplexed Immunofluorescence Phenocycler-Fusion® Antibody Validation Protocol,” February. https://www.protocols.io/view/812-2-lung-ffpe-multiplexed-immunofluorescence-phe-dqjn5ume.
+  Bibliography: Pryhuber, Gloria. 2021. “Lung (v1.2) Graph Data, v1.2.” 2021.
+  https://lod.humanatlas.io/asct-b/lung/v1.2/. Purkerson, Jeffrey, Gloria S. Pryhuber, Luis Colon, and Heidie Huyck.
+  2025a. “813.1 Multiplexed Immunofluorescence Phenocycler-Fusion® Imaging of FFPE Lung Sections,” February.
+  https://www.protocols.io/view/813-1-multiplexed-immunofluorescence-phenocycler-f-dt3j6qkn. ———. 2025b. “813.1
+  Multiplexed Immunofluorescence Phenocycler-Fusion® Imaging of FFPE Lung Sections,” February.
+  https://www.protocols.io/view/813-1-multiplexed-immunofluorescence-phenocycler-f-dt3j6qkn. Purkerson, Jeffrey, Gloria
+  S. Pryhuber, Heidie Huyck, and gail.deutsch. 2025. “812.2 Lung FFPE Multiplexed Immunofluorescence
+  Phenocycler-Fusion® Antibody Validation Protocol,” February.
+  https://www.protocols.io/view/812-2-lung-ffpe-multiplexed-immunofluorescence-phe-dqjn5ume.
 creators:
   - fullName: Jeffrey M. Purkerson
     firstName: Jeffrey M.
@@ -51,8 +72,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -85,5 +105,3 @@ references:
   - https://doi.org/10.17504/protocols.io.rm7vzkm14vx1/v1
   - https://doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3
   - https://doi.org/10.48539/HBM396.QVLQ.449
-  
-

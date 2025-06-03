@@ -1,6 +1,9 @@
 title: HRA ds-graph-metadata linkml schema
 description: >-
-  This schema defines a metadata model specifically for dataset-graph datasets with provenance tracking capabilities. It captures essential publication metadata including creators, versioning, licensing, and distribution information. The schema is full compliance to DCAT (Data Catalog Vocabulary) standards and provenance tracking through PROV-O ontology integration.
+  This schema defines a metadata model specifically for dataset-graph datasets with provenance tracking capabilities. It
+  captures essential publication metadata including creators, versioning, licensing, and distribution information. The
+  schema is full compliance to DCAT (Data Catalog Vocabulary) standards and provenance tracking through PROV-O ontology
+  integration.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -20,10 +23,9 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

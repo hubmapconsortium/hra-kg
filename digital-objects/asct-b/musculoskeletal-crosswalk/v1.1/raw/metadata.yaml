@@ -1,6 +1,13 @@
 title: Musculoskeletal Crosswalk
 description: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. This table describes relationships between anatomical structures in the muscular system and skeleton ASCT+B tables. This includes (1) bone “adjacent_to” bone crosswalks and (2) muscle “attached_to” bone, ligament, tendon, fascia, or skin crosswalks. The bone “adjacent_to” relationships may indicate a joint and joining structures. The “attached_to” relationships have a “Relationship2” value of “has_muscle_origin” or “has_muscle_insertion”. The focus of this initial version of this crosswalk table is the upper extremities, but it will be expanded in the future to other parts of the body.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
+  authored and reviewed by an international team of experts. This table describes relationships between anatomical
+  structures in the muscular system and skeleton ASCT+B tables. This includes (1) bone “adjacent_to” bone crosswalks and
+  (2) muscle “attached_to” bone, ligament, tendon, fascia, or skin crosswalks. The bone “adjacent_to” relationships may
+  indicate a joint and joining structures. The “attached_to” relationships have a “Relationship2” value of
+  “has_muscle_origin” or “has_muscle_insertion”. The focus of this initial version of this crosswalk table is the upper
+  extremities, but it will be expanded in the future to other parts of the body.
 creators:
   - fullName: Griffin Weber
     firstName: Griffin
@@ -19,8 +26,7 @@ reviewers: []
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

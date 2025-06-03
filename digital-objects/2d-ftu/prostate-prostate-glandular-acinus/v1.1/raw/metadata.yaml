@@ -1,13 +1,11 @@
 title: 2D Prostate Glandular Acinus FTU for Prostate
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to
-  the prostate glandular acinus FTU in the Anatomical Structures, Cell Types and
-  Biomarkers table ASCT+B Table [Prostate
-  v1.0](https://doi.org/10.48539/HBM835.WCGP.479). Multiple histology atlases,
-  especially “Netter’s Essential Histology with Correlated Histopathology”
-  (William K. Ovalle and Patrick C. Nahirney, 2021), and “Histology: A Text and
-  Atlas” (Michael H. Ross, et al., 2003) were referenced. Definitive source:
-  [(Henry et al. 2018)](https://doi.org/10.1016/j.celrep.2018.11.086).
+  This functional tissue unit (FTU) illustration includes cell types related to the prostate glandular acinus FTU in the
+  Anatomical Structures, Cell Types and Biomarkers table ASCT+B Table [Prostate
+  v1.0](https://doi.org/10.48539/HBM835.WCGP.479). Multiple histology atlases, especially “Netter’s Essential Histology
+  with Correlated Histopathology” (William K. Ovalle and Patrick C. Nahirney, 2021), and “Histology: A Text and Atlas”
+  (Michael H. Ross, et al., 2003) were referenced. Definitive source: [(Henry et al.
+  2018)](https://doi.org/10.1016/j.celrep.2018.11.086).
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -24,10 +22,9 @@ reviewers:
     lastName: Strand
     orcid: 0000-0002-0746-927X
 externalReviewers: []
-creation_date: '2022-12-15'
+creation_date: "2022-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -35,13 +32,11 @@ funders:
 hubmapId: HBM873.RHXX.584
 doi: https://doi.org/10.48539/HBM873.RHXX.584
 citation: >-
-  Rachel Bajema 2022. *2D Prostate Glandular Acinus FTU for Prostate, v1.1.*
-  https://doi.org/10.48539/HBM873.RHXX.584. Accessed on December 15, 2022.
+  Rachel Bajema 2022. *2D Prostate Glandular Acinus FTU for Prostate, v1.1.* https://doi.org/10.48539/HBM873.RHXX.584.
+  Accessed on December 15, 2022.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2022. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
-  15, 2022.
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference
+  Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2022.
 datatable:
   - 2d-ftu-prostate-prostate-glandular-acinus.svg
   - 2d-ftu-prostate-prostate-glandular-acinus.png
