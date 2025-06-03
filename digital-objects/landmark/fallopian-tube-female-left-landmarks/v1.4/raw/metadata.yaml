@@ -1,5 +1,6 @@
 title: 3D Landmarks for Fallopian Tube Female Left
-description: ''
+description: 
+  "Anatomical landmarks for fallopian tube, female, left were derived from the Visible Human dataset, which provided partial imaging of the tubes and adjacent structures, including the ovaries. Due to inconsistencies between the original dataset and the modified surrounding anatomy—some of which originated from non-Visible Human sources—manual adjustments were made to the position and orientation of the fallopian tubes to ensure appropriate spatial integration within the broader anatomical model. Certain regions, particularly the fimbriae, were not distinctly visible in the available imaging. These segments were therefore interpolated or artistically reconstructed using anatomical references and inferred structural relationships."
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce

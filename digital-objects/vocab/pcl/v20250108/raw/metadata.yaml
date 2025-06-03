@@ -1,6 +1,11 @@
 title: Provisional Cell Ontology
 description: >-
-  Cell types that are provisionally defined by experimental techniques such as single cell transcriptomics rather than a straightforward &amp; coherent set of properties.
+  "Cell types that are provisionally defined by experimental techniques such as single cell transcriptomics rather than a straightforward &amp; coherent set of properties (Tan et al. 2023).
+
+  Bibliography:
+  Tan, Shawn Zheng Kai, Huseyin Kir, Brian D. Aevermann, Tom Gillespie, Nomi Harris, Michael J. Hawrylycz, Nikolas L. Jorstad, et al. 2023. “Brain Data Standards - A Method for Building Data-Driven Cell-Type Ontologies.” Scientific Data 10 (1): 50. https://doi.org/10.1038/s41597-022-01886-2.
+
+  Ontology Lookup Service. 2025. “Provisional Cell Ontology.” January 8, 2025. https://www.ebi.ac.uk/ols4/ontologies/pcl."
 creators:
   - fullName: Alexander D. Diehl
     firstName: Alexander
@@ -12,3 +17,5 @@ license: >-
   4.0](https://creativecommons.org/licenses/by/4.0/))
 datatable:
   - pcl-base.owl
+references:
+  - https://doi.org/10.1038/s41597-022-01886-2

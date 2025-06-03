@@ -36,7 +36,8 @@ funders:
 # hubmapId: HBM684.WVMV.375
 # doi: https://doi.org/10.48539/HBM684.WVMV.375
 # citation: >-
-#  Antara Bhavsar, Bhargav Desai. Millitome for VU Kidney, Male, Left,v1.0
-#  https://doi.org/10.48539/HBM684.WVMV.375, Accessed on June 15, 2025.
+# Bhavsar, Antara,	and Bhargav Desai.	
+# 2025.	"Millitome for VU Kidney, Male, Left, v1.0."	
+# https://doi.org/10.48539/HBM684.WVMV.375.	Accessed June 15, 2025.
 datatable:
   - extraction-sites.jsonld

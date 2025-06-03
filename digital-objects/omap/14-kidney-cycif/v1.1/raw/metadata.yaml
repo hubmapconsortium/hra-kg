@@ -2,30 +2,17 @@ title: >-
   OMAP-14: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
   Imaging of Human Kidney with CyCIF
 description: >-
-  OMAP-14 was designed for CyCIF imaging of unfixed frozen human kidney samples  (https://doi.org/10.17504/protocols.io.81wgb1m3yvpk/v3).
-  The panel contains 17  antibodies, 1 lectin, and Hoechst 33342 for image alignment
-  and nuclear  segmentation. The OMAP provides a spatial context for the main anatomical  structures
-  and key cell types present in the healthy human kidney. These include  markers for
-  podocytes, mesangial and endothelial cells, glomerular basement  membrane, mesangial
-  matrix in glomeruli,  endothelial and vascular smooth muscle  cells in the renal
-  vasculature, renal tubular segments including proximal tubular  epithelial cells,
-  loops of Henle (including descending thin limb and thick ascending  limb), distal
-  convoluted tubules, connecting segment, cortical and medullary  collecting duct
-  principal cells and intercalated cells, myofibroblasts and  peritubular extracellular
-  matrix. A polyclonal antibody recognizing Zonula  occludens-1 (ZO-1), also known
-  as tight junction protein-1, which detect tight  junctions, were used to segment
-  podocyte plasma membranes as well as basolateral  plasma membranes in all tubular
-  epithelium distal to proximal tubules. Lotus  Tetragonolobus Lectin (LTL) was used
-  to visualize proximal tubular epithelial  cells, collecting duct intercalated cells,
-  and inner medullary collecting duct  principal cells. LTL is visualized in the accompanying
-  datasets but not included  in the OMAP because it is not an antibody. Additional
-  details on sample preparation  (https://doi.org/10.17504/protocols.io.bfskjncw)
-  and custom conjugation of antibodies  (https://doi.org/10.17504/protocols.io.667hhhn)
-  are included in these links.  Representative datasets including two tubular segment
-  and one glomerular segmentation  2D CyCIF images, and one glomerular segmentation
-  3D image have been uploaded here:  (https://doi.org/10.5281/zenodo.10407946; https://doi.org/10.5281/zenodo.10440320;  https://doi.org/10.5281/zenodo.10445538;  https://doi.org/10.5281/zenodo.10445538;  https://doi.org/10.5281/zenodo.10447488
-  ; https://doi.org/10.5281/zenodo.10445551)
+  "OMAP-14 was designed for CyCIF imaging of unfixed frozen human kidney samples (Brewer et al. 2023). The panel contains 17 antibodies, 1 lectin, and Hoechst 33342 for image alignment and nuclear segmentation. The OMAP provides a spatial context for the main anatomical structures and key cell types present in the healthy human kidney. These include markers for podocytes, mesangial and endothelial cells, glomerular basement membrane, mesangial matrix in glomeruli, endothelial and vascular smooth muscle cells in the renal vasculature, renal tubular segments including proximal tubular epithelial cells, loops of Henle (including descending thin limb and thick ascending limb), distal convoluted tubules, connecting segment, cortical and medullary collecting duct principal cells and intercalated cells, myofibroblasts and peritubular extracellular matrix. A polyclonal antibody recognizing Zonula occludens-1 (ZO-1), also known as tight junction protein-1, which detect tight junctions, were used to segment podocyte plasma membranes as well as basolateral plasma membranes in all tubular epithelium distal to proximal tubules. Lotus Tetragonolobus Lectin (LTL) was used to visualize proximal tubular epithelial cells, collecting duct intercalated cells, and inner medullary collecting duct principal cells. LTL is visualized in the accompanying datasets but not included in the OMAP because it is not an antibody. Additional details on sample preparation (Neumann et al. 2020) and custom conjugation of antibodies (Brewer et al. 2019) are included in these links. Representative datasets including two tubular segment and one glomerular segmentation 2D CyCIF images, and one glomerular segmentation 3D image have been uploaded here: (de Caestecker 2023c; 2023d; 2023a; de Caestecker and Migas 2023; de Caestecker 2023b).
 
+  Bibliography:
+  Brewer, Maya, Liz McDonough, Yuantee Zhu, Elizabeth Neumann, Danielle Gutierrez, Jeff Spraggins, and Mark De Caestecker. 2023. “Multiplex Cyclical Immunofluorescence on Fresh Frozen Tissue-V3,” September. https://www.protocols.io/view/multiplex-cyclical-immunofluorescence-on-fresh-fro-czsax6ae.
+  Brewer, Maya, Yuantee Zhu, Danielle Gutierrez, Jeff Spraggins, and Mark de Caestecker. 2019. “Antibody Purification and Labeling,” September. https://www.protocols.io/view/antibody-purification-and-labeling-667hhhn.
+  Caestecker, Mark de. 2023a. “Antibody Validation for Cyclical Immunofluorescence Microscopy of Human Kidneys (Part 1, Figures 31 and 33).” Zenodo. https://zenodo.org/records/10445539.
+  ———. 2023b. “Antibody Validation for Cyclical Immunofluorescence of Human Kidneys (Part 2, Figure 32).” https://zenodo.org/records/10447779.
+  ———. 2023c. “Antibody Validation for Immunofluorescence Microscopy of Human Kidneys (Part 1, Figures 1-15).” Zenodo. https://zenodo.org/records/10407947.
+  ———. 2023d. “Antibody Validation for Immunofluorescence Microscopy of Human Kidneys (Part 2, Figures 16-30).” Zenodo. https://zenodo.org/records/10440321.
+  Caestecker, Mark de, and Lukasz Migas. 2023. “3-D Cyclical Immunofluorescence Microscopy of the Human Kidney,” December. https://zenodo.org/records/10447489.
+  Neumann, Elizabeth, Jamie Allen, Maya Brewer, David Anderson, Mark De Caestecker, Danielle Gutierrez, and Jeff Spraggins. 2020. “VU Biomolecular Multimodal Imaging Center (BIOMIC) Kidney Characterization Pipeline for Tissues Collected t...,” April. https://www.protocols.io/view/vu-biomolecular-multimodal-imaging-center-biomic-k-bfskjncw."
 creators:
   - fullName: Mark de Caestecker
     firstName: Mark
@@ -81,21 +68,19 @@ funders:
 hubmapId: HBM966.SMJD.846
 doi: https://doi.org/10.48539/HBM966.SMJD.846
 citation: >-
-  Mark de Caestecker. OMAP-14: Organ Mapping Antibody Panel (OMAP)
-  for Multiplexed Antibody-Based Imaging of Human Kidney with CyCIF, v1.1.
-  https://doi.org/10.48539/HBM966.SMJD.846. Accessed on June  15, 2025.
+  de Caestecker, Mark.	
+  2025.	"OMAP-14: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CyCIF, v1.1."	
+  https://doi.org/10.48539/HBM966.SMJD.846.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
-  P,
-  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J,
-  Wiblin AE,
-  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch
-  G, Ginty   F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg
-  N, Stockwell BR,
-  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ.
-  Organ
-  Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
 datatable:
   - omap-14-kidney-cycif.csv
   - omap-14-kidney-cycif.xlsx

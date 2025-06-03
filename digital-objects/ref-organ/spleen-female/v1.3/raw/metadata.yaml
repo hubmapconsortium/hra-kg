@@ -1,8 +1,9 @@
 title: 3D Reference Organ for Spleen, Female
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Female, provided by the National Library of
-  Medicine.
+  "This reference organ was created using data from the Visible Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002).
+
+  Bibliography:
+  Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human Simulation.” The Anatomical Record 253 (2): 49–57. https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.  "
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -36,14 +37,14 @@ funders:
 hubmapId: HBM883.DZCZ.658
 doi: https://doi.org/10.48539/HBM883.DZCZ.658
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Spleen, Female
-  v1.3*
-  [https://doi.org/10.48539/HBM883.DZCZ.658](https://doi.org/10.48539/HBM883.DZCZ.658).
-  Accessed on June 15, 2024.
+  Browne, Kristen, and Heidi Schlehlein. 2024. *3D Reference Organ for Spleen, Female v1.3*.
+  https://doi.org/10.48539/HBM883.DZCZ.658. Accessed on June 15, 2024.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2024.
+    Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024.
+    *HuBMAP CCF 3D Reference Object Library*. Accessed on June 15, 2024.
+    https://humanatlas.io/3d-reference-library.
 datatable:
   - 3d-vh-f-spleen.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9

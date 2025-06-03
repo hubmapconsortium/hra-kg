@@ -1,10 +1,6 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Heart
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.
+  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested heart structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Heart ASCT+B table includes detailed anatomical structures such as the atria, ventricles, valves, and associated vasculature, along with associated cell types like cardiomyocytes, endothelial cells, and fibroblasts. This comprehensive mapping supports research into cardiovascular biology and related medical conditions."
 creators:
   - fullName: Shin Lin
     firstName: Shin
@@ -50,10 +46,12 @@ funders:
 hubmapId: HBM535.BJVS.924
 doi: https://doi.org/10.48539/HBM535.BJVS.924
 citation: >-
-  Shin Lin; Marc Halushka; Avinash Boppana, HuBMAP ASCT+B Tables. Heart v1.5,
-  [https://doi.org/10.48539/HBM535.BJVS.924](https://doi.org/10.48539/HBM535.BJVS.924), Accessed on December 15, 2024.
+  Lin, Shin,	Marc Halushka,	and Avinash Boppana.	
+  2024.	"HuBMAP ASCT+B Tables. Heart v1.5."	
+  https://doi.org/10.48539/HBM535.BJVS.924.	Accessed December 15, 2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2024.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2024.
 datatable:
   - asct-b-vh-heart.csv

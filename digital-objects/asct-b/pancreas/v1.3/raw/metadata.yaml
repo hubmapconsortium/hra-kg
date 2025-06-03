@@ -1,10 +1,6 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Pancreas
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.
+  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested pancreas structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The pancreas ASCT+B table delineates the organ's anatomical structures, including the head, body, tail, and lobular regions, and maps associated cell types such as acinar, ductal, and various endocrine cells, along with their corresponding biomarkers. This comprehensive mapping supports research into pancreatic biology and related medical conditions."
 creators:
   - fullName: Martha Campbell-Thompson
     firstName: Martha
@@ -58,12 +54,12 @@ funders:
 hubmapId: HBM336.TBNP.923
 doi: https://doi.org/10.48539/HBM336.TBNP.923
 citation: >-
-  Martha Campbell-Thompson; Adel Eskaros; Diane Saunders, HuBMAP ASCT+B Tables.
-  Pancreas v1.3 https://doi.org/10.48539/HBM336.TBNP.923, Accessed on December
-  15, 2023.
+  Campbell-Thompson, Martha,	Adel Eskaros,	and Diane Saunders.	
+  2023.	"HuBMAP ASCT+B Tables. Pancreas v1.3."	
+  https://doi.org/10.48539/HBM336.TBNP.923.	Accessed December 15, 2023.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
-  2023.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2023.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2023.
 datatable:
   - asct-b-vh-pancreas.csv

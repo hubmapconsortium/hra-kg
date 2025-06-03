@@ -2,27 +2,13 @@ title: >-
   OMAP-19: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging
   of Palatine Tonsil with IBEX
 description: >-
-  OMAP-19 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging
-  of human formalin fixed paraffin embedded (FFPE) tonsil samples sectioned onto glass
-  slides (https://doi.org/10.1038/s41596-021-00644-9). The panel consists of 6 cycles
-  of 20 primary antibodies, 5 secondary antibodies, and the nuclear label Hoechst
-  for image alignment and nuclear segmentation. This OMAP provides a spatial context
-  for 10 anatomical structures and at least 16 cell types present in the ASCT+B tonsil
-  table. OMAP-19 was designed to examine myeloid subsets (CD11b, CD11c, CD14, CD15,
-  HLA-DR) and angiogenesis (VEGF-A and VEGF-C) in human ovarian cancer biopsies. The
-  human tonsil was used as a positive control for antibody validation and panel development.
-  OMAP-19 has 11 markers in common with the tonsil MICS panel (OMAP-10, https://doi.org/10.48539/HBM663.JJMJ.628);
-  however, there is no overlap between the antibodies used across the tonsil OMAPs.
-  This panel does not allow for visualization of the mantle zone, naive B cells, plasma
-  cells, or cycling B cells enriched in the dark zone of the germinal center. Prior
-  to immunolabeling, antigen retrieval was performed using a pressure cooker (Borg
-  Decloaker BD1000, 110°C for 15 minutes) and a tris-based buffer (pH 9.5). Several
-  custom antibodies were created using commercial labeling kits as indicated in the
-  associated RRID entries for these antibodies (AB_3095771, RRID:AB_3095773, and RRID:AB_3095774).
-  More details on the antigen retrieval protocol and step-by-step application of antibodies
-  can be found on the [IBEX Imaging Community site](https://ibeximagingcommunity.github.io/ibex_imaging_knowledge_base/).
-  A representative dataset and associated channel metadata has been uploaded to Zenodo
-  (https://zenodo.org/records/11222093).
+  "OMAP-19 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of human formalin fixed paraffin embedded (FFPE) tonsil samples sectioned onto glass slides (Radtke et al. 2022). The panel consists of 6 cycles of 20 primary antibodies, 5 secondary antibodies, and the nuclear label Hoechst for image alignment and nuclear segmentation. This OMAP provides a spatial context for 10 anatomical structures and at least 16 cell types present in the ASCT+B tonsil table. OMAP-19 was designed to examine myeloid subsets (CD11b, CD11c, CD14, CD15, HLA-DR) and angiogenesis (VEGF-A and VEGF-C) in human ovarian cancer biopsies. The human tonsil was used as a positive control for antibody validation and panel development. OMAP-19 has 11 markers in common with the tonsil MICS panel (OMAP-10) (Müller, Rüberg, and Bosio 2023); however, there is no overlap between the antibodies used across the tonsil OMAPs. This panel does not allow for visualization of the mantle zone, naive B cells, plasma cells, or cycling B cells enriched in the dark zone of the germinal center. Prior to immunolabeling, antigen retrieval was performed using a pressure cooker (Borg Decloaker BD1000, 110°C for 15 minutes) and a tris-based buffer (pH 9.5). Several custom antibodies were created using commercial labeling kits as indicated in the associated RRID entries for these antibodies (AB_3095771, RRID:AB_3095773, and RRID:AB_3095774). More details on the antigen retrieval protocol and step-by-step application of antibodies can be found on the [IBEX Imaging Community site](https://ibeximagingcommunity.github.io/ibex_imaging_knowledge_base/). A representative dataset and associated channel metadata has been uploaded to Zenodo (Padhan et al. 2024). Additional details on the IBEX method, sample preparation, reagent validation, and example datasets can be found on the IBEX Knowledge-Base (Radtke et al. 2025, Yaniv et al. 2025).
+
+  Bibliography:
+  Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023. “10-Palatine-Tonsil-Mics (v1.0) Graph Data, v1.0.” 2023. https://lod.humanatlas.io/omap/10-palatine-tonsil-mics/v1.0/.
+  Padhan, Kartika, Andrea J. Radtke, Elena Giudice, Ronald N. Germain, and Jung-Min Lee. 2024. “OMAP-19 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Tonsil with IBEX.” Zenodo. https://zenodo.org/records/11222093.
+  Radtke, Andrea J., Colin J. Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T. Beuschel, Hiroshi Ichise, et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” Nature Protocols 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.                                                                                  
+  Radtke, Andrea J., Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et al. 2025. “The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques.” PLoS Biol 23(3): e3003070. https://doi. org/10.1371/journal.pbio.3003070."                                                                                                                                                                                   Yaniv, Ziv, Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of Immunofluoresence Imaging Methods.” eLife14:RP105737. 
 creators:
   - fullName: Kartika Padhan
     firstName: Kartika
@@ -88,21 +74,19 @@ funders:
 hubmapId: HBM656.NQHT.366
 doi: https://doi.org/10.48539/HBM656.NQHT.366
 citation: >-
-  Kartika Padhan, Andrea J. Radtke, Elena Giudice, Ronald N. Germain, Jung-Min Lee. OMAP-19: 
-  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Palatine Tonsil with IBEX, v1.1,
-  https://doi.org/10.48539/HBM656.NQHT.366. Accessed on June 15, 2025.
+  Padhan, Kartika,	Andrea J. Radtke,	Elena Giudice,	Ronald N. Germain,	and Jung-Min Lee.	
+  2025.	"OMAP-19: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Palatine Tonsil with IBEX, v1.1."	
+  https://doi.org/10.48539/HBM656.NQHT.366.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
-  P,
-  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J,
-  Wiblin AE,
-  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch
-  G, Ginty   F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg
-  N, Stockwell BR,
-  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ.
-  Organ
-  Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
 datatable:
   - omap-19-palatine-tonsil-ibex.csv
   - omap-19-palatine-tonsil-ibex.xlsx
@@ -110,3 +94,6 @@ references:
   - https://doi.org/10.1038/s41596-021-00644-9
   - https://doi.org/10.48539/HBM663.JJMJ.628
   - https://doi.org/10.1073/pnas.2018488117
+  - https://doi.org/10.5281/zenodo.11222093
+  - https://doi.org/10.1371/journal.pbio.3003070
+

@@ -1,24 +1,9 @@
 title: 2D White Pulp Functional Tissue Unit (FTU) for Spleen
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to the white pulp of spleen FTU in the 
-  ASCT+B Table Spleen v1.3. Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and 
-  “Netter’s Essential Histology” (William K. Ovale and Patrick C. Nahirney, 2021) were referenced.
+  "This functional tissue unit (FTU) illustration includes cell types related to the white pulp of spleen FTU in the ASCT+B Table [Spleen v1.3] (https://doi.org/10.48539/HBM763.QFRB.477). Multiple histology atlases, especially *Human Microscopic Anatomy (Krstić 1994) and Netter’s Essential Histology (Ovalle and Nahirney 2021)* were referenced. Primary references: *Steiniger (2015), “Human Spleen Microanatomy: Why Mice Do Not Suffice” (Immunology 145(3): 334–346), and Mebius and Kraal (2005), “Structure and Function of the Spleen” (Nat Rev Immunol 5: 606–616)*. Uberon describes this FTU as follows: ""The parenchymatous tissue of the spleen that surrounds splenic blood vessels, consists of compact masses of lymphatic cells and is where foreign material removed from the blood is used to initiate an immune reaction that results in the production of antibodies."" 
 
-  Primary references:
-
-  * Steiniger, Birte S. 2015. “Human Spleen Microanatomy: Why Mice Do Not Suffice.” Immunology. 145(3): 334-346.
-  * Mebius, R., Kraal, G. 2005. “Structure and Function of the Spleen.” Nat Rev Immunol. 5: 606-616.
-
-  Note: These illustrations are a stylized representation of the average number and distribution of cell type 
-  populations within a functional tissue unit (FTU). Cell types are included based on their linkage to the FTU 
-  in each organ’s Anatomical Structures, Cell Type and Biomarkers (ASCT+B) Table. The intention is to illustrate 
-  relationships between individual cells and to include visual information on their relative shape, scale and 
-  distribution within the tissue. A relationship to blood supply is indicated. We are working towards an understanding 
-  of cellular relationships within each FTU, as well as perfusion, innervation, structural and extracellular matrix 
-  support. Greater relationships of scale within the body are also considered. Smaller FTUs may be nested within larger 
-  FTUs. This work is iterative and will be updated in regular publication cycles. In future releases, illustrations will 
-  be linked to data sets interactively. Machine learning and AI are employed in segmenting these FTUs from data which 
-  will be connected to the illustrations in future publication cycles.
+  Bibliography:
+  Elmore, S. A. (2006). Enhanced histopathology of the spleen. Toxicol. Pathol., 34, 648–655."
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -52,15 +37,16 @@ funders:
 hubmapId: HBM559.FNBB.627
 doi: https://doi.org/10.48539/HBM559.FNBB.6273
 citation: >-
-  Rachel Bajema 2024. *2D White Pulp Functional Tissue Unit (FTU) for Spleen
-  v1.2.* https://doi.org/10.48539/v. Accessed on December 15, 2024.
+  Bajema, Rachel. 2024. *2D White Pulp Functional Tissue Unit (FTU) for Spleen v1.2.*
+  https://doi.org/10.48539/v. Accessed on December 15, 2024.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2024. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
-  15, 2024.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2024.
+  *HuBMAP CCF 2D Reference Object Library*. Accessed December 15, 2024. https://humanatlas.io/2d-ftu-illustrations.
 datatable:
   - 2d-ftu-spleen-white-pulp.svg
   - 2d-ftu-spleen-white-pulp.png
   - 2d-ftu-spleen-white-pulp.ai
   - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM763.QFRB.477
+  

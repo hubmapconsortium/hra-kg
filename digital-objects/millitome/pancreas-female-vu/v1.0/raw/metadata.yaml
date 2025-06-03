@@ -36,7 +36,8 @@ funders:
 # hubmapId: HBM978.SXGV.683
 # doi: https://doi.org/10.48539/HBM978.SXGV.683
 # citation: >-
-#  Antara Bhavsar, Bhargav Desai. Millitome for VU Pancreas, Female,v1.0
-#  https://doi.org/10.48539/HBM978.SXGV.683, Accessed on June 15, 2025.
+# Bhavsar, Antara,	and Bhargav Desai.	
+# 2025.	"Millitome for VU Pancreas, Female, v1.0."	
+# https://doi.org/10.48539/HBM978.SXGV.683.	Accessed June 15, 2025.
 datatable:
   - extraction-sites.jsonld

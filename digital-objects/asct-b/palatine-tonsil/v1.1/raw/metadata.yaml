@@ -43,11 +43,12 @@ funders:
 hubmapId: HBM674.FKTS.997
 doi: https://doi.org/10.48539/HBM674.FKTS.997
 citation: >-
-  Werner Müller; Silvia Rüberg; Andreas Bosio. HuBMAP ASCT+B Tables. Palatine
-  tonsil, v1.1, [https://doi.org/10.48539/HBM674.FKTS.997](https://doi.org/10.48539/HBM674.FKTS.997), Accessed on June 15, 2024.
+  Müller, Werner,	Silvia Rüberg,	and Andreas Bosio.	
+  2024.	"HuBMAP ASCT+B Tables. Palatine Tonsil v1.1."	
+  https://doi.org/10.48539/HBM674.FKTS.997.	Accessed June 15, 2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2024.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2024.
 datatable:
   - asct-b-vh-palatine-tonsil.csv

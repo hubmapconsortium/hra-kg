@@ -1,6 +1,8 @@
 title: Crosswalk of Vasculature Common Coordinate Framework (VCCF) annotated cells to Cell Ontology
 description: >-
-  This crosswalk maps the cell type annotations from VCCF to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl in which many new cell types have been added since the original cell type annotations were mapped.
+  "This crosswalk maps the cell type annotations from Vasculature Common Coordinate Framework (VCCF) to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl 
+
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are available under ""Ontologies Extended"" at https://apps.humanatlas.io/dashboard/data. "
 creators:
   - fullName: Aleix Puig-Barbe
     firstName: Aleix
@@ -34,9 +36,9 @@ funders:
 # hubmapId: HBM485.ZNHM.242
 # doi: https://doi.org/10.48539/HBM485.ZNHM.242
 # citation: >-
-#  Aleix Puig-Barbe. Crosswalk of Vasculature Common Coordinate Framework (VCCF) annotated cells to Cell Ontology,v1.0
-#  (https://doi.org/10.48539/HBM485.ZNHM.242), Accessed on June 15, 2025.
+# Puig-Barbe, Aleix.	
+# 2025.	"Crosswalk of Vasculature Common Coordinate Framework (VCCF) Annotated Cells to Cell Ontology, v1.0."	
+# https://doi.org/10.48539/HBM485.ZNHM.242.	Accessed June 15, 2025.
 citationOverall: >-
 datatable:
   - vccf-crosswalk.csv
-references:

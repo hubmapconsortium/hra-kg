@@ -36,7 +36,8 @@ funders:
 # hubmapId: HBM992.FPRC.558
 # doi: https://doi.org/10.48539/HBM992.FPRC.558
 # citation: >-
-#  Antara Bhavsar, Bhargav Desai. Millitome for UF Pancreas, Female,v1.0
-#  https://doi.org/10.48539/HBM992.FPRC.558, Accessed on June 15, 2025.
+# Bhavsar, Antara,	and Bhargav Desai.	
+# 2025.	"Millitome for UF Pancreas, Female, v1.0."	
+# https://doi.org/10.48539/HBM992.FPRC.558.	Accessed June 15, 2025.
 datatable:
   - extraction-sites.jsonld

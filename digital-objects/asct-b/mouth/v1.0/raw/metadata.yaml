@@ -1,7 +1,8 @@
 title: >-
   Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for
   Mouth
-description: ""
+description: 
+  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested anatomical structure of human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Mouth ASCT+B table includes detailed anatomical structures such as the gingiva, tongue, buccal mucosa, hard palate, floor of mouth, and major salivary ducts, along with associated epithelial, stromal, vascular, immune, and neural cell types. This comprehensive mapping supports research into oral epithelial differentiation, mucosal immune regulation, salivary gland biology, and related medical conditions such as periodontitis, Sjögren’s disease, and head and neck cancer."
 creators:
   - fullName: Kevin M. Byrd
     firstName: Kevin M.
@@ -35,11 +36,12 @@ funders:
 hubmapId: HBM479.XPML.677
 doi: https://doi.org/10.48539/HBM479.XPML.677
 citation: >-
-  Ellen M. Quardokus. HuBMAP ASCT+B Tables. Anatomical Systems,
-  v1.0,https://doi.org/10.48539/HBM479.XPML.677, Accessed on June 15, 2025.
+  Quardokus, Ellen M.	
+  2025.	"HuBMAP ASCT+B Tables. Anatomical Systems, v1.0."	
+  https://doi.org/10.48539/HBM479.XPML.677.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2025.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2025.
 datatable:
   - asct-b-vh-mouth.csv

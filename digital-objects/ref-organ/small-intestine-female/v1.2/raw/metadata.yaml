@@ -1,12 +1,9 @@
 title: 3D Reference Organ for Small Intestine, Female
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Female, provided by the National Library of
-  Medicine. The small intestines have been updated to include a measurement
-  system. A centerline was made in the center of the intestines, and markers
-  placed along the centerline. The teal discs measure 5 cm along the intestines,
-  the green dashes measure 1 cm. The yellow disc marks the jejunoileal junction.
-  The VHF small intestine total length is 200 cm.
+  "This reference organ (https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002). The small intestines have been updated to include a measurement system. A centerline was made in the center of the intestines, and markers placed along the centerline. The teal discs measure 5 cm along the intestines, the green dashes measure 1 cm. The yellow disc marks the jejunoileal junction. The VHF small intestine total length is 200 cm.
+
+  Bibliography:
+  Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human Simulation.” The Anatomical Record 253 (2): 49–57. https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.    "
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -40,14 +37,13 @@ funders:
 hubmapId: HBM784.FBXB.245
 doi: https://doi.org/10.48539/HBM784.FBXB.245
 citation: >-
-  Kristen Browne; Heidi Schlehlein 2024. *3D Reference Organ for Small
-  Intestine, Female v1.2.*
-  [https://doi.org/10.48539/HBM784.FBXB.245](https://doi.org/10.48539/HBM784.FBXB.245).
-  Accessed on June 15, 2024.
+  Browne, Kristen, and Heidi Schlehlein. 2024. *3D Reference Organ for Small Intestine, Female v1.2*.
+  https://doi.org/10.48539/HBM784.FBXB.245. Accessed on June 15, 2024.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2024. *HuBMAP CCF 3D Reference Object Library*.
-  https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
+  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024.
+  *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
 datatable:
   - 3d-vh-f-small-intestine.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9

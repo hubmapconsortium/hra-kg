@@ -1,7 +1,7 @@
 title: >-
   Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for
   Anatomical Systems
-description: ""
+description: "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Anatomical Systems table serves as a hierarchical index to other ASCT+B tables."
 creators:
   - fullName: Ellen M. Quardokus
     firstName: Ellen
@@ -27,12 +27,13 @@ funders:
 hubmapId: HBM723.WZWK.335
 doi: https://doi.org/10.48539/HBM723.WZWK.335
 citation: >-
-  Ellen M. Quardokus. HuBMAP ASCT+B Tables. Anatomical Systems,
-  v1.2,https://doi.org/10.48539/HBM723.WZWK.335, Accessed on June 15, 2025.
+  Quardokus, Ellen M.	
+  2025.	"HuBMAP ASCT+B Tables. Anatomical Systems, v1.2."	
+  https://doi.org/10.48539/HBM723.WZWK.335.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2025.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2025.
 datatable:
   - asct-b-vh-anatomical-systems.csv
 references:

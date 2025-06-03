@@ -1,5 +1,9 @@
 title: CTPop
-description: 'CTPop (Paper Version) is part of the Human Reference Atlas (HRA) <https://humanatlas.io>'
+description:
+  "Graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph data that are useful for Human Reference Atlas use cases. This graph curates a deprecated version of the Human Reference Atlas Cell Type Populations (HRApop) (Börner et al. 2025).
+
+  Bibliography:
+  Börner, Katy, Philip D. Blood, Jonathan C. Silverstein, Matthew Ruffalo, Rahul Satija, Sarah A. Teichmann, Gloria J. Pryhuber, et al. 2025. “Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage.” Nature Methods, March, 1–16. https://doi.org/10.1038/s41592-024-02563-5."
 creators:
   - fullName: Andreas Bueckle
     firstName: Andreas
@@ -65,11 +69,17 @@ funders:
 # hubmapId: 
 # doi: 
 citation: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
-  [TBD](https://doi.org/TBD)
+  Bueckle, Andreas,	Lu Chen,	Bruce W. Herr II,	Daniel Bolin,	Vicky Daiya,	
+  Devin Wright,	Dan Qaurooni,	Fusheng Wang,	and Katy Börner.	
+  2025.	"Computing and Visualizing the Cells of the Anatomical Structures of the Human Reference Atlas."	
+  https://doi.org/TBD. Accessed December 1, 2023.
 citationOverall: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
-  [TBD](https://doi.org/TBD)
+  Bueckle, Andreas,	Lu Chen,	Bruce W. Herr II,	Daniel Bolin,	Vicky Daiya,	
+  Devin Wright,	Dan Qaurooni,	Fusheng Wang,	and Katy Börner.	
+  2025.	"Computing and Visualizing the Cells of the Anatomical Structures of the Human Reference Atlas."	
+  https://doi.org/TBD. Accessed December 1, 2023.
 datatable:
   - enriched_rui_locations.jsonld
   - as-cell-summaries.jsonld
+references:
+  - https://doi.org/10.1038/s41592-024-02563-5

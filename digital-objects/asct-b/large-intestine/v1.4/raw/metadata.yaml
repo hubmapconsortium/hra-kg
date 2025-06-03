@@ -2,11 +2,7 @@ title: >-
   Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Large
   Intestine
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.
+  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested large-intestine structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Large Intestine ASCT+B table includes detailed anatomical structures such as the cecum, ascending colon, transverse colon, descending colon, sigmoid colon, rectum, and anal canal. Associated cell types, including various epithelial and immune cells, are mapped alongside relevant biomarkers. This comprehensive mapping supports research into gastrointestinal biology and related medical conditions."
 creators:
   - fullName: Teri A. Longacre
     firstName: Teri
@@ -54,12 +50,12 @@ funders:
 hubmapId: HBM325.ZPWW.358
 doi: https://doi.org/10.48539/HBM325.ZPWW.358
 citation: >-
-  Teri A. Longacre; John Hickey; Yiing Lin, HuBMAP ASCT+B Tables. Large
-  Intestine v1.4, https://doi.org/10.48539/HBM325.ZPWW.358, Accessed on June
-  15, 2025.
+  Longacre, Teri A.,	John Hickey,	and Yiing Lin.	
+  2025.	"HuBMAP ASCT+B Tables. Large Intestine v1.4."	
+  https://doi.org/10.48539/HBM325.ZPWW.358.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2025. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2025.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2025.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2025.
 datatable:
   - asct-b-vh-large-intestine.csv

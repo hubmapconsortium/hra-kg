@@ -2,27 +2,11 @@ title: >-
   OMAP-28: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging
   of Heart with CODEX
 description: >-
-  The heart OMAP panel was designed for CO-Detection by indEXing (CODEX) with the
-  Akoya Biosciences PhenoCycler system on human formalin fixed paraffin embedded (FFPE)
-  heart samples. Antigen retrieval was performed by heating the tissue samples in
-  Dako Target Retrieval Solution (pH 9) within a high-pressure cooker for 20 minutes.
-  Subsequently, to minimize tissue autofluorescence, the sample slides were incubated
-  in a solution of 4.5% (w/v) hydrogen peroxide (H₂O₂) and 20mM sodium hydroxide (NaOH)
-  in PBS. This incubation was combined with photoirradiation using two broad-spectrum
-  LED light sources for two cycles of 45 minutes each, with the slides positioned
-  between the light sources. The complete CODEX protocol is available at https://doi.org/10.17504/protocols.io.5jyl8pzodg2w/v1.
-  The panel contains 38 antibodies and the nuclear marker DAPI. This OMAP provides
-  a spatial context for 26 anatomical structures and 14 cell types present in the
-  ASCT+B Heart table, v1.5  (https://lod.humanatlas.io/asct-b/heart/v1.5/). Cell membrane
-  markers (Sodium-Potassium ATPase, CD45, vimentin) and nuclear marker DAPI are used
-  for cell segmentation. In general, OMAP-28 was aimed to provide a broad representation
-  of cell types found in the heart including cardiomyocytes (atrial and/or ventricular),
-  vascular endothelial cells, lymphatic endothelial cells, pericytes, vascular smooth
-  muscle cells, lymphocytes, macrophages, fibroblasts, adipocytes, mesothelial cells,
-  and Schwann cells.  All of the major cell types are represented, although cell states
-  and subtypes of immune cells may be future additions to the panel. Markers of the
-  specialized pacemaking regions of the heart, the sinoatrial and atrioventricular
-  nodes, are also provided.
+  "OMAP-28 was designed for CO-Detection by indEXing (CODEX) with the Akoya Biosciences PhenoCycler system on human formalin fixed paraffin embedded (FFPE) heart samples. Antigen retrieval was performed by heating the tissue samples in Dako Target Retrieval Solution (pH 9) within a high-pressure cooker for 20 minutes. Subsequently, to minimize tissue autofluorescence, the sample slides were incubated in a solution of 4.5% (w/v) hydrogen peroxide (H₂O₂) and 20mM sodium hydroxide (NaOH) in PBS. This incubation was combined with photoirradiation using two broad-spectrum LED light sources for two cycles of 45 minutes each, with the slides positioned between the light sources. The complete CODEX protocol is available at (Ahn et al. 2024). The panel contains 38 antibodies and the nuclear marker DAPI. This OMAP provides a spatial context for 26 anatomical structures and 14 cell types present in the ASCT+B Heart table, v1.5 (Lin, Halushka, and Boppana 2024). Cell membrane markers (Sodium-Potassium ATPase, CD45, vimentin) and nuclear marker DAPI are used for cell segmentation. In general, OMAP-28 was aimed to provide a broad representation of cell types found in the heart including cardiomyocytes (atrial and/or ventricular), vascular endothelial cells, lymphatic endothelial cells, pericytes, vascular smooth muscle cells, lymphocytes, macrophages, fibroblasts, adipocytes, mesothelial cells, and Schwann cells. All of the major cell types are represented, although cell states and subtypes of immune cells may be future additions to the panel. Markers of the specialized pacemaking regions of the heart, the sinoatrial and atrioventricular nodes, are also provided.
+
+  Bibliography:
+  Ahn, Kyung J., Shovik Bandyopadhyay, Anusha Thadi, and Kai Tan. 2024. “Phenocycler-Fusion Staining Protocol For FFPE Tissue,” January. https://www.protocols.io/view/phenocycler-fusion-staining-protocol-for-ffpe-tiss-c8cyzsxw.
+  Lin, Shin, Marc Halushka, and Avinash Boppana. 2024. “Heart (v1.5) Graph Data, v1.5.” 2024. https://lod.humanatlas.io/asct-b/heart/v1.5/."
 creators:
   - fullName: Kyung Jin Ahn
     firstName: Kyung Jin
@@ -78,18 +62,20 @@ funders:
 hubmapId: HBM564.VPJV.699
 doi: https://doi.org/10.48539/HBM564.VPJV.699
 citation: >-
-  Kyung Jin Ahn and Kai Tan. OMAP-28: Organ Mapping Antibody Panel (OMAP)
-  for Multiplexed Antibody-Based Imaging of Heart with CODEX, v1.0,
-  https://doi.org/10.48539/HBM564.VPJV.699 Accessed June 15, 2025.
+  Ahn, Kyung Jin,	and Kai Tan.	
+  2025.	"OMAP-28: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Heart with CODEX, v1.0."	
+  https://doi.org/10.48539/HBM564.VPJV.699.	Accessed June 15, 2025.
+
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C,  Rajbhandari
-  P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV,  Croteau
-  J, Wiblin AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC,  Spraggins JM, Pryhuber
-  GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D,  Caldwell MA, Vlachos IS, Muller
-  W, Gehlenborg N, Stockwell BR,Lundberg E,  Snyder MP, Germain RN, Camarillo JM,
-  Kelleher NL, Börner K, Radtke AJ.  Organ Mapping Antibody Panels: a community resource
-  for standardized multiplexed  tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8,  https://doi.org/10.1038/s41592-023-01846-7.
-  Accessed June 15, 2025.
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
 datatable:
   - omap-28-heart-codex.csv
   - omap-28-heart-codex.xlsx

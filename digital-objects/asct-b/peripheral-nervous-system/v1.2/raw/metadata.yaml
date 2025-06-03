@@ -2,11 +2,7 @@ title: >-
   Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for
   Peripheral Nervous System
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.
+  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested peripheral-nervous-system structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The peripheral nervous system (PNS) ASCT+B table delineates the hierarchical organization of peripheral nerves, including cranial and spinal nerves, and their associated ganglia. It maps various cell types such as Schwann cells and satellite glial cells, along with relevant biomarkers, providing a comprehensive framework for understanding the PNS's structure and function."
 creators:
   - fullName: Nazanin Ebrahimi
     firstName: Nazanin
@@ -48,12 +44,12 @@ funders:
 hubmapId: HBM596.SBGH.587
 doi: https://doi.org/10.48539/HBM596.SBGH.587
 citation: >-
-  Nazanin Ebrahimi, Bernard de Bono, Ilias Ziogas, Fahim Imam, HuBMAP ASCT+B
-  Tables. Peripheral Nervous System v1.2
-  [https://doi.org/10.48539/HBM596.SBGH.587](hhttps://doi.org/10.48539/HBM596.SBGH.587)
+  Ebrahimi, Nazanin,	Bernard de Bono,	Ilias Ziogas,	and Fahim Imam.	
+  2024.	"HuBMAP ASCT+B Tables. Peripheral Nervous System v1.2."	
+  https://doi.org/10.48539/HBM596.SBGH.587. Accessed June 15, 2024.  
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2024.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2024.
 datatable:
   - asct-b-vh-peripheral-nervous-system.csv

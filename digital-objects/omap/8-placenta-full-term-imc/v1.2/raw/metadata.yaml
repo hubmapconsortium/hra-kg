@@ -2,25 +2,13 @@ title: >-
   OMAP-8: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
   Imaging of Placenta with Imaging Mass Cytometry (IMC)
 description: >-
-  OMAP-8 was designed for Imaging Mass Cytometry (IMC)  (https://pubmed.ncbi.nlm.nih.gov/24584193/)
-  of formalin fixed paraffin  embedded (FFPE) human term-placenta samples. The tissue
-  slides were prepared  with a two-step antigen retrieval process (pH 6 and pH 9)
-  as described here:  https://doi.org/10.17504/protocols.io.bpwumpew. OMAP antibodies
-  validated by  immunohistochemistry and IMC were conjugated to polymers containing
-  metal  isotopes. Conjugated antibodies were used to stain processed human  term-placenta
-  tissue simultaneously. Regions of the processed tissue were  then acquired on the
-  imaging mass cytometer (Hyperion, Standard BioTools)  by laser ablation and visualized.
-  The panel contains 26 antibodies conjugated  to unique metal isotopes and iridium
-  marks the DNA. This OMAP provides a  spatial context for key placenta cell types
-  in the [ASCT+B v.1.0 table]
-  (https://doi.org/10.48539/HBM446.WGLG.755). Single-cell RNA sequencing data  were
-  used to guide marker selection for multiplexed tissue imaging. For  example, ASCL2,
-  HLA-G, PD-L1, CD68 and LYVE1 allow functionally specialized  cell types to be visualized
-  and quantified in the placenta. Note that one of  our core antibodies is to LYVE1
-  but, unlike in other tissues where it is used  to mark lymphatic vasculature, here
-  we use it to mark the macrophage of the  placenta (Hofbauer cells). There should
-  be no lymphatics in the placenta. A  representative dataset using this OMAP can
-  be found here:  https://zenodo.org/records/10406597.
+  "OMAP-8 was designed for Imaging Mass Cytometry (IMC) (Giesen et al. 2014) of formalin fixed paraffin embedded (FFPE) human term-placenta samples. The tissue slides were prepared with a two-step antigen retrieval process (pH 6 and pH 9) as described here: (McDonough et al. 2020). OMAP antibodies validated by immunohistochemistry and IMC were conjugated to polymers containing metal isotopes. Conjugated antibodies were used to stain processed human term-placenta tissue simultaneously. Regions of the processed tissue were then acquired on the imaging mass cytometer (Hyperion, Standard BioTools) by laser ablation and visualized. The panel contains 26 antibodies conjugated to unique metal isotopes and iridium marks the DNA. This OMAP provides a spatial context for key placenta cell types in the ASCT+B v.1.0 table (Laurent, Parast, and Fisch 2022). Single-cell RNA sequencing data were used to guide marker selection for multiplexed tissue imaging. For example, ASCL2, HLA-G, PD-L1, CD68 and LYVE1 allow functionally specialized cell types to be visualized and quantified in the placenta. Note that one of our core antibodies is to LYVE1 but, unlike in other tissues where it is used to mark lymphatic vasculature, here we use it to mark the macrophage of the placenta (Hofbauer cells). There should be no lymphatics in the placenta. A representative dataset using this OMAP can be found here: (Robson, Ramasamy, and Sivajothi 2023).
+
+  Bibliography:
+  Giesen, Charlotte, Hao A. O. Wang, Denis Schapiro, Nevena Zivanovic, Andrea Jacobs, Bodo Hattendorf, Peter J. Schüffler, et al. 2014. “Highly Multiplexed Imaging of Tumor Tissues with Subcellular Resolution by Mass Cytometry.” Nature Methods 11 (4): 417–22. https://doi.org/10.1038/nmeth.2869.
+  Laurent, Louise, Mana Parast, and Kathleen Fisch. 2022. “Placenta-Full-Term (v1.0) Graph Data, v1.0.” 2022. https://lod.humanatlas.io/asct-b/placenta-full-term/v1.0/.
+  McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVETM Platform | Slide Clearing and Antigen Retrieval,” December. https://doi.org/10.17504/protocols.io.bpwumpew.
+  Robson, Paul, Ramalakshmi Ramasamy, and Santhosh Sivajothi. 2023. “OMAP-8: Multiplexed Antibody-Based Imaging of Placenta with Imaging Mass Cytometry (IMC), v1.0.” Zenodo. https://zenodo.org/records/10406597."
 creators:
   - fullName: Paul Robson
     firstName: Paul
@@ -78,24 +66,19 @@ funders:
 hubmapId: HBM492.PWHV.975
 doi: https://doi.org/10.48539/HBM492.PWHV.975
 citation: >-
-  Paul Robson; Santhosh Sivajothi; Ramalakshmi Ramasamy. OMAP-8: Organ Mapping
-  Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Placenta with
-  Imaging Mass Cytometry (IMC), v1.2,https://doi.org/10.48539/HBM492.PWHV.975.
-  Accessed on June 15, 2025.
+  Robson, Paul,	Santhosh Sivajothi,	and Ramalakshmi Ramasamy.	
+  2025.	"OMAP-8: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Placenta with Imaging Mass Cytometry (IMC), v1.2."	
+  https://doi.org/10.48539/HBM492.PWHV.975.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
-  P,
-   Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J,
-  Wiblin AE,
-   Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch
-  G, Ginty  
-   F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N,
-  Stockwell BR,
-   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke
-  AJ. Organ
-   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat  
-   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed on June 15, 2025.
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
 datatable:
   - omap-8-placenta-full-term-imc.csv
   - omap-8-placenta-full-term-imc.xlsx

@@ -1,5 +1,11 @@
 title: HRApop
-description: 'HRApop is part of the Human Reference Atlas (HRA) <https://humanatlas.io>'
+description: 
+  "Graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph data that are useful for Human Reference Atlas use cases. This graph curates Human Reference Atlas Cell Type Populations (HRApop) (Börner et al. 2025). More information is presented in a related paper (Bueckle et al. 2025).
+
+  Bibliography:
+  Börner, Katy, Philip D. Blood, Jonathan C. Silverstein, Matthew Ruffalo, Rahul Satija, Sarah A. Teichmann, Gloria J. Pryhuber, et al. 2025. “Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage.” Nature Methods, March, 1–16. https://doi.org/10.1038/s41592-024-02563-5.
+
+  Bueckle, Andreas, Bruce W. Herr, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006."
 creators:
   - fullName: Andreas Bueckle
     firstName: Andreas
@@ -65,9 +71,15 @@ funders:
 # hubmapId:
 # doi:
 citation: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas [TBD](https://doi.org/TBD)
+  Bueckle, Andreas,	Lu Chen,	Bruce W. Herr II,	Daniel Bolin,	Danial Qaurooni,	
+  Michael Ginda,	Kristin Ardlie,	Fusheng Wang,	and Katy Börner.	
+  2025.	"Constructing and Using Cell Type Populations in the Human Reference Atlas."	
+  https://doi.org/TBD. Accessed June 15, 2025.
 citationOverall: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas [TBD](https://doi.org/TBD)
+  Bueckle, Andreas,	Lu Chen,	Bruce W. Herr II,	Daniel Bolin,	Danial Qaurooni,	
+  Michael Ginda,	Kristin Ardlie,	Fusheng Wang,	and Katy Börner.	
+  2025.	"Constructing and Using Cell Type Populations in the Human Reference Atlas."	
+  https://doi.org/TBD. Accessed June 15, 2025.
 datatable:
   - atlas-enriched-dataset-graph.jsonld
   - atlas-as-cell-summaries.jsonld
@@ -1157,3 +1169,6 @@ datatable:
   - corridors/fefd0029-561f-45dd-b35e-5823dd3c7334.glb
   - corridors/ff034c0c-a625-48b8-891c-857e556db1c4.glb
   - corridors/ff17f643-7838-4585-bad9-3c5fc100b340.glb
+references:
+  - https://doi.org/10.1038/s41592-024-02563-5
+  - https://doi.org/10.1101/2024.12.22.630006
