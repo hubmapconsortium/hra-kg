@@ -1,7 +1,6 @@
 title: HRA ref-organ linkml schema
 description: >-
-  Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for
-  ref-organ
+  This schema defines the structure for representing 3D reference organs and their spatial entities within the Human Reference Atlas project. It models anatomical structures as spatial entities with dimensional properties, placement information, and relationships to extraction sets for data analysis. The schema supports the representation of organ metadata, anatomical references using UBERON and FMA ontologies, and spatial placement data for anatomical mapping and registration purposes.
 creators:
   - fullName: Josef Hardi
     firstName: Josef

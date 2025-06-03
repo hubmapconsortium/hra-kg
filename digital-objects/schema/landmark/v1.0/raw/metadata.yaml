@@ -1,5 +1,5 @@
 title: HRA landmark linkml schema
-description: Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for landmark
+description: This schema defines a data model for anatomical landmarks and spatial entities within a reference coordinate system, capturing the precise spatial positioning and relationships of anatomical structures. It specifies how spatial entities (organs, tissues, cells) are positioned through spatial placements that include scaling, rotation, and translation parameters, along with extraction sets that define curated collections of anatomical features.
 creators:
   - fullName: Josef Hardi
     firstName: Josef

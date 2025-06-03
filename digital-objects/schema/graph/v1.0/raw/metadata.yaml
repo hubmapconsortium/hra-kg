@@ -1,5 +1,5 @@
 title: HRA graph linkml schema
-description: Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for graph
+description: This schema defines a minimal data model for graph-based data structures, providing a standardized container with metadata but without specifying the actual graph content format. It serves as a flexible framework for publishing various types of graph data (knowledge graphs, network data, relationship structures) while ensuring consistent metadata documentation including provenance, versioning, and licensing information.
 creators:
   - fullName: Josef Hardi
     firstName: Josef

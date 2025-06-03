@@ -1,7 +1,6 @@
 title: HRA cell-summary linkml schema
 description: >-
-  Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for
-  cell-summary
+  " This schema defines a data model for cell-type analysis summaries that aggregate cellular composition and gene expression data from experimental datasets. It captures cell summaries with annotation methods, modality information, and detailed breakdowns of cell types with their counts, percentages, and associated gene expression profiles."
 creators:
   - fullName: Josef Hardi
     firstName: Josef

@@ -1,5 +1,6 @@
 title: HRA asct-b linkml schema
-description: Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for asct-b
+description: 
+  "This schema defines a data model for ASCT+B (Anatomical Structures, Cell Types and Biomarkers) tables that systematically organize knowledge about the relationships between anatomical structures, cell types, and their molecular markers. It captures hierarchical anatomical organization, cell type classifications and locations, and the biomarkers (genes, proteins, lipids, metabolites, proteoforms) that characterize specific cell types within particular anatomical contexts."
 creators:
   - fullName: Josef Hardi
     firstName: Josef

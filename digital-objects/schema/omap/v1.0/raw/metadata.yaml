@@ -1,5 +1,5 @@
 title: HRA omap linkml schema
-description: Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for omap
+description: This schema defines a data model for the Organ Mapping Antibody Panel (OMAP) system, which standardizes the representation of antibodies used in multiplexed antibody-based imaging experiments. The schema captures detailed information about antibodies (including their properties, target proteins, and experimental usage), experimental cycles, antibody panels, and the multiplexed imaging experiments themselves. It enables systematic documentation and interoperability of antibody data across different research contexts by providing structured formats for recording antibody characteristics, experimental protocols, and the relationships between antibodies and their target proteins.
 creators:
   - fullName: Josef Hardi
     firstName: Josef

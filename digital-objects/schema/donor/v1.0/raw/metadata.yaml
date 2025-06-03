@@ -1,5 +1,5 @@
 title: HRA donor linkml schema
-description: Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for donor
+description: This schema defines a data model for donor information that captures essential demographic and organizational metadata about individuals who provide biological samples for research. It records standardized demographic data including age, BMI, biological sex, and race using controlled vocabularies (LOINC codes), along with institutional metadata identifying the consortium and tissue provider responsible for sample collection.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
