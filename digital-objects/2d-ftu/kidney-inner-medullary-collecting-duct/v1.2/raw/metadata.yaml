@@ -1,10 +1,10 @@
 title: 2D Inner Medullary Collecting Duct FTU for Kidney
 description: >-
-  "This functional tissue unit (FTU) illustration includes cell types related to the inner medullary collecting duct FTU in the ASCT+B Table [Kidney v1.2] (https://doi.org/10.48539/HBM248.CBJV.556). This illustration was inspired by the [Kidney Tissue Atlas Explorer] (https://atlas.kpmp.org/explorer) created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially *Human Microscopic Anatomy (Krstić 1994)* and *Histology: A Text and Atlas (Ross et al. 2003)* were referenced. Cell type diameters were primarily defined by (Hu, McDonough, and Layton 2021). Uberon describes this FTU as follows: ""The inner medullary collecting duct is the portion of the collecting duct that lies in the renal inner medulla.""
+  This functional tissue unit (FTU) illustration includes cell types related to the inner medullary collecting duct FTU in the ASCT+B Table [Kidney v1.2] (https://doi.org/10.48539/HBM248.CBJV.556). This illustration was inspired by the [Kidney Tissue Atlas Explorer] (https://atlas.kpmp.org/explorer) created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially *Human Microscopic Anatomy (Krstić 1994)* and *Histology: A Text and Atlas (Ross et al. 2003)* were referenced. Cell type diameters were primarily defined by (Hu, McDonough, and Layton 2021). Uberon describes this FTU as follows: "The inner medullary collecting duct is the portion of the collecting duct that lies in the renal inner medulla."
 
   Bibliography:
-  Layton, A. T. & Layton, H. E. (2019). A computational model of epithelial solute and water transport along a human nephron. PLOS Comput. Biol., 15, e1006108."
-  creators:
+  Layton, A. T. & Layton, H. E. (2019). A computational model of epithelial solute and water transport along a human nephron. PLOS Comput. Biol., 15, e1006108.
+creators:
   - fullName: Rachel Bajema
     firstName: Rachel
     lastName: Bajema

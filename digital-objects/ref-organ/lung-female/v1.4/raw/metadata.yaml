@@ -1,9 +1,9 @@
 title: 3D Reference Organ for Lung, Female
 description: >-
-  "This reference organ (https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002). In version 1.3, the larynx, trachea, and main bronchi were removed; however, lung lobes and intrapulmonary bronchi remain part of the lung model.
+  This reference organ (https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002). In version 1.3, the larynx, trachea, and main bronchi were removed; however, lung lobes and intrapulmonary bronchi remain part of the lung model.
 
   Bibliography:
-  Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human Simulation.” The Anatomical Record 253 (2): 49–57. https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.     "
+  Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human Simulation.” The Anatomical Record 253 (2): 49–57. https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.     
 creators:
   - fullName: Kristen Browne
     firstName: Kristen

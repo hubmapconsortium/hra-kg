@@ -1,9 +1,9 @@
 title: 2D Pulmonary Alveolus Functional Tissue Unit (FTU) for Lung
 description: >-
-  "This functional tissue unit (FTU) illustration includes cell types related to the alveolus FTU in the ASCT+B Table “Lung_v1.2” [Lung v1.2] (https://doi.org/10.48539/HBM396.QVLQ.449). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology (Ovalle and Nahirney 2021)*, *Junqueira’s Basic Histology Text & Atlas (Mescher 2021)*, *Human Microscopic Anatomy (Krstić 1994)*, and *Histology: A Text and Atlas (Ross et al. 2003)* were referenced. Especially helpful in determining the structure of the fibroblast cell types was figure 2 in (Rodríguez-Castillo et al. 2018). Uberon describes this FTU as follows: ""Spherical outcropping of the respiratory bronchioles and primary site of gas exchange with the blood. Alveoli are particular to mammalian lungs. Different structures are involved in gas exchange in other vertebrates.""
+  This functional tissue unit (FTU) illustration includes cell types related to the alveolus FTU in the ASCT+B Table “Lung_v1.2” [Lung v1.2] (https://doi.org/10.48539/HBM396.QVLQ.449). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology (Ovalle and Nahirney 2021)*, *Junqueira’s Basic Histology Text & Atlas (Mescher 2021)*, *Human Microscopic Anatomy (Krstić 1994)*, and *Histology: A Text and Atlas (Ross et al. 2003)* were referenced. Especially helpful in determining the structure of the fibroblast cell types was figure 2 in (Rodríguez-Castillo et al. 2018). Uberon describes this FTU as follows: "Spherical outcropping of the respiratory bronchioles and primary site of gas exchange with the blood. Alveoli are particular to mammalian lungs. Different structures are involved in gas exchange in other vertebrates."
 
   Bibliography:
-  Ochs, M. et al. (2004). The number of alveoli in the human lung. Am. J. Respir. Crit. Care Med., 169, 120–124."
+  Ochs, M. et al. (2004). The number of alveoli in the human lung. Am. J. Respir. Crit. Care Med., 169, 120–124.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel

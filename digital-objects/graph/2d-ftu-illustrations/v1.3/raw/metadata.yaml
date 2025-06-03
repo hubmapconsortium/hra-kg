@@ -1,11 +1,11 @@
 title: 2D FTU Illustrations
-description: 
-  "Graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph data that are useful for Human Reference Atlas use cases. This graph curates 2d ftu illustrations of the Human Reference Atlas (Bidanta et al. 2025). Details on graph Digital Objects are available in a related publication (Bueckle et al. 2025).
+description: >-
+  Graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph data that are useful for Human Reference Atlas use cases. This graph curates 2d ftu illustrations of the Human Reference Atlas (Bidanta et al. 2025). Details on graph Digital Objects are available in a related publication (Bueckle et al. 2025).
 
   Bibliography:
   Bidanta, Supriya, Katy Börner, Bruce W. Herr II, Ellen M. Quardokus, Marcell Nagy, Katherine S. Gustilo, Rachel Bajema, Elizabeth Maier, Roland Molontay, and Griffin M. Weber. 2025. “Functional Tissue Units in the Human Reference Atlas.” Nature Communications 16 (1): 1526. https://doi.org/10.1038/s41467-024-54591-6.
 
-  Bueckle, Andreas, Bruce W. Herr, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006."
+  Bueckle, Andreas, Bruce W. Herr, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
 creators:
   - fullName: Katy Börner
     firstName: Katy

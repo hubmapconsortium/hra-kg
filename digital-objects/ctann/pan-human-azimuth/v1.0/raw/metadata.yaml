@@ -1,8 +1,8 @@
 title: Crosswalk of pan-human Azimuth annotated cells to Cell Ontology
 description: >-
-  "This crosswalk maps the cell type annotations from pan-human Azimuth to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl 
+  This crosswalk maps the cell type annotations from pan-human Azimuth to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl 
 
-  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are available under ""Ontologies Extended"" at https://apps.humanatlas.io/dashboard/data. "
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
 creators:
   - fullName: Aleix Puig-Barbe
     firstName: Aleix

@@ -1,9 +1,9 @@
 title: 2D White Pulp Functional Tissue Unit (FTU) for Spleen
 description: >-
-  "This functional tissue unit (FTU) illustration includes cell types related to the white pulp of spleen FTU in the ASCT+B Table [Spleen v1.3] (https://doi.org/10.48539/HBM763.QFRB.477). Multiple histology atlases, especially *Human Microscopic Anatomy (Krstić 1994) and Netter’s Essential Histology (Ovalle and Nahirney 2021)* were referenced. Primary references: *Steiniger (2015), “Human Spleen Microanatomy: Why Mice Do Not Suffice” (Immunology 145(3): 334–346), and Mebius and Kraal (2005), “Structure and Function of the Spleen” (Nat Rev Immunol 5: 606–616)*. Uberon describes this FTU as follows: ""The parenchymatous tissue of the spleen that surrounds splenic blood vessels, consists of compact masses of lymphatic cells and is where foreign material removed from the blood is used to initiate an immune reaction that results in the production of antibodies."" 
+  This functional tissue unit (FTU) illustration includes cell types related to the white pulp of spleen FTU in the ASCT+B Table [Spleen v1.3] (https://doi.org/10.48539/HBM763.QFRB.477). Multiple histology atlases, especially *Human Microscopic Anatomy (Krstić 1994) and Netter’s Essential Histology (Ovalle and Nahirney 2021)* were referenced. Primary references: *Steiniger (2015), “Human Spleen Microanatomy: Why Mice Do Not Suffice” (Immunology 145(3): 334–346), and Mebius and Kraal (2005), “Structure and Function of the Spleen” (Nat Rev Immunol 5: 606–616)*. Uberon describes this FTU as follows: "The parenchymatous tissue of the spleen that surrounds splenic blood vessels, consists of compact masses of lymphatic cells and is where foreign material removed from the blood is used to initiate an immune reaction that results in the production of antibodies." 
 
   Bibliography:
-  Elmore, S. A. (2006). Enhanced histopathology of the spleen. Toxicol. Pathol., 34, 648–655."
+  Elmore, S. A. (2006). Enhanced histopathology of the spleen. Toxicol. Pathol., 34, 648–655.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel

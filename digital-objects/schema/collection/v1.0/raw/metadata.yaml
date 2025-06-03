@@ -1,6 +1,6 @@
 title: HRA collection linkml schema
 description: >-
-  "This schema defines a data model for collections that aggregate and organize related digital objects or resources within the Human Reference Atlas ecosystem. The schema enables systematic organization and discovery of related resources while maintaining detailed provenance and membership information for comprehensive data management."
+  This schema defines a data model for collections that aggregate and organize related digital objects or resources within the Human Reference Atlas ecosystem. The schema enables systematic organization and discovery of related resources while maintaining detailed provenance and membership information for comprehensive data management.
 creators:
   - fullName: Josef Hardi
     firstName: Josef

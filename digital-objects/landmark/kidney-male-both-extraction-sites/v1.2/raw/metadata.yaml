@@ -1,6 +1,6 @@
 title: 3D Extraction Sites for Kidney Male Both
-description: 
-  "Extraction sites for kidney, male (both sides) were developed to represent a simplified coronal cross-sectional view. A narrow slice was taken along the coronal plane, approximately dividing the organ into anterior and posterior halves. The mesh was manually sectioned to generate a clean and thin coronal slice, which was then extruded to indicate the extraction region."
+description: >-
+  Extraction sites for kidney, male (both sides) were developed to represent a simplified coronal cross-sectional view. A narrow slice was taken along the coronal plane, approximately dividing the organ into anterior and posterior halves. The mesh was manually sectioned to generate a clean and thin coronal slice, which was then extruded to indicate the extraction region.
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce

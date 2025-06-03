@@ -1,11 +1,11 @@
 title: Crosswalk of Robust Image-Based Cell Annotator (RIBCA) annotated cells to Cell Ontology
 description: >-
-  "This crosswalk maps the cell type annotations from Robust Image-Based Cell Annotator (RIBCA) (Sun et al., 2024) to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl
+  This crosswalk maps the cell type annotations from Robust Image-Based Cell Annotator (RIBCA) (Sun et al., 2024) to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl
 
-  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are available under ""Ontologies Extended"" at https://apps.humanatlas.io/dashboard/data.
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data.
 
   Bibliography:
-  Sun, Huangqingbo, Shiqiu Yu, Anna Martinez Casals, Anna Bäckström, Yuxin Lu, Cecilia Lindskog, Matthew Ruffalo, Emma Lundberg, and Robert F. Murphy. 2024. “Flexible and Robust Cell Type Annotation for Highly Multiplexed Tissue Images.” bioRxiv. https://doi.org/10.1101/2024.09.12.612510."
+  Sun, Huangqingbo, Shiqiu Yu, Anna Martinez Casals, Anna Bäckström, Yuxin Lu, Cecilia Lindskog, Matthew Ruffalo, Emma Lundberg, and Robert F. Murphy. 2024. “Flexible and Robust Cell Type Annotation for Highly Multiplexed Tissue Images.” bioRxiv. https://doi.org/10.1101/2024.09.12.612510.
 creators:
   - fullName: Aleix Puig-Barbe
     firstName: Aleix

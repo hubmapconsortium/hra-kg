@@ -1,5 +1,5 @@
 title: HRA corridor linkml schema
-description: 
+description: >-
   This schema defines a data model for corridor structures that represent spatial pathways or regions of interest within anatomical spaces. It captures file-based corridor data with format specification and URL access information, enabling integration of spatial pathway models into broader anatomical mapping systems.
 creators:
   - fullName: Josef Hardi

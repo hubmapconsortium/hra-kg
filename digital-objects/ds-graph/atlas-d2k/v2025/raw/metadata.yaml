@@ -1,6 +1,6 @@
 title: ATLAS-D2K Dataset Graph
-description: 
-  "This ds-graph represents the information for tissue blocks registered for the Atlas-D2K or Genitourinary Developmental Molecular Anatomy Project (GUDMAP) (McMahon et al. 2008). It provides sample registration information submitted by consortium members in single-cell atlassing efforts, including accurate sample sizes and positions (Bueckle et al. 2025). When combined with ref-organ data, this information helps create 3D visual tissue sample placements. Additionally, the sample information is linked to datasets from researchers' assay analyses that offer deeper insights into the tissue samples. The “ds” stands for “dataset.” ds-graphs represent datasets by tissue sample and donor. 
+description: >-
+  This ds-graph represents the information for tissue blocks registered for the Atlas-D2K or Genitourinary Developmental Molecular Anatomy Project (GUDMAP) (McMahon et al. 2008). It provides sample registration information submitted by consortium members in single-cell atlassing efforts, including accurate sample sizes and positions (Bueckle et al. 2025). When combined with ref-organ data, this information helps create 3D visual tissue sample placements. Additionally, the sample information is linked to datasets from researchers' assay analyses that offer deeper insights into the tissue samples. The “ds” stands for “dataset.” ds-graphs represent datasets by tissue sample and donor. 
 
   Bibliography:
   McMahon, Andrew P., Bruce J. Aronow, Duncan R. Davidson, Jamie A. Davies, Kevin W. Gaido, Sean Grimmond, James L. Lessard, et al. 2008. “GUDMAP: The Genitourinary Developmental Molecular Anatomy Project.” Journal of the American Society of Nephrology 19 (4): 667. https://doi.org/10.1681/ASN.2007101078. 

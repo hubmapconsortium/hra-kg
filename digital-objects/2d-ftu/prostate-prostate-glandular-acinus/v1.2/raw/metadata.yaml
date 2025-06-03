@@ -1,9 +1,9 @@
 title: 2D Prostate Glandular Acinus FTU for Prostate
 description: >-
-  "This functional tissue unit (FTU) illustration includes cell types related to the prostate glandular acinus FTU in the ASCT+B Table [Prostate v1.1] (https://doi.org/10.48539/HBM542.LMZF.884). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology (Ovalle and Nahirney 2021)* and *Histology: A Text and Atlas (Ross et al. 2003)* were referenced. Definitive source: (Henry et al. 2018). Uberon describes this FTU as follows: ""A saclike structure of the prostate gland, comprised of at least three cell layers: an innermost layer of secretory columnar luminal epithelium, a middle layer of squamous basal epithelium that also contains neuroendocrine cells, transit amplifying cells, and stem cells, and an outer layer of smooth muscle intermixed with other stromal cells."" 
+  This functional tissue unit (FTU) illustration includes cell types related to the prostate glandular acinus FTU in the ASCT+B Table [Prostate v1.1] (https://doi.org/10.48539/HBM542.LMZF.884). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology (Ovalle and Nahirney 2021)* and *Histology: A Text and Atlas (Ross et al. 2003)* were referenced. Definitive source: (Henry et al. 2018). Uberon describes this FTU as follows: "A saclike structure of the prostate gland, comprised of at least three cell layers: an innermost layer of secretory columnar luminal epithelium, a middle layer of squamous basal epithelium that also contains neuroendocrine cells, transit amplifying cells, and stem cells, and an outer layer of smooth muscle intermixed with other stromal cells." 
 
   Bibliography:
-  Fullwood, N. J. et al. (2019). An analysis of benign human prostate offers insights into the mechanism of apocrine secretion and the origin of prostasomes. Sci. Rep., 9, 4582."
+  Fullwood, N. J. et al. (2019). An analysis of benign human prostate offers insights into the mechanism of apocrine secretion and the origin of prostasomes. Sci. Rep., 9, 4582.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel

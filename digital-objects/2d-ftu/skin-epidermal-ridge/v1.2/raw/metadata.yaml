@@ -1,11 +1,11 @@
 title: 2D Epidermal Ridge FTU for Skin
 description: >-
-  "This functional tissue unit (FTU) illustration includes cell types related to the epidermis in the ASCT+B Table [Skin v1.4] (https://doi.org/10.48539/HBM474.TDSP.668). Uberon describes this FTU as follows: ""The grooves in the outermost layer of skin on the palms of the hands and soles of the feet where sweat glands open."" 
+  This functional tissue unit (FTU) illustration includes cell types related to the epidermis in the ASCT+B Table [Skin v1.4] (https://doi.org/10.48539/HBM474.TDSP.668). Uberon describes this FTU as follows: "The grooves in the outermost layer of skin on the palms of the hands and soles of the feet where sweat glands open." 
 
   Bibliography:
   Aleemardani, M. et al. (2021). The Importance of Mimicking Dermal-Epidermal Junction for Skin Tissue Engineering: A Review. Bioengineering, 8, 148. 
   Roig-Rosello, E. & Rousselle, P. (2020). The Human Epidermal Basement Membrane. Biomolecules, 10, 1607. 
-  Lundström, R. et al. (2018). Vibrotactile and thermal perception and its relation to finger skin thickness. Clin. Neurophysiol. Pract., 3, 33–39."
+  Lundström, R. et al. (2018). Vibrotactile and thermal perception and its relation to finger skin thickness. Clin. Neurophysiol. Pract., 3, 33–39.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel

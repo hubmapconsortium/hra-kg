@@ -1,6 +1,6 @@
 title: HRA basic linkml schema
-description: 
-  "This schema defines a minimal, generic data model for basic digital objects that provides essential metadata structure without constraining the data content format. It serves as a foundational template for publishing any type of structured data while ensuring consistent metadata documentation including title, description, authorship, versioning, licensing, and provenance information."
+description: >-
+  This schema defines a minimal, generic data model for basic digital objects that provides essential metadata structure without constraining the data content format. It serves as a foundational template for publishing any type of structured data while ensuring consistent metadata documentation including title, description, authorship, versioning, licensing, and provenance information.
 creators:
   - fullName: Josef Hardi
     firstName: Josef

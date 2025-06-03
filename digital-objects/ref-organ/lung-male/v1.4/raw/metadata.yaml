@@ -1,11 +1,11 @@
 title: 3D Reference Organ for Lung, Male
 description: >-
-  "This reference organ (https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine (Spitzer et al. 1996; Ackerman 1998). In version 1.3, the larynx, trachea, and main bronchi were removed; however, lung lobes and intrapulmonary bronchi remain part of the lung model.
+  This reference organ (https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine (Spitzer et al. 1996; Ackerman 1998). In version 1.3, the larynx, trachea, and main bronchi were removed; however, lung lobes and intrapulmonary bronchi remain part of the lung model.
 
   Bibliography:
   Ackerman, Michael J. 1998. “The Visible Human Project.” Proceedings of the IEEE 86 (3): 504–11. https://doi.org/10.1109/5.662875.
 
-  Spitzer, V., M. J. Ackerman, A. L. Scherzinger, and D. Whitlock. 1996. “The Visible Human Male: A Technical Report.” Journal of the American Medical Informatics Association 3 (2): 118–30. https://doi.org/10.1136/jamia.1996.96236280.        "
+  Spitzer, V., M. J. Ackerman, A. L. Scherzinger, and D. Whitlock. 1996. “The Visible Human Male: A Technical Report.” Journal of the American Medical Informatics Association 3 (2): 118–30. https://doi.org/10.1136/jamia.1996.96236280.        
 creators:
   - fullName: Kristen Browne
     firstName: Kristen

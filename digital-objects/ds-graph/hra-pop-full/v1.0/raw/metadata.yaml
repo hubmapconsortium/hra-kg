@@ -1,5 +1,5 @@
 title: HRApop Full Dataset Graph
-description:
+description: >-
   "This ds-graph represents this information for the Human Reference Atlas Cell Type Populations Effort (Börner et al. 2025). It provides sample registration information submitted by consortium members in single-cell atlassing efforts, including accurate sample sizes and positions (Bueckle et al. 2025). When combined with ref-organ data, this information helps create 3D visual tissue sample placements. Additionally, the sample information is linked to datasets from researchers' assay analyses that offer deeper insights into the tissue samples. The “ds” stands for “dataset.” ds-graphs represent datasets by tissue sample and donor. It is a dataset graph for the Human Reference Atlaspop Universe. It includes all datasets considered for Human Reference Atlaspop (not enriched).
 
   Bibliography:
@@ -9,7 +9,7 @@ description:
 
   Lonsdale, John, Jeffrey Thomas, Mike Salvatore, Rebecca Phillips, Edmund Lo, Saboor Shad, Richard Hasz, et al. 2013. “The Genotype-Tissue Expression (GTEx) Project.” Nature Genetics 45 (6): 580–85. https://doi.org/10.1038/ng.2653.
 
-  Börner, Katy, Andreas Bueckle, Bruce W. Herr, Leonard E. Cross, Ellen M. Quardokus, Elizabeth G. Record, Yingnan Ju, et al. 2022. “Tissue Registration and Exploration User Interfaces in Support of a Human Reference Atlas.” Communications Biology 5 (1): 1369. https://doi.org/10.1038/s42003-022-03644-x."
+  Börner, Katy, Andreas Bueckle, Bruce W. Herr, Leonard E. Cross, Ellen M. Quardokus, Elizabeth G. Record, Yingnan Ju, et al. 2022. “Tissue Registration and Exploration User Interfaces in Support of a Human Reference Atlas.” Communications Biology 5 (1): 1369. https://doi.org/10.1038/s42003-022-03644-x.
 creators:
   - fullName: Andreas Bueckle
     firstName: Andreas

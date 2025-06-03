@@ -1,10 +1,10 @@
 title: Federated Static HRA Registrations Dataset Graph
-description: 
-  "This ds-graph represents the information for tissue blocks registered for a variety of single-cell atlassing efforts. 
+description: >-
+  This ds-graph represents the information for tissue blocks registered for a variety of single-cell atlassing efforts. 
   It provides sample registration information submitted by consortium members in single-cell atlassing efforts, including accurate sample sizes and positions (Bueckle et al. 2025). When combined with ref-organ data, this information helps create 3D visual tissue sample placements. Additionally, the sample information is linked to datasets from researchers' assay analyses that offer deeper insights into the tissue samples. The “ds” stands for “dataset.” ds-graphs represent datasets by tissue sample and donor. 
   Bibliography:
   Bueckle, Andreas, Bruce W. Herr, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
-  Börner, Katy, Andreas Bueckle, Bruce W. Herr, Leonard E. Cross, Ellen M. Quardokus, Elizabeth G. Record, Yingnan Ju, et al. 2022. “Tissue Registration and Exploration User Interfaces in Support of a Human Reference Atlas.” Communications Biology 5 (1): 1369. https://doi.org/10.1038/s42003-022-03644-x."
+  Börner, Katy, Andreas Bueckle, Bruce W. Herr, Leonard E. Cross, Ellen M. Quardokus, Elizabeth G. Record, Yingnan Ju, et al. 2022. “Tissue Registration and Exploration User Interfaces in Support of a Human Reference Atlas.” Communications Biology 5 (1): 1369. https://doi.org/10.1038/s42003-022-03644-x.
 creators:
   - fullName: Katy Börner
     firstName: Katy

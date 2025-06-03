@@ -1,9 +1,9 @@
 title: 3D Reference Organ for Lymph Node, Female, Left
 description: >-
-  "This reference organ (https://humanatlas.io/3d-reference-library) was created using the Clearing-enhanced 3D (Ce3D) method developed by Dr. Weizhe Li, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH using data documented in (Li, Germain, and Gerner 2017). While the size and cellular composition of mouse and human lymph nodes varies between species, the overall anatomy is well-conserved.
+  This reference organ (https://humanatlas.io/3d-reference-library) was created using the Clearing-enhanced 3D (Ce3D) method developed by Dr. Weizhe Li, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH using data documented in (Li, Germain, and Gerner 2017). While the size and cellular composition of mouse and human lymph nodes varies between species, the overall anatomy is well-conserved.
 
   Bibliography:
-  Li, Weizhe, Ronald N. Germain, and Michael Y. Gerner. 2017. “Multiplex, Quantitative Cellular Analysis in Large Tissue Volumes with Clearing-Enhanced 3D Microscopy (Ce3D).” Proceedings of the National Academy of Sciences 114 (35): E7321–30. https://doi.org/10.1073/pnas.1708981114."
+  Li, Weizhe, Ronald N. Germain, and Michael Y. Gerner. 2017. “Multiplex, Quantitative Cellular Analysis in Large Tissue Volumes with Clearing-Enhanced 3D Microscopy (Ce3D).” Proceedings of the National Academy of Sciences 114 (35): E7321–30. https://doi.org/10.1073/pnas.1708981114.
 creators:
   - fullName: Li Yao
     firstName: Li

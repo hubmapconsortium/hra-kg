@@ -2,9 +2,9 @@ title: >-
   Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Bone
   Marrow
 description: >-
-  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested bone-marrow structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. 
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested bone-marrow structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. 
   The tables are authored and reviewed by an international team of experts. The bone marrow table reflects sampling from the iliac crest from the ilium bone of the bony pelvis. 
-  Minor changes were made for v1.4 to ensure all cell types were mapped to Cell Ontology and genes and proteins were mapped to the Human Gene Ontology (HUGO) Gene Nomenclature Committee (HGNC)."
+  Minor changes were made for v1.4 to ensure all cell types were mapped to Cell Ontology and genes and proteins were mapped to the Human Gene Ontology (HUGO) Gene Nomenclature Committee (HGNC).
 creators:
   - fullName: Muzlifah A. Haniffa
     firstName: Muzlifah

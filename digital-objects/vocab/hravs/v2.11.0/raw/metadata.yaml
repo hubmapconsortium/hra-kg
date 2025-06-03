@@ -1,9 +1,9 @@
 title: HuBMAP Research Attributes Value Set
 description: >-
-  "A collection of curated and standardized values used by the HuBMAP metadata records to ensure uniformity in the description of samples and single-cell data produced by the consortium (Bueckle et al. 2025).
+  A collection of curated and standardized values used by the HuBMAP metadata records to ensure uniformity in the description of samples and single-cell data produced by the consortium (Bueckle et al. 2025).
 
   Bibliography:
-  Bueckle, Andreas, Bruce W. Herr, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006."
+  Bueckle, Andreas, Bruce W. Herr, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
