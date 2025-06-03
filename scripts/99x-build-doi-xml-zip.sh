@@ -23,6 +23,7 @@ for d in $DOs; do
     echo $d needs a DOI.
   else
     if [ "$CLEAN" == "true" ]; then
+      echo $d
       mkdir -p $DEPLOY_HOME/$d
       do-processor deploy-doi-xml $d
     fi
