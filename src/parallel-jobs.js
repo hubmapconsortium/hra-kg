@@ -55,8 +55,9 @@ async function runJob(host, command) {
   const wrappedCommand = `ssh ${host} 'cd ${pwd} && ${command.replace(/'/g, "'\\''")}'`;
   try {
     const { stdout, stderr } = await execAsync(wrappedCommand);
-    if (stdout) process.stdout.write(prefixMultilineString(`[${host}]`, stdout));
-    if (stderr.trim()) process.stderr.write(prefixMultilineString(`[${host} STDERR] `, stderr));
+    process.stdout.write(`[${host}] Executed ${command}`);
+    if (stdout) process.stdout.write(prefixMultilineString(`[${host} STDOUT]`, stdout));
+    if (stderr.trim()) process.stdout.write(prefixMultilineString(`[${host} STDERR] `, stderr));
   } catch (err) {
     console.error(`[${host} FAILED]`, err.message);
   } finally {
