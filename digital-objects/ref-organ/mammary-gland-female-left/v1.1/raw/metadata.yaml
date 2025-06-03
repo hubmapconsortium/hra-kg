@@ -1,8 +1,11 @@
 title: 3D Reference organ for Breast (mammary gland), Female left
 description: >-
-  The breast was sculpted from scratch to include relevant anatomy for placement
-  of registration blocks. The atlas “Human Microscopic Anatomy” (R.V. Krstić,
-  1994) and “Atlas of Anatomy” (Thieme, 2008) was referenced.
+  "This reference organ (https://humanatlas.io/3d-reference-library) was created using a custom sculpted model to include relevant anatomy for placement of registration blocks. The atlas Human Microscopic Anatomy (Krstić 1991) and Atlas of Anatomy (Gilroy, MacPherson, and Ross 2008) was referenced.
+
+  Bibliography:
+  Gilroy, Anne M., Brian R. MacPherson, and Lawrence M. Ross. 2008. Atlas of Anatomy. Thieme.
+
+  Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: Springer. https://doi.org/10.1007/978-3-662-02676-2."
 creators:
   - fullName: Heidi Schlehlein
     firstName: Heidi
@@ -32,12 +35,13 @@ funders:
 hubmapId: HBM533.BNJL.834
 doi: https://doi.org/10.48539/HBM533.BNJL.834
 citation: >-
-  Heidi Schlehlein 2024. *3D Reference Organ for Breast (mammary gland), Female
-  left, v1.1*, [https://doi.org/10.48539/HBM533.BNJL.834](https://doi.org/10.48539/HBM533.BNJL.834). Accessed on June 15, 2024.
+  Schlehlein, Heidi. 2024. "3D Reference Organ for Breast (mammary gland), Female left, v1.1."
+  https://doi.org/10.48539/HBM533.BNJL.834. Accessed on June 15, 2024.
 citationOverall: >-
-  Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy
-  Börner. 2024. *HuBMAP CCF 3D Reference Object Library*.
-  https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
+  Schlehlein, Heidi, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024.
+  "HuBMAP CCF 3D Reference Object Library." https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
 datatable:
   - 3d-vh-f-mammary-gland-l.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1007/978-3-662-02676-2

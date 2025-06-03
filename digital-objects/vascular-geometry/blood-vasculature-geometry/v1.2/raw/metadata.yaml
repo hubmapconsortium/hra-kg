@@ -1,10 +1,6 @@
 title: Blood Vasculature Geometry
 description: >-
-  This table provides geometric properties (e.g., length and diameter) of
-  selected vessels in the blood vasculature Anatomical Structures, Cell Types,
-  plus Biomarkers (ASCT+B) table. The same vessel geometric property might be
-  listed multiple times with different values. These correspond to different
-  references that reported the property.
+  This table provides geometric properties (e.g., length and diameter) of selected vessels in the blood vasculature Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table. The same vessel geometric property might be listed multiple times with different values. These correspond to different references that reported the property.
 creators:
   - fullName: Griffin Weber
     firstName: Griffin
@@ -34,13 +30,13 @@ funders:
 hubmapId: HBM727.FMQZ.589
 doi: https://doi.org/10.48539/HBM727.FMQZ.589
 citation: >-
-  Griffin Weber; Katherine S Gustilo. Blood Vasculature Geometry, v1.1,
-  https://doi.org/10.48539/HBM727.FMQZ.589, Accessed June 15, 2025.
+  Weber, Griffin,	and Katherine S. Gustilo.	
+  2025.	"Blood Vasculature Geometry, v1.1."	
+  https://doi.org/10.48539/HBM727.FMQZ.589.	Accessed June 15, 2025.
 citationOverall: >-
-  Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Katherine S.
-  Gustilo, Ellen M. Quardokus, Bruce W. Herr, Katy Börner, and Griffin M. Weber.
-  2023. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human
-  Blood Vasculature.” Scientific Data 10 (1): 452.
-  https://doi.org/10.1038/s41597-023-02018-0. Accessed June 15, 2025.
+  Boppana, Avinash,	Sujin Lee,	Rajeev Malhotra,	Marc Halushka,	Katherine S. Gustilo,	
+  Ellen M. Quardokus,	Bruce W. Herr,	Katy Börner,	and Griffin M. Weber.	
+  2023.	"Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature."	
+  *Scientific Data*	10 (1):	452.	https://doi.org/10.1038/s41597-023-02018-0.	Accessed June 15, 2025.
 datatable:
   - blood-vasculature-geometry.csv

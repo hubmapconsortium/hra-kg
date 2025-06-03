@@ -1,9 +1,9 @@
 title: 3D Reference Organ for Pancreas, Female
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Female, provided by the National Library of
-  Medicine. Adjustments were made from the previous version to make the neck
-  region smaller, and the body and tail regions more equal in length.
+  "This reference organ (https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002). In version v1.3, adjustments were made from the previous version to make the neck region smaller, and the body and tail regions more equal in length.
+
+  Bibliography:
+  Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human Simulation.” The Anatomical Record 253 (2): 49–57. https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.                "
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -37,15 +37,13 @@ funders:
 hubmapId: HBM866.PNNZ.328
 doi: https://doi.org/10.48539/HBM866.PNNZ.328
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Pancreas,
-  Female v1.3.*
-  [https://doi.org/10.48539/HBM866.PNNZ.328](https://doi.org/10.48539/HBM866.PNNZ.328).
-  Accessed on June 15, 2024.
+  Browne, Kristen, and Heidi Schlehlein. 2024. "3D Reference Organ for Pancreas, Female v1.3."
+  https://doi.org/10.48539/HBM866.PNNZ.328. Accessed on June 15, 2024.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June
-  15, 2024.
+  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024.
+  "HuBMAP CCF 3D Reference Object Library." https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
 datatable:
   - 3d-vh-f-pancreas.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9

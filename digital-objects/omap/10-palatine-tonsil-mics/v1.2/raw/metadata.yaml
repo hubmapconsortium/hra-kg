@@ -2,33 +2,11 @@ title: >-
   OMAP-10: Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with
   MACSima
 description: >-
-  OMAP-10 was designed for MICS (MACSima imaging cyclic staining) imaging  of paraformaldehyde
-  (PFA)-fixed human tonsil samples. The MICS technology  is described in detail in
-  the following publication  (https://doi.org/10.1038/s41598-022-05841-4). Most, but
-  not all, antibodies  in this panel are recombinant antibodies with a mutated human
-  IgG1 constant  region. The described mutation removes the Fc receptor binding capacity
-  of  human IgG1, eliminating the need for additional blocking steps and reducing  non-specific
-  binding of human antibodies on human tissues. Highly  multiplexed imaging is achieved
-  through cycles of immunolabeling with FITC,  PE, and APC conjugated antibodies and
-  photobleaching to eliminate  fluorescence signal between imaging cycles. The panel
-  contains 30 antibodies
-  and the nuclear marker DAPI for image alignment and nuclear segmentation.
-  This OMAP provides a spatial context for all anatomical structures and most  cell
-  types present in the human palatine tonsil. OMAP-10 follows closely  OMAP-1 described
-  for human lymph nodes  (https://cdn.humanatlas.io/hra-releases/v1.3/docs/omap/omap-1-human-lymph-node-ibex.html).  All
-  reagents were obtained from Miltenyi Biotec and have been rigorously  tested through
-  an internal quality control system to have minimal variation  between lots. For
-  this reason, lot information is not included in this table.  Analysis was performed
-  by an accompanied software package MACSIQ View Analysis
-  also described in the MICS publication  (https://doi.org/10.1038/s41598-022-05841-4).
-  The result of the analysis is  included in the uploaded dataset. In brief, the software
-  processes the raw  images of the MACSima run, generates stitched images, and then
-  allows  downstream analysis including cell segmentation, cell gating, data normalization,  dimension
-  reduction plots (tSNE, UMAP), heat maps, distance analyses and  cluster analyses,
-  all of which are interactively linked together. The  MACSima system is continuously
-  evolving, and this is the first OMAP for
-  the MACSima system. A representative dataset created using OMAP-10 can
-  be found here: (https://doi.org/10.5281/zenodo.7875937).
+  "OMAP-10 was designed for MICS (MACSima imaging cyclic staining) imaging of paraformaldehyde (PFA)-fixed human tonsil samples. The MICS technology is described in detail in the following publication (Kinkhabwala et al. 2022). Most, but not all, antibodies in this panel are recombinant antibodies with a mutated human IgG1 constant region. The described mutation removes the Fc receptor binding capacity of human IgG1, eliminating the need for additional blocking steps and reducing non-specific binding of human antibodies on human tissues. Highly multiplexed imaging is achieved through cycles of immunolabeling with FITC, PE, and APC conjugated antibodies and photobleaching to eliminate fluorescence signal between imaging cycles. The panel contains 30 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. This OMAP provides a spatial context for all anatomical structures and most cell types present in the human palatine tonsil. OMAP-10 follows closely OMAP-1 described for human lymph nodes (https://cdn.humanatlas.io/hra-releases/v1.3/docs/omap/omap-1-human-lymph-node-ibex.html). All reagents were obtained from Miltenyi Biotec and have been rigorously tested through an internal quality control system to have minimal variation between lots. For this reason, lot information is not included in this table. Analysis was performed by an accompanied software package MACSIQ View Analysis also described in the MICS publication (Kinkhabwala et al. 2022). The result of the analysis is included in the uploaded dataset. In brief, the software processes the raw images of the MACSima run, generates stitched images, and then allows downstream analysis including cell segmentation, cell gating, data normalization, dimension reduction plots (tSNE, UMAP), heat maps, distance analyses and cluster analyses, all of which are interactively linked together. The MACSima system is continuously evolving, and this is the first OMAP for the MACSima system. A representative dataset created using OMAP-10 can be found here (Müller, Rüberg, and Bosio 2023).
+
+  Bibliography:
+  Kinkhabwala, Ali, Christoph Herbel, Jennifer Pankratz, Dmytro A. Yushchenko, Silvia Rüberg, Paurush Praveen, Sandy Reiß, et al. 2022. “MACSima Imaging Cyclic Staining (MICS) Technology Reveals Combinatorial Target Pairs for CAR T Cell Treatment of Solid Tumors.” Scientific Reports 12 (1): 1911. https://doi.org/10.1038/s41598-022-05841-4.
+  Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023. “OMAP-10: Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.0.” Zenodo. https://zenodo.org/records/7875938."
 creators:
   - fullName: Werner Müller
     firstName: Werner
@@ -80,23 +58,19 @@ funders:
 hubmapId: HBM925.JGND.963
 doi: https://doi.org/10.48539/HBM925.JGND.963
 citation: >-
-  Werner Müller; Silvia Rüberg; Andreas Bosio. OMAP-10: Multiplexed
-  Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.2,
-  https://doi.org/10.48539/HBM925.JGND.963. Accessed on June 15, 2025.
+  Müller, Werner,	Silvia Rüberg,	and Andreas Bosio.	
+  2025.	"OMAP-10: Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.2."	
+  https://doi.org/10.48539/HBM925.JGND.963.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
-  P,
-   Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J,
-  Wiblin AE,
-   Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch
-  G, Ginty  
-   F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N,
-  Stockwell BR,
-   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke
-  AJ. Organ
-   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat  
-   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
 datatable:
   - omap-10-palatine-tonsil-mics.csv
   - omap-10-palatine-tonsil-mics.xlsx

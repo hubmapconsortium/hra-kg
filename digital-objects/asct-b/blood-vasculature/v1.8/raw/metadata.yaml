@@ -2,16 +2,10 @@ title: >-
   Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood
   Vasculature
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture anatomical human
-  body parts, the typology of cells, and biomarkers used to identify cell types.
-  The tables are authored and reviewed by an international team of experts. A
-  description of this blood vasculature ASCT+B table can be found in "Anatomical
-  structures, cell types, and biomarkers of the healthy human blood vasculature"
-  by [Boppana et al. 2023](https://doi.org/10.1038/s41597-023-02018-0). The
-  database and code used to generate the more simplified view of the blood
-  vasculature in these ASCT+B tables may be found
-  [here](https://github.com/hubmapconsortium/hra-vccf).
+  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. A description of this Blood Vasculature ASCT+B table can be found in ""Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature"" by Boppana et al. 2023. The database and code used to generate the more simplified view of the Blood Vasculature in these ASCT+B tables may be found here : (https://github.com/hubmapconsortium/hra-vccf).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+  Bibliography:                                                                                                                                          
+  Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Katherine S. Gustilo, Ellen M. Quardokus, Bruce W. Herr, Katy Börner, and Griffin M. Weber. 2023. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature.” Scientific Data 10 (1): 452. https://doi.org/10.1038/s41597-023-02018-0.                                                                                                                                                                                                                                                                                                                                                                                         
+  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” Nature Cell Biology 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6. "
 creators:
   - fullName: Griffin Weber
     firstName: Griffin
@@ -57,12 +51,13 @@ funders:
 hubmapId: HBM252.TTQD.772
 doi: https://doi.org/10.48539/HBM252.TTQD.772
 citation: >-
-  Griffin Weber; Sujin Lee; Rajeev Malhotra. HuBMAP ASCT+B Tables. Blood
-  Vasculature v1.8 (https://doi.org/10.48539/HBM252.TTQD.772),
-  Accessed on June 15, 2025.
+  Weber, Griffin,	Sujin Lee,	and Rajeev Malhotra.	
+  2025.	"HuBMAP ASCT+B Tables. Blood Vasculature v1.8."	
+  https://doi.org/10.48539/HBM252.TTQD.772.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2025.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2025.
 datatable:
   - asct-b-vh-blood-vasculature.csv
 references:

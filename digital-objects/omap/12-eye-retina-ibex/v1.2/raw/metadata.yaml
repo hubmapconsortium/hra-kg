@@ -2,22 +2,13 @@ title: >-
   OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
   Imaging of Human Retina with IBEX
 description: >-
-  OMAP-12 was designed for IBEX (Iterative Bleaching Extends multi-pleXity)  imaging
-  of fixed frozen human retina samples  (https://doi.org/10.1038/s41596-021-00644-9;  https://doi.org/10.1073/pnas.2018488117).
-  The panel contains 14 antibodies,  3 lectins, and DAPI for image alignment and nuclear
-  segmentation. The OMAP  provides a spatial context for the main anatomical structures
-  and key cell  types present in the healthy human retina including photoreceptors,
-  bipolar  cells, ganglion cells, astrocytes, microglia, Muller glia, and retinal  vascular
-  endothelium. Broad neuronal classes are imaged, but not separated  into fine subpopulations
-  partly due to the lack of antibody reagents  (e.g., all amacrine, ganglion cell,
-  and bipolar cell subtypes). Fluorescent  lectins PNA, Isolectin B4, and Phalloidin
-  were used to visualize  oligosaccharides for typing cell types such as cone photoreceptors,  vascular
-  endothelium, and outer limiting membrane, respectively. These  reagents are visualized
-  in the accompanying dataset but not included in the  OMAP because they are not antibodies.
-  Additional details on sample  preparation and imaging can be found here  (https://doi.org/10.1038/s41596-021-00644-9).
-  Custom conjugations were  performed for several antibodies according to the manufacturers'
-  protocols.  A representative dataset acquired using this OMAP has been uploaded
-  here:  (https://doi.org/10.5281/zenodo.7777285).
+  "OMAP-12 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human retina samples (Radtke et al. 2022; 2020). The panel contains 14 antibodies, 3 lectins, and DAPI for image alignment and nuclear segmentation. The OMAP provides a spatial context for the main anatomical structures and key cell types present in the healthy human retina including photoreceptors, bipolar cells, ganglion cells, astrocytes, microglia, Muller glia, and retinal vascular endothelium. Broad neuronal classes are imaged, but not separated into fine subpopulations partly due to the lack of antibody reagents (e.g., all amacrine, ganglion cell, and bipolar cell subtypes). Fluorescent lectins PNA, Isolectin B4, and Phalloidin were used to visualize oligosaccharides for typing cell types such as cone photoreceptors, vascular endothelium, and outer limiting membrane, respectively. These reagents are visualized in the accompanying dataset but not included in the OMAP because they are not antibodies. Additional details on sample preparation and imaging can be found here (Radtke et al. 2022). Custom conjugations were performed for several antibodies according to the manufacturers' protocols. A representative dataset acquired using this OMAP has been uploaded here (Chu 2023). Additional details on the IBEX method, sample preparation, reagent validation, and example datasets can be found on the IBEX Knowledge-Base (Radtke et al. 2025, Yaniv et al. 2025).
+
+  Bibliography:
+  Chu, Colin J. 2023. “Human Retina OMAP-12.” Zenodo. https://doi.org/10.5281/zenodo.7777286.
+  Radtke, Andrea J., Colin J. Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T. Beuschel, Hiroshi Ichise, et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” Nature Protocols 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
+  Radtke, Andrea J., Evelyn Kandov, Bradley Lowekamp, Emily Speranza, Colin J. Chu, Anita Gola, Nishant Thakur, et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial Analysis of Cells in Complex Tissues.” Proceedings of the National Academy of Sciences 117 (52): 33455–65. https://doi.org/10.1073/pnas.2018488117.           
+  Radtke, Andrea J., Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et al. 2025. “The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques.” PLoS Biol 23(3): e3003070. https://doi. org/10.1371/journal.pbio.3003070."                                                                                                                                                                                 Yaniv, Ziv, Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of Immunofluoresence Imaging Methods.” eLife14:RP105737. 
 creators:
   - fullName: Colin J. Chu
     firstName: Colin
@@ -63,23 +54,19 @@ funders:
 hubmapId: HBM438.GKBC.879
 doi: https://doi.org/10.48539/HBM438.GKBC.879
 citation: >-
-  Colin J. Chu. OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed
-  Antibody-Based Imaging of Human Retina with IBEX, v1.2,
-  https://doi.org/10.48539/HBM438.GKBC.879. Accessed on June 15, 2025.
+  Chu, Colin J.	
+  2025.	"OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX, v1.2."	
+  https://doi.org/10.48539/HBM438.GKBC.879.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
-  P,
-   Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J,
-  Wiblin AE,
-   Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch
-  G, Ginty  
-   F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N,
-  Stockwell BR,
-   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke
-  AJ. Organ
-   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat  
-   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
 datatable:
   - omap-12-eye-retina-ibex.csv
   - omap-12-eye-retina-ibex.xlsx
@@ -88,5 +75,5 @@ references:
   - https://doi.org/10.1038/s41596-021-00644-9
   - https://doi.org/10.5281/zenodo.7777285
   - https://doi.org/10.5281/zenodo.7777286
-  - https://doi. org/10.1371/journal.pbio.3003070
+  - https://doi.org/10.1371/journal.pbio.3003070
  

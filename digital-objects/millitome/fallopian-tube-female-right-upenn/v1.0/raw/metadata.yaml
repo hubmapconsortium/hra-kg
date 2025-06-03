@@ -36,7 +36,8 @@ funders:
 # hubmapId: HBM295.LWNG.395
 # doi: https://doi.org/10.48539/HBM295.LWNG.395
 # citation: >-
-#  Antara Bhavsar, Bhargav Desai. Millitome for UPenn Fallopian Tube, Female, Right,v1.0
-#  https://doi.org/10.48539/HBM295.LWNG.395, Accessed on June 15, 2025.
+# Bhavsar, Antara,	and Bhargav Desai.	
+# 2025.	"Millitome for UPenn Fallopian Tube, Female, Right, v1.0."	
+# https://doi.org/10.48539/HBM295.LWNG.395.	Accessed June 15, 2025.
 datatable:
   - extraction-sites.jsonld

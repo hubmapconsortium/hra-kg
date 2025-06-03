@@ -1,8 +1,9 @@
 title: 2D Bronchial Submucosal Gland FTU for Lung
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to
-  the bronchial submucosal gland FTU in the Anatomical Structures, Cell Types
-  and Biomarkers table [Lung v1.2](https://doi.org/10.48539/HBM396.QVLQ.449).
+  "This functional tissue unit (FTU) illustration includes cell types related to the bronchial submucosal gland FTU in the ASCT+B Table [Lung v1.2] (https://doi.org/10.48539/HBM396.QVLQ.449). Uberon describes this FTU as follows: ""A submucosal gland located in a bronchus."" 
+
+  Bibliography:
+  Ostedgaard, L. S. et al. (2020). Lack of airway submucosal glands impairs respiratory host defenses. eLife, 9, e59653."
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -32,14 +33,11 @@ funders:
 hubmapId: HBM656.TJVD.294
 doi: https://doi.org/10.48539/HBM656.TJVD.294
 citation: >-
-  Rachel Bajema 2023. *2D Reference Bronchial Submucosal Gland FTU for Lung,
-  v1.2.* https://doi.org/10.48539/HBM656.TJVD.294. Accessed on June 15,
-  2025.
+  Bajema, Rachel. 2023. *2D Reference Bronchial Submucosal Gland FTU for Lung, v1.2*.
+  https://doi.org/10.48539/HBM656.TJVD.294. Accessed on June 15, 2025.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2023. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on June
-  15, 2025.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023.
+  *HuBMAP CCF 2D Reference Object Library*. Accessed on June 15, 2025. https://humanatlas.io/2d-ftu-illustrations). 
 datatable:
   - 2d-ftu-lung-bronchial-submucosal-gland.svg
   - 2d-ftu-lung-bronchial-submucosal-gland.png

@@ -1,10 +1,9 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Ureter
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.
+  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested ureter structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Ureter ASCT+B table provides a comprehensive mapping of the anatomical structures, cell types, and biomarkers specific to the human ureter. This table includes detailed hierarchical relationships among ureteral anatomical structures, associated cell types, and their corresponding biomarkers. It serves as a valuable resource for understanding the cellular composition and molecular characteristics of the ureter within the human reference atlas. A description of this Ureter ASCT+B table can be found in ""Anatomical Structures, Cell Types, and Biomarkers Tables Plus 3D Reference Organs in Support of a Human Reference Atlas"" by Börner et al. 2021. The database and code used to generate the more simplified view of the Ureter in these ASCT+B tables may be found here: (https://github.com/hubmapconsortium/hra-vccf).                                                                                                                                                                                                                                                                                                                                                                             
+
+  Bibliography:
+  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” Nature Cell Biology 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6."
 creators:
   - fullName: Douglas Strand
     firstName: Douglas
@@ -36,10 +35,14 @@ funders:
 hubmapId: HBM882.LRSF.394
 doi: https://doi.org/10.48539/HBM882.LRSF.394
 citation: >-
-  Douglas Strand; Sanjay Jain, HuBMAP ASCT+B Tables. Ureter v1.0
-  [https://doi.org/10.48539/HBM882.LRSF.394](https://doi.org/10.48539/HBM882.LRSF.394)
+  Strand, Douglas,	and Sanjay Jain.	
+  2024.	"HuBMAP ASCT+B Tables. Ureter v1.0."	
+  https://doi.org/10.48539/HBM882.LRSF.394. Accessed December 1, 2021
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on Dec 1, 2021.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2021.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 1, 2021.
 datatable:
   - ASCT-B_VH_Ureter.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6

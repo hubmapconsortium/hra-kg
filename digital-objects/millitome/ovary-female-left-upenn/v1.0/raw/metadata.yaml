@@ -36,7 +36,8 @@ funders:
 # hubmapId: HBM584.ZVQW.954
 # doi: https://doi.org/10.48539/HBM584.ZVQW.954
 # citation: >-
-#  Antara Bhavsar, Bhargav Desai. Millitome for UPenn Ovary, Female, Left,v1.0
-#  https://doi.org/10.48539/HBM584.ZVQW.954, Accessed on June 15, 2025.
+# Bhavsar, Antara,	and Bhargav Desai.	
+# 2025.	"Millitome for UPenn Ovary, Female, Left, v1.0."	
+# https://doi.org/10.48539/HBM584.ZVQW.954.	Accessed June 15, 2025.
 datatable:
   - extraction-sites.jsonld

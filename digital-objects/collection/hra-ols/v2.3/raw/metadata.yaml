@@ -1,5 +1,9 @@
 title: Human Reference Atlas OLS Collection
-description: 'A collection of HRA digital objects used by OLS'
+description:
+  "Collections group multiple Human Reference Atlas (HRA) digital objects (DOs) for use in specific applications. The hra-ols collection (OLS, https://www.ebi.ac.uk/ols4), comprises all public dataset graphs in the HRA knowledge graph (Bueckle et al. 2025).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                          
+  Bibliography:                                                                                                                                                                                                                                                                                                                                                                         
+  Bueckle, Andreas, Bruce W. Herr, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006."
 creators:
   - fullName: Katy Börner
     firstName: Katy
@@ -25,16 +29,18 @@ funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 citation: >-
-  Sanjay Jain; M. Todd Valerius; Yongqun He, HuBMAP ASCT+B Tables. Kidney v1.2
-  [https://doi.org/10.48539/HBM248.CBJV.556](https://doi.org/10.48539/HBM248.CBJV.556)
+  Jain, Sanjay,	M. Todd Valerius,	and Yongqun He.	
+  2024.	"HuBMAP ASCT+B Tables. Kidney v1.2."	
+  https://doi.org/10.48539/HBM248.CBJV.556. Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP
-  ASCT+B
-  Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html).
-  Accessed on May 6, 2022.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2022.	"HuBMAP ASCT+B Tables."	
+  https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html.	Accessed June 15, 2025.
 ontologyRoot:
   - ccf:AnatomicalStructure
   - ccf:CellType
   - ccf:Biomarker
 datatable:
   - digital-objects.yaml
+references:
+  - https://doi.org/10.1101/2024.12.22.630006

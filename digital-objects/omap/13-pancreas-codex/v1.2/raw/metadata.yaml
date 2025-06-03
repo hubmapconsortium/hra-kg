@@ -2,30 +2,15 @@ title: >-
   OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
   Imaging of Human Pancreas with CODEX
 description: >-
-  OMAP-13 was designed for imaging of 4% paraformaldehyde (PFA)-fixed,  cryopreserved
-  human pancreas samples by CO-Detection by indEXing (CODEX)  (https://doi.org/10.1038/s41596-021-00556-8).
-  Containing 27 antibodies  and nuclear marker DAPI, this OMAP provides spatial context
-  for 13 anatomical
-   structures and 21 cell types in the ASCT+B Pancreas table v1.2 
-  (https://doi.org/10.48539/HBM975.BBTF.393) and shares 8 markers with OMAP-6
-  (https://doi.org/10.48539/HBM847.DNHP.222). It also facilitates  identification
-  of gamma and epsilon cells, lymphatic endothelial cells,  pericytes, resident immune
-  cells, neuronal structures, and some stromal  cells and the extracellular matrix
-  (ECM). Due to the inclusion of  biomarkers PPY, GHRL, PTPRC (CD45), CD19, ITGAX
-  (CD11c), AIF1 (IBA1),  and CD14, this panel is suitable for all regions of the human
-  pancreas  (including the uncinate process, UBERON:0010373) from birth to adulthood  and
-  can detect inflammatory cells present in diabetes. Panel design and  validation
-  was performed on the PhenoCycler Open and Fusion systems  (Akoya Biosciences). Carrier
-  free aliquots for antibodies directed against  targets GHRL, PPY, and LYVE1  were
-  ordered directly from R&D Biosciences to  allow custom conjugation; antibody metadata
-  reflect the catalog versions.  The GP2 antibody, which was purified and conjugated
-  by Leinco Technologies,  Inc., is best used in conjunction with another acinar cell
-  marker. Application  of this CODEX panel to early-stage T2D samples (Walker et al.
-  2021;  https://doi.org/10.1101/2021.12.16.466282) included cellular segmentation
-  by  DAPI using the Highplex FL module of HALO image analysis software (Indica Labs).  Details
-  on sample preparation and antibody screening can be found at  (https://doi.org/10.17504/protocols.io.36wgq7dryvk5/v1)
-  and a representative  dataset is uploaded at (https://doi.org/10.5281/zenodo.7916784).
-  Interactive  'image browsing is available on Pancreatlas (RRID:SCR_01856).
+  "OMAP-13 was designed for imaging of 4% paraformaldehyde (PFA)-fixed, cryopreserved human pancreas samples by CO-Detection by indEXing (CODEX) (Black et al. 2021). Containing 27 antibodies and nuclear marker DAPI, this OMAP provides spatial context for 13 anatomical structures and 21 cell types in the ASCT+B Pancreas table v1.2 (Campbell-Thompson, Eskaros, and Saunders 2022) and shares 8 markers with OMAP-6 (Casals and Björklund 2024). It also facilitates identification of gamma and epsilon cells, lymphatic endothelial cells, pericytes, resident immune cells, neuronal structures, and some stromal cells and the extracellular matrix (ECM). Due to the inclusion of biomarkers PPY, GHRL, PTPRC (CD45), CD19, ITGAX (CD11c), AIF1 (IBA1), and CD14, this panel is suitable for all regions of the human pancreas (including the uncinate process, UBERON:0010373) from birth to adulthood and can detect inflammatory cells present in diabetes. Panel design and validation was performed on the PhenoCycler Open and Fusion systems (Akoya Biosciences). Carrier free aliquots for antibodies directed against targets GHRL, PPY, and LYVE1 were ordered directly from R&D Biosciences to allow custom conjugation; antibody metadata reflect the catalog versions. The GP2 antibody, which was purified and conjugated by Leinco Technologies, Inc., is best used in conjunction with another acinar cell marker. Application of this CODEX panel to early-stage T2D samples (Walker et al. 2021) included cellular segmentation by DAPI using the Highplex FL module of HALO image analysis software (Indica Labs). Details on sample preparation and antibody screening can be found at (Saunders et al. 2022) and a representative dataset is uploaded at (Saunders and Reihsmann 2023). Interactive image browsing is available on Pancreatlas (RRID:SCR_01856).
+
+  Bibliography:
+  Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated Antibodies.” Nature Protocols 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
+  Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2022. “Pancreas (v1.2) Graph Data, v1.2.” 2022. https://lod.humanatlas.io/asct-b/pancreas/v1.2/.
+  Casals, Anna, and Frida Björklund. 2024. “OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.3.” ..Csv. HuBMAP. https://doi.org/10.48539/HBM847.DNHP.222.
+  Saunders, Diane, Conrad Reihsmann, Alexander Hopkirk, Marcela Brissova, and Alvin C. Powers. 2022. “CODEX® Multiplexed Imaging | Modality Overview.” May 24, 2022. https://www.protocols.io/view/codex-multiplexed-imaging-modality-overview-b6rnrd5e.
+  Saunders, Diane, and Conrad V. Reihsmann. 2023. “Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX.” Zenodo. https://zenodo.org/records/7916784.
+  Walker, John T., Diane C. Saunders, Vivek Rai, Chunhua Dai, Peter Orchard, Alexander L. Hopkirk, Conrad V. Reihsmann, et al. 2021. “RFX6-Mediated Dysregulation Defines Human β Cell Dysfunction in Early Type 2 Diabetes.” bioRxiv. https://doi.org/10.1101/2021.12.16.466282."
 creators:
   - fullName: Diane Saunders
     firstName: Diane
@@ -83,23 +68,19 @@ funders:
 hubmapId: HBM328.WTLZ.372
 doi: https://doi.org/10.48539/HBM328.WTLZ.372
 citation: >-
-  Diane Saunders; Conrad Reihsmann. OMAP-13: Organ Mapping Antibody Panel (OMAP)
-  for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.2,
-  https://doi.org/10.48539/HBM328.WTLZ.372. Accessed on June 15, 2025.
+  Saunders, Diane,	and Conrad Reihsmann.	
+  2025.	"OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.2."	
+  https://doi.org/10.48539/HBM328.WTLZ.372.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari
-  P,
-   Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J,
-  Wiblin AE,
-   Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch
-  G, Ginty  
-   F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N,
-  Stockwell BR,
-   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke
-  AJ. Organ
-   Mapping Antibody Panels: a community resource for standardized multiplexed tissue
-  imaging. Nat  
-   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
 datatable:
   - omap-13-pancreas-codex.csv
   - omap-13-pancreas-codex.xlsx

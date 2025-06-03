@@ -36,7 +36,8 @@ funders:
 # hubmapId: HBM454.PDSF.343
 # doi: https://doi.org/10.48539/HBM454.PDSF.343
 # citation: >-
-#  Antara Bhavsar, Bhargav Desai. Millitome for UPenn Ovary, Female, Right,v1.0
-#  https://doi.org/10.48539/HBM454.PDSF.343, Accessed on June 15, 2025.
+# Bhavsar, Antara,	and Bhargav Desai.	
+# 2025.	"Millitome for UPenn Ovary, Female, Right, v1.0."	
+# https://doi.org/10.48539/HBM454.PDSF.343.	Accessed June 15, 2025.
 datatable:
   - extraction-sites.jsonld

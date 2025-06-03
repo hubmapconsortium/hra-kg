@@ -1,6 +1,9 @@
 title: Cell Ontology
 description: >-
-  An ontology of cell types.
+  "A cross-species ontology that focuses on classifying and describing cells (Diehl et al. 2016).
+
+  Bibliography:
+  Diehl, Alexander D., Terrence F. Meehan, Yvonne M. Bradford, Matthew H. Brush, Wasila M. Dahdul, David S. Dougall, Yongqun He, et al. 2016. “The Cell Ontology 2016: Enhanced Content, Modularization, and Ontology Interoperability.” Journal of Biomedical Semantics 7 (1): 44. https://doi.org/10.1186/s13326-016-0088-7."
 creators:
   - fullName: Alexander D. Diehl
     firstName: Alexander
@@ -12,3 +15,5 @@ license: >-
   4.0](https://creativecommons.org/licenses/by/4.0/))
 datatable:
   - cl-base.owl
+references:
+  - https://doi.org/10.1186/s13326-016-0088-7

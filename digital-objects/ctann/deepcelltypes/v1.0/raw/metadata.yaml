@@ -1,6 +1,12 @@
 title: Crosswalk of deepcelltypes annotated cells to Cell Ontology
 description: >-
-  This crosswalk maps the cell type annotations from deepcelltypes https://doi.org/10.1101/2024.11.02.621624 to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl in which many new cell types have been added since the original cell type annotations were mapped.
+  "This crosswalk maps the cell type annotations from deepcelltypes (Wang et al. 2024) to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl 
+  More information on deepcelltype is available at https://github.com/vanvalenlab/deepcell-types.
+
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are available under ""Ontologies Extended"" at https://apps.humanatlas.io/dashboard/data. 
+
+  Bibliography:
+  Wang, Xuefei (Julie), Rohit Dilip, Yuval Bussi, Caitlin Brown, Elora Pradhan, Yashvardhan Jain, Kevin Yu, et al. 2024. “Generalized Cell Phenotyping for Spatial Proteomics with Language-Informed Vision Models.” bioRxiv. https://doi.org/10.1101/2024.11.02.621624."
 creators:
   - fullName: Aleix Puig-Barbe
     firstName: Aleix
@@ -34,9 +40,9 @@ funders:
 # hubmapId: HBM234.MJXF.928
 # doi: https://doi.org/10.48539/HBM234.MJXF.928
 # citation: >-
-#  Aleix Puig-Barbe. Crosswalk of deepcelltypes annotated cells to Cell Ontology, v1.0
-#  (https://doi.org/10.48539/HBM234.MJXF.928), Accessed on June 15, 2025.
-citationOverall: >-
+# Puig-Barbe, Aleix.	
+# 2025.	"Crosswalk of Deepcelltypes Annotated Cells to Cell Ontology, v1.0."	
+# https://doi.org/10.48539/HBM234.MJXF.928.	Accessed June 15, 2025.
 datatable:
   - deepcelltypes-crosswalk.csv
 references:

@@ -2,15 +2,9 @@ title: >-
   Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Bone
   Marrow
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts. The bone marrow table reflects sampling
-  from the iliac crest from the ilium bone of the bony pelvis. Minor changes
-  were made for v1.4 to ensure all cell types were mapped to Cell Ontology and
-  genes and proteins were mapped to the Human Gene Ontology (HUGO) Gene
-  Nomenclature Committee (HGNC).
+  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested bone-marrow structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. 
+  The tables are authored and reviewed by an international team of experts. The bone marrow table reflects sampling from the iliac crest from the ilium bone of the bony pelvis. 
+  Minor changes were made for v1.4 to ensure all cell types were mapped to Cell Ontology and genes and proteins were mapped to the Human Gene Ontology (HUGO) Gene Nomenclature Committee (HGNC)."
 creators:
   - fullName: Muzlifah A. Haniffa
     firstName: Muzlifah
@@ -64,12 +58,12 @@ funders:
 hubmapId: HBM699.BSQL.926
 doi: https://doi.org/10.48539/HBM699.BSQL.926
 citation: >-
-  Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables.
-  Bone Marrow v1.5, [https://doi.org/10.48539/HBM699.BSQL.926](https://doi.org/10.48539/HBM699.BSQL.926), Accessed on
-  June 15, 2024.
+  Haniffa, Muzlifah A.,	Laura Jardine,	and Sarah A. Teichmann.	
+  2024.	"HuBMAP ASCT+B Tables. Bone Marrow v1.5."	
+  https://doi.org/10.48539/HBM699.BSQL.926.	Accessed June 15, 2024.
 citationOverall: >-
-  Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2024.
-  [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on
-  June 15, 2024.
+  Quardokus, Ellen M.,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2024.
 datatable:
   - asct-b-vh-bone-marrow.csv

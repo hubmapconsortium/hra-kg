@@ -2,18 +2,10 @@ title: >-
   Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Spinal
   Cord
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.The Spinal Cord v1.0  table focuses on
-  lumbar spinal cord cell types from  [Yadav et al., “A Cellular Taxonomy of the
-  Adult Human Spinal Cord.”):
-  328-344.e7.](https://doi.org/10.1016/j.neuron.2023.01.00) with a companion
-  [Human Spinal Cord snRNAseq
-  Viewer](https://vmenon.shinyapps.io/humanspinalcord/) which presents a
-  cellular taxonomy of the adult human spinal cord using single-nucleus RNA
-  sequencing with spatial transcriptomics and antibody validation.
+  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Spinal Cord v1.0 table focuses on lumbar spinal cord cell types from [Yadav et al., “A Cellular Taxonomy of the Adult Human Spinal Cord”] (https://doi.org/10.1016/j.neuron.2023.01.007) with a companion [Human Spinal Cord snRNAseq Viewer] (https://vmenon.shinyapps.io/humanspinalcord/) which presents a cellular taxonomy of the adult human spinal cord using single-nucleus RNA sequencing with spatial transcriptomics and antibody validation.                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                      
+  Bibliography:                                                                                                                                                             Yadav, Archana, Kaya J. E. Matson, Li Li, Isabelle Hua, Joana Petrescu, Kristy Kang, Mor R. Alkaslasi, et al. 2023. “A Cellular Taxonomy of the Adult Human Spinal Cord.” Neuron 111 (3): 328–344.e7. https://doi.org/10.1016/j.neuron.2023.01.007.
+  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” Nature Cell Biology 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6."
 creators:
   - fullName: Vilas Menon
     firstName: Vilas
@@ -41,11 +33,17 @@ funders:
 hubmapId: HBM943.HDLM.983
 doi: https://doi.org/10.48539/HBM943.HDLM.983
 citation: >-
-  Vilas Menon, HuBMAP ASCT+B Tables. Spinal Cord v1.1
-  [https://doi.org/10.48539/HBM943.HDLM.983](https://doi.org/10.48539/HBM943.HDLM.983)
+  Menon, Vilas.	
+  2024.	"HuBMAP ASCT+B Tables. Spinal Cord v1.1."	
+  https://doi.org/10.48539/HBM943.HDLM.983. December 15, 2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
-  2024.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2024.
 datatable:
   - asct-b-vh-spinal-cord.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6
+  - https://doi.org/10.1016/j.neuron.2023.01.007
+  
+

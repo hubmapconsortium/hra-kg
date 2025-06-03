@@ -1,13 +1,9 @@
 title: 3D Reference Organ for Eye, Female, Right
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Female, provided by the National Library of
-  Medicine. The long posterior ciliary artery was added, as well as a more
-  detailed iris. The position of the optic nerve also moved, and made twice as
-  thick. The muscle thickness was decreased and the position of the muscles was
-  shifted. The levator palpebrae superioris muscle was removed as it was not
-  deemed necessary to the eye model. The inferior oblique muscle was rotated
-  more parallel to the plane of the cornea.
+  "This reference organ (https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002). In version v1.3, the long posterior ciliary artery was added, as well as a more detailed iris. The position of the optic nerve also moved, and was made twice as thick. The muscle thickness was decreased and the position of the muscles was shifted. The levator palpebrae superioris muscle was removed as it was not deemed necessary to the eye model. The inferior oblique muscle was rotated more parallel to the plane of the cornea. 
+
+  Bibliography:                                                                                                                                                                                                                                                               
+  Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human Simulation.” The Anatomical Record 253 (2): 49–57. https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9."
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -49,15 +45,16 @@ funders:
 hubmapId: HBM632.KTDP.379
 doi: https://doi.org/10.48539/HBM632.KTDP.379
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Eye, Female,
-  Right v1.3.*
-  [https://doi.org/10.48539/HBM632.KTDP.379](https://doi.org/10.48539/HBM632.KTDP.379).
-  Accessed on June 15, 2024.
+  Browne, Kristen,	and Heidi Schlehlein.	
+  2024.	"3D Reference Organ for Eye, Female, Right v1.3."	
+  https://doi.org/10.48539/HBM632.KTDP.379.	Accessed June 15, 2024.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15,
-  2024.
+  Browne, Kristen,	Heidi Schlehlein,	Bruce W. Herr II,	Ellen Quardokus,	Andreas Bueckle,	
+  and Katy Börner.	
+  2024.	"HuBMAP CCF 3D Reference Object Library."	
+  https://humanatlas.io/3d-reference-library.	Accessed June 15, 2024.
 datatable:
   - 3d-vh-f-eye-r.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9

@@ -1,10 +1,15 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Liver
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.
+  "​Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables aim to capture the nested liver structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. 
+  The tables are authored and reviewed by an international team of experts. The Liver ASCT+B table includes detailed anatomical structures such as the hepatic lobule, portal triad, and central vein, along with 
+  associated cell types like hepatocytes, Kupffer cells, and hepatic stellate cells.This comprehensive mapping supports research into hepatic biology and related medical conditions.                                                                                                                                                                                                                                                                                                                                                                                                         
+  
+  Bibliography:                                                            
+  James, Kylie R., Tomas Gomes, Rasa Elmentaite, Nitin Kumar, Emily L. Gulliver, Hamish W. King, Mark D. Stares, et al. 2020. “Distinct Microbial and Immune Niches of the Human Colon.” Nature Immunology 21 (3): 343–53. https://doi.org/10.1038/s41590-020-0602-z.
+  Rodda, Lauren B., Erick Lu, Mariko L. Bennett, Caroline L. Sokol, Xiaoming Wang, Sanjiv A. Luther, Ben A. Barres, Andrew D. Luster, Chun Jimmie Ye, and Jason G. Cyster. 2018. “Single-Cell RNA Sequencing of Lymph Node Stromal Cells Reveals Niche-Associated Heterogeneity.” Immunity 48 (5): 1014-1028.e6. https://doi.org/10.1016/j.immuni.2018.04.006.
+  Szabo, Peter A., Hanna Mendes Levitin, Michelle Miron, Mark E. Snyder, Takashi Senda, Jinzhou Yuan, Yim Ling Cheng, et al. 2019. “Single-Cell Transcriptomics of Human T Cells Reveals Tissue and Activation Signatures in Health and Disease.” Nature Communications 10 (1): 4706. https://doi.org/10.1038/s41467-019-12464-3. 
+  Willard-Mack, Cynthia L. 2006. “Normal Structure, Function, and Histology of Lymph Nodes.” Toxicologic Pathology 34 (5): 409–24. https://doi.org/10.1080/01926230600867727.
+  Xiang, Menglan, Rubén Adrián Grosso, Akira Takeda, Junliang Pan, Tove Bekkhus, Kevin Brulois, Denis Dermadi, et al. 2020. “A Single-Cell Transcriptional Roadmap of the Mouse and Human Lymph Node Lymphatic Vasculature.” Frontiers in Cardiovascular Medicine 7 (April). https://doi.org/10.3389/fcvm.2020.00052."                                                                                                                                                                                                                                                                                                                                                                                                                                             
 creators:
   - fullName: Anna Maria Masci
     firstName: Anna
@@ -62,13 +67,13 @@ funders:
 hubmapId: HBM668.JVLM.333
 doi: https://doi.org/10.48539/HBM668.JVLM.333
 citation: >-
-  Anna Maria Masci; Tim Kendall; Ayako Suzuki, HuBMAP ASCT+B Tables. Liver v1.4
-  (https://doi.org/10.48539/HBM668.JVLM.333), Accessed on June 15,
-  2025.
+  Masci, Anna Maria,	Tim Kendall,	and Ayako Suzuki.	
+  2025.	"HuBMAP ASCT+B Tables. Liver v1.4."	
+  https://doi.org/10.48539/HBM668.JVLM.333.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2025.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2025. 
 datatable:
   - asct-b-vh-liver.csv
 references:

@@ -1,5 +1,6 @@
 title: 3D Extraction Sites for Kidney Female Both
-description: ''
+description: 
+  "Extraction sites for kidney, female (both sides) were generated to provide a simplified cross-sectional view of the organ. A thin slice was taken along the coronal plane to approximately divide the kidney into anterior and posterior halves. The kidney mesh was manually sectioned to produce a clean and narrow coronal cross-section, followed by the creation of a thin extrusion to represent the extraction region."
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce

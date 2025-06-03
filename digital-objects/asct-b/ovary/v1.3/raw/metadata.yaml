@@ -1,10 +1,6 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Ovary
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.
+  "Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested ovary structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The ovary ASCT+B table provides a hierarchical mapping of ovarian anatomical structures, including the cortex, medulla, follicles, and corpus luteum. It details associated cell types such as granulosa cells, theca cells, and oocytes, along with relevant biomarkers. This comprehensive mapping supports research into ovarian biology and related medical conditions."
 creators:
   - fullName: Kathleen O'Neill
     firstName: Kathleen
@@ -54,11 +50,13 @@ funders:
 hubmapId: HBM792.LCDV.873
 doi: https://doi.org/10.48539/HBM792.LCDV.873
 citation: >-
-  Kathleen O'Neill, Monica M Laronda, Jacqueline Maher, Veronica Gomez-Lobo,
-  Stephen Fisher HuBMAP ASCT+B Tables. Ovary v1.3,
-  [https://doi.org/10.48539/HBM792.LCDV.873](https://doi.org/10.48539/HBM792.LCDV.873), Accessed on June 15, 2024.
+  O'Neill, Kathleen,	Monica M. Laronda,	Jacqueline Maher,	Veronica Gomez-Lobo,	
+  and Stephen Fisher.	
+  2024.	"HuBMAP ASCT+B Tables. Ovary v1.3."	
+  https://doi.org/10.48539/HBM792.LCDV.873.	Accessed June 15, 2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2024.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2024.
 datatable:
   - asct-b-vh-ovary.csv
