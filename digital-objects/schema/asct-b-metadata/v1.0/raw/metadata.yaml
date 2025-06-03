@@ -1,7 +1,6 @@
 title: HRA asct-b-metadata linkml schema
 description: >-
-  Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for
-  asct-b-metadata
+  "This schema defines a metadata model specifically for ASCT+B (Anatomical Structures, Cell Types and Biomarkers) datasets with provenance tracking capabilities. It captures essential publication metadata including creators, versioning, licensing, and distribution information. The schema is full compliance to DCAT (Data Catalog Vocabulary) standards and provenance tracking through PROV-O ontology integration."
 creators:
   - fullName: Josef Hardi
     firstName: Josef

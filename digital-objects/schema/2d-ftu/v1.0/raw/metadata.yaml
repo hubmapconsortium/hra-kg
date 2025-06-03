@@ -1,5 +1,6 @@
 title: HRA 2d-ftu linkml schema
-description: Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for 2d-ftu
+description: 
+  "This schema defines a data model for 2D Functional Tissu Unit (FTU) illustrations that visually represent the cellular organization within organ tissues. It captures illustration images with annotated nodes that highlight and label specific cell types within their anatomical context, linking visual representations to standardized anatomical structure identifiers."
 creators:
   - fullName: Josef Hardi
     firstName: Josef

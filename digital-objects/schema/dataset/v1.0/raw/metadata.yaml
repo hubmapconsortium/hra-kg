@@ -1,5 +1,6 @@
 title: HRA dataset linkml schema
-description: Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for dataset
+description: 
+  This schema defines a data model for experimental datasets that captures comprehensive metadata about data collections generated from specific biological assays. It records dataset characteristics including the experimental technology used, quantitative metrics (cell counts, gene counts), anatomical origin, publication information, and associated cell summary analyses. 
 creators:
   - fullName: Josef Hardi
     firstName: Josef

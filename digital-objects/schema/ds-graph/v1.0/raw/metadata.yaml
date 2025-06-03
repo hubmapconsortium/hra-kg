@@ -1,5 +1,5 @@
 title: HRA ds-graph linkml schema
-description: Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for ds-graph
+description: This schema defines a data model for dataset graphs that integrate experimental metadata by linking donors, tissue samples, datasets, and their spatial positioning information. It provides a unified structure for representing the relationships between biological specimens (donors and tissue blocks), experimental datasets, and their corresponding spatial entities and placements within a coordinate system.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
