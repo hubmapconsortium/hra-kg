@@ -1,11 +1,11 @@
 title: 2D Sublingual Gland Ducto-Acinar for Mouth
 description: >-
-  "This functional tissue unit (FTU) illustration includes cell types related to the sublingual gland ducto-acinar FTU in the ASCT+B Table [Mouth v1.0] (link to table TBD). Uberon describes this FTU as follows: ""The small mucin-producing salivary glands in the floor of the mouth beneath the tongue, anterior to the submandibular gland."" 
+  This functional tissue unit (FTU) illustration includes cell types related to the sublingual gland ducto-acinar FTU in the ASCT+B Table [Mouth v1.0] (link to table TBD). Uberon describes this FTU as follows: ""The small mucin-producing salivary glands in the floor of the mouth beneath the tongue, anterior to the submandibular gland."" 
 
   Bibliography:
   Neil S. Norton, Ph.D. and Frank H. Netter, MD, Netter’s Head and Neck Anatomy for Dentistry, 2nd Edition, Elsevier Saunders, Chapter 13 Oral Cavity, Page 366 to 371.
 
-  Frank H. Netter, MD, Atlas of Human Anatomy, Fifth Edition, Saunders - Elsevier, Chapter 1 Head and Neck, Subchapter 6 Oral Region, Guide Head and Neck: Oral Region - Salivary Glands, Page 35 and 36."
+  Frank H. Netter, MD, Atlas of Human Anatomy, Fifth Edition, Saunders - Elsevier, Chapter 1 Head and Neck, Subchapter 6 Oral Region, Guide Head and Neck: Oral Region - Salivary Glands, Page 35 and 36.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -39,7 +39,8 @@ citation: >-
   https://doi.org/10.48539/HBM664.JPSV.649. Accessed on June 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025.
-  *HuBMAP CCF 2D Reference Object Library*. Accessed on June 15, 2025. https://humanatlas.io/2d-ftu-illustrations). 
+  *HuBMAP CCF 2D Reference Object Library*. Accessed on June 15, 2025. https://humanatlas.io/2d-ftu-illustrations).
+datatable:
   - 2d-ftu-mouth-sublingual-gland.svg
   - 2d-ftu-mouth-sublingual-gland.png
   - 2d-ftu-mouth-sublingual-gland.ai
