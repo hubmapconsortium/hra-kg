@@ -12,6 +12,7 @@ echo "Building Digital Objects..."
 echo
 
 rm -f jobs.txt
+touch jobs.txt
 queue_job() {
   echo "$1" >> jobs.txt
 }
