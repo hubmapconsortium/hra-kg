@@ -1,18 +1,13 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Brain
 description: >-
-  This is a major update of the CT+B component of the table that extends it from
-  well-curated high-resolution cell types in a single small brain region (DOI:
-  10.1038/s41586-021-03465-8), to also include a first draft of cell types
-  across the entire human brain (DOI: 10.1101/2022.10.12.511898).  There are no
-  changes to the AS part of the table, EXCEPT adding the appropriate reference
-  (DOI: 10.1002/cne.24080) in each row of the table corresponding to anatomic
-  structures.  Similarly, there are no changes to rows relating to cell types
-  from v1.3 of this table, EXCEPT adding “Human - Motor Cortex” in the
-  “CT/1/NOTES” slot to distinguish these cell types from the newly added whole
-  brain atlas types described in detail below. In addition, Kimberly Siletti has
-  replaced Raymond Sanchez as an author of this table, as the updated CT
-  components represent work that she led and participated in converting to this
-  format.
+  This is a major update of the CT+B component of the table that extends it from well-curated high-resolution cell types
+  in a single small brain region (DOI: 10.1038/s41586-021-03465-8), to also include a first draft of cell types across
+  the entire human brain (DOI: 10.1101/2022.10.12.511898).  There are no changes to the AS part of the table, EXCEPT
+  adding the appropriate reference (DOI: 10.1002/cne.24080) in each row of the table corresponding to anatomic
+  structures.  Similarly, there are no changes to rows relating to cell types from v1.3 of this table, EXCEPT adding
+  “Human - Motor Cortex” in the “CT/1/NOTES” slot to distinguish these cell types from the newly added whole brain atlas
+  types described in detail below. In addition, Kimberly Siletti has replaced Raymond Sanchez as an author of this
+  table, as the updated CT components represent work that she led and participated in converting to this format.
 creators:
   - fullName: Jeremy A. Miller
     firstName: Jeremy
@@ -45,10 +40,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2023-06-15'
+creation_date: "2023-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -56,12 +50,10 @@ funders:
 hubmapId: HBM568.VJBK.732
 doi: https://doi.org/10.48539/HBM568.VJBK.732
 citation: >-
-  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables.
-  Brain v1.4,https://doi.org/10.48539/HBM568.VJBK.732, Accessed on June 15,
-  2023.
+  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables. Brain
+  v1.4,https://doi.org/10.48539/HBM568.VJBK.732, Accessed on June 15, 2023.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2023.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B
+  Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023.
 datatable:
   - asct-b-allen-brain.csv

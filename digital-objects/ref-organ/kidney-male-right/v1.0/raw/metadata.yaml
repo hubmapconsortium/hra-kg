@@ -1,8 +1,7 @@
 title: 3D Reference Organ for Kidney, Male, Right
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Male, provided by the National Library of
-  Medicine.
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male,
+  provided by the National Library of Medicine.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -15,10 +14,9 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: '2021-03-12'
+creation_date: "2021-03-12"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -27,12 +25,10 @@ hubmapId: HBM693.RTRN.866
 doi: https://doi.org/10.48539/hbm693.rtrn.866
 citation: >-
   Kristen Browne. 2021. *3D Reference Organ for Kidney, Male, Right v1.0.*
-  [https://doi.org/10.48539/hbm693.rtrn.866](https://doi.org/10.48539/hbm693.rtrn.866).
-  Accessed on March 12, 2021.
+  [https://doi.org/10.48539/hbm693.rtrn.866](https://doi.org/10.48539/hbm693.rtrn.866). Accessed on March 12, 2021.
 citationOverall: >-
-  Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen
-  Quardokus, Andreas Bueckle, Katy Börner. 2021. *HuBMAP CCF 3D Reference Object
-  Library*. https://humanatlas.io/3d-reference-library. Accessed on March 12,
+  Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner.
+  2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on March 12,
   2021.
 datatable:
   - VH_M_Kidney_Right.glb

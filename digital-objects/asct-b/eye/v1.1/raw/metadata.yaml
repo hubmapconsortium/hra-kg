@@ -1,10 +1,8 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Eye
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to characterize cell types. The tables are authored and
-  reviewed by an international team of experts.
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to
+  capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to
+  characterize cell types. The tables are authored and reviewed by an international team of experts.
 creators:
   - fullName: Angela Kruse
     firstName: Angela
@@ -37,10 +35,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2022-05-06'
+creation_date: "2022-05-06"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -51,7 +48,7 @@ citation: >-
   Angela Kruse; Kevin Schey; Christine Curcio, HuBMAP ASCT+B Tables. Eye v1.1
   [https://doi.org/10.48539/HBM494.KLQK.628](https://doi.org/10.48539/HBM494.KLQK.628)
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B
+  Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022.
 datatable:
   - ASCT-B_VH_Eye.csv

@@ -1,26 +1,18 @@
 title: >-
-  OMAP-5 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based
-  Imaging of Human Liver with SIMS
+  OMAP-5 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Liver with SIMS
 description: >-
-  OMAP-5 was designed for Secondary Ionization Mass Spectrometry (SIMS) imaging
-  of fresh frozen human liver samples
-  (https://doi.org/10.1101/2022.09.26.508878). The panel contains 20 antibodies
-  and a cationic nucleic acid intercalator that contains natural-abundance
-  iridium. An antibody directed against Na/K ATPase was used for cell
-  segmentation and image alignment. This OMAP provides spatial context for the
-  anatomical structures, metabolic zonation, and cell types present in the
-  [ASCT+B liver table v1.0](https://doi.org/10.48539/HBM476.BQCC.574). This OMAP
-  does not yet contain antibodies for NK cells, dendritic cells, portal
-  fibroblasts, MAIT cells, gamma delta T cells, and hepatic oval cells. Antigens
-  were detected using lanthanide tagged primary antibodies where the metal tags
-  were detected by specific mass channels using C60 SIMS. Details on the
-  antibody staining method can be found here
-  (dx.doi.org/10.17504/protocols.io.b5qmq5u6). Image registration and cell
-  segmentation were performed using Deepcell (Keren et al.) Cell segmentation
-  was performed using nuclear and membrane marker channels. Integrated protein
-  expression was used to determine thresholds for cellular classification. An
-  antibody directed against EGFR was originally included in OMAP-5 v1.0 and
-  v1.1, but was removed due to inconsistent labeling.
+  OMAP-5 was designed for Secondary Ionization Mass Spectrometry (SIMS) imaging of fresh frozen human liver samples
+  (https://doi.org/10.1101/2022.09.26.508878). The panel contains 20 antibodies and a cationic nucleic acid intercalator
+  that contains natural-abundance iridium. An antibody directed against Na/K ATPase was used for cell segmentation and
+  image alignment. This OMAP provides spatial context for the anatomical structures, metabolic zonation, and cell types
+  present in the [ASCT+B liver table v1.0](https://doi.org/10.48539/HBM476.BQCC.574). This OMAP does not yet contain
+  antibodies for NK cells, dendritic cells, portal fibroblasts, MAIT cells, gamma delta T cells, and hepatic oval cells.
+  Antigens were detected using lanthanide tagged primary antibodies where the metal tags were detected by specific mass
+  channels using C60 SIMS. Details on the antibody staining method can be found here
+  (dx.doi.org/10.17504/protocols.io.b5qmq5u6). Image registration and cell segmentation were performed using Deepcell
+  (Keren et al.) Cell segmentation was performed using nuclear and membrane marker channels. Integrated protein
+  expression was used to determine thresholds for cellular classification. An antibody directed against EGFR was
+  originally included in OMAP-5 v1.0 and v1.1, but was removed due to inconsistent labeling.
 creators:
   - fullName: Hua Tian
     firstName: Hua
@@ -73,33 +65,31 @@ reviewers:
     lastName: Rajbhandari
     orcid: 0000-0003-2184-7238
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
-- funder: >-
-    National Institute of Allergy and Infectious Disease (NIAID)and National
-    Cancer Institute (NCI)
-  awardNumber: UH3 CA246635
-- funder: National Institutes of Health
-  awardNumber: OT2OD026671
-- funder: National Institutes of Health
-  awardNumber: OT2OD033756
-  
+  - funder: >-
+      National Institute of Allergy and Infectious Disease (NIAID)and National Cancer Institute (NCI)
+    awardNumber: UH3 CA246635
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+
 hubmapId: HBM995.KTHD.545
 doi: https://doi.org/10.48539/HBM995.KTHD.545
 citation: >-
-  Hua Tian, Presha Rajbhandari. OMAP-5 Organ Mapping Antibody Panel (OMAP)  for
-  Multiplexed Antibody-Based Imaging of Human Liver with SIMS, v1.3, https://doi.org/10.48539/HBM995.KTHD.545. Accessed June 15, 2024.
+  Hua Tian, Presha Rajbhandari. OMAP-5 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of
+  Human Liver with SIMS, v1.3, https://doi.org/10.48539/HBM995.KTHD.545. Accessed June 15, 2024.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
-  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
-  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
-  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
-  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
-  Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P, Casals AM, Tian H, Lowery L,
+  Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE, Fisher J, Livengood AJ, Dowell KG, Silverstein JC,
+  Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
+  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR, Lundberg E, Snyder MP,
+  Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ Mapping Antibody Panels: a community resource for
+  standardized multiplexed tissue imaging. Nat  
   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-5-liver-sims.csv

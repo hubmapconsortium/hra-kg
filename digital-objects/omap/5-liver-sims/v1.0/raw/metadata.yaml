@@ -1,16 +1,12 @@
 title: >-
-  Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of
-  Human Liver with SIMS
+  Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Liver with SIMS
 description: >-
-  The OMAP Liver panel was designed for Secondary Ionization Mass Spectrometry
-  (SIMS) imaging of fresh frozen human liver samples. The panel contains 20
-  antibodies and a nuclear marker.  Antibodies directed against EGFR and
-  Na,K-ATPase are used for cell segmentation and image alignment. This OMAP
-  provides spatial context for the anatomical structures, metabolic zonation,
-  and  cell types present in the [ASCT+B liver table
-  v1.0](https://doi.org/10.48539/HBM476.BQCC.574). This OMAP does not contain
-  antibodies for NK cells, dendritic cells, portal fibroblasts, MAIT cells,  and
-  hepatic oval cells.
+  The OMAP Liver panel was designed for Secondary Ionization Mass Spectrometry (SIMS) imaging of fresh frozen human
+  liver samples. The panel contains 20 antibodies and a nuclear marker.  Antibodies directed against EGFR and
+  Na,K-ATPase are used for cell segmentation and image alignment. This OMAP provides spatial context for the anatomical
+  structures, metabolic zonation, and  cell types present in the [ASCT+B liver table
+  v1.0](https://doi.org/10.48539/HBM476.BQCC.574). This OMAP does not contain antibodies for NK cells, dendritic cells,
+  portal fibroblasts, MAIT cells,  and hepatic oval cells.
 creators:
   - fullName: Hua Tian
     firstName: Hua
@@ -63,31 +59,26 @@ reviewers:
     lastName: Werlein
     orcid: 0000-0002-7694-4257
 externalReviewers: []
-creation_date: '2022-05-06'
+creation_date: "2022-05-06"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
   - funder: >-
-      National Institute of Allergy and Infectious Disease (NIAID)and National
-      Cancer Institute (NCI)
+      National Institute of Allergy and Infectious Disease (NIAID)and National Cancer Institute (NCI)
     awardNumber: UH3 CA246635
 hubmapId: HBM279.BTBC.847
 doi: https://doi.org/10.48539/HBM279.BTBC.847
 citation: >-
-  Hua Tian, Presha Rajbhandari, Taruna V Neelakantan, Aubrianna M Decker, Brent
-  R Stockwell. Organ Mapping Antibody Panel (OMAP) for Multiplexed
-  Antibody-Based Imaging of Human Liver with SIMS v1.0.
+  Hua Tian, Presha Rajbhandari, Taruna V Neelakantan, Aubrianna M Decker, Brent R Stockwell. Organ Mapping Antibody
+  Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Liver with SIMS v1.0.
   [https://doi.org/10.48539/HBM279.BTBC.847](https://doi.org/10.48539/HBM279.BTBC.847)
 citationOverall: >-
-  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo,
-  Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021.
-  “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for
-  Multiplexed Antibody-Based Imaging.” *Nature Methods*, November.
-  https://doi.org/10.1038/s41592-021-01316-y.
+  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre
+  Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer
+  for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.
 datatable:
   - OMAP_Liver_SIMS.csv
   - OMAP_Liver_SIMS.xlsx

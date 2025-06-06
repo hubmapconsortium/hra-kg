@@ -1,10 +1,9 @@
 title: >-
-  Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D
-  Reference Object Library Crosswalk
+  Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk
 description: >-
-  This lookup table maps [Anatomical Structures, Cell Types and Biomarkers
-  (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical
-  structure terms used in the [3D Reference Object Library](https://humanatlas.io/3d-reference-library).
+  This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B)
+  Table](https://humanatlas.io/asctb-tables) terms to anatomical structure terms used in the [3D Reference Object
+  Library](https://humanatlas.io/3d-reference-library).
 creators:
   - fullName: Ellen M. Quardokus
     firstName: Ellen
@@ -29,10 +28,9 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -42,12 +40,11 @@ funders:
 hubmapId: HBM224.QJKZ.987
 doi: https://doi.org/10.48539/HBM224.QJKZ.987
 citation: >-
-  Ellen M. Quardokus; Heidi Schlehlein; Bruce W. Herr II; Katy Börner. 2024.
-  *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D
-  Reference Object Library Crosswalk*, v1.6,
+  Ellen M. Quardokus; Heidi Schlehlein; Bruce W. Herr II; Katy Börner. 2024. *Anatomical Structures, Cell Types and
+  Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk*, v1.6,
   [https://doi.org/10.48539/HBM224.QJKZ.987](https://doi.org/10.48539/HBM224.QJKZ.987).  Accessed on June 15, 2024.
 citationOverall: >-
-  Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy
-  Börner. 2024. [*HuBMAP 3D Reference Object Library*](https://humanatlas.io/3d-reference-library). Accessed on June 15, 2024.
+  Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy Börner. 2024. [*HuBMAP 3D Reference
+  Object Library*](https://humanatlas.io/3d-reference-library). Accessed on June 15, 2024.
 datatable:
   - asct-b-3d-models-crosswalk.csv

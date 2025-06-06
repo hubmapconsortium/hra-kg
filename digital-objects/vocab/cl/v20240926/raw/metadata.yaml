@@ -6,9 +6,8 @@ creators:
     firstName: Alexander
     lastName: Diehl
     orcid: 0000-0001-9990-8331
-creation_date: '2024-09-26'
+creation_date: "2024-09-26"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 datatable:
   - cl-base.owl

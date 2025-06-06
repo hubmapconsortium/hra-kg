@@ -1,0 +1,513 @@
+Crosswalk of VCCF Types annotated cells to Cell Ontology,,,,,,
+,,,,,,
+Author Name(s):,Aleix Puig,,,,,
+Author ORCID(s):,0000-0001-6677-8489,,,,,
+Reviewer(s):,"Bruce Herr II, Katy Borner",,,,,
+Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137",,,,,
+General Publication(s):,,,,,,
+Data DOI:,,,,,,
+Date:,"June 15, 2025",,,,,
+Version number:,v1.0,,,,,
+Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
+bonemarrow-codex-chop_L1,UBERON:0002371,VCCF:0000001,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
+bonemarrow-codex-chop_L1,UBERON:0002371,VCCF:0000002,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+bonemarrow-codex-chop_L1,UBERON:0002371,VCCF:0000003,immune cell,leukocyte,CL:0000738,skos:exactMatch
+bonemarrow-codex-chop_L1,UBERON:0002371,VCCF:0000004,hematopoeitic precursor cell,hematopoietic precursor cell,CL:0008001,skos:exactMatch
+bonemarrow-codex-chop_L1,UBERON:0002371,VCCF:0000005,endothelial cell,endothelial cell,CL:0000115,skos:exactMatch
+bonemarrow-codex-chop_L1,UBERON:0002371,VCCF:0000006,neural cell,neural cell,CL:0002319,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000007,adipocyte,adipocyte,CL:0000136,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000008,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000009,b cell,B cell,CL:0000236,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000010,erythroid precursor,erythroid progenitor cell,CL:0000038,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000011,megakaryocyte,megakaryocyte,CL:0000556,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000012,t cell,T cell,CL:0000084,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000013,progenitor cell,hematopoietic precursor cell,CL:0008001,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000014,skeletal stromal cell,bone cell:stromal,CL:0001035,skos:narrowMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000015,endothelial cell of artery,endothelial cell of artery,CL:1000413,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000016,endothelial cell of sinusoid,endothelial cell of sinusoid,CL:0002262,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000017,myeloid precursor,common myeloid progenitor,CL:0000049,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000018,stem cell,stem cell,CL:0000034,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000019,macrophage,macrophage,CL:0000235,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000020,myeloid cell,myeloid cell,CL:0000763,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000021,mesenchymal stem cell,mesenchymal stem cell,CL:0000134,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000022,monocyte,monocyte,CL:0000576,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000023,abnormal cell,abnormal cell,CL:0001061,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000024,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000025,neuroglial cell,glial cell,CL:0000125,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000026,hematopoietic stem and progenitor cell,hematopoietic precursor cell,CL:0008001,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000027,mesenchymal stem/stromal cell,mesenchymal stem cell,CL:0000134,skos:exactMatch
+bonemarrow-codex-chop_L2,UBERON:0002371,VCCF:0000028,muscle cell,muscle cell,CL:0000187,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000029,adipocyte,adipocyte,CL:0000136,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000030,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000031,b cell,B cell,CL:0000236,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000032,erythroblast:basophilic,basophilic erythroblast,CL:0000549,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000033,cell:cd34+ cd61+,leukocyte:cd34-positive cd61-positive,CL:0000738,skos:narrowMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000034,t cell:cd4+ alpha-beta,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000035,t cell:cd8+ alpha-beta regulatory,"CD8-positive, alpha-beta regulatory T cell",CL:0000795,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000036,lymphoid progenitor cell:common,common lymphoid progenitor,CL:0000051,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000037,myeloid progenitor cell:common,common myeloid progenitor,CL:0000049,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000038,endosteal cell,endosteal cell,CL:0002157,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000039,endothelial cell of artery,endothelial cell of artery,CL:1000413,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000040,endothelial cell of sinusoid,endothelial cell of sinusoid,CL:0002262,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000041,erythroblast,erythroblast,CL:0000765,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000042,erythroid lineage cell,erythroid lineage cell,CL:0000764,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000043,megakaryocyte:gata1+,megakaryocyte:gata1-positive,CL:0000556,skos:narrowMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000044,granulocyte monocyte progenitor cell/myeloblast,myeloid lineage restricted progenitor cell:granulocyte monocyte progenitor cell/myeloblast,CL:0000839,skos:narrowMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000045,granulocyte monocyte progenitor cell,granulocyte monocyte progenitor cell,CL:0000557,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000046,hematopoietic stem cell,hematopoietic stem cell,CL:0000037,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000047,b cell:immature,immature B cell,CL:0000816,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000048,myeloid cell:intermediate,myeloid cell:intermediate,CL:0000763,skos:narrowMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000049,macrophage,macrophage,CL:0000235,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000050,myeloid cell:mature,myeloid cell:mature,CL:0000763,skos:narrowMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000051,megakaryocyte:gata1-,megakaryocyte:gata1-negative,CL:0000556,skos:narrowMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000052,mesenchymal stem cell of adipose tissue,mesenchymal stem cell of adipose tissue,CL:0002570,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000053,monocyte,monocyte,CL:0000576,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000054,monocyte:non-classical,non-classical monocyte,CL:0000875,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000055,mutant blast:npm1,cell:mutant blast npm1,CL:0000000,skos:narrowMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000056,plasma cell,plasma cell,CL:0000786,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000057,dendritic cell:plasmacytoid,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000058,schwann cell,Schwann cell,CL:0002573,skos:exactMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000059,hematopoietic stem and progenitor cell:spink2+,hematopoietic multipotent progenitor cell:spink2-positive,CL:0000837,skos:narrowMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000060,mesenchymal stem/stromal cell:thy1+,mesenchymal stem cell:thy1-positive,CL:0000134,skos:narrowMatch
+bonemarrow-codex-chop_L3,UBERON:0002371,VCCF:0000061,muscle cell:smooth,smooth muscle cell,CL:0000192,skos:exactMatch
+colon-cycif-sorgerlab_L1,UBERON:0002372,VCCF:0000062,immune cell,leukocyte,CL:0000738,skos:exactMatch
+colon-cycif-sorgerlab_L1,UBERON:0002372,VCCF:0000063,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+colon-cycif-sorgerlab_L1,UBERON:0002372,VCCF:0000064,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+colon-cycif-sorgerlab_L1,UBERON:0002372,VCCF:0000065,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
+colon-cycif-sorgerlab_L2,UBERON:0002372,VCCF:0000066,b cell,B cell,CL:0000236,skos:exactMatch
+colon-cycif-sorgerlab_L2,UBERON:0002372,VCCF:0000067,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+colon-cycif-sorgerlab_L2,UBERON:0002372,VCCF:0000068,t cell,T cell,CL:0000084,skos:exactMatch
+colon-cycif-sorgerlab_L2,UBERON:0002372,VCCF:0000069,abnormal cell,abnormal cell,CL:0001061,skos:exactMatch
+colon-cycif-sorgerlab_L2,UBERON:0002372,VCCF:0000070,macrophage,macrophage,CL:0000235,skos:exactMatch
+colon-cycif-sorgerlab_L2,UBERON:0002372,VCCF:0000071,fibroblast,fibroblast,CL:0000057,skos:exactMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000072,b cell,B cell,CL:0000236,skos:exactMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000073,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000074,t cell:cd8+,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000075,t cell:cd8+ pdl1+,"CD8-positive, alpha-beta T cell:pdl1-positive",CL:0000625,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000076,lymphocyte:double-negative,double negative thymocyte,CL:0002489,skos:exactMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000077,lymphocyte:double-positive alpha-beta,"double-positive, alpha-beta thymocyte",CL:0000809,skos:exactMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000078,epithelial cell:ki67+ proliferating tumor,epithelial cell:ki67-positive proliferating tumor,CL:0000066,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000079,epithelial cell:pdl1+ tumor,epithelial cell:pdl1-positive tumor,CL:0000066,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000080,t cell:cd4+,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000081,t cell:cd4+ pdl1+,"CD4-positive, alpha-beta T cell:pdl1-positive",CL:0000624,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000082,lymphocyte:iii,lymphocyte:III,CL:0000542,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000083,lymphocyte:pdl1+,lymphocyte:pdl1-positive,CL:0000542,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000084,macrophage:i,macrophage:I,CL:0000235,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000085,macrophage:ii,macrophage:II,CL:0000235,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000086,macrophage:iii,macrophage:III,CL:0000235,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000087,macrophage:iv,macrophage:IV,CL:0000235,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000088,macrophage:pdl1+,macrophage:pdl1-positive,CL:0000235,skos:narrowMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000089,myofibroblast,myofibroblast cell,CL:0000186,skos:exactMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000090,neoplastic cell,neoplastic cell,CL:0001063,skos:exactMatch
+colon-cycif-sorgerlab_L3,UBERON:0002372,VCCF:0000091,t cell:regulatory,regulatory T cell,CL:0000815,skos:exactMatch
+colon-xenium-stanford_L1,UBERON:0002372,VCCF:0000092,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
+colon-xenium-stanford_L1,UBERON:0002372,VCCF:0000093,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+colon-xenium-stanford_L1,UBERON:0002372,VCCF:0000094,immune cell,leukocyte,CL:0000738,skos:exactMatch
+colon-xenium-stanford_L1,UBERON:0002372,VCCF:0000095,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+colon-xenium-stanford_L1,UBERON:0002372,VCCF:0000096,endothelial cell,endothelial cell,CL:0000115,skos:exactMatch
+colon-xenium-stanford_L1,UBERON:0002372,VCCF:0000097,neural cell,neural cell,CL:0002319,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000098,adipocyte,adipocyte,CL:0000136,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000099,enterocyte,enterocyte,CL:0000584,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000100,t cell,T cell,CL:0000084,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000101,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000102,transit amplifying cell,transit amplifying cell,CL:0009010,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000103,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000104,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000105,endocrine cell,endocrine cell,CL:0000163,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000106,fibroblast,fibroblast,CL:0000057,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000107,neuroglial cell,glial cell,CL:0000125,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000108,goblet cell,goblet cell,CL:0000160,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000109,lymphoid cell,lymphocyte,CL:0000542,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000110,tuft cell,brush cell,CL:0002204,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000111,macrophage,macrophage,CL:0000235,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000112,mast cell,mast cell,CL:0000097,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000113,b cell,B cell,CL:0000236,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000114,neuron,neuron,CL:0000540,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000115,pericyte,pericyte,CL:0000669,skos:exactMatch
+colon-xenium-stanford_L2,UBERON:0002372,VCCF:0000116,stem cell,stem cell,CL:0000034,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000117,adipocyte,adipocyte,CL:0000136,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000118,enteroycte:best4+,BEST4+ enterocyte,CL:4030026,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000119,t cell:cd4+ alpha-beta,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000120,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000121,transit amplifying cell:proliferating,transit amplifying cell:proliferating,CL:0009010,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000122,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000123,t cell:cd8+ alpha-beta effector memory,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000124,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000125,enterocyte,enterocyte,CL:0000584,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000126,enterocyte:immature,enterocyte:immature,CL:0000584,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000127,enterocyte:progenitor,enterocyte:progenitor,CL:0000584,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000128,enteroendocrine cell,enteroendocrine cell,CL:0000164,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000129,fibroblast:cancer associated,fibroblast:cancer associated,CL:0000057,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000130,fibroblast:crypt 1,crypt-top fibroblast:1,CL:4052009,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000131,fibroblast:crypt 2,crypt-top fibroblast:2,CL:4052009,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000132,fibroblast:crypt 3,crypt-top fibroblast:3,CL:4052009,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000133,fibroblast:crypt 4,crypt-top fibroblast:4,CL:4052009,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000134,fibroblast:wnt5b+ villus,fibroblast:wnt5b+ villus,CL:0000057,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000135,glial cell,glial cell,CL:0000125,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000136,goblet cell,goblet cell,CL:0000160,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000137,goblet cell:immature,goblet cell:immature,CL:0000160,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000138,lymphoid cell:innate,innate lymphoid cell,CL:0001065,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000139,tuft cell:intestinal,intestinal tuft cell,CL:0019032,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000140,macrophage,macrophage,CL:0000235,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000141,mast cell,mast cell,CL:0000097,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000142,b cell:memory,memory B cell,CL:0000787,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000143,myofibroblast cell:smooth muscle 1,myofibroblast cell:smooth muscle-like 1,CL:0000186,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000144,myofibroblast cell:smooth muscle 2,myofibroblast cell:smooth muscle-like 2,CL:0000186,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000145,myofibroblast cell:smooth muscle 3,myofibroblast cell:smooth muscle-like 3,CL:0000186,skos:narrowMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000146,b cell:naive,naive B cell,CL:0000788,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000147,t cell:naive,naive T cell,CL:0000898,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000148,neuron,neuron,CL:0000540,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000149,pericyte,pericyte,CL:0000669,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000150,plasma cell,plasma cell,CL:0000786,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000151,stem cell,stem cell,CL:0000034,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000152,t cell:regulatory,regulatory T cell,CL:0000815,skos:exactMatch
+colon-xenium-stanford_L3,UBERON:0002372,VCCF:0000153,transit amplifying cell,transit amplifying cell,CL:0009010,skos:exactMatch
+esophagus-codex-stanford_L1,UBERON:0001043,VCCF:0000154,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+esophagus-codex-stanford_L1,UBERON:0001043,VCCF:0000155,immune cell,leukocyte,CL:0000738,skos:exactMatch
+esophagus-codex-stanford_L1,UBERON:0001043,VCCF:0000156,neural cell,neural cell,CL:0002319,skos:exactMatch
+esophagus-codex-stanford_L1,UBERON:0001043,VCCF:0000157,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
+esophagus-codex-stanford_L2,UBERON:0001043,VCCF:0000158,gland epithelium cell,glandular secretory epithelial cell,CL:0000150,skos:exactMatch
+esophagus-codex-stanford_L2,UBERON:0001043,VCCF:0000159,lymphoid cell,lymphocyte,CL:0000542,skos:exactMatch
+esophagus-codex-stanford_L2,UBERON:0001043,VCCF:0000160,neuron,neuron,CL:0000540,skos:exactMatch
+esophagus-codex-stanford_L2,UBERON:0001043,VCCF:0000161,paneth cell,paneth cell,CL:0000510,skos:exactMatch
+esophagus-codex-stanford_L2,UBERON:0001043,VCCF:0000162,stromal cell,stromal cell,CL:0000499,skos:exactMatch
+esophagus-codex-stanford_L2,UBERON:0001043,VCCF:0000163,b cell,B cell,CL:0000236,skos:exactMatch
+esophagus-codex-stanford_L2,UBERON:0001043,VCCF:0000164,secretory cell of esophagus,glandular cell of esophagus,CL:0002657,skos:exactMatch
+esophagus-codex-stanford_L2,UBERON:0001043,VCCF:0000165,muscle cell,muscle cell,CL:0000187,skos:exactMatch
+esophagus-codex-stanford_L2,UBERON:0001043,VCCF:0000166,squamous epithelial cell,squamous epithelial cell,CL:0000076,skos:exactMatch
+esophagus-codex-stanford_L2,UBERON:0001043,VCCF:0000167,t cell,T cell,CL:0000084,skos:exactMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000168,glandular cell of esophagus,glandular cell of esophagus,CL:0002657,skos:exactMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000169,lymphoid cell:innate,innate lymphoid cell,CL:0001065,skos:exactMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000170,neuron,neuron,CL:0000540,skos:exactMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000171,paneth cell,paneth cell,CL:0000510,skos:exactMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000172,stromal cell:podoplanin+,stromal cell:podoplanin-positive,CL:0000499,skos:narrowMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000173,plasma cell,plasma cell,CL:0000786,skos:exactMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000174,epithelial cell:secretory,secretory epithelial cell,CL:1100001,skos:exactMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000175,muscle cell:smooth,smooth muscle cell of the esophagus,CL:0002599,skos:exactMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000176,squamous epithelial cell,squamous epithelial cell,CL:0000076,skos:exactMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000177,stromal cell,stromal cell,CL:0000499,skos:exactMatch
+esophagus-codex-stanford_L3,UBERON:0001043,VCCF:0000178,t cell,T cell,CL:0000084,skos:exactMatch
+intestine-codex-stanford_L1,UBERON:0000160,VCCF:0000179,immune cell,leukocyte,CL:0000738,skos:exactMatch
+intestine-codex-stanford_L1,UBERON:0000160,VCCF:0000180,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+intestine-codex-stanford_L1,UBERON:0000160,VCCF:0000181,endothelial cell,endothelial cell,CL:0000115,skos:exactMatch
+intestine-codex-stanford_L1,UBERON:0000160,VCCF:0000182,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
+intestine-codex-stanford_L1,UBERON:0000160,VCCF:0000183,neural cell,neural cell,CL:0002319,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000184,macrophage,macrophage,CL:0000235,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000185,b cell,B cell,CL:0000236,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000186,t cell,T cell,CL:0000084,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000187,enterocyte,enterocyte,CL:0000584,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000188,lymphoid cell,lymphocyte,CL:0000542,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000189,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000190,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000191,goblet cell,goblet cell,CL:0000160,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000192,neurecto-epithelial cell,neurecto-epithelial cell,CL:0000710,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000193,natural killer cell,natural killer cell,CL:0000623,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000194,endocrine cell,endocrine cell,CL:0000163,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000195,neuron,neuron,CL:0000540,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000196,neutrophil,neutrophil,CL:0000775,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000197,paneth cell,paneth cell,CL:0000510,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000198,muscle cell,muscle cell,CL:0000187,skos:exactMatch
+intestine-codex-stanford_L2,UBERON:0000160,VCCF:0000199,stromal cell,stromal cell,CL:0000499,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000200,macrophage,macrophage,CL:0000235,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000201,b cell,B cell,CL:0000236,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000202,t cell:cd4+,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000203,enterocyte:cd57+,CD57-positive enterocyte,CL:4033092,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000204,lymphocyte:cd7+,CD7-positive lymphoid progenitor cell,CL:0001028,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000205,t cell:cd8+ alpha-beta,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000206,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000207,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000208,enterocyte,enterocyte,CL:0000584,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000209,enterocyte:cd66+,enterocyte:cd66-positive,CL:0000584,skos:narrowMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000210,enterocyte:muc1+,enterocyte:muc1-positive,CL:0000584,skos:narrowMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000211,goblet cell,goblet cell,CL:0000160,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000212,macrophage:inflammatory,inflammatory macrophage,CL:0000863,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000213,interstitial cell of cajal,interstitial cell of Cajal,CL:0002088,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000214,natural killer cell,natural killer cell,CL:0000623,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000215,neuroendocrine cell,neuroendocrine cell,CL:0000165,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000216,neuron,neuron,CL:0000540,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000217,neutrophil,neutrophil,CL:0000775,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000218,paneth cell,paneth cell,CL:0000510,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000219,plasma cell,plasma cell,CL:0000786,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000220,muscle cell:smooth,smooth muscle cell,CL:0000192,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000221,stromal cell,stromal cell,CL:0000499,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000222,transit amplifying cell,transit amplifying cell,CL:0009010,skos:exactMatch
+intestine-codex-stanford_L3,UBERON:0000160,VCCF:0000223,transit amplifying cell:proliferating,transit amplifying cell:proliferating,CL:0009010,skos:narrowMatch
+lung-codex-urmc_L1,UBERON:0002048,VCCF:0000224,immune cell,leukocyte,CL:0000738,skos:exactMatch
+lung-codex-urmc_L1,UBERON:0002048,VCCF:0000225,endothelial cell,endothelial cell,CL:0000115,skos:exactMatch
+lung-codex-urmc_L1,UBERON:0002048,VCCF:0000226,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+lung-codex-urmc_L1,UBERON:0002048,VCCF:0000227,mixed immune/epithelial cell population,T cell/epithelial cell,CL:0000084/CL:0000066,skos:narrowMatch
+lung-codex-urmc_L1,UBERON:0002048,VCCF:0000228,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+lung-codex-urmc_L1,UBERON:0002048,VCCF:0000229,hematopoeitic precursor cell,hematopoietic precursor cell,CL:0008001,skos:exactMatch
+lung-codex-urmc_L1,UBERON:0002048,VCCF:0000230,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000231,b cell,B cell,CL:0000236,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000232,immune cell,leukocyte,CL:0000738,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000233,endothelial cell of capillary,capillary endothelial cell,CL:0002144,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000234,t cell,T cell,CL:0000084,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000235,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000236,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000237,mixed t cell/epithelial cell population,T cell/epithelial cell,CL:0000084/CL:0000066,skos:narrowMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000238,leukocyte,leukocyte,CL:0000738,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000239,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000240,endothelial cell,endothelial cell,CL:0000115,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000241,macrophage,macrophage,CL:0000235,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000242,mast cell,mast cell,CL:0000097,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000243,megakaryocyte,megakaryocyte,CL:0000556,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000244,neutrophil,neutrophil,CL:0000775,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000245,type 1 pneumocyte,pulmonary alveolar type 1 cell,CL:0002062,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000246,type 2 pneumocyte,pulmonary alveolar type 2 cell,CL:0002063,skos:exactMatch
+lung-codex-urmc_L2,UBERON:0002048,VCCF:0000247,muscle cell,muscle cell,CL:0000187,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000248,b cell,B cell,CL:0000236,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000249,immune cell,leukocyte,CL:0000738,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000250,endothelial cell of capillary,capillary endothelial cell,CL:0002144,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000251,t cell:cd4+ alpha-beta,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000252,t cell:cd4+ alpha-beta,"lung resident memory CD4-positive, alpha-beta T cell",CL:4033038,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000253,t cell:cd8+,"lung resident memory CD8-positive, alpha-beta T cell",CL:4033039,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000254,t cell,T cell,CL:0000084,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000255,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000256,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000257,mixed t cell/epithelial cell population,cell:mixed t cell/epithelial cell population,CL:0000000,skos:narrowMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000258,leukocyte,leukocyte,CL:0000738,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000259,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000260,endothelial cell,endothelial cell,CL:0000115,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000261,macrophage:interstitial,lung interstitial macrophage,CL:4033043,skos:narrowMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000262,macrophage,macrophage,CL:0000235,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000263,macrophage,alveolar macrophage,CL:0000583,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000264,mast cell,mast cell,CL:0000097,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000265,megakaryocyte,megakaryocyte,CL:0000556,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000266,neutrophil,neutrophil,CL:0000775,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000267,pneumocyte:type 1,pulmonary alveolar type 1 cell,CL:0002062,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000268,pneumocyte:type 2,pulmonary alveolar type 2 cell,CL:0002063,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000269,muscle cell:smooth,smooth muscle cell,CL:0000192,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000270,Basal Epithelial Cell,basal epithelial cell of tracheobronchial tree,CL:0002329,skos:exactMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000271,CD68+ Macrophage,lung macrophage:CD68-positive,CL:1001603,skos:narrowMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000272,Lymphatic Endothelial (and some immune cells),cell: mix endothelial cell of lymphatic vessel/immune,CL:0000000,skos:narrowMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000273,MPO+,cell:MPO-positive,CL:0000000,skos:narrowMatch
+lung-codex-urmc_L3,UBERON:0002048,VCCF:0000274,Smooth Muscle Cell,smooth muscle cell,CL:0000192,skos:exactMatch
+lymphnode-codex-yale_L1,UBERON:0000029,VCCF:0000275,immune cell,leukocyte,CL:0000738,skos:exactMatch
+lymphnode-codex-yale_L1,UBERON:0000029,VCCF:0000276,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
+lymphnode-codex-yale_L2,UBERON:0000029,VCCF:0000277,macrophage,macrophage,CL:0000235,skos:exactMatch
+lymphnode-codex-yale_L2,UBERON:0000029,VCCF:0000278,b cell,B cell,CL:0000236,skos:exactMatch
+lymphnode-codex-yale_L2,UBERON:0000029,VCCF:0000279,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+lymphnode-codex-yale_L2,UBERON:0000029,VCCF:0000280,lymphoid cell,lymphocyte,CL:0000542,skos:exactMatch
+lymphnode-codex-yale_L2,UBERON:0000029,VCCF:0000281,mast cell,mast cell,CL:0000097,skos:exactMatch
+lymphnode-codex-yale_L2,UBERON:0000029,VCCF:0000282,monocyte,monocyte,CL:0000576,skos:exactMatch
+lymphnode-codex-yale_L2,UBERON:0000029,VCCF:0000283,natural killer cell,natural killer cell,CL:0000623,skos:exactMatch
+lymphnode-codex-yale_L2,UBERON:0000029,VCCF:0000284,t cell,T cell,CL:0000084,skos:exactMatch
+lymphnode-codex-yale_L2,UBERON:0000029,VCCF:0000285,muscle cell,muscle cell,CL:0000187,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000286,macrophage,macrophage,CL:0000235,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000287,b cell:activated,B cell:activated,CL:0000236,skos:narrowMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000288,b cell:proliferating,cycling B cell,CL:4033068,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000289,b cell:germinal center,germinal center B cell,CL:0000844,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000290,b cell:germinal center pre-plasmablast,germinal center B cell:pre-plasmablast,CL:0000844,skos:narrowMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000291,b cell:interferon,B cell:interferon-stimulated,CL:0000236,skos:narrowMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000292,b cell:naive,naive B cell,CL:0000788,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000293,b cell:plasma,plasma cell,CL:0000786,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000294,b cell:pre-germinal center,B cell:pre-germinal center,CL:0000236,skos:narrowMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000295,dendritic cell:migratory,migratory dendtritic cell,CL:4047054,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000296,dendritic cell:conventional 1,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000297,dendritic cell:conventional 2,CD1c-positive myeloid dendritic cell,CL:0002399,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000298,dendritic cell:follicular,follicular dendritic cell,CL:0000442,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000299,macrophage:inflammatory,inflammatory macrophage,CL:0000863,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000300,lymphoid cell:innate,innate lymphoid cell,CL:0001065,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000301,mast cell,mast cell,CL:0000097,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000302,b cell:memory,memory B cell,CL:0000787,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000303,monocyte,monocyte,CL:0000576,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000304,natural killer cell,natural killer cell,CL:0000623,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000305,t cell:mature natural killer,mature NK T cell,CL:0000814,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000306,dendritic cell:plasmacytoid,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000307,t cell:regulatory,regulatory T cell,CL:0000815,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000308,t cell:cd4+ alpha-beta effector,"effector CD4-positive, alpha-beta T cell",CL:0001044,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000309,t cell:cd4+ alpha-beta naive thymus-derived,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000310,t cell:follicular helper,T follicular helper cell,CL:0002038,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000311,t cell:cd8+ cd161+,"CD8-positive, alpha-beta T cell:CD161-positive",CL:0000625,skos:narrowMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000312,t cell:cd8+,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000313,t cell:tim3+,T cell:tim3-positive,CL:0000084,skos:narrowMatch
+lymphnode-codex-yale_L3,UBERON:0000029,VCCF:0000314,muscle cell:smooth,smooth muscle cell,CL:0000192,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L1,UBERON:0002450,VCCF:0000315,immune cell,leukocyte,CL:0000738,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L1,UBERON:0002450,VCCF:0000316,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L1,UBERON:0002450,VCCF:0000317,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L1,UBERON:0002450,VCCF:0000318,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L2,UBERON:0002450,VCCF:0000319,t cell,T cell,CL:0000084,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L2,UBERON:0002450,VCCF:0000320,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L2,UBERON:0002450,VCCF:0000321,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L2,UBERON:0002450,VCCF:0000322,trophoblast,trophoblast cell,CL:0000351,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L2,UBERON:0002450,VCCF:0000323,fibroblast,fibroblast,CL:0000057,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L2,UBERON:0002450,VCCF:0000324,gland epithelium cell,glandular secretory epithelial cell,CL:0000150,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L2,UBERON:0002450,VCCF:0000325,macrophage,macrophage,CL:0000235,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L2,UBERON:0002450,VCCF:0000326,mast cell,mast cell,CL:0000097,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L2,UBERON:0002450,VCCF:0000327,muscle cell,muscle cell,CL:0000187,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L2,UBERON:0002450,VCCF:0000328,natural killer cell,natural killer cell,CL:0000623,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000329,t cell:cd4+ alpha-beta,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000330,t cell:cd8+ alpha-beta,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000331,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000332,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000333,trophoblast:hla-g+ cd56+ extravillous,extravillous trophoblast:hla-g-positive cd56-positive,CL:0008036,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000334,trophoblast:hla-g+ ck7- extravillous,extravillous trophoblast:hla-g-positive ck7-negative,CL:0008036,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000335,trophoblast:hla-g+ ck7+ extravillous,extravillous trophoblast:hla-g-positive ck7-positive,CL:0008036,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000336,"trophoblast:hla-g minus, cd57- ck7 low extravillous",extravillous trophoblast:hla-g-negative cd57-negative ck7-low,CL:0008036,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000337,fibroblast,fibroblast,CL:0000057,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000338,glandular cell of placenta,glandular secretory epithelial cell:placenta,CL:0000150,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000339,hofbauer cell,Hofbauer cell,CL:3000001,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000340,macrophage:1a,macrophage:1a,CL:0000235,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000341,macrophage:1b,macrophage:1b,CL:0000235,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000342,macrophage:2a,macrophage:2a,CL:0000235,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000343,macrophage:2b,macrophage:2b,CL:0000235,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000344,macrophage:2c,macrophage:2c,CL:0000235,skos:narrowMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000345,mast cell,mast cell,CL:0000097,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000346,t cell:mature natural killer,mature NK T cell,CL:0000814,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000347,muscle cell,muscle cell,CL:0000187,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000348,myofibroblast,myofibroblast cell,CL:0000186,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000349,natural killer cell,natural killer cell,CL:0000623,skos:exactMatch
+maternalfetalinterface-mibitof-stanford_L3,UBERON:0002450,VCCF:0000350,t cell:regulatory,regulatory T cell,CL:0000815,skos:exactMatch
+oralcavity-codex-czi_L1,UBERON:0000167,VCCF:0000351,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+oralcavity-codex-czi_L1,UBERON:0000167,VCCF:0000352,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
+oralcavity-codex-czi_L1,UBERON:0000167,VCCF:0000353,immune cell,leukocyte,CL:0000738,skos:exactMatch
+oralcavity-codex-czi_L1,UBERON:0000167,VCCF:0000354,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+oralcavity-codex-czi_L1,UBERON:0000167,VCCF:0000355,neural cell,neural cell,CL:0002319,skos:exactMatch
+oralcavity-codex-czi_L1,UBERON:0000167,VCCF:0000356,endothelial cell,endothelial cell,CL:0000115,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000357,gland epithelium cell,glandular secretory epithelial cell,CL:0000150,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000358,adipocyte,adipocyte,CL:0000136,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000359,b cell,B cell,CL:0000236,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000360,keratinocyte,keratinocyte,CL:0000312,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000361,t cell,T cell,CL:0000084,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000362,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000363,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000364,gland epithelium cell,epithelial cell:gland,CL:0000066,skos:narrowMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000365,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000366,fibroblast,fibroblast,CL:0000057,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000367,neuroglial cell/neuron,neural cell:neuroglial/neuron,CL:0002319,skos:narrowMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000368,langerhans cell,Langerhans cell,CL:0000453,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000369,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000370,macrophage,macrophage,CL:0000235,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000371,mast cell,mast cell,CL:0000097,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000372,perivascular cell,perivascular cell,CL:4033054,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000373,myoepithelial cell,myoepithelial cell,CL:0000185,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000374,neutrophil,neutrophil,CL:0000775,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000375,natural killer cell,natural killer cell,CL:0000623,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000376,muscle cell,muscle cell,CL:0000187,skos:exactMatch
+oralcavity-codex-czi_L2,UBERON:0000167,VCCF:0000377,endothelial cell of vascular tree,endothelial cell of vascular tree,CL:0002139,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000378,acinar cell of salivary gland,acinar cell of salivary gland,CL:0002623,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000379,adipocyte,adipocyte,CL:0000136,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000380,b cell,B cell,CL:0000236,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000381,keratinocyte,keratinocyte,CL:0000312,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000382,t cell:cd4+,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000383,thymocyte:cd4-intermediate cd8+ double-positive,"CD4-intermediate, CD8-positive double-positive thymocyte",CL:0002430,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000384,t cell:cd8+,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000385,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000386,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000387,epithelial cell:ductal,duct epithelial cell,CL:0000068,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000388,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000389,fibroblast,fibroblast,CL:0000057,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000390,t cell,T cell,CL:0000084,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000391,glial cell/neuron,neural cell:glial/neuron,CL:0002319,skos:narrowMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000392,t cell:cd4+,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000393,langerhans cell,Langerhans cell,CL:0000453,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000394,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000395,macrophage,macrophage,CL:0000235,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000396,mast cell,mast cell,CL:0000097,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000397,monocyte,monocyte,CL:0000576,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000398,mural cell,mural cell,CL:0008034,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000399,myofibroblast,myofibroblast cell,CL:0000186,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000400,myoepithelial cell,myoepithelial cell,CL:0000185,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000401,neutrophil,neutrophil,CL:0000775,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000402,natural killer cell,natural killer cell,CL:0000623,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000403,plasma cell,plasma cell,CL:0000786,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000404,t cell:regulatory,regulatory T cell,CL:0000815,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000405,muscle cell:skeletal,cell of skeletal muscle,CL:0000188,skos:exactMatch
+oralcavity-codex-czi_L3,UBERON:0000167,VCCF:0000406,endothelial cell of vascular tree,endothelial cell of vascular tree,CL:0002139,skos:exactMatch
+pancreas-geomx-ufl_L1,UBERON:0001264,VCCF:0000407,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+pancreas-geomx-ufl_L1,UBERON:0001264,VCCF:0000408,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+pancreas-geomx-ufl_L2,UBERON:0001264,VCCF:0000409,beta cell,type B pancreatic cell,CL:0000169,skos:exactMatch
+pancreas-geomx-ufl_L2,UBERON:0001264,VCCF:0000410,gland epithelium cell,epithelial cell:gland,CL:0000066,skos:narrowMatch
+pancreas-geomx-ufl_L2,UBERON:0001264,VCCF:0000411,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+pancreas-geomx-ufl_L3,UBERON:0001264,VCCF:0000412,beta cell:pancreatic,type B pancreatic cell,CL:0000169,skos:exactMatch
+pancreas-geomx-ufl_L3,UBERON:0001264,VCCF:0000413,epithelial cell:ductal,duct epithelial cell,CL:0000068,skos:exactMatch
+pancreas-geomx-ufl_L3,UBERON:0001264,VCCF:0000414,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+skin-celldive-ge_L1,UBERON:0002097,VCCF:0000415,immune cell,leukocyte,CL:0000738,skos:exactMatch
+skin-celldive-ge_L1,UBERON:0002097,VCCF:0000416,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+skin-celldive-ge_L2,UBERON:0002097,VCCF:0000417,macrophage,macrophage,CL:0000235,skos:exactMatch
+skin-celldive-ge_L2,UBERON:0002097,VCCF:0000418,t cell,T cell,CL:0000084,skos:exactMatch
+skin-celldive-ge_L2,UBERON:0002097,VCCF:0000419,keratinocyte,keratinocyte,CL:0000312,skos:exactMatch
+skin-celldive-ge_L3,UBERON:0002097,VCCF:0000420,macrophage,macrophage,CL:0000235,skos:exactMatch
+skin-celldive-ge_L3,UBERON:0002097,VCCF:0000421,t cell:cd8+,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+skin-celldive-ge_L3,UBERON:0002097,VCCF:0000422,keratinocyte:ddb2+,keratinocyte:ddb2-positive,CL:0000312,skos:narrowMatch
+skin-celldive-ge_L3,UBERON:0002097,VCCF:0000423,t cell:cd4+,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+skin-celldive-ge_L3,UBERON:0002097,VCCF:0000424,keratinocyte:ki67+ proliferating,keratinocyte:ki67-positive proliferating,CL:0000312,skos:narrowMatch
+skin-celldive-ge_L3,UBERON:0002097,VCCF:0000425,keratinocyte:p53+,keratinocyte:p53-positive,CL:0000312,skos:narrowMatch
+skin-celldive-ge_L3,UBERON:0002097,VCCF:0000426,t cell:regulatory,regulatory T cell,CL:0000815,skos:exactMatch
+skin-confocal-sorgerlab_L1,UBERON:0002097,VCCF:0000427,immune cell,leukocyte,CL:0000738,skos:exactMatch
+skin-confocal-sorgerlab_L1,UBERON:0002097,VCCF:0000428,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+skin-confocal-sorgerlab_L1,UBERON:0002097,VCCF:0000429,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+skin-confocal-sorgerlab_L2,UBERON:0002097,VCCF:0000430,b cell,B cell,CL:0000236,skos:exactMatch
+skin-confocal-sorgerlab_L2,UBERON:0002097,VCCF:0000431,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+skin-confocal-sorgerlab_L2,UBERON:0002097,VCCF:0000432,t cell,T cell,CL:0000084,skos:exactMatch
+skin-confocal-sorgerlab_L2,UBERON:0002097,VCCF:0000433,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+skin-confocal-sorgerlab_L2,UBERON:0002097,VCCF:0000434,keratinocyte,keratinocyte,CL:0000312,skos:exactMatch
+skin-confocal-sorgerlab_L2,UBERON:0002097,VCCF:0000435,langerhans cell,Langerhans cell,CL:0000453,skos:exactMatch
+skin-confocal-sorgerlab_L2,UBERON:0002097,VCCF:0000436,leukocyte,leukocyte,CL:0000738,skos:exactMatch
+skin-confocal-sorgerlab_L2,UBERON:0002097,VCCF:0000437,macrophage,macrophage,CL:0000235,skos:exactMatch
+skin-confocal-sorgerlab_L2,UBERON:0002097,VCCF:0000438,myeloid cell,myeloid cell,CL:0000763,skos:exactMatch
+skin-confocal-sorgerlab_L2,UBERON:0002097,VCCF:0000439,abnormal cell,abnormal cell,CL:0001061,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000440,b cell,B cell,CL:0000236,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000441,dendritic cell:cd11b+,CD11b-positive dendritic cell,CL:0002465,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000442,t cell:cd4+,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000443,t cell:cd8+,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000444,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000445,dendritic cell,dendritic cell,CL:0000451,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000446,keratinocyte,keratinocyte,CL:0000312,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000447,langerhans cell,Langerhans cell,CL:0000453,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000448,leukocyte,leukocyte,CL:0000738,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000449,macrophage,macrophage,CL:0000235,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000450,myeloid cell,myeloid cell,CL:0000763,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000451,t cell:regulatory,regulatory T cell,CL:0000815,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000452,t cell:memory,memory T cell,CL:0000813,skos:exactMatch
+skin-confocal-sorgerlab_L3,UBERON:0002097,VCCF:0000453,tumor cell,neoplastic cell,CL:0001063,skos:exactMatch
+spleen-codex-ufl_L1,UBERON:0002106,VCCF:0000454,immune cell,leukocyte,CL:0000738,skos:exactMatch
+spleen-codex-ufl_L1,UBERON:0002106,VCCF:0000455,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+spleen-codex-ufl_L1,UBERON:0002106,VCCF:0000456,endothelial cell,endothelial cell,CL:0000115,skos:exactMatch
+spleen-codex-ufl_L2,UBERON:0002106,VCCF:0000457,b cell,B cell,CL:0000236,skos:exactMatch
+spleen-codex-ufl_L2,UBERON:0002106,VCCF:0000458,t cell,T cell,CL:0000084,skos:exactMatch
+spleen-codex-ufl_L2,UBERON:0002106,VCCF:0000459,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+spleen-codex-ufl_L2,UBERON:0002106,VCCF:0000460,endothelial cell of sinusoid,endothelial cell of sinusoid,CL:0002262,skos:exactMatch
+spleen-codex-ufl_L2,UBERON:0002106,VCCF:0000461,macrophage,macrophage,CL:0000235,skos:exactMatch
+spleen-codex-ufl_L2,UBERON:0002106,VCCF:0000462,myeloid cell,myeloid cell,CL:0000763,skos:exactMatch
+spleen-codex-ufl_L2,UBERON:0002106,VCCF:0000463,neutrophil,neutrophil,CL:0000775,skos:exactMatch
+spleen-codex-ufl_L2,UBERON:0002106,VCCF:0000464,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000465,b cell,B cell,CL:0000236,skos:exactMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000466,t cell:cd4+ alpha-beta memory,"CD4-positive, alpha-beta memory T cell",CL:0000897,skos:exactMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000467,t cell:cd8+ alpha-beta memory,"CD8-positive, alpha-beta memory T cell",CL:0000909,skos:exactMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000468,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000469,cell:proliferating,cell:proliferating,CL:0000000,skos:narrowMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000470,endothelial cell of sinusoid,endothelial cell of sinusoid,CL:0002262,skos:exactMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000471,b cell:follicular,follicular B cell,CL:0000843,skos:exactMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000472,macrophage,macrophage,CL:0000235,skos:exactMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000473,myeloid cell,myeloid cell,CL:0000763,skos:exactMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000474,neutrophil/monocyte,myeloid leukocyte:neutrophil/monocyte,CL:0000766,skos:narrowMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000475,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000476,CD68,cell:CD68-positive,CL:0000000,skos:narrowMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000477,DDB2,cell:DDB2-positive,CL:0000000,skos:narrowMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000478,KI67,cell:KI67-positive,CL:0000000,skos:narrowMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000479,Neutrophils/Monocytes,myeloid leukocyte:Neutrophils/Monocytes,CL:0000766,skos:narrowMatch
+spleen-codex-ufl_L3,UBERON:0002106,VCCF:0000480,P53,cell:P53-positive,CL:0000000,skos:narrowMatch
+tonsil-codex-stanford_L1,UBERON:0002372,VCCF:0000481,immune cell,leukocyte,CL:0000738,skos:exactMatch
+tonsil-codex-stanford_L1,UBERON:0002372,VCCF:0000482,neural cell,neural cell,CL:0002319,skos:exactMatch
+tonsil-codex-stanford_L1,UBERON:0002372,VCCF:0000483,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
+tonsil-codex-stanford_L1,UBERON:0002372,VCCF:0000484,epithelial cell,epithelial cell,CL:0000066,skos:exactMatch
+tonsil-codex-stanford_L2,UBERON:0002372,VCCF:0000485,b cell,B cell,CL:0000236,skos:exactMatch
+tonsil-codex-stanford_L2,UBERON:0002372,VCCF:0000486,lymphoid cell,lymphocyte,CL:0000542,skos:exactMatch
+tonsil-codex-stanford_L2,UBERON:0002372,VCCF:0000487,neuron,neuron,CL:0000540,skos:exactMatch
+tonsil-codex-stanford_L2,UBERON:0002372,VCCF:0000488,stromal cell,stromal cell,CL:0000499,skos:exactMatch
+tonsil-codex-stanford_L2,UBERON:0002372,VCCF:0000489,muscle cell,muscle cell,CL:0000187,skos:exactMatch
+tonsil-codex-stanford_L2,UBERON:0002372,VCCF:0000490,squamous epithelial cell,squamous epithelial cell,CL:0000076,skos:exactMatch
+tonsil-codex-stanford_L2,UBERON:0002372,VCCF:0000491,t cell,T cell,CL:0000084,skos:exactMatch
+tonsil-codex-stanford_L3,UBERON:0002372,VCCF:0000492,b cell,B cell,CL:0000236,skos:exactMatch
+tonsil-codex-stanford_L3,UBERON:0002372,VCCF:0000493,lymphoid cell:innate,innate lymphoid cell,CL:0001065,skos:exactMatch
+tonsil-codex-stanford_L3,UBERON:0002372,VCCF:0000494,neuron,neuron,CL:0000540,skos:exactMatch
+tonsil-codex-stanford_L3,UBERON:0002372,VCCF:0000495,stromal cell:podoplanin+,stromal cell:podoplanin-positive,CL:0000499,skos:narrowMatch
+tonsil-codex-stanford_L3,UBERON:0002372,VCCF:0000496,plasma cell,plasma cell,CL:0000786,skos:exactMatch
+tonsil-codex-stanford_L3,UBERON:0002372,VCCF:0000497,muscle cell:smooth,smooth muscle cell,CL:0000192,skos:exactMatch
+tonsil-codex-stanford_L3,UBERON:0002372,VCCF:0000498,squamous epithelial cell,squamous epithelial cell,CL:0000076,skos:exactMatch
+tonsil-codex-stanford_L3,UBERON:0002372,VCCF:0000499,stromal cell,stromal cell,CL:0000499,skos:exactMatch
+tonsil-codex-stanford_L3,UBERON:0002372,VCCF:0000500,t cell,T cell,CL:0000084,skos:exactMatch
+,,VCCF:0000501,endothelial cell,endothelial cell,CL:0000115,skos:exactMatch
+,,VCCF:0000502,endothelial cell of vascular tree,endothelial cell of vascular tree,CL:0002139,skos:exactMatch

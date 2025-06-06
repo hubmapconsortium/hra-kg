@@ -1,0 +1,7 @@
+overrides:
+  - files: '*.yaml'
+    options:
+      printWidth: 120
+      proseWrap: always
+      quoteProps: as-needed
+      singleQuote: false

@@ -1,7 +1,7 @@
 title: 3D Reference Organ for Intestine, Large, Male
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data provided by Arie Kaufman, Stony Brook University.
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data provided by Arie Kaufman,
+  Stony Brook University.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -14,10 +14,9 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: '2021-03-12'
+creation_date: "2021-03-12"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -26,12 +25,10 @@ hubmapId: HBM235.QFTP.824
 doi: https://doi.org/10.48539/hbm235.qftp.824
 citation: >-
   Kristen Browne. 2021. *3D Reference Organ for Intestine, Large, Male v1.0.*
-  [https://doi.org/10.48539/hbm235.qftp.824](https://doi.org/10.48539/hbm235.qftp.824).
-  Accessed on March 12, 2021.
+  [https://doi.org/10.48539/hbm235.qftp.824](https://doi.org/10.48539/hbm235.qftp.824). Accessed on March 12, 2021.
 citationOverall: >-
-  Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen
-  Quardokus, Andreas Bueckle, Katy Börner. 2021. *HuBMAP CCF 3D Reference Object
-  Library*. https://humanatlas.io/3d-reference-library. Accessed on March 12,
+  Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner.
+  2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on March 12,
   2021.
 datatable:
   - SBU_Intestine_Large.glb

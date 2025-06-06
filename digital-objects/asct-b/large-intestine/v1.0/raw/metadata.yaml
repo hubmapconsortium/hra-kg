@@ -1,12 +1,9 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for
-  Intestine, Large
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Intestine, Large
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to
+  capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to
+  identify cell types. The tables are authored and reviewed by an international team of experts.
 creators:
   - fullName: Teri A. Longacre
     firstName: Teri
@@ -27,10 +24,9 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: '2021-03-12'
+creation_date: "2021-03-12"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -38,12 +34,10 @@ funders:
 hubmapId: HBM287.KVCD.758
 doi: https://doi.org/10.48539/hbm287.kvcd.758
 citation: >-
-  Teri A. Longacre; John Hickey; Yiing Lin. HuBMAP ASCT+B Tables. Intestine,
-  Large v1.0
+  Teri A. Longacre; John Hickey; Yiing Lin. HuBMAP ASCT+B Tables. Intestine, Large v1.0
   [https://doi.org/10.48539/hbm287.kvcd.758](https://doi.org/10.48539/hbm287.kvcd.758)
 citationOverall: >-
-  Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy
-  Börner. 2021. *HuBMAP ASCT+B Tables*. https://humanatlas.io/asctb-tables.
-  Accessed on March 12, 2021.
+  Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. *HuBMAP ASCT+B Tables*.
+  https://humanatlas.io/asctb-tables. Accessed on March 12, 2021.
 datatable:
   - ASCT-B_VH_Intestine_Large.csv

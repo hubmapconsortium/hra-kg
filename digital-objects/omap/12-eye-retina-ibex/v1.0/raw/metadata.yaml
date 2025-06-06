@@ -1,25 +1,18 @@
 title: >-
-  OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Retina with IBEX
+  OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX
 description: >-
   OMAP-12 was designed for IBEX imaging of fixed frozen human retina samples
-  (https://doi.org/10.1038/s41596-021-00644-9;
-  https://doi.org/10.1073/pnas.2018488117). The panel contains 14 antibodies, 3
-  lectins, and DAPI for image alignment and nuclear segmentation. The OMAP
-  provides a spatial context for the main anatomical structures and key cell
-  types present in the healthy human retina including photoreceptors, bipolar
-  cells, ganglion cells, astrocytes, microglia, Muller glia, and retinal
-  vascular endothelium. Broad neuronal classes are imaged, but not separated
-  into fine subpopulations partly due to the lack of antibody reagents (e.g.,
-  all amacrine, ganglion cell, and bipolar cell subtypes). Fluorescent lectins
-  PNA, Isolectin B4, and Phalloidin were used to visualize oligosaccharides for
-  typing cell types such as cone photoreceptors, vascular endothelium, and outer
-  limiting membrane, respectively. These reagents are visualized in the
-  accompanying dataset but not included in the OMAP because they are not
-  antibodies. Additional details on sample preparation and imaging can be found
-  here: (doi: 10.1038/s41596-021-00644-9) Custom conjugations were performed for
-  several antibodies according to the standard manufacturer protocols. A
-  representative dataset acquired using this OMAP has been uploaded here:
+  (https://doi.org/10.1038/s41596-021-00644-9; https://doi.org/10.1073/pnas.2018488117). The panel contains 14
+  antibodies, 3 lectins, and DAPI for image alignment and nuclear segmentation. The OMAP provides a spatial context for
+  the main anatomical structures and key cell types present in the healthy human retina including photoreceptors,
+  bipolar cells, ganglion cells, astrocytes, microglia, Muller glia, and retinal vascular endothelium. Broad neuronal
+  classes are imaged, but not separated into fine subpopulations partly due to the lack of antibody reagents (e.g., all
+  amacrine, ganglion cell, and bipolar cell subtypes). Fluorescent lectins PNA, Isolectin B4, and Phalloidin were used
+  to visualize oligosaccharides for typing cell types such as cone photoreceptors, vascular endothelium, and outer
+  limiting membrane, respectively. These reagents are visualized in the accompanying dataset but not included in the
+  OMAP because they are not antibodies. Additional details on sample preparation and imaging can be found here: (doi:
+  10.1038/s41596-021-00644-9) Custom conjugations were performed for several antibodies according to the standard
+  manufacturer protocols. A representative dataset acquired using this OMAP has been uploaded here:
   https://doi.org/10.5281/zenodo.7777285.
 creators:
   - fullName: Colin J. Chu
@@ -53,10 +46,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2023-06-15'
+creation_date: "2023-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
@@ -64,15 +56,12 @@ funders:
 hubmapId: HBM979.RCXH.454
 doi: https://doi.org/10.48539/HBM979.RCXH.454
 citation: >-
-  Colin J. Chu. OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed
-  Antibody-Based Imaging of Human Retina with IBEX, v1.0,
-  https://doi.org/10.48539/HBM979.RCXH.454. Accessed on June 15, 2023.
+  Colin J. Chu. OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with
+  IBEX, v1.0, https://doi.org/10.48539/HBM979.RCXH.454. Accessed on June 15, 2023.
 citationOverall: >-
-  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo,
-  Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021.
-  “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for
-  Multiplexed Antibody-Based Imaging.” *Nature Methods*, November.
-  https://doi.org/10.1038/s41592-021-01316-y.
+  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre
+  Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer
+  for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.
 datatable:
   - omap-12-eye-retina-ibex.csv
   - omap-12-eye-retina-ibex.xlsx

@@ -1,14 +1,14 @@
 title: Provisional Cell Ontology
 description: >-
-  Cell types that are provisionally defined by experimental techniques such as single cell transcriptomics rather than a straightforward &amp; coherent set of properties.
+  Cell types that are provisionally defined by experimental techniques such as single cell transcriptomics rather than a
+  straightforward &amp; coherent set of properties.
 creators:
   - fullName: Alexander D. Diehl
     firstName: Alexander
     lastName: Diehl
     orcid: 0000-0001-9990-8331
-creation_date: '2024-07-11'
+creation_date: "2024-07-11"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 datatable:
   - pcl-base.owl

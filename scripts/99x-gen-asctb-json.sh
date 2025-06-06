@@ -1,5 +1,5 @@
 #!/bin/bash
-source ../hra-do-processor/.venv/bin/activate
+source constants.sh
 set -ev
 
 export COLLECTIONS=$(do-processor list | grep '^collection/hra/' | sort);

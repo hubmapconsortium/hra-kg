@@ -1,25 +1,23 @@
 title: Blood Vasculature Organ Crosswalk
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, 
-  and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of 
-  experts. This table provides a crosswalk from vessels in the blood vasculature ASCT+B table to anatomical 
-  structures in other organ ASCT+B tables. The Relationship column indicates whether the vessel is “part_of”, 
-  “overlaps”, “supplies”, “drains”, “directly_supplies_drains”, “located_in”, or “connected_to” the anatomical 
-  structure in the BodySubPart column.
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to
+  capture anatomical human body parts, the typology of cells,  and biomarkers used to identify cell types. The tables
+  are authored and reviewed by an international team of experts. This table provides a crosswalk from vessels in the
+  blood vasculature ASCT+B table to anatomical  structures in other organ ASCT+B tables. The Relationship column
+  indicates whether the vessel is “part_of”,  “overlaps”, “supplies”, “drains”, “directly_supplies_drains”,
+  “located_in”, or “connected_to” the anatomical  structure in the BodySubPart column.
 
-  A vessel can relate to more than one anatomical structure; and, those relationships can occur in a particular 
-  order. For example, the vessel can pass through several structures along its length. The BodyPartSequence 
-  column indicates the sequence of those structures, from the proximal to distal end of the vessel. 
+  A vessel can relate to more than one anatomical structure; and, those relationships can occur in a particular  order.
+  For example, the vessel can pass through several structures along its length. The BodyPartSequence  column indicates
+  the sequence of those structures, from the proximal to distal end of the vessel. 
 
-  The BodySubPart structure is contained within the anatomical structure listed in the BodyPart column. 
-  The BodyPart is typically an organ or organ system. The FTU column indicates if the vessel is part of a 
-  functional tissue unit (the smallest tissue organization that performs a unique physiologic function in an 
-  organ). The angiosome column indicates if the vessel is associated with an angiosome (a region of muscle, 
-  bone, and skin supplied by a main artery).
+  The BodySubPart structure is contained within the anatomical structure listed in the BodyPart column.  The BodyPart is
+  typically an organ or organ system. The FTU column indicates if the vessel is part of a  functional tissue unit (the
+  smallest tissue organization that performs a unique physiologic function in an  organ). The angiosome column indicates
+  if the vessel is associated with an angiosome (a region of muscle,  bone, and skin supplied by a main artery).
 
-  IDs are provided for the Vessel, BodySubPart, BodySubPartSequence, BodyPart, FTU, and Angiosome columns to 
-  enable linkage to other datasets and ontologies.
+  IDs are provided for the Vessel, BodySubPart, BodySubPartSequence, BodyPart, FTU, and Angiosome columns to  enable
+  linkage to other datasets and ontologies.
 
 creators:
   - fullName: Griffin Weber
@@ -53,10 +51,9 @@ reviewers:
     lastName: Campbell-Thompson
     orcid: 0000-0001-6878-1235
 externalReviewers: []
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -69,10 +66,8 @@ citation: >-
   Griffin Weber; Katherine S Gustilo. Blood Vasculature Organ Crosswalk,v1.3
   [https://doi.org/10.48539/HBM325.NBLB.267](https://doi.org/10.48539/HBM325.NBLB.267), Accessed on December 15, 2024.
 citationOverall: >-
-  Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Katherine S.
-  Gustilo, Ellen M. Quardokus, Bruce W. Herr, Katy Börner, and Griffin M. Weber.
-  2023. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human
-  Blood Vasculature.” Scientific Data 10 (1): 452.
-  https://doi.org/10.1038/s41597-023-02018-0.
+  Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Katherine S. Gustilo, Ellen M. Quardokus, Bruce W. Herr,
+  Katy Börner, and Griffin M. Weber. 2023. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood
+  Vasculature.” Scientific Data 10 (1): 452. https://doi.org/10.1038/s41597-023-02018-0.
 datatable:
   - blood-vasculature-organ-crosswalk.csv

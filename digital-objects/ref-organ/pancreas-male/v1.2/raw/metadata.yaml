@@ -1,9 +1,8 @@
 title: 3D Reference Organ for Pancreas, Male
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Male, provided by the National Library of
-  Medicine. Adjustments were made from the previous version to make the neck
-  region smaller, and the body and tail regions more equal in length.
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male,
+  provided by the National Library of Medicine. Adjustments were made from the previous version to make the neck region
+  smaller, and the body and tail regions more equal in length.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -24,10 +23,9 @@ reviewers:
     lastName: Campbell-Thompson
     orcid: 0000-0001-6878-1235
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: "2023-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -37,15 +35,11 @@ funders:
 hubmapId: HBM368.XMJZ.722
 doi: https://doi.org/10.48539/HBM368.XMJZ.722
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Pancreas, Male
-  v1.2.*
-  [https://doi.org/10.48539/HBM368.XMJZ.722](https://doi.org/10.48539/HBM368.XMJZ.722).
-  Accessed on December 15, 2023.
+  Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Pancreas, Male v1.2.*
+  [https://doi.org/10.48539/HBM368.XMJZ.722](https://doi.org/10.48539/HBM368.XMJZ.722). Accessed on December 15, 2023.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2023. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on December
-  15, 2023.
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2023. [*HuBMAP CCF
+  3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023.
 datatable:
   - 3d-vh-m-pancreas.glb
   - crosswalk.csv

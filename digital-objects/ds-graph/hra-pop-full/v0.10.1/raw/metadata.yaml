@@ -1,5 +1,7 @@
 title: HRApop full-dataset-graph
-description: 'HRApop is part of the Human Reference Atlas (HRA) <https://humanatlas.io>. This graph includes all datasets considered for HRApop (not enriched).'
+description: >-
+  HRApop is part of the Human Reference Atlas (HRA) <https://humanatlas.io>. This graph includes all datasets considered
+  for HRApop (not enriched).
 creators:
   - fullName: Andreas Bueckle
     firstName: Andreas
@@ -24,7 +26,7 @@ creators:
   - fullName: Devin Wright
     firstName: Devin
     lastName: Wright
-    orcid: 0000-0003-3047-1631 
+    orcid: 0000-0003-3047-1631
   - fullName: Danial Qaurooni
     firstName: Danial
     lastName: Qaurooni
@@ -44,10 +46,9 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: '2024-04-02'
+creation_date: "2024-04-02"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -62,13 +63,15 @@ funders:
     awardNumber: U2CDK114886
   - funder: National Institutes of Health
     awardNumber: OT2OD030545
-# hubmapId: 
-# doi: 
+# hubmapId:
+# doi:
 citation: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
+  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy
+  Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
   [TBD](https://doi.org/TBD)
 citationOverall: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
+  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Vicky Daiya; Devin Wright; Dan Qaurooni; Fusheng Wang; Katy
+  Börner, Computing and visualizing the cells of the anatomical structures of the Human Reference Atlas
   [TBD](https://doi.org/TBD)
 datatable:
   - full-dataset-graph.jsonld

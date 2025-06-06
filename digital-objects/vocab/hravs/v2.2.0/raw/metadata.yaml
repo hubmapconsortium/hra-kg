@@ -1,8 +1,7 @@
 title: Human Reference Atlas Value Set
 description: >-
-  A collection of curated and standardized values used by the HuBMAP metadata records to
-  ensure uniformity in the description of samples and single-cell data produced by the
-  consortium.
+  A collection of curated and standardized values used by the HuBMAP metadata records to ensure uniformity in the
+  description of samples and single-cell data produced by the consortium.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -12,10 +11,9 @@ creators:
     firstName: Stephen
     lastName: Fisher
     orcid: 0000-0001-8034-7685
-creation_date: '2023-10-24'
+creation_date: "2023-10-24"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
