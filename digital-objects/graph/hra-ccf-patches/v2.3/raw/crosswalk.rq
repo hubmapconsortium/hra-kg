@@ -5,6 +5,7 @@ PREFIX dcterms: <http://purl.org/dc/terms/>
 PREFIX ccf-spo: <http://purl.org/ccf/latest/ccf.owl#>
 PREFIX hra-ccf-body: <https://purl.humanatlas.io/graph/hra-ccf-body#>
 PREFIX CCF: <https://purl.humanatlas.io/graph/ccf>
+PREFIX HRA: <https://purl.humanatlas.io/collection/hra>
 
 CONSTRUCT {
   ?ccf1RefOrgan a ccf:SpatialEntity ;
@@ -49,7 +50,7 @@ WHERE {
     }
   }
   
-  {
+  GRAPH HRA: {
     SELECT (?refOrgan as ?hraRefOrgan) ?sex ?sceneNode ?organIri
     WHERE {
       # ?refOrgan ccf:has_placement ?n .

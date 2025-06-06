@@ -38,6 +38,7 @@ funders:
 datatable:
   - patches.jsonld
   - crosswalk.ttl
+  - hra-versions.ttl
 references:
   - https://doi.org/10.1109/5.662875
   - https://doi.org/10.1101/2024.12.22.630006
