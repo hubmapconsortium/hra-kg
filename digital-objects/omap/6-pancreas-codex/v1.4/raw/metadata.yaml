@@ -1,26 +1,16 @@
 title: >-
-  OMAP-6  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX
+  OMAP-6  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Pancreas with CODEX
 description: >-
-  OMAP-6 was designed for CO-Detection by indEXing (CODEX) imaging of human formalin fixed paraffin embedded (FFPE)
-  pancreas samples. Following antigen retrieval (citrate buffer pH=6, heating at high pressure 114-121°C for 20
-  minutes), tissue autofluorescence was reduced using a photobleaching protocol (Du Z. et al, 2019, modified by Derek
-  Oldrige). CODEX is based on DNA-conjugated antibodies allowing the image acquisition of 3 antibodies per cycle and
-  removal of complementary fluorescently labeled DNA probes afterwards (Goltsev et al. 2018). Cell junction markers
-  (E-cadherin, Beta-catenin) and nuclear marker Hoechst are used for cell segmentation. The resulting OMAP contains 12
-  antibodies and provides a spatial context for most relevant anatomical structures and cell types in the pancreas
-  including pancreatic cells (alpha, beta, gamma, delta), ductal cells, endothelial cells, smooth muscle cells, and
-  mesenchymal cells present in the ASCT-B pancreas table, v1.3 (Campbell-Thompson, Eskaros, and Saunders 2023). Acinar
-  and epsilon cells are not targeted in the existing panel due to the complexity of finding suitable and stable
-  antibodies. A representative dataset using this OMAP can be found here: (Björklund et al. 2023). An antibody directed
-  against pancreatic polypeptide (PPY) was originally included in OMAP-5 v1.0 and v1.1, but was removed due to
-  inconsistent labeling.
+  OMAP-6 was designed for CO-Detection by indEXing (CODEX) imaging of human formalin fixed paraffin embedded (FFPE) pancreas samples. Following antigen retrieval (citrate buffer pH=6, heating at high pressure 114–121°C for 20 minutes), tissue autofluorescence was reduced using a photobleaching protocol (Du Z. et al. 2019, modified by Derek Oldrige). CODEX is based on DNA-conjugated antibodies allowing the image acquisition of 3 antibodies per cycle and removal of complementary fluorescently labeled DNA probes afterwards (Goltsev et al. 2018). Cell junction markers (E-cadherin, Beta-catenin) and nuclear marker Hoechst are used for cell segmentation. The resulting OMAP contains 12 antibodies and provides a spatial context for most relevant anatomical structures and cell types in the pancreas including pancreatic cells (alpha, beta, gamma, delta), ductal cells, endothelial cells, smooth muscle cells, and mesenchymal cells present in the ASCT-B pancreas table, v1.3 (Campbell-Thompson, Eskaros, and Saunders 2023). Acinar and epsilon cells are not targeted in the existing panel due to the complexity of finding suitable and stable antibodies. A representative dataset using this OMAP can be found here: (Björklund et al. 2023). An antibody directed against pancreatic polypeptide (PPY) was originally included in OMAP-5 v1.0 and v1.1, but was removed due to inconsistent labeling.
 
-  Bibliography: Björklund, Frida, Anna Martinez Casals, MacDonald Patrick E., and Emma Lundberg. 2023. “Dataset: CODEX
-  Highly Multiplexed Tissue Imaging in Pancreas.” Zenodo. https://zenodo.org/records/7742474. Campbell-Thompson, Martha,
-  Adel Eskaros, and Diane Saunders. 2023. “Pancreas (v1.3) Graph Data, v1.3.” 2023.
-  https://lod.humanatlas.io/asct-b/pancreas/v1.3/. Goltsev, Yury, Nikolay Samusik, Julia Kennedy-Darling, Salil Bhate,
-  Matthew Hale, Gustavo Vazquez, Sarah Black, and Garry P. Nolan. 2018. “Deep Profiling of Mouse Splenic Architecture
-  with CODEX Multiplexed Imaging.” Cell 174 (4): 968-981.e15. https://doi.org/10.1016/j.cell.2018.07.010.
+  Bibliography:
+
+  Björklund, Frida, Anna Martinez Casals, MacDonald Patrick E., and Emma Lundberg. 2023. “Dataset: CODEX Highly Multiplexed Tissue Imaging in Pancreas.” Zenodo. https://zenodo.org/records/7742474.
+
+  Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2023. “Pancreas (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/asct-b/pancreas/v1.3/.
+
+  Goltsev, Yury, Nikolay Samusik, Julia Kennedy-Darling, Salil Bhate, Matthew Hale, Gustavo Vazquez, Sarah Black, and Garry P. Nolan. 2018. “Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging.” *Cell* 174 (4): 968–981.e15. https://doi.org/10.1016/j.cell.2018.07.010.
 creators:
   - fullName: Anna Martinez Casals
     firstName: Anna
@@ -79,7 +69,8 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health (NIH)
@@ -87,25 +78,25 @@ funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
   - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer Institute
+      National Institute of Allergy and Infectious Disease and National Cancer
+      Institute
     awardNumber: UH3 CA246635
 hubmapId: HBM787.DMFW.993
 doi: https://doi.org/10.48539/HBM787.DMFW.993
 citation: >-
   Casals, Anna Martinez,	and Frida Björklund.	
-  2025.	"OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX,
-  v1.4."	
+  2025.	"OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.4."	
   https://doi.org/10.48539/HBM787.DMFW.993.	Accessed June 15, 2025.
 citationOverall: >-
-  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
-   P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
-   T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
-   J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
-   G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
-   N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
-   J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
-   2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
-   *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
+ Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
 datatable:
   - omap-6-pancreas-codex.csv
   - omap-6-pancreas-codex.xlsx
@@ -113,3 +104,4 @@ references:
   - https://doi.org/10.1016/j.cell.2018.07.010
   - https://doi.org/10.48539/HBM336.TBNP.923
   - https://doi.org/10.5281/zenodo.7742474
+ 

@@ -1,9 +1,11 @@
 title: 3D Reference Organ for Placenta, Full Term, Female
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) The placenta was sculpted partly from MRI data from
-  the Department of Obstetrics, Gynecology, and Reproductive Sciences, Division of Maternal-Fetal Medicine at UC San
-  Diego Health. The atlas “Human Microscopic Anatomy” (R.V. Krstić, 1994) and  [(Mannelli et al.
-  2015)](https://doi.org/10.1177/1559325815611902) were consulted.
+  [This reference organ](https://humanatlas.io/3d-reference-library) The
+  placenta was sculpted partly from MRI data from the Department of Obstetrics,
+  Gynecology, and Reproductive Sciences, Division of Maternal-Fetal Medicine at
+  UC San Diego Health. The atlas “Human Microscopic Anatomy” (R.V. Krstić, 1994)
+  and  [(Mannelli et al. 2015)](https://doi.org/10.1177/1559325815611902) were
+  consulted.
 creators:
   - fullName: Heidi Schlehlein
     firstName: Heidi
@@ -32,9 +34,10 @@ reviewers:
     lastName: Rakow-Penner
     orcid: 0000-0002-2566-1978
 externalReviewers: []
-creation_date: "2022-05-06"
+creation_date: '2022-05-06'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -42,11 +45,15 @@ funders:
 hubmapId: HBM796.CQJZ.982
 doi: https://doi.org/10.48539/HBM796.CQJZ.982
 citation: >-
-  Heidi Schlehlein 2022. *3D Reference Organ for Placenta, Full Term, Female v1.0*
-  [https://doi.org/10.48539/HBM796.CQJZ.982](https://doi.org/10.48539/HBM796.CQJZ.982). Accessed on May 06, 2022.
+  Heidi Schlehlein 2022. *3D Reference Organ for Placenta, Full Term, Female
+  v1.0*
+  [https://doi.org/10.48539/HBM796.CQJZ.982](https://doi.org/10.48539/HBM796.CQJZ.982).
+  Accessed on May 06, 2022.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2022. [*HuBMAP CCF
-  3D Reference Object Library*](https://humanatlas.io/3d-reference-library). Accessed on May 06, 2022.
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
+  Bueckle, Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object
+  Library*](https://humanatlas.io/3d-reference-library). Accessed on May 06,
+  2022.
 datatable:
   - VH_F_Placenta.glb
   - crosswalk.csv

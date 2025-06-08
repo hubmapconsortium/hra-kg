@@ -1,9 +1,10 @@
 title: HRA donor linkml schema
 description: >-
-  This schema defines a data model for donor information that captures essential demographic and organizational metadata
-  about individuals who provide biological samples for research. It records standardized demographic data including age,
-  BMI, biological sex, and race using controlled vocabularies (LOINC codes), along with institutional metadata
-  identifying the consortium and tissue provider responsible for sample collection.
+	This schema defines a data model for donor information that captures essential demographic and organizational metadata about individuals who provide biological samples for research. It records standardized demographic data including age, BMI, biological sex, and race using controlled vocabularies (LOINC codes), along with institutional metadata identifying the consortium and tissue provider responsible for sample collection. This schema is described in detail in the HRA KG paper.
+
+	Bibliography:
+
+	Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -23,11 +24,14 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: "2024-12-15"
+creation_date: '2024-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 datatable:

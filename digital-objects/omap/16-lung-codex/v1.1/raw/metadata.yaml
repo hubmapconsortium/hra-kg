@@ -1,32 +1,17 @@
 title: >-
-  OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with CODEX
+  OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Lung with CODEX
 description: >-
-  OMAP-16 was designed for Multiplexed Immunofluorescent (MxIF) imaging of human formalin fixed paraffin embedded (FFPE)
-  lung sections utilizing Akoya Biosciences Phenocycler-Fusion platform as described (Purkerson, Pryhuber, Colon, et al.
-  2023). The panel contains 34 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation.
-  OMAP-16 provides spatial context for airway, vasculature, and alveolar features and identifies 35 of 72 key
-  epithelial, endothelial, and immune cell types in the ASCT+B lung table v1.2 (Pryhuber 2021). OMAP-16 does not
-  identify Cap1 and Cap2 endothelium, eosinophils/basophils, fibroblast/pericytes, neuroendocrine cells, ciliated cells,
-  chondrocytes, or Natural Killer (NK) cells. Antibody barcode conjugates targeting specific markers for these cell
-  types are being developed. For selected images, cell segmentation based on DAPI-stained nuclei was performed using the
-  StarDist extension in QuPATH 0.3.2. Vascular smooth muscle and airway epithelial features were annotated and
-  classified by thresholding the ACTA2 and PanCK signals with the Pixel classifier in QuPATH, as described. Object data
-  was then exported as a GeoJSON file. Details regarding antigen retrieval in AR9 Buffer (Akoya Biosciences) at high
-  pressure (110C, 20 minutes) and MxIF imaging lung section can be found in the protocol cited above. The antibody
-  validation protocol can be found here (Purkerson, Pryhuber, Huyck, et al. 2023). Protein targets were detected with
-  antibody barcode conjugates obtained directly from Akoya Biosciences or via custom conjugation of commercially
-  available antibodies utilizing an antibody conjugation kit (Cat# 232195, Akoya Biosciences). When imaging proximal
-  lung tissue containing large airway and vascular features, antibodies directed against extracellular matrix and
-  vascular smooth muscle should be imaged within the first five cycles to mitigate potential loss of feature integrity
-  during later cycles.
+  OMAP-16 was developed for Multiplexed Immunofluorescent (MxIF) imaging of formalin-fixed paraffin-embedded (FFPE) human lung sections using the Akoya Biosciences Phenocycler-Fusion platform (Purkerson, Pryhuber, Colon, et al. 2023). This panel includes 34 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. OMAP-16 provides spatial context for airway, vasculature, and alveolar features, and detects 35 of 72 epithelial, endothelial, and immune cell types listed in the ASCT+B Lung v1.2 table (Pryhuber 2021). It does not capture Cap1 and Cap2 endothelial cells, eosinophils/basophils, fibroblasts/pericytes, neuroendocrine cells, ciliated cells, chondrocytes, or NK cells, though antibody barcode conjugates for these are under development.
+  Cell segmentation was performed using the StarDist extension in QuPATH 0.3.2, based on DAPI-stained nuclei. Vascular smooth muscle and airway epithelial structures were annotated using thresholded ACTA2 and PanCK signals with the Pixel Classifier in QuPATH, with resulting object data exported as GeoJSON files. Antigen retrieval was carried out using AR9 Buffer (Akoya Biosciences) at 110°C for 20 minutes. Barcode-conjugated antibodies were sourced from Akoya Biosciences or created through custom conjugation using their antibody conjugation kit (Cat# 232195). For optimal preservation of structural features, antibodies targeting extracellular matrix and vascular smooth muscle should be imaged early (within the first five imaging cycles). The antibody validation protocol and full imaging workflow are documented in the referenced protocols.
 
-  Bibliography: Pryhuber, Gloria. 2021. “Lung (v1.2) Graph Data, v1.2.” 2021.
-  https://lod.humanatlas.io/asct-b/lung/v1.2/. Purkerson, Jeffrey, Gloria S. Pryhuber, Luis Colon, and Heidie Huyck.
-  2023. “813.1 Multiplexed Immunofluorescence Phenocycler-Fusion® Imaging of FFPE Lung Sections,” December.
-  https://www.protocols.io/view/813-1-multiplexed-immunofluorescence-phenocycler-f-c4f5ytq6. Purkerson, Jeffrey, Gloria
-  S. Pryhuber, Heidie Huyck, and gail.deutsch. 2023. “812.1 Lung FFPE OMAP Multiplexed Immunofluorescence
-  Phenocycler-Fusion® Antibody Validation Protocol,” December.
-  https://www.protocols.io/view/812-1-lung-ffpe-omap-multiplexed-immunofluorescenc-c32ayqae.
+  Bibliography:
+
+  Pryhuber, Gloria. 2021. “Lung (v1.2) Graph Data, v1.2.” https://lod.humanatlas.io/asct-b/lung/v1.2/.
+
+  Purkerson, Jeffrey, Gloria S. Pryhuber, Luis Colon, and Heidie Huyck. 2023. “813.1 Multiplexed Immunofluorescence Phenocycler-Fusion® Imaging of FFPE Lung Sections.” https://www.protocols.io/view/813-1-multiplexed-immunofluorescence-phenocycler-f-c4f5ytq6.
+
+  Purkerson, Jeffrey, Gloria S. Pryhuber, Heidie Huyck, and Gail Deutsch. 2023. “812.1 Lung FFPE OMAP Multiplexed Immunofluorescence Phenocycler-Fusion® Antibody Validation Protocol.” https://www.protocols.io/view/812-1-lung-ffpe-omap-multiplexed-immunofluorescenc-c32ayqae.
 creators:
   - fullName: Jeffrey M. Purkerson
     firstName: Jeffrey M.
@@ -69,7 +54,8 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -80,8 +66,7 @@ hubmapId: HBM397.PHBH.975
 doi: https://doi.org/10.48539/HBM397.PHBH.975
 citation: >-
   Purkerson, Jeffrey M.,	and Gloria Pryhuber.	
-  2025.	"OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with CODEX,
-  v1.1."	
+  2025.	"OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with CODEX, v1.1."	
   https://doi.org/10.48539/HBM397.PHBH.975.	Accessed June 15, 2025.
 datatable:
   - omap-16-lung-cell-codex.csv

@@ -1,12 +1,10 @@
 title: Cell Type Annotation Tool Crosswalks
 description: >-
-  Graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph
-  data that are useful for Human Reference Atlas use cases. This graph curates the ctann Digital Object crosswalks
-  (Börner et al. 2025).
+  graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph data that are useful for Human Reference Atlas use cases. This graph curates the ctann Digital Object crosswalks (Börner et al. 2025).
 
-  Bibliography: Börner, Katy, Philip D. Blood, Jonathan C. Silverstein, Matthew Ruffalo, Rahul Satija, Sarah A.
-  Teichmann, Gloria J. Pryhuber, et al. 2025. “Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas
-  Construction and Usage.” Nature Methods, March, 1–16. https://doi.org/10.1038/s41592-024-02563-5.
+  Bibliography:
+
+  Börner, Katy, Philip D. Blood, Jonathan C. Silverstein, Matthew Ruffalo, Rahul Satija, Sarah A. Teichmann, Gloria J. Pryhuber, et al. 2025. “Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage.” *Nature Methods*, March, 1–16. https://doi.org/10.1038/s41592-024-02563-5.
 creators:
   - fullName: Ellen M. Quardokus
     firstName: Ellen
@@ -22,11 +20,14 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 externalReviewers: []
-creation_date: "2024-03-05"
+creation_date: '2024-03-05'
 license: >
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 datatable:

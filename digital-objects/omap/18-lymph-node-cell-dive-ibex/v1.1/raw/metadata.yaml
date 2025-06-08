@@ -1,56 +1,32 @@
 title: >-
-  OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of human lymph node with Cell
-  DIVE-IBEX
+  OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging
+  of human lymph node with Cell DIVE-IBEX
 description: >-
-  OMAP-18 was designed for Cell DIVE imaging (Gerdes et al. 2013) of human formalin fixed paraffin embedded (FFPE) lymph
-  node samples using the IBEX (Iterative Bleaching Extends multi-pleXity) dye inactivation protocol (Radtke et al. 2020;
-  2022). The resulting method, termed Cell DIVE-IBEX, allows complete signal elimination without tissue loss using IBEX
-  compatible fluorophores (Radtke et al. 2022). The panel consists of 3 cycles of 11 primary antibodies, 4 secondary
-  antibodies, a streptavidin conjugate to detect a biotinylated KI67 antibody (Thermo Fisher Scientific S21384), and
-  nuclear label Hoechst for image alignment and nuclear segmentation. This OMAP provides a spatial context for 15
-  anatomical structures and 11 cell types present in the ASCT+B lymph node table, v1.1 (Jorgensen, Radtke, and Rodriguez
-  2021). OMAP-18 was designed using OMAP-1 (Radtke 2023) as a reference and therefore contains all the biomarkers
-  included in OMAP-1. However, OMAP-18 is limited to essential markers for evaluating changes in lymph node architecture
-  and immune cell composition arising from malignancy based on discovery studies using OMAP-1. For this reason, OMAP-18
-  does not allow granular phenotyping of fibroblastic reticular cells, T regulatory cells, T helper cells, blood and
-  lymphatic endothelial cells, and dendritic cells but can easily be expanded in the future. Importantly, this panel
-  utilizes the BCL2 clone preferred by pathologists (clone SP66), providing additional value for translational studies.
-  Human FFPE samples were prepared using a dual antigen retrieval approach consisting of 30 minutes with Epitope
-  Retrieval Solution 1 (pH 6, 100C) and then 30 minutes with Epitope Retrieval Solution 2 (pH 9, 100C) performed on the
-  Leica Bond. More details on the antigen retrieval protocol and step-by-step application of antibodies can be found on
-  the IBEX Imaging Community site (Yaniv et al. 2025). Detailed B cell follicle and cellular community analysis was
-  performed as described in the accompanying manuscript (Radtke et al. 2024). Representative datasets can be accessed on
-  Image Data Resource (https://idr.openmicroscopy.org) using the link supplied here (Image Data Resource 2025).
-  Additional details on the IBEX method, sample preparation, reagent validation, and example datasets can be found on
-  the IBEX Knowledge-Base (Radtke et al. 2025, Yaniv et al. 2025).
+  OMAP-18 was developed for Cell DIVE imaging of human FFPE lymph node tissue using the IBEX dye inactivation protocol (Gerdes et al. 2013; Radtke et al. 2020; 2022). This combined approach, termed Cell DIVE-IBEX, uses fluorophores compatible with IBEX to enable complete signal elimination between cycles without tissue loss. The panel includes 3 imaging cycles with 11 primary antibodies, 4 secondary antibodies, a streptavidin conjugate for detecting biotinylated KI67 (Thermo Fisher S21384), and the nuclear stain Hoechst for image alignment and segmentation.
+  OMAP-18 maps 15 anatomical structures and 11 cell types found in the ASCT+B Lymph Node v1.1 table (Jorgensen, Radtke, and Rodriguez 2021). It is a focused version of OMAP-1 (Radtke 2023), retaining key markers to detect malignancy-driven changes in lymph node architecture and immune composition. It excludes markers needed for deep phenotyping of T regulatory/helper cells, fibroblastic reticular cells, dendritic cells, and endothelial subtypes but is expandable. The panel includes the clinically preferred BCL2 antibody clone (SP66), enhancing its utility for translational studies.
+  Antigen retrieval was performed on a Leica Bond system using a dual-step protocol: Epitope Retrieval Solution 1 (pH 6) for 30 minutes followed by Epitope Retrieval Solution 2 (pH 9) for 30 minutes at 100°C. Complete protocol details, antibody application steps, and analysis workflows can be accessed via the IBEX Imaging Community (Yaniv et al. 2025). B cell follicle and immune community analyses are described in the companion paper (Radtke et al. 2024). Representative datasets are available at the Image Data Resource (https://idr.openmicroscopy.org, project-3001). Further documentation, training, and community resources are hosted in the IBEX Knowledge-Base (Radtke et al. 2025; Yaniv et al. 2025).
 
-  Bibliography: Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander
-  Bordwell, Ali Can, et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer
-  Tissue.” Proceedings of the National Academy of Sciences 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
-  Image Data Resource. 2025. “Webclient for Image Data Resource.” 2025.
-  https://idr.openmicroscopy.org/webclient/?show=project-3001. Jorgensen, Marda, Andrea J. Radtke, and Natalie
-  Rodriguez. 2021. “Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) Table for Lymph Node v1.1.” ..Csv.
-  HuBMAP. https://doi.org/10.48539/HBM573.SHCQ.259. Radtke, Andrea J. 2023. “1-Human-Lymph-Node-Ibex (v1.3) Graph Data,
-  v1.3.” 2023. https://lod.humanatlas.io/omap/1-human-lymph-node-ibex/v1.3/. Radtke, Andrea J., Colin J. Chu, Ziv Yaniv,
-  Li Yao, James Marr, Rebecca T. Beuschel, Hiroshi Ichise, et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical
-  Bleaching Method for High-Content Imaging of Diverse Tissues.” Nature Protocols 17 (2): 378–401.
-  https://doi.org/10.1038/s41596-021-00644-9. Radtke, Andrea J., Evelyn Kandov, Bradley Lowekamp, Emily Speranza, Colin
-  J. Chu, Anita Gola, Nishant Thakur, et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep
-  Phenotyping and Spatial Analysis of Cells in Complex Tissues.” Proceedings of the National Academy of Sciences 117
-  (52): 33455–65. https://doi.org/10.1073/pnas.2018488117. Radtke, Andrea J., Ekaterina Postovalova, Arina Varlamova,
-  Alexander Bagaev, Maria Sorokina, Olga Kudryashova, Mark Meerson, et al. 2024. “Multi-Omic Profiling of Follicular
-  Lymphoma Reveals Changes in Tissue Architecture and Enhanced Stromal Remodeling in High-Risk Patients.” Cancer Cell 42
-  (3): 444-463.e10. https://doi.org/10.1016/j.ccell.2024.02.001. Yaniv, Ziv, Ifeanyichukwu Anidi, Leanne Arakkal,
-  Armando Arroyo-Mejias, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et al. 2025. “Iterative Bleaching Extends
-  Multiplexity (IBEX) Knowledge-Base.” Zenodo.
-  https://zenodo.org/records/14645972."                                                  Radtke, Andrea J.,
-  Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et
-  al. 2025. “The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques.” PLoS Biol 23(3): e3003070.
-  https://doi.
-  org/10.1371/journal.pbio.3003070.                                                                                                                                                                                   Yaniv,
-  Ziv, Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu,
-  et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of
-  Immunofluoresence Imaging Methods.” eLife14:RP105737.
+  Bibliography:
+
+  Gerdes, Michael J., et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.” PNAS 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
+
+  Image Data Resource. 2025. “Webclient for Image Data Resource.” https://idr.openmicroscopy.org/webclient/?show=project-3001.
+
+  Jorgensen, Marda, Andrea J. Radtke, and Natalie Rodriguez. 2021. “Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) Table for Lymph Node v1.1.” https://doi.org/10.48539/HBM573.SHCQ.259.
+
+  Radtke, Andrea J. 2023. “1-Human-Lymph-Node-Ibex (v1.3) Graph Data.” https://lod.humanatlas.io/omap/1-human-lymph-node-ibex/v1.3/.
+
+  Radtke, Andrea J., et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” *Nature Protocols* 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
+
+  Radtke, Andrea J., et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial Analysis of Cells in Complex Tissues.” *PNAS* 117 (52): 33455–65. https://doi.org/10.1073/pnas.2018488117.
+
+  Radtke, Andrea J., et al. 2024. “Multi-Omic Profiling of Follicular Lymphoma Reveals Changes in Tissue Architecture and Enhanced Stromal Remodeling in High-Risk Patients.” *Cancer Cell* 42 (3): 444–63.e10. https://doi.org/10.1016/j.ccell.2024.02.001.
+
+  Yaniv, Ziv, et al. 2025. “Iterative Bleaching Extends Multiplexity (IBEX) Knowledge-Base.” Zenodo. https://zenodo.org/records/14645972.
+
+  Radtke, Andrea J., et al. 2025. “The IBEX Knowledge-Base: A Central Resource for Multiplexed Imaging Techniques.” *PLoS Biol* 23(3): e3003070. https://doi.org/10.1371/journal.pbio.3003070.
+
+  Yaniv, Ziv, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of Immunofluorescence Imaging Methods.” *eLife* 14:RP105737.
 creators:
   - fullName: Andrea J. Radtke
     firstName: Andrea
@@ -81,7 +57,8 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -92,8 +69,7 @@ hubmapId: HBM356.HGHM.686
 doi: https://doi.org/10.48539/HBM356.HGHM.686
 citation: >-
   Radtke, Andrea J.	
-  2025.	"OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lymph Node with
-  Cell DIVE-IBEX v1.1."	
+  2025.	"OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lymph Node with Cell DIVE-IBEX v1.1."	
   https://doi.org/10.48539/HBM356.HGHM.686.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
@@ -119,3 +95,4 @@ references:
   - https://doi.org/10.1073/pnas.2018488117
   - https://doi.org/10.1371/journal.pbio.3003070
   - https://doi.org/10.5281/zenodo.14645972
+

@@ -1,5 +1,5 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lung
-description: ""
+description: ''
 creators:
   - fullName: Gloria Pryhuber
     firstName: Gloria
@@ -24,9 +24,10 @@ reviewers:
     lastName: Deutsch
     orcid: 0000-0002-0571-0285
 externalReviewers: []
-creation_date: "2023-12-15"
+creation_date: '2023-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -39,7 +40,8 @@ citation: >-
   Gloria Pryhuber. HuBMAP ASCT+B Tables. Lung v1.4
   [https://doi.org/10.48539/HBM823.VZGJ.394](https://doi.org/10.48539/HBM823.VZGJ.394)
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B
-  Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2023.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
+  2023.
 datatable:
   - asct-b-vh-lung.csv

@@ -1,10 +1,13 @@
 title: 3D Reference Organ for Brain, Female
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the "[Allen Human
-  Reference Atlas – 3D, 2020](https://doi.org/10.1002/cne.24080)" representing one half of the human brain (Ding et al.,
-  2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit
-  the Visible Human Male and Female bodies. In version v1.3, an update in licensing occurred; this brain model is now
-  licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created
+  using data from the "[Allen Human Reference Atlas – 3D,
+  2020](https://doi.org/10.1002/cne.24080)" representing one half of the human
+  brain (Ding et al., 2016). The 141 anatomical structures were mirrored to
+  arrive at a whole human brain (as intended) and resized to fit the Visible
+  Human Male and Female bodies. In version v1.3, an update in licensing
+  occurred; this brain model is now licensed under Creative Commons Attribution
+  4.0 International (CC BY 4.0).
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -25,9 +28,10 @@ reviewers:
     lastName: Ding
     orcid: 0000-0002-7072-5272
 externalReviewers: []
-creation_date: "2023-12-15"
+creation_date: '2023-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -37,11 +41,13 @@ funders:
 hubmapId: HBM425.NDKM.969
 doi: https://doi.org/10.48539/HBM425.NDKM.969
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2023. 3D Reference Organ for Brain, Female v1.3.
-  https://doi.org/10.48539/HBM425.NDKM.969. Accessed on December 15, 2023.
+  Kristen Browne; Heidi Schlehlein. 2023. 3D Reference Organ for Brain, Female
+  v1.3. https://doi.org/10.48539/HBM425.NDKM.969. Accessed on December 15, 2023.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2023. [*HuBMAP CCF
-  3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023.
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
+  Bueckle, Katy Börner. 2023. [*HuBMAP CCF 3D Reference Object
+  Library*.](https://humanatlas.io/3d-reference-library) Accessed on December
+  15, 2023.
 datatable:
   - 3d-vh-f-allen-brain.glb
   - crosswalk.csv

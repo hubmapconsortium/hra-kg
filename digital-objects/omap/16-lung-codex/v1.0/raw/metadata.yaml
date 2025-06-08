@@ -1,24 +1,8 @@
 title: >-
-  OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with CODEX
+  OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Lung with CODEX
 description: >-
-  OMAP-16 was designed for Multiplexed Immunofluorescent (MxIF) imaging of human FFPE lung sections utilizing Akoya’s
-  Phenocycler-Fusion platform as described dx.doi.org/10.17504/protocols.io.6qpvr38dpvmk/v2. The panel contains
-  34-antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. OMAP-16 provides spatial
-  context for airway, vasculature, and alveolar features and identifies 35 of 72 key epithelial, endothelial, and immune
-  cell types in the ASCT+B lung table v1.2 (https://hubmapconsortium.github.io/ccf-releases/v1.2/docs/asct-b/lung.html).
-  OMAP-16 does not identify Cap1 and Cap2 endothelium, eosinophils/basophils, fibroblast/pericytes, neuroendocrine
-  cells, ciliated cells, chondrocytes, NK cells as Ab-Barcode conjugates targeting specific markers for these cell types
-  are in development.   For select images cell segmentation based on DAPI stained nuclei was performed utilizing the
-  respective StarDist extension in QuPATH 0.3.2.  Vascular smooth muscle and airway epithelial features are annotated
-  and classified by thresholding the ACTA2 and PanCK signals by utilizing the Pixel classifier in QuPath as
-  described.  Object data is then exported as a GeoJSON file. Details regarding antigen retrieval in AR9 Buffer (Akoya
-  Biosciences) at high pressure (110C) 20’ and MxIF imaging lung section can be found in the protocol cited above. The
-  antibody validation protocol can be found here dx.doi.org/10.17504/protocols.io.36wgq3b9olk5/v1. Protein targets were
-  detected with antibody barcode conjugates obtained directly from Akoya Biosciences, or via custom conjugation of
-  commercially available antibodies utilizing antibody conjugation kit (Cat# 232195, Akoya).  When imaging proximal lung
-  tissue containing large airway and vascular features, antibodies directed against extracellular matrix and vascular
-  smooth muscle should be imaged within the first five cycles to mitigate potential loss of feature integrity during
-  later cycles.
+  OMAP-16 was designed for Multiplexed Immunofluorescent (MxIF) imaging of human FFPE lung sections utilizing Akoya’s Phenocycler-Fusion platform as described dx.doi.org/10.17504/protocols.io.6qpvr38dpvmk/v2. The panel contains 34-antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. OMAP-16 provides spatial context for airway, vasculature, and alveolar features and identifies 35 of 72 key epithelial, endothelial, and immune cell types in the ASCT+B lung table v1.2 (https://hubmapconsortium.github.io/ccf-releases/v1.2/docs/asct-b/lung.html). OMAP-16 does not identify Cap1 and Cap2 endothelium, eosinophils/basophils, fibroblast/pericytes, neuroendocrine cells, ciliated cells, chondrocytes, NK cells as Ab-Barcode conjugates targeting specific markers for these cell types are in development.   For select images cell segmentation based on DAPI stained nuclei was performed utilizing the respective StarDist extension in QuPATH 0.3.2.  Vascular smooth muscle and airway epithelial features are annotated and classified by thresholding the ACTA2 and PanCK signals by utilizing the Pixel classifier in QuPath as described.  Object data is then exported as a GeoJSON file. Details regarding antigen retrieval in AR9 Buffer (Akoya Biosciences) at high pressure (110C) 20’ and MxIF imaging lung section can be found in the protocol cited above. The antibody validation protocol can be found here dx.doi.org/10.17504/protocols.io.36wgq3b9olk5/v1. Protein targets were detected with antibody barcode conjugates obtained directly from Akoya Biosciences, or via custom conjugation of commercially available antibodies utilizing antibody conjugation kit (Cat# 232195, Akoya).  When imaging proximal lung tissue containing large airway and vascular features, antibodies directed against extracellular matrix and vascular smooth muscle should be imaged within the first five cycles to mitigate potential loss of feature integrity during later cycles.
 creators:
   - fullName: Jeffrey M. Purkerson
     firstName: Jeffrey M.
@@ -59,9 +43,10 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: "2024-06-15"
+creation_date: '2024-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

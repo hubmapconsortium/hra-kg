@@ -1,16 +1,12 @@
 title: 3D Reference Organ for Placenta, Full Term, Female
 description: >-
-  This reference organ (https://humanatlas.io/3d-reference-library) was created using a sculpted model of the placenta,
-  partly informed by MRI data from the Department of Obstetrics, Gynecology, and Reproductive Sciences, Division of
-  Maternal-Fetal Medicine at UC San Diego Health. Human Microscopic Anatomy (Krstić 1991) and Mannelli et al. 2015 were
-  consulted.
+  This reference organ, Placenta-full-term-female (https://humanatlas.io/3d-reference-library) was created using a sculpted model of the placenta, partly informed by MRI data from the Department of Obstetrics, Gynecology, and Reproductive Sciences, Division of Maternal-Fetal Medicine at UC San Diego Health. *Human Microscopic Anatomy* (Krstić 1991) and Mannelli et al. 2015 were consulted.
 
-  Bibliography: Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: Springer.
-  https://doi.org/10.1007/978-3-662-02676-2.
+  Bibliography:
 
-  Mannelli, Chiara, Francesca Ietta, Anna Maria Avanzati, Dariusz Skarzynski, and Luana Paulesu. 2015. “Biological Tools
-  to Study the Effects of Environmental Contaminants at the Feto–Maternal Interface.” Dose-Response 13 (4):
-  1559325815611902. https://doi.org/10.1177/1559325815611902.
+  Krstić, Radivoj V. 1991. *Human Microscopic Anatomy*. Berlin, Heidelberg: Springer. https://doi.org/10.1007/978-3-662-02676-2.
+
+  Mannelli, Chiara, Francesca Ietta, Anna Maria Avanzati, Dariusz Skarzynski, and Luana Paulesu. 2015. “Biological Tools to Study the Effects of Environmental Contaminants at the Feto–Maternal Interface.” *Dose-Response* 13 (4): 1559325815611902. https://doi.org/10.1177/1559325815611902.
 creators:
   - fullName: Heidi Schlehlein
     firstName: Heidi
@@ -39,9 +35,10 @@ reviewers:
     lastName: Rakow-Penner
     orcid: 0000-0002-2566-1978
 externalReviewers: []
-creation_date: "2024-06-15"
+creation_date: '2024-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -54,8 +51,8 @@ citation: >-
   Schlehlein, Heidi. 2024. "3D Reference Organ for Placenta, Full Term, Female v1.1."
   https://doi.org/10.48539/HBM593.ZRJH.644. Accessed on June 15, 2024.
 citationOverall: >-
-  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024. "HuBMAP
-  CCF 3D Reference Object Library." https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
+  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024.
+  "HuBMAP CCF 3D Reference Object Library." https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
 datatable:
   - 3d-vh-f-placenta-full-term.glb
   - crosswalk.csv

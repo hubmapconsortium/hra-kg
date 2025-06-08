@@ -1,12 +1,16 @@
 title: >-
-  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX
+  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of
+  Human Intestine with CODEX
 description: >-
-  The OMAP Intestine panel was designed for CODEX (CO Detection by IndEXing) of fresh frozen human intestine. The panel
-  contains 54 antibodies and the nuclear marker Hoechst for image alignment and nuclear segmentation. This provides
-  spatial context for all anatomical structures and most cell types present in the [ASCT+B intestine
-  table,v1.1](https://doi.org/10.48539/HBM325.NZPB.589). In general the panel was aimed to get a broad representation of
-  cell types found in the intestine spanning stromal, immune, and epithelial origins. All antibodies are custom
-  conjugated in house with oligo bar codes (no lot number available).
+  The OMAP Intestine panel was designed for CODEX (CO Detection by IndEXing) of
+  fresh frozen human intestine. The panel contains 54 antibodies and the nuclear
+  marker Hoechst for image alignment and nuclear segmentation. This provides
+  spatial context for all anatomical structures and most cell types present in
+  the [ASCT+B intestine table,v1.1](https://doi.org/10.48539/HBM325.NZPB.589).
+  In general the panel was aimed to get a broad representation of cell types
+  found in the intestine spanning stromal, immune, and epithelial origins. All
+  antibodies are custom conjugated in house with oligo bar codes (no lot number
+  available).
 creators:
   - fullName: John Hickey
     firstName: John
@@ -37,7 +41,8 @@ reviewers:
 externalReviewers: []
 creation_date: 2022-05-06
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -45,12 +50,15 @@ funders:
 hubmapId: HBM373.HQCB.363
 doi: https://doi.org/10.48539/HBM373.HQCB.363
 citation: >-
-  John Hickey. Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Intestine with
-  CODEX. [https://doi.org/10.48539/HBM373.HQCB.363](https://doi.org/10.48539/HBM373.HQCB.363)
+  John Hickey. Organ Mapping Antibody Panel (OMAP)  for Multiplexed
+  Antibody-Based Imaging of Human Intestine with CODEX.
+  [https://doi.org/10.48539/HBM373.HQCB.363](https://doi.org/10.48539/HBM373.HQCB.363)
 citationOverall: >-
-  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre
-  Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer
-  for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.
+  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo,
+  Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021.
+  “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for
+  Multiplexed Antibody-Based Imaging.” *Nature Methods*, November.
+  https://doi.org/10.1038/s41592-021-01316-y.
 datatable:
   - OMAP_Intestine_CODEX.csv
   - OMAP_Intestine_CODEX.xlsx

@@ -1,7 +1,8 @@
 title: 2D Bronchial Submucosal Gland FTU for Lung
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to the bronchial submucosal gland FTU in
-  the Anatomical Structures, Cell Types and Biomarkers table [Lung v1.2](https://doi.org/10.48539/HBM396.QVLQ.449).
+  This functional tissue unit (FTU) illustration includes cell types related to
+  the bronchial submucosal gland FTU in the Anatomical Structures, Cell Types
+  and Biomarkers table [Lung v1.2](https://doi.org/10.48539/HBM396.QVLQ.449).
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -18,9 +19,10 @@ reviewers:
     lastName: Pryhuber
     orcid: 0000-0002-9185-3994
 externalReviewers: []
-creation_date: "2022-12-15"
+creation_date: '2022-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -28,11 +30,14 @@ funders:
 hubmapId: HBM438.ZJGP.747
 doi: https://doi.org/10.48539/HBM438.ZJGP.747
 citation: >-
-  Rachel Bajema 2022. *2D Reference Bronchial Submucosal Gland FTU for Lung, v1.0.*
-  https://doi.org/10.48539/HBM438.ZJGP.747. Accessed on December 15, 2022.
+  Rachel Bajema 2022. *2D Reference Bronchial Submucosal Gland FTU for Lung,
+  v1.0.* https://doi.org/10.48539/HBM438.ZJGP.747. Accessed on December 15,
+  2022.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference
-  Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2022.
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
+  Börner. 2022. [*HuBMAP CCF 2D Reference Object
+  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
+  15, 2022.
 datatable:
   - 2d-ftu-lung-bronchial-submucosal-gland.svg
   - 2d-ftu-lung-bronchial-submucosal-gland.png

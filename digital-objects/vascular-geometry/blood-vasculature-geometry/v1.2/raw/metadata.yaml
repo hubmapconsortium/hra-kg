@@ -1,8 +1,12 @@
 title: Blood Vasculature Geometry
 description: >-
-  This table provides geometric properties (e.g., length and diameter) of selected vessels in the blood vasculature
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table. The same vessel geometric property might be listed
-  multiple times with different values. These correspond to different references that reported the property.
+  This table provides geometric properties (e.g., length and diameter) of selected vessels in the blood vasculature Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table (Börner et al. 2021). The same vessel geometric property might be listed multiple times with different values. These correspond to different references that reported the property. This is in support of Vasculature Common Coordinate Frame (VCCF) construction (Weber, Ju, and Börner 2020).
+
+  Bibliography:
+
+  Weber, Griffin M., Yingnan Ju, and Katy Börner. 2020. “Considerations for Using the Vasculature as a Coordinate System to Map All the Cells in the Human Body.” *Frontiers in Cardiovascular Medicine* 7 (March). https://doi.org/10.3389/fcvm.2020.00029.
+
+  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” *Nature Cell Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
 creators:
   - fullName: Griffin Weber
     firstName: Griffin
@@ -19,9 +23,10 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: "2025-06-15"
+creation_date: '2025-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

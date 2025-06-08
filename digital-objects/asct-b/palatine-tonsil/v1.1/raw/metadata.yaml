@@ -1,6 +1,8 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Palatine tonsil
-description: ""
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Palatine
+  tonsil
+description: >- 
+  ''
 creators:
   - fullName: Werner Müller
     firstName: Werner
@@ -29,9 +31,10 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: "2024-06-15"
+creation_date: '2024-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

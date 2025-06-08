@@ -1,9 +1,6 @@
 title: 3D Reference Organ for Large Intestine, Female
 description: >-
-  This reference organ (https://humanatlas.io/3d-reference-library) was not based on direct imaging data, as no suitable
-  source was available at the time. Instead, the female colon model was created by roughly following the general path of
-  the Visible Human Female and fitted around surrounding organs.
-
+	This reference organ, Large-intestine-female  (https://humanatlas.io/3d-reference-library) was not based on direct imaging data, as no suitable source was available at the time. Instead, the female colon model was created by roughly following the general path of the Visible Human Female and fitted around surrounding organs.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -24,9 +21,10 @@ reviewers:
     lastName: Lin
     orcid: 0000-0002-0317-7608
 externalReviewers: []
-creation_date: "2024-06-15"
+creation_date: '2024-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -39,8 +37,9 @@ citation: >-
   Browne, Kristen, and Heidi Schlehlein. 2024. "3D Reference Organ for Large Intestine, Female v1.3."
   https://doi.org/10.48539/HBM682.RSXX.965. Accessed on June 15, 2024.
 citationOverall: >-
-  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024. "HuBMAP
-  CCF 3D Reference Object Library." https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
+  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle,
+  and Katy Börner. 2024. "HuBMAP CCF 3D Reference Object Library."
+  https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
 datatable:
   - 3d-sbu-f-large-intestine.glb
   - crosswalk.csv

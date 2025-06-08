@@ -1,8 +1,10 @@
 title: 3D Reference Organ for Spinal Cord, Female
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human
-  Female (VHF), provided by the National Library of Medicine. The VHF has 6 lumbar verts, and the total length of her
-  spinal column is 60.923 cm. [(Frostell et al. 2016)](https://www.frontiersin.org/article/10.3389/fneur.2016.00238) was
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created
+  using data from the Visible Human Female (VHF), provided by the National
+  Library of Medicine. The VHF has 6 lumbar verts, and the total length of her
+  spinal column is 60.923 cm. [(Frostell et al.
+  2016)](https://www.frontiersin.org/article/10.3389/fneur.2016.00238) was
   referenced during model preparation.
 creators:
   - fullName: Kristen Browne
@@ -24,9 +26,10 @@ reviewers:
     lastName: Menon
     orcid: 0000-0002-4096-8601
 externalReviewers: []
-creation_date: "2022-05-06"
+creation_date: '2022-05-06'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -34,12 +37,15 @@ funders:
 hubmapId: HBM625.LDJN.633
 doi: https://doi.org/10.48539/HBM625.LDJN.633
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Spinal Cord, Female, v1.0.*
-  [https://doi.org/10.48539/HBM625.LDJN.633HBM625.LDJN.633](https://doi.org/10.48539/HBM625.LDJN.633). Accessed on May
-  06, 2022.
+  Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Spinal Cord,
+  Female, v1.0.*
+  [https://doi.org/10.48539/HBM625.LDJN.633HBM625.LDJN.633](https://doi.org/10.48539/HBM625.LDJN.633).
+  Accessed on May 06, 2022.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2022. [*HuBMAP CCF
-  3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022.
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
+  Bueckle, Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object
+  Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6,
+  2022.
 datatable:
   - VH_F_Spinal_Cord.glb
   - crosswalk.csv

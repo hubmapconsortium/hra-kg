@@ -1,11 +1,12 @@
 title: HRA omap linkml schema
 description: >-
-  This schema defines a data model for the Organ Mapping Antibody Panel (OMAP) system, which standardizes the
-  representation of antibodies used in multiplexed antibody-based imaging experiments. The schema captures detailed
-  information about antibodies (including their properties, target proteins, and experimental usage), experimental
-  cycles, antibody panels, and the multiplexed imaging experiments themselves. It enables systematic documentation and
-  interoperability of antibody data across different research contexts by providing structured formats for recording
-  antibody characteristics, experimental protocols, and the relationships between antibodies and their target proteins.
+	This schema defines a data model for the Organ Mapping Antibody Panel (OMAP) system, which standardizes the representation of antibodies used in multiplexed antibody-based imaging experiments. The schema captures detailed information about antibodies (including their properties, target proteins, and experimental usage), experimental cycles, antibody panels, and the multiplexed imaging experiments themselves. It enables systematic documentation and interoperability of antibody data across different research contexts by providing structured formats for recording antibody characteristics, experimental protocols, and the relationships between antibodies and their target proteins. This schema is described in detail in the HRA KG paper.
+
+	Bibliography:
+
+	Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette, Presha Rajbhandari, et al. 2023. “Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging.” *Nature Methods* 20 (8): 1174–78. https://doi.org/10.1038/s41592-023-01846-7.
+
+	Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -25,11 +26,14 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: "2024-12-15"
+creation_date: '2024-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 datatable:

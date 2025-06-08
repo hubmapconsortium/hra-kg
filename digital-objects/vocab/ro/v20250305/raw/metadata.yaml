@@ -1,18 +1,19 @@
 title: OBO Relations Ontology
 description: >-
-  The OBO Relations Ontology (RO) is a collection of OWL relations (ObjectProperties) intended for use across a wide
-  variety of biological ontologies (Mungall et al. 2025).
+  Open Biological and Biomedical Ontologies (OBO) Relations Ontology (RO) is a collection of OWL relations intended for use across a wide variety of biological ontologies (Mungall et al. 2025).
 
-  Bibliography: Mungall, Chris, Nico Matentzoglu, Jim Balhoff, David Osumi-Sutherland, Bill Duncan, pgaudet, Shawn Tan,
-  et al. 2025. “Oborel/Obo-Relations: 2025-03-05 Release.” Zenodo. https://doi.org/10.5281/zenodo.14976337.
+  Bibliography:
+
+  Mungall, Chris, Nico Matentzoglu, Jim Balhoff, David Osumi-Sutherland, Bill Duncan, pgaudet, Shawn Tan, et al. 2025. “Oborel/Obo-Relations: 2025-03-05 Release.” Zenodo. https://doi.org/10.5281/zenodo.14976337.
 creators:
   - fullName: Christopher Mungall
     firstName: Christopher
     lastName: Mungall
     orcid: 0000-0002-6601-2165
-creation_date: "2025-03-05"
+creation_date: '2025-03-05'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 datatable:
   - ro.owl
 references:

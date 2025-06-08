@@ -1,11 +1,11 @@
 Crosswalk of Popular Vote (popV) annotated cells to Cell Ontology,,,,,,
 ,,,,,,
-Author Name(s):,Ellen M. Quardokus,Aleix Puig-Barbe,,,,
-Author ORCID(s):,0000-0001-7655-4833,0000-0001-6677-8489,,,,
+Author Name(s):,"Ellen M. Quardokus, Aleix Puig-Barbe",,,,,
+Author ORCID(s):,"0000-0001-7655-4833, 0000-0001-6677-8489",,,,,
 Reviewer(s):,"Bruce Herr II, Katy Borner",,,,,
 Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137",,,,,
 General Publication(s):,"https://github.com/YosefLab/PopV, 1.  Ergen C, Xing G, Xu C, Jayasuriya M, McGeever E, Pisco AO, Streets A, Yosef N. Consensus prediction of cell type labels with popV. bioRxiv [Internet]. 2023 Jan 1;2023.08.18.553912. Available from: http://biorxiv.org/content/early/2023/08/21/2023.08.18.553912.abstract",,,,,
-Data DOI:,,,,,,
+Data DOI:,https://doi.org/10.48539/HBM866.LDBJ.546,,,,,
 Date:,"June 15, 2025",,,,,
 Version number:,v1.2,,,,,
 Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
@@ -414,6 +414,7 @@ large intestine,UBERON:0000059,colon epithelial cell,,colon epithelial cell,CL:0
 large intestine,UBERON:0000059,epithelial cell of large intestine,,epithelial cell of large intestine,CL:0002253,skos:exactMatch
 blood,UBERON:0000178,"B cell, CD19-positive",,"B cell, CD19-positive",CL:0001201,skos:exactMatch
 blood,UBERON:0000178,"CD4-positive, alpha-beta T cell",,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+heart,UBERON:0000948,hepatocyte,,hepatocyte,CL:0000182,skos:exactMatch
 eye,UBERON:0000970,bipolar neuron,,bipolar neuron,CL:0000103,skos:exactMatch
 eye,UBERON:0000970,blood vessel endothelial cell,,blood vessel endothelial cell,CL:0000071,skos:exactMatch
 eye,UBERON:0000970,sensory neuron,,sensory neuron,CL:0000101,skos:exactMatch

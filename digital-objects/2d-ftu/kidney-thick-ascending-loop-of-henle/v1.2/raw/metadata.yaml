@@ -1,16 +1,10 @@
 title: 2D Thick Ascending Limb of Loop of Henle FTU for Kidney
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to the thick ascending limb of loop of
-  Henle FTU in the ASCT+B Table [Kidney v1.2] (https://doi.org/10.48539/HBM248.CBJV.556). This illustration was inspired
-  by the [Kidney Tissue Atlas Explorer] (https://atlas.kpmp.org/explorer) created by the Kidney Precision Medicine
-  Project (KPMP). Multiple histology atlases, especially *Human Microscopic Anatomy (Krstić 1994)* and *Histology: A
-  Text and Atlas (Ross et al. 2003)* were referenced. Cell type diameters were primarily defined by (Hu, McDonough, and
-  Layton 2021). Uberon describes this FTU as follows: "The distal sub-portion of the ascending loop of Henle which is
-  lined by simple cuboidal epithelium and enters the renal cortex to empty a hypotonic filtrate into the distal
-  convoluted tubule."
+  This functional tissue unit (FTU) illustration includes cell types related to the thick ascending limb of loop of Henle FTU in the ASCT+B Table [Kidney v1.2](https://doi.org/10.48539/HBM248.CBJV.556). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer) created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially *Human Microscopic Anatomy* (Krstić 1994) and *Histology: A Text and Atlas* (Ross et al. 2003) were referenced. Cell type diameters were primarily defined by (Hu, McDonough, and Layton 2021). Uberon describes this FTU as follows: "The distal sub-portion of the ascending loop of Henle which is lined by simple cuboidal epithelium and enters the renal cortex to empty a hypotonic filtrate into the distal convoluted tubule."
 
-  Bibliography: Layton, A. T. & Layton, H. E. (2019). A computational model of epithelial solute and water transport
-  along a human nephron. PLOS Comput. Biol., 15, e1006108.
+  Bibliography:
+
+  Layton, A. T. & Layton, H. E. (2019). A computational model of epithelial solute and water transport along a human nephron. *PLOS Comput. Biol*., 15, e1006108.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -35,9 +29,10 @@ reviewers:
     lastName: Valerius
     orcid: 0000-0001-8143-9231
 externalReviewers: []
-creation_date: "2024-12-15"
+creation_date: '2024-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -47,11 +42,10 @@ funders:
 hubmapId: HBM299.GSQS.249
 doi: https://doi.org/10.48539/HBM299.GSQS.249
 citation: >-
-  Bajema, Rachel. 2024. *2D Reference Thick Ascending Limb of Loop of Henle FTU, v1.2*.
+  Bajema, Rachel. 2024. 2D Reference Thick Ascending Limb of Loop of Henle FTU, v1.2.
   https://doi.org/10.48539/HBM299.GSQS.249. Accessed on December 15, 2024.
 citationOverall: >-
-  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2024. *HuBMAP CCF 2D Reference
-  Object Library*. Accessed on December 15, 2024. https://humanatlas.io/2d-ftu-illustrations.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2024. HuBMAP CCF 2D Reference Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2024.
 datatable:
   - 2d-ftu-kidney-thick-ascending-loop-of-henle.svg
   - 2d-ftu-kidney-thick-ascending-loop-of-henle.png

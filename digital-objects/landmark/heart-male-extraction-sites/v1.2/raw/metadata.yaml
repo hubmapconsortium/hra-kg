@@ -1,13 +1,6 @@
 title: 3D Extraction Sites for Heart Male
 description: >-
-  Extraction sites for heart, male were developed in collaboration with subject matter experts (SMEs), who provided
-  approximate anatomical guidance on typical tissue removal locations. During the early modeling phase, these regions
-  were represented using rectangular prisms—box-like shapes customized for each extraction site—and were subtracted from
-  the heart mesh using boolean operations to simulate excised regions. This boolean-based method was applied to only a
-  few initial examples, as the approach proved complex, time-consuming, and difficult to maintain over time.
-  Consequently, the workflow transitioned to using visual markers to denote extraction areas, rather than performing
-  actual mesh subtractions. Some of these visual indicators were placed directly by SMEs in Blender, while others were
-  positioned based on SME-provided descriptions.
+  Extraction sites for heart, male were developed in collaboration with subject matter experts (SMEs), who provided approximate anatomical guidance on typical tissue removal locations. During the early modeling phase, these regions were represented using rectangular prisms—box-like shapes customized for each extraction site—and were subtracted from the heart mesh using boolean operations to simulate excised regions. This boolean-based method was applied to only a few initial examples, as the approach proved complex, time-consuming, and difficult to maintain over time. Consequently, the workflow transitioned to using visual markers to denote extraction areas, rather than performing actual mesh subtractions. Some of these visual indicators were placed directly by SMEs in Blender, while others were positioned based on SME-provided descriptions.
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce
@@ -19,9 +12,12 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 datatable:

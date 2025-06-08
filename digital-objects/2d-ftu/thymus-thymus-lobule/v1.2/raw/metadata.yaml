@@ -1,7 +1,8 @@
 title: 2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to the thymus lobule FTU in the Anatomical
-  Structures, Cell Types and Biomarkers table [Thymus v1.2](https://doi.org/10.48539/HBM284.RFDC.542).
+  This functional tissue unit (FTU) illustration includes cell types related to
+  the thymus lobule FTU in the Anatomical Structures, Cell Types and Biomarkers
+  table [Thymus v1.2](https://doi.org/10.48539/HBM284.RFDC.542).
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -22,9 +23,10 @@ reviewers:
     lastName: Radtke
     orcid: 0000-0003-4379-8967
 externalReviewers: []
-creation_date: "2023-12-15"
+creation_date: '2023-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -34,11 +36,13 @@ funders:
 hubmapId: HBM255.DBJW.679
 doi: https://doi.org/10.48539/HBM255.DBJW.679
 citation: >-
-  Rachel Bajema 2023. *2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.2.*
-  https://doi.org/10.48539/HBM255.DBJW.679. Accessed on December 15, 2023.
+  Rachel Bajema 2023. *2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus,
+  v1.2.* https://doi.org/10.48539/HBM255.DBJW.679. Accessed on December 15,
+  2023.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2023. [*HuBMAP CCF 2D Reference
-  Object Library*]( https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2023.
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
+  Börner. 2023. [*HuBMAP CCF 2D Reference Object Library*](
+  https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2023.
 datatable:
   - 2d-ftu-thymus-thymus-lobule.svg
   - 2d-ftu-thymus-thymus-lobule.png

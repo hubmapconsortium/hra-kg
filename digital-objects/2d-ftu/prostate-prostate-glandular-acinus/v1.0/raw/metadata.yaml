@@ -1,9 +1,11 @@
 title: 2D Prostate Glandular Acinus FTU for Prostate
 description: >-
-  This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the
-  ASCT+B Table [Prostate v1.0](https://doi.org/10.48539/HBM835.WCGP.479). Multiple histology atlases, especially “Human
-  Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were
-  referenced. Definitive source: [(Henry et al. 2018)](https://doi.org/10.1016/j.celrep.2018.11.086).
+  This functional tissue unit (FTU) illustration was created from anatomical
+  structures and cell types listed in the ASCT+B Table [Prostate
+  v1.0](https://doi.org/10.48539/HBM835.WCGP.479). Multiple histology atlases,
+  especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A
+  Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Definitive
+  source: [(Henry et al. 2018)](https://doi.org/10.1016/j.celrep.2018.11.086).
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -20,9 +22,10 @@ reviewers:
     lastName: Strand
     orcid: 0000-0002-0746-927X
 externalReviewers: []
-creation_date: "2022-05-06"
+creation_date: '2022-05-06'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -31,10 +34,13 @@ hubmapId: HBM523.TDCH.662
 doi: https://doi.org/10.48539/HBM523.TDCH.662
 citation: >-
   Rachel Bajema 2022. *2D Prostate Glandular Acinus FTU for Prostate, v1.0.*
-  [https://doi.org/10.48539/HBM523.TDCH.662](https://doi.org/10.48539/HBM523.TDCH.662). Accessed on May 6, 2022.
+  [https://doi.org/10.48539/HBM523.TDCH.662](https://doi.org/10.48539/HBM523.TDCH.662).
+  Accessed on May 6, 2022.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference
-  Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 6, 2022.
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
+  Börner. 2022. [*HuBMAP CCF 2D Reference Object
+  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 6,
+  2022.
 datatable:
   - prostate_glandular_acinus_prostate.svg
   - prostate_glandular_acinus_prostate.png

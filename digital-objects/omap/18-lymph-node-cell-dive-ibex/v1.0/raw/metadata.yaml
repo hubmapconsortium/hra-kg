@@ -1,28 +1,7 @@
 title: >-
-  OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of human lymph node with Cell
-  DIVE-IBEX
+ OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of human lymph node with Cell DIVE-IBEX
 description: >-
-  OMAP-18 was designed for Cell DIVE imaging (https://doi.org/10.1073/pnas.1300136110) of human FFPE lymph node samples
-  using the IBEX (Iterative Bleaching Extends multi-pleXity) dye inactivation protocol. The resulting method, termed
-  Cell DIVE-IBEX, allows complete signal elimination without tissue loss using IBEX compatible fluorophores
-  (https://doi.org/10.1038/s41596-021-00644-9). The panel consists of 3 cycles of 11 primary antibodies, 4 secondary
-  antibodies, a streptavidin conjugate to detect a biotinylated KI67 antibody (Thermo Fisher Scientific S21384), and
-  nuclear label Hoechst for image alignment and nuclear segmentation. This OMAP provides a spatial context for 15
-  anatomical structures and 11 cell types present in the ASCT+B lymph node table, v1.1
-  (https://doi.org/10.48539/HBM573.SHCQ.259). OMAP-18 was designed using OMAP-1
-  (https://doi.org/10.48539/HBM458.NSWR.957) as a reference and therefore contains all the biomarkers included in
-  OMAP-1. However, OMAP-18 is limited to essential markers for evaluating changes in lymph node architecture and immune
-  cell composition arising from malignancy based on discovery studies using OMAP-1. For this reason, OMAP-18 does not
-  allow granular phenotyping of fibroblastic reticular cells, T regulatory cells, T helper cells, blood and lymphatic
-  endothelial cells, and dendritic cells but can easily be expanded in the future. Importantly, this panel utilizes the
-  BCL2 clone preferred by pathologists (clone SP66), providing additional value for translational studies. Human FFPE
-  samples were prepared using a dual antigen retrieval approach consisting of 30 minutes with Epitope Retrieval Solution
-  1 (pH 6, 100C) and then 30 minutes with Epitope Retrieval Solution 2 (pH 9, 100C) performed on the Leica Bond. More
-  details on the antigen retrieval protocol and step-by-step application of antibodies can be found on the IBEX Imaging
-  Community site (https://doi.org/10.5281/zenodo.7693278). Detailed B cell follicle and cellular community analysis was
-  performed as described in the accompanying manuscript (https://doi.org/10.1016/j.ccell.2024.02.001). Representative
-  datasets can be accessed on Image Data Resource (https://idr.openmicroscopy.org) under accession number idr0158 and
-  querying images with the prefix “CellDIVE_IBEX_Immune.”
+ OMAP-18 was designed for Cell DIVE imaging (https://doi.org/10.1073/pnas.1300136110) of human FFPE lymph node samples using the IBEX (Iterative Bleaching Extends multi-pleXity) dye inactivation protocol. The resulting method, termed Cell DIVE-IBEX, allows complete signal elimination without tissue loss using IBEX compatible fluorophores (https://doi.org/10.1038/s41596-021-00644-9). The panel consists of 3 cycles of 11 primary antibodies, 4 secondary antibodies, a streptavidin conjugate to detect a biotinylated KI67 antibody (Thermo Fisher Scientific S21384), and nuclear label Hoechst for image alignment and nuclear segmentation. This OMAP provides a spatial context for 15 anatomical structures and 11 cell types present in the ASCT+B lymph node table, v1.1 (https://doi.org/10.48539/HBM573.SHCQ.259). OMAP-18 was designed using OMAP-1 (https://doi.org/10.48539/HBM458.NSWR.957) as a reference and therefore contains all the biomarkers included in OMAP-1. However, OMAP-18 is limited to essential markers for evaluating changes in lymph node architecture and immune cell composition arising from malignancy based on discovery studies using OMAP-1. For this reason, OMAP-18 does not allow granular phenotyping of fibroblastic reticular cells, T regulatory cells, T helper cells, blood and lymphatic endothelial cells, and dendritic cells but can easily be expanded in the future. Importantly, this panel utilizes the BCL2 clone preferred by pathologists (clone SP66), providing additional value for translational studies. Human FFPE samples were prepared using a dual antigen retrieval approach consisting of 30 minutes with Epitope Retrieval Solution 1 (pH 6, 100C) and then 30 minutes with Epitope Retrieval Solution 2 (pH 9, 100C) performed on the Leica Bond. More details on the antigen retrieval protocol and step-by-step application of antibodies can be found on the IBEX Imaging Community site (https://doi.org/10.5281/zenodo.7693278). Detailed B cell follicle and cellular community analysis was performed as described in the accompanying manuscript (https://doi.org/10.1016/j.ccell.2024.02.001). Representative datasets can be accessed on Image Data Resource (https://idr.openmicroscopy.org) under accession number idr0158 and querying images with the prefix “CellDIVE_IBEX_Immune.”
 creators:
   - fullName: Andrea J. Radtke
     firstName: Andrea
@@ -51,9 +30,10 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: "2024-06-15"
+creation_date: '2024-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -63,16 +43,10 @@ funders:
 hubmapId: HBM974.QWFP.588
 doi: https://doi.org/10.48539/HBM974.QWFP.588
 citation: >-
-  Andrea J. Radtke. OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of human lymph
-  node with Cell DIVE-IBEX v1.0. [https://doi.org/10.48539/HBM974.QWFP.588](https://doi.org/10.48539/HBM974.QWFP.588).
-  Accessed on June 23, 2024.
+  Andrea J. Radtke. OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of human lymph node with Cell DIVE-IBEX v1.0. [https://doi.org/10.48539/HBM974.QWFP.588](https://doi.org/10.48539/HBM974.QWFP.588). Accessed on June 23, 2024.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P, Casals AM, Tian H, Lowery L,
-  Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE, Fisher J, Livengood AJ, Dowell KG, Silverstein JC,
-  Spraggins JM, Pryhuber GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W,
-  Gehlenborg N, Stockwell BR, Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
-  Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat Methods. 2023
-  Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
+  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE, Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR, Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-18-lymph-node-cell-dive-ibex.csv
   - omap-18-lymph-node-cell-dive-ibex.xlsx

@@ -1,15 +1,13 @@
-title: Crosswalk of deepcelltypes-HuBMAP annotated cells to Cell Ontology
+title: cell type annotations for deepcelltypes-HuBMAP 
 description: >-
-  This crosswalk maps the cell type annotations from deepcelltypes-HuBMAP-v1.0 (Wang et al. 2024) to the latest revision
-  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl  More information on
-  deepcelltypes-HuBMAP-v1.0 is available at https://github.com/hubmapconsortium/deepcelltypes-hubmap.
+  This crosswalk maps the cell type annotations from deepcelltypes-HuBMAP-v1.0 (Wang et al. 2024) to the latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl 
+  More information on deepcelltypes-HuBMAP-v1.0 is available at https://github.com/hubmapconsortium/deepcelltypes-hubmap.
 
-  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
-  available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data.
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data.
 
-  Bibliography: Wang, Xuefei (Julie), Rohit Dilip, Yuval Bussi, Caitlin Brown, Elora Pradhan, Yashvardhan Jain, Kevin
-  Yu, et al. 2024. “Generalized Cell Phenotyping for Spatial Proteomics with Language-Informed Vision Models.” bioRxiv.
-  https://doi.org/10.1101/2024.11.02.621624.
+  Bibliography:
+
+  Wang, Xuefei (Julie), Rohit Dilip, Yuval Bussi, Caitlin Brown, Elora Pradhan, Yashvardhan Jain, Kevin Yu, et al. 2024. “Generalized Cell Phenotyping for Spatial Proteomics with Language-Informed Vision Models.” bioRxiv. https://doi.org/10.1101/2024.11.02.621624.
 creators:
   - fullName: Aleix Puig-Barbe
     firstName: Aleix
@@ -30,9 +28,10 @@ reviewers:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 externalReviewers: []
-creation_date: "2025-06-15"
+creation_date: '2025-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -42,8 +41,8 @@ funders:
 # hubmapId: HBM679.XXLW.422
 # doi: https://doi.org/10.48539/HBM679.XXLW.422
 # citation: >-
-# Puig-Barbe, Aleix.
-# 2025.	"Crosswalk of Deepcelltypes-HuBMAP Annotated Cells to Cell Ontology, v1.0."
+# Puig-Barbe, Aleix.	
+# 2025.	"Crosswalk of Deepcelltypes-HuBMAP Annotated Cells to Cell Ontology, v1.0."	
 # https://doi.org/10.48539/HBM679.XXLW.422.	Accessed June 15, 2025.
 citationOverall: >-
 datatable:
