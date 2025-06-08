@@ -1,17 +1,32 @@
 title: >-
-  OMAP-20: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging
-  of kidney with cyclic multiplexed immunofluorescence
+  OMAP-20: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of kidney with cyclic multiplexed
+  immunofluorescence
 description: >-
-  OMAP-20 was developed for cyclic multiplexed immunofluorescence (MxIF) microscopy of fresh frozen human kidney tissues (Brewer et al. 2023). This panel includes 10 antibodies and the nuclear marker Hoechst for image alignment and segmentation. It offers spatial context for key renal structures and cell types associated with proximal tubules, glomeruli, and vasculature—components represented in the ASCT+B kidney table v1.4.
-  Other functional tissue units of the kidney, such as distal tubules or collecting ducts, are not captured in this OMAP. The antibody against tensin (RRID: AB_10796111) is noted to perform optimally in cycle 1 of imaging, and placement in later cycles may lead to reduced signal fidelity. Antibody validation and sample preparation protocols, including tissue handling and staining workflows, are detailed by the VU Biomolecular Multimodal Imaging Center / Spraggins Research Group (2025). Representative imaging datasets utilizing this OMAP are presented in the work by Esselman et al. (2024), which integrates imaging mass spectrometry and MxIF microscopy to characterize glomerular substructures.
+  OMAP-20 was developed for cyclic multiplexed immunofluorescence (MxIF) microscopy of fresh frozen human kidney tissues
+  (Brewer et al. 2023). This panel includes 10 antibodies and the nuclear marker Hoechst for image alignment and
+  segmentation. It offers spatial context for key renal structures and cell types associated with proximal tubules,
+  glomeruli, and vasculature—components represented in the ASCT+B kidney table v1.4. Other functional tissue units of
+  the kidney, such as distal tubules or collecting ducts, are not captured in this OMAP. The antibody against tensin
+  (RRID: AB_10796111) is noted to perform optimally in cycle 1 of imaging, and placement in later cycles may lead to
+  reduced signal fidelity. Antibody validation and sample preparation protocols, including tissue handling and staining
+  workflows, are detailed by the VU Biomolecular Multimodal Imaging Center / Spraggins Research Group (2025).
+  Representative imaging datasets utilizing this OMAP are presented in the work by Esselman et al. (2024), which
+  integrates imaging mass spectrometry and MxIF microscopy to characterize glomerular substructures.
 
   Bibliography:
 
-  Brewer, Maya, Liz McDonough, Yuantee Zhu, Elizabeth Neumann, Danielle Gutierrez, Jeff Spraggins, and Mark De Caestecker. 2023. “Multiplex Cyclical Immunofluorescence on Fresh Frozen Tissue-V3.” September 8, 2023. https://www.protocols.io/view/multiplex-cyclical-immunofluorescence-on-fresh-fro-czsax6ae.
+  Brewer, Maya, Liz McDonough, Yuantee Zhu, Elizabeth Neumann, Danielle Gutierrez, Jeff Spraggins, and Mark De
+  Caestecker. 2023. “Multiplex Cyclical Immunofluorescence on Fresh Frozen Tissue-V3.” September 8, 2023.
+  https://www.protocols.io/view/multiplex-cyclical-immunofluorescence-on-fresh-fro-czsax6ae.
 
-  Esselman, Allison B., Felipe A. Moser, Léonore Tideman, Lukasz G. Migas, Katerina V. Djambazova, Madeline E. Colley, Ellie L. Pingry, et al. 2024. “Revealing In Situ Molecular Profiles of Glomerular Cell Types and Substructures with Integrated Imaging Mass Spectrometry and Multiplexed Immunofluorescence Microscopy.” bioRxiv. https://doi.org/10.1101/2024.02.21.581450.
+  Esselman, Allison B., Felipe A. Moser, Léonore Tideman, Lukasz G. Migas, Katerina V. Djambazova, Madeline E. Colley,
+  Ellie L. Pingry, et al. 2024. “Revealing In Situ Molecular Profiles of Glomerular Cell Types and Substructures with
+  Integrated Imaging Mass Spectrometry and Multiplexed Immunofluorescence Microscopy.” bioRxiv.
+  https://doi.org/10.1101/2024.02.21.581450.
 
-  VU Biomolecular Multimodal Imaging Center / Spraggins Research Group. 2025. “VU Biomolecular Multimodal Imaging Center / Spraggins Research Group - Research Workspace on Protocols.Io.” Protocols.Io. 2025. https://www.protocols.io/workspaces/BIOMIC.
+  VU Biomolecular Multimodal Imaging Center / Spraggins Research Group. 2025. “VU Biomolecular Multimodal Imaging Center
+  / Spraggins Research Group - Research Workspace on Protocols.Io.” Protocols.Io. 2025.
+  https://www.protocols.io/workspaces/BIOMIC.
 creators:
   - fullName: Allison Esselman
     firstName: Allison
@@ -50,8 +65,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
@@ -62,7 +76,8 @@ hubmapId: HBM538.GCJJ.874
 doi: https://doi.org/10.48539/HBM538.GCJJ.874
 citation: >-
   Esselman, Allison.	
-  2025.	"OMAP-20: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with Cyclic Multiplexed Immunofluorescence, v1.1."	
+  2025.	"OMAP-20: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with Cyclic
+  Multiplexed Immunofluorescence, v1.1."	
   https://doi.org/10.48539/HBM538.GCJJ.874.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
@@ -80,4 +95,3 @@ datatable:
 references:
   - https://doi.org/10.1101/2024.02.21.581450
   - https://doi.org/10.17504/protocols.io.81wgb1m3yvpk/v3
-

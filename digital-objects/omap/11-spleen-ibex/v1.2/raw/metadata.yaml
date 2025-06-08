@@ -1,24 +1,46 @@
 title: >-
-  OMAP-11: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Spleen with IBEX
+  OMAP-11: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Spleen with IBEX
 description: >-
-  OMAP-11 was designed for IBEX imaging of fixed frozen human spleen samples (Radtke et al. 2022; 2020). The panel includes 24 primary antibodies, 2 secondary antibodies, and the nuclear marker Hoechst for image alignment and segmentation. It provides spatial context for the major anatomical structures and cell types featured in the ASCT+B spleen table v1.3 (Jorgensen, Radtke, and Beuschel 2022), such as red pulp macrophages, splenic endothelial cells, stromal cells, B cells, T cells, granulocytes, and platelets. This panel supports further phenotyping of B cells (naïve, memory, switched), T cells (T follicular helper, regulatory), NK cells, dendritic cells (cDC1, cDC2, plasmacytoid), and lymphatic endothelial cells with additional markers. Attempts to label CD271, a key splenic stromal marker (Steiniger 2015), were unsuccessful using RRIDs AB_10982271 and AB_2564818 in this tissue context. Custom antibodies were sourced from BioLegend or conjugated in-house using Abcam (ab269820) and Thermo Fisher (A20182, A20188) kits. A representative dataset is available (Radtke et al. 2021), and further information on IBEX methods and sample preparation is provided in the IBEX Knowledge-Base (Radtke et al. 2025; Yaniv et al. 2025).
+  OMAP-11 was designed for IBEX imaging of fixed frozen human spleen samples (Radtke et al. 2022; 2020). The panel
+  includes 24 primary antibodies, 2 secondary antibodies, and the nuclear marker Hoechst for image alignment and
+  segmentation. It provides spatial context for the major anatomical structures and cell types featured in the ASCT+B
+  spleen table v1.3 (Jorgensen, Radtke, and Beuschel 2022), such as red pulp macrophages, splenic endothelial cells,
+  stromal cells, B cells, T cells, granulocytes, and platelets. This panel supports further phenotyping of B cells
+  (naïve, memory, switched), T cells (T follicular helper, regulatory), NK cells, dendritic cells (cDC1, cDC2,
+  plasmacytoid), and lymphatic endothelial cells with additional markers. Attempts to label CD271, a key splenic stromal
+  marker (Steiniger 2015), were unsuccessful using RRIDs AB_10982271 and AB_2564818 in this tissue context. Custom
+  antibodies were sourced from BioLegend or conjugated in-house using Abcam (ab269820) and Thermo Fisher (A20182,
+  A20188) kits. A representative dataset is available (Radtke et al. 2021), and further information on IBEX methods and
+  sample preparation is provided in the IBEX Knowledge-Base (Radtke et al. 2025; Yaniv et al. 2025).
 
   Bibliography:
 
-  Andrea J Radtke, Colin J Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T Beuschel, Hiroshi Ichise, et al. 2021. “Accompanying Dataset for: ‘IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.’” Zenodo. https://zenodo.org/records/5244551.
+  Andrea J Radtke, Colin J Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T Beuschel, Hiroshi Ichise, et al. 2021.
+  “Accompanying Dataset for: ‘IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging
+  of Diverse Tissues.’” Zenodo. https://zenodo.org/records/5244551.
 
-  Jorgensen, Marda, Andrea J Radtke, and Rebecca T Beuschel. 2022. “Spleen (v1.3) Graph Data, v1.3.” 2022. https://lod.humanatlas.io/asct-b/spleen/v1.3/.
+  Jorgensen, Marda, Andrea J Radtke, and Rebecca T Beuschel. 2022. “Spleen (v1.3) Graph Data, v1.3.” 2022.
+  https://lod.humanatlas.io/asct-b/spleen/v1.3/.
 
-  Radtke, Andrea J., Colin J. Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T. Beuschel, Hiroshi Ichise, et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” Nature Protocols 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
+  Radtke, Andrea J., Colin J. Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T. Beuschel, Hiroshi Ichise, et al. 2022.
+  “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” Nature
+  Protocols 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
 
-  Radtke, Andrea J., Evelyn Kandov, Bradley Lowekamp, Emily Speranza, Colin J. Chu, Anita Gola, Nishant Thakur, et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial Analysis of Cells in Complex Tissues.” *Proceedings of the National Academy of Sciences* 117 (52): 33455–65. https://doi.org/10.1073/pnas.2018488117.
+  Radtke, Andrea J., Evelyn Kandov, Bradley Lowekamp, Emily Speranza, Colin J. Chu, Anita Gola, Nishant Thakur, et al.
+  2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial Analysis of Cells in
+  Complex Tissues.” *Proceedings of the National Academy of Sciences* 117 (52): 33455–65.
+  https://doi.org/10.1073/pnas.2018488117.
 
-  Steiniger, Birte S. 2015. “Human Spleen Microanatomy: Why Mice Do Not Suffice.” Immunology 145 (3): 334–46. https://doi.org/10.1111/imm.12469.
+  Steiniger, Birte S. 2015. “Human Spleen Microanatomy: Why Mice Do Not Suffice.” Immunology 145 (3): 334–46.
+  https://doi.org/10.1111/imm.12469.
 
-  Radtke, Andrea J., Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et al. 2025. “The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques.” *PLoS Biol* 23(3): e3003070. https://doi.org/10.1371/journal.pbio.3003070.
+  Radtke, Andrea J., Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner,
+  Colin J. Chu, et al. 2025. “The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques.” *PLoS
+  Biol* 23(3): e3003070. https://doi.org/10.1371/journal.pbio.3003070.
 
-  Yaniv, Ziv, Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin J. Chu, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of Immunofluorescence Imaging Methods.” *eLife* 14:RP105737.
+  Yaniv, Ziv, Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin
+  J. Chu, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of
+  Immunofluorescence Imaging Methods.” *eLife* 14:RP105737.
 creators:
   - fullName: Andrea J. Radtke
     firstName: Andrea
@@ -61,8 +83,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
@@ -70,8 +91,7 @@ funders:
   - funder: Intramural Research Program of the NIH
     awardNumber: UH3 CA246635
   - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer
-      Institute
+      National Institute of Allergy and Infectious Disease and National Cancer Institute
     awardNumber: OT2OD026671
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
@@ -83,7 +103,8 @@ hubmapId: HBM339.SNFN.682
 doi: https://doi.org/10.48539/HBM339.SNFN.682
 citation: >-
   Radtke, Andrea J.	
-  2025.	"OMAP-11: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Spleen with IBEX, v1.2."	
+  2025.	"OMAP-11: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Spleen with IBEX,
+  v1.2."	
   https://doi.org/10.48539/HBM339.SNFN.682.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	

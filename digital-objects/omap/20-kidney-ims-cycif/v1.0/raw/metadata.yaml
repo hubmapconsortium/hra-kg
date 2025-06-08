@@ -1,7 +1,15 @@
 title: >-
- OMAP-20: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of kidney with cyclic multiplexed immunofluorescence
+  OMAP-20: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of kidney with cyclic multiplexed
+  immunofluorescence
 description: >-
-  OMAP-20 was designed for cyclic multiplexed immunofluorescence (MxIF) microscopy of fresh frozen human kidney samples (dx.doi.org/10.17504/protocols.io.81wgb1m3yvpk/v3). The panel contains 10 antibodies and the nuclear marker Hoechst for image alignment. This OMAP provides a spatial context for proximal tubule and glomeruli structures and cell types present in the ASCT+B kidney table v1.4. Functional tissue units other than proximal tubules, glomeruli, and vasculature are not targeted in the existing panel. Additional details on sample preparation and antibody validation can be found here (https://www.protocols.io/workspaces/BIOMIC). Representative datasets using this OMAP can be found here (https://doi.org/10.1101/2024.02.21.581450). The antibody directed against tensin (RRID: AB_10796111) is known to perform better in cycle 1 than in later cycles. 
+  OMAP-20 was designed for cyclic multiplexed immunofluorescence (MxIF) microscopy of fresh frozen human kidney samples
+  (dx.doi.org/10.17504/protocols.io.81wgb1m3yvpk/v3). The panel contains 10 antibodies and the nuclear marker Hoechst
+  for image alignment. This OMAP provides a spatial context for proximal tubule and glomeruli structures and cell types
+  present in the ASCT+B kidney table v1.4. Functional tissue units other than proximal tubules, glomeruli, and
+  vasculature are not targeted in the existing panel. Additional details on sample preparation and antibody validation
+  can be found here (https://www.protocols.io/workspaces/BIOMIC). Representative datasets using this OMAP can be found
+  here (https://doi.org/10.1101/2024.02.21.581450). The antibody directed against tensin (RRID: AB_10796111) is known to
+  perform better in cycle 1 than in later cycles.
 creators:
   - fullName: Allison Esselman
     firstName: Allison
@@ -38,10 +46,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
@@ -51,16 +58,17 @@ funders:
 hubmapId: HBM624.CHLG.652
 doi: https://doi.org/10.48539/HBM624.CHLG.652
 citation: >-
- Allison Esselman. OMAP-20: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of kidney with cyclic multiplexed immunofluorescence, v1.0,
- [https://doi.org/10.48539/HBM624.CHLG.652](https://doi.org/10.48539/HBM624.CHLG.652). Accessed on June 15, 2024.
+  Allison Esselman. OMAP-20: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of kidney with
+  cyclic multiplexed immunofluorescence, v1.0,
+  [https://doi.org/10.48539/HBM624.CHLG.652](https://doi.org/10.48539/HBM624.CHLG.652). Accessed on June 15, 2024.
 citationOverall: >-
- Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
-  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
-  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
-  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
-  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
-  Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
-  Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
+   Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
+   Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
+   F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
+   Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
+   Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
+   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-20-kidney-ims-cycif.csv
   - omap-20-kidney-ims-cycif.xlsx

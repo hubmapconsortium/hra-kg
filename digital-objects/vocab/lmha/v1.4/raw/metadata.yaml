@@ -4,16 +4,18 @@ description: >-
 
   Bibliography:
 
-  Pan, Huaqin, Gail H. Deutsch, Susan E. Wert, Namasivayam Ambalavanan, Charles Ansong, Maryanne E. Ardini-Poleske, Jacqueline Bagwell, et al. 2019. “Comprehensive Anatomic Ontologies for Lung Development: A Comparison of Alveolar Formation and Maturation within Mouse and Human Lung.” *Journal of Biomedical Semantics* 10 (1): 18. https://doi.org/10.1186/s13326-019-0209-1.
+  Pan, Huaqin, Gail H. Deutsch, Susan E. Wert, Namasivayam Ambalavanan, Charles Ansong, Maryanne E. Ardini-Poleske,
+  Jacqueline Bagwell, et al. 2019. “Comprehensive Anatomic Ontologies for Lung Development: A Comparison of Alveolar
+  Formation and Maturation within Mouse and Human Lung.” *Journal of Biomedical Semantics* 10 (1): 18.
+  https://doi.org/10.1186/s13326-019-0209-1.
 creators:
   - fullName: Helen Pan
     firstName: Helen
     lastName: Pan
     orcid: 0000-0002-7166-108X
-creation_date: '2019-07-30'
+creation_date: "2019-07-30"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 datatable:
   - lmha.owl
 references:

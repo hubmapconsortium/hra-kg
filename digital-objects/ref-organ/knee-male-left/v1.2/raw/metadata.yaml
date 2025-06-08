@@ -1,12 +1,15 @@
 title: 3D Reference Organ for Knee, Male, Left
 description: >-
-	This reference organ, Left-knee-male (https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine (Spitzer et al. 1996; Ackerman 1998).
+  This reference organ, Left-knee-male (https://humanatlas.io/3d-reference-library) was created using data from the
+  Visible Human Male, provided by the National Library of Medicine (Spitzer et al. 1996; Ackerman 1998).
 
-	Bibliography:
+  Bibliography:
 
-	Ackerman, Michael J. 1998. “The Visible Human Project.” *Proceedings of the IEEE* 86 (3): 504–11. https://doi.org/10.1109/5.662875.
+  Ackerman, Michael J. 1998. “The Visible Human Project.” *Proceedings of the IEEE* 86 (3): 504–11.
+  https://doi.org/10.1109/5.662875.
 
-	Spitzer, V., M. J. Ackerman, A. L. Scherzinger, and D. Whitlock. 1996. “The Visible Human Male: A Technical Report.” *Journal of the American Medical Informatics Association* 3 (2): 118–30. https://doi.org/10.1136/jamia.1996.96236280.
+  Spitzer, V., M. J. Ackerman, A. L. Scherzinger, and D. Whitlock. 1996. “The Visible Human Male: A Technical Report.”
+  *Journal of the American Medical Informatics Association* 3 (2): 118–30. https://doi.org/10.1136/jamia.1996.96236280.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -27,10 +30,9 @@ reviewers:
     lastName: Rowe
     orcid: 0000-0001-7852-7775
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -43,9 +45,8 @@ citation: >-
   Browne, Kristen, and Heidi Schlehlein. 2024. "3D Reference Organ for Knee, Male, Left v1.2."
   https://doi.org/10.48539/HBM839.JJQF.873. Accessed on June 15, 2024.
 citationOverall: >-
-  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle,
-  and Katy Börner. 2024. "HuBMAP CCF 3D Reference Object Library."
-  https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
+  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024. "HuBMAP
+  CCF 3D Reference Object Library." https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
 datatable:
   - 3d-vh-m-knee-l.glb
   - crosswalk.csv

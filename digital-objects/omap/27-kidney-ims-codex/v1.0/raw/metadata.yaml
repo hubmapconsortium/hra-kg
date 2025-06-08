@@ -1,22 +1,35 @@
 title: >-
-  OMAP-27: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging
-  of Human Kidney with CODEX
+  OMAP-27: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging of Human Kidney with CODEX
 description: >-
-  OMAP-27 was designed for CO-Detection by indEXing (CODEX) imaging of fresh frozen human kidney samples with the goal of profiling cell types and cell states (Neumann et al. 2021). The panel contains 46 antibodies and the DAPI nuclear marker for image registration. This OMAP captures spatial context for all functional tissue units (FTUs) of the nephron, basement membranes, vasculature, lymphatics, the stromal compartment, and both adaptive (B and T cells) and innate immune cell types, including injured cell states.
-  OMAP-27 builds upon OMAP-3 (Neumann and Farrow 2024), the original kidney-focused OMAP for CODEX imaging, and shares 24 markers with OMAP-9 (Barwinska et al. 2024), a separately developed kidney CODEX panel. Additionally, this panel includes all antibodies from OMAP-26 (https://doi.org/10.48539/HBM677.XSHP.683), which was specifically designed for post-imaging mass spectrometry workflows.
-  This panel provides comprehensive spatial mapping for anatomical structures and cellular identities in the ASCT+B kidney table v1.6 (Jain et al. 2024). Antibody validation, sample preparation, and conjugation protocols are detailed by the VU Biomolecular Multimodal Imaging Center and Spraggins Research Group (2025).
+  OMAP-27 was designed for CO-Detection by indEXing (CODEX) imaging of fresh frozen human kidney samples with the goal
+  of profiling cell types and cell states (Neumann et al. 2021). The panel contains 46 antibodies and the DAPI nuclear
+  marker for image registration. This OMAP captures spatial context for all functional tissue units (FTUs) of the
+  nephron, basement membranes, vasculature, lymphatics, the stromal compartment, and both adaptive (B and T cells) and
+  innate immune cell types, including injured cell states. OMAP-27 builds upon OMAP-3 (Neumann and Farrow 2024), the
+  original kidney-focused OMAP for CODEX imaging, and shares 24 markers with OMAP-9 (Barwinska et al. 2024), a
+  separately developed kidney CODEX panel. Additionally, this panel includes all antibodies from OMAP-26
+  (https://doi.org/10.48539/HBM677.XSHP.683), which was specifically designed for post-imaging mass spectrometry
+  workflows. This panel provides comprehensive spatial mapping for anatomical structures and cellular identities in the
+  ASCT+B kidney table v1.6 (Jain et al. 2024). Antibody validation, sample preparation, and conjugation protocols are
+  detailed by the VU Biomolecular Multimodal Imaging Center and Spraggins Research Group (2025).
 
   Bibliography:
 
-  Barwinska, Daria, Tarek M. El-Achkar, Angela R. Sabo, Michael J. Ferkowicz, Seth Winfree, and William S. Bowen. 2024. “9-Kidney-Codex (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/omap/9-kidney-codex/v1.3/.
+  Barwinska, Daria, Tarek M. El-Achkar, Angela R. Sabo, Michael J. Ferkowicz, Seth Winfree, and William S. Bowen. 2024.
+  “9-Kidney-Codex (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/omap/9-kidney-codex/v1.3/.
 
-  Jain, Sanjay, Todd M. Valerius, Yongqun He, Tarek El-Achkar, Michael Eadon, and Jeffrey Spraggins. 2024. “Kidney (v1.6) Graph Data, v1.6.” https://lod.humanatlas.io/asct-b/kidney/v1.6/.
+  Jain, Sanjay, Todd M. Valerius, Yongqun He, Tarek El-Achkar, Michael Eadon, and Jeffrey Spraggins. 2024. “Kidney
+  (v1.6) Graph Data, v1.6.” https://lod.humanatlas.io/asct-b/kidney/v1.6/.
 
-  Neumann, Elizabeth K., and Melissa Farrow. 2024. “3-Kidney-Codex (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/omap/3-kidney-codex/v1.3/.
+  Neumann, Elizabeth K., and Melissa Farrow. 2024. “3-Kidney-Codex (v1.3) Graph Data, v1.3.”
+  https://lod.humanatlas.io/omap/3-kidney-codex/v1.3/.
 
-  Neumann, Elizabeth, Carrie Romer, Nathan Heath Patterson, Jamie Allen, and Jeff Spraggins. 2021. “Antibody Conjugation and CODEX Multiplexed Immunofluorescence of Fresh Frozen Tissue.” https://www.protocols.io/view/antibody-conjugation-and-codex-multiplexed-immunof-buc5nsy6.
+  Neumann, Elizabeth, Carrie Romer, Nathan Heath Patterson, Jamie Allen, and Jeff Spraggins. 2021. “Antibody Conjugation
+  and CODEX Multiplexed Immunofluorescence of Fresh Frozen Tissue.”
+  https://www.protocols.io/view/antibody-conjugation-and-codex-multiplexed-immunof-buc5nsy6.
 
-  VU Biomolecular Multimodal Imaging Center / Spraggins Research Group. 2025. “VU Biomolecular Multimodal Imaging Center / Spraggins Research Group - Research Workspace on Protocols.Io.” https://www.protocols.io/workspaces/BIOMIC.
+  VU Biomolecular Multimodal Imaging Center / Spraggins Research Group. 2025. “VU Biomolecular Multimodal Imaging Center
+  / Spraggins Research Group - Research Workspace on Protocols.Io.” https://www.protocols.io/workspaces/BIOMIC.
 creators:
   - fullName: Thai Pham
     firstName: Thai
@@ -51,8 +64,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -65,7 +77,8 @@ hubmapId: HBM228.CPGH.632
 doi: https://doi.org/10.48539/HBM228.CPGH.632
 citation: >-
   Pham, Thai,	and Melissa Farrow.	
-  2025.	"OMAP-27: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX, v1.0."	
+  2025.	"OMAP-27: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX,
+  v1.0."	
   https://doi.org/10.48539/HBM228.CPGH.632.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	

@@ -1,10 +1,17 @@
 title: 3D Reference Organ for Skin, Female
 description: >-
-  This reference organ, Skin-female (https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002). In version v1.3, the torso of the skin model was moved up from previous editions to incorporate the clavicles and other anatomy for the breast. It was also adjusted to add space for the triceps surae and the ankle bones for the eventual addition of the triceps surae muscles and landmark organs. In v2.3, the head was adjusted to be more like the original skin of the Visible Human Female, to make space for the mouth 3D object and landmarks.
+  This reference organ, Skin-female (https://humanatlas.io/3d-reference-library) was created using data from the Visible
+  Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002). In version v1.3, the torso of
+  the skin model was moved up from previous editions to incorporate the clavicles and other anatomy for the breast. It
+  was also adjusted to add space for the triceps surae and the ankle bones for the eventual addition of the triceps
+  surae muscles and landmark organs. In v2.3, the head was adjusted to be more like the original skin of the Visible
+  Human Female, to make space for the mouth 3D object and landmarks.
 
   Bibliography:
 
-  Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human Simulation.” *The Anatomical Record* 253 (2): 49–57. https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.
+  Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human
+  Simulation.” *The Anatomical Record* 253 (2): 49–57.
+  https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -25,10 +32,9 @@ reviewers:
     lastName: Ginty
     orcid: 0000-0001-6638-683X
 externalReviewers: []
-creation_date: '2025-06-15'
+creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -41,8 +47,8 @@ citation: >-
   Browne, Kristen, and Heidi Schlehlein. 2024. *3D Reference Organ for Skin, Female v1.5*.
   https://doi.org/10.48539/HBM453.MVPL.398. Accessed on June 15, 2025.
 citationOverall: >-
-  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024.
-  *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on June 15, 2025.
+  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024. *HuBMAP
+  CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on June 15, 2025.
 datatable:
   - 3d-vh-f-skin.glb
   - crosswalk.csv

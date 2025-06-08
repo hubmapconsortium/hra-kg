@@ -1,15 +1,12 @@
 title: 2D Pulmonary Alveolus Functional Tissue Unit (FTU) for Lung
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to
-  the alveolus FTU in the Anatomical Structures, Cell Types and Biomarkers table
-  ASCT+B Table “Lung_v1.2"[Lung v1.2](https://doi.org/10.48539/HBM396.QVLQ.449).
-  Multiple histology atlases, especially “Netter’s Essential Histology with
-  Correlated Histopathology” (William K. Ovalle and Patrick C. Nahirney, 2021),
-  “Junqueira’s Basic Histology Text & Atlas” (Anthony L. Mescher, 2021), “Human
-  Microscopic Anatomy” (R.V. Krstić, 1994), and “Histology: A Text and Atlas”
-  (Michael H. Ross, et al., 2003) were referenced.Especially helpful in
-  determining the structure of the fibroblast cell types was figure 2 in
-  [(Rodríguez-Castillo et al. 2018)](https://doi.org/10.1186/s12931-018-0837-5).
+  This functional tissue unit (FTU) illustration includes cell types related to the alveolus FTU in the Anatomical
+  Structures, Cell Types and Biomarkers table ASCT+B Table “Lung_v1.2"[Lung
+  v1.2](https://doi.org/10.48539/HBM396.QVLQ.449). Multiple histology atlases, especially “Netter’s Essential Histology
+  with Correlated Histopathology” (William K. Ovalle and Patrick C. Nahirney, 2021), “Junqueira’s Basic Histology Text &
+  Atlas” (Anthony L. Mescher, 2021), “Human Microscopic Anatomy” (R.V. Krstić, 1994), and “Histology: A Text and Atlas”
+  (Michael H. Ross, et al., 2003) were referenced.Especially helpful in determining the structure of the fibroblast cell
+  types was figure 2 in [(Rodríguez-Castillo et al. 2018)](https://doi.org/10.1186/s12931-018-0837-5).
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -26,10 +23,9 @@ reviewers:
     lastName: Pryhuber
     orcid: 0000-0002-9185-3994
 externalReviewers: []
-creation_date: '2022-12-15'
+creation_date: "2022-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -37,14 +33,11 @@ funders:
 hubmapId: HBM638.QLQK.834
 doi: https://doi.org/10.48539/HBM638.QLQK.834
 citation: >-
-  Rachel Bajema 2022. *2D Pulmonary Alveolus Functional Tissue Unit (FTU) for
-  Lung, v1.1.* https://doi.org/10.48539/HBM638.QLQK.834. Accessed on December
-  15, 2022.
+  Rachel Bajema 2022. *2D Pulmonary Alveolus Functional Tissue Unit (FTU) for Lung, v1.1.*
+  https://doi.org/10.48539/HBM638.QLQK.834. Accessed on December 15, 2022.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2022. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
-  15, 2022.
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference
+  Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2022.
 datatable:
   - 2d-ftu-lung-pulmonary-alveolus.svg
   - 2d-ftu-lung-pulmonary-alveolus.png

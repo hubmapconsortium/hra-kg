@@ -1,8 +1,13 @@
 title: >-
   Pathway crosswalk
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. This table provides a crosswalk between structures in the blood vasculature, lymph vasculature, and peripheral nervous system (PNS) ASCT+B tables. The Relationship column indicates the relationship between Structure1 and Structure2. In this version of the crosswalk, there are two types of relationships: (1) “adjacent_to” is being used here for neurovascular bundles and (2) “connects_to” indicates arterial vessels that connect to venous structures.
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to
+  capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
+  authored and reviewed by an international team of experts. This table provides a crosswalk between structures in the
+  blood vasculature, lymph vasculature, and peripheral nervous system (PNS) ASCT+B tables. The Relationship column
+  indicates the relationship between Structure1 and Structure2. In this version of the crosswalk, there are two types of
+  relationships: (1) “adjacent_to” is being used here for neurovascular bundles and (2) “connects_to” indicates arterial
+  vessels that connect to venous structures.
 
 creators:
   - fullName: Griffin Weber
@@ -28,10 +33,9 @@ reviewers:
     lastName: Imam
     orcid: 0000-0003-4752-543X
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

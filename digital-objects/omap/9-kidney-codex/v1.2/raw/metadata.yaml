@@ -1,28 +1,20 @@
 title: >-
-  OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Kidney with CODEX
+  OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX
 description: >-
-  OMAP-9 was designed for CODEX multiplex antibody-based imaging of fresh frozen
-  human kidney tissue (dx.doi.org/10.17504/protocols.io.8epv5jdbnl1b/v1). The
-  panel contains 41 antibodies and the nuclear marker DAPI for image alignment
-  and nuclear segmentation. OMAP-9 provides a spatial context for all anatomical
-  structures and most cell types present in the ASCT+B kidney table v1.1. This
-  OMAP expands on OMAP-3 (10.48539/HBM373.TBKP.375), an 18-plex kidney CODEX
-  panel, by including additional markers for granular phenotyping of key cells
-  in the kidney such as structural cells (Podocalyxin, LRP2, E-cadherin,
-  SLC12A3, Na/K ATPase and Cytokeratin 8), immune cells including T cells (CD3D,
-  CD4, CD45RO, CD8, FOXP3, GATA-3), myeloid cells (CD11c, CD68, CD206, HLA-DR,
-  Myeloperoxidase), and B cells (CD20). Antibodies directed against injury
-  markers (KIM1, IGFBP7, Osteopontin, PLSCR1, VCAM1, MCP1, phosphor c-JUN,
-  phosphor MLKL, Fibronectin, Collagen IV, LC3, Cystatin 3, and PROM1) allows
-  profiling of kidney disease progression, prognosis, and repair. The following
-  markers utilize different antibody clones than OMAP-3: vimentin, beta-catenin,
-  and uromodulin. Mesangial cells present in the glomerulus are not targeted in
-  the existing panel due to the absence of suitable antibodies compatible with
-  the methodology. Additional details on sample preparation and CODEX
-  multiplexing workflow can be found on Protocols.io
-  (dx.doi.org/10.17504/protocols.io.8epv5jdbnl1b/v1). Correction to update to
-  authors list and spelling of names appears in OMAP-9 v1.1.
+  OMAP-9 was designed for CODEX multiplex antibody-based imaging of fresh frozen human kidney tissue
+  (dx.doi.org/10.17504/protocols.io.8epv5jdbnl1b/v1). The panel contains 41 antibodies and the nuclear marker DAPI for
+  image alignment and nuclear segmentation. OMAP-9 provides a spatial context for all anatomical structures and most
+  cell types present in the ASCT+B kidney table v1.1. This OMAP expands on OMAP-3 (10.48539/HBM373.TBKP.375), an 18-plex
+  kidney CODEX panel, by including additional markers for granular phenotyping of key cells in the kidney such as
+  structural cells (Podocalyxin, LRP2, E-cadherin, SLC12A3, Na/K ATPase and Cytokeratin 8), immune cells including T
+  cells (CD3D, CD4, CD45RO, CD8, FOXP3, GATA-3), myeloid cells (CD11c, CD68, CD206, HLA-DR, Myeloperoxidase), and B
+  cells (CD20). Antibodies directed against injury markers (KIM1, IGFBP7, Osteopontin, PLSCR1, VCAM1, MCP1, phosphor
+  c-JUN, phosphor MLKL, Fibronectin, Collagen IV, LC3, Cystatin 3, and PROM1) allows profiling of kidney disease
+  progression, prognosis, and repair. The following markers utilize different antibody clones than OMAP-3: vimentin,
+  beta-catenin, and uromodulin. Mesangial cells present in the glomerulus are not targeted in the existing panel due to
+  the absence of suitable antibodies compatible with the methodology. Additional details on sample preparation and CODEX
+  multiplexing workflow can be found on Protocols.io (dx.doi.org/10.17504/protocols.io.8epv5jdbnl1b/v1). Correction to
+  update to authors list and spelling of names appears in OMAP-9 v1.1.
 creators:
   - fullName: Daria Barwinska
     firstName: Daria
@@ -79,10 +71,9 @@ reviewers:
     lastName: Saunders
     orcid: 0000-0002-8849-6746
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
@@ -92,17 +83,16 @@ funders:
 hubmapId: HBM954.TGNG.395
 doi: https://doi.org/10.48539/HBM954.TGNG.395
 citation: >-
-  Daria Barwinska; Tarek M. El-Achkar; Angela R. Sabo; Michael J. Ferkowicz;
-  Seth Winfree; William S. Bowen. OMAP-9: Organ Mapping Antibody Panel (OMAP)
-  for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX, v1.1,
+  Daria Barwinska; Tarek M. El-Achkar; Angela R. Sabo; Michael J. Ferkowicz; Seth Winfree; William S. Bowen. OMAP-9:
+  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX, v1.1,
   https://doi.org/10.48539/HBM954.TGNG.395. Accessed on June 15, 2024.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
-  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
-  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
-  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
-  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
-  Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P, Casals AM, Tian H, Lowery L,
+  Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE, Fisher J, Livengood AJ, Dowell KG, Silverstein JC,
+  Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
+  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR, Lundberg E, Snyder MP,
+  Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ Mapping Antibody Panels: a community resource for
+  standardized multiplexed tissue imaging. Nat  
   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-9-kidney-codex.csv

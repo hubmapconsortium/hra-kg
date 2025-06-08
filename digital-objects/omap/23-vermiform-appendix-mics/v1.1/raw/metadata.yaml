@@ -1,20 +1,37 @@
 title: >-
-  OMAP-23: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging
-  of vermiform appendix (FFPE)
-  with MICS on MACSima
+  OMAP-23: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of vermiform appendix (FFPE) with
+  MICS on MACSima
 description: >-
-  OMAP-23 was developed for MICS (MACSima Imaging Cyclic Staining) imaging of human formalin-fixed, paraffin-embedded (FFPE) vermiform appendix tissue. Tissue fixation and antigen retrieval methods are outlined in Neil et al. (2023), while details of the MACSima platform and imaging approach are provided in Kinkhabwala et al. (2022). The panel contains 28 antibodies and the nuclear marker DAPI, used for image alignment and nuclear segmentation.
-  All antibodies in this panel are recombinant human IgG1 with Fc receptor binding removed to prevent non-specific binding and eliminate the need for blocking steps. This recombinant format also allows inclusion of non-human monoclonal antibodies followed by species-specific fluorophore-labeled secondary antibodies. The newly introduced dye VioB515 is used to label one marker and is removed through chemical cleavage after imaging.
-  OMAP-23 follows the structure and approach of previous MICS-based OMAPs (OMAP-10 and OMAP-21) and expands upon OMAP-21 with the inclusion of markers targeting non-immune cell types. It provides spatial context for all anatomical structures and most cell types within the vermiform appendix. Reagents were sourced exclusively from Miltenyi Biotec and validated through a rigorous internal QC process, thus lot numbers are not included.
-  Data analysis was performed using the MACSIQ View Analysis software described in Kinkhabwala et al. (2022). The software suite processes raw MACSima images, generates stitched views, and enables downstream analyses including segmentation, gating, normalization, dimensionality reduction (tSNE, UMAP), heatmaps, and clustering. This is the third OMAP designed for the MACSima platform. A representative dataset for OMAP-23 is available at Zenodo (Müller, Femel, and Bosio 2024).
+  OMAP-23 was developed for MICS (MACSima Imaging Cyclic Staining) imaging of human formalin-fixed, paraffin-embedded
+  (FFPE) vermiform appendix tissue. Tissue fixation and antigen retrieval methods are outlined in Neil et al. (2023),
+  while details of the MACSima platform and imaging approach are provided in Kinkhabwala et al. (2022). The panel
+  contains 28 antibodies and the nuclear marker DAPI, used for image alignment and nuclear segmentation. All antibodies
+  in this panel are recombinant human IgG1 with Fc receptor binding removed to prevent non-specific binding and
+  eliminate the need for blocking steps. This recombinant format also allows inclusion of non-human monoclonal
+  antibodies followed by species-specific fluorophore-labeled secondary antibodies. The newly introduced dye VioB515 is
+  used to label one marker and is removed through chemical cleavage after imaging. OMAP-23 follows the structure and
+  approach of previous MICS-based OMAPs (OMAP-10 and OMAP-21) and expands upon OMAP-21 with the inclusion of markers
+  targeting non-immune cell types. It provides spatial context for all anatomical structures and most cell types within
+  the vermiform appendix. Reagents were sourced exclusively from Miltenyi Biotec and validated through a rigorous
+  internal QC process, thus lot numbers are not included. Data analysis was performed using the MACSIQ View Analysis
+  software described in Kinkhabwala et al. (2022). The software suite processes raw MACSima images, generates stitched
+  views, and enables downstream analyses including segmentation, gating, normalization, dimensionality reduction (tSNE,
+  UMAP), heatmaps, and clustering. This is the third OMAP designed for the MACSima platform. A representative dataset
+  for OMAP-23 is available at Zenodo (Müller, Femel, and Bosio 2024).
 
   Bibliography:
 
-  Kinkhabwala, Ali, Christoph Herbel, Jennifer Pankratz, Dmytro A. Yushchenko, Silvia Rüberg, Paurush Praveen, Sandy Reiß, et al. 2022. “MACSima Imaging Cyclic Staining (MICS) Technology Reveals Combinatorial Target Pairs for CAR T Cell Treatment of Solid Tumors.” *Scientific Reports* 12 (1): 1911. https://doi.org/10.1038/s41598-022-05841-4.
+  Kinkhabwala, Ali, Christoph Herbel, Jennifer Pankratz, Dmytro A. Yushchenko, Silvia Rüberg, Paurush Praveen, Sandy
+  Reiß, et al. 2022. “MACSima Imaging Cyclic Staining (MICS) Technology Reveals Combinatorial Target Pairs for CAR T
+  Cell Treatment of Solid Tumors.” *Scientific Reports* 12 (1): 1911. https://doi.org/10.1038/s41598-022-05841-4.
 
-  Muller, Werner, Julia Femel, and Andreas Bosio. 2024. “OMAP-23: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Vermiform Appendix (FFPE) with MICS on MACSima.” Zenodo. https://zenodo.org/records/14008816.
+  Muller, Werner, Julia Femel, and Andreas Bosio. 2024. “OMAP-23: Organ Mapping Antibody Panel (OMAP) for Multiplexed
+  Antibody-Based Imaging of Vermiform Appendix (FFPE) with MICS on MACSima.” Zenodo.
+  https://zenodo.org/records/14008816.
 
-  Neil, Emily, Dongju Park, Rebecca C. Hennessey, Eric C. DiBiasio, Michael DiBuono, Hanna Lafayette, Erica Lloyd, et al. 2023. “Spatial Protein and RNA Analysis on the Same Tissue Section Using MICS Technology.” bioRxiv. https://doi.org/10.1101/2023.10.27.564191.
+  Neil, Emily, Dongju Park, Rebecca C. Hennessey, Eric C. DiBiasio, Michael DiBuono, Hanna Lafayette, Erica Lloyd, et
+  al. 2023. “Spatial Protein and RNA Analysis on the Same Tissue Section Using MICS Technology.” bioRxiv.
+  https://doi.org/10.1101/2023.10.27.564191.
 creators:
   - fullName: Werner Müller
     firstName: Werner
@@ -53,8 +70,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: Miltenyi Biotec

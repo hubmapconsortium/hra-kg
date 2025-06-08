@@ -1,14 +1,32 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lung
 description: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested lung structure of anatomical human body parts, the typology of cells, and biomarkers used to identify lung cell types. The tables are authored and reviewed by an international team of experts. The current Lung ASCT+B table is simplified to consider the anatomical and cellular composition of  the intra-pulmonary respiratory tract of one lung lobe as representative of the five human lung lobes. The gross anatomy of the lung lobe was highly influenced by Gray's Anatomy The Anatomical Basis of Clinical Practice, the International Federation of Associations of Anatomists: Terminologia Anatomica (TA) and the LungMAP Anatomical Ontology. References are provided for the identification of each cell type in each histologic structure.  Cell types were labeled up to the finest level of labeling available, and set to “None” if no cell type label was available at the level under consideration. Uberon and Cell Ontology entries used are as specific to lung and substructures as available. Where cells of similar type are distinguished by occurance in different locations, the closest and highest level of resolution available distinguishing markers is used.  The table includes detailed anatomical structures of the branching airway along with associated cell types like multiciliated epithelial cells, secretory cells, and structural cells. This comprehensive mapping supports research into pulmonary biology and related medical conditions.                                                                                                                                 
-  
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested lung structure of anatomical human body parts, the typology of cells, and biomarkers used to identify lung
+  cell types. The tables are authored and reviewed by an international team of experts. The current Lung ASCT+B table is
+  simplified to consider the anatomical and cellular composition of  the intra-pulmonary respiratory tract of one lung
+  lobe as representative of the five human lung lobes. The gross anatomy of the lung lobe was highly influenced by
+  Gray's Anatomy The Anatomical Basis of Clinical Practice, the International Federation of Associations of Anatomists:
+  Terminologia Anatomica (TA) and the LungMAP Anatomical Ontology. References are provided for the identification of
+  each cell type in each histologic structure.  Cell types were labeled up to the finest level of labeling available,
+  and set to “None” if no cell type label was available at the level under consideration. Uberon and Cell Ontology
+  entries used are as specific to lung and substructures as available. Where cells of similar type are distinguished by
+  occurance in different locations, the closest and highest level of resolution available distinguishing markers is
+  used.  The table includes detailed anatomical structures of the branching airway along with associated cell types like
+  multiciliated epithelial cells, secretory cells, and structural cells. This comprehensive mapping supports research
+  into pulmonary biology and related medical
+  conditions.                                                                                                                                 
+
   Bibliography:                                                                                                                                                                                                                                                                                                                                      
    
   Standring, Susan, ed. 2020. *Gray’s Anatomy: The Anatomical Basis of Clinical Practice*. 42nd ed. London: Elsevier.
 
-  IFAA and International Federation of Associations of Anatomists. 2025. “Anatomical Terminology (FIPAT) - IFAA.” June 15, 2025. https://ifaa.net/committees/anatomical-terminology-fipat/.
+  IFAA and International Federation of Associations of Anatomists. 2025. “Anatomical Terminology (FIPAT) - IFAA.” June
+  15, 2025. https://ifaa.net/committees/anatomical-terminology-fipat/.
       
-  Pan, Huaqin, Gail H. Deutsch, Susan E. Wert, Namasivayam Ambalavanan, Charles Ansong, Maryanne E. Ardini-Poleske, Jacqueline Bagwell, et al. 2019. “Comprehensive Anatomic Ontologies for Lung Development: A Comparison of Alveolar Formation and Maturation within Mouse and Human Lung.” *Journal of Biomedical Semantics* 10 (1): 18. https://doi.org/10.1186/s13326-019-0209-1.
+  Pan, Huaqin, Gail H. Deutsch, Susan E. Wert, Namasivayam Ambalavanan, Charles Ansong, Maryanne E. Ardini-Poleske,
+  Jacqueline Bagwell, et al. 2019. “Comprehensive Anatomic Ontologies for Lung Development: A Comparison of Alveolar
+  Formation and Maturation within Mouse and Human Lung.” *Journal of Biomedical Semantics* 10 (1): 18.
+  https://doi.org/10.1186/s13326-019-0209-1.
 creators:
   - fullName: Gloria Pryhuber
     firstName: Gloria
@@ -33,10 +51,9 @@ reviewers:
     lastName: Deutsch
     orcid: 0000-0002-0571-0285
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

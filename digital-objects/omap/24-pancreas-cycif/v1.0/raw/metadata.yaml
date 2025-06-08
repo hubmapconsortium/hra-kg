@@ -1,25 +1,41 @@
 title: >-
-  OMAP-24: Organ Mapping Antibody Panel (OMAP) for Multiplexed  Antibody-Based Imaging
-  of Human Pancreas with CyCIF
+  OMAP-24: Organ Mapping Antibody Panel (OMAP) for Multiplexed  Antibody-Based Imaging of Human Pancreas with CyCIF
 description: >-
-  OMAP-24 was developed using cyclic immunofluorescence (CyCIF) to detect 13 protein biomarkers in the human pancreas, with a specific emphasis on pancreatic ganglia and nervous innervation. Human FFPE pancreas samples were fixed in 4% paraformaldehyde (PFA) and processed according to the Human Pancreas Processing protocol (Chen et al. 2022). This panel contributes spatial data for anatomical structures and cell types defined in the ASCT+B pancreas table v1.3 (Campbell-Thompson, Eskaros, and Saunders 2023), with a focus on nervous structures, an area not previously addressed in earlier OMAPs.
-  Images from sequential CyCIF staining rounds were aligned using nuclear markers DAPI (cycle 1) and Hoechst S769121 (cycles 2 and 3). Antigen retrieval was performed at 95°C for 25 minutes in 1X AR9 solution using a vegetable steamer. Detection involved a combination of OPAL TSA fluorophores and Alexa Fluor-conjugated secondary antibodies. Primary antibodies requiring TSA amplification used various HRP polymer reagents from Vector Laboratories and Akoya Biosciences. No antibody cycle sensitivity was observed during testing.
-  OMAP-24 builds upon earlier pancreas-focused panels (OMAP-6 and OMAP-13), but uniquely adds spatial mapping of pancreatic ganglia and nerve innervation. This is the first OMAP to focus on the neuroanatomy of the pancreas, providing insights relevant to pancreatic disorders such as type 1 diabetes. Glial, interstitial, and immune cells were not included in this version due to limitations in antibody availability.
-  The full staining protocol is available at Ewing et al. (2025), and a sample dataset can be accessed at Zenodo (Ewing and Campbell-Thompson 2025).
+  OMAP-24 was developed using cyclic immunofluorescence (CyCIF) to detect 13 protein biomarkers in the human pancreas,
+  with a specific emphasis on pancreatic ganglia and nervous innervation. Human FFPE pancreas samples were fixed in 4%
+  paraformaldehyde (PFA) and processed according to the Human Pancreas Processing protocol (Chen et al. 2022). This
+  panel contributes spatial data for anatomical structures and cell types defined in the ASCT+B pancreas table v1.3
+  (Campbell-Thompson, Eskaros, and Saunders 2023), with a focus on nervous structures, an area not previously addressed
+  in earlier OMAPs. Images from sequential CyCIF staining rounds were aligned using nuclear markers DAPI (cycle 1) and
+  Hoechst S769121 (cycles 2 and 3). Antigen retrieval was performed at 95°C for 25 minutes in 1X AR9 solution using a
+  vegetable steamer. Detection involved a combination of OPAL TSA fluorophores and Alexa Fluor-conjugated secondary
+  antibodies. Primary antibodies requiring TSA amplification used various HRP polymer reagents from Vector Laboratories
+  and Akoya Biosciences. No antibody cycle sensitivity was observed during testing. OMAP-24 builds upon earlier
+  pancreas-focused panels (OMAP-6 and OMAP-13), but uniquely adds spatial mapping of pancreatic ganglia and nerve
+  innervation. This is the first OMAP to focus on the neuroanatomy of the pancreas, providing insights relevant to
+  pancreatic disorders such as type 1 diabetes. Glial, interstitial, and immune cells were not included in this version
+  due to limitations in antibody availability. The full staining protocol is available at Ewing et al. (2025), and a
+  sample dataset can be accessed at Zenodo (Ewing and Campbell-Thompson 2025).
 
   Bibliography:
 
-  Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2023. “Pancreas (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/asct-b/pancreas/v1.3/.
+  Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2023. “Pancreas (v1.3) Graph Data, v1.3.”
+  https://lod.humanatlas.io/asct-b/pancreas/v1.3/.
 
-  Chen, Jing, Edward J. Butfiloski, cxm, and Martha Campbell-Thompson. 2022. “Human Pancreas Processing.” https://www.protocols.io/view/human-pancreas-processing-b7gxrjxn.
+  Chen, Jing, Edward J. Butfiloski, cxm, and Martha Campbell-Thompson. 2022. “Human Pancreas Processing.”
+  https://www.protocols.io/view/human-pancreas-processing-b7gxrjxn.
 
-  Ewing, Samuel, and Martha Campbell-Thompson. 2025. “Pancreas Organ Mapping Antibody Panel (OMAP) Using CyCIF to Stain Pancreatic Ganglia.” Zenodo. https://zenodo.org/records/14867745.
+  Ewing, Samuel, and Martha Campbell-Thompson. 2025. “Pancreas Organ Mapping Antibody Panel (OMAP) Using CyCIF to Stain
+  Pancreatic Ganglia.” Zenodo. https://zenodo.org/records/14867745.
 
-  Ewing, Samuel, Hong Huang, Sydney Haselden, Lith Nasif, and Martha Campbell-Thompson. 2025. “Multiplex Immunofluorescence for Human Pancreatic Ganglia.” https://doi.org/10.17504/protocols.io.261ger4djl47/v1.
+  Ewing, Samuel, Hong Huang, Sydney Haselden, Lith Nasif, and Martha Campbell-Thompson. 2025. “Multiplex
+  Immunofluorescence for Human Pancreatic Ganglia.” https://doi.org/10.17504/protocols.io.261ger4djl47/v1.
 
-  Martinez Casals, Anna, and Frida Björklund. 2024. “6-Pancreas-Codex (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/omap/6-pancreas-codex/v1.3/.
+  Martinez Casals, Anna, and Frida Björklund. 2024. “6-Pancreas-Codex (v1.3) Graph Data, v1.3.”
+  https://lod.humanatlas.io/omap/6-pancreas-codex/v1.3/.
 
-  Saunders, Diane, and Conrad Reihsmann. 2024. “13-Pancreas-Codex (v1.1) Graph Data, v1.1.” https://lod.humanatlas.io/omap/13-pancreas-codex/v1.1/.
+  Saunders, Diane, and Conrad Reihsmann. 2024. “13-Pancreas-Codex (v1.1) Graph Data, v1.1.”
+  https://lod.humanatlas.io/omap/13-pancreas-codex/v1.1/.
 creators:
   - fullName: Samuel L.
     firstName: Samuel L.
@@ -58,8 +74,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -72,7 +87,8 @@ hubmapId: HBM344.JPPZ.497
 doi: https://doi.org/10.48539/HBM344.JPPZ.497
 citation: >-
   Ewing, Samuel L.,	and Martha Campbell-Thompson.	
-  2025.	"OMAP-24: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CyCIF, v1.0."	
+  2025.	"OMAP-24: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with
+  CyCIF, v1.0."	
   https://doi.org/10.48539/HBM344.JPPZ.497.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	

@@ -1,10 +1,14 @@
 title: 2D Acinus FTU for Pancreas
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to the acinus FTU in the ASCT+B Table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). Uberon describes this FTU as follows: "The secretory units of the exocrine pancreas, where fluid containing digestive enzymes is produced; consists of a group of secretory cells surrounding a luminal space that connects to the pancreatic duct." 
+  This functional tissue unit (FTU) illustration includes cell types related to the acinus FTU in the ASCT+B Table
+  [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). Uberon describes this FTU as follows: "The secretory units
+  of the exocrine pancreas, where fluid containing digestive enzymes is produced; consists of a group of secretory cells
+  surrounding a luminal space that connects to the pancreatic duct." 
 
   Bibliography:
 
-  Morgan, R. G., Schaeffer, B. K., Longnecker, D. S. (1986). Size and number of nuclei differ in normal and neoplastic acinar cells from rat pancreas. *Pancreas*, 1, 37–43.
+  Morgan, R. G., Schaeffer, B. K., Longnecker, D. S. (1986). Size and number of nuclei differ in normal and neoplastic
+  acinar cells from rat pancreas. *Pancreas*, 1, 37–43.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -21,10 +25,9 @@ reviewers:
     lastName: Campbell-Thompson
     orcid: 0000-0001-6878-1235
 externalReviewers: []
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -34,11 +37,11 @@ funders:
 hubmapId: HBM586.MNXV.276
 doi: https://doi.org/10.48539/HBM586.MNXV.276
 citation: >-
-  Bajema, Rachel. 2024. Pancreas, Acinus 2D FTU v.1.2.
-  https://doi.org/10.48539/HBM586.MNXV.276. Accessed on December 15, 2024.
+  Bajema, Rachel. 2024. Pancreas, Acinus 2D FTU v.1.2. https://doi.org/10.48539/HBM586.MNXV.276. Accessed on December
+  15, 2024.
 citationOverall: >-
-  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2024.
-  HuBMAP CCF 2D Reference Object Library https://humanatlas.io/2d-ftu-illustrations Accessed on December 15, 2024.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2024. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations Accessed on December 15, 2024.
 datatable:
   - 2d-ftu-pancreas-pancreatic-acinus.svg
   - 2d-ftu-pancreas-pancreatic-acinus.png

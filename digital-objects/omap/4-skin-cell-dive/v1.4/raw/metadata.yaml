@@ -1,20 +1,40 @@
 title: >-
-  OMAP-4  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Skin with Cell DIVE
+  OMAP-4  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE
 description: >-
-  OMAP-4 was designed for Cell DIVE multiplexed imaging of human formalin fixed paraffin embedded (FFPE) skin. Cell DIVE enables highly multiplexed single cell analysis using antibody-based imaging (Gerdes et al. 2013). The tissue slides were prepared with a two-step antigen retrieval process (pH 6 and pH 9) as described here: (McDonough et al. 2020). Antigens were detected using either primary antibodies with fluorophore-labeled secondaries or fluorescent dye conjugated antibodies. The protocol can be found here: (Pryhuber et al. 2022). The panel contains 18 antibodies and the nuclear marker DAPI for image registration and nuclear segmentation. This OMAP provides a spatial context for most anatomical structures and cell types present in the ASCT+B skin table, v1.1 (Ginty, Ho, and Sunshine 2021). Keratinocyte populations can be identified based on their spatial location, distinct morphology and, in the case of corneocytes, absence of nuclei. Additionally, the inclusion of protein biomarkers DDB2 and p53 allow profiling of skin damage and aging effects. This panel covers diverse cell types in the skin and will be further developed to include markers for dermal dendritic cells (DCs) such as Langerin and CD11c. This panel does not include markers targeting several immune cell subsets including Langerhans cells, mast cells, and gamma delta T cells. Representative datasets created using this OMAP are publicly available on the HuBMAP data portal (Quardokus et al. 2023). This revised v1.4 OMAP corrects CD3D to CD3E.
+  OMAP-4 was designed for Cell DIVE multiplexed imaging of human formalin fixed paraffin embedded (FFPE) skin. Cell DIVE
+  enables highly multiplexed single cell analysis using antibody-based imaging (Gerdes et al. 2013). The tissue slides
+  were prepared with a two-step antigen retrieval process (pH 6 and pH 9) as described here: (McDonough et al. 2020).
+  Antigens were detected using either primary antibodies with fluorophore-labeled secondaries or fluorescent dye
+  conjugated antibodies. The protocol can be found here: (Pryhuber et al. 2022). The panel contains 18 antibodies and
+  the nuclear marker DAPI for image registration and nuclear segmentation. This OMAP provides a spatial context for most
+  anatomical structures and cell types present in the ASCT+B skin table, v1.1 (Ginty, Ho, and Sunshine 2021).
+  Keratinocyte populations can be identified based on their spatial location, distinct morphology and, in the case of
+  corneocytes, absence of nuclei. Additionally, the inclusion of protein biomarkers DDB2 and p53 allow profiling of skin
+  damage and aging effects. This panel covers diverse cell types in the skin and will be further developed to include
+  markers for dermal dendritic cells (DCs) such as Langerin and CD11c. This panel does not include markers targeting
+  several immune cell subsets including Langerhans cells, mast cells, and gamma delta T cells. Representative datasets
+  created using this OMAP are publicly available on the HuBMAP data portal (Quardokus et al. 2023). This revised v1.4
+  OMAP corrects CD3D to CD3E.
 
   Bibliography:
 
-  Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can, et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.” *Proceedings of the National Academy of Sciences* 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
+  Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can,
+  et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.”
+  *Proceedings of the National Academy of Sciences* 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
 
-  Ginty, Fiona, Jonhan Ho, and Joel Sunshine. 2021. “Skin (v1.1) Graph Data, v1.1.” https://lod.humanatlas.io/asct-b/skin/v1.1/.
+  Ginty, Fiona, Jonhan Ho, and Joel Sunshine. 2021. “Skin (v1.1) Graph Data, v1.1.”
+  https://lod.humanatlas.io/asct-b/skin/v1.1/.
 
-  McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVETM Platform | Slide Clearing and Antigen Retrieval,” December. https://doi.org/10.17504/protocols.io.bpwumpew.
+  McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVETM Platform | Slide
+  Clearing and Antigen Retrieval,” December. https://doi.org/10.17504/protocols.io.bpwumpew.
 
-  Pryhuber, Gloria, gail.deutsch, Christine Surrette, Lisa Lowery, heidie_huyck, and Cory Poole. 2022. “HuBMAP | GE/URMC/SCH Cell DIVETM Modality Overview,” February. https://doi.org/10.17504/protocols.io.b4kgqutw.
+  Pryhuber, Gloria, gail.deutsch, Christine Surrette, Lisa Lowery, heidie_huyck, and Cory Poole. 2022. “HuBMAP |
+  GE/URMC/SCH Cell DIVETM Modality Overview,” February. https://doi.org/10.17504/protocols.io.b4kgqutw.
 
-  Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette, Presha Rajbhandari, et al. 2023. “Publication Page Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging.” *HuBMAP Data Portal*. July 19, 2023. https://portal.hubmapconsortium.org/browse/publication/e8338966c69e759157d6c6ad24847989.
+  Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette,
+  Presha Rajbhandari, et al. 2023. “Publication Page Organ Mapping Antibody Panels: A Community Resource for
+  Standardized Multiplexed Tissue Imaging.” *HuBMAP Data Portal*. July 19, 2023.
+  https://portal.hubmapconsortium.org/browse/publication/e8338966c69e759157d6c6ad24847989.
 creators:
   - fullName: Elizabeth McDonough
     firstName: Elizabeth
@@ -77,8 +97,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -95,7 +114,8 @@ hubmapId: HBM447.DQMQ.693
 doi: https://doi.org/10.48539/HBM447.DQMQ.693
 citation: >-
   McDonough, Liz,	Chrystal Chadwick,	and Fiona Ginty.	
-  2025.	"OMAP-4 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE, v1.4."	
+  2025.	"OMAP-4 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE,
+  v1.4."	
   https://doi.org/10.48539/HBM447.DQMQ.693.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	

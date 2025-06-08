@@ -1,14 +1,14 @@
 title: OBO Relations Ontology
 description: >-
-  The OBO Relations Ontology (RO) is a collection of OWL relations (ObjectProperties) intended for use across a wide variety of biological ontologies.
+  The OBO Relations Ontology (RO) is a collection of OWL relations (ObjectProperties) intended for use across a wide
+  variety of biological ontologies.
 creators:
   - fullName: Christopher Mungall
     firstName: Christopher
     lastName: Mungall
     orcid: 0000-0002-6601-2165
-creation_date: '2024-04-24'
+creation_date: "2024-04-24"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 datatable:
   - ro.owl

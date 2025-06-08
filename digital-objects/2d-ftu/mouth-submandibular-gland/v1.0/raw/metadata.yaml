@@ -1,12 +1,16 @@
 title: 2D Submandibular Gland Ducto-Acinar for Mouth
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to the submandibular gland ducto-acinar FTU in the ASCT+B Table [Mouth v1.0](link to table TBD). Uberon describes this FTU as follows: "Either of the paired compound tubuloalveolar (aka tubuloacinar) major salivary glands composed of both serous and mucous secretory cells and situated beneath the mandible."
+  This functional tissue unit (FTU) illustration includes cell types related to the submandibular gland ducto-acinar FTU
+  in the ASCT+B Table [Mouth v1.0](link to table TBD). Uberon describes this FTU as follows: "Either of the paired
+  compound tubuloalveolar (aka tubuloacinar) major salivary glands composed of both serous and mucous secretory cells
+  and situated beneath the mandible."
 
   Bibliography:
 
   Guyton, A., & Hall, J. (2006). *Textbook of medical physiology* (11th ed.). Philadelphia: Elsevier Saunders
 
-  Lalwani, A. (2011). *CURRENT Diagnosis & Treatment Otolaryngology--Head and Neck Surgery*, Third Edition (3rd ed.). Blacklick: McGraw-Hill Publishing.
+  Lalwani, A. (2011). *CURRENT Diagnosis & Treatment Otolaryngology--Head and Neck Surgery*, Third Edition (3rd ed.).
+  Blacklick: McGraw-Hill Publishing.
 
   Moore, K., Agur, A., & Dalley, A. *Clinically oriented anatomy*.
 
@@ -31,8 +35,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -42,11 +45,11 @@ funders:
 hubmapId: HBM632.XNRG.877
 doi: https://doi.org/10.48539/HBM632.XNRG.877
 citation: >-
-  Bajema, Rachel. 2024. Mouth, Submandibular Gland Ducto-Acinar 2D FTU v.1.0.
-  https://doi.org/10.48539/HBM632.XNRG.877. Accessed on June 15, 2025.
+  Bajema, Rachel. 2024. Mouth, Submandibular Gland Ducto-Acinar 2D FTU v.1.0. https://doi.org/10.48539/HBM632.XNRG.877.
+  Accessed on June 15, 2025.
 citationOverall: >-
-  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025.
-  HuBMAP CCF 2D Reference Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on June 15, 2025.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on June 15, 2025.
 datatable:
   - 2d-ftu-mouth-submandibular-gland.svg
   - 2d-ftu-mouth-submandibular-gland.png

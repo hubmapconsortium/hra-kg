@@ -1,5 +1,5 @@
 title: 2D Red Pulp Functional Tissue Unit (FTU) for Spleen
-description: ''
+description: ""
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -20,10 +20,9 @@ reviewers:
     lastName: Brusko
     orcid: 0000-0002-4331-2202
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: "2023-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -33,14 +32,11 @@ funders:
 hubmapId: HBM736.SGWK.646
 doi: https://doi.org/10.48539/HBM736.SGWK.646
 citation: >-
-  Rachel Bajema 2023. *2D Red Pulp Functional Tissue Unit (FTU) for Spleen
-  v1.1.* https://doi.org/10.48539/HBM736.SGWK.646. Accessed on December 15,
-  2023.
+  Rachel Bajema 2023. *2D Red Pulp Functional Tissue Unit (FTU) for Spleen v1.1.*
+  https://doi.org/10.48539/HBM736.SGWK.646. Accessed on December 15, 2023.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2023. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
-  15, 2023.
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2023. [*HuBMAP CCF 2D Reference
+  Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2023.
 datatable:
   - 2d-ftu-spleen-red-pulp.svg
   - 2d-ftu-spleen-red-pulp.png

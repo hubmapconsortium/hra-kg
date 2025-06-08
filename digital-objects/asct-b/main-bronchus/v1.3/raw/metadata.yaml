@@ -1,19 +1,40 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Main
-  Bronchus
-description: >- 
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested respiratory tract structure of anatomical human body parts, the typology of cells, and biomarkers used to identify respiratory tract cell types. The tables are authored and reviewed by an international team of experts. The current Main Bronchus ASCT+B table v1.0 was developed following the revisions of the Lung ASCT+B tables (v1.2–1.3), during which the Trachea and Main Bronchus were delineated into separate tables. The Main Bronchus table considers the anatomical and cellular composition of a exemplary extra-pulmonary bronchus, that is the airway between the trachea and the intrapulmonary bronchi. The gross anatomy of the bronchus was highly influenced by Gray's Anatomy The Anatomical Basis of Clinical Practice, the International Federation of Associations of Anatomists: Terminologia Anatomica (TA) and the LungMAP Anatomical Ontology. Goldfarbmuren et.al. (Nat Commun. 2020;11(1):2485. ) as primary reference for submucosal gland basal cell and myoepithelial cell markers. References are provided for the identification of each cell type in each histologic structure. Cell types were labeled up to the finest level of labeling available, and set to “None” if no cell type label was available at the level under consideration. Uberon and Cell Ontology entries used are as specific to lung and substructures as available. Where cells of similar type are distinguished by occurance in different locations, the closest and highest level of resolution available distinguishing markers is used. The table includes detailed anatomical structures of the extrapulmonary distal airway along with associated cell types like multiciliated epithelial cells, secretory cells, and structural cells. This comprehensive mapping supports research into pulmonary biology and related medical conditions.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Main Bronchus
+description: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested respiratory tract structure of anatomical human body parts, the typology of cells, and biomarkers used to
+  identify respiratory tract cell types. The tables are authored and reviewed by an international team of experts. The
+  current Main Bronchus ASCT+B table v1.0 was developed following the revisions of the Lung ASCT+B tables (v1.2–1.3),
+  during which the Trachea and Main Bronchus were delineated into separate tables. The Main Bronchus table considers the
+  anatomical and cellular composition of a exemplary extra-pulmonary bronchus, that is the airway between the trachea
+  and the intrapulmonary bronchi. The gross anatomy of the bronchus was highly influenced by Gray's Anatomy The
+  Anatomical Basis of Clinical Practice, the International Federation of Associations of Anatomists: Terminologia
+  Anatomica (TA) and the LungMAP Anatomical Ontology. Goldfarbmuren et.al. (Nat Commun. 2020;11(1):2485. ) as primary
+  reference for submucosal gland basal cell and myoepithelial cell markers. References are provided for the
+  identification of each cell type in each histologic structure. Cell types were labeled up to the finest level of
+  labeling available, and set to “None” if no cell type label was available at the level under consideration. Uberon and
+  Cell Ontology entries used are as specific to lung and substructures as available. Where cells of similar type are
+  distinguished by occurance in different locations, the closest and highest level of resolution available
+  distinguishing markers is used. The table includes detailed anatomical structures of the extrapulmonary distal airway
+  along with associated cell types like multiciliated epithelial cells, secretory cells, and structural cells. This
+  comprehensive mapping supports research into pulmonary biology and related medical conditions.
 
   Bibliography: 
-  
+
   Standring, Susan, ed. 2020. *Gray’s Anatomy: The Anatomical Basis of Clinical Practice*. 42nd ed. London: Elsevier.
 
-  IFAA and International Federation of Associations of Anatomists. 2025. “Anatomical Terminology (FIPAT) - IFAA.” June 15, 2025. https://ifaa.net/committees/anatomical-terminology-fipat/.
+  IFAA and International Federation of Associations of Anatomists. 2025. “Anatomical Terminology (FIPAT) - IFAA.” June
+  15, 2025. https://ifaa.net/committees/anatomical-terminology-fipat/.
       
-  Pan, Huaqin, Gail H. Deutsch, Susan E. Wert, Namasivayam Ambalavanan, Charles Ansong, Maryanne E. Ardini-Poleske, Jacqueline Bagwell, et al. 2019. “Comprehensive Anatomic Ontologies for Lung Development: A Comparison of Alveolar Formation and Maturation within Mouse and Human Lung.” *Journal of Biomedical Semantics* 10 (1): 18. https://doi.org/10.1186/s13326-019-0209-1.
-  
-  Goldfarbmuren, Katherine C., Nathan D. Jackson, Satria P. Sajuthi, Nathan Dyjack, Katie S. Li, Cydney L. Rios, Elizabeth G. Plender, et al. 2020. “Dissecting the Cellular Specificity of Smoking Effects and Reconstructing Lineages in the Human Airway Epithelium.” *Nature Communications* 11 (1): 2485. https://doi.org/10.1038/s41467-020-16239-z.
-  as primary reference for submucosal gland basal cell and myoepithelial cell markers.
+  Pan, Huaqin, Gail H. Deutsch, Susan E. Wert, Namasivayam Ambalavanan, Charles Ansong, Maryanne E. Ardini-Poleske,
+  Jacqueline Bagwell, et al. 2019. “Comprehensive Anatomic Ontologies for Lung Development: A Comparison of Alveolar
+  Formation and Maturation within Mouse and Human Lung.” *Journal of Biomedical Semantics* 10 (1): 18.
+  https://doi.org/10.1186/s13326-019-0209-1.
+
+  Goldfarbmuren, Katherine C., Nathan D. Jackson, Satria P. Sajuthi, Nathan Dyjack, Katie S. Li, Cydney L. Rios,
+  Elizabeth G. Plender, et al. 2020. “Dissecting the Cellular Specificity of Smoking Effects and Reconstructing Lineages
+  in the Human Airway Epithelium.” *Nature Communications* 11 (1): 2485. https://doi.org/10.1038/s41467-020-16239-z. as
+  primary reference for submucosal gland basal cell and myoepithelial cell markers.
 creators:
   - fullName: Gloria Pryhuber
     firstName: Gloria
@@ -40,8 +61,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -61,4 +81,4 @@ citationOverall: >-
 datatable:
   - asct-b-vh-main-bronchus.csv
 references:
-  -  https://doi.org/10.1186/s13326-019-0209-1
+  - https://doi.org/10.1186/s13326-019-0209-1

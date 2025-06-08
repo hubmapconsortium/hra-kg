@@ -1,19 +1,13 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Spinal
-  Cord
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Spinal Cord
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.The Spinal Cord v1.0  table focuses on
-  lumbar spinal cord cell types from  [Yadav et al., “A Cellular Taxonomy of the
-  Adult Human Spinal Cord.”):
-  328-344.e7.](https://doi.org/10.1016/j.neuron.2023.01.00) with a companion
-  [Human Spinal Cord snRNAseq
-  Viewer](https://vmenon.shinyapps.io/humanspinalcord/) which presents a
-  cellular taxonomy of the adult human spinal cord using single-nucleus RNA
-  sequencing with spatial transcriptomics and antibody validation.
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to
+  capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to
+  identify cell types. The tables are authored and reviewed by an international team of experts.The Spinal Cord
+  v1.0  table focuses on lumbar spinal cord cell types from  [Yadav et al., “A Cellular Taxonomy of the Adult Human
+  Spinal Cord.”): 328-344.e7.](https://doi.org/10.1016/j.neuron.2023.01.00) with a companion [Human Spinal Cord snRNAseq
+  Viewer](https://vmenon.shinyapps.io/humanspinalcord/) which presents a cellular taxonomy of the adult human spinal
+  cord using single-nucleus RNA sequencing with spatial transcriptomics and antibody validation.
 creators:
   - fullName: Vilas Menon
     firstName: Vilas
@@ -30,10 +24,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2023-06-15'
+creation_date: "2023-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -44,8 +37,7 @@ citation: >-
   Vilas Menon, HuBMAP ASCT+B Tables. Spinal Cord v1.0
   [https://doi.org/10.48539/HBM869.WZFK.485](https://doi.org/10.48539/HBM869.WZFK.485)
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2023.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B
+  Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023.
 datatable:
   - asct-b-vh-spinal-cord.csv

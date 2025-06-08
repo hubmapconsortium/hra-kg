@@ -1,10 +1,16 @@
 title: HRA landmark linkml schema
 description: >-
-	This schema defines a data model for anatomical landmarks and spatial entities within a reference coordinate system, capturing the precise spatial positioning and relationships of anatomical structures. It specifies how spatial entities (organs, tissues, cells) are positioned through spatial placements that include scaling, rotation, and translation parameters, along with extraction sets that define curated collections of anatomical features. This schema is described in detail in the HRA KG paper.
+  This schema defines a data model for anatomical landmarks and spatial entities within a reference coordinate system,
+  capturing the precise spatial positioning and relationships of anatomical structures. It specifies how spatial
+  entities (organs, tissues, cells) are positioned through spatial placements that include scaling, rotation, and
+  translation parameters, along with extraction sets that define curated collections of anatomical features. This schema
+  is described in detail in the HRA KG paper.
 
-	Bibliography:
+  Bibliography:
 
-	Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
+  Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025.
+  “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.
+  https://doi.org/10.1101/2024.12.22.630006.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -24,10 +30,9 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

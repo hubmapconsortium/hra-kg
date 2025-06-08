@@ -1,10 +1,22 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Uterus
 description: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested uterus structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Uterus ASCT+B table provides a comprehensive mapping of the anatomical structures, cell types, and biomarkers specific to the human uterus. This table includes detailed hierarchical relationships among uterine anatomical structures, associated cell types, and their corresponding biomarkers. It serves as a valuable resource for understanding the cellular composition and molecular characteristics of the uterus within the human reference atlas. A description of this Uterus ASCT+B table can be found in ""Anatomical Structures, Cell Types, and Biomarkers Tables Plus 3D Reference Organs in Support of a Human Reference Atlas"" by Börner et al. 2021. The database and code used to generate the more simplified view of the Uterus in these ASCT+B tables may be found here: (https://github.com/hubmapconsortium/hra-vccf).                                                                                                                                                                                                                                 
-  
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested uterus structure of anatomical human body parts, the typology of cells, and biomarkers used to identify
+  cell types. The tables are authored and reviewed by an international team of experts. The Uterus ASCT+B table provides
+  a comprehensive mapping of the anatomical structures, cell types, and biomarkers specific to the human uterus. This
+  table includes detailed hierarchical relationships among uterine anatomical structures, associated cell types, and
+  their corresponding biomarkers. It serves as a valuable resource for understanding the cellular composition and
+  molecular characteristics of the uterus within the human reference atlas. A description of this Uterus ASCT+B table
+  can be found in ""Anatomical Structures, Cell Types, and Biomarkers Tables Plus 3D Reference Organs in Support of a
+  Human Reference Atlas"" by Börner et al. 2021. The database and code used to generate the more simplified view of the
+  Uterus in these ASCT+B tables may be found here:
+  (https://github.com/hubmapconsortium/hra-vccf).                                                                                                                                                                                                                                 
+
   Bibliography:                                                                                                                                                             
-  
-  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” *Nature Cell Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
+
+  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W.
+  Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” *Nature Cell
+  Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
 creators:
   - fullName: Kathleen O'Neill
     firstName: Kathleen
@@ -27,8 +39,7 @@ externalReviewers:
     orcid: 0000-0003-0902-9531
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

@@ -1,14 +1,21 @@
-title: Ccell type annotations for CellTypist 
+title: Ccell type annotations for CellTypist
 description: >-
-  This crosswalk maps the cell type annotations from CellTypist (Xu et al. 2023; Domínguez Conde et al. 2022) to the Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl. More information on CellTypist is available at https://www.celltypist.org/.
+  This crosswalk maps the cell type annotations from CellTypist (Xu et al. 2023; Domínguez Conde et al. 2022) to the
+  Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl. More information on
+  CellTypist is available at https://www.celltypist.org/.
 
-  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
+  available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
 
   Bibliography:
 
-  Domínguez Conde, C., C. Xu, L. B. Jarvis, D. B. Rainbow, S. B. Wells, T. Gomes, S. K. Howlett, et al. 2022. “Cross-Tissue Immune Cell Analysis Reveals Tissue-Specific Features in Humans.” *Science* 376 (6594): eabl5197. https://doi.org/10.1126/science.abl5197.
+  Domínguez Conde, C., C. Xu, L. B. Jarvis, D. B. Rainbow, S. B. Wells, T. Gomes, S. K. Howlett, et al. 2022.
+  “Cross-Tissue Immune Cell Analysis Reveals Tissue-Specific Features in Humans.” *Science* 376 (6594): eabl5197.
+  https://doi.org/10.1126/science.abl5197.
 
-  Xu, Chuan, Martin Prete, Simone Webb, Laura Jardine, Benjamin J. Stewart, Regina Hoo, Peng He, Kerstin B. Meyer, and Sarah A. Teichmann. 2023. “Automatic Cell-Type Harmonization and Integration across Human Cell Atlas Datasets.” *Cell* 186 (26): 5876-5891.e20. https://doi.org/10.1016/j.cell.2023.11.026.
+  Xu, Chuan, Martin Prete, Simone Webb, Laura Jardine, Benjamin J. Stewart, Regina Hoo, Peng He, Kerstin B. Meyer, and
+  Sarah A. Teichmann. 2023. “Automatic Cell-Type Harmonization and Integration across Human Cell Atlas Datasets.” *Cell*
+  186 (26): 5876-5891.e20. https://doi.org/10.1016/j.cell.2023.11.026.
 creators:
   - fullName: Ellen M. Quardokus
     firstName: Ellen
@@ -29,10 +36,9 @@ reviewers:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 externalReviewers: []
-creation_date: '2025-06-15'
+creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

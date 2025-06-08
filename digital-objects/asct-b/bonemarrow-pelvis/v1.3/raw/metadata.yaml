@@ -1,11 +1,12 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Bone
-  Marrow/Pelvis
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Bone Marrow/Pelvis
 description: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested bonemarrow-pelvis structure of anatomical human body parts, 
-  the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The bone marrow table reflects sampling from the 
-  iliac crest of the ilium bone within the bony pelvis. 
-  Minor updates in version 1.4 ensured that all cell types were mapped to the Cell Ontology (CL), and genes and proteins were linked to the Human Gene Nomenclature Committee (HGNC) identifiers.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested bonemarrow-pelvis structure of anatomical human body parts,  the typology of cells, and biomarkers used to
+  identify cell types. The tables are authored and reviewed by an international team of experts. The bone marrow table
+  reflects sampling from the  iliac crest of the ilium bone within the bony pelvis.  Minor updates in version 1.4
+  ensured that all cell types were mapped to the Cell Ontology (CL), and genes and proteins were linked to the Human
+  Gene Nomenclature Committee (HGNC) identifiers.
 creators:
   - fullName: Muzlifah A. Haniffa
     firstName: Muzlifah
@@ -46,10 +47,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2021-12-15'
+creation_date: "2021-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

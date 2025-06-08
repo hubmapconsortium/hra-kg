@@ -1,6 +1,13 @@
 title: 3D Extraction Sites for Heart Female
 description: >-
-  Extraction sites for heart, female were initially created in collaboration with subject matter experts (SMEs), who provided approximate anatomical guidance regarding typical tissue removal locations. During the early phase of modeling, these regions were represented using rectangular prism shapes—box-like forms customized for each site—which were subtracted from the heart mesh using boolean operations to simulate excision. This boolean-based approach was applied only to a limited number of initial examples, as it proved to be complex, time-intensive, and challenging to maintain through model updates. Consequently, the methodology shifted toward using visual indicators to mark extraction sites rather than physically altering the mesh. Some of these visual markers were placed directly by SMEs within Blender, while others were positioned based on SME-provided descriptions.
+  Extraction sites for heart, female were initially created in collaboration with subject matter experts (SMEs), who
+  provided approximate anatomical guidance regarding typical tissue removal locations. During the early phase of
+  modeling, these regions were represented using rectangular prism shapes—box-like forms customized for each site—which
+  were subtracted from the heart mesh using boolean operations to simulate excision. This boolean-based approach was
+  applied only to a limited number of initial examples, as it proved to be complex, time-intensive, and challenging to
+  maintain through model updates. Consequently, the methodology shifted toward using visual indicators to mark
+  extraction sites rather than physically altering the mesh. Some of these visual markers were placed directly by SMEs
+  within Blender, while others were positioned based on SME-provided descriptions.
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce
@@ -12,8 +19,7 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

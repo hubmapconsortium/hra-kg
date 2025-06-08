@@ -1,6 +1,11 @@
 title: 3D Landmarks for Fallopian Tube Female Right
 description: >-
-  Anatomical landmarks for fallopian tube, female, right were derived from the Visible Human dataset, which provided imaging of the tubes and adjacent anatomical structures, including the ovaries. Discrepancies between the original dataset and the modified surrounding anatomy—some of which were based on non-Visible Human sources—necessitated manual adjustments to the position and orientation of the fallopian tube to ensure anatomical coherence within the larger model. Regions such as the fimbriae were not clearly visualized in the original imaging. As a result, these components were interpolated or reconstructed based on anatomical references and inferred morphology.
+  Anatomical landmarks for fallopian tube, female, right were derived from the Visible Human dataset, which provided
+  imaging of the tubes and adjacent anatomical structures, including the ovaries. Discrepancies between the original
+  dataset and the modified surrounding anatomy—some of which were based on non-Visible Human sources—necessitated manual
+  adjustments to the position and orientation of the fallopian tube to ensure anatomical coherence within the larger
+  model. Regions such as the fimbriae were not clearly visualized in the original imaging. As a result, these components
+  were interpolated or reconstructed based on anatomical references and inferred morphology.
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce
@@ -12,8 +17,7 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
