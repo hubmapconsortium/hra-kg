@@ -65,5 +65,6 @@ citationOverall: >-
   Boppana, Avinash,	Sujin Lee,	Rajeev Malhotra,	Marc Halushka,	Katherine S. Gustilo,	
   Ellen M. Quardokus,	Bruce W. Herr II,	Katy Börner,	and Griffin M. Weber.	
   2023.	"Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature."	
-  *Scientific Data*	10 (1):	452.	https://doi.org/10.1038/s41597-023-02018-0.	Accessed June 15, 2025. datatable: -
-  blood-vasculature-organ-crosswalk.csv
+  *Scientific Data*	10 (1):	452.	https://doi.org/10.1038/s41597-023-02018-0.	Accessed June 15, 2025.
+datatable:
+  - blood-vasculature-organ-crosswalk.csv
