@@ -1,5 +1,5 @@
 title: Crosswalk of CellTypist annotated cells to Cell Ontology
-description: >-
+description: |-
   This crosswalk maps the cell type annotations from CellTypist https://doi.org/10.1126/science.abl5197 to the latest
   revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2024-05-15/cl.owl in which many new
   cell types have been added since the original cell type annotations were mapped.

@@ -1,5 +1,5 @@
 title: A collection of public dataset graphs for the HRA
-description: >-
+description: |-
   Collections group multiple Human Reference Atlas (HRA) Digital Objects (DOs) for use in specific applications. The
   ds-graphs collection consolidates experiment-result datasets (ds-graph) into a single graph data structure. It
   contains processed graphs of datasets including donor and sample metadata from different consortia and tissue

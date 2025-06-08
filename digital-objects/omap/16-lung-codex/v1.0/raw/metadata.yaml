@@ -1,6 +1,6 @@
 title: >-
   OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with CODEX
-description: >-
+description: |-
   OMAP-16 was designed for Multiplexed Immunofluorescent (MxIF) imaging of human FFPE lung sections utilizing Akoya’s
   Phenocycler-Fusion platform as described dx.doi.org/10.17504/protocols.io.6qpvr38dpvmk/v2. The panel contains
   34-antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. OMAP-16 provides spatial

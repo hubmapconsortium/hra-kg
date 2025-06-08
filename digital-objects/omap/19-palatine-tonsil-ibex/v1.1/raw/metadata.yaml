@@ -1,6 +1,6 @@
 title: >-
   OMAP-19: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Palatine Tonsil with IBEX
-description: >-
+description: |-
   OMAP-19 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of human FFPE tonsil tissue sections
   on glass slides (Radtke et al. 2022). The panel comprises 6 imaging cycles with 20 primary antibodies, 5 secondary
   antibodies, and the nuclear label Hoechst for image registration and segmentation. It provides spatial mapping for 10

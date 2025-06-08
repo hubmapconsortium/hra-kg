@@ -1,5 +1,5 @@
 title: 3D Reference Organ for Kidney, Male, Right
-description: >-
+description: |-
   [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male,
   provided by the National Library of Medicine. Changes include removing the renal calyces and renal papillae and adding
   them to the ureter model per subject matter expert input.

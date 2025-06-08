@@ -1,5 +1,5 @@
 title: cell type annotations for Robust Image-Based Cell Annotator (RIBCA)
-description: >-
+description: |-
   This crosswalk maps the cell type annotations from Robust Image-Based Cell Annotator (RIBCA) (Sun et al., 2024) to the
   latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl
 

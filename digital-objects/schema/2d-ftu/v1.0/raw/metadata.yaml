@@ -1,5 +1,5 @@
 title: HRA 2d-ftu linkml schema
-description: >-
+description: |-
   This schema defines a data model for 2D Functional Tissue Unit (FTU) illustrations that visually represents the
   cellular organization within organ tissues. It captures illustration images with annotated nodes that highlight and
   label specific cell types within their anatomical context, linking visual representations to standardized anatomical

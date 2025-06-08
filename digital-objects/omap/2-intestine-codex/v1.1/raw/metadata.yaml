@@ -1,6 +1,6 @@
 title: >-
   OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX
-description: >-
+description: |-
   OMAP-2 was designed for CODEX (CO Detection by IndEXing) imaging of fresh frozen human intestine
   (https://doi.org/10.1038/s41596-021-00556-8, https://doi.org/10.1002/eji.202048891). The panel contains 54 antibodies
   and the nuclear marker Hoechst for image alignment and nuclear segmentation. This panel provides spatial context for

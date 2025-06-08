@@ -1,6 +1,6 @@
 title: >-
   OMAP-1 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX
-description: >-
+description: |-
   OMAP-1 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human lymph nodes
   (https://doi.org/10.1038/s41596-021-00644-9; https://doi.org/10.1073/pnas.2018488117). The panel contains 39
   antibodies and the nuclear marker Hoechst 33342 for image alignment and nuclear segmentation. his OMAP provides a

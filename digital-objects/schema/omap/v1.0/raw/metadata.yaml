@@ -1,5 +1,5 @@
 title: HRA omap linkml schema
-description: >-
+description: |-
   This schema defines a data model for the Organ Mapping Antibody Panel (OMAP) system, which standardizes the
   representation of antibodies used in multiplexed antibody-based imaging experiments. The schema captures detailed
   information about antibodies (including their properties, target proteins, and experimental usage), experimental

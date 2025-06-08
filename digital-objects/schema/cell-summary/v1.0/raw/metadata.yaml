@@ -1,5 +1,5 @@
 title: HRA cell-summary linkml schema
-description: >-
+description: |-
   This schema defines a data model for cell-type analysis summaries that aggregates cellular composition and gene
   expression data from experimental datasets. It captures cell summaries with annotation methods, modality information,
   and detailed breakdowns of cell types with their counts, percentages, and associated gene expression profiles. This

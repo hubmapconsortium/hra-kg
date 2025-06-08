@@ -1,5 +1,5 @@
 title: SenNet Dataset Graph
-description: >-
+description: |-
   This ds-graph represents the information for tissue blocks registered (Börner et al. 2022) for the Cellular Senescence
   Network (SenNet) (SenNet Consortium et al. 2022). It provides sample registration information submitted by consortium
   members in single-cell atlassing efforts, including accurate sample sizes and positions (Bueckle et al. 2025). When

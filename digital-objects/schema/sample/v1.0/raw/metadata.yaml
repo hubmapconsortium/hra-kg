@@ -1,5 +1,5 @@
 title: HRA sample linkml schema
-description: >-
+description: |-
   This schema defines a data model for biological sample management that tracks the hierarchical relationship between
   tissue blocks and their derived tissue sections. It captures tissue blocks as extracted pieces of tissue with spatial
   registration information, section counts, and physical measurements, while tissue sections represent thin slices

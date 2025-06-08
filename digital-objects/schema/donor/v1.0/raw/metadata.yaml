@@ -1,5 +1,5 @@
 title: HRA donor linkml schema
-description: >-
+description: |-
   This schema defines a data model for donor information that captures essential demographic and organizational metadata
   about individuals who provide biological samples for research. It records standardized demographic data including age,
   BMI, biological sex, and race using controlled vocabularies (LOINC codes), along with institutional metadata

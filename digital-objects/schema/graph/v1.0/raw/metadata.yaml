@@ -1,5 +1,5 @@
 title: HRA graph linkml schema
-description: >-
+description: |-
   This schema defines a minimal data model for graph-based data structures, providing a standardized container with
   metadata but without specifying the actual graph content format. It serves as a flexible framework for publishing
   various types of graph data (knowledge graphs, network data, relationship structures) while ensuring consistent

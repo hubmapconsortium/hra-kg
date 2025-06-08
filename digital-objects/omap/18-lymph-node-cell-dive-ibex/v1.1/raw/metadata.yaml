@@ -1,7 +1,7 @@
 title: >-
   OMAP-18: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of human lymph node with Cell
   DIVE-IBEX
-description: >-
+description: |-
   OMAP-18 was developed for Cell DIVE imaging of human FFPE lymph node tissue using the IBEX dye inactivation protocol
   (Gerdes et al. 2013; Radtke et al. 2020; 2022). This combined approach, termed Cell DIVE-IBEX, uses fluorophores
   compatible with IBEX to enable complete signal elimination between cycles without tissue loss. The panel includes 3

@@ -1,5 +1,5 @@
 title: Common Coordinate Framework Base Vocabulary
-description: >-
+description: |-
   Base vocabulary for Human Reference Atlas construction and usage which makes it possible to ingest external data
   sources; support uniform tissue sample registration that includes the spatial positioning and semantic annotations
   within 3D reference organs; and user-formulated cross-domain queries over tissue donor properties, anatomical

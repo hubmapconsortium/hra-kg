@@ -1,5 +1,5 @@
 title: Human Reference Atlas OLS Collection
-description: >-
+description: |-
   Collections group multiple Human Reference Atlas (HRA) Digital Objects (DOs) for use in specific applications. The
   hra-ols collection is a subset that focuses solely on Anatomical Structures (AS), Cell Types (CTs), and Biomarkers
   (Bs)—i.e., the asct-b DOs. It is used by the Ontology Lookup Service (OLS, https://www.ebi.ac.uk/ols4) for validation

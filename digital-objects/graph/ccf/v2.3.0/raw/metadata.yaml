@@ -1,5 +1,5 @@
 title: CCF.OWL
-description: >-
+description: |-
   graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph
   data that are useful for Human Reference Atlas use cases. This graph curates the Common Coordinate Framework (CCF) Web
   Ontology Language (OWL, https://www.w3.org/OWL), or ccf.owl (Herr II et al. 2023).  It is the precursor to Human

@@ -1,5 +1,5 @@
 title: Human Reference Atlas API Collection
-description: >-
+description: |-
   Collections group multiple Human Reference Atlas (HRA) Digital Objects (DOs) for use in specific applications. The
   hra-api centers on asct-b and associated 3D models (ref-organ, landmark) used in various HRA applications for
   visualizing and organizing reference data.

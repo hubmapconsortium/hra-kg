@@ -1,5 +1,5 @@
 title: HuBMAP Dataset Graph
-description: >-
+description: |-
   This ds-graph represents the information for tissue blocks registered (Börner et al. 2022) for the Human BioMolecular
   Atlas Program (HuBMAP) (Jain et al. 2023; HuBMAP Consortium 2019). It provides sample registration information
   submitted by consortium members in single-cell atlassing efforts, including accurate sample sizes and positions

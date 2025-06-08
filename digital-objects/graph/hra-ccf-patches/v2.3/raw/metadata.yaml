@@ -1,5 +1,5 @@
 title: 3D Reference Organ for Human Male and Female Bodies
-description: >-
+description: |-
   Graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph
   data that are useful for Human Reference Atlas use cases. This graph curates placements (patches) to convert old 3D
   Reference Object registrations to newer versions for reference organs (Spitzer et al. 1996; Ackerman 1998) that had a

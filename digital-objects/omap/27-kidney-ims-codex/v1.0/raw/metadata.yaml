@@ -1,6 +1,6 @@
 title: >-
   OMAP-27: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging of Human Kidney with CODEX
-description: >-
+description: |-
   OMAP-27 was designed for CO-Detection by indEXing (CODEX) imaging of fresh frozen human kidney samples with the goal
   of profiling cell types and cell states (Neumann et al. 2021). The panel contains 46 antibodies and the DAPI nuclear
   marker for image registration. This OMAP captures spatial context for all functional tissue units (FTUs) of the

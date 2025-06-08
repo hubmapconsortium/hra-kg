@@ -1,5 +1,5 @@
 title: HRA hra-pop-metadata linkml schema
-description: >-
+description: |-
   This schema defines a metadata model specifically for HRApop datasets with provenance tracking capabilities. It
   captures essential publication metadata including creators, versioning, licensing, and distribution information. The
   schema is in full compliance with DCAT (Data Catalog Vocabulary) standards and provenance tracking through PROV-O

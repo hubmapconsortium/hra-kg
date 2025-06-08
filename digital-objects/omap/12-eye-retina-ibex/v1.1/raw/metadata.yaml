@@ -1,6 +1,6 @@
 title: >-
   OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX
-description: >-
+description: |-
   OMAP-12 was designed for IBEX imaging of fixed frozen human retina samples
   (https://doi.org/10.1038/s41596-021-00644-9; https://doi.org/10.1073/pnas.2018488117). The panel contains 14
   antibodies, 3 lectins, and DAPI for image alignment and nuclear segmentation. The OMAP provides a spatial context for

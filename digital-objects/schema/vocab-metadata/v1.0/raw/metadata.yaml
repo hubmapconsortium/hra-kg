@@ -1,5 +1,5 @@
 title: HRA vocab-metadata linkml schema
-description: >-
+description: |-
   This schema defines a metadata model specifically for vocabulary or terminology resources with provenance tracking
   capabilities. It captures essential publication metadata including creators, versioning, licensing, and distribution
   information. The schema is in full compliance with DCAT (Data Catalog Vocabulary) standards and provenance tracking

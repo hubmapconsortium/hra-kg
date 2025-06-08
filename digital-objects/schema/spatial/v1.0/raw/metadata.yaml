@@ -1,5 +1,5 @@
 title: HRA spatial linkml schema
-description: >-
+description: |-
   This schema defines a spatial data model for three-dimensional positioning and orientation of anatomical entities
   within coordinate systems used in digital anatomy atlases. It captures spatial entities with precise dimensional
   measurements, scaling, rotation, and translation parameters, along with spatial placements that define how entities

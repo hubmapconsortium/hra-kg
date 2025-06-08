@@ -1,5 +1,5 @@
 title: 3D Landmarks for Large Intestine Male
-description: >-
+description: |-
   Anatomical landmarks for large intestine, male were derived primarily from colonoscopy-based data provided by a
   subject matter expert (SME). While this dataset captured the general morphology and layout of the colon, it could not
   be directly aligned with the surrounding anatomy of the Visible Human Male dataset. The original colon from the

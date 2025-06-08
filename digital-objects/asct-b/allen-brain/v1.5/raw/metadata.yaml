@@ -1,5 +1,5 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Brain
-description: >-
+description: |-
   [Brain v1.5](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-allen-brain.csv) is a minor update of the table
   that provides parent cell type mappings to Cell Ontology for the specific cell types that were added to [Brain
   v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-allen-brain.csv), but do not yet have Cell Ontology

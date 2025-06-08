@@ -1,5 +1,5 @@
 title: HRA vocab linkml schema
-description: >-
+description: |-
   This schema defines a minimal data model for vocabulary or terminology resources, providing a standardized container
   structure with metadata but without specifying the actual vocabulary content format. It serves as a flexible framework
   for publishing controlled vocabularies, terminologies, or ontologies while ensuring consistent metadata documentation

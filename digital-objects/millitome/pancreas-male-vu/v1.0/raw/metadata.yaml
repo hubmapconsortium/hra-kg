@@ -1,5 +1,5 @@
 title: Millitome for VU Pancreas, Male
-description: >-
+description: |-
   A millitome is a device used to hold and slice organs into a grid of equally sized tissue blocks.  It has an
   associated digital data package that includes an STL file and a spreadsheet for assigning spatial locations to tissue
   block IDs and gathering metadata with information about the size, dimensions,  donor sex, and laterality of the

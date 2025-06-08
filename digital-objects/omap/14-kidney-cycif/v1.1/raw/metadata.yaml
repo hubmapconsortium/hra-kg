@@ -1,6 +1,6 @@
 title: >-
   OMAP-14: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CyCIF
-description: >-
+description: |-
   OMAP-14 was developed for CyCIF (Cyclic Immunofluorescence) imaging of unfixed frozen human kidney tissue (Brewer et
   al. 2023). The panel includes 17 antibodies, one lectin (LTL), and Hoechst 33342 for nuclear segmentation and image
   alignment. This OMAP enables spatial mapping of key anatomical structures and cell types in healthy kidney tissue,

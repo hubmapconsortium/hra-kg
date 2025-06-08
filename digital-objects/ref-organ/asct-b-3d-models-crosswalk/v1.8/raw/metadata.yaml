@@ -1,6 +1,6 @@
 title: >-
   Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk
-description: >-
+description: |-
   This lookup table associates anatomical structure terms used in the 3D Reference Object Library
   (https://humanatlas.io/3d-reference-library) to Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table
   (https://humanatlas.io/asctb-tables) (Börner et al. 2021) via ontology IDs from Uberon (Mungall et al. 2012) and

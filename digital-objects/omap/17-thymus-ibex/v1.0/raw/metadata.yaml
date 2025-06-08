@@ -1,6 +1,6 @@
 title: >-
   OMAP-17: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Thymus with IBEX
-description: >-
+description: |-
   OMAP-17 was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human pediatric
   thymus samples (https://doi.org/10.1038/s41596-921-00644-9; https://doi.org/10.1073/pnas.2018488117). The panel
   consists of 9 cycles of 43 primary antibodies, 6 secondary antibodies, and the nuclear label Hoechst for image

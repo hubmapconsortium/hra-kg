@@ -1,5 +1,5 @@
 title: HRA ref-organ linkml schema
-description: >-
+description: |-
   This schema defines the structure for representing 3D reference organs and their spatial entities within the Human
   Reference Atlas project. It models anatomical structures as spatial entities with dimensional properties, placement
   information, and relationships to extraction sets for data analysis. The schema supports the representation of organ

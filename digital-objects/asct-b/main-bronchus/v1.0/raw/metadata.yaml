@@ -1,6 +1,6 @@
 title: >-
   Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Main Bronchus
-description: >-
+description: |-
   With revision of the Lung v1.2-1.3 revisions, the Trachea and the Main Bronchus were split out into separate ASCT+B
   tables as v1.0.  With the excellent assistance of Joshua Fortriede, Ellen Quardokus and Aleix Puig Barbe (EBI), Uberon
   and Cell Ontology were updated, terms added or revised where needed, AS-AS, AS-CT, CT-CT relationships corrected and

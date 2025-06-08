@@ -1,6 +1,6 @@
 title: >-
   OMAP-11: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Spleen with IBEX
-description: >-
+description: |-
   OMAP-11 was designed for IBEX imaging of fixed frozen human spleen samples
   (https://doi.org/10.1038/s41596-021-00644-9; https://doi.org/10.1073/pnas.2018488117). The panel contains 24 primary
   antibodies, 2 secondary antibodies, and Hoechst for image alignment and nuclear segmentation. This OMAP provides a

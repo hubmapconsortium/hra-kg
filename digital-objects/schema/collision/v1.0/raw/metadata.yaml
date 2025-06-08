@@ -1,5 +1,5 @@
 title: HRA collision linkml schema
-description: >-
+description: |-
   This schema defines a data model for spatial collision detection and analysis between anatomical structures and other
   spatial entities within 3D coordinate systems. It captures collision summaries that document detection methods and
   detailed collision items, recording spatial overlaps with volume measurements and percentage calculations. This schema

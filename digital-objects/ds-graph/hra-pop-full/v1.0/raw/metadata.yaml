@@ -1,5 +1,5 @@
 title: HRApop Full Dataset Graph
-description: >-
+description: |-
   This ds-graph represents this information for the Human Reference Atlas Cell Type Populations Effort (Börner et al.
   2025). It provides sample registration information submitted by consortium members in single-cell atlassing efforts,
   including accurate sample sizes and positions (Bueckle et al. 2025). When combined with ref-organ data, this
