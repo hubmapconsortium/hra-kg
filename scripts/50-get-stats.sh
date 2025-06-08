@@ -3,12 +3,32 @@ source constants.sh
 shopt -s extglob
 set -ev
 
-TEMP_JNL='dist/ALL-blazegraph.jnl'
-rm -f $TEMP_JNL
+JNL='dist/ALL-blazegraph.jnl'
+rm -f $JNL
 
-do-processor create-db --include-all-versions --journal $TEMP_JNL
-blazegraph-runner --journal=$TEMP_JNL select src/nodes.rq scratch/ALL-nodes.tsv
-blazegraph-runner --journal=$TEMP_JNL select src/edge-count.rq scratch/edge-count.tsv
+# Load the catalog
+blazegraph-runner --journal=$JNL load --graph=https://purl.humanatlas.io dist/catalog.ttl
+blazegraph-runner --journal=$JNL load --graph=https://lod.humanatlas.io dist/catalog.ttl
+
+# Load each digital object into a named graph (and redundant if available)
+for obj in $(do-processor list); do
+  TTL=dist/${obj}/graph.ttl
+  if [ -e $TTL ]; then
+    GRAPH="https://purl.humanatlas.io/${obj}"
+    blazegraph-runner --journal=$JNL load --graph=$GRAPH $TTL
+  fi
+
+  REDUNDANT=dist/${obj}/redundant.ttl
+  if [ -e $REDUNDANT ]; then
+    GRAPH="https://purl.humanatlas.io/${obj}/redundant"
+    blazegraph-runner --journal=$JNL load --graph=$GRAPH $REDUNDANT
+  fi
+done
+
+#do-processor create-db --include-all-versions --journal $JNL
+
+blazegraph-runner --journal=$JNL select src/nodes.rq scratch/ALL-nodes.tsv
+blazegraph-runner --journal=$JNL select src/edge-count.rq scratch/edge-count.tsv
 
 NODES=`tail -n +2 scratch/ALL-nodes.tsv | sort -u -S 75% | wc -l`
 echo nodes $NODES
