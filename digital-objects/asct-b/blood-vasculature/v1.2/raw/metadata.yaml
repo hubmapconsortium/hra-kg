@@ -1,13 +1,17 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood Vasculature
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood
+  Vasculature
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to
-  capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to
-  identify cell types. The tables are authored and reviewed by an international team of experts. A more extensive
-  description of this work may be found in the pre-print of "Anatomical structures, cell types, and biomarkers of the
-  healthy human blood vasculature" by [(Boppana et al.
-  2022)](http://biorxiv.org/content/early/2022/03/01/2022.02.28.482302.abstract). The database and code used to generate
-  the more simplified view of the blood vasculature in these ASCT+B tables may be found
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts. A more extensive description of this work
+  may be found in the pre-print of "Anatomical structures, cell types, and
+  biomarkers of the healthy human blood vasculature" by [(Boppana et al.
+  2022)](http://biorxiv.org/content/early/2022/03/01/2022.02.28.482302.abstract).
+  The database and code used to generate the more simplified view of the blood
+  vasculature in these ASCT+B tables may be found
   [here](https://github.com/hubmapconsortium/hra-vccf).
 creators:
   - fullName: Griffin Weber
@@ -37,9 +41,10 @@ reviewers:
     lastName: Boppana
     orcid: 0000-0003-0834-8274
 externalReviewers: []
-creation_date: "2022-05-06"
+creation_date: '2022-05-06'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -47,10 +52,11 @@ funders:
 hubmapId: HBM954.HNGT.899
 doi: https://doi.org/10.48539/HBM954.HNGT.899
 citation: >-
-  Griffin Weber; Sujin Lee; Rajeev Malhotra. HuBMAP ASCT+B Tables. Blood Vasculature v1.2
+  Griffin Weber; Sujin Lee; Rajeev Malhotra. HuBMAP ASCT+B Tables. Blood
+  Vasculature v1.2
   [https://doi.org/10.48539/HBM954.HNGT.899](https://doi.org/10.48539/HBM954.HNGT.899)
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B
-  Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022.
 datatable:
   - ASCT-B_VH_Blood_Vasculature.csv

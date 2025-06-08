@@ -1,10 +1,13 @@
 title: Millitome for VU Pancreas, Male
 description: >-
-  A millitome is a device used to hold and slice organs into a grid of equally sized tissue blocks.  It has an
-  associated digital data package that includes an STL file and a spreadsheet for assigning  spatial locations to HuBMAP
-  IDs and gathering metadata with information about the size, dimensions,  donor sex, and laterality of the reference
-  organ for which the millitome is fitted (https://humanatlas.io/millitome).  This millitome was designed in
-  collaboration with Vanderbilt University for the Pancreas, Male.
+  A millitome is a device used to hold and slice organs into a grid of equally sized tissue blocks. 
+  It has an associated digital data package that includes an STL file and a spreadsheet for assigning spatial locations to tissue block IDs and gathering metadata with information about the size, dimensions, 
+  donor sex, and laterality of the reference organ for which the millitome is fitted (https://humanatlas.io/millitome). 
+  This millitome was designed in collaboration with Vanderbilt University for the Pancreas, Male. The extraction sites generated with a milliome can then be displayed in the Exploration User Interface.
+
+  Bibilography:
+
+  Börner, Katy, Andreas Bueckle, Bruce W. Herr II, Leonard E. Cross, Ellen M. Quardokus, Elizabeth G. Record, Yingnan Ju, et al. 2022. “Tissue Registration and Exploration User Interfaces in Support of a Human Reference Atlas.” *Communications Biology* 5 (1): 1369. https://doi.org/10.1038/s42003-022-03644-x.
 creators:
   - fullName: Antara Bhavsar
     firstName: Antara
@@ -25,18 +28,21 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: "2025-06-15"
+creation_date: '2025-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 # hubmapId: HBM338.KZRH.469
 # doi: https://doi.org/10.48539/HBM338.KZRH.469
 # citation: >-
-# Bhavsar, Antara,	and Bhargav Desai.
-# 2025.	"Millitome for VU Pancreas, Male, v1.0."
+# Bhavsar, Antara,	and Bhargav Desai.	
+# 2025.	"Millitome for VU Pancreas, Male, v1.0."	
 # https://doi.org/10.48539/HBM338.KZRH.469.	Accessed June 15, 2025.
 datatable:
   - extraction-sites.jsonld

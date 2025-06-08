@@ -1,7 +1,8 @@
 title: 3D Reference Organ for Ureter, Male, Right
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male,
-  provided by the National Library of Medicine.
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created
+  using data from the Visible Human Male, provided by the National Library of
+  Medicine.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -18,9 +19,10 @@ reviewers:
     lastName: Strand
     orcid: 0000-0002-0746-927X
 externalReviewers: []
-creation_date: "2021-12-01"
+creation_date: '2021-12-01'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -29,10 +31,12 @@ hubmapId: HBM962.NPQG.577
 doi: https://doi.org/10.48539/HBM962.NPQG.577
 citation: >-
   Kristen Browne. 2021. *3D Reference Organ for Ureter, Male, Right v1.0.*
-  [https://doi.org/10.48539/HBM962.NPQG.577](https://doi.org/10.48539/HBM962.NPQG.577). Accessed on December 1, 2021.
+  [https://doi.org/10.48539/HBM962.NPQG.577](https://doi.org/10.48539/HBM962.NPQG.577).
+  Accessed on December 1, 2021.
 citationOverall: >-
-  Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner.
-  2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 1,
+  Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen
+  Quardokus, Andreas Bueckle, Katy Börner. 2021. *HuBMAP CCF 3D Reference Object
+  Library*. https://humanatlas.io/3d-reference-library. Accessed on December 1,
   2021.
 datatable:
   - VH_M_Ureter_R.glb

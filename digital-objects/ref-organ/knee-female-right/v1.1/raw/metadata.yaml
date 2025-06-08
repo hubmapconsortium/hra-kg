@@ -1,7 +1,8 @@
 title: 3D Reference Organ for Knee, Female, Right
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human
-  Female, provided by the National Library of Medicine.
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created
+  using data from the Visible Human Female, provided by the National Library of
+  Medicine.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -22,9 +23,10 @@ reviewers:
     lastName: Rowe
     orcid: 0000-0001-7852-7775
 externalReviewers: []
-creation_date: "2022-05-06"
+creation_date: '2022-05-06'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -32,11 +34,15 @@ funders:
 hubmapId: HBM983.RDXQ.667
 doi: https://doi.org/10.48539/HBM983.RDXQ.667
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Knee, Female, Right v1.1.*
-  [https://doi.org/10.48539/HBM983.RDXQ.667](https://doi.org/10.48539/HBM983.RDXQ.667). Accessed on May 6, 2022.
+  Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Knee, Female,
+  Right v1.1.*
+  [https://doi.org/10.48539/HBM983.RDXQ.667](https://doi.org/10.48539/HBM983.RDXQ.667).
+  Accessed on May 6, 2022.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2022. [*HuBMAP CCF
-  3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022.
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
+  Bueckle, Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object
+  Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6,
+  2022.
 datatable:
   - VH_F_Knee_R.glb
   - crosswalk.csv

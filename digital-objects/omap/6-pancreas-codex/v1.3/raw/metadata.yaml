@@ -1,18 +1,8 @@
 title: >-
-  OMAP-6  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX
+  OMAP-6  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Pancreas with CODEX
 description: >-
-  The OMAP Pancreas panel was designed for CODEX (CO Detection by IndEXing) imaging of Formalin-Fixed Paraffin-Embedded
-  (FFPE) human pancreas samples. Following antigen retrieval (citrate buffer pH=6, heating at high pressure 114-121°C
-  for 20 minutes), tissue autofluorescence was reduced using a photobleaching protocol (Du Z. et al, 2019, modified by
-  Derek Oldrige). CODEX is based on DNA-conjugated antibodies allowing the image acquisition of 3 antibodies per cycle
-  and removal of complementary fluorescently labeled DNA probes afterwards Goltsev, Y. et al, 2018. Cell junction
-  markers (E-cadherin,Beta-catenin) and nuclear marker Hoechst are used for cell segmentation. The resulting OMAP
-  contains 12 antibodies and provides a spatial context for most relevant anatomical structures and cell types in the
-  pancreas including pancreatic cells (alpha, beta, gamma, delta), ductal cells, endothelial cells,smooth muscle and
-  mesenchymal cells present in the ASCT-B pancreas table, v1.0. Acinar and epsilon cells are not targeted in the
-  existing panel due to the complexity of finding suitable and stable antibodies. A representative dataset using this
-  OMAP can be found here: https://zenodo.org/record/7742474. An antibody directed against pancreatic polypeptide (PPY)
-  was originally included in OMAP-5 v1.0 and v1.1, but was removed due to inconsistent labeling.
+  The OMAP Pancreas panel was designed for CODEX (CO Detection by IndEXing) imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples. Following antigen retrieval (citrate buffer pH=6, heating at high pressure 114-121°C for 20 minutes), tissue autofluorescence was reduced using a photobleaching protocol (Du Z. et al, 2019, modified by Derek Oldrige). CODEX is based on DNA-conjugated antibodies allowing the image acquisition of 3 antibodies per cycle and removal of complementary fluorescently labeled DNA probes afterwards Goltsev, Y. et al, 2018. Cell junction markers (E-cadherin,Beta-catenin) and nuclear marker Hoechst are used for cell segmentation. The resulting OMAP contains 12 antibodies and provides a spatial context for most relevant anatomical structures and cell types in the pancreas including pancreatic cells (alpha, beta, gamma, delta), ductal cells, endothelial cells,smooth muscle and mesenchymal cells present in the ASCT-B pancreas table, v1.0. Acinar and epsilon cells are not targeted in the existing panel due to the complexity of finding suitable and stable antibodies. A representative dataset using this OMAP can be found here: https://zenodo.org/record/7742474. An antibody directed against pancreatic polypeptide (PPY) was originally included in OMAP-5 v1.0 and v1.1, but was removed due to inconsistent labeling. 
 creators:
   - fullName: Anna Martinez Casals
     firstName: Anna
@@ -69,9 +59,10 @@ reviewers:
     lastName: Rajbhandari
     orcid: 0000-0003-2184-7238
 externalReviewers: []
-creation_date: "2024-06-15"
+creation_date: '2024-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health (NIH)
@@ -79,20 +70,22 @@ funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
   - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer Institute
+      National Institute of Allergy and Infectious Disease and National Cancer
+      Institute
     awardNumber: UH3 CA246635
 hubmapId: HBM847.DNHP.222
 doi: https://doi.org/10.48539/HBM847.DNHP.222
 citation: >-
-  Anna Martinez Casals, Frida Björklund. OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
-  Imaging of Human Pancreas with CODEX, v1.3, https://doi.org/10.48539/HBM847.DNHP.222. Accessed June 15, 2024.
+  Anna Martinez Casals, Frida Björklund. OMAP-6 Organ Mapping Antibody Panel
+  (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX,
+  v1.3, https://doi.org/10.48539/HBM847.DNHP.222. Accessed June 15, 2024.
 citationOverall: >-
-  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P, Casals AM, Tian H, Lowery L,
-  Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE, Fisher J, Livengood AJ, Dowell KG, Silverstein JC,
-  Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
-  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR, Lundberg E, Snyder MP,
-  Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ Mapping Antibody Panels: a community resource for
-  standardized multiplexed tissue imaging. Nat  
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari P,
+  Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin AE,
+  Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, Ginty  
+  F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, Stockwell BR,
+  Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, Radtke AJ. Organ
+  Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging. Nat  
   Methods. 2023 Aug;20(8):1174–8, https://doi.org/10.1038/s41592-023-01846-7.
 datatable:
   - omap-6-pancreas-codex.csv

@@ -1,12 +1,6 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Knee
 description: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
-  the nested knee structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell
-  types. The tables are authored and reviewed by an international team of experts. The Knee ASCT+B table provides a
-  structured representation of the knee joint's anatomical components, associated cell types, and relevant biomarkers.
-  It includes detailed mappings of structures such as the femur, tibia, patella, menisci, ligaments, and cartilage,
-  along with cell types like chondrocytes, fibroblasts, and synoviocytes.This comprehensive mapping supports research
-  into musculoskeletal biology and related medical conditions.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested knee structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Knee ASCT+B table provides a structured representation of the knee joint's anatomical components, associated cell types, and relevant biomarkers. It includes detailed mappings of structures such as the femur, tibia, patella, menisci, ligaments, and cartilage, along with cell types like chondrocytes, fibroblasts, and synoviocytes.This comprehensive mapping supports research into musculoskeletal biology and related medical conditions.
 creators:
   - fullName: David Rowe
     firstName: David
@@ -35,9 +29,10 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: "2024-06-15"
+creation_date: '2024-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

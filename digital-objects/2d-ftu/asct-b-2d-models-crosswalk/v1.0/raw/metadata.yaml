@@ -1,7 +1,8 @@
 title: ASCT+B 2D FTU Mapping
 description: >-
-  This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B)
-  Table](https://humanatlas.io/asctb-tables) terms to anatomical structure and cell type terms used in the
+  This lookup table maps [Anatomical Structures, Cell Types and Biomarkers
+  (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical
+  structure and cell type terms used in the
   [CCF-2D-reference-object-library](https://github.com/hubmapconsortium/ccf-2d-reference-object-library).
 creators:
   - fullName: Supriya Bidanta
@@ -35,9 +36,10 @@ reviewers:
     lastName: Herr
     orcid: 0000-0002-6703-7647
 externalReviewers: []
-creation_date: "2022-05-06"
+creation_date: '2022-05-06'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -45,12 +47,14 @@ funders:
 hubmapId: HBM984.MZSG.873
 doi: https://doi.org/10.48539/HBM984.MZSG.873
 citation: >-
-  Supriya Bidanta; Fauzan Isnaini. (2022). *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D
-  Reference Object Library Mapping*
-  [https://doi.org/10.48539/HBM984.MZSG.873](https://doi.org/10.48539/HBM984.MZSG.873).
-   Accessed on May 06, 2022.
+  Supriya Bidanta; Fauzan Isnaini. (2022). *Anatomical Structures, Cell Types
+  and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping*
+  [https://doi.org/10.48539/HBM984.MZSG.873](https://doi.org/10.48539/HBM984.MZSG.873). 
+  Accessed on May 06, 2022.
 citationOverall: >-
-  Supriya Bidanta; Fauzan Isnaini; Rachel Bajema; Ellen M. Quardokus; Bruce W. Herr II; Katy Börner. 2022. [*HuBMAP CCF
-  2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 06, 2022.
+  Supriya Bidanta; Fauzan Isnaini; Rachel Bajema; Ellen M. Quardokus; Bruce W.
+  Herr II; Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object
+  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 06,
+  2022.
 datatable:
   - ASCT-B_ftu_2D_illustration_mapping.csv

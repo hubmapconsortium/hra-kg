@@ -1,19 +1,10 @@
 title: 2D Nephron Functional Tissue Unit (FTU) for Kidney
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table
-  [Kidney v1.4] (https://doi.org/10.48539/HBM636.MXKP.682). This illustration was inspired by the [Kidney Tissue Atlas
-  Explorer] (https://atlas.kpmp.org/explorer) created by the Kidney Precision Medicine Project (KPMP). Multiple
-  histology atlases, especially *Human Microscopic Anatomy (Krstić 1994)* and *Histology: A Text and Atlas (Ross et al.
-  2003)* were referenced. Cell type diameters were primarily defined by (Hu, McDonough, and Layton 2021). Uberon
-  describes this FTU as follows: "The basic functional unit of the kidney. Its chief function is to regulate the
-  concentration of water and soluble substances like sodium salts by filtering the blood, reabsorbing what is needed and
-  excreting the rest as urine. A nephron eliminates wastes from the body, regulates blood volume and blood pressure,
-  controls levels of electrolytes and metabolites, and regulates blood pH. Its functions are vital to life and are
-  regulated by the endocrine system by hormones such as antidiuretic hormone, aldosterone, and parathyroid hormone."
+  This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table [Kidney v1.4](https://doi.org/10.48539/HBM636.MXKP.682). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer) created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially *Human Microscopic Anatomy* (Krstić 1994) and *Histology: A Text and Atlas* (Ross et al. 2003) were referenced. Cell type diameters were primarily defined by (Hu, McDonough, and Layton 2021). Uberon describes this FTU as follows: "The basic functional unit of the kidney. Its chief function is to regulate the concentration of water and soluble substances like sodium salts by filtering the blood, reabsorbing what is needed and excreting the rest as urine. A nephron eliminates wastes from the body, regulates blood volume and blood pressure, controls levels of electrolytes and metabolites, and regulates blood pH. Its functions are vital to life and are regulated by the endocrine system by hormones such as antidiuretic hormone, aldosterone, and parathyroid hormone."
 
+  Bibliography:
 
-  Bibliography: Britannica, T. E. of E. Nephron. Encyclopedia Britannica (2024).
-  https://www.britannica.com/science/nephron
+  Britannica, T. E. of E. Nephron. *Encyclopedia Britannica* (2024). https://www.britannica.com/science/nephron
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -38,9 +29,10 @@ reviewers:
     lastName: Valerius
     orcid: 0000-0001-8143-9231
 externalReviewers: []
-creation_date: "2023-12-15"
+creation_date: '2023-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -50,12 +42,12 @@ funders:
 hubmapId: HBM927.DQNW.448
 doi: https://doi.org/10.48539/HBM927.DQNW.448
 citation: >-
-  Bajema, Rachel. 2023. *2D Reference Nephron FTU for Kidney, v1.2*.
-  [https://doi.org/10.48539/HBM927.DQNW.448](https://doi.org/10.48539/HBM927.DQNW.448). Accessed on December 15, 2023.
+citation: >-
+  Bajema, Rachel. 2023. 2D Reference Nephron FTU for Kidney, v1.2.
+  https://doi.org/10.48539/HBM927.DQNW.448.
+  Accessed on December 15, 2023.
 citationOverall: >-
-  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023. *HuBMAP CCF 2D Reference
-  Object Library*. Accessed on December 15, 2023.https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15,
-  2023.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023. HuBMAP CCF 2D Reference Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2023.
 datatable:
   - 2d-ftu-kidney-nephron.svg
   - 2d-ftu-kidney-nephron.png
@@ -63,3 +55,4 @@ datatable:
   - crosswalk.csv
 references:
   - https://doi.org/10.48539/HBM636.MXKP.682
+  

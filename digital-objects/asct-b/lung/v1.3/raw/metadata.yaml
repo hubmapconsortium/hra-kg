@@ -1,9 +1,10 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lung
 description: >-
-  This is a revision of the “Single Lung Lobe” table that simplified the ASCT+B table from Lung v1.1, to consider the
-  anatomical and cellular composition of the lower respiratory tract of one lung lobe as representative of the five
-  human lung lobes, reducing table redundancies in structure and cell nomenclature and to improve visualization by the
-  ASCT+B Reporter.
+  This is a revision of the “Single Lung Lobe” table that simplified the ASCT+B
+  table from Lung v1.1, to consider the anatomical and cellular composition of 
+  the lower respiratory tract of one lung lobe as representative of the five
+  human lung lobes, reducing table redundancies in structure and cell
+  nomenclature and to improve visualization by the ASCT+B Reporter.
 creators:
   - fullName: Gloria Pryhuber
     firstName: Gloria
@@ -28,9 +29,10 @@ reviewers:
     lastName: Deutsch
     orcid: 0000-0002-0571-0285
 externalReviewers: []
-creation_date: "2023-06-15"
+creation_date: '2023-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -41,7 +43,8 @@ citation: >-
   Gloria Pryhuber. HuBMAP ASCT+B Tables. Lung v1.3
   [https://doi.org/10.48539/HBM496.MNTH.952](https://doi.org/10.48539/HBM496.MNTH.952)
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B
-  Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
+  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
+  2023.
 datatable:
   - asct-b-vh-lung.csv

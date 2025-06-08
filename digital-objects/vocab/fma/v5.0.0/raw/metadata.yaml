@@ -1,25 +1,21 @@
 title: Foundational Model of Anatomy Ontology (FMA)
 description: >-
-  The Foundational Model of Anatomy Ontology (FMA) (Rosse and Mejino 2003; Golbreich et al. 2013)​ is a project of the
-  Structural Informatics Group from the Department of Biological Structure at the University of Washington (UW) School
-  of Medicine. The FMA is an intellectual property of the University of Washington. The FMA is a reference ontology for
-  the domain of human anatomy.
+  Foundational Model of Anatomy Ontology (FMA) (Rosse and Mejino 2003; Golbreich et al. 2013)​ is a reference ontology for the domain of human anatomy. It is a project of the Structural Informatics Group from the Department of Biological Structure at the University of Washington (UW) School of Medicine and is an intellectual property of UW.
+  
+  Bibliography:
 
+  Golbreich, Christine, Julien Grosjean, and Stefan Jacques Darmoni. 2013. “The Foundational Model of Anatomy in OWL 2 and Its Use.” *Artificial Intelligence in Medicine* 57 (2): 119–32. https://doi.org/10.1016/j.artmed.2012.11.002.
 
-  Bibliography: Golbreich, Christine, Julien Grosjean, and Stefan Jacques Darmoni. 2013. “The Foundational Model of
-  Anatomy in OWL 2 and Its Use.” Artificial Intelligence in Medicine 57 (2): 119–32.
-  https://doi.org/10.1016/j.artmed.2012.11.002.
-
-  Rosse, Cornelius, and José L.V. Mejino. 2003. “A Reference Ontology for Biomedical Informatics: The Foundational Model
-  of Anatomy.” Journal of Biomedical Informatics 36 (6): 478–500. https://doi.org/10.1016/j.jbi.2003.11.007.
+  Rosse, Cornelius, and José L.V. Mejino. 2003. “A Reference Ontology for Biomedical Informatics: The Foundational Model of Anatomy.” *Journal of Biomedical Informatics* 36 (6): 478–500. https://doi.org/10.1016/j.jbi.2003.11.007.
 creators:
   - fullName: Jose Leonardo V. Mejino Jr. MD
     firstName: Jose
     lastName: Mejino
     orcid: 0000-0003-2105-2283
-creation_date: "2019-04-24"
+creation_date: '2019-04-24'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 datatable:
   - fma.owl
 references:

@@ -1,36 +1,22 @@
 title: >-
-  OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX
+  OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Pancreas with CODEX
 description: >-
-  OMAP-13 was designed for imaging of 4% paraformaldehyde (PFA)-fixed, cryopreserved human pancreas samples by
-  CO-Detection by indEXing (CODEX) (Black et al. 2021). Containing 27 antibodies and nuclear marker DAPI, this OMAP
-  provides spatial context for 13 anatomical structures and 21 cell types in the ASCT+B Pancreas table v1.2
-  (Campbell-Thompson, Eskaros, and Saunders 2022) and shares 8 markers with OMAP-6 (Casals and Björklund 2024). It also
-  facilitates identification of gamma and epsilon cells, lymphatic endothelial cells, pericytes, resident immune cells,
-  neuronal structures, and some stromal cells and the extracellular matrix (ECM). Due to the inclusion of biomarkers
-  PPY, GHRL, PTPRC (CD45), CD19, ITGAX (CD11c), AIF1 (IBA1), and CD14, this panel is suitable for all regions of the
-  human pancreas (including the uncinate process, UBERON:0010373) from birth to adulthood and can detect inflammatory
-  cells present in diabetes. Panel design and validation was performed on the PhenoCycler Open and Fusion systems (Akoya
-  Biosciences). Carrier free aliquots for antibodies directed against targets GHRL, PPY, and LYVE1 were ordered directly
-  from R&D Biosciences to allow custom conjugation; antibody metadata reflect the catalog versions. The GP2 antibody,
-  which was purified and conjugated by Leinco Technologies, Inc., is best used in conjunction with another acinar cell
-  marker. Application of this CODEX panel to early-stage T2D samples (Walker et al. 2021) included cellular segmentation
-  by DAPI using the Highplex FL module of HALO image analysis software (Indica Labs). Details on sample preparation and
-  antibody screening can be found at (Saunders et al. 2022) and a representative dataset is uploaded at (Saunders and
-  Reihsmann 2023). Interactive image browsing is available on Pancreatlas (RRID:SCR_01856).
+  OMAP-13 was developed for CO-Detection by indEXing (CODEX) imaging of 4% paraformaldehyde (PFA)-fixed, cryopreserved human pancreas tissue (Black et al. 2021). The panel includes 27 antibodies and DAPI for nuclear segmentation, offering spatial context for 13 anatomical structures and 21 cell types described in the ASCT+B Pancreas table v1.2 (Campbell-Thompson, Eskaros, and Saunders 2022). It shares 8 markers with OMAP-6 (Casals and Björklund 2024) and supports the identification of rare and specialized pancreatic cells (e.g., gamma and epsilon cells), lymphatic endothelial cells, stromal cells, ECM components, and immune and neuronal structures. It includes markers like PPY, GHRL, CD45, CD19, CD11c, IBA1, and CD14, making it suitable for imaging all regions of the human pancreas, from birth to adulthood, and detecting inflammation associated with diabetes. Antibodies were validated on Akoya Biosciences' PhenoCycler Open and Fusion platforms. Select antibodies (e.g., GHRL, PPY, LYVE1) were custom-conjugated; GP2 was purified and conjugated by Leinco Technologies. This panel was applied to early-stage T2D samples (Walker et al. 2021), with image analysis performed using HALO Highplex FL (Indica Labs). Protocols and antibody metadata are available on protocols.io (Saunders et al. 2022), with a representative dataset accessible on Zenodo (Saunders and Reihsmann 2023) and interactive visualization provided via Pancreatlas (RRID:SCR_01856).
 
-  Bibliography: Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay
-  Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with
-  DNA-Conjugated Antibodies.” Nature Protocols 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
-  Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2022. “Pancreas (v1.2) Graph Data, v1.2.” 2022.
-  https://lod.humanatlas.io/asct-b/pancreas/v1.2/. Casals, Anna, and Frida Björklund. 2024. “OMAP-6 Organ Mapping
-  Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.3.” ..Csv. HuBMAP.
-  https://doi.org/10.48539/HBM847.DNHP.222. Saunders, Diane, Conrad Reihsmann, Alexander Hopkirk, Marcela Brissova, and
-  Alvin C. Powers. 2022. “CODEX® Multiplexed Imaging | Modality Overview.” May 24, 2022.
-  https://www.protocols.io/view/codex-multiplexed-imaging-modality-overview-b6rnrd5e. Saunders, Diane, and Conrad V.
-  Reihsmann. 2023. “Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with
-  CODEX.” Zenodo. https://zenodo.org/records/7916784. Walker, John T., Diane C. Saunders, Vivek Rai, Chunhua Dai, Peter
-  Orchard, Alexander L. Hopkirk, Conrad V. Reihsmann, et al. 2021. “RFX6-Mediated Dysregulation Defines Human β Cell
-  Dysfunction in Early Type 2 Diabetes.” bioRxiv. https://doi.org/10.1101/2021.12.16.466282.
+  Bibliography:
+
+  Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated Antibodies.” *Nature Protocols* 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
+
+  Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2022. “Pancreas (v1.2) Graph Data, v1.2.” 2022. https://lod.humanatlas.io/asct-b/pancreas/v1.2/.
+
+  Casals, Anna, and Frida Björklund. 2024. “OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.3.” https://doi.org/10.48539/HBM847.DNHP.222.
+
+  Saunders, Diane, Conrad Reihsmann, Alexander Hopkirk, Marcela Brissova, and Alvin C. Powers. 2022. “CODEX® Multiplexed Imaging | Modality Overview.” May 24, 2022. https://www.protocols.io/view/codex-multiplexed-imaging-modality-overview-b6rnrd5e.
+
+  Saunders, Diane, and Conrad V. Reihsmann. 2023. “Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX.” Zenodo. https://zenodo.org/records/7916784.
+
+  Walker, John T., Diane C. Saunders, Vivek Rai, Chunhua Dai, Peter Orchard, Alexander L. Hopkirk, Conrad V. Reihsmann, et al. 2021. “RFX6-Mediated Dysregulation Defines Human β Cell Dysfunction in Early Type 2 Diabetes.” bioRxiv. https://doi.org/10.1101/2021.12.16.466282.
 creators:
   - fullName: Diane Saunders
     firstName: Diane
@@ -69,25 +55,27 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: Intramural Research Program of the NIH
     awardNumber: UH3 CA246635
   - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer Institute
+      National Institute of Allergy and Infectious Disease and National Cancer
+      Institute
     awardNumber: OT2OD026671
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
   - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer Institute
+      National Institute of Allergy and Infectious Disease and National Cancer
+      Institute
     awardNumber: UH3 CA246594-01
 hubmapId: HBM328.WTLZ.372
 doi: https://doi.org/10.48539/HBM328.WTLZ.372
 citation: >-
   Saunders, Diane,	and Conrad Reihsmann.	
-  2025.	"OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with
-  CODEX, v1.2."	
+  2025.	"OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.2."	
   https://doi.org/10.48539/HBM328.WTLZ.372.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
@@ -109,3 +97,4 @@ references:
   - https://doi.org/10.1101/2021.12.16.466282
   - https://doi.org/10.17504/protocols.io.36wgq7dryvk5/v1
   - https://doi.org/10.5281/zenodo.7916784
+

@@ -1,13 +1,8 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Mouth
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for
+  Mouth
 description: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
-  the nested anatomical structure of human body parts, the typology of cells, and biomarkers used to identify cell
-  types. The tables are authored and reviewed by an international team of experts. The Mouth ASCT+B table includes
-  detailed anatomical structures such as the gingiva, tongue, buccal mucosa, hard palate, floor of mouth, and major
-  salivary ducts, along with associated epithelial, stromal, vascular, immune, and neural cell types. This comprehensive
-  mapping supports research into oral epithelial differentiation, mucosal immune regulation, salivary gland biology, and
-  related medical conditions such as periodontitis, Sjögren’s disease, and head and neck cancer.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture the nested anatomical structure of human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Mouth ASCT+B table includes detailed anatomical structures such as the gingiva, tongue, buccal mucosa, hard palate, floor of mouth, and major salivary ducts, along with associated epithelial, stromal, vascular, immune, and neural cell types. This comprehensive mapping supports research into oral epithelial differentiation, mucosal immune regulation, salivary gland biology, and related medical conditions such as periodontitis, Sjögren’s disease, and head and neck cancer.
 creators:
   - fullName: Kevin M. Byrd
     firstName: Kevin M.
@@ -30,7 +25,8 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

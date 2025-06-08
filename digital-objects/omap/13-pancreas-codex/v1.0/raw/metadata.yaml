@@ -1,24 +1,34 @@
 title: >-
-  OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX
+  OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Pancreas with CODEX
 description: >-
-  OMAP-13 was designed for imaging of 4% PFA-fixed, cryopreserved human pancreas samples by CO-Detection by indEXing
-  (CODEX) (https://doi.org/10.1038/s41596-021-00556-8). Containing 27 antibodies and nuclear marker DAPI, this OMAP
-  provides spatial context for 13 anatomical structures and 21 cell types in the ASCT+B Pancreas table v1.2
+  OMAP-13 was designed for imaging of 4% PFA-fixed, cryopreserved human pancreas
+  samples by CO-Detection by indEXing (CODEX)
+  (https://doi.org/10.1038/s41596-021-00556-8). Containing 27 antibodies and
+  nuclear marker DAPI, this OMAP provides spatial context for 13 anatomical
+  structures and 21 cell types in the ASCT+B Pancreas table v1.2
   (https://doi.org/10.48539/HBM975.BBTF.393) and shares 8 markers with OMAP-6
-  (https://doi.org/10.48539/HBM868.XLTM.922). It also facilitates identification of gamma and epsilon cells, lymphatic
-  endothelial cells, pericytes, resident immune cells, neuronal structures, and some stromal cells and the extracellular
-  matrix (ECM). Due to the inclusion of biomarkers PPY, GHRL, PTPRC (CD45), CD19, ITGAX (CD11c), AIF1 (IBA1), and CD14,
-  this panel is suitable for all regions of the human pancreas (including the uncinate process, UBERON:0010373) from
-  birth to adulthood and can detect inflammatory cells present in diabetes. Panel design and validation was performed on
-  the PhenoCycler Open and Fusion systems (Akoya Biosciences). Carrier free aliquots for antibodies directed against
-  targets GHRL, PPY, and LYVE1  were ordered directly from R&D Biosciences to allow custom conjugation; antibody
-  metadata reflect the catalog versions. The GP2 antibody, which was purified and conjugated by Leinco Technologies,
-  Inc., is best used in conjunction with another acinar cell marker. Application of this CODEX panel to early-stage T2D
-  samples (Walker et al. 2021; https://doi.org/10.1101/2021.12.16.466282) included cellular segmentation by DAPI using
-  the Highplex FL module of HALO image analysis software (Indica Labs). Details on sample preparation and antibody
-  screening can be found at https://doi.org/10.17504/protocols.io.36wgq7dryvk5/v1 and a representative dataset is
-  uploaded at https://doi.org/10.5281/zenodo.7916784. Interactive image browsing is available on Pancreatlas
-  (RRID:SCR_01856).
+  (https://doi.org/10.48539/HBM868.XLTM.922). It also facilitates identification
+  of gamma and epsilon cells, lymphatic endothelial cells, pericytes, resident
+  immune cells, neuronal structures, and some stromal cells and the
+  extracellular matrix (ECM). Due to the inclusion of biomarkers PPY, GHRL,
+  PTPRC (CD45), CD19, ITGAX (CD11c), AIF1 (IBA1), and CD14, this panel is
+  suitable for all regions of the human pancreas (including the uncinate
+  process, UBERON:0010373) from birth to adulthood and can detect inflammatory
+  cells present in diabetes. Panel design and validation was performed on the
+  PhenoCycler Open and Fusion systems (Akoya Biosciences). Carrier free aliquots
+  for antibodies directed against targets GHRL, PPY, and LYVE1  were ordered
+  directly from R&D Biosciences to allow custom conjugation; antibody metadata
+  reflect the catalog versions. The GP2 antibody, which was purified and
+  conjugated by Leinco Technologies, Inc., is best used in conjunction with
+  another acinar cell marker. Application of this CODEX panel to early-stage T2D
+  samples (Walker et al. 2021; https://doi.org/10.1101/2021.12.16.466282)
+  included cellular segmentation by DAPI using the Highplex FL module of HALO
+  image analysis software (Indica Labs). Details on sample preparation and
+  antibody screening can be found at
+  https://doi.org/10.17504/protocols.io.36wgq7dryvk5/v1 and a representative
+  dataset is uploaded at https://doi.org/10.5281/zenodo.7916784. Interactive
+  image browsing is available on Pancreatlas (RRID:SCR_01856).
 creators:
   - fullName: Diane Saunders
     firstName: Diane
@@ -55,28 +65,34 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: "2023-06-15"
+creation_date: '2023-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: Intramural Research Program of the NIH
     awardNumber: UH3 CA246635
   - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer Institute
+      National Institute of Allergy and Infectious Disease and National Cancer
+      Institute
     awardNumber: OT2OD026671
   - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer Institute
+      National Institute of Allergy and Infectious Disease and National Cancer
+      Institute
     awardNumber: UH3 CA246594-01
 hubmapId: HBM754.BHVR.258
 doi: https://doi.org/10.48539/HBM754.BHVR.258
 citation: >-
-  Diane Saunders; Conrad Reihsmann. OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging
-  of Human Pancreas with CODEX, v1.0 https://doi.org/10.48539/HBM754.BHVR.258. Accessed on June 15, 2023.
+  Diane Saunders; Conrad Reihsmann. OMAP-13: Organ Mapping Antibody Panel (OMAP)
+  for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.0
+  https://doi.org/10.48539/HBM754.BHVR.258. Accessed on June 15, 2023.
 citationOverall: >-
-  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre
-  Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer
-  for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.
+  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo,
+  Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021.
+  “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for
+  Multiplexed Antibody-Based Imaging.” *Nature Methods*, November.
+  https://doi.org/10.1038/s41592-021-01316-y.
 datatable:
   - omap-13-pancreas-codex.csv
   - omap-13-pancreas-codex.xlsx

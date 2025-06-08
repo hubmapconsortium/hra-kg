@@ -1,5 +1,5 @@
 title: HRApop
-description: "HRApop is part of the Human Reference Atlas (HRA) <https://humanatlas.io>"
+description: 'HRApop is part of the Human Reference Atlas (HRA) <https://humanatlas.io>'
 creators:
   - fullName: Andreas Bueckle
     firstName: Andreas
@@ -44,9 +44,10 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: "2024-11-23"
+creation_date: '2024-11-23'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -61,16 +62,12 @@ funders:
     awardNumber: U2CDK114886
   - funder: National Institutes of Health
     awardNumber: OT2OD030545
-# hubmapId:
-# doi:
+# hubmapId: 
+# doi: 
 citation: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng
-  Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas
-  [TBD](https://doi.org/TBD)
+  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas [TBD](https://doi.org/TBD)
 citationOverall: >-
-  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng
-  Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas
-  [TBD](https://doi.org/TBD)
+  Andreas Bueckle1; Lu Chen; Bruce W. Herr II; Daniel Bolin; Danial Qaurooni; Michael Ginda; Kristin Ardlie; Fusheng Wang; Katy Börner, Constructing and Using Cell Type Populations in the Human Reference Atlas [TBD](https://doi.org/TBD)
 datatable:
   - atlas-enriched-dataset-graph.jsonld
   - atlas-as-cell-summaries.jsonld

@@ -1,10 +1,10 @@
 title: 2D Islets of Langerhans FTU for Pancreas
 description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to the islets of Langerhans FTU in the
-  ASCT+B Table [Pancreas v1.1] (https://doi.org/10.48539/HBM557.XHHV.557). Uberon describes this FTU as follows: "The
-  clusters of hormone-producing cells that are scattered throughout the pancreas." 
+  This functional tissue unit (FTU) illustration includes cell types related to the islets of Langerhans FTU in the ASCT+B Table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). Uberon describes this FTU as follows: "The clusters of hormone-producing cells that are scattered throughout the pancreas."
 
-  Bibliography: Da Silva Xavier, G. (2018). The Cells of the Islets of Langerhans. J. Clin. Med., 7, 54.
+  Bibliography:
+
+  Da Silva Xavier, G. (2018). The Cells of the Islets of Langerhans. *J. Clin. Med*., 7, 54.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -21,9 +21,10 @@ reviewers:
     lastName: Campbell-Thompson
     orcid: 0000-0001-6878-1235
 externalReviewers: []
-creation_date: "2023-12-15"
+creation_date: '2023-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -33,11 +34,11 @@ funders:
 hubmapId: HBM637.SFSW.654
 doi: https://doi.org/10.48539/HBM637.SFSW.654
 citation: >-
-  Bajema, Rachel. 2023. *2D Islets of Langerhans FTU for Pancreas, v1.2.* https://doi.org/10.48539/HBM637.SFSW.654.
-  Accessed on December 15, 2023.
+  Bajema, Rachel. 2023. 2D Islets of Langerhans FTU for Pancreas, v1.2.
+  https://doi.org/10.48539/HBM637.SFSW.654. Accessed on December 15, 2023.
 citationOverall: >-
-  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023. *HuBMAP CCF 2D Reference
-  Object Library*. Accessed on December 15, 2023 . https://humanatlas.io/2d-ftu-illustrations)
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023.
+  HuBMAP CCF 2D Reference Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2023.
 datatable:
   - 2d-ftu-pancreas-islets-langerhans.svg
   - 2d-ftu-pancreas-islets-langerhans.png

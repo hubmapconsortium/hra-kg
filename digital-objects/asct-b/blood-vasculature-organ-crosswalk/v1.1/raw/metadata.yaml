@@ -1,11 +1,14 @@
 title: Blood Vasculature Organ Crosswalk
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to
-  capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
-  authored and reviewed by an international team of experts. This table provides a crosswalk from vessels in the blood
-  vasculature ASCT+B table to anatomical structures in other organ ASCT+B tables. The Relationship column indicates
-  whether the vessel is “part_of”, “overlaps”, “supplies”, “drains”, “directly_supplies_drains”, “located_in”, or
-  “connected_to” the anatomical structure in the BodySubPart column.
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture anatomical human
+  body parts, the typology of cells, and biomarkers used to identify cell types.
+  The tables are authored and reviewed by an international team of experts. This
+  table provides a crosswalk from vessels in the blood vasculature ASCT+B table
+  to anatomical structures in other organ ASCT+B tables. The Relationship column
+  indicates whether the vessel is “part_of”, “overlaps”, “supplies”, “drains”,
+  “directly_supplies_drains”, “located_in”, or “connected_to” the anatomical
+  structure in the BodySubPart column.
 creators:
   - fullName: Griffin Weber
     firstName: Griffin
@@ -38,9 +41,10 @@ reviewers:
     lastName: Campbell-Thompson
     orcid: 0000-0001-6878-1235
 externalReviewers: []
-creation_date: "2023-12-15"
+creation_date: '2023-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -50,11 +54,13 @@ funders:
 hubmapId: HBM525.KFGV.228
 doi: https://doi.org/10.48539/HBM525.KFGV.228
 citation: >-
-  Griffin Weber; Katherine S Gustilo. Blood Vasculature Organ Crosswalk,v1.1 https://doi.org/10.48539/HBM525.KFGV.228,
-  Accessed on December 15, 2023.
+  Griffin Weber; Katherine S Gustilo. Blood Vasculature Organ Crosswalk,v1.1
+  https://doi.org/10.48539/HBM525.KFGV.228, Accessed on December 15, 2023.
 citationOverall: >-
-  Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Katherine S. Gustilo, Ellen M. Quardokus, Bruce W. Herr,
-  Katy Börner, and Griffin M. Weber. 2023. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood
-  Vasculature.” Scientific Data 10 (1): 452. https://doi.org/10.1038/s41597-023-02018-0.
+  Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Katherine S.
+  Gustilo, Ellen M. Quardokus, Bruce W. Herr, Katy Börner, and Griffin M. Weber.
+  2023. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human
+  Blood Vasculature.” Scientific Data 10 (1): 452.
+  https://doi.org/10.1038/s41597-023-02018-0.
 datatable:
   - blood-vasculature-organ-crosswalk.csv

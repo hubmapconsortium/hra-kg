@@ -1,21 +1,10 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Skin
 description: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
-  anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
-  authored and reviewed by an international team of experts. The Skin ASCT+B table represents terms related to the adult
-  human skin. These include both macroscopic and microscopic anatomical structures, major cell types, and protein
-  biomarkers specific for each cell type listed. This table was generated based on published histopathologic
-  nomenclature, as well as published literature on cell-type specific biomarkers. Most of the markers listed are
-  observed in more than one study or orthogonally validated. Note that these are predicted markers and a single marker
-  to annotate a cell type is not likely sufficient or specific. Where more refined cell types are not available in the
-  ontologies, the closest general term is used. For example, there are likely multiple types of skin stromal cells;
-  however, further characterization is needed to distinguish between these cell types. Where cells of similar type occur
-  in different locations, the closest and highest level of resolution available is used. For example, keratinocytes
-  occur in multiple different contexts within the skin, including the epidermis and hair follicles.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Skin ASCT+B table represents terms related to the adult human skin. These include both macroscopic and microscopic anatomical structures, major cell types, and protein biomarkers specific for each cell type listed. This table was generated based on published histopathologic nomenclature, as well as published literature on cell-type specific biomarkers. Most of the markers listed are observed in more than one study or orthogonally validated. Note that these are predicted markers and a single marker to annotate a cell type is not likely sufficient or specific. Where more refined cell types are not available in the ontologies, the closest general term is used. For example, there are likely multiple types of skin stromal cells; however, further characterization is needed to distinguish between these cell types. Where cells of similar type occur in different locations, the closest and highest level of resolution available is used. For example, keratinocytes occur in multiple different contexts within the skin, including the epidermis and hair follicles.
                                                                                                                                                                                                                                                                                               
-  Bibliography:  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David
-  Osumi-Sutherland, Bruce W. Herr, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference
-  Atlas.” Nature Cell Biology 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
+  Bibliography: 
+  
+  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” *Nature Cell Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
 creators:
   - fullName: Fiona Ginty
     firstName: Fiona
@@ -66,7 +55,8 @@ reviewers:
 externalReviewers: []
 creation_date: 2025-06-15
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

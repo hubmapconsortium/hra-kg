@@ -1,8 +1,9 @@
 title: 3D Reference Organ for Skin, Male
 description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male,
-  provided by the National Library of Medicine. It was adjusted to add space for the triceps surae and the ankle bones
-  for the eventual addition of the triceps surae muscles.
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created
+  using data from the Visible Human Male, provided by the National Library of
+  Medicine. It was adjusted to add space for the triceps surae and the ankle
+  bones for the eventual addition of the triceps surae muscles.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -23,9 +24,10 @@ reviewers:
     lastName: Ginty
     orcid: 0000-0001-6638-683X
 externalReviewers: []
-creation_date: "2024-06-15"
+creation_date: '2024-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -36,10 +38,12 @@ hubmapId: HBM527.FMBB.748
 doi: https://doi.org/10.48539/HBM527.FMBB.748
 citation: >-
   Kristen Browne. 2024. *3D Reference Organ for Skin, Male v1.3.*
-  [https://doi.org/10.48539/HBM527.FMBB.748](https://doi.org/10.48539/HBM527.FMBB.748). Accessed on June 15, 2024.
+  [https://doi.org/10.48539/HBM527.FMBB.748](https://doi.org/10.48539/HBM527.FMBB.748).
+  Accessed on June 15, 2024.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2024. *HuBMAP CCF
-  3D Reference Object Library*. https://humanatlas.io/3d-reference-library.  Accessed on June 15, 2024.
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
+  Bueckle, Katy Börner. 2024. *HuBMAP CCF 3D Reference Object Library*.
+  https://humanatlas.io/3d-reference-library.  Accessed on June 15, 2024.
 datatable:
   - 3d-vh-m-skin.glb
   - crosswalk.csv

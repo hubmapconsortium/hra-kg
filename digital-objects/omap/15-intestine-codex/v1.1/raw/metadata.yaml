@@ -1,34 +1,26 @@
 title: >-
-  OMAP-15 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestines with CODEX
+  OMAP-15 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Intestines with CODEX
 description: >-
-  OMAP-15 was designed for CO-Detection by indEXing (CODEX), with the Akoya Biosciences PhenoCycler system for formalin
-  fixed paraffin embedded (FFPE) human intestine samples (Black et al. 2021; Kennedy‐Darling et al. 2021). The panel
-  contains 54 antibodies and the nuclear marker DAPI. This OMAP provides a spatial context for most anatomical
-  structures and cell types present in the ASCT+B Large Intestine v1.3 (Longacre, Hickey, and Lin 2022) and Small
-  Intestine v1.1 (Longacre 2022). This OMAP builds from OMAP-2 (Radtke et al. 2023), adapting the markers for fixed
-  frozen tissues to FFPE tissue. It excludes 19 markers originally found in OMAP-2 and instead includes the following 22
-  new markers: ATP1A1, CD206, COL1A1, CTNNB1, FN1, FOXP3, GP2, HLA-DRA, IGHA1, IGHM, ITGAM, KRT4/5/6a/6b/6c/8/10/13/18,
-  MS4A1, MUC6, PDGFRA/B, POSTN, RORC, SIGLEC8, SPIB, TNC, TPSAB1, and UCHL1. This panel does not contain markers for
-  tuft cells and naive intestinal stem cells (LGR5+ ASCL2+). Antibodies without carriers are utilized. If the regular
-  antibody from the supplier contains carriers, custom ones are ordered without carriers. Antibodies are custom
-  conjugated with oligonucleotide barcodes. The protocols for antibody conjugation (Wei and Bi 2024a) and sample
-  preparation and antigen retrieval (Wei and Bi 2023) can be found in the respective linked references. Representative
-  datasets using this OMAP can be found here: (Wei and Bi 2024b).
+  OMAP-15 was designed for CODEX (CO-Detection by indEXing) imaging of formalin-fixed paraffin-embedded (FFPE) human intestine samples using the Akoya Biosciences PhenoCycler system (Black et al. 2021; Kennedy‐Darling et al. 2021). The panel consists of 54 antibodies and DAPI for nuclear segmentation. This OMAP provides spatial context for anatomical structures and cell types listed in ASCT+B Large Intestine v1.3 (Longacre, Hickey, and Lin 2022) and Small Intestine v1.1 (Longacre 2022). It builds upon OMAP-2 (Radtke et al. 2023) by adapting marker panels from frozen to FFPE tissue. Nineteen markers from OMAP-2 were excluded, and 22 new markers were included: ATP1A1, CD206, COL1A1, CTNNB1, FN1, FOXP3, GP2, HLA-DRA, IGHA1, IGHM, ITGAM, KRT4/5/6a/6b/6c/8/10/13/18, MS4A1, MUC6, PDGFRA/B, POSTN, RORC, SIGLEC8, SPIB, TNC, TPSAB1, and UCHL1. Markers for tuft cells and naive intestinal stem cells (LGR5+, ASCL2+) are not included. Carrier-free antibodies were used whenever possible; if carrier-containing antibodies were standard, custom carrier-free alternatives were ordered. All antibodies were oligo-conjugated using protocols detailed in Wei and Bi (2024a). Protocols for sample preparation and antigen retrieval are described in Wei and Bi (2023), and a representative dataset for this OMAP is available (Wei and Bi 2024b).
 
-  Bibliography: Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay
-  Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with
-  DNA-Conjugated Antibodies.” Nature Protocols 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
-  Kennedy‐Darling, Julia, Salil S. Bhate, John W. Hickey, Sarah Black, Graham L. Barlow, Gustavo Vazquez, Vishal G.
-  Venkataraaman, et al. 2021. “Highly Multiplexed Tissue Imaging Using Repeated Oligonucleotide Exchange Reaction.”
-  European Journal of Immunology 51 (5): 1262–77. https://doi.org/10.1002/eji.202048891. Longacre, Teri. 2022.
-  “Small-Intestine (v1.1) Graph Data, v1.1.” 2022. https://lod.humanatlas.io/asct-b/small-intestine/v1.1/. Longacre,
-  Teri, John Hickey, and Yiing Lin. 2022. “Large-Intestine (v1.3) Graph Data, v1.3.” 2022.
-  https://lod.humanatlas.io/asct-b/large-intestine/v1.3/. Radtke, Andrea J., Katy Börner, Neil Kelleher, and Ronald N.
-  Germain. 2023. “2-Intestine-Codex (v1.3) Graph Data, v1.3.” 2023.
-  https://lod.humanatlas.io/omap/2-intestine-codex/v1.3/. Wei, Bei, and Joanna Bi. 2023. “CODEX FFPE Staining and
-  Fixation,” December. https://www.protocols.io/view/codex-ffpe-staining-and-fixation-c6atzaen. ———. 2024a. “CODEX
-  Antibody Conjugation Protocol,” April. https://www.protocols.io/view/codex-antibody-conjugation-protocol-db2j2qcn.
-  ———. 2024b. “OMAP-15 Human Intestine with CODEX.” Zenodo. https://zenodo.org/records/10963121.
+  Bibliography:
+
+  Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated Antibodies.” *Nature Protocols* 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
+
+  Kennedy‐Darling, Julia, Salil S. Bhate, John W. Hickey, Sarah Black, Graham L. Barlow, Gustavo Vazquez, Vishal G. Venkataraaman, et al. 2021. “Highly Multiplexed Tissue Imaging Using Repeated Oligonucleotide Exchange Reaction.” *European Journal of Immunology* 51 (5): 1262–77. https://doi.org/10.1002/eji.202048891.
+
+  Longacre, Teri. 2022. “Small-Intestine (v1.1) Graph Data, v1.1.” 2022. https://lod.humanatlas.io/asct-b/small-intestine/v1.1/.
+
+  Longacre, Teri, John Hickey, and Yiing Lin. 2022. “Large-Intestine (v1.3) Graph Data, v1.3.” 2022. https://lod.humanatlas.io/asct-b/large-intestine/v1.3/.
+
+  Radtke, Andrea J., Katy Börner, Neil Kelleher, and Ronald N. Germain. 2023. “2-Intestine-Codex (v1.3) Graph Data, v1.3.” 2023. https://lod.humanatlas.io/omap/2-intestine-codex/v1.3/.
+
+  Wei, Bei, and Joanna Bi. 2023. “CODEX FFPE Staining and Fixation,” December. https://www.protocols.io/view/codex-ffpe-staining-and-fixation-c6atzaen.
+
+  Wei, Bei, and Joanna Bi. 2024a. “CODEX Antibody Conjugation Protocol,” April. https://www.protocols.io/view/codex-antibody-conjugation-protocol-db2j2qcn.
+
+  Wei, Bei, and Joanna Bi. 2024b. “OMAP-15 Human Intestine with CODEX.” Zenodo. https://zenodo.org/records/10963121.
 creators:
   - fullName: Bei Wei
     firstName: Bei
@@ -72,7 +64,8 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -83,8 +76,7 @@ hubmapId: HBM493.DJFQ.925
 doi: https://doi.org/10.48539/HBM493.DJFQ.925
 citation: >-
   Wei, Bei,	and Joanna Yang Bi.	
-  2025.	"OMAP-15 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX
-  v1.1."	
+  2025.	"OMAP-15 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.1."	
   https://doi.org/10.48539/HBM493.DJFQ.925.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	

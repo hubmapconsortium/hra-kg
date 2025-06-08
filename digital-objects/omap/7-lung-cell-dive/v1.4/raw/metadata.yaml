@@ -1,31 +1,20 @@
 title: >-
-  OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE
+  OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based
+  Imaging of Human Lung with Cell DIVE
 description: >-
-  OMAP-7 was designed for Cell DIVE imaging of human formalin fixed paraffin embedded (FFPE) lung tissue. Cell DIVE
-  enables highly multiplexed single cell analysis using antibody-based imaging (Gerdes et al. 2013). The tissue slides
-  were prepared with a two-step antigen retrieval process (pH 6 and pH 9) as described: (McDonough et al. 2020).
-  Antigens were detected using either primary antibodies with fluorophore-labeled secondaries or fluorescent dye
-  conjugated antibodies. The protocol can be found here: (Pryhuber et al. 2022). The panel contains 30 antibodies, 4 of
-  which are used for cell segmentation (Na/K ATPase, Cytokeratin, Cadherin, and S6) and the nuclear marker DAPI for
-  image alignment and nuclear segmentation. This OMAP provides a spatial context for key cell types in the ASCT+B lung
-  table v1.1 (Pryhuber and Sun 2021). Additionally, the inclusion of protein biomarkers such as AGTR1, Cathepsin L,
-  TMPRSS2, ICAM-1, and CD55 allow characterization of proteins relevant to SARS-CoV-2 infection and profiling of the
-  renin-angiotensin system (RAS) that may play a role in COVID-19 disease. The core and essential protein biomarkers
-  detailed here overlap (~25%) with the panel developed for multiplexed imaging of lung samples established using
-  conventional automated IHC staining for FFPE material. This OMAP does not contain antibodies for typing subsets of
-  fibroblasts, macrophages, or endothelial cells. A representative dataset using this OMAP can be found here: (Surrette
-  et al. 2023). This revised v1.4 OMAP corrects CD3D to CD3E.
+  OMAP-7 was designed for Cell DIVE imaging of human formalin fixed paraffin embedded (FFPE) lung tissue. Cell DIVE enables highly multiplexed single cell analysis using antibody-based imaging (Gerdes et al. 2013). The tissue slides were prepared with a two-step antigen retrieval process (pH 6 and pH 9) as described (McDonough et al. 2020). Antigens were detected using either primary antibodies with fluorophore-labeled secondaries or fluorescent dye conjugated antibodies. The protocol can be found here (Pryhuber et al. 2022). The panel contains 30 antibodies, 4 of which are used for cell segmentation (Na/K ATPase, Cytokeratin, Cadherin, and S6) and the nuclear marker DAPI for image alignment and nuclear segmentation. This OMAP provides a spatial context for key cell types in the ASCT+B lung table v1.1 (Pryhuber and Sun 2021). Additionally, the inclusion of protein biomarkers such as AGTR1, Cathepsin L, TMPRSS2, ICAM-1, and CD55 allow characterization of proteins relevant to SARS-CoV-2 infection and profiling of the renin-angiotensin system (RAS) that may play a role in COVID-19 disease. The core and essential protein biomarkers detailed here overlap (~25%) with the panel developed for multiplexed imaging of lung samples established using conventional automated IHC staining for FFPE material. This OMAP does not contain antibodies for typing subsets of fibroblasts, macrophages, or endothelial cells. A representative dataset using this OMAP can be found here: (Surrette et al. 2023). This revised v1.4 OMAP corrects CD3D to CD3E.
 
-  Bibliography: Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander
-  Bordwell, Ali Can, et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer
-  Tissue.” Proceedings of the National Academy of Sciences 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
-  McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVETM Platform | Slide
-  Clearing and Antigen Retrieval,” December. https://doi.org/10.17504/protocols.io.bpwumpew. Pryhuber, Gloria, Gail
-  Deutsch, Christine Surrette, Lisa Lowery, Huyck, and Cory Poole. 2022. “HuBMAP | GE/URMC/SCH Cell DIVETM Modality
-  Overview,” February. https://doi.org/10.17504/protocols.io.b4kgqutw. Pryhuber, Gloria, and Xin Sun. 2021. “Lung (v1.1)
-  Graph Data, v1.1.” 2021. https://lod.humanatlas.io/asct-b/lung/v1.1/. Surrette, Christine, Lisa Lowery, Gail Deutsch,
-  Gloria S. Pryhuber, and Fiona Ginty. 2023. “Multiplexed Immunofluorescence Staining Dataset - OMAP 7 - Lung, Cell
-  DIVE.” Zenodo. https://zenodo.org/records/7731162.
+  Bibliography:
+
+  Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can, et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.” *Proceedings of the National Academy of Sciences* 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
+
+  McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVE™ Platform | Slide Clearing and Antigen Retrieval.” December. https://doi.org/10.17504/protocols.io.bpwumpew.
+
+  Pryhuber, Gloria, Gail Deutsch, Christine Surrette, Lisa Lowery, Heidie Huyck, and Cory Poole. 2022. “HuBMAP | GE/URMC/SCH Cell DIVE™ Modality Overview.” February. https://doi.org/10.17504/protocols.io.b4kgqutw.
+
+  Pryhuber, Gloria, and Xin Sun. 2021. “Lung (v1.1) Graph Data, v1.1.” https://lod.humanatlas.io/asct-b/lung/v1.1/.
+
+  Surrette, Christine, Lisa Lowery, Gail Deutsch, Gloria S. Pryhuber, and Fiona Ginty. 2023. “Multiplexed Immunofluorescence Staining Dataset - OMAP 7 - Lung, Cell DIVE.” Zenodo. https://zenodo.org/records/7731162.
 creators:
   - fullName: Christine Surrette
     firstName: Christine
@@ -96,7 +85,8 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
@@ -104,7 +94,8 @@ funders:
   - funder: Intramural Research Program of the NIH
     awardNumber: UH3 CA246635
   - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer Institute
+      National Institute of Allergy and Infectious Disease and National Cancer
+      Institute
     awardNumber: OT2OD026671
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
@@ -116,8 +107,7 @@ hubmapId: HBM952.LHQS.538
 doi: https://doi.org/10.48539/HBM952.LHQS.538
 citation: >-
   Surrette, Christine,	Lisa Lowery,	Gloria Pryhuber,	Gail Deutsch,	and Fiona Ginty.	
-  2025.	"OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE,
-  v1.4."	
+  2025.	"OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE, v1.4."	
   https://doi.org/10.48539/HBM952.LHQS.538.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	

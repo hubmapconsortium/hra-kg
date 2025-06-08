@@ -1,12 +1,16 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Bone Marrow
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Bone
+  Marrow
 description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to
-  capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to
-  identify cell types. The tables are authored and reviewed by an international team of experts. The bone marrow table
-  reflects sampling from the iliac crest from the ilium bone of the bony pelvis. Minor changes were made for v1.4 to
-  ensure all cell types were mapped to Cell Ontology and genes and proteins were mapped to the Human Gene Ontology
-  (HUGO) Gene Nomenclature Committee (HGNC).
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
+  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
+  *part_of* structure of anatomical human body parts, the typology of cells, and
+  biomarkers used to identify cell types. The tables are authored and reviewed
+  by an international team of experts. The bone marrow table reflects sampling
+  from the iliac crest from the ilium bone of the bony pelvis. Minor changes
+  were made for v1.4 to ensure all cell types were mapped to Cell Ontology and
+  genes and proteins were mapped to the Human Gene Ontology (HUGO) Gene
+  Nomenclature Committee (HGNC).
 creators:
   - fullName: Muzlifah A. Haniffa
     firstName: Muzlifah
@@ -47,9 +51,10 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: "2023-12-15"
+creation_date: '2023-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -59,10 +64,12 @@ funders:
 hubmapId: HBM322.NHHN.582
 doi: https://doi.org/10.48539/HBM322.NHHN.582
 citation: >-
-  Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Bone Marrow v1.4,
-  https://doi.org/10.48539/HBM322.NHHN.582, Accessed on December 15, 2023.
+  Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables.
+  Bone Marrow v1.4, https://doi.org/10.48539/HBM322.NHHN.582, Accessed on
+  December 15, 2023.
 citationOverall: >-
-  Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B
-  Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2023.
+  Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2023.
+  [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on
+  December 15, 2023.
 datatable:
   - asct-b-vh-bone-marrow.csv

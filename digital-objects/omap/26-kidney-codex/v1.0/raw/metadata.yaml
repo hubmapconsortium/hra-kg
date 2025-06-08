@@ -1,31 +1,26 @@
 title: >-
-  OMAP-26: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging of Human Kidney with IMS-CODEX
+  OMAP-26: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging
+  of Human Kidney with IMS-CODEX
 description: >-
-  OMAP-26 was designed for CO-Detection by indEXing (CODEX) imaging of fresh frozen human kidney samples following
-  imaging mass spectrometry (IMS) as described here: (Pham et al. 2025). The panel contains 22 antibodies and the DAPI
-  nuclear marker for image alignment. There is considerable marker overlap with other kidney OMAPs: OMAP-3 (Neumann and
-  Farrow 2024), OMAP-9 (Barwinska et al. 2024), OMAP-14 (de Caestecker 2024), and OMAP-20 (Esselman 2024). In addition,
-  all antibodies in this panel are included in OMAP-27 (https://doi.org/10.48539/HBM228.CPGH.632), which is an expanded
-  CODEX kidney panel. This OMAP captures all functional tissue units of the nephron as well as basement membranes,
-  vasculature, lymphatics, stromal, and immune cell types (B and T cells). Innate immune cells are not captured in this
-  panel. This OMAP provides a spatial context for all anatomical structures and most cell types present in the ASCT+B
-  kidney table v1.6 (Jain et al. 2024). This panel was developed and validated for use after matrix-assisted laser
-  desorption/ionization mass spectrometry (MALDI IMS) imaging. Additional details on sample preparation and antibody
-  validation can be found at (VU Biomolecular Multimodal Imaging Center / Spraggins Research Group 2025).
+  OMAP-26 was developed for CO-Detection by indEXing (CODEX) imaging of fresh frozen human kidney tissues, following imaging mass spectrometry (IMS), as described in (Pham et al. 2025). The panel includes 22 antibodies and the nuclear marker DAPI for image registration. This OMAP captures spatial context for all functional tissue units (FTUs) of the nephron, as well as basement membranes, vasculature, lymphatics, stromal, and adaptive immune cells (B and T cells). It does not include innate immune cells.
+  The antibody panel in OMAP-26 significantly overlaps with other kidney panels including OMAP-3 (Neumann and Farrow 2024), OMAP-9 (Barwinska et al. 2024), OMAP-14 (de Caestecker 2024), and OMAP-20 (Esselman 2024). All antibodies in OMAP-26 are also included in the expanded CODEX kidney panel OMAP-27 (https://doi.org/10.48539/HBM228.CPGH.632). OMAP-26 supports spatial mapping of structures and cell types listed in the ASCT+B kidney table v1.6 (Jain et al. 2024).
+  This panel was optimized and validated for use following MALDI IMS imaging, supporting multimodal data integration. Additional details on sample preparation and antibody validation are provided by the VU Biomolecular Multimodal Imaging Center and the Spraggins Research Group (2025).
 
-  Bibliography: Barwinska, Daria, Tarek M. El-Achkar, Angela R. Sabo, Michael J. Ferkowicz, Seth Winfree, and William S.
-  Bowen. 2024. “9-Kidney-Codex (v1.3) Graph Data, v1.3.” 2024. https://lod.humanatlas.io/omap/9-kidney-codex/v1.3/.
-  Caestecker, Mark de. 2024. “14-Kidney-Cycif (v1.0) Graph Data, v1.0.” 2024.
-  https://lod.humanatlas.io/omap/14-kidney-cycif/v1.0/. Esselman, Allison. 2024. “20-Kidney-Ims-Cycif (v1.0) Graph Data,
-  v1.0.” 2024. https://lod.humanatlas.io/omap/20-kidney-ims-cycif/v1.0/. Jain, Sanjay, M. Todd Valerius, Yongqun He,
-  Tarek El-Achkar, Michael Eadon, and Jeffrey Spraggins. 2024. “Kidney (v1.6) Graph Data, v1.6.” 2024.
-  https://lod.humanatlas.io/asct-b/kidney/v1.6/. Neumann, Elizabeth K., and Melissa Farrow. 2024. “3-Kidney-Codex (v1.3)
-  Graph Data, v1.3.” 2024. https://lod.humanatlas.io/omap/3-kidney-codex/v1.3/. Pham, Thai, Lukasz Migas, Madeline E.
-  Colley, Ellie Pringy, Anna Smith, Jamie Allen, Mark De Caestecker, et al. 2025. “Post MALDI IMS CODEX Staining and
-  Imaging Fresh Frozen Tissue,” February.
-  https://www.protocols.io/view/post-maldi-ims-codex-staining-and-imaging-fresh-fr-dzy277ye. VU Biomolecular Multimodal
-  Imaging Center / Spraggins Research Group. 2025. “VU Biomolecular Multimodal Imaging Center / Spraggins Research Group
-  - Research Workspace on Protocols.Io.” Protocols.Io. 2025. https://www.protocols.io/workspaces/BIOMIC.
+  Bibliography:
+
+  Barwinska, Daria, Tarek M. El-Achkar, Angela R. Sabo, Michael J. Ferkowicz, Seth Winfree, and William S. Bowen. 2024. “9-Kidney-Codex (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/omap/9-kidney-codex/v1.3/.
+
+  Caestecker, Mark de. 2024. “14-Kidney-Cycif (v1.0) Graph Data, v1.0.” https://lod.humanatlas.io/omap/14-kidney-cycif/v1.0/.
+
+  Esselman, Allison. 2024. “20-Kidney-Ims-Cycif (v1.0) Graph Data, v1.0.” https://lod.humanatlas.io/omap/20-kidney-ims-cycif/v1.0/.
+
+  Jain, Sanjay, M. Todd Valerius, Yongqun He, Tarek El-Achkar, Michael Eadon, and Jeffrey Spraggins. 2024. “Kidney (v1.6) Graph Data, v1.6.” https://lod.humanatlas.io/asct-b/kidney/v1.6/.
+
+  Neumann, Elizabeth K., and Melissa Farrow. 2024. “3-Kidney-Codex (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/omap/3-kidney-codex/v1.3/.
+
+  Pham, Thai, Lukasz Migas, Madeline E. Colley, Ellie Pringy, Anna Smith, Jamie Allen, Mark De Caestecker, et al. 2025. “Post MALDI IMS CODEX Staining and Imaging Fresh Frozen Tissue.” https://www.protocols.io/view/post-maldi-ims-codex-staining-and-imaging-fresh-fr-dzy277ye.
+
+  VU Biomolecular Multimodal Imaging Center / Spraggins Research Group. 2025. “VU Biomolecular Multimodal Imaging Center / Spraggins Research Group - Research Workspace on Protocols.Io.” https://www.protocols.io/workspaces/BIOMIC.
 creators:
   - fullName: Thai Pham
     firstName: Thai
@@ -60,7 +55,8 @@ reviewers:
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -73,8 +69,7 @@ hubmapId: HBM677.XSHP.683
 doi: https://doi.org/10.48539/HBM677.XSHP.683
 citation: >-
   Pham, Thai,	and Melissa Farrow.	
-  2025.	"OMAP-26: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with
-  IMS-CODEX, v1.0."	
+  2025.	"OMAP-26: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with IMS-CODEX, v1.0."	
   https://doi.org/10.48539/HBM677.XSHP.683.	Accessed June 15, 2025.
 citationOverall: >-
   Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	

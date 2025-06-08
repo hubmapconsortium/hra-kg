@@ -1,21 +1,14 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Spinal Cord
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Spinal
+  Cord
 description: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
-  anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
-  authored and reviewed by an international team of experts. The Spinal Cord v1.0 table focuses on lumbar spinal cord
-  cell types from [Yadav et al., “A Cellular Taxonomy of the Adult Human Spinal Cord”]
-  (https://doi.org/10.1016/j.neuron.2023.01.007) with a companion [Human Spinal Cord snRNAseq Viewer]
-  (https://vmenon.shinyapps.io/humanspinalcord/) which presents a cellular taxonomy of the adult human spinal cord using
-  single-nucleus RNA sequencing with spatial transcriptomics and antibody
-  validation.                                                                                                                                                                                                                                                                                                                                                                                                                
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Spinal Cord v1.0 table focuses on lumbar spinal cord cell types from [Yadav et al., “A Cellular Taxonomy of the Adult Human Spinal Cord”] (https://doi.org/10.1016/j.neuron.2023.01.007) with a companion [Human Spinal Cord snRNAseq Viewer] (https://vmenon.shinyapps.io/humanspinalcord/) which presents a cellular taxonomy of the adult human spinal cord using single-nucleus RNA sequencing with spatial transcriptomics and antibody validation.                                                                                                                                                                                                                                                                                                                                                                                                                
                                                                                                                                                                                                                                                                                                                       
-  Bibliography:                                                                                                                                                             Yadav,
-  Archana, Kaya J. E. Matson, Li Li, Isabelle Hua, Joana Petrescu, Kristy Kang, Mor R. Alkaslasi, et al. 2023. “A
-  Cellular Taxonomy of the Adult Human Spinal Cord.” Neuron 111 (3): 328–344.e7.
-  https://doi.org/10.1016/j.neuron.2023.01.007. Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee,
-  Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers
-  of the Human Reference Atlas.” Nature Cell Biology 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
+  Bibliography:
+  
+  Yadav, Archana, Kaya J. E. Matson, Li Li, Isabelle Hua, Joana Petrescu, Kristy Kang, Mor R. Alkaslasi, et al. 2023. “A Cellular Taxonomy of the Adult Human Spinal Cord.” *Neuron* 111 (3): 328–344.e7. https://doi.org/10.1016/j.neuron.2023.01.007.
+  
+  Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” *Nature Cell Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6."
 creators:
   - fullName: Vilas Menon
     firstName: Vilas
@@ -32,11 +25,14 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: "2024-12-15"
+creation_date: '2024-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 hubmapId: HBM943.HDLM.983
@@ -54,3 +50,5 @@ datatable:
 references:
   - https://doi.org/10.1038/s41556-021-00788-6
   - https://doi.org/10.1016/j.neuron.2023.01.007
+  
+

@@ -1,16 +1,13 @@
 title: HRApop
 description: >-
-  Graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph
-  data that are useful for Human Reference Atlas use cases. This graph curates Human Reference Atlas Cell Type
-  Populations (HRApop) (Börner et al. 2025). More information is presented in a related paper (Bueckle et al. 2025).
 
-  Bibliography: Börner, Katy, Philip D. Blood, Jonathan C. Silverstein, Matthew Ruffalo, Rahul Satija, Sarah A.
-  Teichmann, Gloria J. Pryhuber, et al. 2025. “Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas
-  Construction and Usage.” Nature Methods, March, 1–16. https://doi.org/10.1038/s41592-024-02563-5.
+  graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph data that are useful for Human Reference Atlas use cases. This graph curates Human Reference Atlas Cell Type Populations (HRApop) (Börner et al. 2025). More information is presented in a related paper (Bueckle et al. 2025).
 
-  Bueckle, Andreas, Bruce W. Herr, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction,
-  Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.
-  https://doi.org/10.1101/2024.12.22.630006.
+  Bibliography:
+
+  Börner, Katy, Philip D. Blood, Jonathan C. Silverstein, Matthew Ruffalo, Rahul Satija, Sarah A. Teichmann, Gloria J. Pryhuber, et al. 2025. “Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage.” *Nature Methods*, March, 1–16. https://doi.org/10.1038/s41592-024-02563-5.
+
+  Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
 creators:
   - fullName: Andreas Bueckle
     firstName: Andreas
@@ -55,9 +52,10 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: "2025-06-15"
+creation_date: '2025-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

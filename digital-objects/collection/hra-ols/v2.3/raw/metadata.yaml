@@ -1,14 +1,10 @@
 title: Human Reference Atlas OLS Collection
-description: >-
-  Collections group multiple Human Reference Atlas (HRA) digital objects (DOs) for use in specific applications. The
-  hra-ols collection (OLS, https://www.ebi.ac.uk/ols4), comprises all public dataset graphs in the HRA knowledge graph
-  (Bueckle et al.
-  2025).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                          
-  Bibliography:                                                                                                                                                                                                                                                                                                                                                                         
-  Bueckle, Andreas, Bruce W. Herr, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction,
-  Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.
-  https://doi.org/10.1101/2024.12.22.630006.
+description: >- 
+  Collections group multiple Human Reference Atlas (HRA) Digital Objects (DOs) for use in specific applications. The hra-ols collection is a subset that focuses solely on Anatomical Structures (AS), Cell Types (CTs), and Biomarkers (Bs)—i.e., the asct-b DOs. It is used by the Ontology Lookup Service (OLS, https://www.ebi.ac.uk/ols4) for validation purposes. The source files for this collection on the Linked Open Data (LOD) server are available on GitHub.
+
+  Bibliography:
+
+  Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
 creators:
   - fullName: Katy Börner
     firstName: Katy
@@ -25,11 +21,14 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: "2025-06-15"
+creation_date: '2025-06-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 citation: >-

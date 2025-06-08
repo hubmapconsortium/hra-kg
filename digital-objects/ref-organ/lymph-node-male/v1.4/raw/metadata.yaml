@@ -1,13 +1,10 @@
 title: 3D Reference Organ for Lymph Node, Male
 description: >-
-  This reference organ (https://humanatlas.io/3d-reference-library) was created using the Clearing-enhanced 3D (Ce3D)
-  method developed by Dr. Weizhe Li, Laboratory of Immune System Biology, National Institute of Allergy and Infectious
-  Diseases, NIH using data documented in (Li, Germain, and Gerner 2017). While the size and cellular composition of
-  mouse and human lymph nodes varies between species, the overall anatomy is well-conserved.
+	This reference organ, Lymph-node-male (https://humanatlas.io/3d-reference-library) was created using the Clearing-enhanced 3D (Ce3D) method developed by Dr. Weizhe Li, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH using data documented in (Li, Germain, and Gerner 2017). While the size and cellular composition of mouse and human lymph nodes varies between species, the overall anatomy is well-conserved.
 
-  Bibliography: Li, Weizhe, Ronald N. Germain, and Michael Y. Gerner. 2017. “Multiplex, Quantitative Cellular Analysis
-  in Large Tissue Volumes with Clearing-Enhanced 3D Microscopy (Ce3D).” Proceedings of the National Academy of Sciences
-  114 (35): E7321–30. https://doi.org/10.1073/pnas.1708981114.
+	Bibliography:
+
+	Li, Weizhe, Ronald N. Germain, and Michael Y. Gerner. 2017. “Multiplex, Quantitative Cellular Analysis in Large Tissue Volumes with Clearing-Enhanced 3D Microscopy (Ce3D).” *Proceedings of the National Academy of Sciences* 114 (35): E7321–30. https://doi.org/10.1073/pnas.1708981114.
 creators:
   - fullName: Li Yao
     firstName: Li
@@ -28,9 +25,10 @@ reviewers:
     lastName: Jorgensen
     orcid: 0000-0002-7250-3569
 externalReviewers: []
-creation_date: "2024-12-15"
+creation_date: '2024-12-15'
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY
+  4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -40,11 +38,13 @@ funders:
 hubmapId: HBM532.TNXR.875
 doi: https://doi.org/10.48539/HBM532.TNXR.875
 citation: >-
+citation: >-
   Yao, Li, Kristen Browne, and Heidi Schlehlein. 2024. "3D Reference Organ for Lymph Node, Male v1.4."
   https://doi.org/10.48539/HBM532.TNXR.875. Accessed on December 15, 2024.
 citationOverall: >-
-  Yao, Li, Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024.
-  "HuBMAP CCF 3D Reference Object Library." https://humanatlas.io/3d-reference-library. Accessed on December 15, 2024.
+  Yao, Li, Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle,
+  and Katy Börner. 2024. "HuBMAP CCF 3D Reference Object Library."
+  https://humanatlas.io/3d-reference-library. Accessed on December 15, 2024.
 datatable:
   - 3d-nih-m-lymph-node.glb
   - crosswalk.csv
