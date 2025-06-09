@@ -5,7 +5,7 @@ description: |-
   (Bs)—i.e., the asct-b DOs. It is used by the Ontology Lookup Service (OLS, https://www.ebi.ac.uk/ols4) for validation
   purposes. The source files for this collection on the Linked Open Data (LOD) server are available on GitHub.
 
-  Bibliography:
+  **Bibliography:**
 
   Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025.
   “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.

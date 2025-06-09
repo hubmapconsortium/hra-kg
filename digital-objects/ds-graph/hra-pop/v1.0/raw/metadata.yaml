@@ -8,7 +8,7 @@ description: |-
   “dataset.” ds-graphs represent datasets by tissue sample and donor. It is a dataset graph for the Human Reference
   Atlaspop Universe. It includes all datasets considered for Human Reference Atlaspop (not enriched).
 
-  Bibliography:
+  **Bibliography:**
 
   Börner, Katy, Philip D. Blood, Jonathan C. Silverstein, Matthew Ruffalo, Rahul Satija, Sarah A. Teichmann, Gloria J.
   Pryhuber, et al. 2025. “Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage.”

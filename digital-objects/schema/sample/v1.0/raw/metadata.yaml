@@ -7,7 +7,7 @@ description: |-
   donor through tissue extraction to dataset generation, including spatial registration within reference atlases and
   detailed physical characterization of sample dimensions. This schema is described in detail in the HRA KG paper.
 
-  Bibliography:
+  **Bibliography:**
 
   Börner, Katy, Andreas Bueckle, Bruce W. Herr II, Leonard E. Cross, Ellen M. Quardokus, Elizabeth G. Record, Yingnan
   Ju, et al. 2022. “Tissue Registration and Exploration User Interfaces in Support of a Human Reference Atlas.”

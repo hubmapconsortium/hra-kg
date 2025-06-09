@@ -5,7 +5,7 @@ description: |-
   types with a DOI. As of HRA v2.3, those are 2d-ftu, asct-b, ctann, omap, ref-organ, and vascular-geometry DO types.
   Other DO types may be added in the future as they receive DOIs.
 
-  Bibliography:
+  **Bibliography:**
 
   Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025.
   “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.

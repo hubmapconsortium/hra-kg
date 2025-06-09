@@ -16,7 +16,7 @@ description: |-
   fibroblasts, macrophages, or endothelial cells. A representative dataset using this OMAP can be found here: (Surrette
   et al. 2023). This revised v1.4 OMAP corrects CD3D to CD3E.
 
-  Bibliography:
+  **Bibliography:**
 
   Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can,
   et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.”

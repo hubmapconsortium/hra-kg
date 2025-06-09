@@ -7,7 +7,7 @@ description: |-
   sample information is linked to datasets from researchers' assay analyses that offer deeper insights into the tissue
   samples. The “ds” stands for “dataset.” ds-graphs represent datasets by tissue sample and donor.
 
-  Bibliography:
+  **Bibliography:**
 
   Lonsdale, John, Jeffrey Thomas, Mike Salvatore, Rebecca Phillips, Edmund Lo, Saboor Shad, Richard Hasz, et al. 2013.
   “The Genotype-Tissue Expression (GTEx) Project.” *Nature Genetics* 45 (6): 580–85. https://doi.org/10.1038/ng.2653.

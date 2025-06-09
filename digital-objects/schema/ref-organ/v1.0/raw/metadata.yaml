@@ -6,7 +6,7 @@ description: |-
   metadata, anatomical references using UBERON and FMA ontologies, and spatial placement data for anatomical mapping and
   registration purposes. This schema is described in detail in the HRA KG paper.
 
-  Bibliography:
+  **Bibliography:**
 
   Herr II, Bruce W., Josef Hardi, Ellen M. Quardokus, Andreas Bueckle, Lu Chen, Fusheng Wang, Anita R. Caron, David
   Osumi-Sutherland, Mark A. Musen, and Katy Börner. 2023. “Specimen, Biological Structure, and Spatial Ontologies in

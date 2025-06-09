@@ -4,7 +4,7 @@ description: |-
   Visible Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002). Changes include
   adding the renal calyces and renal papillae from the kidney model per subject matter expert input.
 
-  Bibliography:
+  **Bibliography:**
 
   Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human
   Simulation.” *The Anatomical Record* 253 (2): 49–57.

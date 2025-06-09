@@ -7,7 +7,7 @@ description: |-
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
   available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
 
-  Bibliography:
+  **Bibliography:**
 
   Ergen, Can, Galen Xing, Chenling Xu, Martin Kim, Michael Jayasuriya, Erin McGeever, Angela Oliveira Pisco, Aaron
   Streets, and Nir Yosef. 2024. “Consensus Prediction of Cell Type Labels in Single-Cell Data with popV.” *Nature

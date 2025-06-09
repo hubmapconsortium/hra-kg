@@ -5,7 +5,7 @@ description: |-
   measurements, scaling, rotation, and translation parameters, along with spatial placements that define how entities
   are positioned relative to each other in 3D space. This schema is described in detail in the HRA KG paper.
 
-  Bibliography:
+  **Bibliography:**
 
   Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025.
   “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.

@@ -5,7 +5,7 @@ description: |-
   Ontology Language (OWL, https://www.w3.org/OWL), or ccf.owl (Herr II et al. 2023).  It is the precursor to Human
   Reference Atlas KG (Bueckle et al. 2025) and is part of the Human Reference Atlas (https://humanatlas.io).
 
-  Bibliography:
+  **Bibliography:**
 
   Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025.
   “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.

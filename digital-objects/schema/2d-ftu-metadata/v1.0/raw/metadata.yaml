@@ -5,7 +5,7 @@ description: |-
   distribution information. The schema is in full compliance with DCAT (Data Catalog Vocabulary) standards and
   provenance tracking through PROV-O ontology integration. This schema is described in detail in the HRA KG paper.
 
-  Bibliography:
+  **Bibliography:**
 
   Bidanta, Supriya, Katy Börner, Bruce W. Herr II Ii, Ellen M. Quardokus, Marcell Nagy, Katherine S. Gustilo, Rachel
   Bajema, Elizabeth Maier, Roland Molontay, and Griffin M. Weber. 2025. “Functional Tissue Units in the Human Reference

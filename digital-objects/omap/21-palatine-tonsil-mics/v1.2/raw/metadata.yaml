@@ -17,7 +17,7 @@ description: |-
   are available via Zenodo (Müller et al. 2024). OMAP-21 is the second MICS-based panel released, and v1.1 specifically
   updates UniProt IDs for CD45 isoforms to reflect CD45RB (P08575-9), CD45RA (P08575-8), and CD45RO (P08575-4).
 
-  Bibliography:
+  **Bibliography:**
 
   Kinkhabwala, Ali, Christoph Herbel, Jennifer Pankratz, Dmytro A. Yushchenko, Silvia Rüberg, Paurush Praveen, Sandy
   Reiß, et al. 2022. “MACSima Imaging Cyclic Staining (MICS) Technology Reveals Combinatorial Target Pairs for CAR T

@@ -4,7 +4,7 @@ description: |-
   the Visible Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002). In version 1.0
   main bronchus, the main bronchi were separated from the previous v1.2 lung model.
 
-  Bibliography:
+  **Bibliography:**
 
   Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human
   Simulation.” *The Anatomical Record* 253 (2): 49–57.

@@ -6,7 +6,7 @@ description: |-
   biomarkers (genes, proteins, lipids, metabolites, proteoforms) that characterize specific cell types within particular
   anatomical contexts. This schema is described in detail in the HRA KG paper.
 
-  Bibliography:
+  **Bibliography:**
 
   Börner, Katy, Philip D. Blood, Jonathan C. Silverstein, Matthew Ruffalo, Rahul Satija, Sarah A. Teichmann, Gloria J.
   Pryhuber, et al. 2025. “Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage.”

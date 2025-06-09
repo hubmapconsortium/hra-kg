@@ -6,7 +6,7 @@ description: |-
   translation parameters, along with extraction sets that define curated collections of anatomical features. This schema
   is described in detail in the HRA KG paper.
 
-  Bibliography:
+  **Bibliography:**
 
   Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025.
   “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.

@@ -14,7 +14,7 @@ description: |-
   directed against EGFR was originally included in OMAP-5 v1.0 and v1.1, but was removed due to inconsistent labeling. A
   representative dataset using this OMAP can be found here: (Tian and Tarolli 2023).
 
-  Bibliography:
+  **Bibliography:**
 
   Masci, Anna Maria, Tim Kendall, and Ayako Suzuki. 2021. “Liver (v1.0) Graph Data, v1.0.”
   https://lod.humanatlas.io/asct-b/liver/v1.0/.

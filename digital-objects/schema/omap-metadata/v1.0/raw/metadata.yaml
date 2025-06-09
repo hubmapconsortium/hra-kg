@@ -5,7 +5,7 @@ description: |-
   distribution information. The schema is in full compliance with DCAT (Data Catalog Vocabulary) standards and
   provenance tracking through PROV-O ontology integration. This schema is described in detail in the HRA KG paper.
 
-  Bibliography:
+  **Bibliography:**
 
   Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette,
   Presha Rajbhandari, et al. 2023. “Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed

@@ -5,7 +5,7 @@ description: |-
   information. The schema is in full compliance with DCAT (Data Catalog Vocabulary) standards and provenance tracking
   through PROV-O ontology integration. This schema is described in detail in the HRA KG paper.
 
-  Bibliography:
+  **Bibliography:**
 
   Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025.
   “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.

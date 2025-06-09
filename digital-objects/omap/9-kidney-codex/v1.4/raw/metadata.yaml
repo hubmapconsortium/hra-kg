@@ -16,7 +16,7 @@ description: |-
   corrects author names, and v1.5 updates the UniProt accession number for CD45RO to P08575-4, differentiating it from
   CD45. A representative dataset is available via Barwinska, Sabo, and EL-Achkar (2024).
 
-  Bibliography:
+  **Bibliography:**
 
   Barwinska, Daria, Angela Sabo, and Tarek EL-Achkar. 2024. “OMAP-9.” Zenodo. https://doi.org/10.5281/zenodo.14537009.
 
