@@ -2,7 +2,7 @@ title: Human Reference Atlas (HRA)
 description: |-
   Collections group multiple Human Reference Atlas (HRA) Digital Objects (DOs) for use in specific applications. The hra
   collection includes all public dataset graphs in the HRA Knowledge Graph (Bueckle et al. 2025). It includes HRA DO
-  types with a DOI. As of HRA v2.2, those are 2d-ftu, asct-b, ctann, omap, ref-organ, and vascular-geometry DO types.
+  types with a DOI. As of HRA v2.3, those are 2d-ftu, asct-b, ctann, omap, ref-organ, and vascular-geometry DO types.
   Other DO types may be added in the future as they receive DOIs.
 
   Bibliography:
