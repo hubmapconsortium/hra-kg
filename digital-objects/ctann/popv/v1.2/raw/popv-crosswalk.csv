@@ -414,7 +414,6 @@ large intestine,UBERON:0000059,colon epithelial cell,,colon epithelial cell,CL:0
 large intestine,UBERON:0000059,epithelial cell of large intestine,,epithelial cell of large intestine,CL:0002253,skos:exactMatch
 blood,UBERON:0000178,"B cell, CD19-positive",,"B cell, CD19-positive",CL:0001201,skos:exactMatch
 blood,UBERON:0000178,"CD4-positive, alpha-beta T cell",,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
-heart,UBERON:0000948,hepatocyte,,hepatocyte,CL:0000182,skos:exactMatch
 eye,UBERON:0000970,bipolar neuron,,bipolar neuron,CL:0000103,skos:exactMatch
 eye,UBERON:0000970,blood vessel endothelial cell,,blood vessel endothelial cell,CL:0000071,skos:exactMatch
 eye,UBERON:0000970,sensory neuron,,sensory neuron,CL:0000101,skos:exactMatch
