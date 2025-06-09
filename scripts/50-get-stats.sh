@@ -27,13 +27,13 @@ done
 
 #do-processor create-db --include-all-versions --journal $JNL
 
-blazegraph-runner --journal=$JNL select src/nodes.rq scratch/ALL-nodes.tsv
-blazegraph-runner --journal=$JNL select src/edge-count.rq scratch/edge-count.tsv
+blazegraph-runner --journal=$JNL select src/nodes.rq dist/ALL-nodes.tsv
+blazegraph-runner --journal=$JNL select src/edge-count.rq dist/edge-count.tsv
 
-NODES=`tail -n +2 scratch/ALL-nodes.tsv | sort -u -S 75% | wc -l`
+NODES=`tail -n +2 dist/ALL-nodes.tsv | sort -u -S 75% | wc -l`
 echo nodes $NODES
 
-EDGES=`tail -1 scratch/edge-count.tsv | cut -d'"' -f 2`
+EDGES=`tail -1 dist/edge-count.tsv | cut -d'"' -f 2`
 echo edges $EDGES
 
 EDGES2=`find dist -name "*.nt" -exec cat {} \; | wc -l`
@@ -47,4 +47,4 @@ echo "Nodes in the HRA Knowledge Graph,${NODES}," >> dist/high-level-stats.csv
 echo "Edges in the HRA Knowledge Graph,${EDGES}," >> dist/high-level-stats.csv
 echo "Size of the HRA Knowledge Graph,${SIZE},MB" >> dist/high-level-stats.csv
 
-rm -f scratch/ALL-nodes.tsv scratch/edge-count.tsv
+rm -f dist/ALL-nodes.tsv dist/edge-count.tsv
