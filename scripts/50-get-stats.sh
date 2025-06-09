@@ -6,26 +6,7 @@ set -ev
 JNL='dist/ALL-blazegraph.jnl'
 rm -f $JNL
 
-# Load the catalog
-blazegraph-runner --journal=$JNL load --graph=https://purl.humanatlas.io dist/catalog.ttl
-blazegraph-runner --journal=$JNL load --graph=https://lod.humanatlas.io dist/catalog.ttl
-
-# Load each digital object into a named graph (and redundant if available)
-for obj in $(do-processor list); do
-  TTL=dist/${obj}/graph.ttl
-  if [ -e $TTL ]; then
-    GRAPH="https://purl.humanatlas.io/${obj}"
-    blazegraph-runner --journal=$JNL load --graph=$GRAPH $TTL
-  fi
-
-  REDUNDANT=dist/${obj}/redundant.ttl
-  if [ -e $REDUNDANT ]; then
-    GRAPH="https://purl.humanatlas.io/${obj}/redundant"
-    blazegraph-runner --journal=$JNL load --graph=$GRAPH $REDUNDANT
-  fi
-done
-
-#do-processor create-db --include-all-versions --journal $JNL
+do-processor create-db --include-all-versions --journal $JNL
 
 blazegraph-runner --journal=$JNL select src/nodes.rq dist/ALL-nodes.tsv
 blazegraph-runner --journal=$JNL select src/edge-count.rq dist/edge-count.tsv
