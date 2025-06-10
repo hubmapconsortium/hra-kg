@@ -1,12 +1,10 @@
 title: 2D Intercalated Duct FTU for Pancreas
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the intercalated duct FTU in the ASCT+B
-  Table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). Uberon describes this FTU as follows: ""An
-  intercalated duct that is part of a pancreas."" 
+  This functional tissue unit (FTU) illustration includes cell types related to the intercalated duct FTU in the ASCT+B Table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). Cell types and measurements were referenced from (R and Weerakkody 2013). Uberon describes this FTU as follows: "An intercalated duct that is part of a pancreas." 
 
-  **Bibliography:**
-
-  R, R. & Weerakkody, Y. (2013). Pancreatic duct diameter. Radiopaedia.org. https://doi.org/10.53347/rID-24634
+  **Bibliography**:
+  
+  * R, Rengarajan, and Yuranga Weerakkody. 2013. “Pancreatic Duct Diameter.” In Radiopaedia.Org. *Radiopaedia.org*. https://doi.org/10.53347/rID-24634.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -47,3 +45,5 @@ datatable:
   - crosswalk.csv
 references:
   - https://doi.org/10.53347/rID-24634
+  - https://doi.org/10.48539/HBM557.XHHV.557
+  

@@ -19,22 +19,17 @@ description: |-
 
   **Bibliography:**
 
-  Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2023. “Pancreas (v1.3) Graph Data, v1.3.”
+  * Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2023. “Pancreas (v1.3) Graph Data, v1.3.”
   https://lod.humanatlas.io/asct-b/pancreas/v1.3/.
-
-  Chen, Jing, Edward J. Butfiloski, cxm, and Martha Campbell-Thompson. 2022. “Human Pancreas Processing.”
+  * Chen, Jing, Edward J. Butfiloski, cxm, and Martha Campbell-Thompson. 2022. “Human Pancreas Processing.”
   https://www.protocols.io/view/human-pancreas-processing-b7gxrjxn.
-
-  Ewing, Samuel, and Martha Campbell-Thompson. 2025. “Pancreas Organ Mapping Antibody Panel (OMAP) Using CyCIF to Stain
+  * Ewing, Samuel, and Martha Campbell-Thompson. 2025. “Pancreas Organ Mapping Antibody Panel (OMAP) Using CyCIF to Stain
   Pancreatic Ganglia.” Zenodo. https://zenodo.org/records/14867745.
-
-  Ewing, Samuel, Hong Huang, Sydney Haselden, Lith Nasif, and Martha Campbell-Thompson. 2025. “Multiplex
+  * Ewing, Samuel, Hong Huang, Sydney Haselden, Lith Nasif, and Martha Campbell-Thompson. 2025. “Multiplex
   Immunofluorescence for Human Pancreatic Ganglia.” https://doi.org/10.17504/protocols.io.261ger4djl47/v1.
-
-  Martinez Casals, Anna, and Frida Björklund. 2024. “6-Pancreas-Codex (v1.3) Graph Data, v1.3.”
+  * Martinez Casals, Anna, and Frida Björklund. 2024. “6-Pancreas-Codex (v1.3) Graph Data, v1.3.”
   https://lod.humanatlas.io/omap/6-pancreas-codex/v1.3/.
-
-  Saunders, Diane, and Conrad Reihsmann. 2024. “13-Pancreas-Codex (v1.1) Graph Data, v1.1.”
+  * Saunders, Diane, and Conrad Reihsmann. 2024. “13-Pancreas-Codex (v1.1) Graph Data, v1.1.”
   https://lod.humanatlas.io/omap/13-pancreas-codex/v1.1/.
 creators:
   - fullName: Samuel L.

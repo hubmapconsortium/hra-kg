@@ -1,12 +1,10 @@
 title: 2D Islets of Langerhans FTU for Pancreas
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the islets of Langerhans FTU in the
-  ASCT+B Table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). Uberon describes this FTU as follows: "The
-  clusters of hormone-producing cells that are scattered throughout the pancreas."
+  This functional tissue unit (FTU) illustration includes cell types related to the islets of Langerhans FTU in the ASCT+B Table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). Cell type and measurements were referenced from (Da Silva Xavier 2018). Uberon describes this FTU as follows: "The clusters of hormone-producing cells that are scattered throughout the pancreas." 
 
-  **Bibliography:**
-
-  Da Silva Xavier, G. (2018). The Cells of the Islets of Langerhans. *J. Clin. Med*., 7, 54.
+  **Bibliography**:
+  
+  * Da Silva Xavier, Gabriela. 2018. “The Cells of the Islets of Langerhans.” *Journal of Clinical Medicine* 7 (3): 54. https://doi.org/10.3390/jcm7030054.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -47,3 +45,4 @@ datatable:
   - crosswalk.csv
 references:
   - https://doi.org/10.48539/HBM557.XHHV.557
+  - https://doi.org/10.3390/jcm7030054

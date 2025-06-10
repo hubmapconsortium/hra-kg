@@ -19,22 +19,18 @@ description: |-
 
   **Bibliography:**
 
-  Kinkhabwala, Ali, Christoph Herbel, Jennifer Pankratz, Dmytro A. Yushchenko, Silvia Rüberg, Paurush Praveen, Sandy
+  * Kinkhabwala, Ali, Christoph Herbel, Jennifer Pankratz, Dmytro A. Yushchenko, Silvia Rüberg, Paurush Praveen, Sandy
   Reiß, et al. 2022. “MACSima Imaging Cyclic Staining (MICS) Technology Reveals Combinatorial Target Pairs for CAR T
   Cell Treatment of Solid Tumors.” *Scientific Reports* 12 (1): 1911. https://doi.org/10.1038/s41598-022-05841-4.
-
-  Müller, Werner, Julia Femel, Silvia Rüberg, and Andreas Bosio. 2024. “OMAP-21: Organ Mapping Antibody Panel (OMAP) for
+  * Müller, Werner, Julia Femel, Silvia Rüberg, and Andreas Bosio. 2024. “OMAP-21: Organ Mapping Antibody Panel (OMAP) for
   Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with MICS on MACSima 1.5.” Zenodo.
   https://zenodo.org/records/13132639.
-
-  Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023. “10-Palatine-Tonsil-Mics (v1.0) Graph Data, v1.0.” 2023.
+  * Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023. “10-Palatine-Tonsil-Mics (v1.0) Graph Data, v1.0.” 2023.
   https://lod.humanatlas.io/omap/10-palatine-tonsil-mics/v1.0/.
-
-  Neil, Emily, Dongju Park, Rebecca C. Hennessey, Eric C. DiBiasio, Michael DiBuono, Hanna Lafayette, Erica Lloyd, et
+  * Neil, Emily, Dongju Park, Rebecca C. Hennessey, Eric C. DiBiasio, Michael DiBuono, Hanna Lafayette, Erica Lloyd, et
   al. 2023. “Spatial Protein and RNA Analysis on the Same Tissue Section Using MICS Technology.” bioRxiv.
   https://doi.org/10.1101/2023.10.27.564191.
-
-  Radtke, Andrea J. 2024. “1-Human-Lymph-Node-Ibex (v1.4) Graph Data, v1.4.” 2024.
+  * Radtke, Andrea J. 2024. “1-Human-Lymph-Node-Ibex (v1.4) Graph Data, v1.4.” 2024.
   https://lod.humanatlas.io/omap/1-human-lymph-node-ibex/v1.4/.
 creators:
   - fullName: Werner Müller

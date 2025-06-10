@@ -1,13 +1,14 @@
 title: 2D Bronchial Submucosal Gland FTU for Lung
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the bronchial submucosal gland FTU in
-  the ASCT+B Table [Lung v1.2](https://doi.org/10.48539/HBM396.QVLQ.449). Uberon describes this FTU as follows: "A
-  submucosal gland located in a bronchus."
+  This functional tissue unit (FTU) illustration includes cell types related to the bronchial submucosal gland FTU in the ASCT+B Table [Lung v1.2](https://doi.org/10.48539/HBM396.QVLQ.449). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology* (Ovalle and Nahirney 2021), *Junqueira’s Basic Histology Text & Atlas* (Mescher 2021), *Human Microscopic Anatomy* (Krstić 1994), and *Histology: A Text and Atlas* (Wojciech Pawlina and Michael H. Ross 2019) were referenced. Measurements were taken from (Ostedgaard et al. 2020). Uberon describes this FTU as follows: "A submucosal gland located in a bronchus." 
 
-  **Bibliography:**
-
-  Ostedgaard, L. S. et al. (2020). Lack of airway submucosal glands impairs respiratory host defenses. *eLife*, 9,
-  e59653.
+  **Bibliography**:
+  
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Mescher, Anthony L. 2024. Junqueira’s Basic Histology: Text and Atlas. Seventeenth edition. McGraw Hill Lange. New York, NY: *McGraw Hill*.
+  * Ostedgaard, Lynda S, Margaret P Price, Kristin M Whitworth, Mahmoud H Abou Alaiwa, Anthony J Fischer, Akshaya Warrier, Melissa Samuel, et al. 2020. “Lack of Airway Submucosal Glands Impairs Respiratory Host Defenses.” *eLife* 9 (October):e59653. https://doi.org/10.7554/eLife.59653.
+  * Ovalle, William K., Patrick C. Nahirney, and Frank H. Netter. 2021. Netter’s Essential Histology: With Correlated Histopathology. Third edition. Philadelphia, PA: *Elsevier*.
+  * Wojciech Pawlina and Michael H. Ross. 2019. “Histology: A Text and Atlas: With Correlated Cell and Molecular Biology. Eighth Edition, 2018 Authors: Wojciech Pawlina; Michael H. Ross.” *Morphologia* 13 (4): 76–89. https://doi.org/10.26641/1997-9665.2019.4.76-89.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -48,3 +49,6 @@ datatable:
   - crosswalk.csv
 references:
   - https://doi.org/10.48539/HBM396.QVLQ.449
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.7554/eLife.59653
+  - https://doi.org/10.26641/1997-9665.2019.4.76-89

@@ -1,19 +1,14 @@
 title: 2D Nephron Functional Tissue Unit (FTU) for Kidney
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table
-  [Kidney v1.4](https://doi.org/10.48539/HBM636.MXKP.682). This illustration was inspired by the [Kidney Tissue Atlas
-  Explorer](https://atlas.kpmp.org/explorer) created by the Kidney Precision Medicine Project (KPMP). Multiple histology
-  atlases, especially *Human Microscopic Anatomy* (Krstić 1994) and *Histology: A Text and Atlas* (Ross et al. 2003)
-  were referenced. Cell type diameters were primarily defined by (Hu, McDonough, and Layton 2021). Uberon describes this
-  FTU as follows: "The basic functional unit of the kidney. Its chief function is to regulate the concentration of water
-  and soluble substances like sodium salts by filtering the blood, reabsorbing what is needed and excreting the rest as
-  urine. A nephron eliminates wastes from the body, regulates blood volume and blood pressure, controls levels of
-  electrolytes and metabolites, and regulates blood pH. Its functions are vital to life and are regulated by the
-  endocrine system by hormones such as antidiuretic hormone, aldosterone, and parathyroid hormone."
+  This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table [Kidney v1.4](https://doi.org/10.48539/HBM636.MXKP.682). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer) created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially *Human Microscopic Anatomy* (Krstić 1991) and *Histology: A Text and Atlas* (Wojciech Pawlina and Michael H. Ross 2019) were referenced. Cell types and diameters were primarily defined from (Hu, McDonough, and Layton 2021; Layton and Layton 2019). Additional references used (Adam Augustyn 2024). Uberon describes this FTU as follows: "The basic functional unit of the kidney. Its chief function is to regulate the concentration of water and soluble substances like sodium salts by filtering the blood, reabsorbing what is needed and excreting the rest as urine. A nephron eliminates wastes from the body, regulates blood volume and blood pressure, controls levels of electrolytes and metabolites, and regulates blood pH. Its functions are vital to life and are regulated by the endocrine system by hormones such as antidiuretic hormone, aldosterone, and parathyroid hormone."
 
-  **Bibliography:**
-
-  Britannica, T. E. of E. Nephron. *Encyclopedia Britannica* (2024). https://www.britannica.com/science/nephron
+  **Bibliography**:
+  
+  * Adam Augustyn. 2024. “Nephron.” *Encyclopedia Britannica*. September 17, 2024. https://www.britannica.com/science/nephron.
+  * Hu, Rui, Alicia A. McDonough, and Anita T. Layton. 2021. “Sex Differences in Solute and Water Handling in the Human Kidney: Modeling and Functional Implications.” *iScience* 24 (6): 102667. https://doi.org/10.1016/j.isci.2021.102667.
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Layton, Anita T., and Harold E. Layton. 2019. “A Computational Model of Epithelial Solute and Water Transport along a Human Nephron.” Edited by Daniel A Beard. *PLOS Computational Biology* 15 (2): e1006108. https://doi.org/10.1371/journal.pcbi.1006108.
+  * Wojciech Pawlina and Michael H. Ross. 2019. “Histology: A Text and Atlas: With Correlated Cell and Molecular Biology. Eighth Edition, 2018 Authors: Wojciech Pawlina; Michael H. Ross.” *Morphologia* 13 (4): 76–89. https://doi.org/10.26641/1997-9665.2019.4.76-89.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -62,3 +57,7 @@ datatable:
   - crosswalk.csv
 references:
   - https://doi.org/10.48539/HBM636.MXKP.682
+  - https://doi.org/10.1016/j.isci.2021.102667
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.1371/journal.pcbi.1006108
+  - https://doi.org/10.26641/1997-9665.2019.4.76-89

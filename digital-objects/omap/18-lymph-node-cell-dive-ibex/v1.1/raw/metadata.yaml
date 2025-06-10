@@ -22,35 +22,26 @@ description: |-
 
   **Bibliography:**
 
-  Gerdes, Michael J., et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer
+  * Gerdes, Michael J., et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer
   Tissue.” PNAS 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
-
-  Image Data Resource. 2025. “Webclient for Image Data Resource.”
+  * Image Data Resource. 2025. “Webclient for Image Data Resource.”
   https://idr.openmicroscopy.org/webclient/?show=project-3001.
-
-  Jorgensen, Marda, Andrea J. Radtke, and Natalie Rodriguez. 2021. “Anatomical Structures, Cell Types, plus Biomarkers
+  * Jorgensen, Marda, Andrea J. Radtke, and Natalie Rodriguez. 2021. “Anatomical Structures, Cell Types, plus Biomarkers
   (ASCT+B) Table for Lymph Node v1.1.” https://doi.org/10.48539/HBM573.SHCQ.259.
-
-  Radtke, Andrea J. 2023. “1-Human-Lymph-Node-Ibex (v1.3) Graph Data.”
+  * Radtke, Andrea J. 2023. “1-Human-Lymph-Node-Ibex (v1.3) Graph Data.”
   https://lod.humanatlas.io/omap/1-human-lymph-node-ibex/v1.3/.
-
-  Radtke, Andrea J., et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content
+  * Radtke, Andrea J., et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content
   Imaging of Diverse Tissues.” *Nature Protocols* 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
-
-  Radtke, Andrea J., et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial
+  * Radtke, Andrea J., et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial
   Analysis of Cells in Complex Tissues.” *PNAS* 117 (52): 33455–65. https://doi.org/10.1073/pnas.2018488117.
-
-  Radtke, Andrea J., et al. 2024. “Multi-Omic Profiling of Follicular Lymphoma Reveals Changes in Tissue Architecture
+  * Radtke, Andrea J., et al. 2024. “Multi-Omic Profiling of Follicular Lymphoma Reveals Changes in Tissue Architecture
   and Enhanced Stromal Remodeling in High-Risk Patients.” *Cancer Cell* 42 (3): 444–63.e10.
   https://doi.org/10.1016/j.ccell.2024.02.001.
-
-  Yaniv, Ziv, et al. 2025. “Iterative Bleaching Extends Multiplexity (IBEX) Knowledge-Base.” Zenodo.
+  * Yaniv, Ziv, et al. 2025. “Iterative Bleaching Extends Multiplexity (IBEX) Knowledge-Base.” Zenodo.
   https://zenodo.org/records/14645972.
-
-  Radtke, Andrea J., et al. 2025. “The IBEX Knowledge-Base: A Central Resource for Multiplexed Imaging Techniques.”
+  * Radtke, Andrea J., et al. 2025. “The IBEX Knowledge-Base: A Central Resource for Multiplexed Imaging Techniques.”
   *PLoS Biol* 23(3): e3003070. https://doi.org/10.1371/journal.pbio.3003070.
-
-  Yaniv, Ziv, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of
+  * Yaniv, Ziv, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of
   Immunofluorescence Imaging Methods.” *eLife* 14:RP105737.
 creators:
   - fullName: Andrea J. Radtke

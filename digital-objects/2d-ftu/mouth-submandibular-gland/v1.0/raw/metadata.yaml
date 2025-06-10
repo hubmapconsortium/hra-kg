@@ -1,22 +1,14 @@
 title: 2D Submandibular Gland Ducto-Acinar for Mouth
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the submandibular gland ducto-acinar FTU
-  in the ASCT+B Table [Mouth v1.0](https://doi.org/10.48539/HBM479.XPML.677). Uberon describes this FTU as follows: "Either of the paired
-  compound tubuloalveolar (aka tubuloacinar) major salivary glands composed of both serous and mucous secretory cells
-  and situated beneath the mandible."
+  This functional tissue unit (FTU) illustration includes cell types related to the submandibular gland ducto-acinar FTU in the ASCT+B Table [Mouth v1.0](link to table TBD). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology* (Ovalle and Nahirney 2021), *Junqueira’s Basic Histology Text & Atlas* (Mescher 2021), *Human Microscopic Anatomy* (Krstić 1994), *Histology: A Text and Atlas* (Ross et al. 2003), and *Netter’s Head and Neck Anatomy for Dentistry* (Norton and Willett 2025) were referenced. Uberon describes this FTU as follows: "Either of the paired compound tubuloalveolar (aka tubuloacinar) major salivary glands composed of both serous and mucous secretory cells and situated beneath the mandible." 
 
-  **Bibliography:**
-
-  Guyton, A., & Hall, J. (2006). *Textbook of medical physiology* (11th ed.). Philadelphia: Elsevier Saunders
-
-  Lalwani, A. (2011). *CURRENT Diagnosis & Treatment Otolaryngology--Head and Neck Surgery*, Third Edition (3rd ed.).
-  Blacklick: McGraw-Hill Publishing.
-
-  Moore, K., Agur, A., & Dalley, A. *Clinically oriented anatomy*.
-
-  Netter, F. (2014). *Atlas of human anatomy* (6th ed.). Philadelphia, PA: Elsevier Saunder
-
-  Standring, S. (2009). *Gray's anatomy* (40th ed.). Edinburgh: Elsevier Churchill Livingstone.
+  **Bibliography**:
+  
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Mescher, Anthony L. 2024. Junqueira’s Basic Histology: Text and Atlas. Seventeenth edition. McGraw Hill Lange. New York, NY: *McGraw Hill*.
+  * Norton, Neil Scott, and Gilbert M. Willett. 2025. Netter’s Head and Neck Anatomy for Dentistry. Fourth edition. Philadelphia: *Elsevier*.
+  * Ovalle, William K., Patrick C. Nahirney, and Frank H. Netter. 2021. Netter’s Essential Histology: With Correlated Histopathology. Third edition. Philadelphia, PA: *Elsevier*.
+  * Wojciech Pawlina and Michael H. Ross. 2019. “Histology: A Text and Atlas: With Correlated Cell and Molecular Biology. Eighth Edition, 2018 Authors: Wojciech Pawlina; Michael H. Ross.” *Morphologia* 13 (4): 76–89. https://doi.org/10.26641/1997-9665.2019.4.76-89.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -55,3 +47,6 @@ datatable:
   - 2d-ftu-mouth-submandibular-gland.png
   - 2d-ftu-mouth-submandibular-gland.ai
   - crosswalk.csv
+references:
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.26641/1997-9665.2019.4.76-89

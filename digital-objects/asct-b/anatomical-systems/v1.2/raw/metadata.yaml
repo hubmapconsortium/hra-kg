@@ -10,6 +10,10 @@ creators:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
+  - fullName: Griffin Weber
+    firstName: Griffin
+    lastName: Weber
+    orcid: 0000-0002-2597-881X
 project_leads:
   - fullName: Katy Börner
     firstName: Katy
