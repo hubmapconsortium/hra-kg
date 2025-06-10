@@ -17,14 +17,12 @@ description: |-
 
   **Bibliography:**
 
-  Björklund, Frida, Anna Martinez Casals, MacDonald Patrick E., and Emma Lundberg. 2023. “Dataset: CODEX Highly
+  * Björklund, Frida, Anna Martinez Casals, MacDonald Patrick E., and Emma Lundberg. 2023. “Dataset: CODEX Highly
   Multiplexed Tissue Imaging in Pancreas.” Zenodo. https://zenodo.org/records/7742474.
-
-  Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2023. “Pancreas (v1.3) Graph Data, v1.3.”
+  * Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2023. “Pancreas (v1.3) Graph Data, v1.3.”
   https://lod.humanatlas.io/asct-b/pancreas/v1.3/.
-
-  Goltsev, Yury, Nikolay Samusik, Julia Kennedy-Darling, Salil Bhate, Matthew Hale, Gustavo Vazquez, Sarah Black, and
-  Garry P. Nolan. 2018. “Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging.” *Cell* 174 (4):
+  * Goltsev, Yury, Nikolay Samusik, Julia Kennedy-Darling, Salil Bhate, Matthew Hale, Gustavo Vazquez, Sarah Black, and
+  * Garry P. Nolan. 2018. “Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging.” *Cell* 174 (4):
   968–981.e15. https://doi.org/10.1016/j.cell.2018.07.010.
 creators:
   - fullName: Anna Martinez Casals

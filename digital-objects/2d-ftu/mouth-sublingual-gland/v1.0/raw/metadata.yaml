@@ -1,16 +1,14 @@
 title: 2D Sublingual Gland Ducto-Acinar for Mouth
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the sublingual gland ducto-acinar FTU in
-  the ASCT+B Table [Mouth v1.0](https://doi.org/10.48539/HBM479.XPML.677). Uberon describes this FTU as follows: "The small mucin-producing
-  salivary glands in the floor of the mouth beneath the tongue, anterior to the submandibular gland."
+  This functional tissue unit (FTU) illustration includes cell types related to the sublingual gland ducto-acinar FTU in the ASCT+B Table [Mouth v1.0](link to table TBD). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology* (Ovalle and Nahirney 2021), *Junqueira’s Basic Histology Text & Atlas* (Mescher 2021), *Human Microscopic Anatomy* (Krstić 1994), *Histology: A Text and Atlas* (Wojciech Pawlina and Michael H. Ross 2019), and *Netter’s Head and Neck Anatomy for Dentistry* (Norton and Willett 2025) were referenced. Uberon describes this FTU as follows: "The small mucin-producing salivary glands in the floor of the mouth beneath the tongue, anterior to the submandibular gland." 
 
-  **Bibliography:**
+  **Bibliography**:
 
-  Neil S. Norton, Ph.D. and Frank H. Netter, MD, *Netter’s Head and Neck Anatomy for Dentistry*, 2nd Edition, Elsevier
-  Saunders, Chapter 13 Oral Cavity, Page 366 to 371.
-
-  Frank H. Netter, MD, *Atlas of Human Anatomy*, Fifth Edition, Saunders - Elsevier, Chapter 1 Head and Neck, Subchapter
-  6 Oral Region, Guide Head and Neck: Oral Region - Salivary Glands, Page 35 and 36.
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Mescher, Anthony L. 2024. Junqueira’s Basic Histology: Text and Atlas. Seventeenth edition. McGraw Hill Lange. New York, NY: *McGraw Hill*.
+  * Norton, Neil Scott, and Gilbert M. Willett. 2025. Netter’s Head and Neck Anatomy for Dentistry. Fourth edition. Philadelphia: *Elsevier*.
+  * Ovalle, William K., Patrick C. Nahirney, and Frank H. Netter. 2021. Netter’s Essential Histology: With Correlated Histopathology. Third edition. Philadelphia, PA: *Elsevier*.
+  * Wojciech Pawlina and Michael H. Ross. 2019. “Histology: A Text and Atlas: With Correlated Cell and Molecular Biology. Eighth Edition, 2018 Authors: Wojciech Pawlina; Michael H. Ross.” *Morphologia* 13 (4): 76–89. https://doi.org/10.26641/1997-9665.2019.4.76-89.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -49,3 +47,6 @@ datatable:
   - 2d-ftu-mouth-sublingual-gland.png
   - 2d-ftu-mouth-sublingual-gland.ai
   - crosswalk.csv
+references:
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.26641/1997-9665.2019.4.76-89

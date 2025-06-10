@@ -1,17 +1,14 @@
 title: 2D Red Pulp Functional Tissue Unit (FTU) for Spleen
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the red pulp of spleen FTU in the ASCT+B
-  Table [Spleen v1.3](https://doi.org/10.48539/HBM763.QFRB.477). Multiple histology atlases, especially *Human
-  Microscopic Anatomy (Krstić 1994)* and *Netter’s Essential Histology (Ovalle and Nahirney 2021)* were referenced.
-  Primary references: *Steiniger (2015), “Human Spleen Microanatomy: Why Mice Do Not Suffice” (Immunology 145(3):
-  334–346)*, and *Mebius and Kraal (2005)*, “*Structure and Function of the Spleen” (Nat Rev Immunol 5: 606–616)*.
-  Uberon describes this FTU as follows: "The parenchymatous tissue network of the spleen that consists of loose plates
-  or cords (sinuses) infiltrated with red blood cells where most of the blood filtration occurs and degenerate
-  erythrocytes are removed from the circulation."
+  This functional tissue unit (FTU) illustration includes cell types related to the red pulp of spleen FTU in the ASCT+B Table [Spleen v1.3](https://doi.org/10.48539/HBM763.QFRB.477). Multiple histology atlases, especially *Human Microscopic Anatomy* (Krstić 1991) and *Netter’s Essential Histology* (Ovalle, Nahirney, and Netter 2021) were referenced. Primary references: *Human Spleen Microanatomy: Why Mice Do Not Suffice* (Steiniger 2015), *Structure and Function of the Spleen* (Mebius and Kraal 2005), and *Enhanced Histopathology of the spleen* (Elmore 2006). Uberon describes this FTU as follows: "The parenchymatous tissue network of the spleen that consists of loose plates or cords (sinuses) infiltrated with red blood cells where most of the blood filtration occurs and degenerate erythrocytes are removed from the circulation." 
 
-  **Bibliography:**
+  **Bibliography**:
 
-  Elmore, S. A. (2006). Enhanced histopathology of the spleen. *Toxicol. Pathol*., 34, 648–655.
+  * Elmore, Susan A. 2006. “Enhanced Histopathology of the Spleen.” *Toxicologic Pathology* 34 (5): 648–55. https://doi.org/10.1080/01926230600865523.
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Mebius, Reina E., and Georg Kraal. 2005. “Structure and Function of the Spleen.” *Nature Reviews Immunology* 5 (8): 606–16. https://doi.org/10.1038/nri1669.
+  * Ovalle, William K., Patrick C. Nahirney, and Frank H. Netter. 2021. Netter’s Essential Histology: With Correlated Histopathology. Third edition. Philadelphia, PA: *Elsevier*.
+  * Steiniger, Birte S. 2015. “Human Spleen Microanatomy: Why Mice Do Not Suffice.” *Immunology* 145 (3): 334–46. https://doi.org/10.1111/imm.12469.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -56,3 +53,7 @@ datatable:
   - crosswalk.csv
 references:
   - https://doi.org/10.48539/HBM763.QFRB.477
+  - https://doi.org/10.1080/01926230600865523
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.1038/nri1669
+  - https://doi.org/10.1111/imm.12469

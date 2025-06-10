@@ -16,17 +16,14 @@ description: |-
 
   **Bibliography:**
 
-  Masci, Anna Maria, Tim Kendall, and Ayako Suzuki. 2021. “Liver (v1.0) Graph Data, v1.0.”
+  * Masci, Anna Maria, Tim Kendall, and Ayako Suzuki. 2021. “Liver (v1.0) Graph Data, v1.0.”
   https://lod.humanatlas.io/asct-b/liver/v1.0/.
-
-  Tian, Hua. 2022. “Liver Tissue Staining with Multiple Lanthanides-Tagged Antibodies,” February.
+  * Tian, Hua. 2022. “Liver Tissue Staining with Multiple Lanthanides-Tagged Antibodies,” February.
   https://www.protocols.io/view/liver-tissue-staining-with-multiple-lanthanides-ta-b5qmq5u6.
-
-  Tian, Hua, Presha Rajbhandari, Jay Tarolli, Aubrianna M. Decker, Taruna V. Neelakantan, Tina Angerer, Fereshteh
+  * Tian, Hua, Presha Rajbhandari, Jay Tarolli, Aubrianna M. Decker, Taruna V. Neelakantan, Tina Angerer, Fereshteh
   Zandkarimi, et al. 2022. “Multi-Modal Mass Spectrometry Imaging Reveals Single-Cell Metabolic States in Mammalian
   Liver.” bioRxiv. https://doi.org/10.1101/2022.09.26.508878.
-
-  Tian, Hua, and Jay Tarolli. 2023. “Multiplexed Staining Dataset - OMAP 5 - Liver-Lanthanides-Conjugated Antibodies and
+  * Tian, Hua, and Jay Tarolli. 2023. “Multiplexed Staining Dataset - OMAP 5 - Liver-Lanthanides-Conjugated Antibodies and
   C60-Secondary Ion Mass Spectrometry Imaging.” Zenodo. https://zenodo.org/records/8084259.
 creators:
   - fullName: Hua Tian

@@ -15,26 +15,20 @@ description: |-
 
   **Bibliography:**
 
-  Barwinska, Daria, Tarek M. El-Achkar, Angela R. Sabo, Michael J. Ferkowicz, Seth Winfree, and William S. Bowen. 2024.
+  * Barwinska, Daria, Tarek M. El-Achkar, Angela R. Sabo, Michael J. Ferkowicz, Seth Winfree, and William S. Bowen. 2024.
   “9-Kidney-Codex (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/omap/9-kidney-codex/v1.3/.
-
-  Caestecker, Mark de. 2024. “14-Kidney-Cycif (v1.0) Graph Data, v1.0.”
+  * Caestecker, Mark de. 2024. “14-Kidney-Cycif (v1.0) Graph Data, v1.0.”
   https://lod.humanatlas.io/omap/14-kidney-cycif/v1.0/.
-
-  Esselman, Allison. 2024. “20-Kidney-Ims-Cycif (v1.0) Graph Data, v1.0.”
+  * Esselman, Allison. 2024. “20-Kidney-Ims-Cycif (v1.0) Graph Data, v1.0.”
   https://lod.humanatlas.io/omap/20-kidney-ims-cycif/v1.0/.
-
-  Jain, Sanjay, M. Todd Valerius, Yongqun He, Tarek El-Achkar, Michael Eadon, and Jeffrey Spraggins. 2024. “Kidney
+  * Jain, Sanjay, M. Todd Valerius, Yongqun He, Tarek El-Achkar, Michael Eadon, and Jeffrey Spraggins. 2024. “Kidney
   (v1.6) Graph Data, v1.6.” https://lod.humanatlas.io/asct-b/kidney/v1.6/.
-
-  Neumann, Elizabeth K., and Melissa Farrow. 2024. “3-Kidney-Codex (v1.3) Graph Data, v1.3.”
+  * Neumann, Elizabeth K., and Melissa Farrow. 2024. “3-Kidney-Codex (v1.3) Graph Data, v1.3.”
   https://lod.humanatlas.io/omap/3-kidney-codex/v1.3/.
-
-  Pham, Thai, Lukasz Migas, Madeline E. Colley, Ellie Pringy, Anna Smith, Jamie Allen, Mark De Caestecker, et al. 2025.
+  * Pham, Thai, Lukasz Migas, Madeline E. Colley, Ellie Pringy, Anna Smith, Jamie Allen, Mark De Caestecker, et al. 2025.
   “Post MALDI IMS CODEX Staining and Imaging Fresh Frozen Tissue.”
   https://www.protocols.io/view/post-maldi-ims-codex-staining-and-imaging-fresh-fr-dzy277ye.
-
-  VU Biomolecular Multimodal Imaging Center / Spraggins Research Group. 2025. “VU Biomolecular Multimodal Imaging Center
+  * VU Biomolecular Multimodal Imaging Center / Spraggins Research Group. 2025. “VU Biomolecular Multimodal Imaging Center
   / Spraggins Research Group - Research Workspace on Protocols.Io.” https://www.protocols.io/workspaces/BIOMIC.
 creators:
   - fullName: Thai Pham

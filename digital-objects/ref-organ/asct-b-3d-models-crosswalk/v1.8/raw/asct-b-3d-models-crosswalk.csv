@@ -1,11 +1,11 @@
 ﻿"Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping",,,,,,,,,
 ,,,,,,,,,
-Author Name(s):,"Ellen M. Quardokus;  Heidi Schlehlein; Bruce Herr, II; Katy Borner",,,,,,,,
+Author Name(s):,Ellen M. Quardokus;  Heidi Schlehlein; Bruce Herr, II; Katy Borner,,,,,,,,
 Author ORCID(s):,"0000-0001-7655-4833; 0000-0002-3333-5646;  0000-0002-8977-498X, 0000-0002-6703-7647, 0000-0002-3321-6137",,,,,,,,
 Reviewer(s):,,,,,,,,,
 Reviewer ORCID(s):,,,,,,,,,
 General Publication(s):,"Borner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. ""Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas."" Nature Cell Biology 23 (11): 1117-28. https://doi.org/10.1038/s41556-021-00788-6.",,,,,,,,
-Data DOI:,https://doi.org/10.48539/HBM524.KVFZ.656,,,,,,,,
+Data DOI:,https://doi.org/10.48539/HBM228.PZGR.344,,,,,,,,
 Date:,6/15/24,,,,,,,,
 Version Number:,v1.8,,,,,,,,
 anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,representation_of,node_type,glb file of single organs,Ref/1,Ref/1/ID

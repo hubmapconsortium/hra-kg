@@ -1,17 +1,12 @@
 title: 2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the thymus lobule FTU in the ASCT+B
-  Table [Thymus v1.2](https://doi.org/10.48539/HBM284.RFDC.542). Uberon describes this FTU as follows: "A lobule that is
-  part of a thymus. Divided into an outer cortex and inner medulla and separated from each other by connective tissue
-  septa, but with the medullary tissue continuous from lobule to lobule."
+  This functional tissue unit (FTU) illustration includes cell types related to the thymus lobule FTU in the ASCT+B Table [Thymus v1.2](https://doi.org/10.48539/HBM284.RFDC.542). The cell types and measurements were referenced from (Palumbo 2008; “Thymus Histology,” n.d.; “Lobules of Thymus - e-Anatomy - IMAIOS,” n.d.)Uberon describes this FTU as follows: "A lobule that is part of a thymus. Divided into an outer cortex and inner medulla and separated from each other by connective tissue septa, but with the medullary tissue continuous from lobule to lobule." 
 
-  **Bibliography:**
+  **Bibliography**:
 
-  Palumbo, C. (2008). Embryology and Anatomy of the Thymus Gland. In Thymus Gland Pathology, *Springer*. 
-
-  Kenhub. Thymus histology. https://www.kenhub.com/en/library/anatomy/histology-of-the-thymus 
-
-  IMAIOS. Lobules of thymus. https://www.imaios.com/en/e-anatomy/anatomical-structure/lobules-of-thymus-1553795620
+  * “Lobules of Thymus - e-Anatomy - *IMAIOS*.” n.d. Accessed September 25, 2023. https://www.imaios.com/en/e-anatomy/anatomical-structure/lobules-of-thymus-1553795620.
+  * Palumbo, Carla. 2008. “Embryology and Anatomy of the Thymus Gland.” In Thymus Gland Pathology, edited by Corrado Lavini, Cesar A. Moran, Uliano Morandi, and Rudolf Schoenhuber, 13–18. Milan, Italy: *Springer*. https://doi.org/10.1007/978-88-470-0828-1_2.
+  * “Thymus Histology.” n.d. *Kenhub*. Accessed September 25, 2023. https://www.kenhub.com/en/library/anatomy/histology-of-the-thymus.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -56,3 +51,4 @@ datatable:
   - crosswalk.csv
 references:
   - https://doi.org/10.48539/HBM284.RFDC.542
+  - https://doi.org/10.1007/978-88-470-0828-1_2

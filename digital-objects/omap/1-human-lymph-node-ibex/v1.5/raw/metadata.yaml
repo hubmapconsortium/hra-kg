@@ -21,40 +21,32 @@ description: |-
 
   **Bibliography:**
 
-  Andrea J Radtke, Colin J Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T Beuschel, Hiroshi Ichise, et al. 2021.
+  * Andrea J Radtke, Colin J Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T Beuschel, Hiroshi Ichise, et al. 2021.
   “Accompanying Dataset for: ‘IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging
   of Diverse Tissues.’” Zenodo. https://zenodo.org/records/5244551.
-
-  Jorgensen, Marda, Andreas Radtke, and Natalie Rodriguez. 2021. “Lymph-Node (v1.1) Graph Data, v1.1.” 2021.
+  * Jorgensen, Marda, Andreas Radtke, and Natalie Rodriguez. 2021. “Lymph-Node (v1.1) Graph Data, v1.1.” 2021.
   https://lod.humanatlas.io/asct-b/lymph-node/v1.1/.
-
-  Kennedy‐Darling, Julia, Salil S. Bhate, John W. Hickey, Sarah Black, Graham L. Barlow, Gustavo Vazquez, Vishal G.
+  * Kennedy‐Darling, Julia, Salil S. Bhate, John W. Hickey, Sarah Black, Graham L. Barlow, Gustavo Vazquez, Vishal G.
   Venkataraaman, et al. 2021. “Highly Multiplexed Tissue Imaging Using Repeated Oligonucleotide Exchange Reaction.”
   *European Journal of Immunology* 51 (5): 1262–77. https://doi.org/10.1002/eji.202048891.
-
-  Lin, Jia-Ren, Benjamin Izar, Shu Wang, Clarence Yapp, Shaolin Mei, Parin M Shah, Sandro Santagata, and Peter K Sorger.
+  * Lin, Jia-Ren, Benjamin Izar, Shu Wang, Clarence Yapp, Shaolin Mei, Parin M Shah, Sandro Santagata, and Peter K Sorger.
   2018. “Highly Multiplexed Immunofluorescence Imaging of Human Tissues and Tumors Using T-CyCIF and Conventional
   Optical Microscopes.” *eLife* 7 (July): e31657. https://doi.org/10.7554/eLife.31657.
-
-  Radtke, Andrea J., Colin J. Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T. Beuschel, Hiroshi Ichise, et al. 2022.
+  * Radtke, Andrea J., Colin J. Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T. Beuschel, Hiroshi Ichise, et al. 2022.
   “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” *Nature
   Protocols* 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
-
-  Radtke, Andrea J., Evelyn Kandov, Bradley Lowekamp, Emily Speranza, Colin J. Chu, Anita Gola, Nishant Thakur, et al.
+  * Radtke, Andrea J., Evelyn Kandov, Bradley Lowekamp, Emily Speranza, Colin J. Chu, Anita Gola, Nishant Thakur, et al.
   2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial Analysis of Cells in
   Complex Tissues.” *Proceedings of the National Academy of Sciences* 117 (52): 33455–65.
   https://doi.org/10.1073/pnas.2018488117.
-
-  Radtke, Andrea J., Ekaterina Postovalova, Arina Varlamova, Alexander Bagaev, Maria Sorokina, Olga Kudryashova, Mark
+  * Radtke, Andrea J., Ekaterina Postovalova, Arina Varlamova, Alexander Bagaev, Maria Sorokina, Olga Kudryashova, Mark
   Meerson, et al. 2024. “Multi-Omic Profiling of Follicular Lymphoma Reveals Changes in Tissue Architecture and Enhanced
   Stromal Remodeling in High-Risk Patients.” *Cancer Cell* 42 (3): 444–463.e10.
   https://doi.org/10.1016/j.ccell.2024.02.001.
-
-  Radtke, Andrea J., Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner,
+  * Radtke, Andrea J., Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner,
   Colin J. Chu, et al. 2025. “The IBEX Knowledge-Base: A Central Resource for Multiplexed Imaging Techniques.” *PLOS
   Biology* 23 (3): e3003070. https://doi.org/10.1371/journal.pbio.3003070.
-
-  Yaniv, Ziv, Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin
+  * Yaniv, Ziv, Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin
   J. Chu, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of
   Immunofluorescence Imaging Methods.” *eLife* 14: RP105737.
 creators:

@@ -1,14 +1,10 @@
 title: 2D Acinus FTU for Pancreas
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the acinus FTU in the ASCT+B Table
-  [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). Uberon describes this FTU as follows: "The secretory units
-  of the exocrine pancreas, where fluid containing digestive enzymes is produced; consists of a group of secretory cells
-  surrounding a luminal space that connects to the pancreatic duct." 
+  This functional tissue unit (FTU) illustration includes cell types related to the acinus FTU in the ASCT+B Table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). Cell types and measurements were referenced from (Morgan, Schaeffer, and Longnecker 1986). Uberon describes this FTU as follows: "The secretory units of the exocrine pancreas, where fluid containing digestive enzymes is produced; consists of a group of secretory cells surrounding a luminal space that connects to the pancreatic duct." 
 
-  **Bibliography:**
+  **Bibliography**:
 
-  Morgan, R. G., Schaeffer, B. K., Longnecker, D. S. (1986). Size and number of nuclei differ in normal and neoplastic
-  acinar cells from rat pancreas. *Pancreas*, 1, 37–43.
+  * Morgan, R. G., B. K. Schaeffer, and D. S. Longnecker. 1986. “Size and Number of Nuclei Differ in Normal and Neoplastic Acinar Cells from Rat Pancreas.” *Pancreas* 1 (1): 37–43. https://doi.org/10.1097/00006676-198601000-00008.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -49,3 +45,4 @@ datatable:
   - crosswalk.csv
 references:
   - https://doi.org/10.48539/HBM557.XHHV.557
+  - https://doi.org/10.1097/00006676-198601000-00008

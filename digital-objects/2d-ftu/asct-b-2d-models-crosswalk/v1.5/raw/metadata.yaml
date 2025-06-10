@@ -10,16 +10,16 @@ creators:
     firstName: Supriya
     lastName: Bidanta
     orcid: 0000-0002-2142-983X
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
 project_leads:
   - fullName: Katy Börner
     firstName: Katy
     lastName: Börner
     orcid: 0000-0002-3321-6137
 reviewers:
-  - fullName: Ellen M. Quardokus
-    firstName: Ellen
-    lastName: Quardokus
-    orcid: 0000-0001-7655-4833
   - fullName: Katy Börner
     firstName: Katy
     lastName: Börner

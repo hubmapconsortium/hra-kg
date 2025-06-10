@@ -1,13 +1,10 @@
 title: 2D Dermal Papilla FTU for Skin
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the dermis in the ASCT+B Table [Skin
-  v1.4](https://doi.org/10.48539/HBM474.TDSP.668). Uberon describes this FTU as follows: "The upper layer of the dermis
-  beneath the epidermis, composed of dense irregular connective tissue."
+  This functional tissue unit (FTU) illustration includes cell types related to the dermis in the ASCT+B Table [Skin v1.4](https://doi.org/10.48539/HBM474.TDSP.668). Cell types and measurements were referenced fom Lambert and Laurent 2008. Uberon describes this FTU as follows: "The upper layer of the dermis beneath the epidermis, composed of dense irregular connective tissue." 
 
-  **Bibliography:**
+  **Bibliography**:
 
-  Lambert, P. H., Laurent, P. E. (2008). Intradermal vaccine delivery: Will new delivery systems transform vaccine
-  administration? *Vaccine*, 26, 3197–3208.
+  * Lambert, Paul Henri, and Philippe E. Laurent. 2008. “Intradermal Vaccine Delivery: Will New Delivery Systems Transform Vaccine Administration?” *Vaccine* 26 (26): 3197–3208. https://doi.org/10.1016/j.vaccine.2008.03.095.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -56,3 +53,4 @@ datatable:
   - crosswalk.csv
 references:
   - https://doi.org/10.48539/HBM474.TDSP.668
+  - https://doi.org/10.1016/j.vaccine.2008.03.095.
