@@ -25,14 +25,14 @@ description: |-
   Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Tonsil with IBEX.” Zenodo.
   https://zenodo.org/records/11222093.
   * Radtke, Andrea J., Colin J. Chu, Ziv Yaniv, Li Yao, James Marr, Rebecca T. Beuschel, Hiroshi Ichise, et al. 2022.
-  “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” *Nature
-  Protocols* 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
+  “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” <em>Nature
+  Protocols</em> 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
   * Radtke, Andrea J., Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J. Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner,
-  Colin J. Chu, et al. 2025. “The IBEX Knowledge-Base: A Central Resource for Multiplexed Imaging Techniques.” *PLoS
-  Biol* 23(3): e3003070. https://doi.org/10.1371/journal.pbio.3003070.
+  Colin J. Chu, et al. 2025. “The IBEX Knowledge-Base: A Central Resource for Multiplexed Imaging Techniques.” <em>PLoS
+  Biol</em> 23(3): e3003070. https://doi.org/10.1371/journal.pbio.3003070.
   * Yaniv, Ziv, Ifeanyichukwu U. Anidi, Leanne Arakkal, Armando J. Arroyo-Mejías, Rebecca T. Beuschel, Katy Börner, Colin
   J. Chu, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of
-  Immunofluorescence Imaging Methods.” *eLife* 14:RP105737.
+  Immunofluorescence Imaging Methods.” <em>eLife</em> 14:RP105737.
 creators:
   - fullName: Kartika Padhan
     firstName: Kartika

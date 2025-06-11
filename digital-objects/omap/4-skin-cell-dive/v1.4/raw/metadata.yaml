@@ -20,7 +20,7 @@ description: |-
 
   * Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can,
   et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.”
-  *Proceedings of the National Academy of Sciences* 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
+  <em>Proceedings of the National Academy of Sciences</em> 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
   * Ginty, Fiona, Jonhan Ho, and Joel Sunshine. 2021. “Skin (v1.1) Graph Data, v1.1.”
   https://lod.humanatlas.io/asct-b/skin/v1.1/.
   * McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVETM Platform | Slide
@@ -29,7 +29,7 @@ description: |-
   GE/URMC/SCH Cell DIVETM Modality Overview,” February. https://doi.org/10.17504/protocols.io.b4kgqutw.
   * Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette,
   Presha Rajbhandari, et al. 2023. “Publication Page Organ Mapping Antibody Panels: A Community Resource for
-  Standardized Multiplexed Tissue Imaging.” *HuBMAP Data Portal*. July 19, 2023.
+  Standardized Multiplexed Tissue Imaging.” <em>HuBMAP Data Portal</em>. July 19, 2023.
   https://portal.hubmapconsortium.org/browse/publication/e8338966c69e759157d6c6ad24847989.
 creators:
   - fullName: Elizabeth McDonough

@@ -22,7 +22,7 @@ description: |-
   * Campbell-Thompson, Martha, Adel Eskaros, and Diane Saunders. 2023. “Pancreas (v1.3) Graph Data, v1.3.”
   https://lod.humanatlas.io/asct-b/pancreas/v1.3/.
   * Goltsev, Yury, Nikolay Samusik, Julia Kennedy-Darling, Salil Bhate, Matthew Hale, Gustavo Vazquez, Sarah Black, and
-  * Garry P. Nolan. 2018. “Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging.” *Cell* 174 (4):
+  Garry P. Nolan. 2018. “Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging.” <em>Cell</em> 174 (4):
   968–981.e15. https://doi.org/10.1016/j.cell.2018.07.010.
 creators:
   - fullName: Anna Martinez Casals

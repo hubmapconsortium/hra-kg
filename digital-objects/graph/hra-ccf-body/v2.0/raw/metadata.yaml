@@ -7,13 +7,13 @@ description: |-
 
   **Bibliography:**
 
-  * Ackerman, Michael J. 1998. “The Visible Human Project.” *Proceedings of the IEEE* 86 (3): 504–11.
+  * Ackerman, Michael J. 1998. “The Visible Human Project.” <em>Proceedings of the IEEE</em> 86 (3): 504–11.
   https://doi.org/10.1109/5.662875.
   * Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025.
   “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.
   https://doi.org/10.1101/2024.12.22.630006.
   * Spitzer, V., M. J. Ackerman, A. L. Scherzinger, and D. Whitlock. 1996. “The Visible Human Male: A Technical Report.”
-  *Journal of the American Medical Informatics Association* 3 (2): 118–30. https://doi.org/10.1136/jamia.1996.96236280.
+  <em>Journal of the American Medical Informatics Association</em> 3 (2): 118–30. https://doi.org/10.1136/jamia.1996.96236280.
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce
