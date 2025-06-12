@@ -3,7 +3,7 @@ description: |-
   This functional tissue unit (FTU) illustration includes cell types related to the outer medullary collecting duct FTU in the ASCT+B Table [Kidney v1.2](https://doi.org/10.48539/HBM248.CBJV.556). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer) created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially *Human Microscopic Anatomy* (Krstić 1991) and *Histology: A Text and Atlas* (Wojciech Pawlina and Michael H. Ross 2019) were referenced. Cell types and metrics were primarily defined by (Hu, McDonough, and Layton 2021; Layton and Layton 2019). Uberon describes this FTU as follows: "The outer medullary collecting duct is the portion of the collecting duct that lies in the renal outer medulla." 
 
   **Bibliography**:
-  
+
   * Hu, Rui, Alicia A. McDonough, and Anita T. Layton. 2021. “Sex Differences in Solute and Water Handling in the Human Kidney: Modeling and Functional Implications.” <em>iScience</em> 24 (6): 102667. https://doi.org/10.1016/j.isci.2021.102667.
   * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: <em>Springer</em>. https://doi.org/10.1007/978-3-662-02676-2.
   * Layton, Anita T., and Harold E. Layton. 2019. “A Computational Model of Epithelial Solute and Water Transport along a Human Nephron.” Edited by Daniel A Beard. <em>PLOS Computational Biology</em> 15 (2): e1006108. https://doi.org/10.1371/journal.pcbi.1006108.
