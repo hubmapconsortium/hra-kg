@@ -14,14 +14,9 @@ description: |-
 
   **Bibliography:**
 
-  * Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury
-  Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated
-  Antibodies.” <em>Nature Protocols</em> 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
-  * Easter, Quinn T., Bruno Fernandes Matuck, Germán Beldorati Stark, Catherine L. Worth, Alexander V. Predeus, Brayon
-  Fremin, Khoa Huynh, et al. 2024. “Single-Cell and Spatially Resolved Interactomics of Tooth-Associated Keratinocytes
-  in Periodontitis.” <em>Nature Communications</em> 15 (1): 5016. https://doi.org/10.1038/s41467-024-49037-y.
-  * Houston, Andrew. 2024. “Akoya Biosciences PhenoCycler Fusion (Formerly CODEX) User Guide,” January.
-  https://www.protocols.io/view/akoya-biosciences-phenocycler-fusion-formerly-code-c7fszjne.
+  * Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated Antibodies.” *Nature Protocols* 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
+  * Easter, Quinn T., Bruno Fernandes Matuck, Germán Beldorati Stark, Catherine L. Worth, Alexander V. Predeus, Brayon Fremin, Khoa Huynh, et al. 2024. “Single-Cell and Spatially Resolved Interactomics of Tooth-Associated Keratinocytes in Periodontitis.” *Nature Communications* 15 (1): 5016. https://doi.org/10.1038/s41467-024-49037-y.
+  * Houston, Andrew. 2024. “Akoya Biosciences PhenoCycler Fusion (Formerly CODEX) User Guide,” January. https://www.protocols.io/view/akoya-biosciences-phenocycler-fusion-formerly-code-c7fszjne.
 creators:
   - fullName: Kevin M. Byrd
     firstName: Kevin M.

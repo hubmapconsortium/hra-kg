@@ -7,12 +7,8 @@ description: |-
 
   **Bibliography:**
 
-  * Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette,
-  Presha Rajbhandari, et al. 2023. “Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed
-  Tissue Imaging.” <em>Nature Methods</em> 20 (8): 1174–78. https://doi.org/10.1038/s41592-023-01846-7.
-  * Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025.
-  “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv.
-  https://doi.org/10.1101/2024.12.22.630006.
+  * Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette, Presha Rajbhandari, et al. 2023. “Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging.” *Nature Methods* 20 (8): 1174–78. https://doi.org/10.1038/s41592-023-01846-7.
+  * Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
 creators:
   - fullName: Josef Hardi
     firstName: Josef

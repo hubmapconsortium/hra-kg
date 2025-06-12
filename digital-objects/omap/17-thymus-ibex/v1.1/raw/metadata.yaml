@@ -19,26 +19,16 @@ description: |-
 
   **Bibliography:**
 
-  * Brusko, Maigan, Rebecca T. Beuschel, and Andrea J. Radtke. 2023. “Thymus (v1.4) Graph Data, v1.4.”
-  https://lod.humanatlas.io/asct-b/thymus/v1.4/.
-  * Image Data Resource. 2025. “Webclient for Image Data Resource.”
-  https://idr.openmicroscopy.org/webclient/?show=project-3051.
-  * Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023. “10-Palatine-Tonsil-Mics (v1.0) Graph Data, v1.0.”
-  https://lod.humanatlas.io/omap/10-palatine-tonsil-mics/v1.0/.
-  * Radtke, Andrea J. 2023a. “1-Human-Lymph-Node-Ibex (v1.3) Graph Data, v1.3.”
-  https://lod.humanatlas.io/omap/1-human-lymph-node-ibex/v1.3/.
-  * Radtke, Andrea J. 2023b. “11-Spleen-Ibex (v1.0) Graph Data, v1.0.”
-  https://lod.humanatlas.io/omap/11-spleen-ibex/v1.0/.
-  * Radtke, Andrea J., et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content
-  Imaging of Diverse Tissues.” <em>Nature Protocols</em> 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
-  * Radtke, Andrea J., et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial
-  Analysis of Cells in Complex Tissues.” <em>PNAS</em> 117 (52): 33455–65. https://doi.org/10.1073/pnas.2018488117.
-  * Yayon, Nadav, et al. 2024. “A Spatial Human Thymus Cell Atlas Mapped to a Continuous Tissue Axis.” <em>Nature</em> 635
-  (8039): 708–18. https://doi.org/10.1038/s41586-024-07944-6.
-  * Radtke, Andrea J., et al. 2025. “The IBEX Knowledge-Base: A Central Resource for Multiplexed Imaging Techniques.”
-  <em>PLoS Biol</em> 23(3): e3003070. https://doi.org/10.1371/journal.pbio.3003070.
-  * Yaniv, Ziv, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of
-  Immunofluorescence Imaging Methods.” <em>eLife</em> 14:RP105737.
+  * Brusko, Maigan, Rebecca T. Beuschel, and Andrea J. Radtke. 2023. “Thymus (v1.4) Graph Data, v1.4.” https://lod.humanatlas.io/asct-b/thymus/v1.4/.
+  * Image Data Resource. 2025. “Webclient for Image Data Resource.” https://idr.openmicroscopy.org/webclient/?show=project-3051.
+  * Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023. “10-Palatine-Tonsil-Mics (v1.0) Graph Data, v1.0.” https://lod.humanatlas.io/omap/10-palatine-tonsil-mics/v1.0/.
+  * Radtke, Andrea J. 2023a. “1-Human-Lymph-Node-Ibex (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/omap/1-human-lymph-node-ibex/v1.3/.
+  * Radtke, Andrea J. 2023b. “11-Spleen-Ibex (v1.0) Graph Data, v1.0.” https://lod.humanatlas.io/omap/11-spleen-ibex/v1.0/.
+  * Radtke, Andrea J., et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” *Nature Protocols* 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
+  * Radtke, Andrea J., et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial Analysis of Cells in Complex Tissues.” *PNAS* 117 (52): 33455–65. https://doi.org/10.1073/pnas.2018488117.
+  * Yayon, Nadav, et al. 2024. “A Spatial Human Thymus Cell Atlas Mapped to a Continuous Tissue Axis.” *Nature* 635 (8039): 708–18. https://doi.org/10.1038/s41586-024-07944-6.
+  * Radtke, Andrea J., et al. 2025. “The IBEX Knowledge-Base: A Central Resource for Multiplexed Imaging Techniques.” *PLoS Biol* 23(3): e3003070. https://doi.org/10.1371/journal.pbio.3003070.
+  * Yaniv, Ziv, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of Immunofluorescence Imaging Methods.” *eLife* 14:RP105737.
 creators:
   - fullName: Andrea J. Radtke
     firstName: Andrea

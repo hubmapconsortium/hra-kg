@@ -18,19 +18,11 @@ description: |-
 
   **Bibliography:**
 
-  * Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can,
-  et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.”
-  <em>Proceedings of the National Academy of Sciences</em> 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
-  * Ginty, Fiona, Jonhan Ho, Joel Sunshine, and Arivarasan Karunamurthy. 2023. “Skin (v1.3) Graph Data, v1.3.” 2023.
-  https://lod.humanatlas.io/asct-b/skin/v1.3/.
-  * McDonough, Elizabeth, Chrystal Chadwick, and Fiona Ginty. 2024. “4-Skin-Cell-Dive (v1.3) Graph Data, v1.3.” 2024.
-  https://lod.humanatlas.io/omap/4-skin-cell-dive/v1.3/.
-  * McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVETM Platform | Slide
-  Clearing and Antigen Retrieval,” December.
-  https://www.protocols.io/view/cell-dive-platform-slide-clearing-and-antigen-retr-bpwumpew.
-  * Pryhuber, Gloria, Gail Deutsch, Christine Surrette, Lisa Lowery, Heidie Huyck, and Cory Poole. 2022. “HuBMAP |
-  GE/URMC/SCH Cell DIVETM Modality Overview,” February.
-  https://www.protocols.io/view/hubmap-ge-urmc-sch-cell-dive-modality-overview-b4kgqutw.
+  * Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can, et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.” *Proceedings of the National Academy of Sciences* 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
+  * Ginty, Fiona, Jonhan Ho, Joel Sunshine, and Arivarasan Karunamurthy. 2023. “Skin (v1.3) Graph Data, v1.3.” 2023. https://lod.humanatlas.io/asct-b/skin/v1.3/.
+  * McDonough, Elizabeth, Chrystal Chadwick, and Fiona Ginty. 2024. “4-Skin-Cell-Dive (v1.3) Graph Data, v1.3.” 2024. https://lod.humanatlas.io/omap/4-skin-cell-dive/v1.3/.
+  * McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVETM Platform | Slide Clearing and Antigen Retrieval,” December. https://www.protocols.io/view/cell-dive-platform-slide-clearing-and-antigen-retr-bpwumpew.
+  * Pryhuber, Gloria, Gail Deutsch, Christine Surrette, Lisa Lowery, Heidie Huyck, and Cory Poole. 2022. “HuBMAP | GE/URMC/SCH Cell DIVETM Modality Overview,” February. https://www.protocols.io/view/hubmap-ge-urmc-sch-cell-dive-modality-overview-b4kgqutw.
 creators:
   - fullName: Samantha Abate
     firstName: Samantha

@@ -18,15 +18,10 @@ description: |-
 
   **Bibliography:**
 
-  * Giesen, Charlotte, Hao A. O. Wang, Denis Schapiro, Nevena Zivanovic, Andrea Jacobs, Bodo Hattendorf, Peter J.
-  Schüffler, et al. 2014. “Highly Multiplexed Imaging of Tumor Tissues with Subcellular Resolution by Mass Cytometry.”
-  <em>Nature Methods</em> 11 (4): 417–22. https://doi.org/10.1038/nmeth.2869.
-  * Laurent, Louise, Mana Parast, and Kathleen Fisch. 2022. “Placenta-Full-Term (v1.0) Graph Data, v1.0.”
-  https://lod.humanatlas.io/asct-b/placenta-full-term/v1.0/.
-  * McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVE™ Platform | Slide
-  Clearing and Antigen Retrieval.” December. https://doi.org/10.17504/protocols.io.bpwumpew.
-  * Robson, Paul, Ramalakshmi Ramasamy, and Santhosh Sivajothi. 2023. “OMAP-8: Multiplexed Antibody-Based Imaging of
-  Placenta with Imaging Mass Cytometry (IMC), v1.0.” Zenodo. https://zenodo.org/records/10406597.
+  * Giesen, Charlotte, Hao A. O. Wang, Denis Schapiro, Nevena Zivanovic, Andrea Jacobs, Bodo Hattendorf, Peter J. Schüffler, et al. 2014. “Highly Multiplexed Imaging of Tumor Tissues with Subcellular Resolution by Mass Cytometry.” *Nature Methods* 11 (4): 417–22. https://doi.org/10.1038/nmeth.2869.
+  * Laurent, Louise, Mana Parast, and Kathleen Fisch. 2022. “Placenta-Full-Term (v1.0) Graph Data, v1.0.” https://lod.humanatlas.io/asct-b/placenta-full-term/v1.0/.
+  * McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVE™ Platform | Slide Clearing and Antigen Retrieval.” December. https://doi.org/10.17504/protocols.io.bpwumpew.
+  * Robson, Paul, Ramalakshmi Ramasamy, and Santhosh Sivajothi. 2023. “OMAP-8: Multiplexed Antibody-Based Imaging of Placenta with Imaging Mass Cytometry (IMC), v1.0.” Zenodo. https://zenodo.org/records/10406597.
 creators:
   - fullName: Paul Robson
     firstName: Paul

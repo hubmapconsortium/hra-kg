@@ -16,22 +16,12 @@ description: |-
 
   **Bibliography:**
 
-  * Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury
-  Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated
-  Antibodies.” <em>Nature Protocols</em> 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
-  * Jain, Sanjey, M. Todd Valerius, and Yongqun He. 2021. “Kidney (v1.1) Graph Data, v1.1.”
-  https://lod.humanatlas.io/asct-b/kidney/v1.1/.
+  * Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated Antibodies.” *Nature Protocols* 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
+  * Jain, Sanjey, M. Todd Valerius, and Yongqun He. 2021. “Kidney (v1.1) Graph Data, v1.1.” https://lod.humanatlas.io/asct-b/kidney/v1.1/.
   * Neumann, Elizabeth K., and Melissa Farrow. 2023. “OMAP Kidney-3.” Zenodo. https://zenodo.org/records/8082943.
-  * Neumann, Elizabeth K., Nathan Heath Patterson, Jamie L. Allen, Lukasz G. Migas, Haichun Yang, Maya Brewer, David M.
-  Anderson, et al. 2021. “Protocol for Multimodal Analysis of Human Kidney Tissue by Imaging Mass Spectrometry and CODEX
-  Multiplexed Immunofluorescence.” <em>STAR Protocols</em> 2 (3): 100747. https://doi.org/10.1016/j.xpro.2021.100747.
-  * Neumann, Elizabeth K., Nathan Heath Patterson, Emilio S. Rivera, Jamie L. Allen, Maya Brewer, Mark P. deCaestecker,
-  Richard M. Caprioli, Agnes B. Fogo, and Jeffrey M. Spraggins. 2022. “Highly Multiplexed Immunofluorescence of the
-  Human Kidney Using Co-Detection by Indexing.” <em>Kidney International</em> 101 (1): 137–43.
-  https://doi.org/10.1016/j.kint.2021.08.033.
-  * Singh, Nikhil, Zachary M. Avigan, Judith A. Kliegel, Brian M. Shuch, Ruth R. Montgomery, Gilbert W. Moeckel, and Lloyd
-  G. Cantley. 2019. “Development of a 2-Dimensional Atlas of the Human Kidney with Imaging Mass Cytometry.” <em>JCI
-  Insight</em> 4 (12). https://doi.org/10.1172/jci.insight.129477.
+  * Neumann, Elizabeth K., Nathan Heath Patterson, Jamie L. Allen, Lukasz G. Migas, Haichun Yang, Maya Brewer, David M. Anderson, et al. 2021. “Protocol for Multimodal Analysis of Human Kidney Tissue by Imaging Mass Spectrometry and CODEX Multiplexed Immunofluorescence.” *STAR Protocols* 2 (3): 100747. https://doi.org/10.1016/j.xpro.2021.100747.
+  * Neumann, Elizabeth K., Nathan Heath Patterson, Emilio S. Rivera, Jamie L. Allen, Maya Brewer, Mark P. deCaestecker, Richard M. Caprioli, Agnes B. Fogo, and Jeffrey M. Spraggins. 2022. “Highly Multiplexed Immunofluorescence of the Human Kidney Using Co-Detection by Indexing.” *Kidney International* 101 (1): 137–43. https://doi.org/10.1016/j.kint.2021.08.033.
+  * Singh, Nikhil, Zachary M. Avigan, Judith A. Kliegel, Brian M. Shuch, Ruth R. Montgomery, Gilbert W. Moeckel, and Lloyd G. Cantley. 2019. “Development of a 2-Dimensional Atlas of the Human Kidney with Imaging Mass Cytometry.” *JCI Insight* 4 (12). https://doi.org/10.1172/jci.insight.129477.
 creators:
   - fullName: Elizabeth K. Neumann
     firstName: Elizabeth

@@ -8,14 +8,9 @@ description: |-
 
   **Bibliography:**
 
-  * Ackerman, Michael J. 1998. “The Visible Human Project.” <em>Proceedings of the IEEE</em> 86 (3): 504–11.
-  https://doi.org/10.1109/5.662875.
-  * Ding, Song-Lin, Joshua J. Royall, Susan M. Sunkin, Lydia Ng, Benjamin A.C. Facer, Phil Lesnar, Angie
-  Guillozet-Bongaarts, et al. 2016. “Comprehensive Cellular-Resolution Atlas of the Adult Human Brain.” <em>Journal of
-  Comparative Neurology</em> 524 (16): 3127–3481.
-  * Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human
-  Simulation.” <em>The Anatomical Record</em> 253 (2): 49–57.
-  https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.
+  * Ackerman, Michael J. 1998. “The Visible Human Project.” *Proceedings of the IEEE* 86 (3): 504–11. https://doi.org/10.1109/5.662875.
+  * Ding, Song-Lin, Joshua J. Royall, Susan M. Sunkin, Lydia Ng, Benjamin A.C. Facer, Phil Lesnar, Angie Guillozet-Bongaarts, et al. 2016. “Comprehensive Cellular-Resolution Atlas of the Adult Human Brain.” *Journal of Comparative Neurology* 524 (16): 3127–3481.
+  * Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human Simulation.” *The Anatomical Record* 253 (2): 49–57. https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen

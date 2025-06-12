@@ -18,16 +18,11 @@ description: |-
 
   **Bibliography:**
 
-  * Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can,
-  et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.”
-  <em>Proceedings of the National Academy of Sciences</em> 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
-  * McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVE™ Platform | Slide
-  Clearing and Antigen Retrieval.” December. https://doi.org/10.17504/protocols.io.bpwumpew.
-  * Pryhuber, Gloria, Gail Deutsch, Christine Surrette, Lisa Lowery, Heidie Huyck, and Cory Poole. 2022. “HuBMAP |
-  GE/URMC/SCH Cell DIVE™ Modality Overview.” February. https://doi.org/10.17504/protocols.io.b4kgqutw.
+  * Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can, et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.” *Proceedings of the National Academy of Sciences* 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
+  * McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVE™ Platform | Slide Clearing and Antigen Retrieval.” December. https://doi.org/10.17504/protocols.io.bpwumpew.
+  * Pryhuber, Gloria, Gail Deutsch, Christine Surrette, Lisa Lowery, Heidie Huyck, and Cory Poole. 2022. “HuBMAP | GE/URMC/SCH Cell DIVE™ Modality Overview.” February. https://doi.org/10.17504/protocols.io.b4kgqutw.
   * Pryhuber, Gloria, and Xin Sun. 2021. “Lung (v1.1) Graph Data, v1.1.” https://lod.humanatlas.io/asct-b/lung/v1.1/.
-  * Surrette, Christine, Lisa Lowery, Gail Deutsch, Gloria S. Pryhuber, and Fiona Ginty. 2023. “Multiplexed
-  Immunofluorescence Staining Dataset - OMAP 7 - Lung, Cell DIVE.” Zenodo. https://zenodo.org/records/7731162.
+  * Surrette, Christine, Lisa Lowery, Gail Deutsch, Gloria S. Pryhuber, and Fiona Ginty. 2023. “Multiplexed Immunofluorescence Staining Dataset - OMAP 7 - Lung, Cell DIVE.” Zenodo. https://zenodo.org/records/7731162.
 creators:
   - fullName: Christine Surrette
     firstName: Christine
