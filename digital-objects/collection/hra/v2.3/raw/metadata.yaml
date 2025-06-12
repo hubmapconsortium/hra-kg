@@ -9,6 +9,26 @@ description: |-
 
   * Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
 creators:
+  - fullName: Andreas Bueckle
+    firstName: Andreas
+    lastName: Bueckle
+    orcid: 0000-0002-8977-498X
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Josef Hardi
+    firstName: Josef
+    lastName: Hardi
+    orcid: 0000-0002-2533-6681
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Mark A. Musen
+    firstName: Mark
+    lastName: Musen
+    orcid: 0000-0003-3325-793X
   - fullName: Katy Börner
     firstName: Katy
     lastName: Börner
@@ -19,10 +39,42 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 reviewers:
-  - fullName: Ellen M. Quardokus
-    firstName: Ellen
-    lastName: Quardokus
-    orcid: 0000-0001-7655-4833
+  - fullName: Sören Auer
+    firstName: Sören 
+    lastName: Auer
+    orcid: 0000-0002-0698-2864
+  - fullName: Ino de Bruijn
+    firstName: Ino 
+    lastName: de Bruijn
+    orcid: 0000-0001-5427-4750
+  - fullName: Yongqun He
+    firstName: Yongqun 
+    lastName: He
+    orcid: 0000-0001-9189-9661
+  - fullName: 
+    firstName: 
+    lastName: 
+    orcid: 
+  - fullName: 
+    firstName: 
+    lastName: 
+    orcid: 
+  - fullName: 
+    firstName: 
+    lastName: 
+    orcid: 
+  - fullName: 
+    firstName: 
+    lastName: 
+    orcid: 
+  - fullName: 
+    firstName: 
+    lastName: 
+    orcid: 
+  - fullName: 
+    firstName: 
+    lastName: 
+    orcid: 
 externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
