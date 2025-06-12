@@ -1,0 +1,112 @@
+title: >-
+  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE
+description: |-
+  OMAP-22 was developed for Cell DIVE multiplexed imaging of human formalin-fixed, paraffin-embedded (FFPE) skin tissue.
+  Cell DIVE enables highly multiplexed, antibody-based imaging and single-cell analysis, as outlined in Gerdes et al.
+  (2013). Tissue slides were processed with a dual antigen retrieval method using pH 6 and pH 9 buffers, as described in
+  McDonough et al. (2020), and antigens were detected with either dye-conjugated primary antibodies or unlabeled
+  primaries with fluorophore-conjugated secondaries. A detailed protocol is available in Pryhuber et al. (2022). The
+  panel comprises 34 antibodies and the nuclear marker DAPI for image registration and nuclear segmentation. This
+  updated v1.1 OMAP builds on OMAP-4 (McDonough, Chadwick, and Ginty 2024) and expands biomarker coverage by including
+  CD103, CD14, CD1a, CD207, CD34, F13A1, CDKN1A, KRT1, KRT5, KRT7, KRT10, MLANA, PDPN, TPSAB1, and VWF. These additions
+  enable identification of specific keratinocyte populations, dermal dendritic cells, melanocytes, mast cells, and
+  Langerhans cells. Protein biomarkers such as DDB2, CDKN1A, and p53 allow profiling of aging and skin damage responses.
+  Updates also include the use of commercially available conjugates when possible, replacing custom-labeled clones, and
+  correction of CD3 marker specification from CD3D to CD3E. This OMAP provides spatial context for most anatomical
+  structures and cell types listed in the ASCT+B skin table v1.3 (Ginty et al. 2023). Representative datasets are
+  publicly available on the HuBMAP data portal.
+
+  **Bibliography:**
+
+  * Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can, et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.” *Proceedings of the National Academy of Sciences* 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
+  * Ginty, Fiona, Jonhan Ho, Joel Sunshine, and Arivarasan Karunamurthy. 2023. “Skin (v1.3) Graph Data, v1.3.” 2023. https://lod.humanatlas.io/asct-b/skin/v1.3/.
+  * McDonough, Elizabeth, Chrystal Chadwick, and Fiona Ginty. 2024. “4-Skin-Cell-Dive (v1.3) Graph Data, v1.3.” 2024. https://lod.humanatlas.io/omap/4-skin-cell-dive/v1.3/.
+  * McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVETM Platform | Slide Clearing and Antigen Retrieval,” December. https://www.protocols.io/view/cell-dive-platform-slide-clearing-and-antigen-retr-bpwumpew.
+  * Pryhuber, Gloria, Gail Deutsch, Christine Surrette, Lisa Lowery, Heidie Huyck, and Cory Poole. 2022. “HuBMAP | GE/URMC/SCH Cell DIVETM Modality Overview,” February. https://www.protocols.io/view/hubmap-ge-urmc-sch-cell-dive-modality-overview-b4kgqutw.
+creators:
+  - fullName: Samantha Abate
+    firstName: Samantha
+    lastName: Abate
+    orcid: 0009-0001-1078-1272
+  - fullName: Liz McDonough
+    firstName: Liz
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+  - fullName: Fiona Ginty
+    firstName: Fiona
+    lastName: Ginty
+    orcid: 0000-0001-6638-683X
+  - fullName: Ari Karunamurthy
+    firstName: Ari
+    lastName: Karunamurthy
+    orcid: 0000-0002-5739-4923
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Diane Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Institute of Allergy and Infectious Disease
+    awardNumber: NIH 5UH3CA246594-02
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+hubmapId: HBM243.RGBP.396
+doi: https://doi.org/10.48539/HBM243.RGBP.396
+citation: >-
+  Abate, Samantha,	and Liz McDonough.	
+  2025.	"OMAP-22: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Skin of Body with Cell
+  DIVE, v1.1."	
+  https://doi.org/10.48539/HBM243.RGBP.396.	Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
+datatable:
+  - omap-22-skin-cell-dive.csv
+  - omap-22-skin-cell-dive.xlsx
+references:
+  - https://doi.org/10.1073/pnas.1300136110
+  - https://doi.org/10.17504/protocols.io.bpwumpew
+  - https://dx.doi.org/10.17504/protocols.io.b4kgqutw
+  - https://doi.org/10.48539/HBM785.XBPB.444
+  - https://doi.org/10.48539/HBM485.ZCFD.459

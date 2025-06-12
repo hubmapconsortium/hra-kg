@@ -1,10 +1,20 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Thymus
-description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested thymus structure of anatomical human body parts, the typology of cells, and biomarkers used to identify
+  cell types. The tables are authored and reviewed by an international team of experts. The thymus ASCT+B table provides
+  a comprehensive mapping of the anatomical structures, cell types, and biomarkers associated with the human thymus. It
+  includes detailed information on thymic epithelial cells (TECs), such as cortical (cTECs) and medullary (mTECs)
+  subtypes, which play crucial roles in T cell development and selection. The table also encompasses various stages of
+  thymocyte maturation and associated biomarkers, facilitating a deeper understanding of thymic function and its role in
+  the immune system. A description of this thymus ASCT+B table can be found in ""Anatomical Structures, Cell Types, and
+  Biomarkers Tables Plus 3D Reference Organs in Support of a Human Reference Atlas"" by Börner et al. 2021. The database
+  and code used to generate the more simplified view of the thymus in these ASCT+B tables may be found here:
+  (https://github.com/hubmapconsortium/hra-vccf).                                                                                                                                        
+
+  **Bibliography:**                                                                                                                                                                   
+
+  * Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” *Nature Cell Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
 creators:
   - fullName: Maigan Brusko
     firstName: Maigan
@@ -43,8 +53,7 @@ reviewers:
 externalReviewers: []
 creation_date: 2024-12-15
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -54,12 +63,14 @@ funders:
 hubmapId: HBM682.DVWX.968
 doi: https://doi.org/10.48539/HBM682.DVWX.968
 citation: >-
-  Maigan Brusko; Rebecca T. Beuschel; Andrea J. Radtke, HuBMAP ASCT+B Tables.
-  Thymus v1.5, https://doi.org/10.48539/HBM682.DVWX.968, Accessed on December
-  15, 2024.
+  Brusko, Maigan,	Rebecca T. Beuschel,	and Andrea J. Radtke.	
+  2024.	"HuBMAP ASCT+B Tables. Thymus v1.5."	
+  https://doi.org/10.48539/HBM682.DVWX.968.	Accessed December 15, 2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
-  2024.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2024.
 datatable:
   - asct-b-vh-thymus.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6

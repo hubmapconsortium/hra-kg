@@ -1,0 +1,96 @@
+title: HRApop Full Dataset Graph
+description: |-
+  This ds-graph represents this information for the Human Reference Atlas Cell Type Populations Effort (Börner et al.
+  2025). It provides sample registration information submitted by consortium members in single-cell atlassing efforts,
+  including accurate sample sizes and positions (Bueckle et al. 2025). When combined with ref-organ data, this
+  information helps create 3D visual tissue sample placements. Additionally, the sample information is linked to
+  datasets from researchers' assay analyses that offer deeper insights into the tissue samples. The “ds” stands for
+  “dataset.” ds-graphs represent datasets by tissue sample and donor. It is a dataset graph for the Human Reference
+  Atlaspop Universe. It includes all datasets considered for Human Reference Atlaspop (not enriched).
+
+  **Bibliography:**
+
+  * Börner, Katy, Philip D. Blood, Jonathan C. Silverstein, Matthew Ruffalo, Rahul Satija, Sarah A. Teichmann, Gloria J. Pryhuber, et al. 2025. “Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage.” *Nature Methods*, March, 1–16. https://doi.org/10.1038/s41592-024-02563-5.
+  * Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
+  * Lonsdale, John, Jeffrey Thomas, Mike Salvatore, Rebecca Phillips, Edmund Lo, Saboor Shad, Richard Hasz, et al. 2013. “The Genotype-Tissue Expression (GTEx) Project.” *Nature Genetics* 45 (6): 580–85. https://doi.org/10.1038/ng.2653.
+  * Börner, Katy, Andreas Bueckle, Bruce W. Her II, Leonard E. Cross, Ellen M. Quardokus, Elizabeth G. Record, Yingnan Ju, et al. 2022. “Tissue Registration and Exploration User Interfaces in Support of a Human Reference Atlas.” *Communications Biology* 5 (1): 1369. https://doi.org/10.1038/s42003-022-03644-x.
+creators:
+  - fullName: Andreas Bueckle
+    firstName: Andreas
+    lastName: Bueckle
+    orcid: 0000-0002-8977-498X
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Lu Chen
+    firstName: Lu
+    lastName: Chen
+    orcid: 0000-0001-5998-9317
+  - fullName: Daniel Bolin
+    firstName: Daniel
+    lastName: Bolin
+    orcid: 0000-0002-3803-2476
+  - fullName: Vicky Daiya
+    firstName: Vicky
+    lastName: Daiya
+    orcid: 0000-0003-2090-574X
+  - fullName: Devin Wright
+    firstName: Devin
+    lastName: Wright
+    orcid: 0000-0003-3047-1631
+  - fullName: Danial Qaurooni
+    firstName: Danial
+    lastName: Qaurooni
+    orcid: 0000-0001-6190-073X
+  - fullName: Fusheng Wang
+    firstName: Fusheng
+    lastName: Wang
+    orcid: 0000-0002-9369-9361
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers: []
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: U24CA268108
+  - funder: National Institutes of Health
+    awardNumber: U01CA242936
+  - funder: National Institutes of Health
+    awardNumber: U2CDK114886
+  - funder: National Institutes of Health
+    awardNumber: OT2OD030545
+# hubmapId:
+# doi:
+citation: >-
+  Bueckle, Andreas,	Lu Chen,	Bruce W. Herr II,	Daniel Bolin,	Vicky Daiya,	
+  Devin Wright,	Dan Qaurooni,	Fusheng Wang,	and Katy Börner.	
+  2025.	"Computing and Visualizing the Cells of the Anatomical Structures of the Human Reference Atlas."	
+  https://doi.org/TBD. Accessed June 15, 2025.
+citationOverall: >-
+  Bueckle, Andreas,	Lu Chen,	Bruce W. Herr II,	Daniel Bolin,	Vicky Daiya,	
+  Devin Wright,	Dan Qaurooni,	Fusheng Wang,	and Katy Börner.	
+  2025.	"Computing and Visualizing the Cells of the Anatomical Structures of the Human Reference Atlas."	
+  https://doi.org/TBD. Accessed June 15, 2025.
+datatable:
+  - full-dataset-graph.jsonld
+references:
+  - https://doi.org/10.1038/s41592-024-02563-5
+  - https://doi.org/10.1101/2024.12.22.630006
+  - https://doi.org/10.1038/ng.2653
+  - https://doi.org/10.1038/s42003-022-03644-x

@@ -1,12 +1,16 @@
 title: 3D Reference Organ for Small Intestine, Male
-description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Male, provided by the National Library of
-  Medicine. The small intestines have been updated to include a measurement
-  system. A centerline was made in the center of the intestines, and markers
-  placed along the centerline. The teal discs measure 5 cm along the intestines,
-  the green dashes measure 1 cm. The yellow disc marks the jejunoileal junction.
-  The VHM small intestine total length is 285 cm.
+description: |-
+  This reference organ, Small-intestine-male (https://humanatlas.io/3d-reference-library) was created using data from
+  the Visible Human Male, provided by the National Library of Medicine (Spitzer et al. 1996; Ackerman 1998). The small
+  intestines have been updated to include a measurement system. A centerline was made in the center of the intestines,
+  and markers were placed along the centerline. The teal discs measure 5 cm along the intestines, the green dashes
+  measure 1 cm, and the yellow disc marks the jejunoileal junction. The Visible Human Male small intestine total length
+  is 285 cm.
+
+  **Bibliography:**
+
+  * Ackerman, Michael J. 1998. “The Visible Human Project.” *Proceedings of the IEEE* 86 (3): 504–11. https://doi.org/10.1109/5.662875.
+  * Spitzer, V., M. J. Ackerman, A. L. Scherzinger, and D. Whitlock. 1996. “The Visible Human Male: A Technical Report.” *Journal of the American Medical Informatics Association* 3 (2): 118–30. https://doi.org/10.1136/jamia.1996.96236280.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -27,10 +31,9 @@ reviewers:
     lastName: Arends
     orcid: 0000-0002-6826-8770
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -40,14 +43,14 @@ funders:
 hubmapId: HBM789.XTDK.794
 doi: https://doi.org/10.48539/HBM789.XTDK.794
 citation: >-
-  Kristen Browne; Heidi Schlehlein 2024. *3D Reference Organ for Small
-  Intestine, Male v1.2.*
-  [https://doi.org/10.48539/HBM789.XTDK.794](https://doi.org/10.48539/HBM789.XTDK.794).
-  Accessed on June 15, 2024.
+  Browne, Kristen, and Heidi Schlehlein. 2024. *3D Reference Organ for Small Intestine, Male v1.2*.
+  https://doi.org/10.48539/HBM789.XTDK.794. Accessed on June 15, 2024.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2024. *HuBMAP CCF 3D Reference Object Library*.
-  https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
+  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024. *HuBMAP
+  CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
 datatable:
   - 3d-vh-m-small-intestine.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1109/5.662875
+  - https://doi.org/10.1136/jamia.1996.96236280

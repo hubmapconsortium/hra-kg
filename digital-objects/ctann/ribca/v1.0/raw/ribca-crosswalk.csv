@@ -1,0 +1,26 @@
+Crosswalk of Ribca Types annotated cells to Cell Ontology,,,,,,
+,,,,,,
+Author Name(s):,Aleix Puig-Barbe,,,,,
+Author ORCID(s):,0000-0001-6677-8489,,,,,
+Reviewer(s):,"Bruce Herr II, Katy Borner",,,,,
+Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137",,,,,
+General Publication(s):,https://doi.org/10.1101/2024.09.12.612510,,,,,
+Data DOI:,https://doi.org/10.48539/HBM674.JFSD.677,,,,,
+Date:,"June 15, 2025",,,,,
+Version number:,v1.0,,,,,
+Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
+body proper,UBERON:0013702,B cell,RIBCA:0000001,B cell,CL:0000236,skos:exactMatch
+body proper,UBERON:0013702,CD4 T cell,RIBCA:0000002,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+body proper,UBERON:0013702,CD8 T cell,RIBCA:0000003,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+body proper,UBERON:0013702,Dendritic cell,RIBCA:0000004,dendritic cell,CL:0000451,skos:exactMatch
+body proper,UBERON:0013702,Granulocyte cell,RIBCA:0000005,granulocyte,CL:0000094,skos:exactMatch
+body proper,UBERON:0013702,M1 macrophage cell,RIBCA:0000006,inflammatory macrophage,CL:0000863,skos:exactMatch
+body proper,UBERON:0013702,M2 macrophage cell,RIBCA:0000007,alternatively activated macrophage,CL:0000890,skos:exactMatch
+body proper,UBERON:0013702,Natural killer cell,RIBCA:0000008,natural killer cell,CL:0000623,skos:exactMatch
+body proper,UBERON:0013702,Endothelial cell,RIBCA:0000009,endothelial cell,CL:0000115,skos:exactMatch
+body proper,UBERON:0013702,Epithelial cell,RIBCA:0000010,epithelial cell,CL:0000066,skos:exactMatch
+body proper,UBERON:0013702,Plasma cell,RIBCA:0000011,plasma cell,CL:0000786,skos:exactMatch
+body proper,UBERON:0013702,Regulatory T cell,RIBCA:0000012,regulatory T cell,CL:0000815,skos:exactMatch
+body proper,UBERON:0013702,Stroma cell,RIBCA:0000013,stromal cell,CL:0000499,skos:exactMatch
+body proper,UBERON:0013702,Smooth muscle,RIBCA:0000014,smooth muscle cell,CL:0000192,skos:exactMatch
+body proper,UBERON:0013702,Proliferating/tumor cell,RIBCA:0000015,neoplastic cell,CL:0001063,skos:exactMatch

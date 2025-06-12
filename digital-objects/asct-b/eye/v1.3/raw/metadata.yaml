@@ -1,10 +1,9 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Eye
-description: >-
-  The Eye ASCT+B table v1.1 focused on representing key ocular anatomical
-  structures including the neural retina, lens, cornea, iris, and ciliary body
-  with a focus on vascular, epithelial, and neural cell types. Version 1.2
-  expands upon v1.1 with the addition of anatomical structures including the
-  fovea and macula and cell types such as immune and endothelial.
+description: |-
+  The Eye ASCT+B table v1.1 focused on representing key ocular anatomical structures including the neural retina, lens,
+  cornea, iris, and ciliary body with a focus on vascular, epithelial, and neural cell types. Version 1.2 expands upon
+  v1.1 with the addition of anatomical structures including the fovea and macula and cell types such as immune and
+  endothelial.
 creators:
   - fullName: Angela Kruse
     firstName: Angela
@@ -37,10 +36,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2023-06-15'
+creation_date: "2023-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -48,11 +46,10 @@ funders:
 hubmapId: HBM262.HRHH.693
 doi: https://doi.org/10.48539/HBM262.HRHH.693
 citation: >-
-  Angela Kruse; Kevin Schey; Christine Curcio, HuBMAP ASCT+B Tables. Eye v1.3,
-  https://doi.org/10.48539/HBM262.HRHH.693, Accessed on June 15, 2023.
+  Angela Kruse; Kevin Schey; Christine Curcio, HuBMAP ASCT+B Tables. Eye v1.3, https://doi.org/10.48539/HBM262.HRHH.693,
+  Accessed on June 15, 2023.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2023.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B
+  Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023.
 datatable:
   - asct-b-vh-eye.csv

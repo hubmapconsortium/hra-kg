@@ -1,30 +1,21 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Placenta
-  Full Term
-description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts. The Placenta ASCT+B table represents
-  terms related to the full term human placenta. These include both macroscopic
-  and microscopic anatomical structures, major cell types, and protein and lipid
-  biomarkers specific for each cell type listed. This table was generated based
-  on published placental histopathologic nomenclature, as well as published
-  literature on cell-type specific biomarkers.  Most of the markers listed are
-  observed in more than 1 study or orthogonally validated.  Note that these are
-  predicted markers and a single marker to annotate a cell type is not likely
-  sufficient or specific. Where more refined cell types are not available in the
-  ontologies, the closest general term is used. For example, there are likely
-  multiple types of placental stromal cells; however, further characterization
-  is needed to distinguish between these cell types. Where cells of similar type
-  occur in different locations, the closest and highest level of resolution
-  available is used. For example, vascular endothelial cells (CL0000071) occur
-  in multiple different contexts within the placenta, including the umbilical
-  vessels, chorionic plate vessels, chorionic stem villous vessels and
-  capillaries, and decidual vessels; similarly, vascular smooth muscle cells
-  (CL0000359) occur in umbilical vessels, chorionic plate vessels, and chorionic
-  stem villous vessels.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Placenta Full Term
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
+  authored and reviewed by an international team of experts. The Placenta ASCT+B table represents terms related to the
+  full-term human placenta. These include both macroscopic and microscopic anatomical structures, major cell types, and
+  protein and lipid biomarkers specific for each cell type listed. This table was generated based on published placental
+  histopathologic nomenclature, as well as published literature on cell-type specific biomarkers. Most of the markers
+  listed are observed in more than one study or orthogonally validated. Note that these are predicted markers and a
+  single marker to annotate a cell type is not likely sufficient or specific. Where more refined cell types are not
+  available in the ontologies, the closest general term is used. For example, there are likely multiple types of
+  placental stromal cells; however, further characterization is needed to distinguish between these cell types. Where
+  cells of similar type occur in different locations, the closest and highest level of resolution available is used. For
+  example, vascular endothelial cells (CL:0000071) occur in multiple different contexts within the placenta, including
+  the umbilical vessels, chorionic plate vessels, chorionic stem villous vessels and capillaries, and decidual vessels;
+  similarly, vascular smooth muscle cells (CL:0000359) occur in umbilical vessels, chorionic plate vessels, and
+  chorionic stem villous vessels.
 creators:
   - fullName: Mana Parast
     firstName: Mana
@@ -53,10 +44,9 @@ reviewers:
     lastName: Roberts
     orcid: 0000-0002-9104-6674
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -66,12 +56,12 @@ funders:
 hubmapId: HBM887.JMLM.322
 doi: https://doi.org/10.48539/HBM887.JMLM.322
 citation: >-
-  Mana Parast; Valentina Stanley; Scott A Lindsay, HuBMAP ASCT+B Tables.
-  Placenta Full Term v1.2.
-  [https://doi.org/10.48539/HBM887.JMLM.322](https://doi.org/10.48539/HBM887.JMLM.322)
+  Parast, Mana,	Valentina Stanley,	and Scott A. Lindsay.	
+  2024.	"HuBMAP ASCT+B Tables. Placenta Full Term v1.2."	
+  https://doi.org/10.48539/HBM887.JMLM.322. Accessed June 15, 2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*.]( https://humanatlas.io/asctb-tables) Accessed on June 15,
-  2024.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2024.
 datatable:
   - asct-b-vh-placenta.csv

@@ -6,7 +6,9 @@ set -ev
 COMPRESSOR="xz -T0 -9e --memlimit-compress=75% --compress"
 
 for file in `find digital-objects -name "*.*" -size +75M | grep raw | grep -v .xz$`; do
-  echo "Compressing ${file}..."
-  $COMPRESSOR -k $file
-  echo "/`basename $file`" > `dirname $file`/.gitignore
+  if [ ! -e "${file}.xz" ]; then
+    echo "Compressing ${file}..."
+    $COMPRESSOR -k $file
+    echo "/`basename $file`" > `dirname $file`/.gitignore
+  fi
 done

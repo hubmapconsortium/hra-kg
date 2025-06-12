@@ -1,5 +1,14 @@
 title: 3D Landmarks for Large Intestine Male
-description: ''
+description: |-
+  Anatomical landmarks for large intestine, male were derived primarily from colonoscopy-based data provided by a
+  subject matter expert (SME). While this dataset captured the general morphology and layout of the colon, it could not
+  be directly aligned with the surrounding anatomy of the Visible Human Male dataset. The original colon from the
+  Visible Human Male was unsuitable for reference due to post-mortem bloating that significantly distorted the
+  anatomical structure. To address this, the colonoscopy-informed colon model was repositioned to follow an estimated
+  anatomical path consistent with the presumed trajectory of the Visible Human Male colon, had post-mortem distortions
+  not occurred. This approximation was informed by anatomical references and the placement of surrounding organs within
+  the modified model. Consequently, the associated landmarks should be interpreted as anatomically plausible
+  approximations rather than precise reconstructions.
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce
@@ -11,10 +20,11 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 datatable:

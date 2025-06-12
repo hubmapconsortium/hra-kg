@@ -1,8 +1,14 @@
 title: 2D Renal Corpuscle Functional Tissue Unit (FTU) for Kidney
-description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to
-  the renal corpuscle FTU in the ASCT+B Table [Kidney
-  v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv).
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the renal corpuscle FTU in the ASCT+B Table [Kidney v1.2](https://doi.org/10.48539/HBM248.CBJV.556). Multiple histology atlases, especially *Human Microscopic Anatomy* (Krstić 1991) and *Histology: A Text and Atlas* (Wojciech Pawlina and Michael H. Ross 2019) were referenced. Cell type and metrics were primarily defined from (Hu, McDonough, and Layton 2021; Layton and Layton 2019) and (Rasool et al. 2021). Uberon describes this FTU as follows: "The structure containing the glomerular capsule and the glomerulus that serves as the initial blood-filtering component of a nephron."
+
+  **Bibliography**:
+
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Hu, Rui, Alicia A. McDonough, and Anita T. Layton. 2021. “Sex Differences in Solute and Water Handling in the Human Kidney: Modeling and Functional Implications.” *iScience* 24 (6): 102667. https://doi.org/10.1016/j.isci.2021.102667.
+  * Layton, Anita T., and Harold E. Layton. 2019. “A Computational Model of Epithelial Solute and Water Transport along a Human Nephron.” Edited by Daniel A Beard. *PLOS Computational Biology* 15 (2): e1006108. https://doi.org/10.1371/journal.pcbi.1006108.
+  * Rasool, Gulam, Pratima Jaiswal, Aarushi Jain, and Shiv K. Sharma. 2021. “Histomorphometric Study of Renal Corpuscles of Human and Goat.” *National Journal of Clinical Anatomy* 10 (4): 205–8. https://doi.org/10.4103/NJCA.NJCA_72_21.
+  * Wojciech Pawlina and Michael H. Ross. 2019. “Histology: A Text and Atlas: With Correlated Cell and Molecular Biology. Eighth Edition, 2018 Authors: Wojciech Pawlina; Michael H. Ross.” *Morphologia* 13 (4): 76–89. https://doi.org/10.26641/1997-9665.2019.4.76-89.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -27,10 +33,9 @@ reviewers:
     lastName: Valerius
     orcid: 0000-0001-8143-9231
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: "2023-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -40,15 +45,20 @@ funders:
 hubmapId: HBM778.SHGJ.294
 doi: https://doi.org/10.48539/HBM778.SHGJ.294
 citation: >-
-  Rachel Bajema 2023. *2D Reference Renal Corpuscle FTU for Kidney, v1.2.*
-  https://doi.org/10.48539/HBM778.SHGJ.294. Accessed on December 15, 2023.
+  Bajema, Rachel. 2023. 2D Reference Renal Corpuscle FTU for Kidney, v1.2. https://doi.org/10.48539/HBM778.SHGJ.294.
+  Accessed on December 15, 2023.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2022. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
-  15, 2023.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2023.
 datatable:
   - 2d-ftu-kidney-renal-corpuscle.svg
   - 2d-ftu-kidney-renal-corpuscle.png
   - 2d-ftu-kidney-renal-corpuscle.ai
   - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM248.CBJV.556
+  - https://doi.org/10.1016/j.isci.2021.102667
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.1371/journal.pcbi.1006108
+  - https://doi.org/10.26641/1997-9665.2019.4.76-89
+  - https://doi.org/10.4103/NJCA.NJCA_72_21

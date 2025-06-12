@@ -1,7 +1,14 @@
 title: HRA 2d-ftu-metadata linkml schema
-description: >-
-  Human Reference Atlas (HRA) <https://humanatlas.io> LinkML Schema for
-  2d-ftu-metadata
+description: |-
+  This schema defines a metadata model specifically for 2D Functional Tissue Unit (FTU) datasets with provenance
+  tracking capabilities. It captures essential publication metadata including creators, versioning, licensing, and
+  distribution information. The schema is in full compliance with DCAT (Data Catalog Vocabulary) standards and
+  provenance tracking through PROV-O ontology integration. This schema is described in detail in the HRA KG paper.
+
+  **Bibliography:**
+
+  * Bidanta, Supriya, Katy Börner, Bruce W. Herr II Ii, Ellen M. Quardokus, Marcell Nagy, Katherine S. Gustilo, Rachel Bajema, Elizabeth Maier, Roland Molontay, and Griffin M. Weber. 2025. “Functional Tissue Units in the Human Reference Atlas.” *Nature Communications* 16 (1): 1526. https://doi.org/10.1038/s41467-024-54591-6.
+  * Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
 creators:
   - fullName: Josef Hardi
     firstName: Josef
@@ -21,12 +28,13 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 datatable:

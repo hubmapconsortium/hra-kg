@@ -1,0 +1,55 @@
+title: cell type annotations for popular Vote (popV)
+description: |-
+  This crosswalk maps the cell type annotations from popular Vote, or popV (Ergen et al. 2024), to the latest revision
+  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl. More information on popV
+  is available at https://github.com/YosefLab/popV.                                        
+                                  
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
+  available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
+
+  **Bibliography:**
+
+  * Ergen, Can, Galen Xing, Chenling Xu, Martin Kim, Michael Jayasuriya, Erin McGeever, Angela Oliveira Pisco, Aaron Streets, and Nir Yosef. 2024. “Consensus Prediction of Cell Type Labels in Single-Cell Data with popV.” *Nature Genetics*, November. https://doi.org/10.1038/s41588-024-01993-3.
+creators:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Aleix Puig-Barbe
+    firstName: Aleix
+    lastName: Puig-Barbe
+    orcid: 0000-0001-6677-8489
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+externalReviewers: []
+creation_date: 2025-06-15
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM866.LDBJ.546
+doi: https://doi.org/10.48539/HBM866.LDBJ.546
+citation: >-
+  Quardokus, Ellen M.	
+  2025.	"Crosswalk of Popular Vote (popV) Annotated Cells to Cell Ontology, v1.2."	
+  https://doi.org/10.48539/HBM866.LDBJ.546.	Accessed June 15, 2025.
+datatable:
+  - popv-crosswalk.csv
+references:
+  - https://doi.org/10.1038/s41588-024-01993-3

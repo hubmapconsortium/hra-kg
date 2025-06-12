@@ -1,0 +1,114 @@
+title: >-
+  OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX
+description: |-
+  OMAP-9 was designed for CO-Detection by indEXing (CODEX) imaging of fresh frozen human kidney tissue using the
+  protocol described by Sabo et al. (2023a). The panel includes 41 antibodies and the nuclear marker DAPI for image
+  alignment and nuclear segmentation. OMAP-9 provides a spatial context for all anatomical structures and most cell
+  types present in the ASCT+B kidney table v1.1. This OMAP expands upon OMAP-3 (Neumann and Farrow 2024), which used an
+  18-plex CODEX panel, by incorporating additional markers that enable granular phenotyping of key kidney cells. These
+  include structural cells (e.g., Podocalyxin, LRP2, E-cadherin, SLC12A3, Na/K ATPase, Cytokeratin 8), T cells (e.g.,
+  CD3D, CD4, CD45RO, CD8, FOXP3, GATA-3), myeloid cells (e.g., CD11c, CD68, CD206, HLA-DR, Myeloperoxidase), and B cells
+  (CD20). Antibodies against injury-related markers (e.g., KIM1, IGFBP7, Osteopontin, PLSCR1, VCAM1, MCP1,
+  phospho-c-JUN, phospho-MLKL, Fibronectin, Collagen IV, LC3, Cystatin 3, PROM1) support profiling of disease
+  progression and tissue repair. Antibody clones for vimentin, beta-catenin, and uromodulin differ from those in OMAP-3.
+  Mesangial cells in the glomerulus are not targeted due to the lack of suitable CODEX-compatible antibodies. Additional
+  details on tissue preparation and the CODEX multiplexing workflow are provided by Sabo et al. (2023b). OMAP-9 v1.1
+  corrects author names, and v1.5 updates the UniProt accession number for CD45RO to P08575-4, differentiating it from
+  CD45. A representative dataset is available via Barwinska, Sabo, and EL-Achkar (2024).
+
+  **Bibliography:**
+
+  * Barwinska, Daria, Angela Sabo, and Tarek EL-Achkar. 2024. “OMAP-9.” Zenodo. https://doi.org/10.5281/zenodo.14537009.
+  * Neumann, Elizabeth K., and Melissa Farrow. 2024. “3-Kidney-Codex (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/omap/3-kidney-codex/v1.3/.
+  * Sabo, Angela R., Connor J. Gulbronson, Daria Barwinska, Michael J. Ferkowicz, William Bowen, Seth Winfree, and Tarek Ashkar. 2023a. “Indiana University Adapted Akoya Phenocycler-Fusion Tissue Staining and Imaging Protocol for Fresh Frozen Kidney Tissue,” March. https://www.protocols.io/view/indiana-university-adapted-akoya-phenocycler-fusio-cpchvit6.
+  * Sabo, Angela R., Connor J. Gulbronson, Daria Barwinska, Michael J. Ferkowicz, William Bowen, Seth Winfree, and Tarek Ashkar. 2023b. “Indiana University Adapted Akoya Phenocycler-Fusion Tissue Staining and Imaging Protocol for Fresh Frozen Kidney Tissue,” March. https://www.protocols.io/view/indiana-university-adapted-akoya-phenocycler-fusio-cpchvit6.
+creators:
+  - fullName: Daria Barwinska
+    firstName: Daria
+    lastName: Barwinska
+    orcid: 0000-0002-0776-3030
+  - fullName: Tarek M. El-Achkar
+    firstName: Tarek
+    lastName: El-Achkar
+    orcid: 0000-0003-4645-3614
+  - fullName: Angela R. Sabo
+    firstName: Angela
+    lastName: Sabo
+    orcid: 0000-0002-7496-8570
+  - fullName: Michael J. Ferkowicz
+    firstName: Michael
+    lastName: Ferkowicz
+    orcid: 0000-0002-9531-3899
+  - fullName: Seth Winfree
+    firstName: Seth
+    lastName: Winfree
+    orcid: 0000-0002-2396-5871
+  - fullName: William S. Bowen
+    firstName: William
+    lastName: Bowen
+    orcid: 0009-0005-1408-596X
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
+    awardNumber: OT2OD033756
+  - funder: Intramural Research Program of the NIH
+    awardNumber: OT2OD026671
+hubmapId: HBM657.RTHQ.837
+doi: https://doi.org/10.48539/HBM657.RTHQ.837
+citation: >-
+  Barwinska, Daria,	Tarek M. El-Achkar,	Angela R. Sabo,	Michael J. Ferkowicz,	
+  Seth Winfree,	and William S. Bowen.	
+  2025.	"OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX,
+  v1.4."	
+  https://doi.org/10.48539/HBM657.RTHQ.837.	Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
+datatable:
+  - omap-9-kidney-codex.csv
+  - omap-9-kidney-codex.xlsx
+references:
+  - https://doi.org/10.48539/HBM268.ZQNV.826
+  - https://doi.org/10.5281/zenodo.14537009
+  - https://doi.org/10.17504/protocols.io.8epv5jdbnl1b/v1

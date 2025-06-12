@@ -1,8 +1,7 @@
 title: ASCT+B 3D Models Mapping
-description: >-
-  This lookup table maps [Anatomical Structures, Cell Types and Biomarkers
-  (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical
-  structure terms used in the [3D Reference Object
+description: |-
+  This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B)
+  Table](https://humanatlas.io/asctb-tables) terms to anatomical structure terms used in the [3D Reference Object
   Library](https://humanatlas.io/3d-reference-library).
 creators:
   - fullName: Ellen M. Quardokus
@@ -28,10 +27,9 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: '2022-05-06'
+creation_date: "2022-05-06"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -39,15 +37,11 @@ funders:
 hubmapId: HBM858.DNFV.736
 doi: https://doi.org/10.48539/HBM858.DNFV.736
 citation: >-
-  Ellen M. Quardokus; Heidi Schlehlein; Bruce W. Herr II; Katy Börner. (2022).
-  *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D
-  Reference Object Library Mapping*
-  [https://doi.org/10.48539/HBM858.DNFV.736](https://doi.org/10.48539/HBM858.DNFV.736). 
-  Accessed on May 06, 2022.
+  Ellen M. Quardokus; Heidi Schlehlein; Bruce W. Herr II; Katy Börner. (2022). *Anatomical Structures, Cell Types and
+  Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping*
+  [https://doi.org/10.48539/HBM858.DNFV.736](https://doi.org/10.48539/HBM858.DNFV.736).  Accessed on May 06, 2022.
 citationOverall: >-
-  Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy
-  Börner. 2022. [*HuBMAP CCF 3D Reference Object
-  Library*](https://humanatlas.io/3d-reference-library). Accessed on May 06,
-  2022.
+  Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy Börner. 2022. [*HuBMAP CCF 3D Reference
+  Object Library*](https://humanatlas.io/3d-reference-library). Accessed on May 06, 2022.
 datatable:
   - ASCT-B_3D_Models_Mapping.csv

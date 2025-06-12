@@ -1,5 +1,5 @@
 title: SenNet Dataset Graph
-description: 'SenNet Dataset Graph'
+description: "SenNet Dataset Graph"
 creators:
   - fullName: Katy Börner
     firstName: Katy
@@ -16,23 +16,20 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2023-11-30'
+creation_date: "2023-11-30"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM248.CBJV.556
-doi: https://doi.org/10.48539/HBM248.CBJV.556
-citation: >-
-  Sanjay Jain; M. Todd Valerius; Yongqun He, HuBMAP ASCT+B Tables. Kidney v1.2
-  [https://doi.org/10.48539/HBM248.CBJV.556](https://doi.org/10.48539/HBM248.CBJV.556)
+# hubmapId: HBM248.CBJV.556
+# doi: https://doi.org/10.48539/HBM248.CBJV.556
+# citation: >-
+#   Sanjay Jain; M. Todd Valerius; Yongqun He, HuBMAP ASCT+B Tables. Kidney v1.2
+#   [https://doi.org/10.48539/HBM248.CBJV.556](https://doi.org/10.48539/HBM248.CBJV.556)
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP
-  ASCT+B
-  Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html).
-  Accessed on May 6, 2022.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B
+  Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on May 6, 2022.
 datatable:
   - dataset-graph.jsonld

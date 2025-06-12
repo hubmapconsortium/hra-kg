@@ -1,14 +1,16 @@
 title: Uber-anatomy Ontology
-description: >-
-  Uberon is an integrated cross-species anatomy ontology representing a variety of entities classified according to traditional anatomical criteria such as structure, function and developmental lineage. The ontology includes comprehensive relationships to taxon-specific anatomical ontologies, allowing integration of functional, phenotype and expression data.
+description: |-
+  Uberon is an integrated cross-species anatomy ontology representing a variety of entities classified according to
+  traditional anatomical criteria such as structure, function and developmental lineage. The ontology includes
+  comprehensive relationships to taxon-specific anatomical ontologies, allowing integration of functional, phenotype and
+  expression data.
 creators:
   - fullName: Christopher Mungall
     firstName: Christopher
     lastName: Mungall
     orcid: 0000-0002-6601-2165
-creation_date: '2023-12-08'
+creation_date: "2023-12-08"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 datatable:
   - uberon.owl

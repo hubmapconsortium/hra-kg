@@ -1,13 +1,10 @@
 title: 3D Reference Organ for Eye, Male, Right
-description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Male, provided by the National Library of
-  Medicine. The long posterior ciliary artery was added, as well as a more
-  detailed iris. The position of the optic nerve also moved, and made twice as
-  thick. The muscle thickness was decreased and the position of the muscles was
-  shifted. The levator palpebrae superioris muscle was removed as it was not
-  deemed necessary to the eye model. The inferior oblique muscle was rotated
-  more parallel to the plane of the cornea.
+description: |-
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male,
+  provided by the National Library of Medicine. The long posterior ciliary artery was added, as well as a more detailed
+  iris. The position of the optic nerve also moved, and made twice as thick. The muscle thickness was decreased and the
+  position of the muscles was shifted. The levator palpebrae superioris muscle was removed as it was not deemed
+  necessary to the eye model. The inferior oblique muscle was rotated more parallel to the plane of the cornea.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -36,10 +33,9 @@ reviewers:
     lastName: Messinger
     orcid: 0000-0002-5975-3862
 externalReviewers: []
-creation_date: '2023-06-15'
+creation_date: "2023-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -47,15 +43,11 @@ funders:
 hubmapId: HBM763.WQLH.975
 doi: https://doi.org/10.48539/HBM763.WQLH.975
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Eye, Male,
-  Right v1.2.*
-  [https://doi.org/10.48539/HBM763.WQLH.975](https://doi.org/10.48539/HBM763.WQLH.975).
-  Accessed on June 15, 2023.
+  Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Eye, Male, Right v1.2.*
+  [https://doi.org/10.48539/HBM763.WQLH.975](https://doi.org/10.48539/HBM763.WQLH.975). Accessed on June 15, 2023.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2023. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15,
-  2023.
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2023. [*HuBMAP CCF
+  3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2023.
 datatable:
   - 3d-vh-m-eye-r.glb
   - crosswalk.csv

@@ -1,11 +1,9 @@
 title: 3D Reference Organ for Brain, Male
-description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the "[Allen Human Reference Atlas – 3D,
-  2020](https://doi.org/10.1002/cne.24080)" representing one half of the human
-  brain (Ding et al., 2016). The 141 anatomical structures were mirrored to
-  arrive at a whole human brain (as intended) and resized to fit the Visible
-  Human Male and Female bodies.
+description: |-
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the "[Allen Human
+  Reference Atlas – 3D, 2020](https://doi.org/10.1002/cne.24080)" representing one half of the human brain (Ding et al.,
+  2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit
+  the Visible Human Male and Female bodies.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -22,10 +20,9 @@ reviewers:
     lastName: Ding
     orcid: 0000-0002-7072-5272
 externalReviewers: []
-creation_date: '2021-12-01'
+creation_date: "2021-12-01"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -34,12 +31,10 @@ hubmapId: HBM246.TXGH.789
 doi: https://doi.org/10.48539/HBM246.TXGH.789
 citation: >-
   Kristen Browne. 2021. *3D Reference Organ for Brain, Male v1.1*.
-  [https://doi.org/10.48539/HBM246.TXGH.789](https://doi.org/10.48539/HBM246.TXGH.789).
-  Accessed on December 01, 2021.
+  [https://doi.org/10.48539/HBM246.TXGH.789](https://doi.org/10.48539/HBM246.TXGH.789). Accessed on December 01, 2021.
 citationOverall: >-
-  Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen
-  Quardokus, Andreas Bueckle, Katy Börner. 2021. *HuBMAP CCF 3D Reference Object
-  Library*. https://humanatlas.io/3d-reference-library. Accessed on December 01,
+  Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner.
+  2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 01,
   2021.
 datatable:
   - Allen_M_Brain.glb

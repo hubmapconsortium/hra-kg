@@ -11,8 +11,13 @@ for obj in `ls -d digital-objects/collection/hra/v* | perl -pe 's/digital-object
   blazegraph-runner --journal=dist/blazegraph.jnl load --graph="https://purl.humanatlas.io/${obj}" dist/${obj}/graph.ttl
 done
 
+blazegraph-runner select --journal=./dist/blazegraph.jnl ./src/reference-entity-ids.rq ./dist/reference-entity-ids.tsv
+perl -i -pe 's/\?//g' ./dist/reference-entity-ids.tsv
+
 blazegraph-runner update --journal=./dist/blazegraph.jnl ./src/blazegraph.extras.rq
 blazegraph-runner select --journal=./dist/blazegraph.jnl ./src/blazegraph.stats.rq ./dist/blazegraph.stats.tsv
 blazegraph-runner select --journal=./dist/blazegraph.jnl ./src/high-level-stats.rq ./dist/blazegraph.high-level-stats.tsv
-blazegraph-runner select --journal=./dist/blazegraph.jnl ./src/reference-entity-ids.rq ./dist/reference-entity-ids.tsv
-perl -i -pe 's/\?//g' ./dist/reference-entity-ids.tsv
+
+# blazegraph-runner --journal=$JNL select src/node-count.rq dist/node-count.tsv
+# blazegraph-runner --journal=$JNL select src/edge-count.rq dist/edge-count.tsv
+# blazegraph-runner --journal=$JNL select src/edge-type-count.rq dist/edge-type-count.tsv

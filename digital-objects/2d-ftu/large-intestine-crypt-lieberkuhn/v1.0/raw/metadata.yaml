@@ -1,12 +1,9 @@
 title: 2D Crypt of Lieberkuhn FTU for Large Intestine
-description: >-
-  This functional tissue unit (FTU) illustration was created from anatomical
-  structures and cell types listed in the ASCT+B Table [Large Intestine
-  v1.1](https://doi.org/10.48539/HBM325.NZPB.589). Multiple histology atlases,
-  especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A
-  Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Measurements
-  were taken from [(Baker et al.
-  2014)](https://doi.org/10.1016/j.celrep.2014.07.019).
+description: |-
+  This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the
+  ASCT+B Table [Large Intestine v1.1](https://doi.org/10.48539/HBM325.NZPB.589). Multiple histology atlases, especially
+  “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were
+  referenced. Measurements were taken from [(Baker et al. 2014)](https://doi.org/10.1016/j.celrep.2014.07.019).
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -27,10 +24,9 @@ reviewers:
     lastName: Lin
     orcid: 0000-0002-0317-7608
 externalReviewers: []
-creation_date: '2022-05-06'
+creation_date: "2022-05-06"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -39,13 +35,10 @@ hubmapId: HBM373.JRGS.542
 doi: https://doi.org/10.48539/HBM373.JRGS.542
 citation: >-
   Rachel Bajema 2022. *2D Crypt of Lieberkuhn FTU for Large Intestine, v1.0*
-  [https://doi.org/10.48539/HBM373.JRGS.542](https://doi.org/10.48539/HBM373.JRGS.542).
-  Accessed on May 6, 2022.
+  [https://doi.org/10.48539/HBM373.JRGS.542](https://doi.org/10.48539/HBM373.JRGS.542). Accessed on May 6, 2022.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2022. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 6,
-  2022.
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference
+  Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 6, 2022.
 datatable:
   - crypt_lieberkuhn_large_intestine.svg
   - crypt_lieberkuhn_large_intestine.png

@@ -1,20 +1,15 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Skeleton
-description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture anatomical human
-  body parts, the typology of cells, and biomarkers used to identify cell types.
-  The tables are authored and reviewed by an international team of experts. This
-  ASCT+B table contains a hierarchical “partonomy” of the human skeleton. The
-  top level anatomical structure (“AS/1”) is “skeleton” for all structures. The
-  second level (“AS/2”) divides the skeleton into “appendicular skeleton” and
-  “axial skeleton”. The third (“AS/3”) and fourth (“AS/4”) levels further divide
-  the skeleton by body region and sub-region, respectively. The fifth level
-  (“AS/5”) lists individual bones. Finally, the sixth level (“AS/6”) contains
-  bony landmarks and parts of bones. Note that the main purpose of this table is
-  to provide a comprehensive list of bones and their location in the body.
-  Individual bones, bone tissues, and joints might have their own ASCT+B table,
-  which provides more detail about its anatomical structure, cell types and
-  biomarkers.
+description: |-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to
+  capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
+  authored and reviewed by an international team of experts. This ASCT+B table contains a hierarchical “partonomy” of
+  the human skeleton. The top level anatomical structure (“AS/1”) is “skeleton” for all structures. The second level
+  (“AS/2”) divides the skeleton into “appendicular skeleton” and “axial skeleton”. The third (“AS/3”) and fourth
+  (“AS/4”) levels further divide the skeleton by body region and sub-region, respectively. The fifth level (“AS/5”)
+  lists individual bones. Finally, the sixth level (“AS/6”) contains bony landmarks and parts of bones. Note that the
+  main purpose of this table is to provide a comprehensive list of bones and their location in the body. Individual
+  bones, bone tissues, and joints might have their own ASCT+B table, which provides more detail about its anatomical
+  structure, cell types and biomarkers.
 creators:
   - fullName: Katherine S Gustilo
     firstName: Katherine
@@ -31,10 +26,9 @@ project_leads:
     orcid: 0000-0002-3321-6137
 reviewers: []
 externalReviewers: []
-creation_date: '2023-06-15'
+creation_date: "2023-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -42,11 +36,10 @@ funders:
 hubmapId: HBM233.TRCP.638
 doi: https://doi.org/10.48539/HBM233.TRCP.638
 citation: >-
-  Katherine S Gustilo; Griffin Weber. Skeleton, v1.0
-  https://doi.org/10.48539/HBM233.TRCP.638, Accessed on June 15, 2023.
-citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
+  Katherine S Gustilo; Griffin Weber. Skeleton, v1.0 https://doi.org/10.48539/HBM233.TRCP.638, Accessed on June 15,
   2023.
+citationOverall: >-
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B
+  Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023.
 datatable:
   - asct-b-vh-skeleton.csv

@@ -1,0 +1,50 @@
+title: Blood Vasculature Geometry
+description: |-
+  This table provides geometric properties (e.g., length and diameter) of selected vessels in the blood vasculature
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table (Börner et al. 2021). The same vessel geometric
+  property might be listed multiple times with different values. These correspond to different references that reported
+  the property. This is in support of Vasculature Common Coordinate Frame (VCCF) construction (Weber, Ju, and Börner
+  2020).
+
+  **Bibliography:**
+
+  * Weber, Griffin M., Yingnan Ju, and Katy Börner. 2020. “Considerations for Using the Vasculature as a Coordinate System to Map All the Cells in the Human Body.” *Frontiers in Cardiovascular Medicine* 7 (March). https://doi.org/10.3389/fcvm.2020.00029.
+  * Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” *Nature Cell Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
+creators:
+  - fullName: Griffin Weber
+    firstName: Griffin
+    lastName: Weber
+    orcid: 0000-0002-2597-881X
+  - fullName: Katherine S Gustilo
+    firstName: Katherine
+    lastName: Gustilo
+    orcid: 0000-0002-5574-4272
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers: []
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM727.FMQZ.589
+doi: https://doi.org/10.48539/HBM727.FMQZ.589
+citation: >-
+  Weber, Griffin,	and Katherine S. Gustilo.	
+  2025.	"Blood Vasculature Geometry, v1.1."	
+  https://doi.org/10.48539/HBM727.FMQZ.589.	Accessed June 15, 2025.
+citationOverall: >-
+  Boppana, Avinash,	Sujin Lee,	Rajeev Malhotra,	Marc Halushka,	Katherine S. Gustilo,	
+  Ellen M. Quardokus,	Bruce W. Herr,	Katy Börner,	and Griffin M. Weber.	
+  2023.	"Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature."	
+  *Scientific Data*	10 (1):	452.	https://doi.org/10.1038/s41597-023-02018-0.	Accessed June 15, 2025.
+datatable:
+  - blood-vasculature-geometry.csv

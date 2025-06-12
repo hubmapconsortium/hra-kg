@@ -1,24 +1,14 @@
 title: 2D Red Pulp Functional Tissue Unit (FTU) for Spleen
-description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to the red pulp of spleen FTU 
-  in the ASCT+B Table Spleen v1.3. Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) 
-  and “Netter’s Essential Histology” (William K. Ovale and Patrick C. Nahirney, 2021) were referenced.
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the red pulp of spleen FTU in the ASCT+B Table [Spleen v1.3](https://doi.org/10.48539/HBM763.QFRB.477). Multiple histology atlases, especially *Human Microscopic Anatomy* (Krstić 1991) and *Netter’s Essential Histology* (Ovalle, Nahirney, and Netter 2021) were referenced. Primary references: *Human Spleen Microanatomy: Why Mice Do Not Suffice* (Steiniger 2015), *Structure and Function of the Spleen* (Mebius and Kraal 2005), and *Enhanced Histopathology of the spleen* (Elmore 2006). Uberon describes this FTU as follows: "The parenchymatous tissue network of the spleen that consists of loose plates or cords (sinuses) infiltrated with red blood cells where most of the blood filtration occurs and degenerate erythrocytes are removed from the circulation." 
 
-  Primary references:
+  **Bibliography**:
 
-  * Steiniger, Birte S. 2015. “Human Spleen Microanatomy:Why Mice Do Not Suffice.” Immunology. 145(3): 334-346.
-  * Mebius, R., Kraal, G. 2005. “Structure and Function of the Spleen.” Nat Rev Immunol. 5: 606-616.
-
-  Note: These illustrations are a stylized representation of the average number and distribution of cell type 
-  populations within a functional tissue unit (FTU). Cell types are included based on their linkage to the FTU in 
-  each organ’s Anatomical Structures, Cell Type and Biomarkers (ASCT+B) Table. The intention is to illustrate 
-  relationships between individual cells and to include visual information on their relative shape, scale and 
-  distribution within the tissue. A relationship to blood supply is indicated. We are working towards an understanding 
-  of cellular relationships within each FTU, as well as perfusion, innervation, structural and extracellular matrix 
-  support. Greater relationships of scale within the body are also considered. Smaller FTUs may be nested within larger 
-  FTUs. This work is iterative and will be updated in regular publication cycles. In future releases, illustrations will 
-  be linked to data sets interactively. Machine learning and AI are employed in segmenting these FTUs from data which will 
-  be connected to the illustrations in future publication cycles.
+  * Elmore, Susan A. 2006. “Enhanced Histopathology of the Spleen.” *Toxicologic Pathology* 34 (5): 648–55. https://doi.org/10.1080/01926230600865523.
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Mebius, Reina E., and Georg Kraal. 2005. “Structure and Function of the Spleen.” *Nature Reviews Immunology* 5 (8): 606–16. https://doi.org/10.1038/nri1669.
+  * Ovalle, William K., Patrick C. Nahirney, and Frank H. Netter. 2021. Netter’s Essential Histology: With Correlated Histopathology. Third edition. Philadelphia, PA: *Elsevier*.
+  * Steiniger, Birte S. 2015. “Human Spleen Microanatomy: Why Mice Do Not Suffice.” *Immunology* 145 (3): 334–46. https://doi.org/10.1111/imm.12469.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -39,10 +29,9 @@ reviewers:
     lastName: Brusko
     orcid: 0000-0002-4331-2202
 externalReviewers: []
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -52,16 +41,19 @@ funders:
 hubmapId: HBM355.ZFMS.256
 doi: https://doi.org/10.48539/HBM355.ZFMS.256
 citation: >-
-  Rachel Bajema 2024. *2D Red Pulp Functional Tissue Unit (FTU) for Spleen
-  v1.2.* https://doi.org/10.48539/HBM355.ZFMS.256. Accessed on December 15,
-  2024.
+  Bajema, Rachel. 2024. 2D Red Pulp Functional Tissue Unit (FTU) for Spleen v1.2.
+  https://doi.org/10.48539/HBM355.ZFMS.256. Accessed on December 15, 2024.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2024. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
-  15, 2024.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2024. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2024 .
 datatable:
   - 2d-ftu-spleen-red-pulp.svg
   - 2d-ftu-spleen-red-pulp.png
   - 2d-ftu-spleen-red-pulp.ai
   - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM763.QFRB.477
+  - https://doi.org/10.1080/01926230600865523
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.1038/nri1669
+  - https://doi.org/10.1111/imm.12469

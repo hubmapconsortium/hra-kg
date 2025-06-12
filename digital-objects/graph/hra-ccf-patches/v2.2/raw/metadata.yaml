@@ -1,8 +1,16 @@
 title: 3D Reference Organ for Human Male and Female Bodies
-description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Project, provided by the National Library of
-  Medicine.
+description: |-
+  graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph
+  data that are useful for Human Reference Atlas use cases. This graph curates placements (patches) to convert old 3D
+  Reference Object registrations to newer versions for reference organs (Spitzer et al. 1996; Ackerman 1998) that had a
+  different shape, placement, or size in earlier versions. More information is presented in a related paper (Bueckle et
+  al. 2025).
+
+  **Bibliography:**
+
+  * Ackerman, Michael J. 1998. “The Visible Human Project.” *Proceedings of the IEEE* 86 (3): 504–11. https://doi.org/10.1109/5.662875.
+  * Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
+  * Spitzer, V., M. J. Ackerman, A. L. Scherzinger, and D. Whitlock. 1996. “The Visible Human Male: A Technical Report.” *Journal of the American Medical Informatics Association* 3 (2): 118–30. https://doi.org/10.1136/jamia.1996.96236280.
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce
@@ -14,14 +22,19 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 externalReviewers: []
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 datatable:
   - patches.jsonld
   - crosswalk.ttl
+references:
+  - https://doi.org/10.1109/5.662875
+  - https://doi.org/10.1101/2024.12.22.630006
+  - https://doi.org/10.1136/jamia.1996.96236280

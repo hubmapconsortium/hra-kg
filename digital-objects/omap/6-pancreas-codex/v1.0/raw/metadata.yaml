@@ -1,9 +1,8 @@
 title: >-
-  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of
-  Human Pancreas with CODEX
-description: >-
-  The OMAP Pancreas  panel was designed for CODEX (CO Detection by IndEXing)
-  imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples.
+  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX
+description: |-
+  The OMAP Pancreas  panel was designed for CODEX (CO Detection by IndEXing) imaging of Formalin-Fixed Paraffin-Embedded
+  (FFPE) human pancreas samples.
 creators:
   - fullName: Anna Martinez Casals
     firstName: Anna
@@ -40,33 +39,27 @@ reviewers:
     lastName: Werlein
     orcid: 0000-0002-7694-4257
 externalReviewers: []
-creation_date: '2021-05-06'
+creation_date: "2021-05-06"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health (NIH)
     awardNumber: OT2OD026671
   - funder: >-
-      National Institute of Allergy and Infectious Disease and National Cancer
-      Institute
+      National Institute of Allergy and Infectious Disease and National Cancer Institute
     awardNumber: UH3 CA246635
   - funder: >-
-      European Union (EU) Expression and Spatial analysis Pancreas Atlas
-      Consortium Europe (ESPACE)
+      European Union (EU) Expression and Spatial analysis Pancreas Atlas Consortium Europe (ESPACE)
 hubmapId: HBM395.LXKX.734
 doi: https://doi.org/10.48539/HBM395.LXKX.734
 citation: >-
-  Anna Martinez Casals, Frida Björklund. Organ Mapping Antibody Panel (OMAP) for
-  Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.0.
-  [https://doi.org/10.48539/HBM395.LXKX.734](https://doi.org/10.48539/HBM395.LXKX.734)
+  Anna Martinez Casals, Frida Björklund. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of
+  Human Pancreas with CODEX v1.0. [https://doi.org/10.48539/HBM395.LXKX.734](https://doi.org/10.48539/HBM395.LXKX.734)
 citationOverall: >-
-  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo,
-  Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021.
-  “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for
-  Multiplexed Antibody-Based Imaging.” *Nature Methods*, November.
-  https://doi.org/10.1038/s41592-021-01316-y.
+  Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre
+  Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer
+  for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.
 datatable:
   - OMAP_Pancreas_CODEX.csv
   - OMAP_Pancreas_CODEX.xlsx

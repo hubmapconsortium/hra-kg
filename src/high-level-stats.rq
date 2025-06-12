@@ -1,18 +1,20 @@
 SELECT ?label ?count
 WHERE {
-  hint:Query hint:analytic "true" .
 
   {
-    SELECT ("# Nodes" as ?label) (COUNT(DISTINCT(?s)) as ?count)
+    SELECT ("# Nodes" as ?label) (COUNT(*) as ?count)
     WHERE {
-      {
-        ?s ?p1 [] .
-      }
-      UNION
-      {
-        [] ?p2 ?s .
-        FILTER(isIRI(?s)) 
-      }
+      SELECT DISTINCT ?s 
+      WHERE {
+        {
+          ?s ?p1 [] .
+        }
+        UNION
+        {
+          [] ?p2 ?s .
+          FILTER(isIRI(?s)) 
+        }
+      } 
     }
   }
   UNION
@@ -24,9 +26,12 @@ WHERE {
   }
   UNION
   {
-    SELECT ("# Edge Types" as ?label) (COUNT(DISTINCT(?p)) as ?count)
+    SELECT ("# Edge Types" as ?label) (COUNT(*) as ?count)
     WHERE {
-      ?s ?p ?o .
+      SELECT DISTINCT ?p
+      WHERE {
+        ?s ?p ?o .
+      }
     }
   }
 }

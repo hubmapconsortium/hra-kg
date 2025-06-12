@@ -1,0 +1,745 @@
+{
+  "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+  "@graph": [
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor1",
+      "@type": "Donor",
+      "label": "16",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor1_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "16.415816541416355 x 8.912565479287517 x 5.539127537516834 millimeter, 5.539127537516834 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 5.539127537516834,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#16",
+            "@type": "SpatialEntity",
+            "label": "16",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 16.415816541416355,
+            "y_dimension": 8.912565479287517,
+            "z_dimension": 5.539127537516834,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#16_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 17.385911635321147,
+              "y_translation": 6.802483598058507,
+              "z_translation": 14.241829245987857,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18494",
+              "http://purl.org/sig/ont/fma/fma18492"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor2",
+      "@type": "Donor",
+      "label": "17",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor2_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "14.988310575981961 x 23.92250471527224 x 8.215186162683242 millimeter, 8.215186162683242 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 8.215186162683242,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#17",
+            "@type": "SpatialEntity",
+            "label": "17",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 14.988310575981961,
+            "y_dimension": 23.92250471527224,
+            "z_dimension": 8.215186162683242,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#17_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 31.701624927041415,
+              "y_translation": 21.06805824598526,
+              "z_translation": 14.422879087941668,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18492"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor3",
+      "@type": "Donor",
+      "label": "18",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor3_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "6.903824993521796 x 13.070076949626182 x 8.121309406306864 millimeter, 8.121309406306864 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 8.121309406306864,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#18",
+            "@type": "SpatialEntity",
+            "label": "18",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 6.903824993521796,
+            "y_dimension": 13.070076949626182,
+            "z_dimension": 8.121309406306864,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#18_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 35.621670586071716,
+              "y_translation": 38.41466209452477,
+              "z_translation": 8.313247640440999,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18490",
+              "http://purl.org/sig/ont/fma/fma18492"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor4",
+      "@type": "Donor",
+      "label": "22",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor4_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "3.518891572079151 x 4.920155919067734 x 7.29195738771106 millimeter, 7.29195738771106 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 7.29195738771106,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#22",
+            "@type": "SpatialEntity",
+            "label": "22",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 3.518891572079151,
+            "y_dimension": 4.920155919067734,
+            "z_dimension": 7.29195738771106,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#22_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 25.796985282550107,
+              "y_translation": 33.77333266605347,
+              "z_translation": 4.1236121376343196,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18490",
+              "http://purl.org/sig/ont/fma/fma18498"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor5",
+      "@type": "Donor",
+      "label": "23",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor5_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "3.890879788521637 x 5.360910129885918 x 8.173930444202531 millimeter, 8.173930444202531 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 8.173930444202531,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#23",
+            "@type": "SpatialEntity",
+            "label": "23",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 3.890879788521637,
+            "y_dimension": 5.360910129885918,
+            "z_dimension": 8.173930444202531,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#23_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 27.79597588447058,
+              "y_translation": 33.43371632612368,
+              "z_translation": 4.121633626306402,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18490",
+              "http://purl.org/sig/ont/fma/fma18498"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor6",
+      "@type": "Donor",
+      "label": "24",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor6_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "2.8197433740576665 x 4.250657137223834 x 7.0891028652642145 millimeter, 7.0891028652642145 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 7.0891028652642145,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#24",
+            "@type": "SpatialEntity",
+            "label": "24",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 2.8197433740576665,
+            "y_dimension": 4.250657137223834,
+            "z_dimension": 7.0891028652642145,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#24_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 29.967167615146455,
+              "y_translation": 33.30409581004454,
+              "z_translation": 4.313940156687995,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18490",
+              "http://purl.org/sig/ont/fma/fma18498"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor7",
+      "@type": "Donor",
+      "label": "19",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor7_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "5.84952292736865 x 3.6545094648702396 x 3.8750924809961633 millimeter, 3.8750924809961633 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 3.8750924809961633,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#19",
+            "@type": "SpatialEntity",
+            "label": "19",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 5.84952292736865,
+            "y_dimension": 3.6545094648702396,
+            "z_dimension": 3.8750924809961633,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#19_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 31.311941858079354,
+              "y_translation": 43.09702136399723,
+              "z_translation": 3.652914806622155,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18490",
+              "http://purl.org/sig/ont/fma/fma18492"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor8",
+      "@type": "Donor",
+      "label": "20",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor8_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "5.419306639296829 x 5.290610869711193 x 5.685008274083677 millimeter, 5.685008274083677 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 5.685008274083677,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#20",
+            "@type": "SpatialEntity",
+            "label": "20",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 5.419306639296829,
+            "y_dimension": 5.290610869711193,
+            "z_dimension": 5.685008274083677,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#20_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 29.13108676680242,
+              "y_translation": 40.240878501810975,
+              "z_translation": 3.6356419572251135,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18490",
+              "http://purl.org/sig/ont/fma/fma18492"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor9",
+      "@type": "Donor",
+      "label": "21",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor9_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "6.170058836766093 x 4.901363978891404 x 7.522570735003454 millimeter, 7.522570735003454 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 7.522570735003454,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#21",
+            "@type": "SpatialEntity",
+            "label": "21",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 6.170058836766093,
+            "y_dimension": 4.901363978891404,
+            "z_dimension": 7.522570735003454,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#21_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 28.289280542758497,
+              "y_translation": 36.450610373642725,
+              "z_translation": 4.11362090309754,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18490",
+              "http://purl.org/sig/ont/fma/fma18498"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor10",
+      "@type": "Donor",
+      "label": "13",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor10_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "2.637466856195963 x 3.540137009084711 x 3.8607602766087683 millimeter, 3.8607602766087683 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 3.8607602766087683,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#13",
+            "@type": "SpatialEntity",
+            "label": "13",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 2.637466856195963,
+            "y_dimension": 3.540137009084711,
+            "z_dimension": 3.8607602766087683,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#13_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 2.1042024976342146,
+              "y_translation": 2.5442498168125915,
+              "z_translation": 12.170985450658742,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18494"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor11",
+      "@type": "Donor",
+      "label": "14",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor11_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "3.636958781814345 x 3.1905136465257833 x 2.8589991098797176 millimeter, 2.8589991098797176 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 2.8589991098797176,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#14",
+            "@type": "SpatialEntity",
+            "label": "14",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 3.636958781814345,
+            "y_dimension": 3.1905136465257833,
+            "z_dimension": 2.8589991098797176,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#14_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 4.8295823482440765,
+              "y_translation": 2.8436860054979194,
+              "z_translation": 12.34310361676743,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18494"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor12",
+      "@type": "Donor",
+      "label": "15",
+      "description": "Entered 4/28/2025, Antara Bhavsar, MC-IU",
+      "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+      "consortium_name": "HRA",
+      "provider_name": "MC-IU",
+      "provider_uuid": "87751d4c-a850-4e2c-84dc-da6a797d76de",
+      "sex": "Female",
+      "samples": [
+        {
+          "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#Donor12_TissueBlock1",
+          "@type": "Sample",
+          "sample_type": "Tissue Block",
+          "label": "Registered 4/28/2025, Antara Bhavsar, MC-IU",
+          "description": "3.3467725890629594 x 2.9145413387794 x 2.6603900739974664 millimeter, 2.6603900739974664 millimeter",
+          "link": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0",
+          "section_count": 0,
+          "section_size": 2.6603900739974664,
+          "rui_location": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#15",
+            "@type": "SpatialEntity",
+            "label": "15",
+            "creator": "Antara Bhavsar",
+            "creator_first_name": "Antara",
+            "creator_last_name": "Bhavsar",
+            "creator_orcid": "https://orcid.org/0009-0006-6491-6503",
+            "creation_date": "2025-05-29",
+            "x_dimension": 3.3467725890629594,
+            "y_dimension": 2.9145413387794,
+            "z_dimension": 2.6603900739974664,
+            "dimension_units": "millimeter",
+            "placement": {
+              "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+              "@id": "https://purl.humanatlas.io/millitome/fallopian-tube-female-left-upenn/v1.0#15_placement",
+              "@type": "SpatialPlacement",
+              "placement_date": "2025-05-29",
+              "x_scaling": 1,
+              "y_scaling": 1,
+              "z_scaling": 1,
+              "scaling_units": "ratio",
+              "x_rotation": 0,
+              "y_rotation": 0,
+              "z_rotation": 0,
+              "rotation_order": "XYZ",
+              "rotation_units": "degree",
+              "x_translation": 7.993374587434012,
+              "y_translation": 3.332998285579099,
+              "z_translation": 12.503803619367506,
+              "translation_units": "millimeter",
+              "target": "https://purl.humanatlas.io/ref-organ/fallopian-tube-female-left/v1.2#primary"
+            },
+            "ccf_annotations": [
+              "http://purl.org/sig/ont/fma/fma18494"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

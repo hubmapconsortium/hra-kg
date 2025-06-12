@@ -1,12 +1,12 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lymph
-  Vasculature
-description: >-
-  The lymph vasculature table focuses on major central lymphatic structures. The
-  primary source is Rouviere H. Anatomie des Lymphatiques de l'Homme. Masson et
-  Cie: Paris, 1932. This release extends lymphatic structures of the arm and
-  hand. Currently, “lymphatic endothelial cell” and “FLT4 (VEGFR-3)” are the
-  only cell types and biomarkers included in the table.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lymph Vasculature
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested lymph-vasculature structure of anatomical human body parts, the typology of cells, and biomarkers used to
+  identify cell types. The tables are authored and reviewed by an international team of experts. The lymph vasculature
+  table focuses on major central lymphatic structures. The primary source is *Rouvière H. Anatomie des Lymphatiques de
+  l'Homme. Masson et Cie: Paris, 1932*. This release extends lymphatic structures of the arm and hand. Currently,
+  “lymphatic endothelial cell” and “FLT4 (VEGFR-3)” are the only cell types and biomarkers included in the table.
 creators:
   - fullName: Dhruv Singhal
     firstName: Dhruv
@@ -43,10 +43,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -56,10 +55,12 @@ funders:
 hubmapId: HBM622.PDVS.333
 doi: https://doi.org/10.48539/HBM622.PDVS.333
 citation: >-
-  Dhruv Singhal; Maxim Itkin; Avinash Boppana, HuBMAP ASCT+B Tables. Lymph
-  Vasculature v1.5, [https://doi.org/10.48539/HBM622.PDVS.333](https://doi.org/10.48539/HBM622.PDVS.333). Accessed on June 15, 2024.
+  Singhal, Dhruv,	Maxim Itkin,	and Avinash Boppana.	
+  2024.	"HuBMAP ASCT+B Tables. Lymph Vasculature v1.5."	
+  https://doi.org/10.48539/HBM622.PDVS.333.	Accessed June 15, 2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2024.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2024.
 datatable:
   - asct-b-vh-lymph-vasculature.csv

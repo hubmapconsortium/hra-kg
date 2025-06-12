@@ -1,0 +1,55 @@
+title: cell type annotations for Azimuth
+description: |-
+  This crosswalk maps the cell type annotations from Azimuth (Hao et al. 2021) to Cell Ontology Version IRI:
+  http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl. More information on Azimuth is available at
+  https://azimuth.hubmapconsortium.org/.
+
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
+  available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
+
+  **Bibliography:**
+
+  * Hao, Yuhan, Stephanie Hao, Erica Andersen-Nissen, William M. Mauck, Shiwei Zheng, Andrew Butler, Maddie J. Lee, et al. 2021. “Integrated Analysis of Multimodal Single-Cell Data.” *Cell* 184 (13): 3573-3587.e29. https://doi.org/10.1016/j.cell.2021.04.048.
+creators:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Aleix Puig-Barbe
+    firstName: Aleix
+    lastName: Puig-Barbe
+    orcid: 0000-0001-6677-8489
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM543.NVTF.775
+doi: https://doi.org/10.48539/HBM543.NVTF.775
+citation: >-
+  Quardokus, Ellen M.	
+  2025.	"Crosswalk of Azimuth Annotated Cells to Cell Ontology, v1.2."	
+  https://doi.org/10.48539/HBM543.NVTF.775.	Accessed June 15, 2025.
+datatable:
+  - azimuth-crosswalk.csv
+references:
+  - https://doi.org/10.1016/j.cell.2021.04.048

@@ -1,12 +1,10 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lymph
-  Vasculature
-description: >-
-  The lymph vasculature table focuses on major central lymphatic structures. The
-  primary source is Rouviere H. Anatomie des Lymphatiques de l'Homme. Masson et
-  Cie: Paris, 1932. This release extends lymphatic structures of the arm and
-  hand. Currently, “lymphatic endothelial cell” and “FLT4 (VEGFR-3)” are the
-  only cell types and biomarkers included in the table.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lymph Vasculature
+description: |-
+  The lymph vasculature table focuses on major central lymphatic structures. The primary source is Rouviere H. Anatomie
+  des Lymphatiques de l'Homme. Masson et Cie: Paris, 1932. This release extends lymphatic structures of the arm and
+  hand. Currently, “lymphatic endothelial cell” and “FLT4 (VEGFR-3)” are the only cell types and biomarkers included in
+  the table.
 creators:
   - fullName: Dhruv Singhal
     firstName: Dhruv
@@ -43,10 +41,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: "2023-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -56,12 +53,10 @@ funders:
 hubmapId: HBM836.BDKQ.873
 doi: https://doi.org/10.48539/HBM836.BDKQ.873
 citation: >-
-  Dhruv Singhal; Maxim Itkin; Avinash Boppana, HuBMAP ASCT+B Tables. Lymph
-  Vasculature v1.4, https://doi.org/10.48539/HBM836.BDKQ.873. Accessed on
-  December 15, 2023.
+  Dhruv Singhal; Maxim Itkin; Avinash Boppana, HuBMAP ASCT+B Tables. Lymph Vasculature v1.4,
+  https://doi.org/10.48539/HBM836.BDKQ.873. Accessed on December 15, 2023.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15,
-  2023.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B
+  Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2023.
 datatable:
   - asct-b-vh-lymph-vasculature.csv

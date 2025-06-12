@@ -1,0 +1,99 @@
+title: >-
+  OMAP-29 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging of human mouth mucosa with CODEX
+description: |-
+  OMAP-29 was designed for CO-Detection by indEXing (CODEX) imaging of human formalin fixed paraffin embedded (FFPE)
+  oral mucosa samples using the Akoya Biosciences PhenoCycler-Fusion (PCF) platform (Black et al. 2021). Tissues were
+  fixed using 4% paraformaldehyde (PFA) instead of the more common 10% formalin prior to paraffin embedding. A two-step
+  antigen retrieval process at pH 9 was used, as detailed in Houston 2024. Antigen detection was achieved using primary
+  antibodies conjugated with fluorophore-labeled barcodes, following the methodology outlined in Easter et al. 2024. The
+  antibody panel includes 40 antibodies and the nuclear marker DAPI, which supports both image registration and nuclear
+  segmentation. This OMAP provides spatial context for most anatomical structures and cell types represented in the
+  ASCT+B mouth table v1. It includes key marker antibodies for major oral mucosa cell populations: epithelial cells
+  (pan-cytokeratin), fibroblasts (vimentin), immune cells (CD45), and vascular cells (CD31). The panel enables detailed
+  mapping of structural and immune microenvironments of the oral mucosa in FFPE samples.
+
+  **Bibliography:**
+
+  * Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated Antibodies.” *Nature Protocols* 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
+  * Easter, Quinn T., Bruno Fernandes Matuck, Germán Beldorati Stark, Catherine L. Worth, Alexander V. Predeus, Brayon Fremin, Khoa Huynh, et al. 2024. “Single-Cell and Spatially Resolved Interactomics of Tooth-Associated Keratinocytes in Periodontitis.” *Nature Communications* 15 (1): 5016. https://doi.org/10.1038/s41467-024-49037-y.
+  * Houston, Andrew. 2024. “Akoya Biosciences PhenoCycler Fusion (Formerly CODEX) User Guide,” January. https://www.protocols.io/view/akoya-biosciences-phenocycler-fusion-formerly-code-c7fszjne.
+creators:
+  - fullName: Kevin M. Byrd
+    firstName: Kevin M.
+    lastName: Byrd
+    orcid: 0000-0002-5565-0524
+  - fullName: Quinn Easter
+    firstName: Quinn
+    lastName: Easter
+    orcid: 0000-0002-8018-0405
+  - fullName: Bruno Matuck
+    firstName: Bruno
+    lastName: Matuck
+    orcid: 0000-0002-2132-3402
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Liz McDonough
+    firstName: Liz
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+hubmapId: HBM222.BJWR.353
+doi: https://doi.org/10.48539/HBM222.BJWR.353
+citation: >-
+  Byrd, Kevin M.,	Quinn Easter,	and Bruno Matuck.	
+  2025.	"OMAP-29 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Mouth Mucosa with
+  CODEX, v1.0."	
+  https://doi.org/10.48539/HBM222.BJWR.353.	Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7. Accessed June 15, 2025.
+datatable:
+  - omap-29-mouth-mucosa-codex.csv
+  - omap-29-mouth-mucosa-codex.xlsx
+references:
+  - https://doi.org/10.1038/s41596-021-00556-8
+  - https://doi.org/10.17504/protocols.io.x54v9p4j1g3e/v1
+  - https://doi.org/10.1038/s41467-024-49037-y

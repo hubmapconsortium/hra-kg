@@ -1,0 +1,100 @@
+title: >-
+  OMAP-30 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging of human salivary gland with CODEX
+description: |-
+  OMAP-30 was developed for CO-Detection by indEXing (CODEX) imaging of human formalin fixed paraffin embedded (FFPE)
+  salivary gland tissue using the PhenoCycler-Fusion (PCF) platform from Akoya Biosciences (Black et al. 2021). Tissue
+  fixation was performed using 4% paraformaldehyde (PFA) instead of the more commonly used 10% formalin. A two-step
+  antigen retrieval process (pH 9) was applied prior to staining, as outlined by Houston (2024). Antigen detection in
+  salivary gland tissue was conducted using primary antibodies conjugated to fluorophore-labeled barcodes, following the
+  methodology described by Easter et al. (2024). The antibody panel consists of 40 antibodies and includes the nuclear
+  marker DAPI to facilitate both image registration and nuclear segmentation. This OMAP provides spatial context for
+  most anatomical structures and cell types listed in the ASCT+B mouth table v1. It includes essential markers for key
+  cell populations such as epithelial cells (pan-cytokeratin), fibroblasts (vimentin), immune cells (CD45), and vascular
+  structures (CD31). OMAP-30 enables comprehensive spatial profiling of cellular architecture in FFPE salivary gland
+  tissue, supporting future studies in oral and salivary gland biology.
+
+  **Bibliography:**
+
+  * Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated Antibodies.” *Nature Protocols* 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
+  * Easter, Quinn T., Bruno Fernandes Matuck, Germán Beldorati Stark, Catherine L. Worth, Alexander V. Predeus, Brayon Fremin, Khoa Huynh, et al. 2024. “Single-Cell and Spatially Resolved Interactomics of Tooth-Associated Keratinocytes in Periodontitis.” *Nature Communications* 15 (1): 5016. https://doi.org/10.1038/s41467-024-49037-y.
+  * Houston, Andrew. 2024. “Akoya Biosciences PhenoCycler Fusion (Formerly CODEX) User Guide,” January. https://doi.org/10.17504/protocols.io.x54v9p4j1g3e/v1.
+creators:
+  - fullName: Kevin M. Byrd
+    firstName: Kevin M.
+    lastName: Byrd
+    orcid: 0000-0002-5565-0524
+  - fullName: Quinn Easter
+    firstName: Quinn
+    lastName: Easter
+    orcid: 0000-0002-8018-0405
+  - fullName: Bruno Matuck
+    firstName: Bruno
+    lastName: Matuck
+    orcid: 0000-0002-2132-3402
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Liz McDonough
+    firstName: Liz
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+hubmapId: HBM788.PDVM.389
+doi: https://doi.org/10.48539/HBM788.PDVM.389
+citation: >-
+  Byrd, Kevin M.,	Quinn Easter,	and Bruno Matuck.	
+  2025.	"OMAP-30 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Salivary Gland with
+  CODEX, v1.0."	
+  https://doi.org/10.48539/HBM788.PDVM.389.	Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
+datatable:
+  - omap-30-salivary-gland-codex.csv
+  - omap-30-salivary-gland-codex.xlsx
+references:
+  - https://doi.org/10.1038/s41596-021-00556-8
+  - https://doi.org/10.17504/protocols.io.x54v9p4j1g3e/v1
+  - https://doi.org/10.1038/s41467-024-49037-y

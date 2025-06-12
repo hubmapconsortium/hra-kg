@@ -1,0 +1,95 @@
+title: >-
+  OMAP-28: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based  Imaging of Heart with CODEX
+description: |-
+  OMAP-28 was developed for CO-Detection by indEXing (CODEX) imaging using the Akoya Biosciences PhenoCycler system on
+  human formalin fixed paraffin embedded (FFPE) heart samples. Antigen retrieval was performed by heating the samples in
+  Dako Target Retrieval Solution (pH 9) in a high-pressure cooker for 20 minutes. To reduce tissue autofluorescence,
+  slides were treated with a solution of 4.5% hydrogen peroxide (H₂O₂) and 20 mM sodium hydroxide (NaOH) in PBS,
+  followed by photoirradiation using broad-spectrum LED light sources for two 45-minute cycles. Full protocol details
+  are provided in Ahn et al. 2024. The antibody panel includes 38 antibodies and the nuclear marker DAPI for image
+  registration and cell segmentation. Cell membrane markers such as Sodium-Potassium ATPase, CD45, and vimentin, along
+  with DAPI, were used for segmentation and annotation of individual cells. This OMAP provides spatial context for 26
+  anatomical structures and 14 cell types as listed in the ASCT+B Heart table v1.5 (Lin, Halushka, and Boppana 2024). It
+  captures all major cardiac cell types including atrial and ventricular cardiomyocytes, vascular and lymphatic
+  endothelial cells, vascular smooth muscle cells, pericytes, lymphocytes, macrophages, fibroblasts, adipocytes,
+  mesothelial cells, and Schwann cells. Markers for specialized pacemaking regions (sinoatrial and atrioventricular
+  nodes) are also included. Although subtypes of immune cells and cell states are not fully represented, future updates
+  may expand on these components.
+
+  **Bibliography:**
+
+  * Ahn, Kyung J., Shovik Bandyopadhyay, Anusha Thadi, and Kai Tan. 2024. “Phenocycler-Fusion Staining Protocol For FFPE Tissue,” January. https://www.protocols.io/view/phenocycler-fusion-staining-protocol-for-ffpe-tiss-c8cyzsxw.
+  * Lin, Shin, Marc Halushka, and Avinash Boppana. 2024. “Heart (v1.5) Graph Data, v1.5.” https://lod.humanatlas.io/asct-b/heart/v1.5/.
+creators:
+  - fullName: Kyung Jin Ahn
+    firstName: Kyung Jin
+    lastName: Ahn
+    orcid: 0000-0002-4184-482X
+  - fullName: Kai Tan
+    firstName: Kai
+    lastName: Tan
+    orcid: 0000-0002-9104-5567
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Liz McDonough
+    firstName: Liz
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+hubmapId: HBM564.VPJV.699
+doi: https://doi.org/10.48539/HBM564.VPJV.699
+citation: >-
+  Ahn, Kyung Jin,	and Kai Tan.	
+  2025.	"OMAP-28: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Heart with CODEX, v1.0."	
+  https://doi.org/10.48539/HBM564.VPJV.699.	Accessed June 15, 2025.
+
+citationOverall: >-
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
+datatable:
+  - omap-28-heart-codex.csv
+  - omap-28-heart-codex.xlsx
+references:
+  - https://doi.org/10.17504/protocols.io.5jyl8pzodg2w/v1

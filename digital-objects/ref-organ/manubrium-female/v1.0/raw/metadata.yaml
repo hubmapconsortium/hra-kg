@@ -1,8 +1,11 @@
 title: 3D Reference Organ for Manubrium, Female
-description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Female provided by the National Library of
-  Medicine.
+description: |-
+  This reference organ, Manubrium-female (https://humanatlas.io/3d-reference-library) was created using data from the
+  Visible Human Dataset, provided by the National Library of Medicine (Spitzer and Whitlock 2002).
+
+  **Bibliography:**
+
+  * Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human Simulation.” *The Anatomical Record* 253 (2): 49–57. https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.
 creators:
   - fullName: Heidi Schlehlein
     firstName: Heidi
@@ -19,10 +22,9 @@ reviewers:
     lastName: Nakshatri
     orcid: 0000-0001-8876-0052
 externalReviewers: []
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -30,12 +32,13 @@ funders:
 hubmapId: HBM668.VJNV.946
 doi: https://doi.org/10.48539/HBM668.VJNV.946
 citation: >-
-  Heidi Schlehlein. 2024. *3D Reference Organ for manubrium, Female v1.0.*
-  [https://doi.org/10.48539/HBM668.VJNV.946](https://doi.org/10.48539/HBM668.VJNV.946).
+  Schlehlein, Heidi. 2024. "3D Reference Organ for manubrium, Female v1.0." https://doi.org/10.48539/HBM668.VJNV.946.
   Accessed on December 15, 2024.
 citationOverall: >-
-  Schlehlein, Heidi, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2024.
+  Schlehlein, Heidi, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024. "HuBMAP CCF 3D Reference
+  Object Library." https://humanatlas.io/3d-reference-library. Accessed on December 15, 2024.
 datatable:
   - 3d-vh-f-manubrium.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9

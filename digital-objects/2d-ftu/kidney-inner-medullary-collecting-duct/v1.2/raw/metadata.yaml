@@ -1,16 +1,13 @@
 title: 2D Inner Medullary Collecting Duct FTU for Kidney
-description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to
-  the inner medullary collecting duct FTU in the Anatomical Structures, Cell
-  Types and Biomarkers table in the [Kidney
-  v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv).
-  This illustration was inspired by the [Kidney Tissue Atlas
-  Explorer](https://atlas.kpmp.org/explorer/)created by the Kidney Precision
-  Medicine Project (KPMP). Multiple histology atlases, especially “Human
-  Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas”
-  (Michael H. Ross, et al., 2003) were referenced. Cell type diameters were
-  primarily defined by [(Hu, McDonough, and Layton
-  2021)](https://doi.org/10.1016/j.isci.2021.102667).
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the inner medullary collecting duct FTU in the ASCT+B Table [Kidney v1.2](https://doi.org/10.48539/HBM248.CBJV.556). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer) created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially *Human Microscopic Anatomy* (Krstić 1991) and *Histology: A Text and Atlas* (Wojciech Pawlina and Michael H. Ross 2019) were referenced. Cell types and metrics were primarily defined by (Hu, McDonough, and Layton 2021; Layton and Layton 2019). Uberon describes this FTU as follows: "The inner medullary collecting duct is the portion of the collecting duct that lies in the renal inner medulla."
+
+  **Bibliography**:
+
+  * Hu, Rui, Alicia A. McDonough, and Anita T. Layton. 2021. “Sex Differences in Solute and Water Handling in the Human Kidney: Modeling and Functional Implications.” *iScience* 24 (6): 102667. https://doi.org/10.1016/j.isci.2021.102667.
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Layton, Anita T., and Harold E. Layton. 2019. “A Computational Model of Epithelial Solute and Water Transport along a Human Nephron.” Edited by Daniel A Beard. *PLOS Computational Biology* 15 (2): e1006108. https://doi.org/10.1371/journal.pcbi.1006108.
+  * Wojciech Pawlina and Michael H. Ross. 2019. “Histology: A Text and Atlas: With Correlated Cell and Molecular Biology. Eighth Edition, 2018 Authors: Wojciech Pawlina; Michael H. Ross.” *Morphologia* 13 (4): 76–89. https://doi.org/10.26641/1997-9665.2019.4.76-89.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -35,10 +32,9 @@ reviewers:
     lastName: Valerius
     orcid: 0000-0001-8143-9231
 externalReviewers: []
-creation_date: '2024-12-15'
+creation_date: "2024-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -48,16 +44,19 @@ funders:
 hubmapId: HBM268.TNSF.557
 doi: https://doi.org/10.48539/HBM268.TNSF.557
 citation: >-
-  Rachel Bajema 2024. *2D Reference Inner Medullary Collecting Duct FTU for
-  Kidney, v1.2.* https://doi.org/10.48539/HBM268.TNSF.557. Accessed on December
-  15, 2024.
+  Bajema, Rachel. 2024. 2D Reference Inner Medullary Collecting Duct FTU for Kidney, v1.2.
+  https://doi.org/10.48539/HBM268.TNSF.557. Accessed on December 15, 2024.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2024. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
-  15, 2024.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2024. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2024.
 datatable:
   - 2d-ftu-kidney-inner-medullary-collecting-duct.svg
   - 2d-ftu-kidney-inner-medullary-collecting-duct.png
   - 2d-ftu-kidney-inner-medullary-collecting-duct.ai
   - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM248.CBJV.556
+  - https://doi.org/10.1016/j.isci.2021.102667
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.1371/journal.pcbi.1006108
+  - https://doi.org/10.26641/1997-9665.2019.4.76-89

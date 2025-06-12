@@ -1,8 +1,7 @@
 title: 3D Reference organ for Breast (mammary gland), Female left
-description: >-
-  The breast was sculpted from scratch to include relevant anatomy for placement
-  of registration blocks. The atlas “Human Microscopic Anatomy” (R.V. Krstić,
-  1994) and “Atlas of Anatomy” (Thieme, 2008) was referenced.
+description: |-
+  The breast was sculpted from scratch to include relevant anatomy for placement of registration blocks. The atlas
+  “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Atlas of Anatomy” (Thieme, 2008) was referenced.
 creators:
   - fullName: Heidi Schlehlein
     firstName: Heidi
@@ -19,10 +18,9 @@ reviewers:
     lastName: Nakshatri
     orcid: 0000-0001-8876-0052
 externalReviewers: []
-creation_date: '2022-12-15'
+creation_date: "2022-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -30,13 +28,11 @@ funders:
 hubmapId: HBM378.VWZG.633
 doi: https://doi.org/10.48539/HBM378.VWZG.633
 citation: >-
-  Heidi Schlehlein 2022. *3D Reference Organ for Breast (mammary gland), Female
-  left, v1.0*, https://doi.org/10.48539/HBM378.VWZG.633. Accessed on December
-  15, 2022.
+  Heidi Schlehlein 2022. *3D Reference Organ for Breast (mammary gland), Female left, v1.0*,
+  https://doi.org/10.48539/HBM378.VWZG.633. Accessed on December 15, 2022.
 citationOverall: >-
-  Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy
-  Börner. 2022. *HuBMAP CCF 3D Reference Object Library*.
-  https://humanatlas.io/3d-reference-library. Accessed on December 15, 2022.
+  Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2022. *HuBMAP CCF 3D Reference
+  Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 15, 2022.
 datatable:
   - 3d-vh-f-mammary-gland-l.glb
   - crosswalk.csv

@@ -1,8 +1,10 @@
 title: 2D Dermal Papilla FTU for Skin
-description: >-
-  This functional tissue unit (FTU) illustration includes cell types related to
-  the dermis in the Anatomical Structures, Cell Types and Biomarkers table [Skin
-  v1.2](https://doi.org/10.48539/HBM725.JHNS.532).
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the dermis in the ASCT+B Table [Skin v1.4](https://doi.org/10.48539/HBM474.TDSP.668). Cell types and measurements were referenced fom Lambert and Laurent 2008. Uberon describes this FTU as follows: "The upper layer of the dermis beneath the epidermis, composed of dense irregular connective tissue." 
+
+  **Bibliography**:
+
+  * Lambert, Paul Henri, and Philippe E. Laurent. 2008. “Intradermal Vaccine Delivery: Will New Delivery Systems Transform Vaccine Administration?” *Vaccine* 26 (26): 3197–3208. https://doi.org/10.1016/j.vaccine.2008.03.095.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -27,10 +29,9 @@ reviewers:
     lastName: Karunamurthy
     orcid: 0000-0002-5739-4923
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: "2023-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -40,14 +41,16 @@ funders:
 hubmapId: HBM476.JQZD.394
 doi: https://doi.org/10.48539/HBM476.JQZD.394
 citation: >-
-  Rachel Bajema 2023. *2D Dermal Papilla FTU for Skin, v1.1.*
-  https://doi.org/10.48539/HBM476.JQZD.394. Accessed on December 15, 2023.
+  Bajema, Rachel. 2023. 2D Dermal Papilla FTU for Skin, v1.1. https://doi.org/10.48539/HBM476.JQZD.394. Accessed on
+  December 15, 2023.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2023. [*HuBMAP CCF 2D Reference Object Library*](
-  https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2023.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2023.
 datatable:
   - 2d-ftu-skin-dermal-papilla.svg
   - 2d-ftu-skin-dermal-papilla.png
   - 2d-ftu-skin-dermal-papilla.ai
   - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM474.TDSP.668
+  - https://doi.org/10.1016/j.vaccine.2008.03.095.

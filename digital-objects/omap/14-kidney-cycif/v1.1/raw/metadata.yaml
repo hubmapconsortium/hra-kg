@@ -1,0 +1,111 @@
+title: >-
+  OMAP-14: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CyCIF
+description: |-
+  OMAP-14 was developed for CyCIF (Cyclic Immunofluorescence) imaging of unfixed frozen human kidney tissue (Brewer et
+  al. 2023). The panel includes 17 antibodies, one lectin (LTL), and Hoechst 33342 for nuclear segmentation and image
+  alignment. This OMAP enables spatial mapping of key anatomical structures and cell types in healthy kidney tissue,
+  including podocytes, endothelial cells, mesangial cells, glomerular basement membranes, smooth muscle cells, and
+  various renal tubular epithelial segments (proximal tubules, loops of Henle, distal convoluted tubules, connecting
+  segments, cortical and medullary collecting ducts). Zonula occludens-1 (ZO-1), a tight junction protein, was used to
+  segment plasma membranes of podocytes and basolateral membranes in tubules. Lotus Tetragonolobus Lectin (LTL), though
+  not included in the OMAP table due to being a lectin rather than an antibody, was used to label proximal tubules and
+  specific collecting duct cells. Custom antibody conjugation details are available (Brewer et al. 2019), and sample
+  preparation followed established BIOMIC protocols (Neumann et al. 2020). Representative 2D and 3D CyCIF images
+  demonstrating tubular and glomerular segmentations are available on Zenodo (de Caestecker 2023a–d; de Caestecker and
+  Migas 2023).
+
+  **Bibliography:**
+
+  * Brewer, Maya, Liz McDonough, Yuantee Zhu, Elizabeth Neumann, Danielle Gutierrez, Jeff Spraggins, and Mark De Caestecker. 2023. “Multiplex Cyclical Immunofluorescence on Fresh Frozen Tissue-V3,” September. https://www.protocols.io/view/multiplex-cyclical-immunofluorescence-on-fresh-fro-czsax6ae.
+  * Brewer, Maya, Yuantee Zhu, Danielle Gutierrez, Jeff Spraggins, and Mark de Caestecker. 2019. “Antibody Purification and Labeling,” September. https://www.protocols.io/view/antibody-purification-and-labeling-667hhhn.
+  * Caestecker, Mark de. 2023a. “Antibody Validation for Cyclical Immunofluorescence Microscopy of Human Kidneys (Part 1, Figures 31 and 33).” Zenodo. https://zenodo.org/records/10445539.
+  * Caestecker, Mark de. 2023b. “Antibody Validation for Cyclical Immunofluorescence of Human Kidneys (Part 2, Figure 32).” https://zenodo.org/records/10447779.
+  * Caestecker, Mark de. 2023c. “Antibody Validation for Immunofluorescence Microscopy of Human Kidneys (Part 1, Figures 1-15).” Zenodo. https://zenodo.org/records/10407947.
+  * Caestecker, Mark de. 2023d. “Antibody Validation for Immunofluorescence Microscopy of Human Kidneys (Part 2, Figures 16-30).” Zenodo. https://zenodo.org/records/10440321.
+  * Caestecker, Mark de, and Lukasz Migas. 2023. “3-D Cyclical Immunofluorescence Microscopy of the Human Kidney,” December. https://zenodo.org/records/10447489.
+  * Neumann, Elizabeth, Jamie Allen, Maya Brewer, David Anderson, Mark De Caestecker, Danielle Gutierrez, and Jeff Spraggins. 2020. “VU Biomolecular Multimodal Imaging Center (BIOMIC) kidney characterization pipeline for tissues collected through the Cooperative Human Tissue Network (CHTN) V.4,” April. https://www.protocols.io/view/vu-biomolecular-multimodal-imaging-center-biomic-k-bfskjncw.
+creators:
+  - fullName: Mark de Caestecker
+    firstName: Mark
+    lastName: de Caestecker
+    orcid: 0000-0001-7926-1673
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institute of Health (NIH) National Cancer Institute (NCI)
+    awardNumber: OT2OD033756
+  - funder: Intramural Research Program of the NIH
+    awardNumber: OT2OD026671
+  - funder: Intramural Research Program of the NIH
+    awardNumber: UH3 CA246635
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246594-01
+
+hubmapId: HBM966.SMJD.846
+doi: https://doi.org/10.48539/HBM966.SMJD.846
+citation: >-
+  de Caestecker, Mark.	
+  2025.	"OMAP-14: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CyCIF,
+  v1.1."	
+  https://doi.org/10.48539/HBM966.SMJD.846.	Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
+datatable:
+  - omap-14-kidney-cycif.csv
+  - omap-14-kidney-cycif.xlsx
+references:
+  - https://doi.org/10.17504/protocols.io.81wgb1m3yvpk/v3
+  - https://doi.org/10.17504/protocols.io.bfskjncw
+  - https://doi.org/10.17504/protocols.io.667hhhn
+  - https://doi.org/10.5281/zenodo.10407946
+  - https://doi.org/10.5281/zenodo.10440320
+  - https://doi.org/10.5281/zenodo.10445538
+  - https://doi.org/10.5281/zenodo.10445538
+  - https://doi.org/10.5281/zenodo.10447488
+  - https://doi.org/10.5281/zenodo.10445551
+  - https://doi.org/10.1038/ncomms9390
+  - https://doi.org/10.5281/zenodo.10445539
+  - https://doi.org/10.5281/zenodo.10407947
+  - https://doi.org/10.5281/zenodo.10440321
+  - https://doi.org/10.5281/zenodo.10447489

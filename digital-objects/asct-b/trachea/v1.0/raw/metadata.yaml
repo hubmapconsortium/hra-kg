@@ -1,12 +1,23 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Trachea
-description: >-
-  With revision of the Lung v1.2-1.3 revisions, the Trachea and the Main
-  Bronchus were split out into separate ASCT+B tables as v1.0.  With the
-  excellent assistance of Joshua Fortriede, Ellen Quardokus and Aleix Puig Barbe
-  (EBI), Uberon and Cell Ontology were updated, terms added or revised where
-  needed, AS-AS, AS-CT, CT-CT relationships corrected and verified. The provided
-  gene markers were reviewed and updated based on recent scRNAseq lung cell type
-  references.
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested trachea structure of anatomical human body parts, the typology of cells, and biomarkers used to identify
+  cell types. The tables are authored and reviewed by an international team of experts. The Trachea ASCT+B table v1.0
+  was developed following the revisions of the Lung ASCT+B tables (v1.2–1.3), during which the Trachea and Main Bronchus
+  were delineated into separate tables. This table focuses on the anatomical structures, cell types, and biomarkers
+  specific to the human trachea. With the assistance of Joshua Fortriede, Ellen Quardokus, and Aleix Puig Barbe (EBI),
+  updates were made to Uberon and the Cell Ontology, including the addition and revision of terms as necessary.
+  Relationships among anatomical structures (AS-AS), anatomical structures and cell types (AS-CT), and among cell types
+  (CT-CT) were corrected and verified. Gene markers were reviewed and updated based on recent single-cell RNA sequencing
+  (scRNAseq) lung cell type references. A description of this Trachea ASCT+B table can be found in "Anatomical
+  Structures, Cell Types, and Biomarkers Tables Plus 3D Reference Organs in Support of a Human Reference Atlas" by
+  (Börner et al. 2021). The database and code used to generate the more simplified view of the Trachea in these ASCT+B
+  tables may be found here
+  (https://github.com/hubmapconsortium/hra-vccf).                                                                                                                                                                                                                   
+
+  **Bibliography:**
+
+  * Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” *Nature Cell Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
 creators:
   - fullName: Gloria Pryhuber
     firstName: Gloria
@@ -43,22 +54,26 @@ reviewers:
     lastName: Ardlie
     orcid: 0000-0003-4272-6283
 externalReviewers: []
-creation_date: '2023-06-15'
+creation_date: "2023-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 hubmapId: HBM245.PWLJ.489
 doi: https://doi.org/10.48539/HBM245.PWLJ.489
 citation: >-
-  Gloria Pryhuber. HuBMAP ASCT+B Tables. Trachea v1.0
-  [https://doi.org/10.48539/HBM245.PWLJ.489](https://doi.org/10.48539/HBM245.PWLJ.489)
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2023.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15,
-  2023.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2023.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2023.
 datatable:
   - asct-b-vh-trachea.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6

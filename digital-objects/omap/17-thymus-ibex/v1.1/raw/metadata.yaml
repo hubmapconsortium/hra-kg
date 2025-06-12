@@ -1,0 +1,148 @@
+title: >-
+  OMAP-17: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Thymus with IBEX
+description: |-
+  OMAP-17 was developed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human pediatric
+  thymus tissue samples (Radtke et al. 2022; 2020). The panel spans 9 imaging cycles and includes 43 primary antibodies,
+  6 secondary antibodies, and Hoechst nuclear dye for image alignment and segmentation. It provides spatial context for
+  7 anatomical structures and over 30 cell types and developmental states (e.g., dividing, immature, precommitted) from
+  the ASCT+B thymus table v1.4 (Brusko, Beuschel, and Radtke 2023). This is the first OMAP developed specifically for
+  the thymus and was designed to detect rare thymic epithelial cell (TEC) populations such as myo-TECs and neuro-TECs,
+  informed by scRNA-seq and CITE-seq studies. OMAP-17 shares markers with other lymphoid tissue OMAPs, including OMAP-1
+  (lymph node), OMAP-10 (tonsil), and OMAP-11 (spleen). However, it does not include markers for plasma cells or
+  ionocyte/tuft TECs. CD1a, a key thymocyte marker, was omitted due to steric hindrance during multi-cycle labeling.
+  Some antibodies were custom conjugated in-house or by suppliers (e.g., Alexa Fluor 532, iFluor 594). Three antibodies
+  used in this OMAP have since been discontinued: KRT10 (NBP2-54402PE), LY75 (NBP2-75467), and Z25303 from Thermo
+  Fisher. This panel contributed to the Human Cell Atlas spatial thymus atlas project. Imaging data can be explored on
+  the Image Data Resource (https://idr.openmicroscopy.org, project-3051), and detailed protocols and examples are
+  available on the IBEX Knowledge-Base (Radtke et al. 2025; Yaniv et al. 2025). Further information on image analysis,
+  integration, and the thymus coordinate framework is described in Yayon et al. (2024).
+
+  **Bibliography:**
+
+  * Brusko, Maigan, Rebecca T. Beuschel, and Andrea J. Radtke. 2023. “Thymus (v1.4) Graph Data, v1.4.” https://lod.humanatlas.io/asct-b/thymus/v1.4/.
+  * Image Data Resource. 2025. “Webclient for Image Data Resource.” https://idr.openmicroscopy.org/webclient/?show=project-3051.
+  * Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023. “10-Palatine-Tonsil-Mics (v1.0) Graph Data, v1.0.” https://lod.humanatlas.io/omap/10-palatine-tonsil-mics/v1.0/.
+  * Radtke, Andrea J. 2023a. “1-Human-Lymph-Node-Ibex (v1.3) Graph Data, v1.3.” https://lod.humanatlas.io/omap/1-human-lymph-node-ibex/v1.3/.
+  * Radtke, Andrea J. 2023b. “11-Spleen-Ibex (v1.0) Graph Data, v1.0.” https://lod.humanatlas.io/omap/11-spleen-ibex/v1.0/.
+  * Radtke, Andrea J., et al. 2022. “IBEX: An Iterative Immunolabeling and Chemical Bleaching Method for High-Content Imaging of Diverse Tissues.” *Nature Protocols* 17 (2): 378–401. https://doi.org/10.1038/s41596-021-00644-9.
+  * Radtke, Andrea J., et al. 2020. “IBEX: A Versatile Multiplex Optical Imaging Approach for Deep Phenotyping and Spatial Analysis of Cells in Complex Tissues.” *PNAS* 117 (52): 33455–65. https://doi.org/10.1073/pnas.2018488117.
+  * Yayon, Nadav, et al. 2024. “A Spatial Human Thymus Cell Atlas Mapped to a Continuous Tissue Axis.” *Nature* 635 (8039): 708–18. https://doi.org/10.1038/s41586-024-07944-6.
+  * Radtke, Andrea J., et al. 2025. “The IBEX Knowledge-Base: A Central Resource for Multiplexed Imaging Techniques.” *PLoS Biol* 23(3): e3003070. https://doi.org/10.1371/journal.pbio.3003070.
+  * Yaniv, Ziv, et al. 2025. “The IBEX Imaging Knowledge-Base: A Community Resource Enabling Adoption and Development of Immunofluorescence Imaging Methods.” *eLife* 14:RP105737.
+creators:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Brianna T. Wachter
+    firstName: Brianna T.
+    lastName: Wachter
+    orcid: 0000-0002-2950-2683
+  - fullName: Rebecca T. Beuschel,
+    firstName: Rebecca T.
+    lastName: Beuschel
+    orcid: 0000-0002-3882-457X
+  - fullName: Nadav Yayon
+    firstName: Nadav
+    lastName: Yayon
+    orcid: 0000-0002-7034-0524
+  - fullName: Veronika Kedlian
+    firstName: Veronika
+    lastName: Kedlian
+    orcid: 0000-0001-6563-0829
+  - fullName: Lena Boehme
+    firstName: Lena
+    lastName: Boehme
+    orcid: 0000-0001-7593-7533
+  - fullName: Ronald Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+  - fullName: Luigi Notarangelo
+    firstName: Luigi
+    lastName: Notarangelo
+    orcid: 0000-0002-8335-0262
+  - fullName: Marita Bosticardo
+    firstName: Marita
+    lastName: Bosticardo
+    orcid: 0000-0002-1771-4523
+  - fullName: Francesca Pala
+    firstName: Francesca
+    lastName: Pala
+    orcid: 0000-0003-4537-9061
+  - fullName: Sarah Teichmann
+    firstName: Sarah
+    lastName: Teichmann
+    orcid: 0000-0002-6294-6366
+  - fullName: Tom Taghon
+    firstName: Tom
+    lastName: Taghon
+    orcid: 0000-0002-5781-0288
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM469.BKTC.228
+doi: https://doi.org/10.48539/HBM469.BKTC.228
+citation: >-
+  Radtke, Andrea J.,	Brianna T. Wachter,	Rebecca T. Beuschel,	Nadav Yayon,	
+  Veronika Kedlian,	Lena Boehme,	Ronald Germain,	Luigi Notarangelo,	
+  Marita Bosticardo,	Francesca Pala,	Sarah Teichmann,	and Tom Taghon.	
+  2025.	"OMAP-17: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Thymus with IBEX v1.1."	
+  https://doi.org/10.48539/HBM469.BKTC.228.	Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
+datatable:
+  - omap-17-thymus-ibex.csv
+  - omap-17-thymus-ibex.xlsx
+references:
+  - https://doi.org/10.1038/s41596-921-00644-9
+  - https://doi.org/10.1073/pnas.2018488117
+  - https://doi.org/10.48539/HBM668.QPSF.678
+  - https://doi.org/10.48539/HBM458.NSWR.957
+  - https://doi.org/10.48539/HBM957.RHVB.545
+  - https://doi.org/10.48539/HBM663.JJMJ.628
+  - https://doi.org/10.1038/s41586-024-07944-6
+  - https://doi.org/10.17867/10000200
+  - https://doi.org/10.1101/2023.10.25.562925
+  - https://doi.org/10.1371/journal.pbio.3003070

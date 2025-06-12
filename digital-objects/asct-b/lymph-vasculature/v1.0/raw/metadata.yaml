@@ -1,12 +1,9 @@
 title: >-
-  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lymph
-  Vasculature
-description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim to capture the nested
-  *part_of* structure of anatomical human body parts, the typology of cells, and
-  biomarkers used to identify cell types. The tables are authored and reviewed
-  by an international team of experts.
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lymph Vasculature
+description: |-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to
+  capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to
+  identify cell types. The tables are authored and reviewed by an international team of experts.
 creators:
   - fullName: Dhruv Singhal
     firstName: Dhruv
@@ -35,10 +32,9 @@ reviewers:
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
 externalReviewers: []
-creation_date: '2021-12-01'
+creation_date: "2021-12-01"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -46,11 +42,10 @@ funders:
 hubmapId: HBM559.TDMB.283
 doi: https://doi.org/10.48539/HBM559.TDMB.283
 citation: >-
-  Dhruv Singhal; Maxim Itkin; Avinash Boppana, HuBMAP ASCT+B Tables. Lymph
-  Vasculature v1.0
+  Dhruv Singhal; Maxim Itkin; Avinash Boppana, HuBMAP ASCT+B Tables. Lymph Vasculature v1.0
   [https://doi.org/10.48539/HBM559.TDMB.283](https://doi.org/10.48539/HBM559.TDMB.283)
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. *HuBMAP
-  ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on Dec 1, 2021.
+  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. *HuBMAP ASCT+B Tables*.
+  https://humanatlas.io/asctb-tables. Accessed on Dec 1, 2021.
 datatable:
   - ASCT-B_VH_Lymph_Vasculature.csv

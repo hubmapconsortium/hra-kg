@@ -1,0 +1,91 @@
+title: >-
+  OMAP-10: Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with MACSima
+description: |-
+  OMAP-10 was designed for MICS (MACSima imaging cyclic staining) imaging of paraformaldehyde (PFA)-fixed human tonsil
+  samples. The MICS technology is described in detail in Kinkhabwala et al. (2022). Most antibodies in this panel are
+  recombinant antibodies with a mutated human IgG1 constant region that eliminates Fc receptor binding, reducing
+  non-specific binding and removing the need for blocking steps. Highly multiplexed imaging is achieved through cycles
+  of immunolabeling with FITC, PE, and APC conjugated antibodies followed by photobleaching between cycles. The panel
+  contains 30 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. This OMAP provides
+  spatial context for all anatomical structures and most cell types in the human palatine tonsil. It follows closely the
+  antibody panel and methodology described in OMAP-1 for human lymph nodes. All reagents were obtained from Miltenyi
+  Biotec and were quality controlled internally; lot numbers are not provided. Image processing and downstream analysis
+  were conducted using the MACSIQ View Analysis software described in Kinkhabwala et al. (2022), which supports
+  segmentation, gating, normalization, dimensionality reduction (tSNE, UMAP), clustering, and spatial analyses with
+  interactive visualization. This is the first OMAP generated using the MACSima platform. A representative dataset is
+  available via Müller, Rüberg, and Bosio (2023).
+
+  **Bibliography:**
+
+  * Kinkhabwala, Ali, Christoph Herbel, Jennifer Pankratz, Dmytro A. Yushchenko, Silvia Rüberg, Paurush Praveen, Sandy Reiß, et al. 2022. “MACSima Imaging Cyclic Staining (MICS) Technology Reveals Combinatorial Target Pairs for CAR T Cell Treatment of Solid Tumors.” *Scientific Reports* 12 (1): 1911. https://doi.org/10.1038/s41598-022-05841-4.
+  * Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023. “OMAP-10: Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.0.” Zenodo. https://zenodo.org/records/7875938.
+creators:
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Silvia Rüberg
+    firstName: Silvia
+    lastName: Rüberg
+    orcid: 0009-0008-1003-987X
+  - fullName: Andreas Bosio
+    firstName: Andreas
+    lastName: Bosio
+    orcid: 0000-0001-9776-2535
+project_leads:
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Silvia Rüberg
+    firstName: Silvia
+    lastName: Rüberg
+    orcid: 0009-0008-1003-987X
+  - fullName: Andreas Bosio
+    firstName: Andreas
+    lastName: Bosio
+    orcid: 0000-0001-9776-2535
+reviewers:
+  - fullName: Andrea Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: Miltenyi Biotec
+    awardNumber: ""
+hubmapId: HBM925.JGND.963
+doi: https://doi.org/10.48539/HBM925.JGND.963
+citation: >-
+  Müller, Werner,	Silvia Rüberg,	and Andreas Bosio.	
+  2025.	"OMAP-10: Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.2."	
+  https://doi.org/10.48539/HBM925.JGND.963.	Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
+datatable:
+  - omap-10-palatine-tonsil-mics.csv
+  - omap-10-palatine-tonsil-mics.xlsx
+references:
+  - https://doi.org/10.1038/s41598-022-05841-4
+  - https://doi.org/10.5281/zenodo.7875937
+  - https://doi.org/10.5281/zenodo.7875938

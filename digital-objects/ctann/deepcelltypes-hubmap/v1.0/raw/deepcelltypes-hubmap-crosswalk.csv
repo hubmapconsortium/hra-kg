@@ -1,0 +1,50 @@
+Crosswalk of Deep Cell Types annotated cells to Cell Ontology,,,,,,
+,,,,,,
+Author Name(s):,Aleix Puig-Barbe,,,,,
+Author ORCID(s):,0000-0001-6677-8489,,,,,
+Reviewer(s):,"Bruce Herr II, Katy Borner",,,,,
+Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137",,,,,
+General Publication(s):,https://doi.org/10.1101/2024.11.02.621624,,,,,
+Data DOI:,https://doi.org/10.48539/HBM679.XXLW.422,,,,,
+Date:,"June 15, 2025",,,,,
+Version number:,v1.0,,,,,
+Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
+body proper,UBERON:0013702,Acinar,DCTH:0000001,acinar cell,CL:0000622,skos:exactMatch
+body proper,UBERON:0013702,Astrocyte,DCTH:0000002,astrocyte,CL:0000127,skos:exactMatch
+body proper,UBERON:0013702,Bcell,DCTH:0000003,B cell,CL:0000236,skos:exactMatch
+body proper,UBERON:0013702,BloodVesselEndothelial,DCTH:0000004,blood vessel endothelial cell,CL:0000071,skos:exactMatch
+body proper,UBERON:0013702,CD4T,DCTH:0000005,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+body proper,UBERON:0013702,CD8T,DCTH:0000006,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+body proper,UBERON:0013702,Dendritic,DCTH:0000007,dendritic cell,CL:0000451,skos:exactMatch
+body proper,UBERON:0013702,Endocrine,DCTH:0000008,endocrine cell,CL:0000163,skos:exactMatch
+body proper,UBERON:0013702,Endothelial,DCTH:0000009,endothelial cell,CL:0000115,skos:exactMatch
+body proper,UBERON:0013702,Enterocyte,DCTH:0000010,enterocyte,CL:0000584,skos:exactMatch
+body proper,UBERON:0013702,Epithelial,DCTH:0000011,epithelial cell,CL:0000066,skos:exactMatch
+body proper,UBERON:0013702,EVT,DCTH:0000012,extravillous trophoblast,CL:0008036,skos:exactMatch
+body proper,UBERON:0013702,Fibroblast,DCTH:0000013,fibroblast,CL:0000057,skos:exactMatch
+body proper,UBERON:0013702,Goblet,DCTH:0000014,goblet cell,CL:0000160,skos:exactMatch
+body proper,UBERON:0013702,Granulocyte,DCTH:0000015,granulocyte,CL:0000094,skos:exactMatch
+body proper,UBERON:0013702,ICC,DCTH:0000016,interstitial cell of Cajal,CL:0002088,skos:exactMatch
+body proper,UBERON:0013702,LymphaticEndothelial,DCTH:0000017,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+body proper,UBERON:0013702,Lymphocyte,DCTH:0000018,lymphocyte,CL:0000542,skos:exactMatch
+body proper,UBERON:0013702,Macrophage,DCTH:0000019,macrophage,CL:0000235,skos:exactMatch
+body proper,UBERON:0013702,M1Macrophage,DCTH:0000020,inflammatory macrophage,CL:0000863,skos:exactMatch
+body proper,UBERON:0013702,M2Macrophage,DCTH:0000021,alternatively activated macrophage,CL:0000890,skos:exactMatch
+body proper,UBERON:0013702,Mast,DCTH:0000022,mast cell,CL:0000097,skos:exactMatch
+body proper,UBERON:0013702,Monocyte,DCTH:0000023,monocyte,CL:0000576,skos:exactMatch
+body proper,UBERON:0013702,Myoepithelial,DCTH:0000024,myoepithelial cell,CL:0000185,skos:exactMatch
+body proper,UBERON:0013702,Myofibroblast,DCTH:0000025,myofibroblast cell,CL:0000186,skos:exactMatch
+body proper,UBERON:0013702,Nerve,DCTH:0000026,neuron,CL:0000540,skos:exactMatch
+body proper,UBERON:0013702,Neuroendocrine,DCTH:0000027,neuroendocrine cell,CL:0000165,skos:exactMatch
+body proper,UBERON:0013702,Neuron,DCTH:0000028,neuron,CL:0000540,skos:exactMatch
+body proper,UBERON:0013702,Neutrophil,DCTH:0000029,neutrophil,CL:0000775,skos:exactMatch
+body proper,UBERON:0013702,NK,DCTH:0000030,natural killer cell,CL:0000623,skos:exactMatch
+body proper,UBERON:0013702,NKT,DCTH:0000031,lymphocyte:T/NK,CL:0000542,skos:narrowMatch
+body proper,UBERON:0013702,Paneth,DCTH:0000032,paneth cell,CL:0000510,skos:exactMatch
+body proper,UBERON:0013702,Plasma,DCTH:0000033,plasma cell,CL:0000786,skos:exactMatch
+body proper,UBERON:0013702,SmoothMuscle,DCTH:0000034,smooth muscle cell,CL:0000192,skos:exactMatch
+body proper,UBERON:0013702,Stromal,DCTH:0000035,stromal cell,CL:0000499,skos:exactMatch
+body proper,UBERON:0013702,Tcell,DCTH:0000036,T cell,CL:0000084,skos:exactMatch
+body proper,UBERON:0013702,TransitAmplifying,DCTH:0000037,transit amplifying cell,CL:0009010,skos:exactMatch
+body proper,UBERON:0013702,Treg,DCTH:0000038,regulatory T cell,CL:0000815,skos:exactMatch
+body proper,UBERON:0013702,Tumor,DCTH:0000039,neoplastic cell,CL:0001063,skos:exactMatch

@@ -1,13 +1,11 @@
 title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Brain
-description: >-
-  Brain v1.7 is a minor update of the table correcting PCL labels for precursor oligodendricytes and updates citation formats.
-  [Brain v1.6](https://cdn.humanatlas.io/digital-objects/asct-b/allen-brain/v1.6/assets/asct-b-allen-brain.csv)
-  is a minor update of the table that provides parent cell type mappings to Cell
-  Ontology for the specific cell types that were added to [Brain
-  v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-allen-brain.csv),
-  but do not yet have Cell Ontology (CL) or Provisional Cell Ontology (PCL) IDs.
-  More of the brain anatomy was also mapped to the Uberon multispecies anatomy
-  ontology based on exact matching synonym terms.
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.                                                                                                                                   
+  A description of this Allen Brain ASCT+B table can be found in "Anatomical Structures, Cell Types, and Biomarkers Tables Plus 3D Reference Organs in Support of a Human Reference Atlas" by Börner et al. 2021. The database and code used to generate the more simplified view of the Allen Brain in these ASCT+B tables may be found here: (https://github.com/hubmapconsortium/hra-vccf).
+
+  **Bibliography**: 
+
+  * Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.”*Nature Cell Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
 creators:
   - fullName: Jeremy A. Miller
     firstName: Jeremy
@@ -42,8 +40,7 @@ reviewers:
 externalReviewers: []
 creation_date: 2024-12-15
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -53,10 +50,14 @@ funders:
 hubmapId: HBM849.ZMHS.766
 doi: https://doi.org/10.48539/HBM849.ZMHS.766
 citation: >-
-  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables.
-  Brain v1.7,[https://doi.org/10.48539/HBM849.ZMHS.766](https://doi.org/10.48539/HBM849.ZMHS.766), Accessed on December 15, 2024.
+  Miller, Jeremy A.,	Raymond Sanchez,	and Richard Scheuermann.	
+  2024.	"HuBMAP ASCT+B Tables. Brain v1.7."	
+  https://doi.org/10.48539/HBM849.ZMHS.766.	Accessed December 15, 2024.
 citationOverall: >-
-  Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2024. [*HuBMAP
-  ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2024.
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2024.
 datatable:
   - asct-b-allen-brain.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6

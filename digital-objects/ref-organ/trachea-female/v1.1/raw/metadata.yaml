@@ -1,8 +1,11 @@
 title: 3D Reference Organ for Trachea, Female
-description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Female, provided by the National Library of
-  Medicine. Version 1.0 trachea was separated from the previous v1.2 lung.
+description: |-
+  This reference organ, Trachea-female was created using data from the Visible Human Dataset, provided by the National
+  Library of Medicine (Spitzer and Whitlock 2002).
+
+  **Bibliography:**
+
+  * Spitzer, Victor M., and David G. Whitlock. 2002. “The Visible Human Dataset: The Anatomical Platform for Human Simulation.” *The Anatomical Record* 253 (2): 49–57. https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -23,10 +26,9 @@ reviewers:
     lastName: Pryhuber
     orcid: 0000-0002-9185-3994
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -36,15 +38,13 @@ funders:
 hubmapId: HBM795.KFPV.358
 doi: https://doi.org/10.48539/HBM795.KFPV.358
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Trachea,
-  Female v1.1.*
-  [https://doi.org/10.48539/HBM795.KFPV.358](https://doi.org/10.48539/HBM795.KFPV.358).
-  Accessed on June 15, 2024.
+  Browne, Kristen, and Heidi Schlehlein. 2024. *3D Reference Organ for Trachea, Female v1.1*.
+  https://doi.org/10.48539/HBM795.KFPV.358. Accessed on June 15, 2024.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15,
-  2024.
+  Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024. *HuBMAP
+  CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on June 15, 2024.
 datatable:
   - 3d-vh-f-trachea.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1002/(SICI)1097-0185(199804)253:2<49::AID-AR8>3.0.CO;2-9

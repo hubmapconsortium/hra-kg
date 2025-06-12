@@ -1,0 +1,775 @@
+Crosswalk of Azimuth annotated cells to Cell Ontology,,,,,,
+,,,,,,
+Author Name(s):,Ellen M. Quardokus; Aleix Puig-Barbe,,,,,
+Author ORCID(s):,"0000-0001-7655-4833, 0000-0001-6677-8489",,,,,
+Reviewer(s):,"Bruce Herr II, Katy Borner",,,,,
+Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137",,,,,
+General Publication(s):,https://azimuth.hubmapconsortium.org/,,,,,
+Data DOI:,https://doi.org/10.48539/HBM543.NVTF.775,,,,,
+Date:,"June 15, 2025",,,,,
+Version number:,v1.2,,,,,
+Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
+Heart_L2,UBERON:0000948,Adipocyte,AZ:0000001,adipocyte,CL:0000136,skos:exactMatch
+Heart_L2,UBERON:0000948,Arterial Endothelial,AZ:0000002,endothelial cell of artery,CL:1000413,skos:exactMatch
+Heart_L2,UBERON:0000948,Atrial Cardiomyocyte,AZ:0000003,regular atrial cardiac myocyte,CL:0002129,skos:exactMatch
+Heart_L2,UBERON:0000948,B,AZ:0000004,B cell,CL:0000236,skos:exactMatch
+Heart_L2,UBERON:0000948,Capillary Endothelial,AZ:0000005,capillary endothelial cell,CL:0002144,skos:exactMatch
+Heart_L2,UBERON:0000948,Endocardial,AZ:0000006,endocardial cell,CL:0002350,skos:exactMatch
+Heart_L2,UBERON:0000948,Endothelial,AZ:0000007,endothelial cell,CL:0000115,skos:exactMatch
+Heart_L2,UBERON:0000948,Fibroblast,AZ:0000008,fibroblast,CL:0000057,skos:exactMatch
+Heart_L2,UBERON:0000948,ILC,AZ:0000009,innate lymphoid cell,CL:0001065,skos:exactMatch
+Heart_L2,UBERON:0000948,Lymphatic Endothelial,AZ:0000010,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+Heart_L2,UBERON:0000948,Macrophage,AZ:0000011,macrophage,CL:0000235,skos:exactMatch
+Heart_L2,UBERON:0000948,Mast,AZ:0000012,mast cell,CL:0000097,skos:exactMatch
+Heart_L2,UBERON:0000948,Mesothelial,AZ:0000013,mesothelial cell,CL:0000077,skos:exactMatch
+Heart_L2,UBERON:0000948,Monocyte/cDC,AZ:0000014,monocyte-derived dendritic cell,CL:0011031,skos:exactMatch
+Heart_L2,UBERON:0000948,Neuronal,AZ:0000015,Schwann cell,CL:0002573,skos:exactMatch
+Heart_L2,UBERON:0000948,NK,AZ:0000016,natural killer cell,CL:0000623,skos:exactMatch
+Heart_L2,UBERON:0000948,Pericyte,AZ:0000017,pericyte,CL:0000669,skos:exactMatch
+Heart_L2,UBERON:0000948,Smooth Muscle,AZ:0000018,smooth muscle cell,CL:0000192,skos:exactMatch
+Heart_L2,UBERON:0000948,T,AZ:0000019,T cell,CL:0000084,skos:exactMatch
+Heart_L2,UBERON:0000948,Venous Endothelial,AZ:0000020,endothelial cell of venule,CL:1000414,skos:exactMatch
+Heart_L2,UBERON:0000948,Ventricular Cardiomycoyte,AZ:0000021,regular ventricular cardiac myocyte,CL:0002131,skos:exactMatch
+Kidney_L3,UBERON:0002113,Afferent / Efferent Arteriole Endothelial,AZ:0000022,endothelial cell of arteriole:afferent/efferent,CL:1000412,skos:narrowMatch
+Kidney_L3,UBERON:0002113,Ascending Thin Limb,AZ:0000023,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,skos:exactMatch
+Kidney_L3,UBERON:0002113,Ascending Vasa Recta Endothelial,AZ:0000024,vasa recta ascending limb cell,CL:1001131,skos:exactMatch
+Kidney_L3,UBERON:0002113,B,AZ:0000025,B cell,CL:0000236,skos:exactMatch
+Kidney_L3,UBERON:0002113,Classical Dendritic,AZ:0000026,conventional dendritic cell,CL:0000990,skos:exactMatch
+Kidney_L3,UBERON:0002113,Connecting Tubule,AZ:0000027,kidney connecting tubule epithelial cell,CL:1000768,skos:exactMatch
+Kidney_L3,UBERON:0002113,Connecting Tubule Intercalated Type A,AZ:0000028,kidney connecting tubule alpha-intercalated cell,CL:4030020,skos:exactMatch
+Kidney_L3,UBERON:0002113,Connecting Tubule Principal,AZ:0000029,kidney connecting tubule principal cell,CL:4030018,skos:exactMatch
+Kidney_L3,UBERON:0002113,Cortical Collecting Duct Intercalated Type A,AZ:0000030,kidney cortex collecting duct intercalated cell,CL:1000715,skos:exactMatch
+Kidney_L3,UBERON:0002113,Cortical Collecting Duct Principal,AZ:0000031,kidney cortex collecting duct principal cell,CL:1000714,skos:exactMatch
+Kidney_L3,UBERON:0002113,Cortical Thick Ascending Limb,AZ:0000032,kidney loop of Henle cortical thick ascending limb epithelial cell,CL:1001109,skos:exactMatch
+Kidney_L3,UBERON:0002113,Cortical Vascular Smooth Muscle / Pericyte,AZ:0000033,renal interstitial pericyte,CL:1001318,skos:exactMatch
+Kidney_L3,UBERON:0002113,Cycling Mononuclear Phagocyte,AZ:0000034,cycling mononuclear phagocyte,CL:4033078,skos:exactMatch
+Kidney_L3,UBERON:0002113,Descending Thin Limb Type 1,AZ:0000035,kidney loop of Henle short descending thin limb epithelial cell,CL:4030012,skos:exactMatch
+Kidney_L3,UBERON:0002113,Descending Thin Limb Type 2,AZ:0000036,kidney loop of Henle long descending thin limb outer medulla epithelial cell,CL:4030013,skos:exactMatch
+Kidney_L3,UBERON:0002113,Descending Thin Limb Type 3,AZ:0000037,kidney loop of Henle long descending thin limb inner medulla epithelial cell,CL:4030014,skos:exactMatch
+Kidney_L3,UBERON:0002113,Descending Vasa Recta Endothelial,AZ:0000038,vasa recta descending limb cell,CL:1001285,skos:exactMatch
+Kidney_L3,UBERON:0002113,Distal Convoluted Tubule Type 1,AZ:0000039,epithelial cell of early distal convoluted tubule,CL:4030016,skos:exactMatch
+Kidney_L3,UBERON:0002113,Distal Convoluted Tubule Type 2,AZ:0000040,epithelial cell of late distal convoluted tubule,CL:4030017,skos:exactMatch
+Kidney_L3,UBERON:0002113,Fibroblast,AZ:0000041,kidney interstitial fibroblast,CL:1000692,skos:exactMatch
+Kidney_L3,UBERON:0002113,Glomerular Capillary Endothelial,AZ:0000042,glomerular capillary endothelial cell,CL:1001005,skos:exactMatch
+Kidney_L3,UBERON:0002113,Inner Medullary Collecting Duct,AZ:0000043,kidney inner medulla collecting duct principal cell,CL:1000718,skos:exactMatch
+Kidney_L3,UBERON:0002113,Intercalated Type B,AZ:0000044,renal beta-intercalated cell,CL:0002201,skos:exactMatch
+Kidney_L3,UBERON:0002113,Lymphatic Endothelial,AZ:0000045,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+Kidney_L3,UBERON:0002113,M2 Macrophage,AZ:0000046,alternatively activated macrophage,CL:0000890,skos:exactMatch
+Kidney_L3,UBERON:0002113,Macula Densa,AZ:0000047,macula densa epithelial cell,CL:1000850,skos:exactMatch
+Kidney_L3,UBERON:0002113,Mast,AZ:0000048,mast cell,CL:0000097,skos:exactMatch
+Kidney_L3,UBERON:0002113,Medullary Fibroblast,AZ:0000049,renal medullary fibroblast,CL:4030022,skos:exactMatch
+Kidney_L3,UBERON:0002113,Medullary Thick Ascending Limb,AZ:0000050,kidney loop of Henle medullary thick ascending limb epithelial cell,CL:1001108,skos:exactMatch
+Kidney_L3,UBERON:0002113,Mesangial,AZ:0000051,mesangial cell,CL:0000650,skos:exactMatch
+Kidney_L3,UBERON:0002113,Monocyte-derived,AZ:0000052,monocyte-derived dendritic cell,CL:0011031,skos:exactMatch
+Kidney_L3,UBERON:0002113,Natural Killer T,AZ:0000053,mature NK T cell,CL:0000814,skos:exactMatch
+Kidney_L3,UBERON:0002113,Neutrophil,AZ:0000054,neutrophil,CL:0000775,skos:exactMatch
+Kidney_L3,UBERON:0002113,Non-classical monocyte,AZ:0000055,non-classical monocyte,CL:0000875,skos:exactMatch
+Kidney_L3,UBERON:0002113,Outer Medullary Collecting Duct Intercalated Type A,AZ:0000056,kidney outer medulla collecting duct intercalated cell,CL:1000717,skos:exactMatch
+Kidney_L3,UBERON:0002113,Outer Medullary Collecting Duct Principal,AZ:0000057,kidney outer medulla collecting duct principal cell,CL:1000716,skos:exactMatch
+Kidney_L3,UBERON:0002113,Papillary Tip Epithelial,AZ:0000058,papillary tips cell,CL:1000597,skos:exactMatch
+Kidney_L3,UBERON:0002113,Parietal Epithelial,AZ:0000059,parietal epithelial cell,CL:1000452,skos:exactMatch
+Kidney_L3,UBERON:0002113,Peritubular Capilary Endothelial,AZ:0000060,peritubular capillary endothelial cell,CL:1001033,skos:exactMatch
+Kidney_L3,UBERON:0002113,Plasma,AZ:0000061,plasma cell,CL:0000786,skos:exactMatch
+Kidney_L3,UBERON:0002113,Plasmacytoid Dendritic,AZ:0000062,"plasmacytoid dendritic cell, human",CL:0001058,skos:exactMatch
+Kidney_L3,UBERON:0002113,Podocyte,AZ:0000063,podocyte,CL:0000653,skos:exactMatch
+Kidney_L3,UBERON:0002113,Proximal Tubule Epithelial Segment 1,AZ:0000064,epithelial cell of proximal tubule segment 1,CL:4030009,skos:exactMatch
+Kidney_L3,UBERON:0002113,Proximal Tubule Epithelial Segment 2,AZ:0000065,epithelial cell of proximal tubule segment 2,CL:4030010,skos:exactMatch
+Kidney_L3,UBERON:0002113,Proximal Tubule Epithelial Segment 3,AZ:0000066,epithelial cell of proximal tubule segment 3,CL:4030011,skos:exactMatch
+Kidney_L3,UBERON:0002113,Renin-positive Juxtaglomerular Granular,AZ:0000067,kidney granular cell,CL:0000648,skos:exactMatch
+Kidney_L3,UBERON:0002113,Schwann / Neural,AZ:0000068,Schwann cell,CL:0002573,skos:exactMatch
+Kidney_L3,UBERON:0002113,T,AZ:0000069,T cell,CL:0000084,skos:exactMatch
+Kidney_L3,UBERON:0002113,Vascular Smooth Muscle / Pericyte,AZ:0000070,renal interstitial pericyte,CL:1001318,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Adventitial fibroblasts,AZ:0000071,adventitial fibroblast,CL:4052030,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Alveolar fibroblasts,AZ:0000072,alveolar type 1 fibroblast cell,CL:4028004,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Alveolar macrophages,AZ:0000073,alveolar macrophage,CL:0000583,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Alveolar M_ CCL3+,AZ:0000074,CCL3-positive alveolar macrophage,CL:4033041,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Alveolar M_ MT-positive,AZ:0000075,metallothionein-positive alveolar macrophage,CL:4033042,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Alveolar M_ proliferating,AZ:0000076,cycling alveolar macrophage,CL:4033077,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,AT1,AZ:0000077,pulmonary alveolar type 1 cell,CL:0002062,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,AT2,AZ:0000078,pulmonary alveolar type 2 cell,CL:0002063,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,AT2 proliferating,AZ:0000079,cycling pulmonary alveolar type 2 cell,CL:4033080,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,B cells,AZ:0000080,B cell,CL:0000236,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Basal resting,AZ:0000081,respiratory basal cell:resting,CL:0002633,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,CD4 T cells,AZ:0000082,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,CD8 T cells,AZ:0000083,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Classical monocytes,AZ:0000084,classical monocyte,CL:0000860,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Club (nasal),AZ:0000085,club cell:nasal,CL:0000158,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,Club (non-nasal),AZ:0000086,club cell:non-nasal,CL:0000158,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,DC1,AZ:0000087,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,DC2,AZ:0000088,CD1c-positive myeloid dendritic cell,CL:0002399,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Deuterosomal,AZ:0000089,deuterosomal cell,CL:4033044,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,EC aerocyte capillary,AZ:0000090,alveolar capillary type 2 endothelial cell,CL:4028003,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,EC arterial,AZ:0000091,pulmonary artery endothelial cell,CL:1001568,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,EC general capillary,AZ:0000092,alveolar capillary type 1 endothelial cell,CL:4028002,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,EC venous pulmonary,AZ:0000093,vein endothelial cell of respiratory system:pulmonary vein,CL:4033008,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,EC venous systemic,AZ:0000094,vein endothelial cell of respiratory system,CL:4033008,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Fibromyocytes,AZ:0000095,fibroblast of lung:fibromyocyte,CL:0002553,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,Goblet (bronchial),AZ:0000096,tracheobronchial goblet cell,CL:0019003,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Goblet (nasal),AZ:0000097,nasal mucosa goblet cell,CL:0002480,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Goblet (subsegmental),AZ:0000098,lung goblet cell,CL:1000143,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Interstitial M_ perivascular,AZ:0000099,lung interstitial macrophage,CL:4033043,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Ionocyte,AZ:0000100,pulmonary ionocyte,CL:0017000,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Lymphatic EC differentiating,AZ:0000101,endothelial cell of respiratory system lymphatic vessel:differentiating,CL:0009086,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,Lymphatic EC mature,AZ:0000102,endothelial cell of respiratory system lymphatic vessel:mature,CL:0009086,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,Lymphatic EC proliferating,AZ:0000103,cycling endothelial cell of lymphatic vessel,CL:4033079,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Mast cells,AZ:0000104,mast cell,CL:0000097,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Mesothelium,AZ:0000105,mesothelial cell of pleura,CL:1000491,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Migratory DCs,AZ:0000106,lung migratory dendritic cell,CL:4033045,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Monocyte derived M_,AZ:0000107,lung macrophage:monocyte derived,CL:1001603,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,Multiciliated (nasal),AZ:0000108,multiciliated epithelial cell:nasal,CL:0005012,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,Multiciliated (non-nasal),AZ:0000109,multiciliated columnar cell of tracheobronchial tree,CL:0002145,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Myofibroblasts,AZ:0000110,myofibroblast cell,CL:0000186,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Neuroendocrine,AZ:0000111,pulmonary neuroendocrine cell,CL:1000223,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,NK cells,AZ:0000112,natural killer cell,CL:0000623,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Non classical monocytes,AZ:0000113,non-classical monocyte,CL:0000875,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Peribronchial fibroblasts,AZ:0000114,pulmonary interstitial fibroblast,CL:0002241,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Pericytes,AZ:0000115,lung pericyte,CL:0009089,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Plasma cells,AZ:0000116,plasma cell,CL:0000786,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Plasmacytoid DCs,AZ:0000117,"plasmacytoid dendritic cell, human",CL:0001058,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,SM activated stress response,AZ:0000118,smooth muscle cell:activated stress response,CL:0000192,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,SMG duct,AZ:0000119,airway submucosal gland collecting duct epithelial cell,CL:4033023,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,SMG mucous,AZ:0000120,mucus secreting cell of bronchus submucosal gland,CL:4033022,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,SMG serous (bronchial),AZ:0000121,serous secreting cell of bronchus submucosal gland,CL:4033005,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,SMG serous (nasal),AZ:0000122,serous secreting cell:nasal,CL:0000313,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,Smooth muscle,AZ:0000123,smooth muscle cell,CL:0000192,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Subpleural fibroblasts,AZ:0000124,subpleural fibroblast,CL:4052029,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Suprabasal,AZ:0000125,respiratory tract suprabasal cell,CL:4033048,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,T cells proliferating,AZ:0000126,cycling T cell,CL:4033069,skos:exactMatch
+Lung_v2_finest_level,UBERON:0002048,Transitional Club AT2,AZ:0000127,club cell:transitional alveolar type 2 epithelial cell,CL:0000158,skos:narrowMatch
+Lung_v2_finest_level,UBERON:0002048,Tuft,AZ:0000128,brush cell of tracheobronchial tree,CL:0002075,skos:exactMatch
+Liver_L2,UBERON:0002107,B,AZ:0000129,B cell,CL:0000236,skos:exactMatch
+Liver_L2,UBERON:0002107,CD4 T,AZ:0000130,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+Liver_L2,UBERON:0002107,CD8 T,AZ:0000131,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+Liver_L2,UBERON:0002107,Cholangiocyte,AZ:0000132,cholangiocyte,CL:1000488,skos:exactMatch
+Liver_L2,UBERON:0002107,DC1,AZ:0000133,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
+Liver_L2,UBERON:0002107,DC2,AZ:0000134,CD1c-positive myeloid dendritic cell,CL:0002399,skos:exactMatch
+Liver_L2,UBERON:0002107,Erythrocyte,AZ:0000135,erythrocyte,CL:0000232,skos:exactMatch
+Liver_L2,UBERON:0002107,Hepatocyte,AZ:0000136,hepatocyte,CL:0000182,skos:exactMatch
+Liver_L2,UBERON:0002107,HSC,AZ:0000137,hepatic stellate cell,CL:0000632,skos:exactMatch
+Liver_L2,UBERON:0002107,Inflammatory Macrophage,AZ:0000138,inflammatory macrophage,CL:0000863,skos:exactMatch
+Liver_L2,UBERON:0002107,Mast,AZ:0000139,mast cell,CL:0000097,skos:exactMatch
+Liver_L2,UBERON:0002107,Monocyte,AZ:0000140,monocyte,CL:0000576,skos:exactMatch
+Liver_L2,UBERON:0002107,Myofibroblast,AZ:0000141,myofibroblast cell,CL:0000186,skos:exactMatch
+Liver_L2,UBERON:0002107,NK,AZ:0000142,liver-resident natural killer cell,CL:4047101,skos:exactMatch
+Liver_L2,UBERON:0002107,NK_CD56bright,AZ:0000143,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,skos:exactMatch
+Liver_L2,UBERON:0002107,Noninflammatory Macrophage,AZ:0000144,alternatively activated macrophage,CL:0000890,skos:exactMatch
+Liver_L2,UBERON:0002107,pDC,AZ:0000145,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
+Liver_L2,UBERON:0002107,Plasma,AZ:0000146,plasma cell,CL:0000786,skos:exactMatch
+Liver_L2,UBERON:0002107,Portal Fibroblast,AZ:0000147,hepatic portal fibroblast,CL:0009100,skos:exactMatch
+Liver_L2,UBERON:0002107,Proliferating T/NK,AZ:0000148,mature NK T cell:proliferating,CL:0000814,skos:narrowMatch
+Liver_L2,UBERON:0002107,Sinusoidal Endothelial,AZ:0000149,endothelial cell of hepatic sinusoid,CL:1000398,skos:exactMatch
+Liver_L2,UBERON:0002107,Vascual Central Venous Endothelial,AZ:0000150,endothelial cell of central vein of liver,CL:4033061,skos:exactMatch
+Liver_L2,UBERON:0002107,Vascual Portal Endothelial,AZ:0000151,endothelial cell of hepatic portal vein,CL:0009094,skos:exactMatch
+Liver_L1,UBERON:0002107,B,AZ:0000152,B cell,CL:0000236,skos:exactMatch
+Liver_L1,UBERON:0002107,Cholangiocyte,AZ:0000153,cholangiocyte,CL:1000488,skos:exactMatch
+Liver_L1,UBERON:0002107,Endothelial,AZ:0000154,endothelial cell,CL:0000115,skos:exactMatch
+Liver_L1,UBERON:0002107,Hepatocyte,AZ:0000155,hepatocyte,CL:0000182,skos:exactMatch
+Liver_L1,UBERON:0002107,HSC/mFB,AZ:0000156,hepatic stellate cell,CL:0000632,skos:exactMatch
+Liver_L1,UBERON:0002107,Myeloid,AZ:0000157,myeloid cell,CL:0000763,skos:exactMatch
+Liver_L1,UBERON:0002107,Plasma,AZ:0000158,plasma cell,CL:0000786,skos:exactMatch
+Liver_L1,UBERON:0002107,T/NK,AZ:0000159,mature NK T cell,CL:0000814,skos:exactMatch
+Heart_L1,UBERON:0000948,Adipocyte,AZ:0000160,adipocyte,CL:0000136,skos:exactMatch
+Heart_L1,UBERON:0000948,B,AZ:0000161,B cell,CL:0000236,skos:exactMatch
+Heart_L1,UBERON:0000948,Cardiomyocyte,AZ:0000162,cardiac muscle cell,CL:0000746,skos:exactMatch
+Heart_L1,UBERON:0000948,Endothelial,AZ:0000163,endothelial cell,CL:0000115,skos:exactMatch
+Heart_L1,UBERON:0000948,Fibroblast,AZ:0000164,fibroblast,CL:0000057,skos:exactMatch
+Heart_L1,UBERON:0000948,Lymphatic Endothelial,AZ:0000165,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+Heart_L1,UBERON:0000948,Mast,AZ:0000166,mast cell,CL:0000097,skos:exactMatch
+Heart_L1,UBERON:0000948,Mesothelial,AZ:0000167,mesothelial cell,CL:0000077,skos:exactMatch
+Heart_L1,UBERON:0000948,Myeloid,AZ:0000168,myeloid cell,CL:0000763,skos:exactMatch
+Heart_L1,UBERON:0000948,Neuronal,AZ:0000169,neuron,CL:0000540,skos:exactMatch
+Heart_L1,UBERON:0000948,NK/T,AZ:0000170,mature NK T cell,CL:0000814,skos:exactMatch
+Heart_L1,UBERON:0000948,Pericyte,AZ:0000171,pericyte,CL:0000669,skos:exactMatch
+Heart_L1,UBERON:0000948,Smooth Muscle,AZ:0000172,smooth muscle cell,CL:0000192,skos:exactMatch
+Kidney_L1,UBERON:0002113,Ascending Thin Limb,AZ:0000173,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,skos:exactMatch
+Kidney_L1,UBERON:0002113,Connecting Tubule,AZ:0000174,kidney connecting tubule epithelial cell,CL:1000768,skos:exactMatch
+Kidney_L1,UBERON:0002113,Descending Thin Limb,AZ:0000175,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,skos:exactMatch
+Kidney_L1,UBERON:0002113,Distal Convoluted Tubule,AZ:0000176,kidney distal convoluted tubule epithelial cell,CL:1000849,skos:exactMatch
+Kidney_L1,UBERON:0002113,Endothelial,AZ:0000177,endothelial cell,CL:0000115,skos:exactMatch
+Kidney_L1,UBERON:0002113,Fibroblast,AZ:0000178,fibroblast,CL:0000057,skos:exactMatch
+Kidney_L1,UBERON:0002113,Immune,AZ:0000179,leukocyte,CL:0000738,skos:exactMatch
+Kidney_L1,UBERON:0002113,Intercalated,AZ:0000180,renal intercalated cell,CL:0005010,skos:exactMatch
+Kidney_L1,UBERON:0002113,Papillary Tip Epithelial,AZ:0000181,papillary tips cell,CL:1000597,skos:exactMatch
+Kidney_L1,UBERON:0002113,Parietal Epithelial,AZ:0000182,parietal epithelial cell,CL:1000452,skos:exactMatch
+Kidney_L1,UBERON:0002113,Podocyte,AZ:0000183,podocyte,CL:0000653,skos:exactMatch
+Kidney_L1,UBERON:0002113,Principal,AZ:0000184,renal principal cell,CL:0005009,skos:exactMatch
+Kidney_L1,UBERON:0002113,Proximal Tubule,AZ:0000185,epithelial cell of proximal tubule,CL:0002306,skos:exactMatch
+Kidney_L1,UBERON:0002113,Schwann,AZ:0000186,Schwann cell,CL:0002573,skos:exactMatch
+Kidney_L1,UBERON:0002113,Thick Ascending Limb,AZ:0000187,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,skos:exactMatch
+Kidney_L1,UBERON:0002113,Vascular Smooth Muscle / Pericyte,AZ:0000188,renal interstitial pericyte,CL:1001318,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,ASDC_mDC,AZ:0000189,myeloid dendritic cell:AXL+,CL:0000782,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,ASDC_pDC,AZ:0000190,plasmacytoid dendritic cell:AXL+,CL:0000784,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,B intermediate kappa,AZ:0000191,transitional stage B cell:kappa light chain,CL:0000818,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,B intermediate lambda,AZ:0000192,transitional stage B cell:lambda light chain,CL:0000818,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,B memory kappa,AZ:0000193,memory B cell:kappa light chain,CL:0000787,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,B memory lambda,AZ:0000194,memory B cell:lambda light chain,CL:0000787,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,B naive kappa,AZ:0000195,naive B cell:kappa light chain,CL:0000788,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,B naive lambda,AZ:0000196,naive B cell:lambda light chain,CL:0000788,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD14 Mono,AZ:0000197,"CD14-positive, CD16-negative classical monocyte",CL:0002057,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,CD16 Mono,AZ:0000198,"CD14-low, CD16-positive monocyte",CL:0002396,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,CD4 CTL,AZ:0000199,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,CD4 Naive,AZ:0000200,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,CD4 Proliferating,AZ:0000201,"cycling CD4-positive, alpha-beta T cell",CL:4033075,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,CD4 TCM_1,AZ:0000202,"CD4-positive, alpha-beta memory T cell:1",CL:0000897,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD4 TCM_2,AZ:0000203,"CD4-positive, alpha-beta memory T cell:2",CL:0000897,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD4 TCM_3,AZ:0000204,"CD4-positive, alpha-beta memory T cell:3",CL:0000897,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD4 TEM_1,AZ:0000205,"effector CD4-positive, alpha-beta T cell:1",CL:0001044,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD4 TEM_2,AZ:0000206,"effector CD4-positive, alpha-beta T cell:2",CL:0001044,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD4 TEM_3,AZ:0000207,"effector CD4-positive, alpha-beta T cell:3",CL:0001044,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD4 TEM_4,AZ:0000208,"effector CD4-positive, alpha-beta T cell:4",CL:0001044,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 Naive,AZ:0000209,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 Naive_2,AZ:0000210,"naive thymus-derived CD8-positive, alpha-beta T cell:2",CL:0000900,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 Proliferating,AZ:0000211,"cycling CD8-positive, alpha-beta T cell",CL:4033074,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,CD8 TCM_1,AZ:0000212,"CD8-positive, alpha-beta memory T cell:1",CL:0000909,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 TCM_2,AZ:0000213,"CD8-positive, alpha-beta memory T cell:2",CL:0000909,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 TCM_3,AZ:0000214,"CD8-positive, alpha-beta memory T cell:3",CL:0000909,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 TEM_1,AZ:0000215,"effector CD8-positive, alpha-beta T cell:1",CL:0001050,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 TEM_2,AZ:0000216,"effector CD8-positive, alpha-beta T cell:2",CL:0001050,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 TEM_3,AZ:0000217,"effector CD8-positive, alpha-beta T cell:3",CL:0001050,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 TEM_4,AZ:0000218,"effector CD8-positive, alpha-beta T cell:4",CL:0001050,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 TEM_5,AZ:0000219,"effector CD8-positive, alpha-beta T cell:5",CL:0001050,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,CD8 TEM_6,AZ:0000220,"effector CD8-positive, alpha-beta T cell:6",CL:0001050,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,cDC1,AZ:0000221,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,cDC2_1,AZ:0000222,CD1c-positive myeloid dendritic cell:1,CL:0002399,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,cDC2_2,AZ:0000223,CD1c-positive myeloid dendritic cell:2,CL:0002399,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,dnT_1,AZ:0000224,"CD4-negative, CD8-negative, alpha-beta intraepithelial T cell:1",CL:0000935,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,dnT_2,AZ:0000225,"CD4-negative, CD8-negative, alpha-beta intraepithelial T cell:2",CL:0000935,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,Eryth,AZ:0000226,erythroid lineage cell,CL:0000764,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,gdT_1,AZ:0000227,gamma-delta T cell:1,CL:0000798,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,gdT_2,AZ:0000228,gamma-delta T cell:2,CL:0000798,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,gdT_3,AZ:0000229,gamma-delta T cell:3,CL:0000798,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,gdT_4,AZ:0000230,gamma-delta T cell:4,CL:0000798,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,HSPC,AZ:0000231,hematopoietic precursor cell,CL:0008001,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,ILC,AZ:0000232,innate lymphoid cell,CL:0001065,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,MAIT,AZ:0000233,mucosal invariant T cell,CL:0000940,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,NK Proliferating,AZ:0000234,cycling natural killer cell,CL:4033071,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,NK_1,AZ:0000235,"CD16-positive, CD56-dim natural killer cell, human:1",CL:0000939,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,NK_2,AZ:0000236,"CD16-positive, CD56-dim natural killer cell, human:2",CL:0000939,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,NK_3,AZ:0000237,"CD16-positive, CD56-dim natural killer cell, human:3",CL:0000939,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,NK_4,AZ:0000238,"CD16-positive, CD56-dim natural killer cell, human:4",CL:0000939,skos:narrowMatch
+Human_PBMC_L3,UBERON:0000178,NK_CD56bright,AZ:0000239,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,pDC,AZ:0000240,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,Plasma,AZ:0000241,plasma cell,CL:0000786,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,Plasmablast,AZ:0000242,plasmablast,CL:0000980,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,Platelet,AZ:0000243,platelet,CL:0000233,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,Treg Memory,AZ:0000244,memory regulatory T cell,CL:0002678,skos:exactMatch
+Human_PBMC_L3,UBERON:0000178,Treg Naive,AZ:0000245,naive regulatory T cell,CL:0002677,skos:exactMatch
+Human_PBMC_L1,UBERON:0000178,Mono,AZ:0000246,monocyte,CL:0000576,skos:exactMatch
+Human_PBMC_L1,UBERON:0000178,CD4 T,AZ:0000247,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+Human_PBMC_L1,UBERON:0000178,CD8 T,AZ:0000248,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+Human_PBMC_L1,UBERON:0000178,NK,AZ:0000249,natural killer cell,CL:0000623,skos:exactMatch
+Human_PBMC_L1,UBERON:0000178,B,AZ:0000250,mature B cell,CL:0000785,skos:exactMatch
+Human_PBMC_L1,UBERON:0000178,other T,AZ:0000251,mature T cell:other,CL:0002419,skos:narrowMatch
+Human_PBMC_L1,UBERON:0000178,DC,AZ:0000252,dendritic cell,CL:0000451,skos:exactMatch
+Kidney_L2,UBERON:0002113,Afferent / Efferent Arteriole Endothelial,AZ:0000253,endothelial cell of arteriole:afferent/efferent,CL:1000412,skos:narrowMatch
+Kidney_L2,UBERON:0002113,Ascending Thin Limb,AZ:0000254,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,skos:exactMatch
+Kidney_L2,UBERON:0002113,Ascending Vasa Recta Endothelial,AZ:0000255,vasa recta ascending limb cell,CL:1001131,skos:exactMatch
+Kidney_L2,UBERON:0002113,B,AZ:0000256,B cell,CL:0000236,skos:exactMatch
+Kidney_L2,UBERON:0002113,Classical Dendritic,AZ:0000257,conventional dendritic cell,CL:0000990,skos:exactMatch
+Kidney_L2,UBERON:0002113,Connecting Tubule,AZ:0000258,kidney connecting tubule epithelial cell,CL:1000768,skos:exactMatch
+Kidney_L2,UBERON:0002113,Cortical Collecting Duct Intercalated Type A,AZ:0000259,kidney cortex collecting duct intercalated cell,CL:1000715,skos:exactMatch
+Kidney_L2,UBERON:0002113,Cortical Collecting Duct Principal,AZ:0000260,kidney cortex collecting duct principal cell,CL:1000714,skos:exactMatch
+Kidney_L2,UBERON:0002113,Cortical Thick Ascending Limb,AZ:0000261,kidney loop of Henle cortical thick ascending limb epithelial cell,CL:1001109,skos:exactMatch
+Kidney_L2,UBERON:0002113,Cortical Vascular Smooth Muscle / Pericyte,AZ:0000262,renal interstitial pericyte,CL:1001318,skos:exactMatch
+Kidney_L2,UBERON:0002113,Cycling Mononuclear Phagocyte,AZ:0000263,cycling mononuclear phagocyte,CL:4033078,skos:exactMatch
+Kidney_L2,UBERON:0002113,Descending Thin Limb Type 1,AZ:0000264,kidney loop of Henle short descending thin limb epithelial cell,CL:4030012,skos:exactMatch
+Kidney_L2,UBERON:0002113,Descending Thin Limb Type 2,AZ:0000265,kidney loop of Henle long descending thin limb outer medulla epithelial cell,CL:4030013,skos:exactMatch
+Kidney_L2,UBERON:0002113,Descending Thin Limb Type 3,AZ:0000266,kidney loop of Henle long descending thin limb inner medulla epithelial cell,CL:4030014,skos:exactMatch
+Kidney_L2,UBERON:0002113,Descending Vasa Recta Endothelial,AZ:0000267,vasa recta descending limb cell,CL:1001285,skos:exactMatch
+Kidney_L2,UBERON:0002113,Distal Convoluted Tubule,AZ:0000268,kidney distal convoluted tubule epithelial cell,CL:1000849,skos:exactMatch
+Kidney_L2,UBERON:0002113,Fibroblast,AZ:0000269,fibroblast,CL:0000057,skos:exactMatch
+Kidney_L2,UBERON:0002113,Glomerular Capillary Endothelial,AZ:0000270,glomerular capillary endothelial cell,CL:1001005,skos:exactMatch
+Kidney_L2,UBERON:0002113,Inner Medullary Collecting Duct,AZ:0000271,kidney inner medulla collecting duct epithelial cell,CL:1000547,skos:exactMatch
+Kidney_L2,UBERON:0002113,Intercalated Type B,AZ:0000272,renal beta-intercalated cell,CL:0002201,skos:exactMatch
+Kidney_L2,UBERON:0002113,Lymphatic Endothelial,AZ:0000273,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+Kidney_L2,UBERON:0002113,M2 Macrophage,AZ:0000274,alternatively activated macrophage,CL:0000890,skos:exactMatch
+Kidney_L2,UBERON:0002113,Macula Densa,AZ:0000275,macula densa epithelial cell,CL:1000850,skos:exactMatch
+Kidney_L2,UBERON:0002113,Mast,AZ:0000276,mast cell,CL:0000097,skos:exactMatch
+Kidney_L2,UBERON:0002113,Medullary Fibroblast,AZ:0000277,renal medullary fibroblast,CL:4030022,skos:exactMatch
+Kidney_L2,UBERON:0002113,Medullary Thick Ascending Limb,AZ:0000278,kidney loop of Henle medullary thick ascending limb epithelial cell,CL:1001108,skos:exactMatch
+Kidney_L2,UBERON:0002113,Mesangial,AZ:0000279,mesangial cell,CL:0000650,skos:exactMatch
+Kidney_L2,UBERON:0002113,Monocyte-derived,AZ:0000280,monocyte-derived dendritic cell,CL:0011031,skos:exactMatch
+Kidney_L2,UBERON:0002113,Natural Killer T,AZ:0000281,mature NK T cell,CL:0000814,skos:exactMatch
+Kidney_L2,UBERON:0002113,Neutrophil,AZ:0000282,neutrophil,CL:0000775,skos:exactMatch
+Kidney_L2,UBERON:0002113,Non-classical monocyte,AZ:0000283,non-classical monocyte,CL:0000875,skos:exactMatch
+Kidney_L2,UBERON:0002113,Outer Medullary Collecting Duct Intercalated Type A,AZ:0000284,kidney outer medulla collecting duct intercalated cell,CL:1000717,skos:exactMatch
+Kidney_L2,UBERON:0002113,Outer Medullary Collecting Duct Principal,AZ:0000285,kidney outer medulla collecting duct principal cell,CL:1000716,skos:exactMatch
+Kidney_L2,UBERON:0002113,Papillary Tip Epithelial,AZ:0000286,papillary tips cell,CL:1000597,skos:exactMatch
+Kidney_L2,UBERON:0002113,Parietal Epithelial,AZ:0000287,parietal epithelial cell,CL:1000452,skos:exactMatch
+Kidney_L2,UBERON:0002113,Peritubular Capilary Endothelial,AZ:0000288,peritubular capillary endothelial cell,CL:1001033,skos:exactMatch
+Kidney_L2,UBERON:0002113,Plasma,AZ:0000289,plasma cell,CL:0000786,skos:exactMatch
+Kidney_L2,UBERON:0002113,Plasmacytoid Dendritic,AZ:0000290,"plasmacytoid dendritic cell, human",CL:0001058,skos:exactMatch
+Kidney_L2,UBERON:0002113,Podocyte,AZ:0000291,podocyte,CL:0000653,skos:exactMatch
+Kidney_L2,UBERON:0002113,Proximal Tubule Epithelial Segment 1,AZ:0000292,epithelial cell of proximal tubule segment 1,CL:4030009,skos:exactMatch
+Kidney_L2,UBERON:0002113,Proximal Tubule Epithelial Segment 2,AZ:0000293,epithelial cell of proximal tubule segment 2,CL:4030010,skos:exactMatch
+Kidney_L2,UBERON:0002113,Proximal Tubule Epithelial Segment 3,AZ:0000294,epithelial cell of proximal tubule segment 3,CL:4030011,skos:exactMatch
+Kidney_L2,UBERON:0002113,Renin-positive Juxtaglomerular Granular,AZ:0000295,kidney granular cell,CL:0000648,skos:exactMatch
+Kidney_L2,UBERON:0002113,Schwann / Neural,AZ:0000296,Schwann cell,CL:0002573,skos:exactMatch
+Kidney_L2,UBERON:0002113,T,AZ:0000297,T cell,CL:0000084,skos:exactMatch
+Kidney_L2,UBERON:0002113,Vascular Smooth Muscle / Pericyte,AZ:0000298,renal interstitial pericyte,CL:1001318,skos:exactMatch
+Lung_v2_L1,UBERON:0002048,Immune,AZ:0000299,leukocyte,CL:0000738,skos:exactMatch
+Lung_v2_L1,UBERON:0002048,Epithelial,AZ:0000300,epithelial cell,CL:0000066,skos:exactMatch
+Lung_v2_L1,UBERON:0002048,Endothelial,AZ:0000301,endothelial cell,CL:0000115,skos:exactMatch
+Lung_v2_L1,UBERON:0002048,Stroma,AZ:0000302,stromal cell,CL:0000499,skos:exactMatch
+Lung_v2_L2,UBERON:0002048,Myeloid,AZ:0000303,myeloid leukocyte,CL:0000766,skos:exactMatch
+Lung_v2_L2,UBERON:0002048,Lymphoid,AZ:0000304,lymphocyte,CL:0000542,skos:exactMatch
+Lung_v2_L2,UBERON:0002048,Alveolar epithelium,AZ:0000305,pulmonary alveolar epithelial cell,CL:0000322,skos:exactMatch
+Lung_v2_L2,UBERON:0002048,Airway epithelium,AZ:0000306,respiratory tract epithelial cell,CL:0002368,skos:exactMatch
+Lung_v2_L2,UBERON:0002048,Blood vessels,AZ:0000307,blood vessel endothelial cell,CL:0000071,skos:exactMatch
+Lung_v2_L2,UBERON:0002048,Fibroblast lineage,AZ:0000308,fibroblast,CL:0000057,skos:exactMatch
+Lung_v2_L2,UBERON:0002048,Smooth muscle,AZ:0000309,smooth muscle cell,CL:0000192,skos:exactMatch
+Lung_v2_L2,UBERON:0002048,Submucosal Gland,AZ:0000310,seromucus secreting cell:submucosal gland,CL:0000159,skos:narrowMatch
+Lung_v2_L2,UBERON:0002048,Lymphatic EC,AZ:0000311,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+Lung_v2_L2,UBERON:0002048,Mesothelium,AZ:0000312,mesothelial cell,CL:0000077,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Macrophages,AZ:0000313,macrophage,CL:0000235,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Innate lymphoid cell NK,AZ:0000314,natural killer cell,CL:0000623,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,AT2,AZ:0000315,pulmonary alveolar type 2 cell,CL:0002063,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Basal,AZ:0000316,basal cell,CL:0000646,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,EC venous,AZ:0000317,vein endothelial cell,CL:0002543,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,T cell lineage,AZ:0000318,T cell,CL:0000084,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,EC arterial,AZ:0000319,endothelial cell of artery,CL:1000413,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Fibroblasts,AZ:0000320,fibroblast,CL:0000057,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,AT1,AZ:0000321,pulmonary alveolar type 1 cell,CL:0002062,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Multiciliated lineage,AZ:0000322,multiciliated epithelial cell,CL:0005012,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,B cell lineage,AZ:0000323,lymphocyte of B lineage,CL:0000945,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Secretory,AZ:0000324,respiratory airway secretory cell,CL:4052031,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,SM activated stress response,AZ:0000325,smooth muscle cell:activated stress response,CL:0000192,skos:narrowMatch
+Lung_v2_L3,UBERON:0002048,Monocytes,AZ:0000326,monocyte,CL:0000576,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Submucosal Secretory,AZ:0000327,seromucus secreting cell:submucosal gland,CL:0000159,skos:narrowMatch
+Lung_v2_L3,UBERON:0002048,EC capillary,AZ:0000328,capillary endothelial cell,CL:0002144,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Lymphatic EC mature,AZ:0000329,endothelial cell of lymphatic vessel:mature,CL:0002138,skos:narrowMatch
+Lung_v2_L3,UBERON:0002048,Rare,AZ:0000330,cell:rare,CL:0000000,skos:narrowMatch
+Lung_v2_L3,UBERON:0002048,Lymphatic EC differentiating,AZ:0000331,endothelial cell of lymphatic vessel:differentiating,CL:0002138,skos:narrowMatch
+Lung_v2_L3,UBERON:0002048,Dendritic cells,AZ:0000332,dendritic cell,CL:0000451,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Myofibroblasts,AZ:0000333,myofibroblast cell,CL:0000186,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Mast cells,AZ:0000334,mast cell,CL:0000097,skos:exactMatch
+Lung_v2_L3,UBERON:0002048,Fibromyocytes,AZ:0000335,fibroblast:fibromyocyte,CL:0000057,skos:narrowMatch
+Lung_v2_L3,UBERON:0002048,Lymphatic EC proliferating,AZ:0000336,cycling endothelial cell of lymphatic vessel,CL:4033079,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Alveolar macrophages,AZ:0000337,alveolar macrophage,CL:0000583,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,NK cells,AZ:0000338,natural killer cell,CL:0000623,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Suprabasal,AZ:0000339,respiratory tract suprabasal cell,CL:4033048,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Basal resting,AZ:0000340,respiratory basal cell:resting,CL:0002633,skos:narrowMatch
+Lung_v2_L4,UBERON:0002048,EC venous pulmonary,AZ:0000341,vein endothelial cell of respiratory system,CL:4033008,skos:narrowMatch
+Lung_v2_L4,UBERON:0002048,CD8 T cells,AZ:0000342,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Peribronchial fibroblasts,AZ:0000343,fibroblast of lung:peribronchial,CL:0002553,skos:narrowMatch
+Lung_v2_L4,UBERON:0002048,CD4 T cells,AZ:0000344,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Multiciliated,AZ:0000345,multiciliated epithelial cell:respiratory system,CL:0005012,skos:narrowMatch
+Lung_v2_L4,UBERON:0002048,Plasma cells,AZ:0000346,plasma cell,CL:0000786,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Goblet,AZ:0000347,goblet cell,CL:0000160,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Club,AZ:0000348,club cell,CL:0000158,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Classical monocytes,AZ:0000349,classical monocyte,CL:0000860,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Interstitial macrophages,AZ:0000350,lung interstitial macrophage,CL:4033043,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,SMG serous,AZ:0000351,serous secreting cell,CL:0000313,skos:narrowMatch
+Lung_v2_L4,UBERON:0002048,EC venous systemic,AZ:0000352,vein endothelial cell:systemic,CL:0002543,skos:narrowMatch
+Lung_v2_L4,UBERON:0002048,Non classical monocytes,AZ:0000353,non-classical monocyte,CL:0000875,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,EC general capillary,AZ:0000354,alveolar capillary type 1 endothelial cell,CL:4028002,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Adventitial fibroblasts,AZ:0000355,adventitial fibroblast,CL:4052030,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,EC aerocyte capillary,AZ:0000356,alveolar capillary type 2 endothelial cell,CL:4028003,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Alveolar fibroblasts,AZ:0000357,alveolar type 1 fibroblast cell,CL:4028004,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Neuroendocrine,AZ:0000358,pulmonary neuroendocrine cell,CL:1000223,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,DC2,AZ:0000359,CD1c-positive myeloid dendritic cell,CL:0002399,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Transitional Club AT2,AZ:0000360,club cell:transitional AT2,CL:0000158,skos:narrowMatch
+Lung_v2_L4,UBERON:0002048,DC1,AZ:0000361,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,B cells,AZ:0000362,B cell,CL:0000236,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,SMG mucous,AZ:0000363,mucus secreting cell:submucosal gland,CL:0000319,skos:narrowMatch
+Lung_v2_L4,UBERON:0002048,AT2 proliferating,AZ:0000364,cycling pulmonary alveolar type 2 cell,CL:4033080,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Pericytes,AZ:0000365,lung pericyte,CL:0009089,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,SMG duct,AZ:0000366,seromucus secreting cell:submucosal gland duct,CL:0000159,skos:narrowMatch
+Lung_v2_L4,UBERON:0002048,Ionocyte,AZ:0000367,ionocyte,CL:0005006,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Deuterosomal,AZ:0000368,deuterosomal cell,CL:4033044,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Tuft,AZ:0000369,brush cell of tracheobronchial tree,CL:0002075,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Plasmacytoid DCs,AZ:0000370,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,T cells proliferating,AZ:0000371,cycling T cell,CL:4033069,skos:exactMatch
+Lung_v2_L4,UBERON:0002048,Subpleural fibroblasts,AZ:0000372,fibroblast of lung:subpleural,CL:0002553,skos:narrowMatch
+Lung_v2_L4,UBERON:0002048,Migratory DCs,AZ:0000373,lung migratory dendritic cell,CL:4033045,skos:exactMatch
+Lung_v2_L5,UBERON:0002048,Alveolar M_ CCL3+,AZ:0000374,CCL3-positive alveolar macrophage,CL:4033041,skos:exactMatch
+Lung_v2_L5,UBERON:0002048,Multiciliated (non-nasal),AZ:0000375,multiciliated columnar cell of tracheobronchial tree,CL:0002145,skos:exactMatch
+Lung_v2_L5,UBERON:0002048,Goblet (nasal),AZ:0000376,goblet cell:nasal,CL:0000160,skos:narrowMatch
+Lung_v2_L5,UBERON:0002048,Club (nasal),AZ:0000377,club cell:nasal,CL:0000158,skos:narrowMatch
+Lung_v2_L5,UBERON:0002048,Monocyte derived M_,AZ:0000378,macrophage:monocyte-derived,CL:0000235,skos:narrowMatch
+Lung_v2_L5,UBERON:0002048,Alveolar M_ proliferating,AZ:0000379,cycling macrophage,CL:4033076,skos:exactMatch
+Lung_v2_L5,UBERON:0002048,Club (non-nasal),AZ:0000380,club cell:tracheobronchial,CL:0000158,skos:narrowMatch
+Lung_v2_L5,UBERON:0002048,SMG serous (bronchial),AZ:0000381,serous secreting cell of bronchus submucosal gland,CL:4033005,skos:exactMatch
+Lung_v2_L5,UBERON:0002048,Multiciliated (nasal),AZ:0000382,multiciliated epithelial cell:nasal,CL:0005012,skos:narrowMatch
+Lung_v2_L5,UBERON:0002048,Goblet (bronchial),AZ:0000383,bronchial goblet cell,CL:1000312,skos:exactMatch
+Lung_v2_L5,UBERON:0002048,Interstitial M_ perivascular,AZ:0000384,lung interstitial macrophage:perivascular,CL:4033043,skos:narrowMatch
+Lung_v2_L5,UBERON:0002048,Goblet (subsegmental),AZ:0000385,bronchial goblet cell:subsegmental,CL:1000312,skos:narrowMatch
+Lung_v2_L5,UBERON:0002048,SMG serous (nasal),AZ:0000386,serous secreting cell:submucosal gland nasal,CL:0000313,skos:narrowMatch
+Lung_v2_L5,UBERON:0002048,Alveolar M_ MT-positive,AZ:0000387,metallothionein-positive alveolar macrophage,CL:4033042,skos:exactMatch
+Pancreas_L1,UBERON:0001264,cycling,AZ:0000388,pancreatic endocrine cell:cycling,CL:0008024,skos:narrowMatch
+Pancreas_L1,UBERON:0001264,immune,AZ:0000389,leukocyte,CL:0000738,skos:exactMatch
+Pancreas_L1,UBERON:0001264,quiescent_stellate,AZ:0000390,pancreatic stellate cell:quiescent,CL:0002410,skos:narrowMatch
+Pancreas_L1,UBERON:0001264,endothelial,AZ:0000391,endothelial cell,CL:0000115,skos:exactMatch
+Pancreas_L1,UBERON:0001264,schwann,AZ:0000392,Schwann cell,CL:0002573,skos:exactMatch
+Pancreas_L1,UBERON:0001264,activated_stellate,AZ:0000393,pancreatic stellate cell:activated,CL:0002410,skos:narrowMatch
+Pancreas_L1,UBERON:0001264,epsilon,AZ:0000394,pancreatic epsilon cell,CL:0005019,skos:exactMatch
+Pancreas_L1,UBERON:0001264,gamma,AZ:0000395,pancreatic PP cell,CL:0002275,skos:exactMatch
+Pancreas_L1,UBERON:0001264,delta,AZ:0000396,pancreatic D cell,CL:0000173,skos:exactMatch
+Pancreas_L1,UBERON:0001264,ductal,AZ:0000397,pancreatic ductal cell,CL:0002079,skos:exactMatch
+Pancreas_L1,UBERON:0001264,acinar,AZ:0000398,pancreatic acinar cell,CL:0002064,skos:exactMatch
+Pancreas_L1,UBERON:0001264,beta,AZ:0000399,type B pancreatic cell,CL:0000169,skos:exactMatch
+Pancreas_L1,UBERON:0001264,alpha,AZ:0000400,pancreatic A cell,CL:0000171,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,B intermediate,AZ:0000401,transitional stage B cell,CL:0000818,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,B memory,AZ:0000402,memory B cell,CL:0000787,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,B naive,AZ:0000403,naive B cell,CL:0000788,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,Plasmablast,AZ:0000404,plasmablast,CL:0000980,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD4 CTL,AZ:0000405,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD4 Naive,AZ:0000406,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD4 Proliferating,AZ:0000407,"cycling CD4-positive, alpha-beta T cell",CL:4033075,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD4 TCM,AZ:0000408,"CD4-positive, alpha-beta memory T cell",CL:0000897,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD4 TEM,AZ:0000409,"effector CD4-positive, alpha-beta T cell",CL:0001044,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,Treg,AZ:0000410,regulatory T cell,CL:0000815,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD8 Naive,AZ:0000411,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD8 Proliferating,AZ:0000412,"cycling CD8-positive, alpha-beta T cell",CL:4033074,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD8 TCM,AZ:0000413,"CD8-positive, alpha-beta memory T cell",CL:0000909,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD8 TEM,AZ:0000414,"effector CD8-positive, alpha-beta T cell",CL:0001050,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,ASDC,AZ:0000415,"Axl+ dendritic cell, human",CL:0017009,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,cDC1,AZ:0000416,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,cDC2,AZ:0000417,CD1c-positive myeloid dendritic cell,CL:0002399,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,pDC,AZ:0000418,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD14 Mono,AZ:0000419,"CD14-positive, CD16-negative classical monocyte",CL:0002057,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,CD16 Mono,AZ:0000420,"CD14-low, CD16-positive monocyte",CL:0002396,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,NK,AZ:0000421,natural killer cell,CL:0000623,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,NK Proliferating,AZ:0000422,cycling natural killer cell,CL:4033071,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,NK_CD56bright,AZ:0000423,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,Eryth,AZ:0000424,erythroid lineage cell,CL:0000764,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,HSPC,AZ:0000425,hematopoietic precursor cell,CL:0008001,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,ILC,AZ:0000426,innate lymphoid cell,CL:0001065,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,Platelet,AZ:0000427,platelet,CL:0000233,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,dnT,AZ:0000428,"CD4-negative, CD8-negative, alpha-beta intraepithelial T cell",CL:0000935,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,gdT,AZ:0000429,gamma-delta T cell,CL:0000798,skos:exactMatch
+Human_PBMC_L2,UBERON:0000178,MAIT,AZ:0000430,mucosal invariant T cell,CL:0000940,skos:exactMatch
+Bone_marrow_L1,UBERON:0002371,B,AZ:0000431,B cell,CL:0000236,skos:exactMatch
+Bone_marrow_L1,UBERON:0002371,CD4 T,AZ:0000432,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+Bone_marrow_L1,UBERON:0002371,CD8 T,AZ:0000433,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+Bone_marrow_L1,UBERON:0002371,DC,AZ:0000434,"dendritic cell, human",CL:0001056,skos:exactMatch
+Bone_marrow_L1,UBERON:0002371,HSPC,AZ:0000435,hematopoietic precursor cell,CL:0008001,skos:exactMatch
+Bone_marrow_L1,UBERON:0002371,Mono,AZ:0000436,monocyte,CL:0000576,skos:exactMatch
+Bone_marrow_L1,UBERON:0002371,NK,AZ:0000437,natural killer cell,CL:0000623,skos:exactMatch
+Bone_marrow_L1,UBERON:0002371,Other T,AZ:0000438,mature T cell:other,CL:0002419,skos:narrowMatch
+Bone_marrow_L2,UBERON:0002371,ASDC,AZ:0000439,"Axl+ dendritic cell, human",CL:0017009,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,BaEoMa,AZ:0000440,granulocytopoietic cell:basophil eosinophil mast cell,CL:0002191,skos:narrowMatch
+Bone_marrow_L2,UBERON:0002371,CD14 Mono,AZ:0000441,"CD14-positive, CD16-negative classical monocyte",CL:0002057,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,CD16 Mono,AZ:0000442,"CD14-low, CD16-positive monocyte",CL:0002396,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,CD4 Effector,AZ:0000443,"effector CD4-positive, alpha-beta T cell",CL:0001044,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,CD4 Memory,AZ:0000444,"CD4-positive, alpha-beta memory T cell",CL:0000897,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,CD4 Naive,AZ:0000445,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,CD8 Effector 1,AZ:0000446,"effector CD8-positive, alpha-beta T cell:1",CL:0001050,skos:narrowMatch
+Bone_marrow_L2,UBERON:0002371,CD8 Effector 2,AZ:0000447,"effector CD8-positive, alpha-beta T cell:2",CL:0001050,skos:narrowMatch
+Bone_marrow_L2,UBERON:0002371,CD8 Effector 3,AZ:0000448,"effector CD8-positive, alpha-beta T cell:3",CL:0001050,skos:narrowMatch
+Bone_marrow_L2,UBERON:0002371,CD8 Memory,AZ:0000449,"CD8-positive, alpha-beta memory T cell",CL:0000909,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,CD8 Naive,AZ:0000450,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,cDC1,AZ:0000451,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,cDC2,AZ:0000452,CD1c-positive myeloid dendritic cell,CL:0002399,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,CLP,AZ:0000453,common lymphoid progenitor,CL:0000051,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,Early Eryth,AZ:0000454,erythroid lineage cell:early,CL:0000764,skos:narrowMatch
+Bone_marrow_L2,UBERON:0002371,EMP,AZ:0000455,megakaryocyte-erythroid progenitor cell,CL:0000050,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,GMP,AZ:0000456,granulocyte monocyte progenitor cell,CL:0000557,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,HSC,AZ:0000457,hematopoietic multipotent progenitor cell,CL:0000837,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,ILC,AZ:0000458,innate lymphoid cell,CL:0001065,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,Late Eryth,AZ:0000459,erythroid lineage cell:late,CL:0000764,skos:narrowMatch
+Bone_marrow_L2,UBERON:0002371,LMPP,AZ:0000460,early lymphoid progenitor,CL:0000936,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,Macrophage,AZ:0000461,macrophage,CL:0000235,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,MAIT,AZ:0000462,mucosal invariant T cell,CL:0000940,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,Memory B,AZ:0000463,memory B cell,CL:0000787,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,Naive B,AZ:0000464,naive B cell,CL:0000788,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,NK,AZ:0000465,natural killer cell,CL:0000623,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,NK CD56+,AZ:0000466,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,NK Proliferating,AZ:0000467,cycling natural killer cell,CL:4033071,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,pDC,AZ:0000468,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,Plasma,AZ:0000469,plasma cell,CL:0000786,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,Platelet,AZ:0000470,platelet,CL:0000233,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,pre B,AZ:0000471,precursor B cell,CL:0000817,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,pre-mDC,AZ:0000472,common dendritic progenitor,CL:0001029,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,pre-pDC,AZ:0000473,immature CD11c-low plasmacytoid dendritic cell,CL:0000992,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,pro B,AZ:0000474,pro-B cell,CL:0000826,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,Prog Mk,AZ:0000475,megakaryocyte progenitor cell,CL:0000553,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,Stromal,AZ:0000476,stromal cell,CL:0000499,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,T proliferating,AZ:0000477,cycling T cell,CL:4033069,skos:exactMatch
+Bone_marrow_L2,UBERON:0002371,transitional B,AZ:0000478,transitional stage B cell,CL:0000818,skos:exactMatch
+Adipose_L1,UBERON:0001347,Adipocyte,AZ:0000479,adipocyte,CL:0000136,skos:exactMatch
+Adipose_L1,UBERON:0001347,ASPC,AZ:0000480,mesenchymal stem cell of adipose tissue,CL:0002570,skos:exactMatch
+Adipose_L1,UBERON:0001347,B,AZ:0000481,B cell,CL:0000236,skos:exactMatch
+Adipose_L1,UBERON:0001347,Dendritic,AZ:0000482,dendritic cell,CL:0000451,skos:exactMatch
+Adipose_L1,UBERON:0001347,Endometrial,AZ:0000483,glandular epithelial cell of endometrium,CL:0009084,skos:exactMatch
+Adipose_L1,UBERON:0001347,Endothelial,AZ:0000484,endothelial cell,CL:0000115,skos:exactMatch
+Adipose_L1,UBERON:0001347,Lymphatic Endothelial,AZ:0000485,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+Adipose_L1,UBERON:0001347,Macrophage,AZ:0000486,macrophage,CL:0000235,skos:exactMatch
+Adipose_L1,UBERON:0001347,Mast,AZ:0000487,mast cell,CL:0000097,skos:exactMatch
+Adipose_L1,UBERON:0001347,Mesothelial,AZ:0000488,mesothelial cell,CL:0000077,skos:exactMatch
+Adipose_L1,UBERON:0001347,Monocyte,AZ:0000489,monocyte,CL:0000576,skos:exactMatch
+Adipose_L1,UBERON:0001347,Neutrophil,AZ:0000490,neutrophil,CL:0000775,skos:exactMatch
+Adipose_L1,UBERON:0001347,NK,AZ:0000491,natural killer cell,CL:0000623,skos:exactMatch
+Adipose_L1,UBERON:0001347,Pericyte,AZ:0000492,pericyte,CL:0000669,skos:exactMatch
+Adipose_L1,UBERON:0001347,Smooth Muscle,AZ:0000493,smooth muscle cell,CL:0000192,skos:exactMatch
+Adipose_L1,UBERON:0001347,T,AZ:0000494,T cell,CL:0000084,skos:exactMatch
+Adipose_L2,UBERON:0001347,hAd1,AZ:0000495,subcutaneous adipocyte:white adipose tissue 1,CL:0002521,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hAd2,AZ:0000496,white adipocyte:visceral adipose tissue,CL:0000448,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hAd3,AZ:0000497,subcutaneous adipocyte:white adipose tissue 3,CL:0002521,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hAd4,AZ:0000498,subcutaneous adipocyte:white adipose tissue 4,CL:0002521,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hAd5,AZ:0000499,white adipocyte:3,CL:0000448,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hAd6,AZ:0000500,white adipocyte:visceral adipose tissue 6,CL:0000448,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hAd7,AZ:0000501,subcutaneous adipocyte:white adipose tissue 7,CL:0002521,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hASPC1,AZ:0000502,mesenchymal stem cell of adipose tissue:subcutaneous adipose tissue,CL:0002570,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hASPC2,AZ:0000503,mesenchymal stem cell of abdominal adipose tissue,CL:2000080,skos:exactMatch
+Adipose_L2,UBERON:0001347,hASPC3,AZ:0000504,mesenchymal stem cell of abdominal adipose tissue:visceral adipose tissue,CL:2000080,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hASPC4,AZ:0000505,mesenchymal stem cell of adipose tissue:subcutaneous adipose tissue,CL:0002570,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hASPC5,AZ:0000506,mesenchymal stem cell of adipose tissue:subcutaneous adipose tissue,CL:0002570,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hASPC6,AZ:0000507,mesenchymal stem cell of abdominal adipose tissue:visceral adipose tissue,CL:2000080,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hBcell,AZ:0000508,B cell,CL:0000236,skos:exactMatch
+Adipose_L2,UBERON:0001347,hcDC1,AZ:0000509,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
+Adipose_L2,UBERON:0001347,hcDC2,AZ:0000510,CD1c-positive myeloid dendritic cell,CL:0002399,skos:exactMatch
+Adipose_L2,UBERON:0001347,hEndM,AZ:0000511,glandular epithelial cell of endometrium,CL:0009084,skos:exactMatch
+Adipose_L2,UBERON:0001347,hEndoA1,AZ:0000512,endothelial cell:A1,CL:0000115,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hEndoA2,AZ:0000513,endothelial cell:A2,CL:0000115,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hEndoS1,AZ:0000514,endothelial cell:S1,CL:0000115,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hEndoS2,AZ:0000515,endothelial cell:S2,CL:0000115,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hEndoS3,AZ:0000516,endothelial cell:S3,CL:0000115,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hEndoV,AZ:0000517,endothelial cell:V,CL:0000115,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hLEC1,AZ:0000518,endothelial cell of lymphatic vessel:1,CL:0002138,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hLEC2,AZ:0000519,endothelial cell of lymphatic vessel:2,CL:0002138,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hMac1,AZ:0000520,macrophage:1,CL:0000235,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hMac2,AZ:0000521,macrophage:2,CL:0000235,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hMac3,AZ:0000522,macrophage:3,CL:0000235,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hMast,AZ:0000523,mast cell,CL:0000097,skos:exactMatch
+Adipose_L2,UBERON:0001347,hmDC,AZ:0000524,myeloid dendritic cell,CL:0000782,skos:exactMatch
+Adipose_L2,UBERON:0001347,hMes1,AZ:0000525,mesothelial cell:1,CL:0000077,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hMes2,AZ:0000526,mesothelial cell:2,CL:0000077,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hMes3,AZ:0000527,mesothelial cell:3,CL:0000077,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hMono1,AZ:0000528,monocyte:1,CL:0000576,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hMono2,AZ:0000529,monocyte:2,CL:0000576,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hNeu,AZ:0000530,neutrophil,CL:0000775,skos:exactMatch
+Adipose_L2,UBERON:0001347,hNK,AZ:0000531,natural killer cell,CL:0000623,skos:exactMatch
+Adipose_L2,UBERON:0001347,hpDC,AZ:0000532,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
+Adipose_L2,UBERON:0001347,hPeri,AZ:0000533,pericyte,CL:0000669,skos:exactMatch
+Adipose_L2,UBERON:0001347,hPlasmablast,AZ:0000534,plasmablast,CL:0000980,skos:exactMatch
+Adipose_L2,UBERON:0001347,hSMC1,AZ:0000535,smooth muscle cell:1,CL:0000192,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hSMC2,AZ:0000536,smooth muscle cell:2,CL:0000192,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hTcell1,AZ:0000537,T cell:1,CL:0000084,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hTcell2,AZ:0000538,T cell:2,CL:0000084,skos:narrowMatch
+Adipose_L2,UBERON:0001347,hTreg,AZ:0000539,regulatory T cell,CL:0000815,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,aDC1,AZ:0000540,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,aDC2,AZ:0000541,CD1c-positive myeloid dendritic cell:2,CL:0002399,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,aDC3,AZ:0000542,CD1c-positive myeloid dendritic cell:3,CL:0002399,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Basal cells,AZ:0000543,basal cell,CL:0000646,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,C1Q Slan-like,AZ:0000544,non-classical monocyte:tonsil C1Q slan-like,CL:0000875,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,CD14+CD55+ FDC,AZ:0000545,follicular dendritic cell:CD14+CD55+,CL:0000442,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,CD16-CD56+ NK,AZ:0000546,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,CD16-CD56dim NK,AZ:0000547,"natural killer cell:CD16-negative, CD56-dim",CL:0000623,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,CD16+CD56- NK,AZ:0000548,"natural killer cell:CD16-positive, CD56-negative",CL:0000623,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,CD8 Tf,AZ:0000549,"effector memory CD8-positive, alpha-beta T cell:follicular",CL:0000913,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,CM CD8 T,AZ:0000550,"central memory CD8-positive, alpha-beta T cell",CL:0000907,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,CM Pre-non-Tfh,AZ:0000551,"central memory CD8-positive, alpha-beta T cell:non-T follicular helper",CL:0000907,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,CM PreTfh,AZ:0000552,"central memory CD4-positive, alpha-beta T cell:preT follicular helper",CL:0000904,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,COL27A1+ FDC,AZ:0000553,follicular dendritic cell:COL27A1+,CL:0000442,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Crypt,AZ:0000554,tonsil squamous cell,CL:1001577,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,csMBC,AZ:0000555,class switched memory B cell,CL:0000972,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,csMBC FCRL4/5+,AZ:0000556,class switched memory B cell:FCRL4/5+,CL:0000972,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Cycling,AZ:0000557,Cycling,AZ:0000557,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,cycling FDC,AZ:0000558,follicular dendritic cell:cycling,CL:0000442,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,cycling T,AZ:0000559,cycling T cell,CL:4033069,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DC recruiters CD8 T,AZ:0000560,DC recruiters CD8 T,AZ:0000560,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DC1 mature,AZ:0000561,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DC1 precursor,AZ:0000562,common myeloid progenitor:dendritic cell precursor,CL:0000049,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,DC2,AZ:0000563,CD1c-positive myeloid dendritic cell:2,CL:0002399,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,DC3,AZ:0000564,CD1c-positive myeloid dendritic cell:3,CL:0002399,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,DC4,AZ:0000565,CD1c-positive myeloid dendritic cell:4,CL:0002399,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,DC5,AZ:0000566,CD1c-positive myeloid dendritic cell:5,CL:0002399,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,DN,AZ:0000567,double negative thymocyte,CL:0002489,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DZ cell cycle exit,AZ:0000568,DZ cell cycle exit,AZ:0000568,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DZ early G2Mphase,AZ:0000569,DZ early G2Mphase,AZ:0000569,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DZ early Sphase,AZ:0000570,DZ early Sphase,AZ:0000570,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DZ late G2Mphase,AZ:0000571,DZ late G2Mphase,AZ:0000571,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DZ late Sphase,AZ:0000572,DZ late Sphase,AZ:0000572,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DZ migratory PC precursor,AZ:0000573,DZ migratory PC precursor,AZ:0000573,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DZ non proliferative,AZ:0000574,DZ non proliferative,AZ:0000574,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,DZ_LZ transition,AZ:0000575,DZ_LZ transition,AZ:0000575,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Early GC-commited NBC,AZ:0000576,germinal center B cell:early commited naive B cell,CL:0000844,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Early MBC,AZ:0000577,memory B cell:early,CL:0000787,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Early PC precursor,AZ:0000578,plasma cell: early precursor,CL:0000786,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Eff-Tregs,AZ:0000579,effector T cell,CL:0000911,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Eff-Tregs-IL32,AZ:0000580,effector T cell:IL32,CL:0000911,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,EM CD8 T,AZ:0000581,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,FDC,AZ:0000582,follicular dendritic cell,CL:0000442,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,FDCSP epithelium,AZ:0000583,follicular dendritic cell:secreted protein epithelial cell,CL:0000442,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,FRC,AZ:0000584,fibroblastic reticular cell,CL:0009101,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,GC DZ Noproli,AZ:0000585,GC DZ Noproli,AZ:0000585,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,GC-commited NBC,AZ:0000586,germinal center B cell:early commited naive B cell,CL:0000844,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,GC-Tfh-OX40,AZ:0000587,germinal center T cell: OX40,CL:0009062,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,GC-Tfh-SAP,AZ:0000588,germinal center T cell: SAP,CL:0009062,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,IFN+ CD8 T,AZ:0000589,"effector memory CD8-positive, alpha-beta T cell:Interferon positive",CL:0000913,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,IFN1+ PDC,AZ:0000590,"plasmacytoid dendritic cell, human:Interferon 1 positive",CL:0001058,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,IgD PC precursor,AZ:0000591,antibody secreting cell:IgD positive plasma precursor,CL:0000946,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,IgG+ PC precursor,AZ:0000592,antibody secreting cell:IgG positive plasma precursor,CL:0000946,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,IgM+ early PC precursor,AZ:0000593,antibody secreting cell:early IgM positive plasma precursor,CL:0000946,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,IgM+ PC precursor,AZ:0000594,antibody secreting cell:IgM positive plasma precursor,CL:0000946,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,IL7R DC,AZ:0000595,"dendritic cell, human:IL7R",CL:0001056,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,ILC1,AZ:0000596,innate lymphoid cell:1,CL:0001065,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,ITGAX Slan-like,AZ:0000597,ITGAX Slan-like,AZ:0000597,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,LZ,AZ:0000598,germinal center B cell:light zone,CL:0000844,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,LZ proliferative,AZ:0000599,germinal center B cell:proliferative,CL:0000844,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,LZ_DZ reentry commitment,AZ:0000600,germinal center B cell:light zone to dark zone reentry commitment,CL:0000844,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,LZ_DZ transition,AZ:0000601,germinal center B cell:light zone to dark zone transition,CL:0000844,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,M1 Macrophages,AZ:0000602,inflammatory macrophage,CL:0000863,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,MAIT/CD161+TRDV2+ gd T-cells,AZ:0000603,gamma-delta T cell:MAIT/CD161+TRDV2+,CL:0000798,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Mast,AZ:0000604,mast cell,CL:0000097,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Mature IgA+ PC,AZ:0000605,IgA plasma cell,CL:0000987,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Mature IgG+ PC,AZ:0000606,IgG plasma cell,CL:0000985,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Mature IgM+ PC,AZ:0000607,IgM plasma cell,CL:0000986,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,MBC derived early PC precursor,AZ:0000608,memory B cell:early plasma cell precursor,CL:0000787,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,MBC derived IgA+ PC,AZ:0000609,memory B cell:IgA positive plasma cell,CL:0000787,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,MBC derived IgG+ PC,AZ:0000610,memory B cell:IgG positive plasma cell,CL:0000787,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,MBC derived PC precursor,AZ:0000611,memory B cell:plasma cell precursor,CL:0000787,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,MBC FCRL5+,AZ:0000612,memory B cell:FCRL5+,CL:0000787,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,MMP Slan-like,AZ:0000613,MMP Slan-like,AZ:0000613,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Monocytes,AZ:0000614,monocyte,CL:0000576,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,MRC,AZ:0000615,fibroblastic reticular cell,CL:0009101,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Naive,AZ:0000616,Naive,AZ:0000616,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Naive CD8 T,AZ:0000617,"CD8-positive, alpha-beta thymocyte",CL:0000811,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,NBC,AZ:0000618,naive B cell,CL:0000788,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,NBC CD229+,AZ:0000619,naive B cell:CD229+,CL:0000788,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,NBC early activation,AZ:0000620,naive B cell:early activation,CL:0000788,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,NBC IFN-activated,AZ:0000621,naive B cell:Interferon activated,CL:0000788,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,ncsMBC,AZ:0000622,unswitched memory B cell,CL:0000970,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,ncsMBC FCRL4/5+,AZ:0000623,unswitched memory B cell:Fc receptor-like (FCRL) 4/5+,CL:0000970,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Neutrophils,AZ:0000624,neutrophil,CL:0000775,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,NKp44- ILC3,AZ:0000625,innate lymphoid cell:NKp44-negative,CL:0001065,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,NKp44+ ILC3,AZ:0000626,innate lymphoid cell:NKp44-positive,CL:0001065,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Outer surface,AZ:0000627,Outer surface,AZ:0000627,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,PB,AZ:0000628,plasmablast,CL:0000980,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,PB committed early PC precursor,AZ:0000629,plasmablast:committed early plasma cell precursor,CL:0000980,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,PC committed Light Zone GCBC,AZ:0000630,plasma cell:committed light zone germinal center B cell,CL:0000786,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,PDC,AZ:0000631,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,preB,AZ:0000632,precursor B cell,CL:0000817,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Precursor MBCs,AZ:0000633,precursor B cell:memory,CL:0000817,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,preGC,AZ:0000634,preGC,AZ:0000634,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,preMature IgG+ PC,AZ:0000635,IgG plasma cell:premature,CL:0000985,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,preMature IgM+ PC,AZ:0000636,IgM plasma cell:premature,CL:0000986,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,preT,AZ:0000637,early T lineage precursor,CL:0002425,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Proliferative NBC,AZ:0000638,naive B cell:proliferative,CL:0000788,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Reactivated proliferative MBCs,AZ:0000639,memory B cell:reactivated proliferative,CL:0000787,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,RM CD8 activated T,AZ:0000640,"effector memory CD8-positive, alpha-beta T cell:activated resident memory",CL:0000913,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,RM CD8 T,AZ:0000641,"effector memory CD8-positive, alpha-beta T cell:resident memory",CL:0000913,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,SCM CD8 T,AZ:0000642,"CD8-positive, alpha-beta memory T cell:stem cell memory",CL:0000909,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,SELENOP Slan-like,AZ:0000643,SELENOP Slan-like,AZ:0000643,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Short lived IgM+ PC,AZ:0000644,IgM short lived plasma cell,CL:0000978,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Surface epithelium,AZ:0000645,Surface epithelium,AZ:0000645,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,T-Eff-Mem,AZ:0000646,"effector memory CD45RA-positive, alpha-beta T cell, terminally differentiated",CL:4030002,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,T-helper,AZ:0000647,helper T cell,CL:0000912,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,T-Trans-Mem,AZ:0000648,T-Trans-Mem,AZ:0000648,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,TCRV_+ gd T,AZ:0000649,gamma-delta T cell:TCRV_+,CL:0000798,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Tfh T:B border,AZ:0000650,Tfh T:B border,AZ:0000650,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Tfh-LZ-GC,AZ:0000651,Tfh-LZ-GC,AZ:0000651,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Tfh-Mem,AZ:0000652,T follicular helper cell:memory,CL:0002038,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,Tfr,AZ:0000653,T follicular helper cell,CL:0002038,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,Transitional PB,AZ:0000654,plasmablast:transitional,CL:0000980,skos:narrowMatch
+Tonsil_v2_L2,UBERON:0002373,VEGFA+,AZ:0000655,VEGFA+,AZ:0000655,skos:exactMatch
+Tonsil_v2_L2,UBERON:0002373,ZNF683+ CD8 T,AZ:0000656,"CD8-positive, alpha-beta memory T cell:ZNF683+",CL:0000909,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,aDC,AZ:0000657,"dendritic cell, human:activated",CL:0001056,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,B activated,AZ:0000658,B cell:activated,CL:0000236,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,B memory,AZ:0000659,memory B cell,CL:0000787,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,B naive,AZ:0000660,naive B cell,CL:0000788,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,CD4 naive,AZ:0000661,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,CD4 Non-TFH,AZ:0000662,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,CD4 TCM,AZ:0000663,"CD4-positive, alpha-beta memory T cell",CL:0000897,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,CD4 TFH,AZ:0000664,T follicular helper cell,CL:0002038,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,CD4 TFH Mem,AZ:0000665,"CD4-positive, alpha-beta memory T cell:follicular helper",CL:0000897,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,CD4 TREG,AZ:0000666,regulatory T cell: CD4-positive,CL:0000815,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,CD8 naive,AZ:0000667,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,CD8 T,AZ:0000668,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,CD8 TCM,AZ:0000669,"CD8-positive, alpha-beta memory T cell",CL:0000909,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,Cycling DZ GCB,AZ:0000670,Cycling DZ GCB,AZ:0000670,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,Cycling FDC,AZ:0000671,follicular dendritic cell:cycling,CL:0000442,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,Cycling myeloid,AZ:0000672,cycling myeloid cell,CL:4033081,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,Cycling T,AZ:0000673,cycling T cell,CL:4033069,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,DC,AZ:0000674,"dendritic cell, human",CL:0001056,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,dnT,AZ:0000675,double negative thymocyte,CL:0002489,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,DZ GCB,AZ:0000676,germinal center B cell:dark zone,CL:0000844,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,DZtoLZ GCB transition,AZ:0000677,DZtoLZ GCB transition,AZ:0000677,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,Epithelial,AZ:0000678,epithelial cell,CL:0000066,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,FCRL4/5+ B memory,AZ:0000679,memory B cell:FCRL4/5+,CL:0000787,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,FDC,AZ:0000680,follicular dendritic cell,CL:0000442,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,Granulocytes,AZ:0000681,granulocyte,CL:0000094,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,ILC,AZ:0000682,innate lymphoid cell,CL:0001065,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,LZ GCB,AZ:0000683,germinal center B cell:light zone,CL:0000844,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,LZtoDZ GCB transition,AZ:0000684,germinal center B cell:light zone to dark zone transition,CL:0000844,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,MAIT/TRDV2+ gdT,AZ:0000685,gamma-delta T cell:TRDV2+,CL:0000798,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,Mast,AZ:0000686,mast cell,CL:0000097,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,Mono/Macro,AZ:0000687,macrophage:monocyte-derived,CL:0000235,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,NK,AZ:0000688,natural killer cell,CL:0000623,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,NK_CD56bright,AZ:0000689,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,non-TRDV2+ gdT,AZ:0000690,gamma-delta T cell:non-TRDV2+,CL:0000798,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,PB,AZ:0000691,plasmablast,CL:0000980,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,PC,AZ:0000692,plasma cell,CL:0000786,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,PC/doublet,AZ:0000693,plasma cell:doublet,CL:0000786,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,PDC,AZ:0000694,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
+Tonsil_v2_L1,UBERON:0002373,preB/T,AZ:0000695,common lymphoid progenitor:preB/T,CL:0000051,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,preGCB,AZ:0000696,tonsil germinal center B cell:precursor,CL:2000006,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,preMBC/doublet,AZ:0000697,precursor B cell:memory/doublet,CL:0000817,skos:narrowMatch
+Tonsil_v2_L1,UBERON:0002373,prePB,AZ:0000698,preplasmablast,CL:4033065,skos:exactMatch
+Blood,UBERON:0000178,Doublet,,cell:doublet,CL:0000000,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hASPC1,,mesenchymal stem cell of adipose tissue:subcutaneous adipose tissue,CL:0002570,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hASPC2,,mesenchymal stem cell of abdominal adipose tissue:visceral adipose tissue,CL:2000080,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hASPC4,,mesenchymal stem cell of adipose tissue:subcutaneous adipose tissue,CL:0002570,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hASPC5,,mesenchymal stem cell of adipose tissue:subcutaneous adipose tissue,CL:0002570,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hAd1,,subcutaneous adipocyte:white adipose tissue 1,CL:0002521,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hAd3,,subcutaneous adipocyte:white adipose tissue 3,CL:0002521,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hBcell,,B cell,CL:0000236,skos:exactMatch
+Adipose_Tissue,UBERON:0001013,hEndM,,glandular epithelial cell of endometrium,CL:0009084,skos:exactMatch
+Adipose_Tissue,UBERON:0001013,hEndoA1,,endothelial cell:A1,CL:0000115,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hEndoA2,,endothelial cell:A2,CL:0000115,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hEndoS1,,endothelial cell:S1,CL:0000115,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hEndoS2,,endothelial cell:S2,CL:0000115,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hEndoV,,endothelial cell:V,CL:0000115,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hLEC1,,endothelial cell of lymphatic vessel:1,CL:0002138,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hMac1,,macrophage:1,CL:0000235,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hMac2,,macrophage:2,CL:0000235,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hMac3,,macrophage:3,CL:0000235,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hMast,,mast cell,CL:0000097,skos:exactMatch
+Adipose_Tissue,UBERON:0001013,hMes1,,mesothelial cell:1,CL:0000077,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hMes2,,mesothelial cell:2,CL:0000077,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hMono1,,monocyte:1,CL:0000576,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hMono2,,monocyte:2,CL:0000576,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hNK,,natural killer cell,CL:0000623,skos:exactMatch
+Adipose_Tissue,UBERON:0001013,hNeu,,neutrophil,CL:0000775,skos:exactMatch
+Adipose_Tissue,UBERON:0001013,hPeri,,pericyte,CL:0000669,skos:exactMatch
+Adipose_Tissue,UBERON:0001013,hPlasmablast,,plasmablast,CL:0000980,skos:exactMatch
+Adipose_Tissue,UBERON:0001013,hSMC1,,smooth muscle cell:1,CL:0000192,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hSMC2,,smooth muscle cell:2,CL:0000192,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hTcell1,,T cell:1,CL:0000084,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hTcell2,,T cell:2,CL:0000084,skos:narrowMatch
+Adipose_Tissue,UBERON:0001013,hcDC2,,CD1c-positive myeloid dendritic cell,CL:0002399,skos:exactMatch
+Adipose_Tissue,UBERON:0001013,hmDC,,myeloid dendritic cell,CL:0000782,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,Astro,,astrocyte,CL:0000127,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,Endo,,endothelial cell,CL:0000115,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,L2/3 IT,,L2/3 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,CL:4023047,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,L5 ET,,L5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,CL:4023049,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,L5 IT,,L5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,CL:4023049,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,L5/6 NP,,L5/6 near-projecting glutamatergic neuron of the primary motor cortex,CL:4023043,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,L6 CT,,L6 corticothalamic-projecting glutamatergic cortical neuron,CL:4023042,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,L6 IT,,L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,CL:4023050,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,L6 IT Car3,,L6 intratelencephalic projecting Car3 glutamatergic neuron,CL:4030068,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,L6b,,L6b glutamatergic neuron of the primary motor cortex,CL:4023046,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,Lamp5,,lamp5 GABAergic cortical interneuron,CL:4023011,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,Micro-PVM,,central nervous system macrophage:microglia-perivascular macrophage,CL:0000878,skos:narrowMatch
+Primary_Motor_Cortex,UBERON:0001384,OPC,,oligodendrocyte precursor cell,CL:0002453,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,Oligo,,oligodendrocyte,CL:0000128,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,Pvalb,,pvalb GABAergic cortical interneuron,CL:4023018,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,Sncg,,cerebral cortex GABAergic interneuron:Sncg,CL:0010011,skos:narrowMatch
+Primary_Motor_Cortex,UBERON:0001384,Sst,,sst GABAergic cortical interneuron,CL:4023017,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,Sst Chodl,,sst chodl GABAergic cortical interneuron,CL:4023121,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,VLMC,,vascular leptomeningeal cell,CL:4023051,skos:exactMatch
+Primary_Motor_Cortex,UBERON:0001384,Vip,,VIP GABAergic cortical interneuron,CL:4023016,skos:exactMatch
+Lung,UBERON:0002048,Alveolar MÔøΩÔøΩ CCL3+,,CCL3-positive alveolar macrophage,CL:4033041,skos:exactMatch
+Lung,UBERON:0002048,Alveolar MÔøΩÔøΩ MT-positive,,metallothionein-positive alveolar macrophage,CL:4033042,skos:exactMatch
+Lung,UBERON:0002048,Alveolar MÔøΩÔøΩ proliferating,,cycling alveolar macrophage,CL:4033077,skos:exactMatch
+Lung,UBERON:0002048,Interstitial MÔøΩÔøΩ perivascular,,lung interstitial macrophage:perivascular,CL:4033043,skos:narrowMatch
+Lung,UBERON:0002048,Monocyte-derived MÔøΩÔøΩ,,macrophage:monocyte-derived,CL:0000235,skos:narrowMatch
+Lung,UBERON:0002048,Non-classical monocytes,,non-classical monocyte,CL:0000875,skos:exactMatch
+Lung,UBERON:0002048,Transitional Club-AT2,,pulmonary alveolar epithelial cell:Transitional Club-AT2,CL:0000322,skos:narrowMatch
+Kidney,UBERON:0002113,Descending Vasa Recta Endothelial,,vasa recta descending limb cell,CL:1001285,skos:exactMatch
+Kidney,UBERON:0002113,Peritubular Capilary Endothelial,,peritubular capillary endothelial cell,CL:1001033,skos:exactMatch
+Bone_marrow,UBERON:0002371,CD8 Effector_1,,"effector CD8-positive, alpha-beta T cell:1",CL:0001050,skos:narrowMatch
+Bone_marrow,UBERON:0002371,CD8 Effector_2,,"effector CD8-positive, alpha-beta T cell:2",CL:0001050,skos:narrowMatch
+Bone_marrow,UBERON:0002371,CD8 Effector_3,,"effector CD8-positive, alpha-beta T cell:3",CL:0001050,skos:narrowMatch
+Bone_marrow,UBERON:0002371,T Proliferating,,cycling T cell,CL:4033069,skos:exactMatch

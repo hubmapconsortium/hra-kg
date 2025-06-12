@@ -1,0 +1,127 @@
+title: >-
+  OMAP-3 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Kidney with CODEX
+description: |-
+  OMAP-3 was designed for CODEX (CO Detection by indEXing) of fresh frozen human kidney samples (Black et al. 2021;
+  2021). The panel contains 24 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation.
+  Additional details on tissue preparation, panel design, image analysis, and representative images can be found in
+  accompanying publications (Neumann et al. 2022; 2021). This OMAP provides a spatial context for all anatomical
+  structures and most cell types present in the ASCT+B kidney table v1.1 (Jain, Valerius, and He 2021). Additionally,
+  the inclusion of tryptase and MARCKS allow profiling of different regions in the glomeruli that are often affected by
+  disease. Several cell types are identified by their morphology, location in the kidney, and expression of Cytokeratin
+  7. The panel was designed to provide a survey of the cell types found in the kidney and does not allow for granular
+  phenotyping of immune cell populations. However, mast cells, NK cells, T cells, and B cells are broadly classified by
+  several markers included in this OMAP. The core and essential protein biomarkers detailed here overlap (>40%) with a
+  panel developed for multiplexed imaging of kidney samples using imaging mass cytometry (IMC) (Singh et al. 2019). A
+  representative dataset can be found here: (Neumann and Farrow 2023).
+
+  **Bibliography:**
+
+  * Black, Sarah, Darci Phillips, John W. Hickey, Julia Kennedy-Darling, Vishal G. Venkataraaman, Nikolay Samusik, Yury Goltsev, Christian M. Schürch, and Garry P. Nolan. 2021. “CODEX Multiplexed Tissue Imaging with DNA-Conjugated Antibodies.” *Nature Protocols* 16 (8): 3802–35. https://doi.org/10.1038/s41596-021-00556-8.
+  * Jain, Sanjey, M. Todd Valerius, and Yongqun He. 2021. “Kidney (v1.1) Graph Data, v1.1.” https://lod.humanatlas.io/asct-b/kidney/v1.1/.
+  * Neumann, Elizabeth K., and Melissa Farrow. 2023. “OMAP Kidney-3.” Zenodo. https://zenodo.org/records/8082943.
+  * Neumann, Elizabeth K., Nathan Heath Patterson, Jamie L. Allen, Lukasz G. Migas, Haichun Yang, Maya Brewer, David M. Anderson, et al. 2021. “Protocol for Multimodal Analysis of Human Kidney Tissue by Imaging Mass Spectrometry and CODEX Multiplexed Immunofluorescence.” *STAR Protocols* 2 (3): 100747. https://doi.org/10.1016/j.xpro.2021.100747.
+  * Neumann, Elizabeth K., Nathan Heath Patterson, Emilio S. Rivera, Jamie L. Allen, Maya Brewer, Mark P. deCaestecker, Richard M. Caprioli, Agnes B. Fogo, and Jeffrey M. Spraggins. 2022. “Highly Multiplexed Immunofluorescence of the Human Kidney Using Co-Detection by Indexing.” *Kidney International* 101 (1): 137–43. https://doi.org/10.1016/j.kint.2021.08.033.
+  * Singh, Nikhil, Zachary M. Avigan, Judith A. Kliegel, Brian M. Shuch, Ruth R. Montgomery, Gilbert W. Moeckel, and Lloyd G. Cantley. 2019. “Development of a 2-Dimensional Atlas of the Human Kidney with Imaging Mass Cytometry.” *JCI Insight* 4 (12). https://doi.org/10.1172/jci.insight.129477.
+creators:
+  - fullName: Elizabeth K. Neumann
+    firstName: Elizabeth
+    lastName: Neumann
+    orcid: 0000-0002-6078-3321
+  - fullName: Melissa Farrow
+    firstName: Melissa
+    lastName: Farrow
+    orcid: 0000-0002-1602-2082
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
+reviewers:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Christopher Werlein
+    firstName: Christopher
+    lastName: Werlein
+    orcid: 0000-0002-7694-4257
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Anna Martinez Casals
+    firstName: Anna
+    lastName: Casals
+    orcid: 0000-0003-2722-1965
+  - fullName: Presha Rajbhandari
+    firstName: Presha
+    lastName: Rajbhandari
+    orcid: 0000-0003-2184-7238
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: >-
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+    awardNumber: OT2OD026671
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: >-
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+    awardNumber: UH3 CA246635
+  - funder: >-
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+    awardNumber: U54DK120058
+  - funder: >-
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+    awardNumber: T32ES00702
+  - funder: >-
+      National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+    awardNumber: 1F32DK128887-01A1
+hubmapId: HBM989.WTJW.393
+doi: https://doi.org/10.48539/HBM989.WTJW.393
+citation: >-
+  Neumann, Elizabeth K.,	and Melissa Farrow.	
+  2025.	"OMAP-3 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.4."	
+  https://doi.org/10.48539/HBM989.WTJW.393. Accessed June 15, 2025
+citationOverall: >-
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
+datatable:
+  - omap-3-kidney-codex.csv
+  - omap-3-kidney-codex.xlsx
+references:
+  - https://doi.org/10.1038/s41596-021-00556-8
+  - https://doi.org/10.1002/eji.202048891
+  - https://doi.org/10.1016/j.kint.2021.08.033
+  - https://doi.org/10.1016/j.xpro.2021.100747
+  - https://doi.org/10.48539/HBM673.ZZDK.622
+  - https://doi.org/10.1172/jci.insight.129477
+  - https://doi.org/10.5281/zenodo.8082943
+  - https://doi.org/10.1038/s41592-021-01316-y
+  - https://doi.org/10.5281/zenodo.8082943

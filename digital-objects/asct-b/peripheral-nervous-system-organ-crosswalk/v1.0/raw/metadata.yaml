@@ -1,13 +1,19 @@
 title: Peripheral Nervous System Organ Crosswalk
-description: >-
-  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
-  tables](https://humanatlas.io/asctb-tables) aim aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. This table provides a crosswalk from structures in the peripheral nervous system (PNS) ASCT+B table to anatomical structures in other organ ASCT+B tables. The Relationship column indicates that the nerve “innervates” the anatomical structure in the BodySubPart column.
+description: |-
+  [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim aim to
+  capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
+  authored and reviewed by an international team of experts. This table provides a crosswalk from structures in the
+  peripheral nervous system (PNS) ASCT+B table to anatomical structures in other organ ASCT+B tables. The Relationship
+  column indicates that the nerve “innervates” the anatomical structure in the BodySubPart column.
 
-  The BodySubPart structure is contained within the anatomical structure listed in the BodyPart column. The BodyPart is typically an organ or organ system.
+  The BodySubPart structure is contained within the anatomical structure listed in the BodyPart column. The BodyPart is
+  typically an organ or organ system.
 
-  IDs are provided for the Nerve, BodySubPart, BodySubPartSequence, BodyPart, FTU, and Angiosome columns to enable linkage to other datasets and ontologies.
+  IDs are provided for the Nerve, BodySubPart, BodySubPartSequence, BodyPart, FTU, and Angiosome columns to enable
+  linkage to other datasets and ontologies.
 
-  NOTE: In this version 1.0 crosswalk file, there is no BodySubPartSequence, FTU or Angiosome information. These are placeholders for future versions of this crosswalk.
+  NOTE: In this version 1.0 crosswalk file, there is no BodySubPartSequence, FTU or Angiosome information. These are
+  placeholders for future versions of this crosswalk.
 
 creators:
   - fullName: Katherine S Gustilo
@@ -36,8 +42,7 @@ reviewers:
 externalReviewers: []
 creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health

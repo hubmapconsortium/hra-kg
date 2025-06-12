@@ -1,13 +1,16 @@
 title: 3D Reference Organ for Brain, Male
-description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the "[Allen Human Reference Atlas – 3D,
-  2020](https://doi.org/10.1002/cne.24080)" representing one half of the human
-  brain (Ding et al., 2016). The 141 anatomical structures were mirrored to
-  arrive at a whole human brain (as intended) and resized to fit the Visible
-  Human Male and Female bodies. In version v1.3, an update in licensing
-  occurred; this brain model is now licensed under Creative Commons Attribution
-  4.0 International (CC BY 4.0).
+description: |-
+  This reference organ, Brain-male (https://humanatlas.io/3d-reference-library) was created using data from the Allen
+  brain reference atlas (Ding et al. 2016). The 141 anatomical structures were mirrored to arrive at a whole human brain
+  (as intended) and resized to fit the Visible Human Male and Female bodies (Spitzer et al. 1996; Ackerman 1998). In
+  version v1.3, an update in licensing occurred; this brain model is now licensed under Creative Commons Attribution 4.0
+  International (CC BY 4.0). Ding et al. 2016 was used to inform the creation of this model.
+
+  **Bibliography:**
+
+  * Ackerman, Michael J. 1998. “The Visible Human Project.” *Proceedings of the IEEE* 86 (3): 504–11. https://doi.org/10.1109/5.662875.
+  * Ding, Song-Lin, Joshua J. Royall, Susan M. Sunkin, Lydia Ng, Benjamin A.C. Facer, Phil Lesnar, Angie Guillozet-Bongaarts, et al. 2016. “Comprehensive Cellular-Resolution Atlas of the Adult Human Brain.” *Journal of Comparative Neurology* 524 (16): 3127–3481.
+  * Spitzer, V., M. J. Ackerman, A. L. Scherzinger, and D. Whitlock. 1996. “The Visible Human Male: A Technical Report.” *Journal of the American Medical Informatics Association* 3 (2): 118–30. https://doi.org/10.1136/jamia.1996.96236280.
 creators:
   - fullName: Kristen Browne
     firstName: Kristen
@@ -28,10 +31,9 @@ reviewers:
     lastName: Ding
     orcid: 0000-0002-7072-5272
 externalReviewers: []
-creation_date: '2024-06-15'
+creation_date: "2024-06-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -41,13 +43,17 @@ funders:
 hubmapId: HBM538.NKCT.649
 doi: https://doi.org/10.48539/HBM538.NKCT.649
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2024. *3D Reference Organ for Brain, Male v1.4*.
-  [https://doi.org/10.48539/HBM538.NKCT.649](https://doi.org/10.48539/HBM538.NKCT.649).
-  Accessed on June 15, 2024.
+  Browne, Kristen,	and Heidi Schlehlein.	
+  2024.	"3D Reference Organ for Brain, Male v1.4."	
+  https://doi.org/10.48539/HBM538.NKCT.649.	Accessed June 15, 2024.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2024. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library)  Accessed on June 15, 2024.
+  Browne, Kristen,	Heidi Schlehlein,	Bruce W. Herr II,	Ellen Quardokus,	Andreas Bueckle,	
+  and Katy Börner.	
+  2024.	"HuBMAP CCF 3D Reference Object Library."	
+  https://humanatlas.io/3d-reference-library.	Accessed June 15, 2024.
 datatable:
   - 3d-allen-m-brain.glb
   - crosswalk.csv
+references:
+  - https://doi.org/10.1109/5.662875
+  - https://doi.org/10.1136/jamia.1996.96236280

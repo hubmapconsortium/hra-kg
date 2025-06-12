@@ -1,5 +1,11 @@
 title: 2D Intestinal Villus FTU for Small Intestine
-description: ''
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the intestinal villus FTU in the ASCT+B Table [Small Intestine v1.1](https://doi.org/10.48539/HBM934.NJHF.526). The cell types and measurements were referenced from Kai 2021 and Kara Rogers 2020. Uberon describes this FTU as follows: "The tiny hair-like projections that protrude from the inside of the small intestine that contain blood vessels that capture digested nutrients that are absorbed through the intestinal wall; the villi increase the absorptive surface area of the small intestine by approximately 30-fold."
+
+  **Bibliography**:
+
+  * Kai, Yuto. 2021. “Intestinal Villus Structure Contributes to Even Shedding of Epithelial Cells.” *Biophysical Journal 120* (4): 699–710. https://doi.org/10.1016/j.bpj.2021.01.003.
+  * Kara Rogers. 2020. “Villus: Structure, Function & Location.” 2020. https://www.britannica.com/science/villus.
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -20,10 +26,9 @@ reviewers:
     lastName: Lin
     orcid: 0000-0002-0317-7608
 externalReviewers: []
-creation_date: '2023-12-15'
+creation_date: "2023-12-15"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -33,15 +38,16 @@ funders:
 hubmapId: HBM974.XQDB.889
 doi: https://doi.org/10.48539/HBM974.XQDB.889
 citation: >-
-  Rachel Bajema 2023. *2D Intestinal Villus FTU for Small Intestine, v1.0*,
-  https://doi.org/10.48539/HBM974.XQDB.889. Accessed on December 15, 2023.
+  Bajema, Rachel. 2023. 2D Intestinal Villus FTU for Small Intestine, v1.0, https://doi.org/10.48539/HBM974.XQDB.889.
+  Accessed on December 15, 2023.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2023. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December
-  15, 2023.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2023.
 datatable:
   - 2d-ftu-small-intestine-villus.svg
   - 2d-ftu-small-intestine-villus.png
   - 2d-ftu-small-intestine-villus.ai
   - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM934.NJHF.526
+  - https://doi.org/10.1016/j.bpj.2021.01.003

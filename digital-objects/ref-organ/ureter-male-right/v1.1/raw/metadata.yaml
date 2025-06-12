@@ -1,8 +1,7 @@
 title: 3D Reference Organ for Ureter, Male, Right
-description: >-
-  [This reference organ](https://humanatlas.io/3d-reference-library) was created
-  using data from the Visible Human Male, provided by the National Library of
-  Medicine. Changes include adding the renal calyces and renal papillae from the
+description: |-
+  [This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male,
+  provided by the National Library of Medicine. Changes include adding the renal calyces and renal papillae from the
   kidney model per subject matter expert  input.
 creators:
   - fullName: Kristen Browne
@@ -24,10 +23,9 @@ reviewers:
     lastName: Strand
     orcid: 0000-0002-0746-927X
 externalReviewers: []
-creation_date: '2022-05-06'
+creation_date: "2022-05-06"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -35,15 +33,11 @@ funders:
 hubmapId: HBM878.DBSR.759
 doi: https://doi.org/10.48539/HBM878.DBSR.759
 citation: >-
-  Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Ureter, Male,
-  Right v1.1.*
-  [https://doi.org/10.48539/HBM878.DBSR.759](https://doi.org/10.48539/HBM878.DBSR.759).
-  Accessed on May 6, 2022.
+  Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Ureter, Male, Right v1.1.*
+  [https://doi.org/10.48539/HBM878.DBSR.759](https://doi.org/10.48539/HBM878.DBSR.759). Accessed on May 6, 2022.
 citationOverall: >-
-  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas
-  Bueckle, Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object
-  Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6,
-  2022.
+  Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2022. [*HuBMAP CCF
+  3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022.
 datatable:
   - VH_M_Ureter_R.glb
   - crosswalk.csv

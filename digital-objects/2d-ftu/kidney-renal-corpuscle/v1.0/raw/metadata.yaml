@@ -1,14 +1,11 @@
 title: 2D Renal Corpuscle Functional Tissue Unit (FTU) for Kidney
-description: >-
-  This functional tissue unit (FTU) illustration was created from anatomical
-  structures and cell types listed in the ASCT+B Table [Kidney
-  v1.1](https://cdn.humanatlas.io/hra-releases/v1.1/asct-b/ASCT-B_VH_Kidney.csv).
-  This illustration was inspired and heavily influenced by the [Kidney Tissue
-  Atlas Explorer](https://atlas.kpmp.org/explorer/). Multiple histology atlases,
-  especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A
-  Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Also helpful
-  was “The CIBA Collection of Medical Illustrators: Volume 6. Kidneys, Ureters,
-  and Urinary Bladder” (Frank H. Netter, 1979.)
+description: |-
+  This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the
+  ASCT+B Table [Kidney v1.1](https://cdn.humanatlas.io/hra-releases/v1.1/asct-b/ASCT-B_VH_Kidney.csv). This illustration
+  was inspired and heavily influenced by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer/). Multiple
+  histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas”
+  (Michael H. Ross, et al., 2003) were referenced. Also helpful was “The CIBA Collection of Medical Illustrators: Volume
+  6. Kidneys, Ureters, and Urinary Bladder” (Frank H. Netter, 1979.)
 creators:
   - fullName: Rachel Bajema
     firstName: Rachel
@@ -29,10 +26,9 @@ reviewers:
     lastName: Valerius
     orcid: 0000-0001-8143-9231
 externalReviewers: []
-creation_date: '2022-05-06'
+creation_date: "2022-05-06"
 license: >-
-  Creative Commons Attribution 4.0 International ([CC BY
-  4.0](https://creativecommons.org/licenses/by/4.0/))
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
@@ -41,13 +37,10 @@ hubmapId: HBM395.LVFN.656
 doi: https://doi.org/10.48539/HBM395.LVFN.656
 citation: >-
   Rachel Bajema 2022. *2D Reference Renal Corpuscle FTU for Kidney, v1.0.*
-  [https://doi.org/10.48539/HBM395.LVFN.656](https://doi.org/10.48539/HBM395.LVFN.656).
-  Accessed on May 6, 2022.
+  [https://doi.org/10.48539/HBM395.LVFN.656](https://doi.org/10.48539/HBM395.LVFN.656). Accessed on May 6, 2022.
 citationOverall: >-
-  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy
-  Börner. 2022. [*HuBMAP CCF 2D Reference Object
-  Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 6,
-  2022.
+  Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference
+  Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 6, 2022.
 datatable:
   - renal_corpuscle_kidney.svg
   - renal_corpuscle_kidney.png
