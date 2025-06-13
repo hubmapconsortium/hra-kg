@@ -3,5 +3,7 @@ source constants.sh
 shopt -s extglob
 set -ev
 
+VERSION=v2.3
+
 # Remove individuals from hra-ols graph
-do-processor deploy --remove-individuals collection/hra-ols/v2.2
+do-processor deploy --remove-individuals collection/hra-ols/$VERSION

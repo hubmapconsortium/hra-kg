@@ -3,9 +3,10 @@ source constants.sh
 shopt -s extglob
 set -ev
 
-VERSION=v2.2
+VERSION=v2.3
 DIR=staging
 ARCHIVE=scratch/hra-kg.${VERSION}.tar.xz
+mkdir -p scratch
 
 COMPRESSOR='xz -T0 -9 -e --memlimit-compress=75%'
 
