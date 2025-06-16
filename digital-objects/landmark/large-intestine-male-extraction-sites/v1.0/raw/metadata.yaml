@@ -1,6 +1,8 @@
-title: 3D Landmarks for Mouth Female
+title: 3D Extraction Sites for Large Intestine Male
 description: |-
-  Anatomical landmarks for mouth, female
+  Extraction sites for large intestine, male were designed to represent substantial tissue sections removed from each
+  major anatomical division of the colon.The approach focused on excising large segments from each primary region to
+  reflect broad sampling across the entire organ.
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce
@@ -11,7 +13,7 @@ project_leads:
     firstName: Katy
     lastName: Börner
     orcid: 0000-0002-3321-6137
-creation_date: "2025-06-15"
+creation_date: "2022-05-06"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -21,5 +23,5 @@ funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 datatable:
-  - 3d-vh-f-mouth-landmarks.glb
+  - VH_M_Colon_Extraction_Sites.glb
   - crosswalk.csv

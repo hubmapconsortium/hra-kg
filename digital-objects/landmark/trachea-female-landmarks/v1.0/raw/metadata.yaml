@@ -1,6 +1,6 @@
-title: 3D Landmarks for Mouth Female
+title: 3D Landmarks for Trachea Female
 description: |-
-  Anatomical landmarks for mouth, female
+  Anatomical landmarks for trachea, female
 creators:
   - fullName: Bruce W. Herr II
     firstName: Bruce
@@ -11,7 +11,7 @@ project_leads:
     firstName: Katy
     lastName: Börner
     orcid: 0000-0002-3321-6137
-creation_date: "2025-06-15"
+creation_date: "2023-06-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -21,5 +21,5 @@ funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
 datatable:
-  - 3d-vh-f-mouth-landmarks.glb
+  - 3d-vh-f-trachea-landmark.glb
   - crosswalk.csv
