@@ -28641,6 +28641,1002 @@
    "link": "https://data-browser.lungmap.net/explore/projects/20037472-ea1d-4ddb-9cd3-56a11a6f0f76",
    "label": "Female, Age 33",
    "description": "Entered 3/24/2023, Allen Wang, NHLBI/LungMap"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1HSMQ",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1HSMQ-5005-SM-GKSJF_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1HSMQ-5005-SM-GKSJF",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "14404",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0002048"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/ab2e49b2-1959-44af-8e83-ac16878f6c12",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2021-09-22",
+      "ccf_annotations": [
+       "http://purl.org/sig/ont/fma/fma7426",
+       "http://purl.obolibrary.org/obo/UBERON_0002048",
+       "http://purl.obolibrary.org/obo/UBERON_0002168",
+       "http://purl.obolibrary.org/obo/UBERON_0008952",
+       "http://purl.org/sig/ont/fma/fma7386",
+       "http://purl.org/sig/ont/fma/fma7385"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 10,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/ab2e49b2-1959-44af-8e83-ac16878f6c12_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2021-09-22",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 0,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 160.02,
+       "y_translation": 213.664,
+       "z_translation": 78.402,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMLung"
+      }
+     }
+    },
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1HSMQ-5014-SM-GKSJI_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1HSMQ-5014-SM-GKSJI",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "10347",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0002367"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/5475ae38-db50-4868-92ba-8718bf136c7b",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2022-01-26",
+      "ccf_annotations": [
+       "http://purl.obolibrary.org/obo/UBERON_0006947",
+       "http://purl.obolibrary.org/obo/UBERON_0000999",
+       "http://purl.obolibrary.org/obo/UBERON_0002367",
+       "http://purl.obolibrary.org/obo/UBERON_8410026",
+       "http://purl.obolibrary.org/obo/UBERON_8410027"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 7,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/5475ae38-db50-4868-92ba-8718bf136c7b_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2022-01-26",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 0,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 37.882,
+       "y_translation": 16.321,
+       "z_translation": 17.244,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMProstate"
+      }
+     }
+    },
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1HSMQ-5007-SM-GKSJG_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1HSMQ-5007-SM-GKSJG",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "4961",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0002097"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/cce37703-e4e8-454c-a0c4-4ff58652ab8f",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2022-01-26",
+      "ccf_annotations": [
+       "http://purl.obolibrary.org/obo/UBERON_0002097"
+      ],
+      "x_dimension": 20,
+      "y_dimension": 10,
+      "z_dimension": 5,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/cce37703-e4e8-454c-a0c4-4ff58652ab8f_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2022-01-26",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 20,
+       "y_rotation": 13,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 678.414,
+       "y_translation": 479.517,
+       "z_translation": 65.16,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMSkinV1.1"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Male"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15RIE",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15RIE-5015-SM-H8L6X_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15RIE-5015-SM-H8L6X",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "12067",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0000948"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/f6512db4-2809-4ffe-864d-ace61789dff6",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2021-09-17",
+      "ccf_annotations": [
+       "http://purl.obolibrary.org/obo/UBERON_0002078",
+       "http://purl.obolibrary.org/obo/UBERON_0002080"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 8,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/f6512db4-2809-4ffe-864d-ace61789dff6_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2021-09-17",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": -38,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 29.389,
+       "y_translation": 85.271,
+       "z_translation": 60.132,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Male"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1R9PN",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1R9PN-5002-SM-HD2MC_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1R9PN-5002-SM-HD2MC",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "5990",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0001911"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/3b5d2036-3c56-4cf8-808f-462c9e3681e5",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2023-02-03",
+      "ccf_annotations": [
+       "http://purl.org/sig/ont/fma/fma73165",
+       "http://purl.org/sig/ont/fma/fma58088",
+       "http://purl.org/sig/ont/fma/fma62102",
+       "http://purl.obolibrary.org/obo/UBERON_0018140",
+       "http://purl.org/sig/ont/fma/fma73118"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 4,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/3b5d2036-3c56-4cf8-808f-462c9e3681e5_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2023-02-03",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 0,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 39.809,
+       "y_translation": 46.002,
+       "z_translation": 93.095,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHFRightMammaryGland"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Female"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1CAMS",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1CAMS-5015-SM-HPJ3C_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1CAMS-5015-SM-HPJ3C",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "2324",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0001911"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/3b5d2036-3c56-4cf8-808f-462c9e3681e5",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2023-02-03",
+      "ccf_annotations": [
+       "http://purl.org/sig/ont/fma/fma73165",
+       "http://purl.org/sig/ont/fma/fma58088",
+       "http://purl.org/sig/ont/fma/fma62102",
+       "http://purl.obolibrary.org/obo/UBERON_0018140",
+       "http://purl.org/sig/ont/fma/fma73118"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 4,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/3b5d2036-3c56-4cf8-808f-462c9e3681e5_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2023-02-03",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 0,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 39.809,
+       "y_translation": 46.002,
+       "z_translation": 93.095,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHFRightMammaryGland"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Female"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1MCC2",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1MCC2-5013-SM-HPJ3D_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1MCC2-5013-SM-HPJ3D",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "1456",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0001911"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/3b5d2036-3c56-4cf8-808f-462c9e3681e5",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2023-02-03",
+      "ccf_annotations": [
+       "http://purl.org/sig/ont/fma/fma73165",
+       "http://purl.org/sig/ont/fma/fma58088",
+       "http://purl.org/sig/ont/fma/fma62102",
+       "http://purl.obolibrary.org/obo/UBERON_0018140",
+       "http://purl.org/sig/ont/fma/fma73118"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 4,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/3b5d2036-3c56-4cf8-808f-462c9e3681e5_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2023-02-03",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 0,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 39.809,
+       "y_translation": 46.002,
+       "z_translation": 93.095,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHFRightMammaryGland"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Female"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1ICG6",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1ICG6-5003-SM-GHS9A_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1ICG6-5003-SM-GHS9A",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "11673",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0000948"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/f6512db4-2809-4ffe-864d-ace61789dff6",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2021-09-17",
+      "ccf_annotations": [
+       "http://purl.obolibrary.org/obo/UBERON_0002078",
+       "http://purl.obolibrary.org/obo/UBERON_0002080"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 8,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/f6512db4-2809-4ffe-864d-ace61789dff6_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2021-09-17",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": -38,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 29.389,
+       "y_translation": 85.271,
+       "z_translation": 60.132,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Female"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-13N11",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-13N11-5002-SM-H5JDV_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-13N11-5002-SM-H5JDV",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "12834",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0000948"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/f6512db4-2809-4ffe-864d-ace61789dff6",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2021-09-17",
+      "ccf_annotations": [
+       "http://purl.obolibrary.org/obo/UBERON_0002078",
+       "http://purl.obolibrary.org/obo/UBERON_0002080"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 8,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/f6512db4-2809-4ffe-864d-ace61789dff6_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2021-09-17",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": -38,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 29.389,
+       "y_translation": 85.271,
+       "z_translation": 60.132,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart"
+      }
+     }
+    },
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-13N11-5030-SM-H5JDW_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-13N11-5030-SM-H5JDW",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "13260",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0002048"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/ab2e49b2-1959-44af-8e83-ac16878f6c12",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2021-09-22",
+      "ccf_annotations": [
+       "http://purl.org/sig/ont/fma/fma7426",
+       "http://purl.obolibrary.org/obo/UBERON_0002048",
+       "http://purl.obolibrary.org/obo/UBERON_0002168",
+       "http://purl.obolibrary.org/obo/UBERON_0008952",
+       "http://purl.org/sig/ont/fma/fma7386",
+       "http://purl.org/sig/ont/fma/fma7385"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 10,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/ab2e49b2-1959-44af-8e83-ac16878f6c12_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2021-09-22",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 0,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 160.02,
+       "y_translation": 213.664,
+       "z_translation": 78.402,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMLung"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Female"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15CHR",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15CHR-5005-SM-H5JDT_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15CHR-5005-SM-H5JDT",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "7620",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0002048"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/ab2e49b2-1959-44af-8e83-ac16878f6c12",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2021-09-22",
+      "ccf_annotations": [
+       "http://purl.org/sig/ont/fma/fma7426",
+       "http://purl.obolibrary.org/obo/UBERON_0002048",
+       "http://purl.obolibrary.org/obo/UBERON_0002168",
+       "http://purl.obolibrary.org/obo/UBERON_0008952",
+       "http://purl.org/sig/ont/fma/fma7386",
+       "http://purl.org/sig/ont/fma/fma7385"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 10,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/ab2e49b2-1959-44af-8e83-ac16878f6c12_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2021-09-22",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 0,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 160.02,
+       "y_translation": 213.664,
+       "z_translation": 78.402,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMLung"
+      }
+     }
+    },
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15CHR-5014-SM-H5JDU_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15CHR-5014-SM-H5JDU",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "1502",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0002367"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/5475ae38-db50-4868-92ba-8718bf136c7b",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2022-01-26",
+      "ccf_annotations": [
+       "http://purl.obolibrary.org/obo/UBERON_0006947",
+       "http://purl.obolibrary.org/obo/UBERON_0000999",
+       "http://purl.obolibrary.org/obo/UBERON_0002367",
+       "http://purl.obolibrary.org/obo/UBERON_8410026",
+       "http://purl.obolibrary.org/obo/UBERON_8410027"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 7,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/5475ae38-db50-4868-92ba-8718bf136c7b_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2022-01-26",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 0,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 37.882,
+       "y_translation": 16.321,
+       "z_translation": 17.244,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMProstate"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Male"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1I1GU",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1I1GU-5006-SM-G8XQC_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-1I1GU-5006-SM-G8XQC",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "12927",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0002367"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/5475ae38-db50-4868-92ba-8718bf136c7b",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2022-01-26",
+      "ccf_annotations": [
+       "http://purl.obolibrary.org/obo/UBERON_0006947",
+       "http://purl.obolibrary.org/obo/UBERON_0000999",
+       "http://purl.obolibrary.org/obo/UBERON_0002367",
+       "http://purl.obolibrary.org/obo/UBERON_8410026",
+       "http://purl.obolibrary.org/obo/UBERON_8410027"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 7,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/5475ae38-db50-4868-92ba-8718bf136c7b_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2022-01-26",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 0,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 37.882,
+       "y_translation": 16.321,
+       "z_translation": 17.244,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMProstate"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Male"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-12BJ1",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-12BJ1-5007-SM-H8L6U_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-12BJ1-5007-SM-H8L6U",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "6285",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0002367"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/5475ae38-db50-4868-92ba-8718bf136c7b",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2022-01-26",
+      "ccf_annotations": [
+       "http://purl.obolibrary.org/obo/UBERON_0006947",
+       "http://purl.obolibrary.org/obo/UBERON_0000999",
+       "http://purl.obolibrary.org/obo/UBERON_0002367",
+       "http://purl.obolibrary.org/obo/UBERON_8410026",
+       "http://purl.obolibrary.org/obo/UBERON_8410027"
+      ],
+      "x_dimension": 10,
+      "y_dimension": 10,
+      "z_dimension": 7,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/5475ae38-db50-4868-92ba-8718bf136c7b_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2022-01-26",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 0,
+       "y_rotation": 0,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 37.882,
+       "y_translation": 16.321,
+       "z_translation": 17.244,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMProstate"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Male"
+  },
+  {
+   "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15EOM",
+   "@type": "Donor",
+   "samples": [
+    {
+     "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15EOM-5003-SM-G64IH_TissueBlock",
+     "@type": "Sample",
+     "datasets": [
+      {
+       "@id": "https://doi.org/10.1126/science.abl4290#GTEX-15EOM-5003-SM-G64IH",
+       "@type": "Dataset",
+       "link": "https://gtexportal.org/home/singleCellOverviewPage",
+       "technology": "OTHER",
+       "publication": "https://doi.org/10.1126/science.abl4290",
+       "publication_title": "Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function",
+       "publication_lead_author": "Gökcen Eraslan",
+       "cell_count": "326",
+       "gene_count": "17695",
+       "organ_id": "http://purl.obolibrary.org/obo/UBERON_0002097"
+      }
+     ],
+     "sections": [],
+     "sample_type": "Tissue Block",
+     "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/cce37703-e4e8-454c-a0c4-4ff58652ab8f",
+      "@type": "SpatialEntity",
+      "creator": "Kristin Ardlie",
+      "creator_first_name": "Kristin",
+      "creator_last_name": "Ardlie",
+      "creation_date": "2022-01-26",
+      "ccf_annotations": [
+       "http://purl.obolibrary.org/obo/UBERON_0002097"
+      ],
+      "x_dimension": 20,
+      "y_dimension": 10,
+      "z_dimension": 5,
+      "dimension_units": "millimeter",
+      "placement": {
+       "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+       "@id": "http://purl.org/ccf/1.5/cce37703-e4e8-454c-a0c4-4ff58652ab8f_placement",
+       "@type": "SpatialPlacement",
+       "placement_date": "2022-01-26",
+       "x_scaling": 1,
+       "y_scaling": 1,
+       "z_scaling": 1,
+       "scaling_units": "ratio",
+       "x_rotation": 20,
+       "y_rotation": 13,
+       "z_rotation": 0,
+       "rotation_order": "XYZ",
+       "rotation_units": "degree",
+       "x_translation": 678.414,
+       "y_translation": 479.517,
+       "z_translation": 65.16,
+       "translation_units": "millimeter",
+       "target": "http://purl.org/ccf/latest/ccf.owl#VHMSkinV1.1"
+      }
+     }
+    }
+   ],
+   "consortium_name": "GTEx",
+   "provider_name": "GTEx",
+   "provider_uuid": "083882bb-6cc6-4c12-a205-eac37c1a2640",
+   "sex": "Female"
   }
  ]
 }
