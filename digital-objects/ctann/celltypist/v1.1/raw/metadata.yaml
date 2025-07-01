@@ -1,4 +1,4 @@
-title: Ccell type annotations for CellTypist
+title: cell type annotations for CellTypist
 description: |-
   This crosswalk maps the cell type annotations from CellTypist (Xu et al. 2023; Domínguez Conde et al. 2022) to the
   Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl. More information on
