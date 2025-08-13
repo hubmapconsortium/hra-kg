@@ -1,6 +1,7 @@
 digital-objects:
   - graph/hra-ccf-body/v2.0
   - graph/hra-ccf-patches/v2.3
+  - graph/hra-api-indexes/v2.3
   - landmark/uterus-female-landmarks/v1.0
   - landmark/urinary-bladder-male-landmarks/v1.0
   - landmark/urinary-bladder-female-landmarks/v1.0
