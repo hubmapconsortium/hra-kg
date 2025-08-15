@@ -8,7 +8,7 @@ digital-objects:
   - 2d-ftu/pancreas-islets-langerhans/v1.0
   - 2d-ftu/prostate-prostate-glandular-acinus/v1.0
   - 2d-ftu/thymus-thymus-lobule/v1.0
-  - asct-b/blood-pelvis/v1.1
+  - asct-b/blood-pelvis/v1.2
   - asct-b/blood-vasculature/v1.2
   - asct-b/bonemarrow-pelvis/v1.2
   - asct-b/allen-brain/v1.2
