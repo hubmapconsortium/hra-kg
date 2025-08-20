@@ -36,10 +36,6 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-citationOverall: >-
-  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
-  2022.	"HuBMAP ASCT+B Tables."	
-  https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html.	Accessed June 15, 2025.
 datatable:
   - dataset-graph.jsonld
 references:

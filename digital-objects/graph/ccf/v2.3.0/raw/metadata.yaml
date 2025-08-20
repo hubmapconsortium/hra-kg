@@ -34,16 +34,6 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM248.CBJV.556
-doi: https://doi.org/10.48539/HBM248.CBJV.556
-citation: >-
-  Jain, Sanjay,	M. Todd Valerius,	and Yongqun He.	
-  2024.	"HuBMAP ASCT+B Tables. Kidney v1.2."	
-  https://doi.org/10.48539/HBM248.CBJV.556. Accessed December 15, 2025.
-citationOverall: >-
-  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
-  2022.	"HuBMAP ASCT+B Tables."	
-  https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html.	Accessed December 15, 2025.
 datatable:
   - ccf.owl
 references:
