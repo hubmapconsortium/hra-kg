@@ -5,3 +5,7 @@ overrides:
       proseWrap: always
       quoteProps: as-needed
       singleQuote: false
+  - files: '*.js'
+    options:
+      printWidth: 120
+      singleQuote: true
