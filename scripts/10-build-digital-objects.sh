@@ -12,13 +12,14 @@ echo "Building Digital Objects..."
 echo
 
 rm -f jobs.txt
-touch jobs.txt
 queue_job() {
   echo "$1" >> jobs.txt
 }
 wait_for_empty_queue() {
-  node ./src/parallel-jobs.js jobs.txt
-  rm -f jobs.txt
+  if [ -e jobs.txt ]; then
+    node ./src/parallel-jobs.js jobs.txt
+    rm -f jobs.txt
+  fi
 }
 
 # Build unprocessed digital objects
