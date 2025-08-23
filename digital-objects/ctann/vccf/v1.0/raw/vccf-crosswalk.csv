@@ -8,7 +8,7 @@ General Publication(s):,,,,,,
 Data DOI:,https://doi.org/10.48539/HBM485.ZNHM.242,,,,,
 Date:,"June 15, 2025",,,,,
 Version number:,v1.0,,,,,
-Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
+Organ_Level,Organ_ID,Annotation_Label_ID,Annotation_Label,CL_Label,CL_ID,CL_Match
 bonemarrow-codex-chop_L1,UBERON:0002371,VCCF:0000001,mesenchymal cell,mesenchymal cell,CL:0008019,skos:exactMatch
 bonemarrow-codex-chop_L1,UBERON:0002371,VCCF:0000002,unknown cell,cell:unknown,CL:0000000,skos:narrowMatch
 bonemarrow-codex-chop_L1,UBERON:0002371,VCCF:0000003,immune cell,leukocyte,CL:0000738,skos:exactMatch
