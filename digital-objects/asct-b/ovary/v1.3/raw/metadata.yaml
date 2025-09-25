@@ -41,7 +41,11 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-externalReviewers: []
+externalReviewers:
+  - fullName: Susana M Chuva de Sousa Lopes
+    firstName: Susana
+    lastName: Chuva de Sousa Lopes
+    orcid: 0000-0003-3866-2803
 creation_date: "2024-06-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

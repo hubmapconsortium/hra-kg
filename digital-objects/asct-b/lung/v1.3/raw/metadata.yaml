@@ -27,7 +27,11 @@ reviewers:
     firstName: Gail
     lastName: Deutsch
     orcid: 0000-0002-0571-0285
-externalReviewers: []
+externalReviewers:
+  - fullName: Patty J Lee
+    firstName: Patty
+    lastName: Lee
+    orcid: 0000-0001-9906-1628
 creation_date: "2023-06-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

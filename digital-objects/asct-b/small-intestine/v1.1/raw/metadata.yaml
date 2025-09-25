@@ -19,7 +19,11 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-externalReviewers: []
+externalReviewers:
+  - fullName: Koen Oost
+    firstName: Koen
+    lastName: Oost
+    orcid: 0000-0002-5162-9939
 creation_date: "2022-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
