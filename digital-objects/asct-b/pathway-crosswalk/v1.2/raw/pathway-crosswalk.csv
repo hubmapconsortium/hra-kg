@@ -1,0 +1,215 @@
+Pathway Crosswalk,,,,,,
+,,,,,,
+Author Name(s):,Griffin Weber; Katherine S Gustilo,,,,,
+Author ORCID(s):,0000-0002-2597-881X; 0000-0002-5574-4272,,,,,
+Reviewer(s):,Ilias Ziogas; Fahim Imam,,,,,
+Reviewer ORCID(s):,0000-0002-9210-2455; 0000-0003-4752-543X,,,,,
+General Publication(s):,"Netter FH. Atlas of human anatomy. Philadelphia, PA: Saunders/Elsevier. 2006.; Gray H. Gray's Anatomy: The Anatomical Basis of Clinical Practice (40th ed.). Churchill-Livingstone, Elsevier. 2008.",,,,,
+Data DOI:,,,,,,
+Date:,"September 28, 2025",,,,,
+Version Number:,v1.2,,,,,
+Structure1Name,Structure1ID,Structure1Type,Relationship,Structure2Name,Structure2ID,Structure2Type
+basilic vein,UBERON:0001411,vein,adjacent_to,brachial artery,UBERON:0001398,artery
+basilic vein,UBERON:0001411,vein,adjacent_to,brachial vein,UBERON:0001413,vein
+basilic vein,UBERON:0001411,vein,adjacent_to,medial antebrachial cutaneous nerve,,nerve
+basilic vein,UBERON:0001411,vein,adjacent_to,medial lymphatic pathway of upper arm,,lymph vessel
+basilic vein,UBERON:0001411,vein,adjacent_to,median nerve,UBERON:0001148,nerve
+basilic vein,UBERON:0001411,vein,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+brachial artery,UBERON:0001398,artery,adjacent_to,brachial vein,UBERON:0001413,vein
+brachial artery,UBERON:0001398,artery,adjacent_to,medial antebrachial cutaneous nerve,,nerve
+brachial artery,UBERON:0001398,artery,adjacent_to,medial lymphatic pathway of upper arm,,lymph vessel
+brachial artery,UBERON:0001398,artery,adjacent_to,median nerve,UBERON:0001148,nerve
+brachial artery,UBERON:0001398,artery,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+brachial vein,UBERON:0001413,vein,adjacent_to,medial antebrachial cutaneous nerve,,nerve
+brachial vein,UBERON:0001413,vein,adjacent_to,medial lymphatic pathway of upper arm,,lymph vessel
+brachial vein,UBERON:0001413,vein,adjacent_to,median nerve,UBERON:0001148,nerve
+brachial vein,UBERON:0001413,vein,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+medial antebrachial cutaneous nerve,,nerve,adjacent_to,medial lymphatic pathway of upper arm,,lymph vessel
+medial antebrachial cutaneous nerve,,nerve,adjacent_to,median nerve,UBERON:0001148,nerve
+medial antebrachial cutaneous nerve,,nerve,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+medial lymphatic pathway of upper arm,,lymph vessel,adjacent_to,median nerve,UBERON:0001148,nerve
+medial lymphatic pathway of upper arm,,lymph vessel,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+median nerve,UBERON:0001148,nerve,adjacent_to,ulnar nerve,UBERON:0001494,nerve
+deep brachial artery,UBERON:0001399,artery,adjacent_to,deep brachial vein,,vein
+deep brachial artery,UBERON:0001399,artery,adjacent_to,radial nerve,UBERON:0001492,nerve
+deep brachial vein,,vein,adjacent_to,radial nerve,UBERON:0001492,nerve
+axillary nerve,UBERON:0001493,nerve,adjacent_to,posterior humeral circumflex artery,FMA:22684,artery
+suprascapular artery,FMA:10663,artery,adjacent_to,suprascapular nerve,FMA:37025,nerve
+thoracodorsal artery,UBERON:0002011,artery,adjacent_to,thoracodorsal nerve,FMA:65290,nerve
+cephalic vein,UBERON:0001106,vein,adjacent_to,deltoid branch of thoracoacromial artery,FMA:23067,artery
+alveolar capillary,,capillary,connected_to,post-alveolar capillary,,capillary
+alveolar mucosa capillary,,capillary,connected_to,alveolar mucosa venule,,venule
+anterior lingual gland capillary,,capillary,connected_to,anterior lingual gland venule,,venule
+branch of mucous plexus of colon,,capillary,connected_to,mucosal venule of colon,,venule
+bronchial capillary,,capillary,connected_to,bronchial venule,UBERON:8600067,venule
+buccal mucosa capillary,,capillary,connected_to,buccal mucosa venule,,venule
+capillary plexus of posterior pituitary gland,,capillary,connected_to,hypophyseal vein,UBERON:8600090,vein
+deep cutaneous plexus,,capillary,connected_to,cutaneous venule,,venule
+deep parotid gland arteriole,,arteriole,connected_to,deep parotid gland venule,,venule
+hepatic arteriole,,arteriole,connected_to,hepatic sinusoid,UBERON:0001281,capillary
+inferior gingival plexus,,capillary,connected_to,inferior gingiva venule,,venule
+inferior labial gland capillary,,capillary,connected_to,inferior labial gland venule,,venule
+lobular capillary of pancreas,,capillary,connected_to,intralobular venule of pancreas,,venule
+mandibular pulp capillary,,capillary,connected_to,mandibular pulp venule,,venule
+maxillary pulp capillary,,capillary,connected_to,maxillary pulp venule,,venule
+mucous plexus of small intestine,FMA:264945,capillary,connected_to,jejunal vein,UBERON:0001216,vein
+palatine gland capillary,,capillary,connected_to,palatine gland venule,,venule
+palatine tonsil capillary,,capillary,connected_to,palatine tonsil venule,,venule
+pancreatic islet capillary,FMA:280080,capillary,connected_to,intralobular venule of pancreas,,venule
+periductal capillary of accessory pancreatic duct,,capillary,connected_to,periductal branch of interlobular vein of pancreas,,vein
+periductal capillary of intercalated duct of pancreas,,capillary,connected_to,intralobular venule of pancreas,,venule
+periductal capillary of interlobular duct of pancreas,,capillary,connected_to,periductal branch of lobular vein of pancreas,,vein
+periductal capillary of intralobular duct of panceas,,capillary,connected_to,intralobular venule of pancreas,,venule
+periductal capillary of main pancreatic duct,,capillary,connected_to,periductal branch of interlobular vein of pancreas,,vein
+peritubular capillary,UBERON:0005272,capillary,connected_to,stellate venule of kidney,FMA:321526,venule
+post-sheath open capillary of spleen,,capillary,connected_to,splenic venous sinusoid,UBERON:0003910,capillary
+prostatic capillary,FMA:280966,capillary,connected_to,prostatic venule,UBERON:8600084,venule
+pulmonary capillary,UBERON:0016405,capillary,connected_to,pulmonary venule,,venule
+secondary capillary plexus of anterior pituitary gland,,capillary,connected_to,hypophyseal vein,UBERON:8600090,vein
+sublingual gland capillary,,capillary,connected_to,sublingual gland venule,,venule
+submandibular gland capillary,,capillary,connected_to,submandibular gland venule,,venule
+subpapillary plexus,FMA:280962,capillary,connected_to,cutaneous venule,,venule
+superior labial gland capillary,,capillary,connected_to,superior labial gland venule,,venule
+superior parotid gland capillary,,capillary,connected_to,superior parotid gland venule,,venule
+thymic capillary,FMA:280943,capillary,connected_to,thymic venule,,venule
+tongue capillary,,capillary,connected_to,tongue venule,,venule
+vasa recta of kidney,UBERON:0004726,capillary,connected_to,ascending vasa recta of kidney,UBERON:0009091,capillary
+Weber's gland capillary,,capillary,connected_to,Weber's gland venule,,venule
+angular artery,UBERON:0010408,artery,anastomosis_to,ophthalmic artery,UBERON:0001619,artery
+anterior cecal artery,FMA:14816,artery,anastomosis_to,marginal artery of Drummond,FMA:14824,artery
+anterior inferior pancreaticoduodenal artery,FMA:70479,artery,anastomosis_to,anterior superior pancreaticoduodenal artery,FMA:14782,artery
+anterior segmental medullary artery,,artery,anastomosis_to,anterior spinal artery,UBERON:0005431,artery
+anterior superior pancreaticoduodenal artery,FMA:14782,artery,anastomosis_to,anterior inferior pancreaticoduodenal artery,FMA:70479,artery
+artery of Adamkiewicz,FMA:4183,artery,anastomosis_to,anterior spinal artery,UBERON:0005431,artery
+branch of deep cutaneous plexus,,capillary,anastomosis_to,deep cutaneous plexus,,capillary
+branch of mucous plexus of small intestine,,capillary,anastomosis_to,mucous plexus of small intestine,FMA:264945,capillary
+branch of subpapillary plexus,,capillary,anastomosis_to,subpapillary plexus,FMA:280962,capillary
+branch of superficial white pulp capillary of spleen,,capillary,anastomosis_to,superficial white pulp capillary of spleen,,capillary
+caudal pancreatic artery,FMA:14793,artery,anastomosis_to,greater pancreatic artery,FMA:14792,artery
+deep palmar arch,FMA:22838,artery,anastomosis_to,deep palmar branch of ulnar artery,FMA:22824,artery
+descending genicular artery,FMA:22506,artery,anastomosis_to,medial superior genicular artery,FMA:22584,artery
+dorsal branch of lateral proper palmar digital artery of fifth digit of hand,,artery,anastomosis_to,dorsal branch of medial proper palmar digital artery of fifth digit of hand,,artery
+dorsal branch of lateral proper palmar digital artery of fifth digit of hand,,artery,anastomosis_to,lateral dorsal digital artery of fifth digit of hand,,artery
+dorsal branch of lateral proper palmar digital artery of fourth digit of hand,,artery,anastomosis_to,dorsal branch of medial proper palmar digital artery of fourth digit of hand,,artery
+dorsal branch of lateral proper palmar digital artery of fourth digit of hand,,artery,anastomosis_to,lateral dorsal digital artery of fourth digit of hand,,artery
+dorsal branch of lateral proper palmar digital artery of second digit of hand,,artery,anastomosis_to,dorsal branch of medial proper palmar digital artery of second digit of hand,,artery
+dorsal branch of lateral proper palmar digital artery of second digit of hand,,artery,anastomosis_to,lateral dorsal digital artery of second digit of hand,,artery
+dorsal branch of lateral proper palmar digital artery of third digit of hand,,artery,anastomosis_to,dorsal branch of medial proper palmar digital artery of third digit of hand,,artery
+dorsal branch of lateral proper palmar digital artery of third digit of hand,,artery,anastomosis_to,lateral dorsal digital artery of third digit of hand,,artery
+dorsal branch of medial proper palmar digital artery of fifth digit of hand,,artery,anastomosis_to,dorsal branch of lateral proper palmar digital artery of fifth digit of hand,,artery
+dorsal branch of medial proper palmar digital artery of fifth digit of hand,,artery,anastomosis_to,medial dorsal digital artery of fifth digit of hand,,artery
+dorsal branch of medial proper palmar digital artery of fourth digit of hand,,artery,anastomosis_to,dorsal branch of lateral proper palmar digital artery of fourth digit of hand,,artery
+dorsal branch of medial proper palmar digital artery of fourth digit of hand,,artery,anastomosis_to,medial dorsal digital artery of fourth digit of hand,,artery
+dorsal branch of medial proper palmar digital artery of second digit of hand,,artery,anastomosis_to,dorsal branch of lateral proper palmar digital artery of second digit of hand,,artery
+dorsal branch of medial proper palmar digital artery of second digit of hand,,artery,anastomosis_to,medial dorsal digital artery of second digit of hand,,artery
+dorsal branch of medial proper palmar digital artery of third digit of hand,,artery,anastomosis_to,dorsal branch of lateral proper palmar digital artery of third digit of hand,,artery
+dorsal branch of medial proper palmar digital artery of third digit of hand,,artery,anastomosis_to,medial dorsal digital artery of third digit of hand,,artery
+dorsal carpal arch,FMA:22755,artery,anastomosis_to,dorsal carpal branch of ulnar artery,FMA:22820,artery
+dorsal digital artery of first digit of hand,,artery,anastomosis_to,lateral proper palmar digital artery of first digit of hand,,artery
+dorsal digital artery of first digit of hand,,artery,anastomosis_to,medial proper palmar digital artery of first digit of hand,,artery
+first common palmar digital artery,FMA:22854,artery,anastomosis_to,first palmar metacarpal artery,,artery
+first palmar metacarpal artery,,artery,anastomosis_to,first common palmar digital artery,FMA:22854,artery
+first posterior perforating branch of plantar arch,,artery,anastomosis_to,second dorsal metatarsal artery,FMA:44648,artery
+frontal branch of superficial temporal artery,FMA:49669,artery,anastomosis_to,ophthalmic artery,UBERON:0001619,artery
+ileal branch of ileocolic artery,FMA:14819,artery,anastomosis_to,marginal artery of Drummond,FMA:14824,artery
+inferior anastomotic vein,UBERON:8600091,vein,anastomosis_to,superficial middle cerebral vein,UBERON:0035231,vein
+inferior epigastric artery,UBERON:0001354,artery,anastomosis_to,superior epigastric artery,UBERON:0007153,artery
+inferior labial artery,UBERON:0003471,artery,anastomosis_to,mental artery,UBERON:0001617,artery
+inferior labial artery,UBERON:0003471,artery,anastomosis_to,superior labial artery,UBERON:0003470,artery
+inferior vein of Sappey,,vein,anastomosis_to,internal thoracic vein,UBERON:0001589,vein
+lateral calcaneal artery,,artery,anastomosis_to,medial calcaneal artery,,artery
+lateral dorsal digital artery of fifth digit of foot,FMA:69613,artery,anastomosis_to,medial dorsal digital artery of fifth digit of foot,FMA:69589,artery
+lateral dorsal digital artery of fifth digit of hand,,artery,anastomosis_to,dorsal branch of lateral proper palmar digital artery of fifth digit of hand,,artery
+lateral dorsal digital artery of fifth digit of hand,,artery,anastomosis_to,medial dorsal digital artery of fifth digit of hand,,artery
+lateral dorsal digital artery of first digit of foot,FMA:69601,artery,anastomosis_to,medial dorsal digital artery of first digit of foot,FMA:69585,artery
+lateral dorsal digital artery of fourth digit of foot,FMA:69610,artery,anastomosis_to,medial dorsal digital artery of fourth digit of foot,FMA:69588,artery
+lateral dorsal digital artery of fourth digit of hand,,artery,anastomosis_to,dorsal branch of lateral proper palmar digital artery of fourth digit of hand,,artery
+lateral dorsal digital artery of fourth digit of hand,,artery,anastomosis_to,medial dorsal digital artery of fourth digit of hand,,artery
+lateral dorsal digital artery of second digit of foot,FMA:69604,artery,anastomosis_to,medial dorsal digital artery of second digit of foot,FMA:69586,artery
+lateral dorsal digital artery of second digit of hand,,artery,anastomosis_to,dorsal branch of lateral proper palmar digital artery of second digit of hand,,artery
+lateral dorsal digital artery of second digit of hand,,artery,anastomosis_to,medial dorsal digital artery of second digit of hand,,artery
+lateral dorsal digital artery of third digit of foot,FMA:69607,artery,anastomosis_to,medial dorsal digital artery of third digit of foot,FMA:69587,artery
+lateral dorsal digital artery of third digit of hand,,artery,anastomosis_to,dorsal branch of lateral proper palmar digital artery of third digit of hand,,artery
+lateral dorsal digital artery of third digit of hand,,artery,anastomosis_to,medial dorsal digital artery of third digit of hand,,artery
+lateral inferior genicular artery,FMA:43888,artery,anastomosis_to,medial inferior genicular artery,FMA:43889,artery
+lateral proper palmar digital artery of fifth digit of hand,FMA:23048,artery,anastomosis_to,medial proper palmar digital artery of fifth digit of hand,FMA:85108,artery
+lateral proper palmar digital artery of first digit of hand,,artery,anastomosis_to,dorsal digital artery of first digit of hand,,artery
+lateral proper palmar digital artery of first digit of hand,,artery,anastomosis_to,medial proper palmar digital artery of first digit of hand,,artery
+lateral proper palmar digital artery of fourth digit of hand,FMA:85114,artery,anastomosis_to,medial proper palmar digital artery of fourth digit of hand,FMA:23046,artery
+lateral proper palmar digital artery of second digit of hand,,artery,anastomosis_to,medial proper palmar digital artery of second digit of hand,FMA:23047,artery
+lateral proper palmar digital artery of third digit of hand,FMA:22857,artery,anastomosis_to,medial proper palmar digital artery of third digit of hand,FMA:85111,artery
+lateral proper plantar digital artery of fifth digit of foot,,artery,anastomosis_to,medial proper plantar digital artery of fifth digit of foot,,artery
+lateral proper plantar digital artery of first digit of foot,,artery,anastomosis_to,medial proper plantar digital artery of first digit of foot,,artery
+lateral proper plantar digital artery of fourth digit of foot,,artery,anastomosis_to,medial proper plantar digital artery of fourth digit of foot,,artery
+lateral proper plantar digital artery of second digit of foot,,artery,anastomosis_to,medial proper plantar digital artery of second digit of foot,,artery
+lateral proper plantar digital artery of third digit of foot,,artery,anastomosis_to,medial proper plantar digital artery of third digit of foot,,artery
+lateral superior genicular artery,FMA:22585,artery,anastomosis_to,medial superior genicular artery,FMA:22584,artery
+lobular capillary of pancreas,,capillary,anastomosis_to,pancreatic islet capillary,FMA:280080,capillary
+medial calcaneal artery,,artery,anastomosis_to,lateral calcaneal artery,,artery
+medial dorsal digital artery of fifth digit of foot,FMA:69589,artery,anastomosis_to,lateral dorsal digital artery of fifth digit of foot,FMA:69613,artery
+medial dorsal digital artery of fifth digit of hand,,artery,anastomosis_to,dorsal branch of medial proper palmar digital artery of fifth digit of hand,,artery
+medial dorsal digital artery of fifth digit of hand,,artery,anastomosis_to,lateral dorsal digital artery of fifth digit of hand,,artery
+medial dorsal digital artery of first digit of foot,FMA:69585,artery,anastomosis_to,lateral dorsal digital artery of first digit of foot,FMA:69601,artery
+medial dorsal digital artery of fourth digit of foot,FMA:69588,artery,anastomosis_to,lateral dorsal digital artery of fourth digit of foot,FMA:69610,artery
+medial dorsal digital artery of fourth digit of hand,,artery,anastomosis_to,dorsal branch of medial proper palmar digital artery of fourth digit of hand,,artery
+medial dorsal digital artery of fourth digit of hand,,artery,anastomosis_to,lateral dorsal digital artery of fourth digit of hand,,artery
+medial dorsal digital artery of second digit of foot,FMA:69586,artery,anastomosis_to,lateral dorsal digital artery of second digit of foot,FMA:69604,artery
+medial dorsal digital artery of second digit of hand,,artery,anastomosis_to,dorsal branch of medial proper palmar digital artery of second digit of hand,,artery
+medial dorsal digital artery of second digit of hand,,artery,anastomosis_to,lateral dorsal digital artery of second digit of hand,,artery
+medial dorsal digital artery of third digit of foot,FMA:69587,artery,anastomosis_to,lateral dorsal digital artery of third digit of foot,FMA:69607,artery
+medial dorsal digital artery of third digit of hand,,artery,anastomosis_to,dorsal branch of medial proper palmar digital artery of third digit of hand,,artery
+medial dorsal digital artery of third digit of hand,,artery,anastomosis_to,lateral dorsal digital artery of third digit of hand,,artery
+medial inferior genicular artery,FMA:43889,artery,anastomosis_to,lateral inferior genicular artery,FMA:43888,artery
+medial proper palmar digital artery of fifth digit of hand,FMA:85108,artery,anastomosis_to,lateral proper palmar digital artery of fifth digit of hand,FMA:23048,artery
+medial proper palmar digital artery of first digit of hand,,artery,anastomosis_to,dorsal digital artery of first digit of hand,,artery
+medial proper palmar digital artery of first digit of hand,,artery,anastomosis_to,lateral proper palmar digital artery of first digit of hand,,artery
+medial proper palmar digital artery of fourth digit of hand,FMA:23046,artery,anastomosis_to,lateral proper palmar digital artery of fourth digit of hand,FMA:85114,artery
+medial proper palmar digital artery of second digit of hand,FMA:23047,artery,anastomosis_to,lateral proper palmar digital artery of second digit of hand,,artery
+medial proper palmar digital artery of third digit of hand,FMA:85111,artery,anastomosis_to,lateral proper palmar digital artery of third digit of hand,FMA:22857,artery
+medial proper plantar digital artery of fifth digit of foot,,artery,anastomosis_to,lateral proper plantar digital artery of fifth digit of foot,,artery
+medial proper plantar digital artery of first digit of foot,,artery,anastomosis_to,lateral proper plantar digital artery of first digit of foot,,artery
+medial proper plantar digital artery of first digit of foot,,artery,anastomosis_to,superficial branch of medial plantar artery,FMA:43933,artery
+medial proper plantar digital artery of fourth digit of foot,,artery,anastomosis_to,lateral proper plantar digital artery of fourth digit of foot,,artery
+medial proper plantar digital artery of second digit of foot,,artery,anastomosis_to,lateral proper plantar digital artery of second digit of foot,,artery
+medial proper plantar digital artery of third digit of foot,,artery,anastomosis_to,lateral proper plantar digital artery of third digit of foot,,artery
+medial superior genicular artery,FMA:22584,artery,anastomosis_to,lateral superior genicular artery,FMA:22585,artery
+medial tarsal artery,UBERON:0001553,artery,anastomosis_to,arcuate artery of foot,UBERON:0034927,artery
+mental artery,UBERON:0001617,artery,anastomosis_to,inferior labial artery,UBERON:0003471,artery
+mental artery,UBERON:0001617,artery,anastomosis_to,submental artery,UBERON:8600096,artery
+odontoid arcade,,artery,anastomosis_to,vertebral artery,UBERON:0001535,artery
+pancreatic islet capillary,FMA:280080,capillary,anastomosis_to,lobular capillary of pancreas,,capillary
+posterior cecal artery,FMA:14817,artery,anastomosis_to,marginal artery of Drummond,FMA:14824,artery
+posterior cerebral artery,UBERON:0001636,artery,anastomosis_to,posterior communicating artery,UBERON:0001628,artery
+posterior communicating artery,UBERON:0001628,artery,anastomosis_to,posterior cerebral artery,UBERON:0001636,artery
+posterior inferior pancreaticoduodenal artery,FMA:70480,artery,anastomosis_to,posterior superior pancreaticoduodenal artery,FMA:14784,artery
+posterior lateral nasal branch of sphenopalatine artery,,artery,anastomosis_to,anterior ethmoidal artery,UBERON:0012318,artery
+posterior lateral nasal branch of sphenopalatine artery,,artery,anastomosis_to,dorsal nasal artery,UBERON:0001623,artery
+posterior lateral nasal branch of sphenopalatine artery,,artery,anastomosis_to,greater palatine artery,UBERON:0006664,artery
+posterior lateral nasal branch of sphenopalatine artery,,artery,anastomosis_to,posterior ethmoidal artery,UBERON:0012319,artery
+posterior segmental medullary artery,,artery,anastomosis_to,posterior spinal artery,UBERON:0007146,artery
+posterior septal branch of sphenopalatine artery,FMA:49809,artery,anastomosis_to,anterior ethmoidal artery,UBERON:0012318,artery
+posterior septal branch of sphenopalatine artery,FMA:49809,artery,anastomosis_to,greater palatine artery,UBERON:0006664,artery
+posterior septal branch of sphenopalatine artery,FMA:49809,artery,anastomosis_to,posterior ethmoidal artery,UBERON:0012319,artery
+posterior septal branch of sphenopalatine artery,FMA:49809,artery,anastomosis_to,superior labial artery,UBERON:0003470,artery
+posterior superior pancreaticoduodenal artery,FMA:14784,artery,anastomosis_to,posterior inferior pancreaticoduodenal artery,FMA:70480,artery
+posterior temporal artery,UBERON:0035261,artery,anastomosis_to,occipital artery,UBERON:0001613,artery
+posterior temporal artery,UBERON:0035261,artery,anastomosis_to,posterior auricular artery,UBERON:0014694,artery
+right colic artery,UBERON:8410023,artery,anastomosis_to,marginal artery of Drummond,FMA:14824,artery
+second common palmar digital artery,FMA:22855,artery,anastomosis_to,second palmar metacarpal artery,,artery
+second palmar metacarpal artery,,artery,anastomosis_to,second common palmar digital artery,FMA:22855,artery
+second posterior perforating branch of plantar arch,,artery,anastomosis_to,third dorsal metatarsal artery,FMA:44649,artery
+secondary follicle arteriole of spleen,,arteriole,anastomosis_to,superficial white pulp capillary of spleen,,capillary
+sublingual artery,UBERON:0001611,artery,anastomosis_to,submental artery,UBERON:8600096,artery
+submental artery,UBERON:8600096,artery,anastomosis_to,mental artery,UBERON:0001617,artery
+superficial branch of medial plantar artery,FMA:43933,artery,anastomosis_to,medial proper plantar digital artery of first digit of foot,,artery
+superficial palmar arch,UBERON:0006564,artery,anastomosis_to,superficial palmar branch of radial artery,FMA:22752,artery
+superficial white pulp capillary of spleen,,capillary,anastomosis_to,sheathed capillary of spleen,,capillary
+superior anastomotic vein,FMA:51238,vein,anastomosis_to,superficial middle cerebral vein,UBERON:0035231,vein
+superior labial artery,UBERON:0003470,artery,anastomosis_to,inferior labial artery,UBERON:0003471,artery
+superior vein of Sappey,,vein,anastomosis_to,internal thoracic vein,UBERON:0001589,vein
+third common palmar digital artery,FMA:85107,artery,anastomosis_to,third palmar metacarpal artery,,artery
+third palmar metacarpal artery,,artery,anastomosis_to,third common palmar digital artery,FMA:85107,artery
+third posterior perforating branch of plantar arch,,artery,anastomosis_to,fourth dorsal metatarsal artery,FMA:44650,artery
+transverse facial vein,UBERON:0001659,vein,anastomosis_to,facial vein,UBERON:0001653,vein
+vasa recta of ileum,,artery,anastomosis_to,marginal artery of Drummond,FMA:14824,artery
+vein of Burow,,vein,anastomosis_to,inferior epigastric vein,UBERON:0007154,vein

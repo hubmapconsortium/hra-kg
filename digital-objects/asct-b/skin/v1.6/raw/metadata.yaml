@@ -1,0 +1,95 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Skin
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
+  authored and reviewed by an international team of experts. The Skin ASCT+B table represents terms related to the adult
+  human skin. These include both macroscopic and microscopic anatomical structures, major cell types, and protein
+  biomarkers specific for each cell type listed. This table was generated based on published histopathologic
+  nomenclature, as well as published literature on cell-type specific biomarkers. Most of the markers listed are
+  observed in more than one study or orthogonally validated. Note that these are predicted markers and a single marker
+  to annotate a cell type is not likely sufficient or specific. Where more refined cell types are not available in the
+  ontologies, the closest general term is used. For example, there are likely multiple types of skin stromal cells;
+  however, further characterization is needed to distinguish between these cell types. Where cells of similar type occur
+  in different locations, the closest and highest level of resolution available is used. For example, keratinocytes
+  occur in multiple different contexts within the skin, including the epidermis and hair follicles.
+                                                                                                                                                                                                                                                                                              
+  **Bibliography:** 
+
+  * Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” *Nature Cell Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
+creators:
+  - fullName: Fiona Ginty
+    firstName: Fiona
+    lastName: Ginty
+    orcid: 0000-0001-6638-683X
+  - fullName: Jonhan Ho
+    firstName: Jonhan
+    lastName: Ho
+    orcid: 0000-0002-1134-8585
+  - fullName: Joel Sunshine
+    firstName: Joel
+    lastName: Sunshine
+    orcid: 0000-0001-9987-6712
+  - fullName: Arivarasan Karunamurthy
+    firstName: Arivarasan
+    lastName: Karunamurthy
+    orcid: 0000-0002-5739-4923
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Lou Falo
+    firstName: Lou
+    lastName: Falo
+    orcid: 0000-0001-9813-0433
+  - fullName: Muzlifah A. Haniffa
+    firstName: Muzlifah
+    lastName: Haniffa
+    orcid: 0000-0002-3927-2084
+  - fullName: Hemali Phatnani
+    firstName: Hemali
+    lastName: Phatnani
+    orcid: 0000-0002-6571-3891
+  - fullName: David M. Owens
+    firstName: David
+    lastName: Owens
+    orcid: 0000-0003-0297-4370
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Supriya Bidanta
+    firstName: Supriya
+    lastName: Bidanta
+    orcid: 0000-0002-2142-983X
+externalReviewers:
+  - fullName: Beate Lichtenberger
+    firstName: Beate
+    lastName: Lichtenberger
+    orcid: 0000-0001-6882-0257
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: 5UH3CA246594-02
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM762.FXXL.375
+doi: https://doi.org/10.48539/HBM762.FXXL.375
+citation: >-
+  Ginty, Fiona,	Jonhan Ho,	Joel Sunshine,	and Arivarasan Karunamurthy.	
+  2025.	"HuBMAP ASCT+B Tables. Skin v1.5."	
+  https://doi.org/10.48539/HBM762.FXXL.375.	Accessed June 15, 2025.
+citationOverall: >-
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2025.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2025.
+datatable:
+  - asct-b-vh-skin.csv
+references:
+  - https://doi.org/10.1038/s41556-021-00788-6
