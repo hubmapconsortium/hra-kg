@@ -28,7 +28,7 @@ reviewers:
     lastName: Weber
     orcid: 0000-0002-2597-881X
 externalReviewers: []
-creation_date: "2025-06-15"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -37,15 +37,15 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM479.XPML.677
-doi: https://doi.org/10.48539/HBM479.XPML.677
-citation: >-
-  Quardokus, Ellen M.	
-  2025.	"HuBMAP ASCT+B Tables. Anatomical Systems, v1.0."	
-  https://doi.org/10.48539/HBM479.XPML.677.	Accessed June 15, 2025.
+# hubmapId: HBM479.XPML.677
+# doi: https://doi.org/10.48539/HBM479.XPML.677
+# citation: >-
+#   Quardokus, Ellen M.
+#   2025.	"HuBMAP ASCT+B Tables. Anatomical Systems, v1.1."
+#   https://doi.org/10.48539/HBM479.XPML.677.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2024.	"HuBMAP ASCT+B Tables."	
-  https://humanatlas.io/asctb-tables.	Accessed June 15, 2025.
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
 datatable:
   - asct-b-vh-mouth.csv

@@ -42,7 +42,7 @@ externalReviewers:
     firstName: Peiran
     lastName: Lu
     orcid: 0009-0001-5096-3046
-creation_date: "2024-12-15"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -51,15 +51,15 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM535.BJVS.924
-doi: https://doi.org/10.48539/HBM535.BJVS.924
-citation: >-
-  Lin, Shin,	Marc Halushka,	and Avinash Boppana.	
-  2024.	"HuBMAP ASCT+B Tables. Heart v1.5."	
-  https://doi.org/10.48539/HBM535.BJVS.924.	Accessed December 15, 2024.
+# hubmapId: HBM535.BJVS.924
+# doi: https://doi.org/10.48539/HBM535.BJVS.924
+# citation: >-
+#   Lin, Shin,	Marc Halushka,	and Avinash Boppana.
+#   2025.	"HuBMAP ASCT+B Tables. Heart v1.6."
+#   https://doi.org/10.48539/HBM535.BJVS.924.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
-  2024.	"HuBMAP ASCT+B Tables."	
-  https://humanatlas.io/asctb-tables.	Accessed December 15, 2024.
+  2025.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
 datatable:
   - asct-b-vh-heart.csv

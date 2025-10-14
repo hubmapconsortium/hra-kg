@@ -33,7 +33,7 @@ reviewers:
     lastName: Imam
     orcid: 0000-0003-4752-543X
 externalReviewers: []
-creation_date: "2024-12-15"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -42,11 +42,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM999.LBSW.743
-doi: https://doi.org/10.48539/HBM999.LBSW.743
-citation: >-
-  Weber, Griffin,	and Katherine S. Gustilo.	
-  2024.	"Pathway Crosswalk, v1.1."	
-  https://doi.org/10.48539/HBM999.LBSW.743.	Accessed December 15, 2024.
+# hubmapId: HBM999.LBSW.743
+# doi: https://doi.org/10.48539/HBM999.LBSW.743
+# citation: >-
+#   Weber, Griffin,	and Katherine S. Gustilo.
+#   2025.	"Pathway Crosswalk, v1.2."
+#   https://doi.org/10.48539/HBM999.LBSW.743.	Accessed December 15, 2025.
 datatable:
   - pathway-crosswalk.csv

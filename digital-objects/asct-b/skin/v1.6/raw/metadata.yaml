@@ -68,7 +68,7 @@ externalReviewers:
     firstName: Beate
     lastName: Lichtenberger
     orcid: 0000-0001-6882-0257
-creation_date: "2025-06-15"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -79,16 +79,16 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM762.FXXL.375
-doi: https://doi.org/10.48539/HBM762.FXXL.375
-citation: >-
-  Ginty, Fiona,	Jonhan Ho,	Joel Sunshine,	and Arivarasan Karunamurthy.	
-  2025.	"HuBMAP ASCT+B Tables. Skin v1.5."	
-  https://doi.org/10.48539/HBM762.FXXL.375.	Accessed June 15, 2025.
+# hubmapId: HBM762.FXXL.375
+# doi: https://doi.org/10.48539/HBM762.FXXL.375
+# citation: >-
+#   Ginty, Fiona,	Jonhan Ho,	Joel Sunshine,	and Arivarasan Karunamurthy.
+#   2025.	"HuBMAP ASCT+B Tables. Skin v1.6."
+#   https://doi.org/10.48539/HBM762.FXXL.375.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2025.	"HuBMAP ASCT+B Tables."	
-  https://humanatlas.io/asctb-tables.	Accessed June 15, 2025.
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
 datatable:
   - asct-b-vh-skin.csv
 references:

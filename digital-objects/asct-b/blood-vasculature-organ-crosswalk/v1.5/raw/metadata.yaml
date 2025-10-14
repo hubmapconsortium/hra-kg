@@ -46,7 +46,7 @@ reviewers:
     lastName: Campbell-Thompson
     orcid: 0000-0001-6878-1235
 externalReviewers: []
-creation_date: "2025-06-15"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -55,16 +55,16 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM655.NRGQ.952
-doi: https://doi.org/10.48539/HBM655.NRGQ.952
-citation: >-
-  Weber, Griffin,	and Katherine S. Gustilo.	
-  2025.	"Blood Vasculature Organ Crosswalk, v1.4."	
-  https://doi.org/10.48539/HBM655.NRGQ.952.	Accessed June 15, 2025.
+# hubmapId: HBM655.NRGQ.952
+# doi: https://doi.org/10.48539/HBM655.NRGQ.952
+# citation: >-
+#   Weber, Griffin,	and Katherine S. Gustilo.
+#   2025.	"Blood Vasculature Organ Crosswalk, v1.5."
+#   https://doi.org/10.48539/HBM655.NRGQ.952.	Accessed December 15, 2025.
 citationOverall: >-
   Boppana, Avinash,	Sujin Lee,	Rajeev Malhotra,	Marc Halushka,	Katherine S. Gustilo,	
   Ellen M. Quardokus,	Bruce W. Herr II,	Katy Börner,	and Griffin M. Weber.	
-  2023.	"Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature."	
-  *Scientific Data*	10 (1):	452.	https://doi.org/10.1038/s41597-023-02018-0.	Accessed June 15, 2025.
+  2025.	"Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature."	
+  *Scientific Data*	10 (1):	452.	https://doi.org/10.1038/s41597-023-02018-0.	Accessed December 15, 2025.
 datatable:
   - blood-vasculature-organ-crosswalk.csv

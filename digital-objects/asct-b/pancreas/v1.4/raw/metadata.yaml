@@ -46,7 +46,7 @@ externalReviewers:
     firstName: Diego
     lastName: Balboa
     orcid: 0000-0002-4784-5452
-creation_date: "2023-12-15"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -55,15 +55,15 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM336.TBNP.923
-doi: https://doi.org/10.48539/HBM336.TBNP.923
-citation: >-
-  Campbell-Thompson, Martha,	Adel Eskaros,	and Diane Saunders.	
-  2023.	"HuBMAP ASCT+B Tables. Pancreas v1.3."	
-  https://doi.org/10.48539/HBM336.TBNP.923.	Accessed December 15, 2023.
+# hubmapId: HBM336.TBNP.923
+# doi: https://doi.org/10.48539/HBM336.TBNP.923
+# citation: >-
+#   Campbell-Thompson, Martha,	Adel Eskaros,	and Diane Saunders.
+#   2025.	"HuBMAP ASCT+B Tables. Pancreas v1.3."
+#   https://doi.org/10.48539/HBM336.TBNP.923.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
-  2023.	"HuBMAP ASCT+B Tables."	
-  https://humanatlas.io/asctb-tables.	Accessed December 15, 2023.
+  2025.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
 datatable:
   - asct-b-vh-pancreas.csv

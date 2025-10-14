@@ -48,7 +48,7 @@ externalReviewers:
     firstName: Katherine
     lastName: Garman
     orcid: 0000-0001-7763-8465
-creation_date: "2025-06-15"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -57,15 +57,15 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM325.ZPWW.358
-doi: https://doi.org/10.48539/HBM325.ZPWW.358
-citation: >-
-  Longacre, Teri A.,	John Hickey,	and Yiing Lin.	
-  2025.	"HuBMAP ASCT+B Tables. Large Intestine v1.4."	
-  https://doi.org/10.48539/HBM325.ZPWW.358.	Accessed June 15, 2025.
+# hubmapId: HBM325.ZPWW.358
+# doi: https://doi.org/10.48539/HBM325.ZPWW.358
+# citation: >-
+#   Longacre, Teri A.,	John Hickey,	and Yiing Lin.
+#   2025.	"HuBMAP ASCT+B Tables. Large Intestine v1.5."
+#   https://doi.org/10.48539/HBM325.ZPWW.358.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2025.	"HuBMAP ASCT+B Tables."	
-  https://humanatlas.io/asctb-tables.	Accessed June 15, 2025.
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
 datatable:
   - asct-b-vh-large-intestine.csv

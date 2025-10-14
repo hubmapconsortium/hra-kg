@@ -42,7 +42,7 @@ externalReviewers:
     firstName: Katherine
     lastName: Garman
     orcid: 0000-0001-7763-8465
-creation_date: "2025-06-15"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -51,16 +51,16 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM243.LZXV.772
-doi: https://doi.org/10.48539/HBM243.LZXV.772
-citation: >-
-  Longacre, Teri.	
-  2025.	"HuBMAP ASCT+B Tables. Small Intestine v1.2."	
-  https://doi.org/10.48539/HBM243.LZXV.772.	Accessed June 15, 2025.
+# hubmapId: HBM243.LZXV.772
+# doi: https://doi.org/10.48539/HBM243.LZXV.772
+# citation: >-
+#   Longacre, Teri.
+#   2025.	"HuBMAP ASCT+B Tables. Small Intestine v1.3."
+#   https://doi.org/10.48539/HBM243.LZXV.772.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2025.	"HuBMAP ASCT+B Tables."	
-  https://humanatlas.io/asctb-tables.	Accessed June 15, 2025.
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
 datatable:
   - asct-b-vh-small-intestine.csv
 references:
