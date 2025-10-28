@@ -33,6 +33,10 @@ reviewers:
     firstName: Katy
     lastName: Börner
     orcid: 0000-0002-3321-6137
+  - fullName: Jie Zheng
+    firstName: Jie
+    lastName: Zheng
+    orcid: 0000-0002-2999-0103
 externalReviewers: []
 creation_date: "2025-12-15"
 license: >-
@@ -46,8 +50,8 @@ funders:
 # hubmapId: HBM866.LDBJ.546
 # doi: https://doi.org/10.48539/HBM866.LDBJ.546
 # citation: >-
-#   Quardokus, Ellen M.	
-#   2025.	"Crosswalk of Popular Vote (popV) Annotated Cells to Cell Ontology, v1.2."	
+#   Quardokus, Ellen M.
+#   2025.	"Crosswalk of Popular Vote (popV) Annotated Cells to Cell Ontology, v1.2."
 #   https://doi.org/10.48539/HBM866.LDBJ.546.	Accessed June 15, 2025.
 datatable:
   - popv-crosswalk.csv

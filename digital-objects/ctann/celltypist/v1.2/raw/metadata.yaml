@@ -34,6 +34,10 @@ reviewers:
     firstName: Katy
     lastName: Börner
     orcid: 0000-0002-3321-6137
+  - fullName: Jie Zheng
+    firstName: Jie
+    lastName: Zheng
+    orcid: 0000-0002-2999-0103
 externalReviewers: []
 creation_date: "2025-12-15"
 license: >-
@@ -47,8 +51,8 @@ funders:
 # hubmapId: HBM877.ZTNJ.972
 # doi: https://doi.org/10.48539/HBM877.ZTNJ.972
 # citation: >-
-#   Quardokus, Ellen M.	
-#   2025.	"Crosswalk of CellTypist Annotated Cells to Cell Ontology, v1.1."	
+#   Quardokus, Ellen M.
+#   2025.	"Crosswalk of CellTypist Annotated Cells to Cell Ontology, v1.1."
 #   https://doi.org/10.48539/HBM877.ZTNJ.972.	Accessed June 15, 2025.
 citationOverall: >-
 datatable:
