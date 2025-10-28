@@ -1,14 +1,15 @@
-title: cell type annotations for Robust Image-Based Cell Annotator (RIBCA)
+title: cell type annotations for deepcelltypes-HuBMAP
 description: |-
-  This crosswalk maps the cell type annotations from Robust Image-Based Cell Annotator (RIBCA) (Sun et al., 2024) to the
-  latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl
+  This crosswalk maps the cell type annotations from deepcelltypes-HuBMAP-v1.0 (Wang et al. 2024) to the latest revision
+  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl  More information on
+  deepcelltypes-HuBMAP-v1.0 is available at https://github.com/hubmapconsortium/deepcelltypes-hubmap.
 
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
   available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data.
 
   **Bibliography:**
 
-  * Sun, Huangqingbo, Shiqiu Yu, Anna Martinez Casals, Anna Bäckström, Yuxin Lu, Cecilia Lindskog, Matthew Ruffalo, Emma Lundberg, and Robert F. Murphy. 2024. “Flexible and Robust Cell Type Annotation for Highly Multiplexed Tissue Images.” bioRxiv. https://doi.org/10.1101/2024.09.12.612510.
+  * Wang, Xuefei (Julie), Rohit Dilip, Yuval Bussi, Caitlin Brown, Elora Pradhan, Yashvardhan Jain, Kevin Yu, et al. 2024. “Generalized Cell Phenotyping for Spatial Proteomics with Language-Informed Vision Models.” bioRxiv. https://doi.org/10.1101/2024.11.02.621624.
 creators:
   - fullName: Aleix Puig-Barbe
     firstName: Aleix
@@ -38,13 +39,14 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM674.JFSD.677
-# doi: https://doi.org/10.48539/HBM674.JFSD.677
+# hubmapId: HBM679.XXLW.422
+# doi: https://doi.org/10.48539/HBM679.XXLW.422
 # citation: >-
 # Puig-Barbe, Aleix.
-# 2025.	"Crosswalk of Robust Image-Based Cell Annotator (RIBCA) Annotated Cells to Cell Ontology, v1.0."
-# https://doi.org/10.48539/HBM674.JFSD.677.	Accessed June 15, 2025.
+# 2025.	"Crosswalk of Deepcelltypes-HuBMAP Annotated Cells to Cell Ontology, v1.0."
+# https://doi.org/10.48539/HBM679.XXLW.422.	Accessed June 15, 2025.
+citationOverall: >-
 datatable:
-  - ribca-crosswalk.csv
+  - deepcelltypes-hubmap-crosswalk.csv
 references:
-  - https://doi.org/10.1101/2024.09.12.612510
+  - https://doi.org/10.1101/2024.11.02.621624

@@ -1,0 +1,58 @@
+title: cell type annotations for CellTypist
+description: |-
+  This crosswalk maps the cell type annotations from CellTypist (Xu et al. 2023; Domínguez Conde et al. 2022) to the
+  Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl. More information on
+  CellTypist is available at https://www.celltypist.org/.
+
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
+  available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
+
+  **Bibliography:**
+
+  * Domínguez Conde, C., C. Xu, L. B. Jarvis, D. B. Rainbow, S. B. Wells, T. Gomes, S. K. Howlett, et al. 2022. “Cross-Tissue Immune Cell Analysis Reveals Tissue-Specific Features in Humans.” *Science* 376 (6594): eabl5197. https://doi.org/10.1126/science.abl5197.
+  * Xu, Chuan, Martin Prete, Simone Webb, Laura Jardine, Benjamin J. Stewart, Regina Hoo, Peng He, Kerstin B. Meyer, and Sarah A. Teichmann. 2023. “Automatic Cell-Type Harmonization and Integration across Human Cell Atlas Datasets.” *Cell* 186 (26): 5876-5891.e20. https://doi.org/10.1016/j.cell.2023.11.026.
+creators:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Aleix Puig-Barbe
+    firstName: Aleix
+    lastName: Puig-Barbe
+    orcid: 0000-0001-6677-8489
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM877.ZTNJ.972
+# doi: https://doi.org/10.48539/HBM877.ZTNJ.972
+# citation: >-
+#   Quardokus, Ellen M.	
+#   2025.	"Crosswalk of CellTypist Annotated Cells to Cell Ontology, v1.1."	
+#   https://doi.org/10.48539/HBM877.ZTNJ.972.	Accessed June 15, 2025.
+citationOverall: >-
+datatable:
+  - celltypist-crosswalk.csv
+references:
+  - https://doi.org/10.1126/science.abl5197
+  - https://doi.org/10.1016/j.cell.2023.11.026
