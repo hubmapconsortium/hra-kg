@@ -25,6 +25,18 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 reviewers:
+  - fullName: Stephen Fisher
+    firstName: Stephen
+    lastName: Fisher
+    orcid:
+  - fullName: C. Erik Nordgren
+    firstName: Erik
+    lastName: Nordgren
+    orcid: 0000-0002-5024-0278
+  - fullName: Alison Pouch
+    firstName: Alison
+    lastName: Pouch
+    orcid:
   - fullName: Ellen M. Quardokus
     firstName: Ellen
     lastName: Quardokus
