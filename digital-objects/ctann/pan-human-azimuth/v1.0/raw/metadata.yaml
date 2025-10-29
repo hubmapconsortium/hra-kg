@@ -1,6 +1,6 @@
-title: cell type annotations for pan-human Azimuth
+title: cell type annotations for Pan-human Azimuth
 description: |-
-  This crosswalk maps the cell type annotations from pan-human Azimuth to the latest revision of Cell Ontology Version
+  This crosswalk maps the cell type annotations from Pan-human Azimuth to the latest revision of Cell Ontology Version
   IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl 
 
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
@@ -34,11 +34,9 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM896.TKLN.495
-# doi: https://doi.org/10.48539/HBM896.TKLN.495
-# citation: >-
-# Puig-Barbe, Aleix.
-# 2025.	"Crosswalk of Pan-Human Azimuth Annotated Cells to Cell Ontology, v1.0."
-# https://doi.org/10.48539/HBM896.TKLN.495.	Accessed June 15, 2025.
+citation: >-
+  Puig-Barbe, Aleix.
+  2025.	"Crosswalk of Pan-Human Azimuth Annotated Cells to Cell Ontology, v1.0."
+  https://purl.humanatlas.io/ctann/pan-human-azimuth/v1.0.	Accessed June 15, 2025.
 datatable:
   - pan-human-azimuth-crosswalk.csv

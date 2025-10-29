@@ -1,6 +1,6 @@
 title: cell type annotations for FRMatch
 description: |-
-  This crosswalk maps the cell type annotations from FRMatch (TODO et al. 20XX) to the latest revision
+  This crosswalk maps the cell type annotations from FRMatch (Hu et al. 2025) to the latest revision
   of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl  More information on
   FRMatch is available at https://github.com/BeverlyPeng/frmatch.
 
@@ -9,7 +9,7 @@ description: |-
 
   **Bibliography:**
 
-  * TODO
+  * TODO: Cite Hu et al. 2025 - https://doi.org/10.1101/2025.04.10.648034
 creators:
   - fullName: Aleix Puig-Barbe
     firstName: Aleix
@@ -47,10 +47,10 @@ funders:
 # doi: https://doi.org/10.48539/HBM679.XXLW.422
 # citation: >-
 # Puig-Barbe, Aleix.
-# 2025.	"Crosswalk of Deepcelltypes-HuBMAP Annotated Cells to Cell Ontology, v1.0."
+# 2025.	"Crosswalk of FRMatch Annotated Cells to Cell Ontology, v1.0."
 # https://doi.org/10.48539/HBM679.XXLW.422.	Accessed June 15, 2025.
 citationOverall: >-
 datatable:
-  - deepcelltypes-hubmap-crosswalk.csv
+  - frmatch-crosswalk.csv
 references:
-  - https://doi.org/10.1101/2024.11.02.621624
+  - https://doi.org/10.1101/2025.04.10.648034
