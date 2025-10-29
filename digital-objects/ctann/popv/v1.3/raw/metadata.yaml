@@ -1,7 +1,7 @@
 title: cell type annotations for popular Vote (popV)
 description: |-
   This crosswalk maps the cell type annotations from popular Vote, or popV (Ergen et al. 2024), to the latest revision
-  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl. More information on popV
+  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl. More information on popV
   is available at https://github.com/YosefLab/popV.                                        
                                   
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are

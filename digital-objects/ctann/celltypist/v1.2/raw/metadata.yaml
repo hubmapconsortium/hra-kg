@@ -1,7 +1,7 @@
 title: cell type annotations for CellTypist
 description: |-
   This crosswalk maps the cell type annotations from CellTypist (Xu et al. 2023; Domínguez Conde et al. 2022) to the
-  Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl. More information on
+  Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl. More information on
   CellTypist is available at https://www.celltypist.org/.
 
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are

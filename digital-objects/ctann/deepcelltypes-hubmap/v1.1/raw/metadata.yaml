@@ -1,7 +1,7 @@
 title: cell type annotations for deepcelltypes-HuBMAP
 description: |-
   This crosswalk maps the cell type annotations from deepcelltypes-HuBMAP-v1.0 (Wang et al. 2024) to the latest revision
-  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl  More information on
+  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl  More information on
   deepcelltypes-HuBMAP-v1.0 is available at https://github.com/hubmapconsortium/deepcelltypes-hubmap.
 
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are

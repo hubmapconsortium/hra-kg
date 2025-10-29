@@ -1,7 +1,7 @@
 title: cell type annotations for FRMatch
 description: |-
   This crosswalk maps the cell type annotations from FRMatch (Hu et al. 2025) to the latest revision
-  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl  More information on
+  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl  More information on
   FRMatch is available at https://github.com/BeverlyPeng/frmatch.
 
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
@@ -9,7 +9,7 @@ description: |-
 
   **Bibliography:**
 
-  * TODO: Cite Hu et al. 2025 - https://doi.org/10.1101/2025.04.10.648034
+  * TODO: Hu et al. 2025 - https://doi.org/10.1101/2025.04.10.648034
 creators:
   - fullName: Aleix Puig-Barbe
     firstName: Aleix
