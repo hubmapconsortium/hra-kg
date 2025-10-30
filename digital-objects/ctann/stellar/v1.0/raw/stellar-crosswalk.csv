@@ -27,10 +27,10 @@ Intestine,UBERON:0000160,CD7-positive lymphoid progenitor cell,STELLAR:0000015,C
 Intestine,UBERON:0000160,natural killer cell,STELLAR:0000016,natural killer cell,CL:0000623,skos:exactMatch
 Intestine,UBERON:0000160,enterocyte,STELLAR:0000017,enterocyte,CL:0000584,skos:exactMatch
 Intestine,UBERON:0000160,goblet cell,STELLAR:0000018,goblet cell,CL:0000160,skos:exactMatch
-Intestine,UBERON:0000160,cycling TA,STELLAR:0000019,transit amplifying cell,CL:0009010,skos:narrowMatch
+Intestine,UBERON:0000160,cycling TA,STELLAR:0000019,transit amplifying cell:cycling,CL:0009010,skos:narrowMatch
 Intestine,UBERON:0000160,CD66+ Enterocyte,STELLAR:0000020,enterocyte:CD66+,CL:0000584,skos:narrowMatch
-Intestine,UBERON:0000160,TA,STELLAR:0000021,transit amplifying cell,CL:0009010,skos:narrowMatch
-Intestine,UBERON:0000160,MUC1+ Enterocyte,STELLAR:0000022,enterocyte,CL:0000584,skos:narrowMatch
+Intestine,UBERON:0000160,TA,STELLAR:0000021,transit amplifying cell,CL:0009010,skos:exactMatch
+Intestine,UBERON:0000160,MUC1+ Enterocyte,STELLAR:0000022,enterocyte:MUC1,CL:0000584,skos:narrowMatch
 Intestine,UBERON:0000160,paneth,STELLAR:0000023,paneth cell,CL:0000510,skos:exactMatch
 Intestine,UBERON:0000160,neuroendocrine,STELLAR:0000024,neuroendocrine cell,CL:0000165,skos:exactMatch
-Intestine,UBERON:0000160,CD57+ Enterocyte,STELLAR:0000025,enterocyte,CL:0000584,skos:narrowMatch
+Intestine,UBERON:0000160,CD57+ Enterocyte,STELLAR:0000025,enterocyte:CD57,CL:0000584,skos:narrowMatch
