@@ -66,7 +66,7 @@ lung,UBERON:0002048,Plasma cells,FR:0000054,plasma cell,CL:0000786,skos:exactMat
 lung,UBERON:0002048,Plasmacytoid DCs,FR:0000055,plasmacytoid dendritic cell,CL:0000784,skos:exactMatch
 lung,UBERON:0002048,pre-TB secretory,FR:0000056,epithelial cell of lower respiratory tract,CL:0002632,skos:narrowMatch
 lung,UBERON:0002048,SM activated stress response,FR:0000057,smooth muscle cell:activated stress response,CL:0000192,skos:narrowMatch
-lung,UBERON:0002048,SMG duct,FR:0000058,airway submucosal gland duct basal cell/airway submucosal gland duct ciliated cell,CL:4033024/CL:4033055,skos:broadMatch
+lung,UBERON:0002048,SMG duct,FR:0000058,duct epithelial cell,CL:0000068,skos:narrowMatch
 lung,UBERON:0002048,SMG mucous,FR:0000059,mucus secreting cell of bronchus submucosal gland,CL:4033022,skos:exactMatch
 lung,UBERON:0002048,SMG serous (bronchial),FR:0000060,tracheobronchial serous cell,CL:0019001,skos:exactMatch
 lung,UBERON:0002048,SMG serous (nasal),FR:0000061,serous secreting cell:nasal,CL:0000313,skos:narrowMatch
