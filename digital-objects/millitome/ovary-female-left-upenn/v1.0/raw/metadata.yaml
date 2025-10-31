@@ -28,7 +28,7 @@ reviewers:
   - fullName: Stephen Fisher
     firstName: Stephen
     lastName: Fisher
-    orcid:
+    orcid: 0000-0001-8034-7685
   - fullName: C. Erik Nordgren
     firstName: Erik
     lastName: Nordgren
@@ -36,13 +36,9 @@ reviewers:
   - fullName: Alison Pouch
     firstName: Alison
     lastName: Pouch
-    orcid:
-  - fullName: Ellen M. Quardokus
-    firstName: Ellen
-    lastName: Quardokus
-    orcid: 0000-0001-7655-4833
+    orcid: 0000-0001-8854-5301
 externalReviewers: []
-creation_date: "2025-09-10"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
