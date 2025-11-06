@@ -1,0 +1,59 @@
+title: 2D White Pulp Functional Tissue Unit (FTU) for Spleen
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the white pulp of spleen FTU in the ASCT+B Table [Spleen v1.3](https://doi.org/10.48539/HBM763.QFRB.477). Multiple histology atlases, especially *Human Microscopic Anatomy* (Krstić 1991) and *Netter’s Essential Histology* (Ovalle, Nahirney, and Netter 2021) were referenced. Primary references: *Human Spleen Microanatomy: Why Mice Do Not Suffice* (Steiniger 2015), *Structure and Function of the Spleen* (Mebius and Kraal 2005), and *Enhanced Histopathology of the spleen* (Elmore 2006). Uberon describes this FTU as follows: "The parenchymatous tissue of the spleen that surrounds splenic blood vessels, consists of compact masses of lymphatic cells and is where foreign material removed from the blood is used to initiate an immune reaction that results in the production of antibodies."
+
+  **Bibliography**:
+
+  * Elmore, Susan A. 2006. “Enhanced Histopathology of the Spleen.” *Toxicologic Pathology<e/m> 34 (5): 648–55. https://doi.org/10.1080/01926230600865523.
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Mebius, Reina E., and Georg Kraal. 2005. “Structure and Function of the Spleen.” *Nature Reviews Immunology* 5 (8): 606–16. https://doi.org/10.1038/nri1669.
+  * Ovalle, William K., Patrick C. Nahirney, and Frank H. Netter. 2021. Netter’s Essential Histology: With Correlated Histopathology. Third edition. Philadelphia, PA: *Elsevier*.
+  * Steiniger, Birte S. 2015. “Human Spleen Microanatomy: Why Mice Do Not Suffice.” *Immunology* 145 (3): 334–46. https://doi.org/10.1111/imm.12469.
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Maigan Brusko
+    firstName: Maigan
+    lastName: Brusko
+    orcid: 0000-0002-4331-2202
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM559.FNBB.627
+# doi: https://doi.org/10.48539/HBM559.FNBB.6273
+# citation: >-
+#   Bajema, Rachel. 2025. 2D White Pulp Functional Tissue Unit (FTU) for Spleen v1.3. https://doi.org/10.48539/v. Accessed
+#   on December 15, 2025.
+citationOverall: >-
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed December 15, 2025.
+datatable:
+  - 2d-ftu-spleen-white-pulp.svg
+  - 2d-ftu-spleen-white-pulp.png
+  - 2d-ftu-spleen-white-pulp.ai
+  - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM763.QFRB.477
+  - https://doi.org/10.1080/01926230600865523
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.1038/nri1669
+  - https://doi.org/10.1111/imm.12469
