@@ -1,0 +1,82 @@
+title: >-
+  OMAP-33: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Ovary with CODEX
+description: |-
+  OMAP-33 was designed for imaging of formalin-fixed, paraffin-embedded (FFPE) human ovary samples by CO-Detection by indEXing (CODEX) (https://doi.org/10.1038/s41596-021-00556-8). Containing 43 antibodies and the nuclear marker DAPI, this OMAP provides spatial context for 37 anatomical structures and 11 cell types defined in the ASCT+B Ovary v1.3 (https://doi.org/10.48539/HBM792.LCDV.873). It also facilitates identification of basement-membrane and extracellular matrix components. Marker selection was guided by single-cell and single-nucleus RNA-seq datasets as well as expert review. OMAP-33 is one of the first OMAPs for the human female reproductive system but targets cell types shared across other organs (e.g., endothelial, smooth muscle, stromal, resident immune) and shares many antibody clones with other FFPE CODEX OMAPs: OMAP-16 (lung) (https://doi.org/10.48539/HBM397.PHBH.975), OMAP-31 (fallopian tube), and OMAP-32 (uterus). Although this OMAP contains antibodies to proteins that localize to a subset of granulosa cells, it lacks a canonical marker expressed across all granulosa cells at every follicular stage. Antibodies recognizing canonical oocyte and granulosa cell markers (DDX4, FOXL2) failed quality assessment post-conjugation. OMAP-33 is appropriate for prepubertal, adolescent, reproductive-age, perimenopausal, and menopausal samples. It can also be applied to studies examining metabolic or therapeutic insults, such as chemotherapy in the context of oncofertility. Panel design and validation were performed on the PhenoCycler Fusion system (Akoya Biosciences). Antibodies targeting AIF1, COL1A1, DCN, EMILIN1, FN1, HMGB1, and LUM were conjugated by Leinco Technologies, Inc., and antibodies targeting CLDN5, COL6A1, DPP4, GSTA1, OGN, PDGFRB, PGR, STAR, UCHL1, VWF, and YAP1 were conjugated in-house using custom conjugation kits (Akoya Biosciences). Antigen retrieval was conducted using AR9 buffer (Akoya Biosciences).  A representative dataset for OMAP-33 is uploaded at https://doi.org/10.5281/zenodo.17509480  
+creators:
+  - fullName: Elizabeth Tsui
+    firstName: Elizabeth
+    lastName: Tsui
+    orcid: 0000-0003-4503-8494
+  - fullName: Hannah McDowell
+    firstName: Hannah
+    lastName: McDowell
+    orcid: 0000-0002-6641-0753
+  - fullName: Alexander Cabrera
+    firstName: Alexander
+    lastName: Cabrera
+    orcid: 0009-0007-0189-026X
+  - fullName: Diane Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+  - fullName: Kathleen O’Neill
+    firstName: Kathleen
+    lastName: O’Neill
+    orcid: 0000-0003-1980-6840
+  - fullName: Monica Laronda
+    firstName: Monica
+    lastName: Laronda
+    orcid: 0000-0001-7840-4695
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+# hubmapId: HBM564.VPJV.699
+# doi: https://doi.org/10.48539/HBM564.VPJV.699
+# citation: >-
+#   Elizabeth Tsui, Hannah McDowell, Alexander Cabrera, Diane Saunders, Kathleen O'Neill, 
+#   Monica Laronda. OMAP-33: Organ Mapping Antibody Panel (OMAP) for Multiplexed 	
+#   Antibody-Based Imaging of Human Ovary with CODEX, v.1.0 <insert new DOI> Accessed December 15, 2025.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari 	
+  P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin 
+  AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, 	
+  Ginty F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, 
+  Stockwell BR,Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, 	
+  Radtke AJ. Organ Mapping Antibody Panels: a community resource for standardized 	
+  multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
+  https://doi.org/10.1038/s41592-023-01846-7. Accessed December 15, 2025.
+datatable:
+  - omap-33-ovary-CODEX.csv
+  - omap-33-ovary-CODEX.xlsx
+references:
+  - https://doi.org/10.1038/s41596-021-00556-8
+  - https://doi.org/10.48539/HBM792.LCDV.873
+  - https://doi.org/10.5281/zenodo.17509480
+  - https://doi.org/10.48539/HBM397.PHBH.975
