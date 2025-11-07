@@ -38,7 +38,11 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-externalReviewers: []
+externalReviewers:
+  - fullName: Diego Balboa
+    firstName: Diego
+    lastName: Balboa
+    orcid: 0000-0002-4784-5452
 creation_date: "2022-05-06"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

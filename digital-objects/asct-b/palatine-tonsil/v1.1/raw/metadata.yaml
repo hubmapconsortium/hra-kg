@@ -29,15 +29,7 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-externalReviewers:
-  - fullName: Hamish King
-    firstName: Hamish
-    lastName: King
-    orcid: 0000-0001-5972-8926
-  - fullName: Kristen Wells
-    firstName: Kristen
-    lastName: Wells
-    orcid: 0000-0002-7466-8164
+externalReviewers: []
 creation_date: "2024-06-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

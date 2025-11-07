@@ -25,7 +25,11 @@ reviewers:
     firstName: Joshua
     lastName: Fortriede
     orcid: 0000-0002-3293-5463
-externalReviewers: []
+externalReviewers:
+  - fullName: Patty J Lee
+    firstName: Patty
+    lastName: Lee
+    orcid: 0000-0001-9906-1628
 creation_date: "2021-05-06"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

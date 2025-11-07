@@ -46,7 +46,15 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-externalReviewers: []
+externalReviewers:
+  - fullName: Shovik Bandyopadhyay
+    firstName: Shovik
+    lastName: Bandyopadhyay
+    orcid: 0000-0003-3919-3914
+  - fullName: Patricia Favaro
+    firstName: Patricia
+    lastName: Favaro
+    orcid: 0000-0002-3764-9538
 creation_date: "2021-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

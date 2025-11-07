@@ -23,11 +23,7 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-externalReviewers:
-  - fullName: Kate Lawrenson
-    firstName: Kate
-    lastName: Lawrenson
-    orcid: 0000-0002-6469-2515
+externalReviewers: []
 creation_date: "2023-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
