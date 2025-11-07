@@ -1,7 +1,7 @@
 title: cell type annotations for Robust Image-Based Cell Annotator (RIBCA)
 description: |-
   This crosswalk maps the cell type annotations from Robust Image-Based Cell Annotator (RIBCA) (Sun et al., 2024) to the
-  latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl
+  latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl
 
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
   available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data.
@@ -28,8 +28,12 @@ reviewers:
     firstName: Katy
     lastName: Börner
     orcid: 0000-0002-3321-6137
+  - fullName: Jie Zheng
+    firstName: Jie
+    lastName: Zheng
+    orcid: 0000-0002-2999-0103
 externalReviewers: []
-creation_date: "2025-06-15"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP

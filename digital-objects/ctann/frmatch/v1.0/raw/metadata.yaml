@@ -1,0 +1,56 @@
+title: cell type annotations for FRMatch
+description: |-
+  This crosswalk maps the cell type annotations from FRMatch (Hu et al. 2025) to the latest revision
+  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl  More information on
+  FRMatch is available at https://github.com/BeverlyPeng/frmatch.
+
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
+  available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data.
+
+  **Bibliography:**
+
+  * Hu, Joyce, Beverly Peng, Ajith V. Pankajam, et al. 2025. “Benchmarking Single Cell Transcriptome Matching Methods for Incremental Growth of Reference Atlases.” Preprint, bioRxiv, April 16. https://doi.org/10.1101/2025.04.10.648034.
+creators:
+  - fullName: Aleix Puig-Barbe
+    firstName: Aleix
+    lastName: Puig-Barbe
+    orcid: 0000-0001-6677-8489
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Jie Zheng
+    firstName: Jie
+    lastName: Zheng
+    orcid: 0000-0002-2999-0103
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM679.XXLW.422
+# doi: https://doi.org/10.48539/HBM679.XXLW.422
+# citation: >-
+# Puig-Barbe, Aleix.
+# 2025.	"Crosswalk of FRMatch Annotated Cells to Cell Ontology, v1.0."
+# https://doi.org/10.48539/HBM679.XXLW.422.	Accessed June 15, 2025.
+citationOverall: >-
+datatable:
+  - frmatch-crosswalk.csv
+references:
+  - https://doi.org/10.1101/2025.04.10.648034
