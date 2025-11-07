@@ -30,11 +30,7 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-externalReviewers:
-  - fullName: Nathaniel Dyment
-    firstName: Nathaniel
-    lastName: Dyment
-    orcid: 0000-0001-8708-112X
+externalReviewers: []
 creation_date: "2023-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

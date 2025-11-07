@@ -43,11 +43,7 @@ reviewers:
     firstName: Supriya
     lastName: Bidanta
     orcid: 0000-0002-2142-983X
-externalReviewers:
-  - fullName: Katherine S. Garman
-    firstName: Katherine
-    lastName: Garman
-    orcid: 0000-0001-7763-8465
+externalReviewers: []
 creation_date: "2025-06-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

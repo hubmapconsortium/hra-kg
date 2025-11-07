@@ -34,11 +34,7 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-externalReviewers:
-  - fullName: Liming Pei
-    firstName: Liming
-    lastName: Pei
-    orcid: 0000-0002-1924-0333
+externalReviewers: []
 creation_date: "2022-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
