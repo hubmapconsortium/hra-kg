@@ -25,12 +25,20 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 reviewers:
-  - fullName: Ellen M. Quardokus
-    firstName: Ellen
-    lastName: Quardokus
-    orcid: 0000-0001-7655-4833
+  - fullName: Martha Campbell-Thompson
+    firstName: Martha
+    lastName: Campbell-Thompson
+    orcid: 0000-0001-6878-1235
+  - fullName: James Carson
+    firstName: James
+    lastName: Carson
+    orcid: 0000-0001-9009-5645
+  - fullName: Jing Chen
+    firstName: Jing
+    lastName: Chen
+    orcid: 0000-0001-8008-8062
 externalReviewers: []
-creation_date: "2025-10-20"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP

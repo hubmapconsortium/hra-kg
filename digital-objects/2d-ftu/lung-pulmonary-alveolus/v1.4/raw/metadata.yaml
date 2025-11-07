@@ -1,0 +1,56 @@
+title: 2D Pulmonary Alveolus Functional Tissue Unit (FTU) for Lung
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the alveolus FTU in the ASCT+B Table [Lung v1.2](https://doi.org/10.48539/HBM396.QVLQ.449). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology* (Ovalle and Nahirney 2021), *Junqueira’s Basic Histology Text & Atlas* (Mescher 2021), *Human Microscopic Anatomy* (Krstić 1994), and *Histology: A Text and Atlas* (Wojciech Pawlina and Michael H. Ross 2019) were referenced. Especially helpful in determining the structure of the fibroblast cell types was figure 2 in (Rodríguez-Castillo et al. 2018; Ochs et al. 2004). Uberon describes this FTU as follows: "Spherical outcropping of the respiratory bronchioles and primary site of gas exchange with the blood. Alveoli are particular to mammalian lungs. Different structures are involved in gas exchange in other vertebrates."
+
+  **Bibliography**:
+
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Mescher, Anthony L. 2024. Junqueira’s Basic Histology: Text and Atlas. Seventeenth edition. McGraw Hill Lange. New York, NY: *McGraw Hill*.
+  * Ochs, Matthias, Jens R. Nyengaard, Anja Jung, Lars Knudsen, Marion Voigt, Thorsten Wahlers, Joachim Richter, and Hans Jørgen G. Gundersen. 2004. “The Number of Alveoli in the Human Lung.” *American Journal of Respiratory and Critical Care Medicine* 169 (1): 120–24. https://doi.org/10.1164/rccm.200308-1107OC.
+  * Ovalle, William K., Patrick C. Nahirney, and Frank H. Netter. 2021. Netter’s Essential Histology: With Correlated Histopathology. Third edition. Philadelphia, PA: *Elsevier*.
+  * Rodríguez-Castillo, José Alberto, David Bravo Pérez, Aglaia Ntokou, Werner Seeger, Rory E. Morty, and Katrin Ahlbrecht. 2018. “Understanding Alveolarization to Induce Lung Regeneration.” *Respiratory Research* 19 (1): 148. https://doi.org/10.1186/s12931-018-0837-5.
+  * Wojciech Pawlina and Michael H. Ross. 2019. “Histology: A Text and Atlas: With Correlated Cell and Molecular Biology. Eighth Edition, 2018 Authors: Wojciech Pawlina; Michael H. Ross.” *Morphologia* 13 (4): 76–89. https://doi.org/10.26641/1997-9665.2019.4.76-89.
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Gloria Pryhuber
+    firstName: Gloria
+    lastName: Pryhuber
+    orcid: 0000-0002-9185-3994
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM558.BZLS.992
+# doi: https://doi.org/10.48539/HBM558.BZLS.992
+# citation: >-
+#   Bajema, Rachel. 2025. *2D Pulmonary Alveolus Functional Tissue Unit (FTU) for Lung, v1.4*.
+#   https://doi.org/10.48539/HBM558.BZLS.992. Accessed on December 15, 2025.
+citationOverall: >-
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.
+datatable:
+  - 2d-ftu-lung-pulmonary-alveolus.svg
+  - 2d-ftu-lung-pulmonary-alveolus.png
+  - 2d-ftu-lung-pulmonary-alveolus.ai
+  - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM396.QVLQ.449
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.1186/s12931-018-0837-5
+  - https://doi.org/10.26641/1997-9665.2019.4.76-89
+  - https://doi.org/10.1164/rccm.200308-1107OC

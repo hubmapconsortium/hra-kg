@@ -1,0 +1,65 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Heart
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested heart structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell
+  types. The tables are authored and reviewed by an international team of experts. The Heart ASCT+B table includes
+  detailed anatomical structures such as the atria, ventricles, valves, and associated vasculature, along with
+  associated cell types like cardiomyocytes, endothelial cells, and fibroblasts. This comprehensive mapping supports
+  research into cardiovascular biology and related medical conditions.
+creators:
+  - fullName: Shin Lin
+    firstName: Shin
+    lastName: Lin
+    orcid: 0000-0003-0118-0413
+  - fullName: Marc Halushka
+    firstName: Marc
+    lastName: Halushka
+    orcid: 0000-0002-7112-7389
+  - fullName: Avinash Boppana
+    firstName: Avinash
+    lastName: Boppana
+    orcid: 0000-0003-0834-8274
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Kalyanam Shivkumar
+    firstName: Kalyanam
+    lastName: Shivkumar
+    orcid: 0000-0002-4121-1766
+  - fullName: Peter Hanna
+    firstName: Peter
+    lastName: Hanna
+    orcid: 0000-0003-3092-5090
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers:
+  - fullName: Peiran Lu
+    firstName: Peiran
+    lastName: Lu
+    orcid: 0009-0001-5096-3046
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM535.BJVS.924
+# doi: https://doi.org/10.48539/HBM535.BJVS.924
+# citation: >-
+#   Lin, Shin,	Marc Halushka,	and Avinash Boppana.
+#   2025.	"HuBMAP ASCT+B Tables. Heart v1.6."
+#   https://doi.org/10.48539/HBM535.BJVS.924.	Accessed December 15, 2025.
+citationOverall: >-
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2025.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
+datatable:
+  - asct-b-vh-heart.csv

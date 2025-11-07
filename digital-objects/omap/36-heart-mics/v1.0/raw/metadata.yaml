@@ -1,0 +1,79 @@
+title: >-
+  OMAP-36: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Heart with MICS
+description: |-
+  OMAP-36 was developed for use with MACSima Imaging Cyclic Staining (MICS) technology, optimized for paraformaldehyde (PFA)-fixed human heart tissue. The MACSima platform (Kinkhabwala et al., 2022, https://www.nature.com/articles/s41598-022-05841-4) enables highly multiplexed imaging through iterative cycles of immunolabeling and photobleaching using FITC-, PE-, and APC-conjugated antibodies. This panel comprises 19 antibodies and the nuclear stain DAPI, which supports image registration and segmentation. It resolves five anatomical structures and nine major cardiac cell types, including endothelial, endocardial, and smooth-muscle cells, cardiomyocytes, telocytes, neurons, and immune subsets such as dendritic cells and macrophages. Most antibodies in OMAP-36 are recombinant Fc-null human IgG1 derivatives, minimizing non-specific binding and improving reproducibility without additional blocking steps. The panel defines over 60% of cardiac cell types represented in the ASCT+B Heart Table v1.5 (https://doi.org/10.48539/HBM535.BJVS.924), ensuring anatomical consistency and cross-organ comparability. OMAP-36 shares 30% target overlap with OMAP-28 (https://doi.org/10.48539/HBM564.VPJV.699), maintaining compatibility across imaging platforms. A subset of core markers (CD45, CD31, PLP1, NPPA, and MYL7) forms the foundation for mapping immune, vascular, neural, and cardiomyocyte compartments, enabling spatial profiling of the human atrium in health and disease. All reagents were sourced from Miltenyi Biotec and validated through internal quality controls. No cycle-order constraints were observed with MICS reagents. Image analysis was performed using MACSIQ View software as described in Kinkhabwala et al. (2022). Certain specialized or rare cardiac populations, including conduction-system cells, lymphatic endothelium, adaptive lymphocytes, and autonomic neurons, were not represented due to panel design constraints. Applications of OMAP-36 include investigating cardiac disease mechanisms, vascular heterogeneity, and immune infiltration.
+
+  **Bibliography:**
+
+  * Kinkhabwala, Ali, Christoph Herbel, Jennifer Pankratz, Dmytro A. Yushchenko, Silvia Rüberg, Paurush Praveen, Sandy Reiß, et al. 2022. “MACSima Imaging Cyclic Staining (MICS) Technology Reveals Combinatorial Target Pairs for CAR T Cell Treatment of Solid Tumors.” Scientific Reports 12 (1): 1911. https://doi.org/10.1038/s41598-022-05841-4
+  * Neil, Emily, Dongju Park, Rebecca C. Hennessey, Eric C. DiBiasio, Michael DiBuono, Hanna Lafayette, Erica Lloyd, et al. 2023. “Spatial Protein and RNA Analysis on the Same Tissue Section Using MICS Technology.” bioRxiv. https://doi.org/10.1101/2023.10.27.564191 
+  * Shin Lin, Marc Halushka, Avinash Boppana.HuBMAP ASCT+B Tables. Heart v1.5 https://doi.org/10.48539/HBM535.BJVS.924
+  * Kyung Jin Ahn, Kai Tani. OMAP-28: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Heart with CODEX, v1.0, https://doi.org/10.48539/HBM564.VPJV.699
+creators:
+  - fullName: Christoph Herbel
+    firstName: Christoph
+    lastName: Herbel
+    orcid: 0000-0002-1933-3070
+  - fullName: Salpy Baghdo
+    firstName: Salpy
+    lastName: Baghdo
+    orcid: 0009-0003-2875-0567
+  - fullName: Julia Femel
+    firstName: Julia
+    lastName: Femel
+    orcid: 0000-0002-0254-316X
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+# hubmapId: HBM564.VPJV.699
+# doi: https://doi.org/10.48539/HBM564.VPJV.699
+# citation: >-
+#   Christoph Herbel, Salpy Baghdo, Julia Femel. OMAP-36: Organ Mapping Antibody Panel 
+#   (OMAP) for Multiplexed Antibody-Based Imaging of Human Heart with MICS, v.1.0 <insert new 
+#   DOI> Accessed December 15, 2025.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari 	
+  P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin 
+  AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, 	
+  Ginty F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, 
+  Stockwell BR,Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, 	
+  Radtke AJ. Organ Mapping Antibody Panels: a community resource for standardized 	
+  multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
+  https://doi.org/10.1038/s41592-023-01846-7. Accessed December 15, 2025.
+datatable:
+  - omap-36-heart-MICS.csv
+  - omap-36-heart-MICS.xlsx
+references:
+  - https://doi.org/10.48539/HBM535.BJVS.924
+  - https://doi.org/10.48539/HBM564.VPJV.699

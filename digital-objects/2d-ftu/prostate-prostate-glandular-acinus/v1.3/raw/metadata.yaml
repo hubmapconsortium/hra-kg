@@ -1,0 +1,53 @@
+title: 2D Prostate Glandular Acinus FTU for Prostate
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the prostate glandular acinus FTU in the ASCT+B Table [Prostate v1.1](https://doi.org/10.48539/HBM542.LMZF.884). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology* (Ovalle, Nahirney, and Netter 2021) and *Histology: A Text and Atlas* (Wojciech Pawlina and Michael H. Ross 2019) were referenced. Cell types and measurements were referenced from Henry et al. 2018 and Fullwood et al. 2019. Uberon describes this FTU as follows: "A saclike structure of the prostate gland, comprised of at least three cell layers: an innermost layer of secretory columnar luminal epithelium, a middle layer of squamous basal epithelium that also contains neuroendocrine cells, transit amplifying cells, and stem cells, and an outer layer of smooth muscle intermixed with other stromal cells." 
+
+  **Bibliography**:
+
+  * Fullwood, Nigel J., Alan J. Lawlor, Pierre L. Martin-Hirsch, Shyam S. Matanhelia, and Francis L. Martin. 2019. “An Analysis of Benign Human Prostate Offers Insights into the Mechanism of Apocrine Secretion and the Origin of Prostasomes.” *Scientific Reports* 9 (1): 4582. https://doi.org/10.1038/s41598-019-40820-2.
+  * Henry, Gervaise H., Alicia Malewska, Diya B. Joseph, Venkat S. Malladi, Jeon Lee, Jose Torrealba, Ryan J. Mauck, et al. 2018. “A Cellular Anatomy of the Normal Adult Human Prostate and Prostatic Urethra.” *Cell Reports* 25 (12): 3530-3542.e5. https://doi.org/10.1016/j.celrep.2018.11.086.
+  * Ovalle, William K., Patrick C. Nahirney, and Frank H. Netter. 2021. Netter’s Essential Histology: With Correlated Histopathology. Third edition. Philadelphia, PA: *Elsevier*.
+  * Wojciech Pawlina and Michael H. Ross. 2019. “Histology: A Text and Atlas: With Correlated Cell and Molecular Biology. Eighth Edition, 2018 Authors: Wojciech Pawlina; Michael H. Ross.” *Morphologia* 13 (4): 76–89. https://doi.org/10.26641/1997-9665.2019.4.76-89.
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Douglas Strand
+    firstName: Douglas
+    lastName: Strand
+    orcid: 0000-0002-0746-927X
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM347.TXWZ.899
+# doi: https://doi.org/10.48539/HBM347.TXWZ.899
+# citation: >-
+#   Bajema, Rachel. 2025. 2D Prostate Glandular Acinus FTU for Prostate, v1.3. https://doi.org/10.48539/HBM347.TXWZ.899.
+#   Accessed on December 15, 2025.
+citationOverall: >-
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations  Accessed on December 15, 2025.
+datatable:
+  - 2d-ftu-prostate-prostate-glandular-acinus.svg
+  - 2d-ftu-prostate-prostate-glandular-acinus.png
+  - 2d-ftu-prostate-prostate-glandular-acinus.ai
+  - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM542.LMZF.884
+  - https://doi.org/10.26641/1997-9665.2019.4.76-89
+  - https://doi.org/10.1016/j.celrep.2018.11.086
+  - https://doi.org/10.1038/s41598-019-40820-2

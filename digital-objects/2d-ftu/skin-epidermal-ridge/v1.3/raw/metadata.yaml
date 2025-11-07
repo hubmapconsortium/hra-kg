@@ -1,0 +1,56 @@
+title: 2D Epidermal Ridge FTU for Skin
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the epidermis in the ASCT+B Table [Skin v1.4](https://doi.org/10.48539/HBM474.TDSP.668). Cell types and measurements were referenced from Aleemardani et al. 2021; Roig-Rosello and Rousselle 2020 and Lundström et al. 2018. Uberon describes this FTU as follows: "The grooves in the outermost layer of skin on the palms of the hands and soles of the feet where sweat glands open." 
+
+  **Bibliography**:
+
+  * Aleemardani, Mina, Michael Zivojin Trikić, Nicola Helen Green, and Frederik Claeyssens. 2021. “The Importance of Mimicking Dermal-Epidermal Junction for Skin Tissue Engineering: A Review.” *Bioengineering* 8 (11): 148. https://doi.org/10.3390/bioengineering8110148.
+  * Lundström, Ronnie, Håkan Dahlqvist, Mats Hagberg, and Tohr Nilsson. 2018. “Vibrotactile and Thermal Perception and Its Relation to Finger Skin Thickness.” *Clinical Neurophysiology Practice* 3:33–39. https://doi.org/10.1016/j.cnp.2018.01.001.
+  * Roig-Rosello, Eva, and Patricia Rousselle. 2020. “The Human Epidermal Basement Membrane: A Shaped and Cell Instructive Platform That Aging Slowly Alters.” *Biomolecules* 10 (12): 1607. https://doi.org/10.3390/biom10121607.
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Fiona Ginty
+    firstName: Fiona
+    lastName: Ginty
+    orcid: 0000-0001-6638-683X
+  - fullName: Arivarasan Karunamurthy
+    firstName: Arivarasan
+    lastName: Karunamurthy
+    orcid: 0000-0002-5739-4923
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM642.BMZS.772
+# doi: https://doi.org/10.48539/HBM642.BMZS.772
+# citation: >-
+#   Bajema, Rachel. 2025. 2D Reference Epidermal Ridge FTU for Skin, v1.3. https://doi.org/10.48539/HBM642.BMZS.772.
+#   Accessed on December 15, 2025.
+citationOverall: >-
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
+  Object Library. https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.
+datatable:
+  - 2d-ftu-skin-epidermal-ridge.svg
+  - 2d-ftu-skin-epidermal-ridge.png
+  - 2d-ftu-skin-epidermal-ridge.ai
+  - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM474.TDSP.668
+  - https://doi.org/10.3390/biom10121607
+  - https://doi.org/10.1016/j.cnp.2018.01.001
+  - https://doi.org/10.3390/bioengineering8110148

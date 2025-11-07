@@ -1,0 +1,81 @@
+title: >-
+  OMAP-37: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Liver with MICS
+description: |-
+  OMAP-37 was developed for use with MACSima Imaging Cyclic Staining (MICS) technology, optimized for paraformaldehyde (PFA)-fixed human liver specimens. The MACSima platform, detailed in Kinkhabwala et al., 2022 (DOI: 10.1016/j.cell.2022.03.037) and further expanded upon in Casals et al., 2023 (bioRxiv preprint), enables highly multiplexed imaging through iterative cycles of immunolabeling and photobleaching using FITC-, PE-, and APC-conjugated antibodies.This panel comprises 40 antibodies alongside the nuclear stain DAPI, which supports image registration and nuclear segmentation. It enables spatial identification of 10 anatomical structures and 24 distinct cell types, including key hepatic populations such as endothelial cells, hepatocytes, hepatic stellate cells, biliary epithelial cells, and immune subsets (T cells, B cells, NK cells, Kupffer cells). All antibodies are recombinant and engineered with a modified human IgG1 constant region that lacks Fc-receptor binding capacity. This design minimizes nonspecific interactions with tissue and removes the need for additional blocking steps, ensuring consistent signal quality and reproducibility. The panel resolves liver zonation, including periportal and pericentral regions, and covers > 90% of cell types listed in the ASCT+B liver reference table (v1.4) (https://apps.humanatlas.io/kg-explorer/asct-b/liver/v1.4). OMAP-37 builds upon OMAP-5 (Liver SIMS, v1.4) (https://doi.org/10.48539/HBM552.VJGW.787), which primarily profiles metabolic zonation and hepatocyte function. While both panels share approximately 65% of targets (13 markers in common), OMAP-37 extends cellular resolution through additional immune, stromal, and vascular markers, enabling detailed analysis of inflammation, fibrosis, and tissue remodeling not captured by OMAP-5. All reagents were sourced from Miltenyi Biotec and validated through internal quality-control protocols to ensure minimal lot-to-lot variability. Image analysis was performed using MACSIQ View Analysis software, as described in the MACSima publication.
+
+  **Bibliography:**
+
+  * Kinkhabwala, Ali, Christoph Herbel, Jennifer Pankratz, Dmytro A. Yushchenko, Silvia Rüberg, Paurush Praveen, Sandy Reiß, et al. 2022. “MACSima Imaging Cyclic Staining (MICS) Technology Reveals Combinatorial Target Pairs for CAR T Cell Treatment of Solid Tumors.” Scientific Reports 12 (1): 1911. https://doi.org/10.1038/s41598-022-05841-4
+  * Neil, Emily, Dongju Park, Rebecca C. Hennessey, Eric C. DiBiasio, Michael DiBuono, Hanna Lafayette, Erica Lloyd, et al. 2023. “Spatial Protein and RNA Analysis on the Same Tissue Section Using MICS Technology.” bioRxiv. https://doi.org/10.1101/2023.10.27.564191
+  * Anna Maria Masci; Tim Kendall; Ayako Suzuki, HuBMAP ASCT+B Tables. Liver v1.4 https://apps.humanatlas.io/kg-explorer/asct-b/liver/v1.4
+  * Hua Tian, Presha Rajbhandari. OMAP-5 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Liver with SIMS, v1.2, https://doi.org/10.48539/HBM749.LTHX.952.
+  * Müller, Werner, Silvia Rüberg, and Andreas Bosio. 2023. “OMAP-10: Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.0.” https://doi.org/10.48539/HBM925.JGND.963
+creators:
+  - fullName: Christoph Herbel
+    firstName: Christoph
+    lastName: Herbel
+    orcid: 0000-0002-1933-3070
+  - fullName: Salpy Baghdo
+    firstName: Salpy
+    lastName: Baghdo
+    orcid: 0009-0003-2875-0567
+  - fullName: Julia Femel
+    firstName: Julia
+    lastName: Femel
+    orcid: 0000-0002-0254-316X
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+# hubmapId: HBM564.VPJV.699
+# doi: https://doi.org/10.48539/HBM564.VPJV.699
+# citation: >-
+#   Christoph Herbel, Salpy Baghdo, Julia Femel. OMAP-37: Organ Mapping Antibody Panel 
+#   (OMAP) for Multiplexed Antibody-Based Imaging of Human Liver with MICS, v.1.0 <insert new	
+#   DOI> Accessed December 15, 2025.
+
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari 	
+  P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin 
+  AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, 	
+  Ginty F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, 
+  Stockwell BR,Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, 	
+  Radtke AJ. Organ Mapping Antibody Panels: a community resource for standardized 	
+  multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
+  https://doi.org/10.1038/s41592-023-01846-7. Accessed December 15, 2025.
+datatable:
+  - omap-37-liver-MICS.csv
+  - omap-37-liver-MICS.xlsx
+references:
+  - https://doi.org/10.1016/j.cell.2022.03.037
+  - https://doi.org/10.48539/HBM552.VJGW.787
