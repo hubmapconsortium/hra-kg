@@ -105,7 +105,7 @@ brachial artery,UBERON:0001398,supplies,brachialis muscle,UBERON:0001506,999,mus
 brachial artery,UBERON:0001398,supplies,coracobrachialis muscle,UBERON:0001505,999,muscular system,UBERON:0000383,,,,,
 brachial artery,UBERON:0001398,supplies,long head of biceps brachii muscle,FMA:37683,999,muscular system,UBERON:0000383,,,,,
 brachial artery,UBERON:0001398,supplies,short head of biceps brachii muscle,FMA:37682,999,muscular system,UBERON:0000383,,,,,
-branch of deep cutaneous plexus,,directly_supplies_and_drains,dermal papilla,UBERON:0000412,999,skin of body,UBERON:0002097,hair papilla,dermal papilla,UBERON:0000412,,
+branch of deep cutaneous plexus,,directly_supplies_and_drains,dermal papilla,UBERON:0000412,999,skin of body,UBERON:0002097,hair follicle,hair follicle,UBERON:0002073,,
 branch of mucous plexus of colon,,directly_supplies_and_drains,crypt of Lieberkuhn of colon,UBERON:0013485,999,large intestine,UBERON:0000059,crypt of Lieberkuhn,crypt of Lieberkuhn,UBERON:0001983,,
 branch of mucous plexus of small intestine,,directly_supplies_and_drains,intestinal villus,UBERON:0001213,1,small intestine,UBERON:0002108,intestinal villus,intestinal villus,UBERON:0001213,,
 branch of subpapillary plexus,,directly_supplies_and_drains,dermal papilla,UBERON:0000412,999,skin of body,UBERON:0002097,dermal papilla,dermal papilla,UBERON:0000412,,
@@ -219,7 +219,7 @@ hypophyseal vein,UBERON:8600090,drains,anterior pituitary,UBERON:0002196,999,pit
 hypophyseal vein,UBERON:8600090,drains,posterior pituitary,UBERON:0002198,999,pituitary gland,UBERON:0000007,,,,,
 inferior cerebellar vein,UBERON:0001670,drains,cerebellum,UBERON:0002037,999,brain,UBERON:0000955,,,,,
 inferior epigastric artery,UBERON:0001354,supplies,angiosome 34 - deep inferior epigastric,,999,angiosome,,,,,deep inferior epigastric,Angiosome:34
-inferior gingival plexus,,directly_supplies_and_drains,gingiva of lower jaw,UBERON:0011602,999,face,UBERON:0001456,,,,,
+inferior gingival plexus,,directly_supplies_and_drains,gingiva of lower jaw,UBERON:0011602,999,face,UBERON:0001456,gingival attachment,gingiva,UBERON:0001828,,
 inferior gluteal artery,FMA:18871,supplies,angiosome 20 - inferior gluteal,,999,angiosome,,,,,inferior gluteal,Angiosome:20
 inferior hypophyseal artery,UBERON:0035492,supplies,posterior pituitary,UBERON:0002198,999,pituitary gland,UBERON:0000007,,,,,
 inferior labial gland capillary,,directly_supplies_and_drains,infralabial gland,UBERON:0010050,999,face,UBERON:0001456,,,,,
@@ -609,7 +609,7 @@ superficial temporal artery,UBERON:0001614,supplies,angiosome 5 - superficial te
 superficial white pulp capillary of spleen,,directly_supplies_and_drains,marginal zone of spleen,UBERON:0001251,999,spleen,UBERON:0002106,,,,,
 superior cerebellar artery,UBERON:0001635,supplies,cerebellum,UBERON:0002037,999,brain,UBERON:0000955,,,,,
 superior cerebellar vein,UBERON:0001669,drains,cerebellum,UBERON:0002037,999,brain,UBERON:0000955,,,,,
-superior gingival plexus,,directly_supplies_and_drains,gingiva of upper jaw,UBERON:0011601,999,face,UBERON:0001456,,,,,
+superior gingival plexus,,directly_supplies_and_drains,gingiva of upper jaw,UBERON:0011601,999,face,UBERON:0001456,gingival attachment,gingiva,UBERON:0001828,,
 superior gluteal artery,UBERON:0001315,supplies,angiosome 19 - superior gluteal,,999,angiosome,,,,,superior gluteal,Angiosome:19
 superior hypophyseal artery,UBERON:0035404,supplies,hypothalamus,UBERON:0001898,999,brain,UBERON:0000955,,,,,
 superior labial gland capillary,,directly_supplies_and_drains,supralabial gland,UBERON:0010049,999,face,UBERON:0001456,,,,,
