@@ -36,7 +36,11 @@ reviewers:
     firstName: Jie
     lastName: Zheng
     orcid: 0000-0002-2999-0103
-externalReviewers: []
+externalReviewers:
+  - fullName: John Hickey
+    firstName: John
+    lastName: Hickey
+    orcid: 0000-0001-5675-3974
 creation_date: "2025-09-04"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

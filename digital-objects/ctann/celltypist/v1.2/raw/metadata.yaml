@@ -38,7 +38,11 @@ reviewers:
     firstName: Jie
     lastName: Zheng
     orcid: 0000-0002-2999-0103
-externalReviewers: []
+externalReviewers: 
+  - fullName: Chuan Xu
+    firstName: Chuan
+    lastName: Xu
+    orcid: 0000-0002-6265-999X
 creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
