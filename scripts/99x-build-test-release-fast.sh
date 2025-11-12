@@ -2,7 +2,7 @@
 source constants.sh
 set -ev
 
-export VERSION=v2.3
+export VERSION=v2.4
 export EXTRA_DOs=$(git diff --name-only main..develop | grep metadata.yaml | grep -v collection | grep -v draft | cut -d '/' -f 2,3,4 | sort | uniq)
 export COLLECTIONS="collection/ds-graphs/v2025 collection/hra/$VERSION collection/hra-api/$VERSION collection/hra-ols/$VERSION collection/hra-millitomes/$VERSION"
 export CLEAN="false"

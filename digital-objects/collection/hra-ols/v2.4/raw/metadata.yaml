@@ -1,0 +1,43 @@
+title: Human Reference Atlas OLS Collection
+description: |-
+  Collections group multiple Human Reference Atlas (HRA) Digital Objects (DOs) for use in specific applications. The
+  hra-ols collection is a subset that focuses solely on Anatomical Structures (AS), Cell Types (CTs), and Biomarkers
+  (Bs)—i.e., the asct-b DOs. It is used by the Ontology Lookup Service (OLS, https://www.ebi.ac.uk/ols4) for validation
+  purposes. The source files for this collection on the Linked Open Data (LOD) server are available on GitHub.
+
+  **Bibliography:**
+
+  * Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
+creators:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+ontologyRoot:
+  - ccf:AnatomicalStructure
+  - ccf:CellType
+  - ccf:Biomarker
+datatable:
+  - digital-objects.yaml
+references:
+  - https://doi.org/10.1101/2024.12.22.630006

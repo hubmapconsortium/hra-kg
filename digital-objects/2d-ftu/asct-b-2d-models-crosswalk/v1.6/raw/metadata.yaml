@@ -1,0 +1,54 @@
+title: >-
+  Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object
+  Library Crosswalk
+description: |-
+  This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B)
+  Table](https://humanatlas.io/asctb-tables) terms to anatomical structure and cell type terms used in the
+  [CCF-2D-reference-object-library](https://humanatlas.io/2d-ftu-illustrations).
+creators:
+  - fullName: Supriya Bidanta
+    firstName: Supriya
+    lastName: Bidanta
+    orcid: 0000-0002-2142-983X
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM475.RXGX.435
+doi: https://doi.org/10.48539/HBM475.RXGX.435
+citation: >-
+  Bidanta, Supriya. 2024. Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit
+  (FTU) Reference Object Library Crosswalk, v1.5. https://doi.org/10.48539/HBM475.RXGX.435. Accessed on June 15, 2025.
+citationOverall: >-
+  Bidanta, Supriya, Rachel Bajema, Ellen M. Quardokus, Bruce W. Herr II, and Katy Börner. 2024. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on June 15, 2025
+datatable:
+  - asct-b-2d-models-crosswalk.csv
