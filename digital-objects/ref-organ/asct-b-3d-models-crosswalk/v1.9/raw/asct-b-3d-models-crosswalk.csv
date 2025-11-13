@@ -1120,9 +1120,9 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFVertebrae,#VHFemaleOrgans,VH_F_cervical_vertebra_6,mammalian cervical vertebra 6,UBERON:0004615,http://purl.obolibrary.org/obo/UBERON_0004615,mesh,VH_F_Vertebrae
 #VHFVertebrae,#VHFemaleOrgans,VH_F_cervical_vertebra_7,mammalian cervical vertebra 7,UBERON:0004616,http://purl.obolibrary.org/obo/UBERON_0004616,mesh,VH_F_Vertebrae
 -,#VHFemaleOrgans,VH_F_subcutaneous_abdominal_adipose_tissue,subcutaneous abdominal adipose tissue,UBERON:0014455,http://purl.obolibrary.org/obo/UBERON_0014455,organizational,VH_F_Adipose
-#VHFAdipose,#VHFemaleOrgans,VH_F_subcutaneous_abdominal_adipose_tissue_LUQ_area,subcutaneous abdominal adipose tissue LUQ area,-,-,mesh,VH_F_Adipose
-#VHFAdipose,#VHFemaleOrgans,VH_F_subcutaneous_abdominal_adipose_tissue_RUQ_area,subcutaneous abdominal adipose tissue RUQ area,-,-,mesh,VH_F_Adipose
-#VHFAdipose,#VHFemaleOrgans,VH_F_subcutaneous_abdominal_adipose_tissue_umbilicus_area,subcutaneous abdominal adipose tissue umbilicus area,-,-,mesh,VH_F_Adipose
+#VHFAdipose,#VHFemaleOrgans,VH_F_subcutaneous_abdominal_adipose_tissue_LUQ_area,subcutaneous abdominal adipose tissue LUQ area,UBERON:0014455,http://purl.obolibrary.org/obo/UBERON_0014455,mesh,VH_F_Adipose
+#VHFAdipose,#VHFemaleOrgans,VH_F_subcutaneous_abdominal_adipose_tissue_RUQ_area,subcutaneous abdominal adipose tissue RUQ area,UBERON:0014455,http://purl.obolibrary.org/obo/UBERON_0014455,mesh,VH_F_Adipose
+#VHFAdipose,#VHFemaleOrgans,VH_F_subcutaneous_abdominal_adipose_tissue_umbilicus_area,subcutaneous abdominal adipose tissue umbilicus area,UBERON:0014455,http://purl.obolibrary.org/obo/UBERON_0014455,mesh,VH_F_Adipose
 #VHFVertebrae,#VHFemaleOrgans,VH_F_cervical_vertebra,cervical vertebra,UBERON:0002413,http://purl.obolibrary.org/obo/UBERON_0002413,organizational,VH_F_Vertebrae
 #VHFVertebrae,#VHFemaleOrgans,VH_F_thoracic_vertebra,thoracic vertebra,UBERON:0002347,http://purl.obolibrary.org/obo/UBERON_0002347,organizational,VH_F_Vertebrae
 #VHFVertebrae,#VHFemaleOrgans,VH_F_lumbar_vertebra,lumbar vertebra,UBERON:0002414,http://purl.obolibrary.org/obo/UBERON_0002414,organizational,VH_F_Vertebrae
@@ -1174,9 +1174,9 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFIntervertebralDisk,#VHFemaleOrgans,VH_F_nucleus_pulposus_of_intervertebral_disk_of_third_lumbar_vertebra,nucleus pulposus of intervertebral disk of third lumbar vertebra,FMA:16065,http://purl.obolibrary.org/obo/FMA_16065,mesh,VH_F_Intervertebral_Disk
 #VHFIntervertebralDisk,#VHFemaleOrgans,VH_F_nucleus_pulposus_of_intervertebral_disk_of_fourth_lumbar_vertebra,nucleus pulposus of intervertebral disk of fourth lumbar vertebra,FMA:16066,http://purl.obolibrary.org/obo/FMA_16066,mesh,VH_F_Intervertebral_Disk
 #VHFIntervertebralDisk,#VHFemaleOrgans,VH_F_nucleus_pulposus_of_intervertebral_disk_of_fifth_lumbar_vertebra,nucleus pulposus of intervertebral disk of fifth lumbar vertebra,FMA:16067,http://purl.obolibrary.org/obo/FMA_16067,mesh,VH_F_Intervertebral_Disk
-#VHFIntervertebralDisk,#VHFemaleOrgans,VH_F_nucleus_pulposus_of_intervertebral_disk_of_sixth_lumbar_vertebra,nucleus pulposus of intervertebral disk of sixth lumbar vertebra,-,-,mesh,VH_F_Intervertebral_Disk
+#VHFIntervertebralDisk,#VHFemaleOrgans,VH_F_nucleus_pulposus_of_intervertebral_disk_of_sixth_lumbar_vertebra,nucleus pulposus of intervertebral disk of sixth lumbar vertebra,FMA:16062,http://purl.obolibrary.org/obo/FMA_16062,mesh,VH_F_Intervertebral_Disk
 -,#VHFemaleOrgans,VH_F_intervertebral_disk_of_lumbar_vertebra,intervertebral disk of lumbar vertebra,UBERON:0007255,http://purl.obolibrary.org/obo/UBERON_0007255,organizational,VH_F_Intervertebral_Disk
-#VHFIntervertebralDisk,#VHFemaleOrgans,VH_F_intervertebral_disk_of_sixth_lumbar_vertebra,intervertebral disk of sixth lumbar vertebra,-,-,mesh,VH_F_Intervertebral_Disk
+#VHFIntervertebralDisk,#VHFemaleOrgans,VH_F_intervertebral_disk_of_sixth_lumbar_vertebra,intervertebral disk of sixth lumbar vertebra,UBERON:0007255,http://purl.obolibrary.org/obo/UBERON_0007255,mesh,VH_F_Intervertebral_Disk
 #VHFIntervertebralDisk,#VHFemaleOrgans,VH_F_intervertebral_disk_of_fifth_lumbar_vertebra,intervertebral disk of fifth lumbar vertebra,FMA:16037,http://purl.obolibrary.org/obo/FMA_16037,mesh,VH_F_Intervertebral_Disk
 #VHFIntervertebralDisk,#VHFemaleOrgans,VH_F_intervertebral_disk_of_fourth_lumbar_vertebra,intervertebral disk of fourth lumbar vertebra,FMA:16036,http://purl.obolibrary.org/obo/FMA_16036,mesh,VH_F_Intervertebral_Disk
 #VHFIntervertebralDisk,#VHFemaleOrgans,VH_F_intervertebral_disk_of_third_lumbar_vertebra,intervertebral disk of third lumbar vertebra,FMA:16035,http://purl.obolibrary.org/obo/FMA_16035,mesh,VH_F_Intervertebral_Disk
@@ -2253,9 +2253,9 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHMVertebrae,#VHMaleOrgans,VH_M_lumbar_vertebra_4,lumbar vertebra 4,UBERON:0004620,http://purl.obolibrary.org/obo/UBERON_0004620,mesh,VH_M_Vertebrae,,
 #VHMVertebrae,#VHMaleOrgans,VH_M_lumbar_vertebra_5,lumbar vertebra 5,UBERON:0004621,http://purl.obolibrary.org/obo/UBERON_0004621,mesh,VH_M_Vertebrae,,
 -,#VHMaleOrgans,VH_M_subcutaneous_abdominal_adipose_tissue,subcutaneous abdominal adipose tissue,UBERON:0014455,http://purl.obolibrary.org/obo/UBERON_0014455,organizational,VH_M_Adipose,,
-#VHMAdipose,#VHMaleOrgans,VH_M_subcutaneous_abdominal_adipose_tissue_LUQ_area,subcutaneous abdominal adipose tissue LUQ area,-,-,mesh,VH_M_Adipose,,
-#VHMAdipose,#VHMaleOrgans,VH_M_subcutaneous_abdominal_adipose_tissue_RUQ_area,subcutaneous abdominal adipose tissue RUQ area,-,-,mesh,VH_M_Adipose,,
-#VHMAdipose,#VHMaleOrgans,VH_M_subcutaneous_abdominal_adipose_tissue_umbilicus_area,subcutaneous abdominal adipose tissue umbilicus area,-,-,mesh,VH_M_Adipose,,
+#VHMAdipose,#VHMaleOrgans,VH_M_subcutaneous_abdominal_adipose_tissue_LUQ_area,subcutaneous abdominal adipose tissue LUQ area,UBERON:0014455,http://purl.obolibrary.org/obo/UBERON_0014455,mesh,VH_M_Adipose,,
+#VHMAdipose,#VHMaleOrgans,VH_M_subcutaneous_abdominal_adipose_tissue_RUQ_area,subcutaneous abdominal adipose tissue RUQ area,UBERON:0014455,http://purl.obolibrary.org/obo/UBERON_0014455,mesh,VH_M_Adipose,,
+#VHMAdipose,#VHMaleOrgans,VH_M_subcutaneous_abdominal_adipose_tissue_umbilicus_area,subcutaneous abdominal adipose tissue umbilicus area,UBERON:0014455,http://purl.obolibrary.org/obo/UBERON_0014455,mesh,VH_M_Adipose,,
 -,#VHMaleOrgans,VH_M_intervertebral_joint,intervertebral joint,UBERON:0001468,http://purl.obolibrary.org/obo/UBERON_0001468,organizational,VH_M_Intervertebral_Disk,,
 -,#VHMaleOrgans,VH_M_intervertebral_disk,intervertebral disk,UBERON:0001066,http://purl.obolibrary.org/obo/UBERON_0001066,organizational,VH_M_Intervertebral_Disk,,
 -,#VHMaleOrgans,VH_M_intervertebral_disk_of_cervical_vertebra,intervertebral disk of cervical vertebra,UBERON:0007252,http://purl.obolibrary.org/obo/UBERON_0007252,organizational,VH_M_Intervertebral_Disk,,
