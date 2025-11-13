@@ -64,7 +64,7 @@ citationOverall: >-
   https://doi.org/10.1038/s41592-023-01846-7. Accessed December 15, 2025.
 datatable:
   - omap-31-fallopian-tube-codex.csv
-  - omap-31-fallopian-tube-codexX.xlsx
+  - omap-31-fallopian-tube-codex.xlsx
 references:
   - https://doi.org/10.1038/s41596-021-00556-8
   - https://doi.org/10.48539/HBM582.QBPD.334
