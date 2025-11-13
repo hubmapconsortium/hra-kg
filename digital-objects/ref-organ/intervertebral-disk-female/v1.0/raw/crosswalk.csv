@@ -1,5 +1,4 @@
 node_name,OntologyID,label
-VH_F_intervertebral_joint,UBERON:0001468,intervertebral joint
 VH_F_intervertebral_disk,UBERON:0001066,intervertebral disk
 VH_F_intervertebral_disk_of_cervical_vertebra,UBERON:0007252,intervertebral disk of cervical vertebra
 VH_F_intervertebral_disk_of_axis,UBERON:0007265,intervertebral disk of axis
