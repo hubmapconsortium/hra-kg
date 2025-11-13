@@ -74,8 +74,8 @@ citationOverall: >-
   multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
   https://doi.org/10.1038/s41592-023-01846-7. Accessed December 15, 2025.
 datatable:
-  - omap-37-liver-MICS.csv
-  - omap-37-liver-MICS.xlsx
+  - omap-37-liver-mics.csv
+  - omap-37-liver-mics.xlsx
 references:
   - https://doi.org/10.1016/j.cell.2022.03.037
   - https://doi.org/10.48539/HBM552.VJGW.787

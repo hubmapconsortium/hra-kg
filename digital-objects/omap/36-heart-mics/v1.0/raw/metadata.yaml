@@ -72,8 +72,8 @@ citationOverall: >-
   multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
   https://doi.org/10.1038/s41592-023-01846-7. Accessed December 15, 2025.
 datatable:
-  - omap-36-heart-MICS.csv
-  - omap-36-heart-MICS.xlsx
+  - omap-36-heart-mics.csv
+  - omap-36-heart-mics.xlsx
 references:
   - https://doi.org/10.48539/HBM535.BJVS.924
   - https://doi.org/10.48539/HBM564.VPJV.699

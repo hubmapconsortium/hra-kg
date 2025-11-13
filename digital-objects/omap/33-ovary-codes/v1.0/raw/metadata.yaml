@@ -73,8 +73,8 @@ citationOverall: >-
   multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
   https://doi.org/10.1038/s41592-023-01846-7. Accessed December 15, 2025.
 datatable:
-  - omap-33-ovary-CODEX.csv
-  - omap-33-ovary-CODEX.xlsx
+  - omap-33-ovary-codex.csv
+  - omap-33-ovary-codex.xlsx
 references:
   - https://doi.org/10.1038/s41596-021-00556-8
   - https://doi.org/10.48539/HBM792.LCDV.873
