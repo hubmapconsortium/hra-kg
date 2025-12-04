@@ -68,12 +68,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM668.JVLM.333
-# doi: https://doi.org/10.48539/HBM668.JVLM.333
-# citation: >-
-#   Masci, Anna Maria,	Tim Kendall,	and Ayako Suzuki.
-#   2025.	"HuBMAP ASCT+B Tables. Liver v1.5."
-#   https://doi.org/10.48539/HBM668.JVLM.333.	Accessed December 15, 2025.
+hubmapId: HBM945.HZDN.494
+doi: https://doi.org/10.48539/HBM945.HZDN.494
+citation: >-
+  Masci, Anna Maria,	Tim Kendall,	and Ayako Suzuki.
+  2025.	"HuBMAP ASCT+B Tables. Liver v1.5."
+  https://doi.org/10.48539/HBM945.HZDN.494.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2025.	"HuBMAP ASCT+B Tables."	

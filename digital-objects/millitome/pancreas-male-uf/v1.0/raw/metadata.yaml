@@ -47,11 +47,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM744.DBTF.978
-# doi: https://doi.org/10.48539/HBM744.DBTF.978
-# citation: >-
-# Bhavsar, Antara,	and Bhargav Desai.
-# 2025.	"Millitome for UF Pancreas, Male, v1.0."
-# https://doi.org/10.48539/HBM744.DBTF.978.	Accessed June 15, 2025.
+hubmapId: HBM778.DHBQ.859
+doi: https://doi.org/10.48539/HBM778.DHBQ.859
+citation: >-
+  Bhavsar, Antara,	and Bhargav Desai.
+  2025.	"Millitome for UF Pancreas, Male, v1.0."
+  https://doi.org/10.48539/HBM778.DHBQ.859.	Accessed December 15, 2025.
 datatable:
   - extraction-sites.jsonld

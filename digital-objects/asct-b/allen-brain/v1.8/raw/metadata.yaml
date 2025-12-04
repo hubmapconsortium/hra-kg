@@ -47,12 +47,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM849.ZMHS.766
-# doi: https://doi.org/10.48539/HBM849.ZMHS.766
-# citation: >-
-#   Miller, Jeremy A.,	Raymond Sanchez,	and Richard Scheuermann.	
-#   2025.	"HuBMAP ASCT+B Tables. Brain v1.8."	
-#   https://doi.org/10.48539/HBM849.ZMHS.766.	Accessed December 15, 2025.
+hubmapId: HBM832.VWXM.442
+doi: https://doi.org/10.48539/HBM832.VWXM.442
+citation: >-
+  Miller, Jeremy A.,	Raymond Sanchez,	and Richard Scheuermann.	
+  2025.	"HuBMAP ASCT+B Tables. Brain v1.8."	
+  https://doi.org/10.48539/HBM832.VWXM.442.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2025.	"HuBMAP ASCT+B Tables."	

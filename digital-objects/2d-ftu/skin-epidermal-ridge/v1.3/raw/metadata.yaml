@@ -36,11 +36,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM642.BMZS.772
-# doi: https://doi.org/10.48539/HBM642.BMZS.772
-# citation: >-
-#   Bajema, Rachel. 2025. 2D Reference Epidermal Ridge FTU for Skin, v1.3. https://doi.org/10.48539/HBM642.BMZS.772.
-#   Accessed on December 15, 2025.
+hubmapId: HBM578.JTTV.282
+doi: https://doi.org/10.48539/HBM578.JTTV.282
+citation: >-
+  Bajema, Rachel. 2025. 2D Reference Epidermal Ridge FTU for Skin, v1.3. https://doi.org/10.48539/HBM578.JTTV.282.
+  Accessed on December 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
   Object Library. https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.

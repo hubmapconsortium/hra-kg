@@ -40,11 +40,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM294.HJJZ.279
-# doi: https://doi.org/10.48539/HBM294.HJJZ.279
-# citation: >-
-#   Bajema, Rachel. 2025. 2D Crypt of Lieberkuhn FTU for Large Intestine, v1.3. https://doi.org/10.48539/HBM294.HJJZ.279.
-#   Accessed on December 15, 2025.
+hubmapId: HBM586.WBNC.422
+doi: https://doi.org/10.48539/HBM586.WBNC.422
+citation: >-
+  Bajema, Rachel. 2025. 2D Crypt of Lieberkuhn FTU for Large Intestine, v1.3. https://doi.org/10.48539/HBM586.WBNC.422.
+  Accessed on December 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.

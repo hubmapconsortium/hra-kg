@@ -57,12 +57,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM325.ZPWW.358
-# doi: https://doi.org/10.48539/HBM325.ZPWW.358
-# citation: >-
-#   Longacre, Teri A.,	John Hickey,	and Yiing Lin.
-#   2025.	"HuBMAP ASCT+B Tables. Large Intestine v1.5."
-#   https://doi.org/10.48539/HBM325.ZPWW.358.	Accessed December 15, 2025.
+hubmapId: HBM779.MRXG.925
+doi: https://doi.org/10.48539/HBM779.MRXG.925
+citation: >-
+  Longacre, Teri A.,	John Hickey,	and Yiing Lin.
+  2025.	"HuBMAP ASCT+B Tables. Large Intestine v1.5."
+  https://doi.org/10.48539/HBM779.MRXG.925.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2025.	"HuBMAP ASCT+B Tables."	

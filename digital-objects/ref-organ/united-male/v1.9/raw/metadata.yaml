@@ -40,11 +40,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM447.LMKF.747
-# doi: https://doi.org/10.48539/HBM447.LMKF.747
-# citation: >-
-#   Browne, Kristen, and Heidi Schlehlein. 2024. *3D Reference Organ Set for Male, v1.9*.
-#   https://doi.org/10.48539/HBM447.LMKF.747. Accessed on December 15, 2025.
+hubmapId: HBM884.QCWH.828
+doi: https://doi.org/10.48539/HBM884.QCWH.828
+citation: >-
+  Browne, Kristen, and Heidi Schlehlein. 2024. *3D Reference Organ Set for Male, v1.9*.
+  https://doi.org/10.48539/HBM884.QCWH.828. Accessed on December 15, 2025.
 citationOverall: >-
   Browne, Kristen, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, and Katy Börner. 2024. HuBMAP
   CCF 3D Reference Object Library. https://humanatlas.io/3d-reference-library. Accessed on December 15, 2025.

@@ -52,12 +52,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM877.ZTNJ.972
-# doi: https://doi.org/10.48539/HBM877.ZTNJ.972
-# citation: >-
-#   Quardokus, Ellen M.
-#   2025.	"Crosswalk of CellTypist Annotated Cells to Cell Ontology, v1.1."
-#   https://doi.org/10.48539/HBM877.ZTNJ.972.	Accessed June 15, 2025.
+hubmapId: HBM358.CTVQ.639
+doi: https://doi.org/10.48539/HBM358.CTVQ.639
+citation: >-
+  Quardokus, Ellen M.
+  2025.	"Crosswalk of CellTypist Annotated Cells to Cell Ontology, v1.2."
+  https://doi.org/10.48539/HBM358.CTVQ.639.	Accessed December 15, 2025.
 citationOverall: >-
 datatable:
   - celltypist-crosswalk.csv

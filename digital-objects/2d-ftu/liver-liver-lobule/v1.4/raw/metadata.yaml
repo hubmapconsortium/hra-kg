@@ -44,11 +44,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM889.CJPK.447
-# doi: https://doi.org/10.48539/HBM889.CJPK.447
-# citation: >-
-#   Bajema, Rachel. 2025. 2D Liver Lobule Functional Tissue Unit (FTU) for Liver, v1.4.
-#   https://doi.org/10.48539/HBM889.CJPK.447. Accessed on December 15, 2025.
+hubmapId: HBM637.XDHL.997
+doi: https://doi.org/10.48539/HBM637.XDHL.997
+citation: >-
+  Bajema, Rachel. 2025. 2D Liver Lobule Functional Tissue Unit (FTU) for Liver, v1.4.
+  https://doi.org/10.48539/HBM637.XDHL.997. Accessed on December 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.

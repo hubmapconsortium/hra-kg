@@ -42,11 +42,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM927.DQNW.448
-# doi: https://doi.org/10.48539/HBM927.DQNW.448
-# citation: >-
-#   Bajema, Rachel. 2025. 2D Reference Nephron FTU for Kidney, v1.3. https://doi.org/10.48539/HBM927.DQNW.448. Accessed on
-#   December 15, 2025.
+hubmapId: HBM879.LLLJ.977
+doi: https://doi.org/10.48539/HBM879.LLLJ.977
+citation: >-
+  Bajema, Rachel. 2025. 2D Reference Nephron FTU for Kidney, v1.3. https://doi.org/10.48539/HBM879.LLLJ.977. Accessed on
+  December 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.

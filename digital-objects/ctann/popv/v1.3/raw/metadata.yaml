@@ -51,12 +51,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM866.LDBJ.546
-# doi: https://doi.org/10.48539/HBM866.LDBJ.546
-# citation: >-
-#   Quardokus, Ellen M.
-#   2025.	"Crosswalk of Popular Vote (popV) Annotated Cells to Cell Ontology, v1.2."
-#   https://doi.org/10.48539/HBM866.LDBJ.546.	Accessed June 15, 2025.
+hubmapId: HBM773.MXQX.874
+doi: https://doi.org/10.48539/HBM773.MXQX.874
+citation: >-
+  Quardokus, Ellen M.
+  2025.	"Crosswalk of Popular Vote (popV) Annotated Cells to Cell Ontology, v1.3."
+  https://doi.org/10.48539/HBM773.MXQX.874.	Accessed December 15, 2025.
 datatable:
   - popv-crosswalk.csv
 references:

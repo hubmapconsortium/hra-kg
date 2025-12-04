@@ -45,17 +45,17 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM228.PZGR.344
-doi: https://doi.org/10.48539/HBM228.PZGR.344
+hubmapId: HBM652.VRPB.452
+doi: https://doi.org/10.48539/HBM652.VRPB.452
 citation: >-
   Quardokus, Ellen M.,	Heidi Schlehlein,	Bruce W. Herr II,	and Katy Börner.	
-  2024.	"Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk,
-  v1.8."	
-  https://doi.org/10.48539/HBM228.PZGR.344.	Accessed June 15, 2025.
+  2025.	"Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk,
+  v1.9."	
+  https://doi.org/10.48539/HBM652.VRPB.452.	Accessed December 15, 2025.
 citationOverall: >-
   Schlehlein, Heidi,	Bruce W. Herr II,	Ellen M. Quardokus,	Andreas Bueckle,	and Katy Börner.	
-  2024.	"HuBMAP 3D Reference Object Library."	
-  https://humanatlas.io/3d-reference-library.	Accessed June 15, 2025.
+  2025.	"HuBMAP 3D Reference Object Library."	
+  https://humanatlas.io/3d-reference-library.	Accessed December 15, 2025.
 datatable:
   - asct-b-3d-models-crosswalk.csv
 references:

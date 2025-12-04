@@ -36,11 +36,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM322.LZLG.752
-# doi: https://doi.org/10.48539/HBM322.LZLG.752
-# citation: >-
-#   Bajema, Rachel. 2025. 2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.4.
-#   https://doi.org/10.48539/HBM322.LZLG.752. Accessed on December 15, 2025.
+hubmapId: HBM692.ZCZP.456
+doi: https://doi.org/10.48539/HBM692.ZCZP.456
+citation: >-
+  Bajema, Rachel. 2025. 2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.4.
+  https://doi.org/10.48539/HBM692.ZCZP.456. Accessed on December 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
   Object Library https://humanatlas.io/2d-ftu-illustrations.  Accessed December 15, 2025.

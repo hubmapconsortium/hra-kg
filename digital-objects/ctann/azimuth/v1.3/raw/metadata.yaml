@@ -51,12 +51,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM543.NVTF.775
-# doi: https://doi.org/10.48539/HBM543.NVTF.775
-# citation: >-
-#   Quardokus, Ellen M.
-#   2025.	"Crosswalk of Azimuth Annotated Cells to Cell Ontology, v1.2."
-#   https://doi.org/10.48539/HBM543.NVTF.775.	Accessed June 15, 2025.
+hubmapId: HBM294.FPLH.558
+doi: https://doi.org/10.48539/HBM294.FPLH.558
+citation: >-
+  Quardokus, Ellen M.
+  2025.	"Crosswalk of Azimuth Annotated Cells to Cell Ontology, v1.3."
+  https://doi.org/10.48539/HBM294.FPLH.558.	Accessed December 15, 2025.
 datatable:
   - azimuth-crosswalk.csv
 references:

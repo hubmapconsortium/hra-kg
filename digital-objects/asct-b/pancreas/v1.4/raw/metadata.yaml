@@ -55,12 +55,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM336.TBNP.923
-# doi: https://doi.org/10.48539/HBM336.TBNP.923
-# citation: >-
-#   Campbell-Thompson, Martha,	Adel Eskaros,	and Diane Saunders.
-#   2025.	"HuBMAP ASCT+B Tables. Pancreas v1.3."
-#   https://doi.org/10.48539/HBM336.TBNP.923.	Accessed December 15, 2025.
+hubmapId: HBM527.NDSX.792
+doi: https://doi.org/10.48539/HBM527.NDSX.792
+citation: >-
+  Campbell-Thompson, Martha,	Adel Eskaros,	and Diane Saunders.
+  2025.	"HuBMAP ASCT+B Tables. Pancreas v1.3."
+  https://doi.org/10.48539/HBM527.NDSX.792.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2025.	"HuBMAP ASCT+B Tables."	

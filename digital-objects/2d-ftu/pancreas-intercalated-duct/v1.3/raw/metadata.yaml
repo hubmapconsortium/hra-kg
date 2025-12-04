@@ -30,11 +30,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM992.RCJX.478
-# doi: https://doi.org/10.48539/HBM992.RCJX.478
-# citation: >-
-#   Bajema, Rachel. 2025. Pancreas, Intercalated Duct 2D FTU v.1.3. https://doi.org/10.48539/HBM992.RCJX.478. Accessed on
-#   December 15, 2025.
+hubmapId: HBM575.FMGZ.289
+doi: https://doi.org/10.48539/HBM575.FMGZ.289
+citation: >-
+  Bajema, Rachel. 2025. Pancreas, Intercalated Duct 2D FTU v.1.3. https://doi.org/10.48539/HBM575.FMGZ.289. Accessed on
+  December 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.

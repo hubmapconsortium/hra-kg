@@ -47,11 +47,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM584.ZVQW.954
-# doi: https://doi.org/10.48539/HBM584.ZVQW.954
-# citation: >-
-# Bhavsar, Antara,	and Bhargav Desai.
-# 2025.	"Millitome for UPenn Ovary, Female, Left, v1.0."
-# https://doi.org/10.48539/HBM584.ZVQW.954.	Accessed June 15, 2025.
+hubmapId: HBM938.LVWP.744
+doi: https://doi.org/10.48539/HBM938.LVWP.744
+citation: >-
+  Bhavsar, Antara,	and Bhargav Desai.
+  2025.	"Millitome for UPenn Ovary, Female, Left, v1.0."
+  https://doi.org/10.48539/HBM938.LVWP.744.	Accessed December 15, 2025.
 datatable:
   - extraction-sites.jsonld

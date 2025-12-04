@@ -43,11 +43,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM948.HFHD.493
-# doi: https://doi.org/10.48539/HBM948.HFHD.493
-# citation: >-
-# Bhavsar, Antara,	and Bhargav Desai.
-# 2025.	"Millitome for VU Kidney, Female, Left, v1.0."
-# https://doi.org/10.48539/HBM948.HFHD.493.	Accessed June 15, 2025.
+hubmapId: HBM527.HHVC.958
+doi: https://doi.org/10.48539/HBM527.HHVC.958
+citation: >-
+  Bhavsar, Antara,	and Bhargav Desai.
+  2025.	"Millitome for VU Kidney, Female, Right, v1.0."
+  https://doi.org/10.48539/HBM527.HHVC.958.	Accessed December 15, 2025.
 datatable:
   - extraction-sites.jsonld

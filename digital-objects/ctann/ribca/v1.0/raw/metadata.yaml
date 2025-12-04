@@ -46,12 +46,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM674.JFSD.677
-# doi: https://doi.org/10.48539/HBM674.JFSD.677
-# citation: >-
-# Puig-Barbe, Aleix.
-# 2025.	"Crosswalk of Robust Image-Based Cell Annotator (RIBCA) Annotated Cells to Cell Ontology, v1.0."
-# https://doi.org/10.48539/HBM674.JFSD.677.	Accessed June 15, 2025.
+hubmapId: HBM545.HCBL.598
+doi: https://doi.org/10.48539/HBM545.HCBL.598
+citation: >-
+  Puig-Barbe, Aleix.
+  2025.	"Crosswalk of Robust Image-Based Cell Annotator (RIBCA) Annotated Cells to Cell Ontology, v1.0."
+  https://doi.org/10.48539/HBM545.HCBL.598.	Accessed December 15, 2025.
 datatable:
   - ribca-crosswalk.csv
 references:

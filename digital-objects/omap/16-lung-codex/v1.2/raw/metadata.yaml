@@ -71,13 +71,13 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM397.PHBH.975
-# doi: https://doi.org/10.48539/HBM397.PHBH.975
-# citation: >-
-#   Purkerson, Jeffrey M.,	and Gloria Pryhuber.	
-#   2025.	"OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with CODEX,
-#   v1.1."	
-#   https://doi.org/10.48539/HBM397.PHBH.975.	Accessed June 15, 2025.
+hubmapId: HBM742.NMKX.338
+doi: https://doi.org/10.48539/HBM742.NMKX.338
+citation: >-
+  Purkerson, Jeffrey M.,	and Gloria Pryhuber.	
+  2025.	"OMAP-16 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with CODEX,
+  v1.2."	
+  https://doi.org/10.48539/HBM742.NMKX.338.	Accessed December 15, 2025.
 datatable:
   - omap-16-lung-cell-codex.csv
   - omap-16-lung-cell-codex.xlsx

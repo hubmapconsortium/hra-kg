@@ -31,11 +31,11 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM455.BVMB.749
-# doi: https://doi.org/10.48539/HBM455.BVMB.749
-# citation: >-
-#   Kristen Browne, Heidi Schlehlein. 2025. *3D reference organ for intervertebral discs, Male v1.0.*
-#   [https://doi.org/10.48539/HBM455.BVMB.749](https://doi.org/10.48539/HBM455.BVMB.749). Accessed on December 15, 2025.
+hubmapId: HBM747.XJJX.236
+doi: https://doi.org/10.48539/HBM747.XJJX.236
+citation: >-
+  Kristen Browne, Heidi Schlehlein. 2025. *3D reference organ for intervertebral discs, Male v1.0.*
+  [https://doi.org/10.48539/HBM747.XJJX.236](https://doi.org/10.48539/HBM747.XJJX.236). Accessed on December 15, 2025.
 citationOverall: >-
   Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner.
   2025. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 15,

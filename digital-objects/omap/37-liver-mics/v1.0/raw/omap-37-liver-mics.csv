@@ -5,9 +5,9 @@ Author ORCiD(s): ,0000-0002-1933-3070; 0009-0003-2875-0567; 0000-0002-0254-316X,
 Reviewer(s):,Werner Mueller; Andrea Radtke,,,,,,,,,,,,,,,,,,,,,,,,
 Reviewer ORCiD(s):,0000-0002-1297-9725; 0000-0003-4379-8967,,,,,,,,,,,,,,,,,,,,,,,,
 General Publication(s):,https://doi.org/10.1038/s41598-022-05841-4,,,,,,,,,,,,,,,,,,,,,,,,
-Data DOI:,,,,,,,,,,,,,,,,,,,,,,,,,
-Date:,,,,,,,,,,,,,,,,,,,,,,,,,
-Version Number,,,,,,,,,,,,,,,,,,,,,,,,,
+Data DOI:,https://doi.org/10.48539/HBM756.VCBK.883,,,,,,,,,,,,,,,,,,,,,,,,
+Date:,"December 15, 2025",,,,,,,,,,,,,,,,,,,,,,,,
+Version Number,v1.0,,,,,,,,,,,,,,,,,,,,,,,,
 omap_id,uniprot_accession_number,HGNC_ID,target_symbol,host,isotype,clonality,clone_id,vendor,catalog_number,lot_number,recombinant,concentration_value,dilution_factor,conjugate,rrid,method,tissue_preservation,cycle_number,fluorescent_reporter,protocol_doi,author_orcids,core_panel,rationale,organ,organ_uberon
 OMAP_37,P28906 ,HGNC:1662,CD34,Human,IgG1,Monoclonal,REA1164,Miltenyi Biotec,130-120-515,,Y,,50,PE,AB_2811338,MICS,4% PFA fixed frozen,1,,https://doi.org/10.1038/s41598-022-05841-4; https://doi.org/10.1101/2023.10.27.564191,0000-0002-1933-3070; 0009-0003-2875-0567; 0000-0002-0254-316X,Y,"CD34 is a well-established marker of vascular endothelial cells and is used to label hepatic blood endothelial cells, facilitating the identification of vascular compartments within liver tissue.",Liver,UBERON:0002107
 OMAP_37,P08575,HGNC:9666,PTPRC,Human,IgG1,Monoclonal,REA747,Miltenyi Biotec,130-110-632,,Y,,50,PE,AB_2658239,MICS,4% PFA fixed frozen,2,,https://doi.org/10.1038/s41598-022-05841-4; https://doi.org/10.1101/2023.10.27.564191,0000-0002-1933-3070; 0009-0003-2875-0567; 0000-0002-0254-316X,Y,CD45 is a pan-leukocyte marker that broadly labels all hematopoietic cells. It is instrumental in assessing immune cell infiltration and overall immune landscape within hepatic microenvironments.,Liver,UBERON:0002107

@@ -42,11 +42,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM999.LBSW.743
-# doi: https://doi.org/10.48539/HBM999.LBSW.743
-# citation: >-
-#   Weber, Griffin,	and Katherine S. Gustilo.
-#   2025.	"Pathway Crosswalk, v1.2."
-#   https://doi.org/10.48539/HBM999.LBSW.743.	Accessed December 15, 2025.
+hubmapId: HBM267.QGKG.835
+doi: https://doi.org/10.48539/HBM267.QGKG.835
+citation: >-
+  Weber, Griffin,	and Katherine S. Gustilo.
+  2025.	"Pathway Crosswalk, v1.2."
+  https://doi.org/10.48539/HBM267.QGKG.835.	Accessed December 15, 2025.
 datatable:
   - pathway-crosswalk.csv

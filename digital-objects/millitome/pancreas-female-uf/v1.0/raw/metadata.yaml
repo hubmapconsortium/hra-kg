@@ -47,11 +47,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM992.FPRC.558
-# doi: https://doi.org/10.48539/HBM992.FPRC.558
-# citation: >-
-# Bhavsar, Antara,	and Bhargav Desai.
-# 2025.	"Millitome for UF Pancreas, Female, v1.0."
-# https://doi.org/10.48539/HBM992.FPRC.558.	Accessed June 15, 2025.
+hubmapId: HBM425.WZCV.834
+doi: https://doi.org/10.48539/HBM425.WZCV.834
+citation: >-
+  Bhavsar, Antara,	and Bhargav Desai.
+  2025.	"Millitome for UF Pancreas, Female, v1.0."
+  https://doi.org/10.48539/HBM425.WZCV.834.	Accessed December 15, 2025.
 datatable:
   - extraction-sites.jsonld

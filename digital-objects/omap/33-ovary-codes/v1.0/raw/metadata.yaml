@@ -57,12 +57,12 @@ funders:
     awardNumber: OT2OD026671
   - funder: National Cancer Institute
     awardNumber: UH3 CA246635
-# hubmapId: HBM564.VPJV.699
-# doi: https://doi.org/10.48539/HBM564.VPJV.699
-# citation: >-
-#   Elizabeth Tsui, Hannah McDowell, Alexander Cabrera, Diane Saunders, Kathleen O'Neill, 
-#   Monica Laronda. OMAP-33: Organ Mapping Antibody Panel (OMAP) for Multiplexed 	
-#   Antibody-Based Imaging of Human Ovary with CODEX, v.1.0 <insert new DOI> Accessed December 15, 2025.
+hubmapId: HBM795.NKPR.947
+doi: https://doi.org/10.48539/HBM795.NKPR.947
+citation: >-
+  Elizabeth Tsui, Hannah McDowell, Alexander Cabrera, Diane Saunders, Kathleen O'Neill, 
+  Monica Laronda. OMAP-33: Organ Mapping Antibody Panel (OMAP) for Multiplexed 	
+  Antibody-Based Imaging of Human Ovary with CODEX, v.1.0 https://doi.org/10.48539/HBM795.NKPR.947 Accessed December 15, 2025.
 citationOverall: >-
   Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari 	
   P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin 

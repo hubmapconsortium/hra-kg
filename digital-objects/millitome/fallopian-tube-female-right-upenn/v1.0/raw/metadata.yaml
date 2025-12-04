@@ -47,11 +47,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM295.LWNG.395
-# doi: https://doi.org/10.48539/HBM295.LWNG.395
-# citation: >-
-# Bhavsar, Antara,	and Bhargav Desai.
-# 2025.	"Millitome for UPenn Fallopian Tube, Female, Right, v1.0."
-# https://doi.org/10.48539/HBM295.LWNG.395.	Accessed June 15, 2025.
+hubmapId: HBM299.MGRX.524
+doi: https://doi.org/10.48539/HBM299.MGRX.524
+citation: >-
+  Bhavsar, Antara,	and Bhargav Desai.
+  2025.	"Millitome for UPenn Fallopian Tube, Female, Right, v1.0."
+  https://doi.org/10.48539/HBM299.MGRX.524.	Accessed December 15, 2025.
 datatable:
   - extraction-sites.jsonld

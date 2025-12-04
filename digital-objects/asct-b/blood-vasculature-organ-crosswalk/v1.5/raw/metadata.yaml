@@ -55,12 +55,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM655.NRGQ.952
-# doi: https://doi.org/10.48539/HBM655.NRGQ.952
-# citation: >-
-#   Weber, Griffin,	and Katherine S. Gustilo.
-#   2025.	"Blood Vasculature Organ Crosswalk, v1.5."
-#   https://doi.org/10.48539/HBM655.NRGQ.952.	Accessed December 15, 2025.
+hubmapId: HBM985.SCZM.769
+doi: https://doi.org/10.48539/HBM985.SCZM.769
+citation: >-
+  Weber, Griffin,	and Katherine S. Gustilo.
+  2025.	"Blood Vasculature Organ Crosswalk, v1.5."
+  https://doi.org/10.48539/HBM985.SCZM.769.	Accessed December 15, 2025.
 citationOverall: >-
   Boppana, Avinash,	Sujin Lee,	Rajeev Malhotra,	Marc Halushka,	Katherine S. Gustilo,	
   Ellen M. Quardokus,	Bruce W. Herr II,	Katy Börner,	and Griffin M. Weber.	

@@ -51,12 +51,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM243.LZXV.772
-# doi: https://doi.org/10.48539/HBM243.LZXV.772
-# citation: >-
-#   Longacre, Teri.
-#   2025.	"HuBMAP ASCT+B Tables. Small Intestine v1.3."
-#   https://doi.org/10.48539/HBM243.LZXV.772.	Accessed December 15, 2025.
+hubmapId: HBM556.JJRR.824
+doi: https://doi.org/10.48539/HBM556.JJRR.824
+citation: >-
+  Longacre, Teri.
+  2025.	"HuBMAP ASCT+B Tables. Small Intestine v1.3."
+  https://doi.org/10.48539/HBM556.JJRR.824.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2025.	"HuBMAP ASCT+B Tables."	

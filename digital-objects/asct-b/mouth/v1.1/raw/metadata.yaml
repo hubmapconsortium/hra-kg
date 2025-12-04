@@ -37,12 +37,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM479.XPML.677
-# doi: https://doi.org/10.48539/HBM479.XPML.677
-# citation: >-
-#   Quardokus, Ellen M.
-#   2025.	"HuBMAP ASCT+B Tables. Anatomical Systems, v1.1."
-#   https://doi.org/10.48539/HBM479.XPML.677.	Accessed December 15, 2025.
+hubmapId: HBM632.GTVR.643
+doi: https://doi.org/10.48539/HBM632.GTVR.643
+citation: >-
+  Quardokus, Ellen M.
+  2025.	"HuBMAP ASCT+B Tables. Anatomical Systems, v1.1."
+  https://doi.org/10.48539/HBM632.GTVR.643.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2024.	"HuBMAP ASCT+B Tables."	

@@ -79,12 +79,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM762.FXXL.375
-# doi: https://doi.org/10.48539/HBM762.FXXL.375
-# citation: >-
-#   Ginty, Fiona,	Jonhan Ho,	Joel Sunshine,	and Arivarasan Karunamurthy.
-#   2025.	"HuBMAP ASCT+B Tables. Skin v1.6."
-#   https://doi.org/10.48539/HBM762.FXXL.375.	Accessed December 15, 2025.
+hubmapId: HBM739.NDCD.287
+doi: https://doi.org/10.48539/HBM739.NDCD.287
+citation: >-
+  Ginty, Fiona,	Jonhan Ho,	Joel Sunshine,	and Arivarasan Karunamurthy.
+  2025.	"HuBMAP ASCT+B Tables. Skin v1.6."
+  https://doi.org/10.48539/HBM739.NDCD.287.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2025.	"HuBMAP ASCT+B Tables."	

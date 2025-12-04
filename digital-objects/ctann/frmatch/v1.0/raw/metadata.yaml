@@ -51,12 +51,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM679.XXLW.422
-# doi: https://doi.org/10.48539/HBM679.XXLW.422
-# citation: >-
-# Puig-Barbe, Aleix.
-# 2025.	"Crosswalk of FRMatch Annotated Cells to Cell Ontology, v1.0."
-# https://doi.org/10.48539/HBM679.XXLW.422.	Accessed June 15, 2025.
+hubmapId: HBM782.CGJX.762
+doi: https://doi.org/10.48539/HBM782.CGJX.762
+citation: >-
+  Puig-Barbe, Aleix.
+  2025.	"Crosswalk of FRMatch Annotated Cells to Cell Ontology, v1.0."
+  https://doi.org/10.48539/HBM782.CGJX.762.	Accessed December 15, 2025.
 citationOverall: >-
 datatable:
   - frmatch-crosswalk.csv

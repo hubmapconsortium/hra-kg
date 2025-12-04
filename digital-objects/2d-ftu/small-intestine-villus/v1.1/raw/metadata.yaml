@@ -35,11 +35,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM974.XQDB.889
-# doi: https://doi.org/10.48539/HBM974.XQDB.889
-# citation: >-
-#   Bajema, Rachel. 2025. 2D Intestinal Villus FTU for Small Intestine, v1.1, https://doi.org/10.48539/HBM974.XQDB.889.
-#   Accessed on December 15, 2025.
+hubmapId: HBM426.XFGB.527
+doi: https://doi.org/10.48539/HBM426.XFGB.527
+citation: >-
+  Bajema, Rachel. 2025. 2D Intestinal Villus FTU for Small Intestine, v1.1, https://doi.org/10.48539/HBM426.XFGB.527.
+  Accessed on December 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.

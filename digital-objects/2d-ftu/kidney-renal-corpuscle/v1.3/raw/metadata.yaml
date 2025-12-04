@@ -42,11 +42,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM778.SHGJ.294
-# doi: https://doi.org/10.48539/HBM778.SHGJ.294
-# citation: >-
-#   Bajema, Rachel. 2025. 2D Reference Renal Corpuscle FTU for Kidney, v1.3. https://doi.org/10.48539/HBM778.SHGJ.294.
-#   Accessed on December 15, 2025.
+hubmapId: HBM494.MGDC.468
+doi: https://doi.org/10.48539/HBM494.MGDC.468
+citation: >-
+  Bajema, Rachel. 2025. 2D Reference Renal Corpuscle FTU for Kidney, v1.3. https://doi.org/10.48539/HBM494.MGDC.468.
+  Accessed on December 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.

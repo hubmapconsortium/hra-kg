@@ -54,12 +54,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM252.TTQD.772
-# doi: https://doi.org/10.48539/HBM252.TTQD.772
-# citation: >-
-#   Weber, Griffin,	Sujin Lee,	and Rajeev Malhotra.
-#   2025.	"HuBMAP ASCT+B Tables. Blood Vasculature v1.9."
-#   https://doi.org/10.48539/HBM252.TTQD.772.	Accessed December 15, 2025.
+hubmapId: HBM795.RGQQ.776
+doi: https://doi.org/10.48539/HBM795.RGQQ.776
+citation: >-
+  Weber, Griffin,	Sujin Lee, and Rajeev Malhotra.
+  2025.	"HuBMAP ASCT+B Tables. Blood Vasculature v1.9."
+  https://doi.org/10.48539/HBM795.RGQQ.776.	Accessed December 15, 2025.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2025.	"HuBMAP ASCT+B Tables."	

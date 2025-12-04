@@ -43,11 +43,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM447.WDMP.739
-# doi: https://doi.org/10.48539/HBM447.WDMP.739
-# citation: >-
-# Bhavsar, Antara,	and Bhargav Desai.
-# 2025.	"Millitome for VU Kidney, Male, Right, v1.0."
-# https://doi.org/10.48539/HBM447.WDMP.739.	Accessed June 15, 2025.
+hubmapId: HBM392.CLQK.932
+doi: https://doi.org/10.48539/HBM392.CLQK.932
+citation: >-
+  Bhavsar, Antara,	and Bhargav Desai.
+  2025.	"Millitome for VU Kidney, Male, Right, v1.0."
+  https://doi.org/10.48539/HBM392.CLQK.932.	Accessed June 15, 2025.
 datatable:
   - extraction-sites.jsonld
