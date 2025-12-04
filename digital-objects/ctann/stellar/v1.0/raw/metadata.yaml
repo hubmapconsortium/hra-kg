@@ -54,7 +54,7 @@ hubmapId: HBM554.JQLD.949
 doi: https://doi.org/10.48539/HBM554.JQLD.949
 citation: >-
   Puig-Barbe, Aleix.
-  2025.	"Crosswalk of Robust Image-Based Cell Annotator (RIBCA) Annotated Cells to Cell Ontology, v1.0."
+  2025.	"Crosswalk of SpaTial cELl LeARning (STELLAR) Annotated Cells to Cell Ontology, v1.0."
   https://doi.org/10.48539/HBM554.JQLD.949.	Accessed December 15, 2025.
 datatable:
   - stellar-crosswalk.csv

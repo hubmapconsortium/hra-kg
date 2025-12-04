@@ -33,12 +33,12 @@ funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
-    awardNumber: OT2OD026671
-hubmapId: HBM673.NTBR.225
-doi: https://doi.org/10.48539/HBM673.NTBR.225
-citation: >-
-  Bajema, Rachel. 2024. Mouth, Parotid Gland Ducto-Acinar 2D FTU v.1.0. https://doi.org/10.48539/HBM673.NTBR.225.
-  Accessed on December 15, 2025.
+#     awardNumber: OT2OD026671
+# hubmapId: HBM673.NTBR.225
+# doi: https://doi.org/10.48539/HBM673.NTBR.225
+# citation: >-
+#   Bajema, Rachel. 2024. Mouth, Parotid Gland Ducto-Acinar 2D FTU v.1.0. https://doi.org/10.48539/HBM673.NTBR.225.
+#   Accessed on December 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.
