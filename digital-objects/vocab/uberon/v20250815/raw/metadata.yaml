@@ -1,0 +1,22 @@
+title: Uber-anatomy Ontology
+description: |-
+  Uberon is an integrated cross-species anatomy ontology representing a variety of entities classified according to
+  traditional anatomical criteria such as structure, function and developmental lineage (Mungall et al. 2012). The
+  ontology includes comprehensive relationships to taxon-specific anatomical ontologies, allowing integration of
+  functional, phenotype and expression data.
+
+  **Bibliography:**
+
+  * Mungall, C. J., C. Torniai, G. V. Gkoutos, S. E. Lewis, and M. A. Haendel. 2012. “Uberon, an Integrative Multi-Species Anatomy Ontology.” *Genome Biol* 13 (1): R5. https://doi.org/10.1186/gb-2012-13-1-r5.
+creators:
+  - fullName: Christopher Mungall
+    firstName: Christopher
+    lastName: Mungall
+    orcid: 0000-0002-6601-2165
+creation_date: "2025-08-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+datatable:
+  - uberon.owl
+references:
+  - https://doi.org/10.1186/gb-2012-13-1-r5
