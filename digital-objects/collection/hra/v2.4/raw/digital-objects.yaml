@@ -11,13 +11,12 @@ digital-objects:
   - 2d-ftu/liver-liver-lobule/v1.4
   - 2d-ftu/lung-bronchial-submucosal-gland/v1.3
   - 2d-ftu/lung-pulmonary-alveolus/v1.4
-  - 2d-ftu/mouth-gingival-attachment/v1.0
   - 2d-ftu/mouth-submandibular-gland/v1.1
   - 2d-ftu/mouth-sublingual-gland/v1.1
   - 2d-ftu/mouth-parotid-gland/v1.1
   - 2d-ftu/pancreas-intercalated-duct/v1.3
   - 2d-ftu/pancreas-islets-langerhans/v1.3
-  - 2d-ftu/pancreas-pancreatic-acinus/v1.2
+  - 2d-ftu/pancreas-pancreatic-acinus/v1.3
   - 2d-ftu/prostate-prostate-glandular-acinus/v1.3
   - 2d-ftu/skin-dermal-papilla/v1.2
   - 2d-ftu/skin-epidermal-ridge/v1.3
@@ -27,7 +26,7 @@ digital-objects:
   - 2d-ftu/spleen-white-pulp/v1.3
   - 2d-ftu/thymus-thymus-lobule/v1.4
   - 2d-ftu/asct-b-2d-models-crosswalk/v1.6
-  - asct-b/allen-brain/v1.7
+  - asct-b/allen-brain/v1.8
   - asct-b/anatomical-systems/v1.2
   - asct-b/blood-pelvis/v1.4
   - asct-b/blood-vasculature/v1.9
@@ -76,7 +75,6 @@ digital-objects:
   - ctann/ribca/v1.0
   - ctann/stellar/v1.0
   - ctann/vccf/v1.1
-  - millitome/uterus-female-upenn/v1.0
   - millitome/pancreas-male-vu/v1.0
   - millitome/pancreas-male-uf/v1.0
   - millitome/pancreas-female-vu/v1.0
@@ -96,7 +94,7 @@ digital-objects:
   - omap/13-pancreas-codex/v1.2
   - omap/14-kidney-cycif/v1.1
   - omap/15-intestine-codex/v1.1
-  - omap/16-lung-codex/v1.1
+  - omap/16-lung-codex/v1.2
   - omap/17-thymus-ibex/v1.1
   - omap/18-lymph-node-cell-dive-ibex/v1.1
   - omap/19-palatine-tonsil-ibex/v1.1
@@ -105,7 +103,7 @@ digital-objects:
   - omap/22-skin-cell-dive/v1.1
   - omap/23-vermiform-appendix-mics/v1.1
   - omap/24-pancreas-cycif/v1.0
-  - omap/25-lung-codex/v1.0
+  - omap/25-lung-codex/v1.1
   - omap/26-kidney-codex/v1.0
   - omap/27-kidney-ims-codex/v1.0
   - omap/28-heart-codex/v1.0
