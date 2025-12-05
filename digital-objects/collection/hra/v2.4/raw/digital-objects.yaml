@@ -75,6 +75,7 @@ digital-objects:
   - ctann/ribca/v1.0
   - ctann/stellar/v1.0
   - ctann/vccf/v1.1
+  - millitome/uterus-female-upenn/v1.0
   - millitome/pancreas-male-vu/v1.0
   - millitome/pancreas-male-uf/v1.0
   - millitome/pancreas-female-vu/v1.0

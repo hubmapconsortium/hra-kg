@@ -47,11 +47,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM297.XQCT.937
-# doi: https://doi.org/10.48539/HBM297.XQCT.937
-# citation: >-
-# Bhavsar, Antara,	and Bhargav Desai.
-# 2025.	"Millitome for UPenn Uterus, Female, v1.0."
-# https://doi.org/10.48539/HBM297.XQCT.937.	Accessed June 15, 2025.
+hubmapId: HBM297.XQCT.937
+doi: https://doi.org/10.48539/HBM297.XQCT.937
+citation: >-
+  Bhavsar, Antara,	and Bhargav Desai.
+  2025.	"Millitome for UPenn Uterus, Female, v1.0."
+  https://doi.org/10.48539/HBM297.XQCT.937.	Accessed June 15, 2025.
 datatable:
   - extraction-sites.jsonld
