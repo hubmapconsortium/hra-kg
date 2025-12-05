@@ -38,11 +38,11 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM679.PWQJ.377
-# doi: https://doi.org/10.48539/HBM679.PWQJ.377
-# citation: >-
-#   Bajema, Rachel. 2025. 2D White Pulp Functional Tissue Unit (FTU) for Spleen v1.3. https://doi.org/10.48539/HBM679.PWQJ.377. Accessed
-#   on December 15, 2025.
+hubmapId: HBM679.PWQJ.377
+doi: https://doi.org/10.48539/HBM679.PWQJ.377
+citation: >-
+  Bajema, Rachel. 2025. 2D White Pulp Functional Tissue Unit (FTU) for Spleen v1.3. https://doi.org/10.48539/HBM679.PWQJ.377. Accessed
+  on December 15, 2025.
 citationOverall: >-
   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed December 15, 2025.
