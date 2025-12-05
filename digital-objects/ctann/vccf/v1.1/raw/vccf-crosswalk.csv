@@ -509,5 +509,3 @@ tonsil-codex-stanford_L3,UBERON:0002372,muscle cell:smooth,VCCF:0000497,smooth m
 tonsil-codex-stanford_L3,UBERON:0002372,squamous epithelial cell,VCCF:0000498,squamous epithelial cell,CL:0000076,skos:exactMatch
 tonsil-codex-stanford_L3,UBERON:0002372,stromal cell,VCCF:0000499,stromal cell,CL:0000499,skos:exactMatch
 tonsil-codex-stanford_L3,UBERON:0002372,t cell,VCCF:0000500,T cell,CL:0000084,skos:exactMatch
-,,endothelial cell,VCCF:0000501,endothelial cell,CL:0000115,skos:exactMatch
-,,endothelial cell of vascular tree,VCCF:0000502,endothelial cell of vascular tree,CL:0002139,skos:exactMatch
