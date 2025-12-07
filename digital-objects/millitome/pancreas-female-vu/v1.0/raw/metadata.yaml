@@ -1,6 +1,7 @@
 title: Millitome for VU Pancreas, Female
 description: |-
-  This millitome was designed in collaboration with Vanderbilt University for the Pancreas, Female. It defines a protocol for partitioning a human kidney organ into tissue blocks and associating those tissue blocks with a unique extraction site that is located in the HRA CCF. The [HRA AMAP](https://github.com/cns-iu/hra-amap) process was used to create the included tissue block extraction sites which approximate partitioning the [Pancreas, Female](https://purl.humanatlas.io/millitome/pancreas-female-vu) reference organ according to this millitome's protocol.
+  This millitome was designed in collaboration with Vanderbilt University for the Pancreas, Female. It defines a protocol for partitioning a human kidney organ into tissue blocks and associating those tissue blocks with a unique extraction site that is located in the HRA CCF. The [HRA AMAP](https://github.com/cns-iu/hra-amap) process was used to create the included tissue block extraction sites which approximate partitioning the [Pancreas, Female](https://purl.humanatlas.io/ref-organ/pancreas-female) reference organ according to this millitome's protocol.
+  
   **Bibliography:**
 
   * Börner, Katy, Andreas Bueckle, Bruce W. Herr II, Leonard E. Cross, Ellen M. Quardokus, Elizabeth G. Record, Yingnan Ju, et al. 2022. “Tissue Registration and Exploration User Interfaces in Support of a Human Reference Atlas.” *Communications Biology* 5 (1): 1369. https://doi.org/10.1038/s42003-022-03644-x.
@@ -45,3 +46,5 @@ citation: >-
   https://doi.org/10.48539/HBM432.PXFD.228.	Accessed December 15, 2025.
 datatable:
   - extraction-sites.jsonld
+references:
+  - https://doi.org/10.1038/s42003-022-03644-x
