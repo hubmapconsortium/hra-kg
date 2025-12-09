@@ -1,5 +1,5 @@
 export MAX_PROCESSES=12
-export JAVA_OPTS="-Xms2g -Xmx96g"
+export JAVA_OPTS="-Xms8g -Xmx96g -XX:+UseParallelGC -XX:-UseCompressedOops"
 export NODE_OPTIONS="--max-old-space-size=96000"
 
 if [ -e "env.sh" ]; then

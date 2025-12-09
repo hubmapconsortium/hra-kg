@@ -1,8 +1,8 @@
 #!/bin/bash
 source constants.sh
 
-VERSION=v2.3
-PREV=v2.2
+VERSION=v2.4
+PREV=v2.3
 CLEAN="true"
 
 COLL=collection/hra/$VERSION
