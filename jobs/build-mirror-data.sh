@@ -3,8 +3,8 @@ source constants.sh
 shopt -s extglob
 set -ev
 
-VERSION=v2.3
-DIR=staging
+VERSION=v2.4
+DIR=dist
 ARCHIVE=scratch/hra-kg.${VERSION}.tar.xz
 mkdir -p scratch
 
