@@ -19,6 +19,10 @@ creators:
     firstName: Aleix
     lastName: Puig-Barbe
     orcid: 0000-0001-6677-8489
+  - fullName: Nicole Vasilevsky
+    firstName: Nicole
+    lastName: Vasilevsky
+    orcid: 0000-0001-5208-3432
 project_leads:
   - fullName: Katy Börner
     firstName: Katy
