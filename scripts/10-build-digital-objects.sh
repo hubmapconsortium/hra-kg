@@ -41,3 +41,21 @@ for obj in $(do-processor list | grep -v '^collection' | shuf); do
 done
 
 wait_for_empty_queue
+
+# Run again on any that failed the second time
+for obj in $(do-processor list | grep -v '^collection' | shuf); do
+  if [ ! -e dist/${obj}/graph.ttl ] || [ ! -e digital-objects/${obj}/enriched/enriched.ttl ]; then
+    mkdir -p dist/${obj}
+    queue_job "./src/run-do-processor.sh $PROCESSOR_OPTS build $BUILD_OPTS $CLEAN_DOs $obj"
+  fi
+done
+
+wait_for_empty_queue
+
+# Fail if some digital objects didn't process
+for obj in $(do-processor list | grep -v '^collection' | shuf); do
+  if [ ! -e dist/${obj}/graph.ttl ] || [ ! -e digital-objects/${obj}/enriched/enriched.ttl ]; then
+    echo "Some digital objects failed to process. Exiting..."
+    exit -1
+  fi
+done
