@@ -1,0 +1,5 @@
+node_name,OntologyID,label
+VH_F_subcutaneous_abdominal_adipose_tissue,UBERON:0014455,subcutaneous abdominal adipose tissue
+VH_F_subcutaneous_abdominal_adipose_tissue_umbilicus_area,UBERON:0014455,subcutaneous abdominal adipose tissue
+VH_F_subcutaneous_abdominal_adipose_tissue_RUQ_area,UBERON:0014455,subcutaneous abdominal adipose tissue
+VH_F_subcutaneous_abdominal_adipose_tissue_LUQ_area,UBERON:0014455,subcutaneous abdominal adipose tissue

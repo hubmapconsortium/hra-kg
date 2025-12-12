@@ -1,0 +1,66 @@
+title: >-
+  OMAP-34: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Esophagus with CODEX
+description: |-
+  OMAP-34 was designed for CO-Detection by indEXing (CODEX) imaging of human fresh frozen esophagus samples (https://doi.org/10.1016/j.cell.2018.07.010; https://doi.org/10.1038/s41596-021-00556-8). The panel contains 31 antibodies; β-Catenin (CTNNB1) was used for cell segmentation while Hoechst served as the nuclear marker. This OMAP provides a spatial context for 8 anatomical structures present in the esophagus: basal epithelium, suprabasal epithelium, superficial epithelium, lamina propria, muscularis mucosae, submucosa, muscularis propria, and blood vessels. Within these layers, the panel covers 18 cell types, including basal, suprabasal, and superficial squamous epithelial cells, stromal fibroblasts, endothelial cells, smooth muscle/myofibroblasts, and multiple immune subsets (CD4, CD8, FOXP3, CD68, pan-leukocyte marker CD45). In the absence of an ASCT+B table for the human esophagus, the number of anatomical structures, cell types, and biomarkers were defined by subject-matter experts, including pathologists and tissue biologists. Several markers in the panel capture disease-related states such as fibrosis and stromal activation (α-Smooth Muscle Actin [ACTA2], Vimentin [VIM], Periostin [POSTN]), DNA damage and tumor suppression (Phosphatase and Tensin Homolog [PTEN], Poly(ADP-Ribose) Polymerase-1 [PARP1]), and cellular stress or apoptosis (Cornulin [CRNN], B-Cell Lymphoma-2 [BCL2], Heat Shock Protein Beta-1 [HSPB1], Interleukin-33 [IL33]). Additional epithelial and differentiation markers include Keratin-5 [KRT5], Keratin-13 [KRT13], Keratin-14 [KRT14], Keratin-16 [KRT16], Involucrin [IVL], Periplakin [PPL], and Mucin-1 [MUC1]. Proliferative and transcriptional regulators (Ki-67 [MKI67], SOX2, TP63) and immune-checkpoint or hypoxia markers (Programmed Cell Death-1 [PD-1; PDCD1], Programmed Death-Ligand-1 [PD-L1; CD274], Hypoxia-Inducible Factor-1α [HIF1A]) are also represented, supporting analysis of tissue remodeling, immune regulation, and epithelial renewal. Certain important cell populations are not fully represented due to the lack of reliable antibodies, highly specific markers, or antibodies compatible with the complete CODEX antibody panel, including esophageal glandular cells (submucosal glands and ducts), B cells (CD19, CD20), and innate lymphoid cells (CD127). Enteric neurons and glial cells of the esophageal submucosa were not included, as they are not relevant for the current study. No antibodies required early-cycle placement to preserve antigenicity.  
+creators:
+  - fullName: Jeffrey Reina
+    firstName: Jeffrey
+    lastName: Reina
+    orcid: 0000-0003-0525-9727
+  - fullName: Diana Mahdessian
+    firstName: Diana
+    lastName: Mahdessian
+    orcid: 0000-0003-0750-1070
+  - fullName: Emma Lundberg
+    firstName: Emma
+    lastName: Lundberg
+    orcid: 0000-0001-7034-0850
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+hubmapId: HBM432.MDNQ.649
+doi: https://doi.org/10.48539/HBM432.MDNQ.649
+citation: >-
+  authors. OMAP-34: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based 
+  Imaging of Human Esophagus with CODEX, v.1.0 https://doi.org/10.48539/HBM432.MDNQ.649 Accessed December 15, 2025.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari 	
+  P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin 
+  AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, 	
+  Ginty F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, 
+  Stockwell BR,Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, 	
+  Radtke AJ. Organ Mapping Antibody Panels: a community resource for standardized 	
+  multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
+  https://doi.org/10.1038/s41592-023-01846-7. Accessed December 15, 2025.
+datatable:
+  - omap-34-esophagus-codex.csv
+  - omap-34-esophagus-codex.xlsx
+references:
+  - https://doi.org/10.1016/j.cell.2018.07.010

@@ -1,7 +1,7 @@
 title: cell type annotations for SpaTial cELl LeARning (STELLAR)
 description: |-
   This crosswalk maps the cell type annotations from SpaTial cELl LeARning (STELLAR), (Brbić* et al., 2022) to the
-  latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-04-10/cl.owl
+  latest revision of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl
 
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
   available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data.
@@ -32,7 +32,19 @@ reviewers:
     firstName: Katy
     lastName: Börner
     orcid: 0000-0002-3321-6137
-externalReviewers: []
+  - fullName: Jie Zheng
+    firstName: Jie
+    lastName: Zheng
+    orcid: 0000-0002-2999-0103
+  - fullName: Nicole Vasilevsky
+    firstName: Nicole
+    lastName: Vasilevsky
+    orcid: 0000-0001-5208-3432
+externalReviewers:
+  - fullName: John Hickey
+    firstName: John
+    lastName: Hickey
+    orcid: 0000-0001-5675-3974
 creation_date: "2025-09-04"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -42,12 +54,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM674.JFSD.677
-# doi: https://doi.org/10.48539/HBM674.JFSD.677
-# citation: >-
-# Puig-Barbe, Aleix.
-# 2025.	"Crosswalk of Robust Image-Based Cell Annotator (RIBCA) Annotated Cells to Cell Ontology, v1.0."
-# https://doi.org/10.48539/HBM674.JFSD.677.	Accessed June 15, 2025.
+hubmapId: HBM554.JQLD.949
+doi: https://doi.org/10.48539/HBM554.JQLD.949
+citation: >-
+  Puig-Barbe, Aleix.
+  2025.	"Crosswalk of SpaTial cELl LeARning (STELLAR) Annotated Cells to Cell Ontology, v1.0."
+  https://doi.org/10.48539/HBM554.JQLD.949.	Accessed December 15, 2025.
 datatable:
   - stellar-crosswalk.csv
 references:

@@ -39,12 +39,10 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM234.MJXF.928
-# doi: https://doi.org/10.48539/HBM234.MJXF.928
-# citation: >-
-# Puig-Barbe, Aleix.
-# 2025.	"Crosswalk of Deepcelltypes Annotated Cells to Cell Ontology, v1.0."
-# https://doi.org/10.48539/HBM234.MJXF.928.	Accessed June 15, 2025.
+citation: >-
+  Puig-Barbe, Aleix.
+  2025.	"Crosswalk of Deepcelltypes Annotated Cells to Cell Ontology, v1.0."
+  https://purl.humanatlas.io/ctann/deepcelltypes/v1.0.	Accessed June 15, 2025.
 datatable:
   - deepcelltypes-crosswalk.csv
 references:

@@ -1,0 +1,30 @@
+title: HuBMAP Research Attributes Value Set
+description: |-
+  A collection of curated and standardized values used by the HuBMAP metadata records to ensure uniformity in the
+  description of samples and single-cell data produced by the consortium (Bueckle et al. 2025).
+
+  **Bibliography:**
+
+  * Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
+creators:
+  - fullName: Josef Hardi
+    firstName: Josef
+    lastName: Hardi
+    orcid: 0000-0002-2533-6681
+  - fullName: Stephen Fisher
+    firstName: Stephen
+    lastName: Fisher
+    orcid: 0000-0001-8034-7685
+creation_date: "2024-11-20"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+datatable:
+  - hravs.ttl
+references:
+  - https://doi.org/10.1101/2024.12.22.630006

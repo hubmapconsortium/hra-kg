@@ -1,0 +1,40 @@
+Crosswalk of Deep Cell Types annotated cells to Cell Ontology,,,,,,
+,,,,,,
+Author Name(s):,"Aleix Puig-Barbe, Nicole Vasilevsky",,,,,
+Author ORCID(s):,"0000-0001-6677-8489, 0000-0001-5208-3432",,,,,
+Reviewer(s):,"Bruce Herr II, Katy Borner, Jie Zheng",,,,,
+Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137, 0000-0002-2999-0103",,,,,
+General Publication(s):,https://doi.org/10.1101/2024.11.02.621624,,,,,
+Data DOI:,https://doi.org/10.48539/HBM525.CBGX.696,,,,,
+Date:,"December 15, 2025",,,,,
+Version number:,v1.1,,,,,
+Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
+body proper_L1,UBERON:0013702,Cell,DCT:0000001,cell,CL:0000000,skos:exactMatch
+body proper_L2,UBERON:0013702,Tcell,DCT:0000002,T cell,CL:0000084,skos:exactMatch
+body proper_L3,UBERON:0013702,Treg,DCT:0000003,regulatory T cell,CL:0000815,skos:exactMatch
+body proper_L3,UBERON:0013702,CD4T,DCT:0000004,"CD4-positive, alpha-beta T cell",CL:0000624,skos:exactMatch
+body proper_L3,UBERON:0013702,CD8T,DCT:0000005,"CD8-positive, alpha-beta T cell",CL:0000625,skos:exactMatch
+body proper_L3,UBERON:0013702,NKT,DCT:0000006,mature NK T cell,CL:0000814,skos:exactMatch
+body proper_L2,UBERON:0013702,Bcell,DCT:0000007,B cell,CL:0000236,skos:exactMatch
+body proper_L3,UBERON:0013702,Plasma,DCT:0000008,plasma cell,CL:0000786,skos:exactMatch
+body proper_L2,UBERON:0013702,NK,DCT:0000009,natural killer cell,CL:0000623,skos:exactMatch
+body proper_L2,UBERON:0013702,Dendritic,DCT:0000010,dendritic cell,CL:0000451,skos:exactMatch
+body proper_L2,UBERON:0013702,Mast,DCT:0000011,mast cell,CL:0000097,skos:exactMatch
+body proper_L2,UBERON:0013702,Neutrophil,DCT:0000012,neutrophil,CL:0000775,skos:exactMatch
+body proper_L2,UBERON:0013702,Macrophage,DCT:0000013,macrophage,CL:0000235,skos:exactMatch
+body proper_L2,UBERON:0013702,Monocyte,DCT:0000014,monocyte,CL:0000576,skos:exactMatch
+body proper_L2,UBERON:0013702,Epithelial,DCT:0000015,epithelial cell,CL:0000066,skos:exactMatch
+body proper_L3,UBERON:0013702,Goblet,DCT:0000016,goblet cell,CL:0000160,skos:exactMatch
+body proper_L3,UBERON:0013702,Paneth,DCT:0000017,paneth cell,CL:0000510,skos:exactMatch
+body proper_L3,UBERON:0013702,Enterocyte,DCT:0000018,enterocyte,CL:0000584,skos:exactMatch
+body proper_L3,UBERON:0013702,Endocrine,DCT:0000019,endocrine cell,CL:0000163,skos:exactMatch
+body proper_L2,UBERON:0013702,Endothelial,DCT:0000020,endothelial cell,CL:0000115,skos:exactMatch
+body proper_L3,UBERON:0013702,LymphaticEndothelial,DCT:0000021,endothelial cell of lymphatic vessel,CL:0002138,skos:exactMatch
+body proper_L3,UBERON:0013702,BloodVesselEndothelial,DCT:0000022,blood vessel endothelial cell,CL:0000071,skos:exactMatch
+body proper_L2,UBERON:0013702,Fibroblast,DCT:0000023,fibroblast,CL:0000057,skos:exactMatch
+body proper_L3,UBERON:0013702,Myofibroblast,DCT:0000024,myofibroblast cell,CL:0000186,skos:exactMatch
+body proper_L2,UBERON:0013702,SmoothMuscle,DCT:0000025,smooth muscle cell,CL:0000192,skos:exactMatch
+body proper_L2,UBERON:0013702,Glia,DCT:0000026,glial cell,CL:0000125,skos:exactMatch
+body proper_L2,UBERON:0013702,Neuron,DCT:0000027,neuron,CL:0000540,skos:exactMatch
+body proper_L2,UBERON:0013702,Tumor,DCT:0000028,neoplastic cell,CL:0001063,skos:exactMatch
+body proper_L2,UBERON:0013702,TransitAmplifying,DCT:0000029,transit amplifying cell,CL:0009010,skos:exactMatch

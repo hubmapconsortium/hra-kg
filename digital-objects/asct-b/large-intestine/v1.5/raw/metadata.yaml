@@ -1,0 +1,71 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Large Intestine
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested large-intestine structure of anatomical human body parts, the typology of cells, and biomarkers used to
+  identify cell types. The tables are authored and reviewed by an international team of experts. The Large Intestine
+  ASCT+B table includes detailed anatomical structures such as the cecum, ascending colon, transverse colon, descending
+  colon, sigmoid colon, rectum, and anal canal. Associated cell types, including various epithelial and immune cells,
+  are mapped alongside relevant biomarkers. This comprehensive mapping supports research into gastrointestinal biology
+  and related medical conditions.
+creators:
+  - fullName: Teri A. Longacre
+    firstName: Teri
+    lastName: Longacre
+    orcid: 0000-0002-0935-7300
+  - fullName: John Hickey
+    firstName: John
+    lastName: Hickey
+    orcid: 0000-0001-5675-3974
+  - fullName: Yiing Lin
+    firstName: Yiing
+    lastName: Lin
+    orcid: 0000-0002-0317-7608
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Aaron Horning
+    firstName: Aaron
+    lastName: Horning
+    orcid: 0000-0003-3247-0798
+  - fullName: Mark Arends
+    firstName: Mark
+    lastName: Arends
+    orcid: 0000-0002-6826-8770
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Supriya Bidanta
+    firstName: Supriya
+    lastName: Bidanta
+    orcid: 0000-0002-2142-983X
+externalReviewers:
+  - fullName: Katherine S. Garman
+    firstName: Katherine
+    lastName: Garman
+    orcid: 0000-0001-7763-8465
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM779.MRXG.925
+doi: https://doi.org/10.48539/HBM779.MRXG.925
+citation: >-
+  Longacre, Teri A.,	John Hickey,	and Yiing Lin.
+  2025.	"HuBMAP ASCT+B Tables. Large Intestine v1.5."
+  https://doi.org/10.48539/HBM779.MRXG.925.	Accessed December 15, 2025.
+citationOverall: >-
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2025.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
+datatable:
+  - asct-b-vh-large-intestine.csv

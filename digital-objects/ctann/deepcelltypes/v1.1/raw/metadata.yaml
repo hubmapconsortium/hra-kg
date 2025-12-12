@@ -1,0 +1,63 @@
+title: cell type annotations for deepcelltypes
+description: |-
+  This crosswalk maps the cell type annotations from deepcelltypes (Wang et al. 2024) to the latest revision of Cell
+  Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl  More information on deepcelltype
+  is available at https://github.com/vanvalenlab/deepcell-types.
+
+  The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
+  available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
+
+  **Bibliography:**
+
+  * Wang, Xuefei (Julie), Rohit Dilip, Yuval Bussi, Caitlin Brown, Elora Pradhan, Yashvardhan Jain, Kevin Yu, et al. 2024. “Generalized Cell Phenotyping for Spatial Proteomics with Language-Informed Vision Models.” bioRxiv. https://doi.org/10.1101/2024.11.02.621624.
+creators:
+  - fullName: Aleix Puig-Barbe
+    firstName: Aleix
+    lastName: Puig-Barbe
+    orcid: 0000-0001-6677-8489
+  - fullName: Nicole Vasilevsky
+    firstName: Nicole
+    lastName: Vasilevsky
+    orcid: 0000-0001-5208-3432
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Jie Zheng
+    firstName: Jie
+    lastName: Zheng
+    orcid: 0000-0002-2999-0103
+externalReviewers:
+  - fullName: Ross Barnowski
+    firstName: Ross
+    lastName: Barnowski
+    orcid: 0009-0004-4184-8566
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM525.CBGX.696
+doi: https://doi.org/10.48539/HBM525.CBGX.696
+citation: >-
+  Puig-Barbe, Aleix.
+  2025.	"Crosswalk of Deepcelltypes Annotated Cells to Cell Ontology, v1.1."
+  https://doi.org/10.48539/HBM525.CBGX.696.	Accessed December 15, 2025.
+datatable:
+  - deepcelltypes-crosswalk.csv
+references:
+  - https://doi.org/10.1101/2024.11.02.621624

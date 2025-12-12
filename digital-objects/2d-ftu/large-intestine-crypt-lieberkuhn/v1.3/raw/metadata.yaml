@@ -1,0 +1,61 @@
+title: 2D Crypt of Lieberkuhn FTU for Large Intestine
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the Crypt of Lieberkuhn FTU in the ASCT+B Table [Large Intestine v1.2](https://doi.org/10.48539/HBM494.RRLD.598). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology* (Ovalle, Nahirney, and Netter 2021; *Junqueira’s Basic Histology Text & Atlas* Mescher 2024; *Human Microscopic Anatomy* Krstić 1991; and Histology: A Text and Atlas* Wojciech Pawlina and Michael H. Ross 2019)
+  were referenced. Measurements were taken from (Baker et al. 2014; Wang et al. 2013). Uberon describes this FTU as follows: "A crypt of Lieberkühn that is part of a large intestine."
+
+  **Bibliography**:
+
+  * Baker, Ann-Marie, Biancastella Cereser, Samuel Melton, Alexander G. Fletcher, Manuel Rodriguez-Justo, Paul J. Tadrous, Adam Humphries, et al. 2014. “Quantification of Crypt and Stem Cell Evolution in the Normal and Neoplastic Human Colon.” *Cell Reports* 8 (4): 940–47. https://doi.org/10.1016/j.celrep.2014.07.019.
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springer*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Mescher, Anthony L. 2024. Junqueira’s Basic Histology: Text and Atlas. Seventeenth edition. McGraw Hill Lange. New York, NY: *McGraw Hill*.
+  * Ovalle, William K., Patrick C. Nahirney, and Frank H. Netter. 2021. Netter’s Essential Histology: With Correlated Histopathology. Third edition. Philadelphia, PA: *Elsevier*.
+  * Wang, Yuli, Asad A. Ahmad, Pavak K. Shah, Christopher E. Sims, Scott T. Magness, and Nancy L. Allbritton. 2013. “Capture and 3D Culture of Colonic Crypts and Colonoids in a Microarray Platform.” *Lab on a Chip* 13 (23): 4625–34. https://doi.org/10.1039/c3lc50813g.
+  * Wojciech Pawlina and Michael H. Ross. 2019. “Histology: A Text and Atlas: With Correlated Cell and Molecular Biology. Eighth Edition, 2018 Authors: Wojciech Pawlina; Michael H. Ross.” *Morphologia* 13 (4): 76–89. https://doi.org/10.26641/1997-9665.2019.4.76-89.
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: John Hickey
+    firstName: John
+    lastName: Hickey
+    orcid: 0000-0001-5675-3974
+  - fullName: Yiing Lin
+    firstName: Yiing
+    lastName: Lin
+    orcid: 0000-0002-0317-7608
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM586.WBNC.422
+doi: https://doi.org/10.48539/HBM586.WBNC.422
+citation: >-
+  Bajema, Rachel. 2025. 2D Crypt of Lieberkuhn FTU for Large Intestine, v1.3. https://doi.org/10.48539/HBM586.WBNC.422.
+  Accessed on December 15, 2025.
+citationOverall: >-
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.
+datatable:
+  - 2d-ftu-large-intestine-crypt-lieberkuhn.svg
+  - 2d-ftu-large-intestine-crypt-lieberkuhn.png
+  - 2d-ftu-large-intestine-crypt-lieberkuhn.ai
+  - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM494.RRLD.598
+  - https://doi.org/10.1016/j.celrep.2014.07.019
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.26641/1997-9665.2019.4.76-89
+  - https://doi.org/10.1039/c3lc50813g

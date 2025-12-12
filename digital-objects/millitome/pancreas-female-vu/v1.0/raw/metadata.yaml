@@ -1,13 +1,8 @@
 title: Millitome for VU Pancreas, Female
 description: |-
-  A millitome is a device used to hold and slice organs into a grid of equally sized tissue blocks.  It has an
-  associated digital data package that includes an STL file and a spreadsheet for assigning spatial locations to tissue
-  block IDs and gathering metadata with information about the size, dimensions,  donor sex, and laterality of the
-  reference organ for which the millitome is fitted (https://humanatlas.io/millitome).  This millitome was designed in
-  collaboration with Vanderbilt University for the Pancreas, Female. The extraction sites generated with a milliome can
-  then be displayed in the Exploration User Interface.
-
-  Bibilography:
+  This millitome was designed in collaboration with Vanderbilt University for the Pancreas, Female. It defines a protocol for partitioning a human kidney organ into tissue blocks and associating those tissue blocks with a unique extraction site that is located in the HRA CCF. The [HRA AMAP](https://github.com/cns-iu/hra-amap) process was used to create the included tissue block extraction sites which approximate partitioning the [Pancreas, Female](https://purl.humanatlas.io/ref-organ/pancreas-female) reference organ according to this millitome's protocol.
+  
+  **Bibliography:**
 
   * Börner, Katy, Andreas Bueckle, Bruce W. Herr II, Leonard E. Cross, Ellen M. Quardokus, Elizabeth G. Record, Yingnan Ju, et al. 2022. “Tissue Registration and Exploration User Interfaces in Support of a Human Reference Atlas.” *Communications Biology* 5 (1): 1369. https://doi.org/10.1038/s42003-022-03644-x.
 creators:
@@ -25,12 +20,16 @@ project_leads:
     lastName: Börner
     orcid: 0000-0002-3321-6137
 reviewers:
-  - fullName: Ellen M. Quardokus
-    firstName: Ellen
-    lastName: Quardokus
-    orcid: 0000-0001-7655-4833
+  - fullName: Angela Kruse
+    firstName: Angela
+    lastName: Kruse
+    orcid: 0000-0001-8776-2769
+  - fullName: Diane Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
 externalReviewers: []
-creation_date: "2025-10-20"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -39,11 +38,13 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM978.SXGV.683
-# doi: https://doi.org/10.48539/HBM978.SXGV.683
-# citation: >-
-# Bhavsar, Antara,	and Bhargav Desai.
-# 2025.	"Millitome for VU Pancreas, Female, v1.0."
-# https://doi.org/10.48539/HBM978.SXGV.683.	Accessed June 15, 2025.
+hubmapId: HBM432.PXFD.228
+doi: https://doi.org/10.48539/HBM432.PXFD.228
+citation: >-
+  Bhavsar, Antara,	and Bhargav Desai.
+  2025.	"Millitome for VU Pancreas, Female, v1.0."
+  https://doi.org/10.48539/HBM432.PXFD.228.	Accessed December 15, 2025.
 datatable:
   - extraction-sites.jsonld
+references:
+  - https://doi.org/10.1038/s42003-022-03644-x

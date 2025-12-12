@@ -1,0 +1,71 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood Vasculature
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are
+  authored and reviewed by an international team of experts. A description of this Blood Vasculature ASCT+B table can be
+  found in "Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature" by Boppana et al.
+  2023. The database and code used to generate the more simplified view of the Blood Vasculature in these ASCT+B tables
+  may be found here :
+  (https://github.com/hubmapconsortium/hra-vccf).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+
+  **Bibliography:**                                                                                                                                          
+
+  * Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Katherine S. Gustilo, Ellen M. Quardokus, Bruce W. Herr II, Katy Börner, and Griffin M. Weber. 2023. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature.” *Scientific Data* 10 (1): 452. https://doi.org/10.1038/s41597-023-02018-0.                                                                                                                                                                                                                                                                                                                                                                                         
+  * Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr II, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” *Nature Cell Biology* 23 (11): 1117–28. https://doi.org/10.1038/s41556-021-00788-6.
+creators:
+  - fullName: Griffin Weber
+    firstName: Griffin
+    lastName: Weber
+    orcid: 0000-0002-2597-881X
+  - fullName: Sujin Lee
+    firstName: Sujin
+    lastName: Lee
+    orcid: 0000-0002-6692-6880
+  - fullName: Rajeev Malhotra
+    firstName: Rajeev
+    lastName: Malhotra
+    orcid: 0000-0003-0120-4630
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Marc Halushka
+    firstName: Marc
+    lastName: Halushka
+    orcid: 0000-0002-7112-7389
+  - fullName: Avinash Boppana
+    firstName: Avinash
+    lastName: Boppana
+    orcid: 0000-0003-0834-8274
+  - fullName: Katherine S Gustilo
+    firstName: Katherine
+    lastName: Gustilo
+    orcid: 0000-0002-5574-4272
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM795.RGQQ.776
+doi: https://doi.org/10.48539/HBM795.RGQQ.776
+citation: >-
+  Weber, Griffin,	Sujin Lee, and Rajeev Malhotra.
+  2025.	"HuBMAP ASCT+B Tables. Blood Vasculature v1.9."
+  https://doi.org/10.48539/HBM795.RGQQ.776.	Accessed December 15, 2025.
+citationOverall: >-
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2025.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
+datatable:
+  - asct-b-vh-blood-vasculature.csv
+references:
+  - https://doi.org/10.1038/s41597-023-02018-0
+  - https://doi.org/10.1038/s41556-021-00788-6

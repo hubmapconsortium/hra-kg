@@ -1,0 +1,54 @@
+title: 2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the thymus lobule FTU in the ASCT+B Table [Thymus v1.2](https://doi.org/10.48539/HBM284.RFDC.542). The cell types and measurements were referenced from (Palumbo 2008; “Thymus Histology,” n.d.; “Lobules of Thymus - e-Anatomy - IMAIOS,” n.d.)Uberon describes this FTU as follows: "A lobule that is part of a thymus. Divided into an outer cortex and inner medulla and separated from each other by connective tissue septa, but with the medullary tissue continuous from lobule to lobule." 
+
+  **Bibliography**:
+
+  * “Lobules of Thymus - e-Anatomy - *IMAIOS*.” n.d. Accessed September 25, 2023. https://www.imaios.com/en/e-anatomy/anatomical-structure/lobules-of-thymus-1553795620.
+  * Palumbo, Carla. 2008. “Embryology and Anatomy of the Thymus Gland.” In Thymus Gland Pathology, edited by Corrado Lavini, Cesar A. Moran, Uliano Morandi, and Rudolf Schoenhuber, 13–18. Milan, Italy: *Springer*. https://doi.org/10.1007/978-88-470-0828-1_2.
+  * “Thymus Histology.” n.d. *Kenhub*. Accessed September 25, 2023. https://www.kenhub.com/en/library/anatomy/histology-of-the-thymus.
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Maigan Brusko
+    firstName: Maigan
+    lastName: Brusko
+    orcid: 0000-0002-4331-2202
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM692.ZCZP.456
+doi: https://doi.org/10.48539/HBM692.ZCZP.456
+citation: >-
+  Bajema, Rachel. 2025. 2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.4.
+  https://doi.org/10.48539/HBM692.ZCZP.456. Accessed on December 15, 2025.
+citationOverall: >-
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations.  Accessed December 15, 2025.
+datatable:
+  - 2d-ftu-thymus-thymus-lobule.svg
+  - 2d-ftu-thymus-thymus-lobule.png
+  - 2d-ftu-thymus-thymus-lobule.ai
+  - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM284.RFDC.542
+  - https://doi.org/10.1007/978-88-470-0828-1_2

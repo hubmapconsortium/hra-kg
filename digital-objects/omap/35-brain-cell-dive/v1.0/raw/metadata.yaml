@@ -1,0 +1,71 @@
+title: >-
+  OMAP-35: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Brain with Cell DIVE
+description: |-
+  OMAP-35 was designed for Cell DIVE multiplexed imaging of formalin-fixed paraffin-embedded (FFPE) human brain tissue. Cell DIVE enables highly multiplexed single cell analysis using antibody-based imaging (https://doi.org/10.1073/pnas.1300136110). The tissue slides were prepared with a two-step antigen retrieval process (pH 6 and pH 9) to maximize epitope accessibility across diverse targets, as described here: https://doi.org/10.17504/protocols.io.bpwumpew. Antigen detection was performed using a combination of primary antibodies with fluorophore-labeled secondary antibodies and directly conjugated fluorescent antibodies, following the standardized Cell DIVE staining protocol: https://doi.org/10.17504/protocols.io.bpv6mn9e. The panel contains 18 antibodies and the nuclear marker DAPI for image registration and nuclear segmentation. This OMAP provides spatial resolution across 15 anatomical structures and identifies 17 distinct cell types, encompassing a rich diversity of neurons (mature, developing, inhibitory, GABAergic interneurons), glial populations (oligodendrocytes and precursors, astrocytes, microglia, and macrophage), immune, and vascular components. In the future, this OMAP could be expanded to include additional markers for vasculature (CD31 is validated for Cell DIVE in human brain but was not represented in this dataset), excitatory neurons and neural stem/progenitor cells, as well as alignment with the ASCT+B Brain table. Of the 18 markers, 4 are referenced in the ASCT+B Brain v1.7 ontology (https://doi.org/10.48539/HBM849.ZMHS.766): AIF1, GFAP, MBP, and PVALB. OMAP-35 provides a foundation for subsequent brain OMAPs and supports applications such as mapping neuroinflammation and neurodegenerative disease progression across cortical and subcortical regions. A representative dataset can be found on Zenodo: https://doi.org/10.5281/zenodo.17037632.
+
+  **Bibliography:**
+
+  * Gerdes, Michael J., Christopher J. Sevinsky, Anup Sood, Sudeshna Adak, Musodiq O. Bello, Alexander Bordwell, Ali Can, et al. 2013. “Highly Multiplexed Single-Cell Analysis of Formalin-Fixed, Paraffin-Embedded Cancer Tissue.” Proceedings of the National Academy of Sciences 110 (29): 11982–87. https://doi.org/10.1073/pnas.1300136110.
+  * McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. 2020. “Cell DIVE Platform | Slide Clearing and Antigen Retrieval.” https://doi.org/10.17504/protocols.io.bpwumpew.
+  * McDonough, Liz, Chrystal Chadwick, Fiona Ginty, Christine Surrette, and Anup Sood. “Cell DIVE™ Platform | Antibody Staining & Imaging.” https://doi.org/10.17504/protocols.io.bpv6mn9e
+  * Miller, Jeremy A., Siletti, Kimberly, Scheuermann, Richard H. “Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Brain.”  https://doi.org/10.48539/HBM849.ZMHS.766
+  * Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette, Presha Rajbhandari, et al. 2023. “Publication Page Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging.” HuBMAP Data Portal. July 19, 2023. https://portal.hubmapconsortium.org/browse/publication/e8338966c69e759157d6c6ad24847989.
+creators:
+  - fullName: Elizabeth McDonough
+    firstName: Elizabeth
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+hubmapId: HBM348.HTGG.485
+doi: https://doi.org/10.48539/HBM348.HTGG.485
+citation: >-
+  Elizabeth McDonough. OMAP-35: Organ Mapping Antibody Panel (OMAP) for Multiplexed 
+  Antibody-Based Imaging of Human Brain with Cell DIVE, v.1.0 https://doi.org/10.48539/HBM348.HTGG.485 Accessed
+  December 15, 2025.
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari 	
+  P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin 
+  AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, 	
+  Ginty F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, 
+  Stockwell BR,Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, 	
+  Radtke AJ. Organ Mapping Antibody Panels: a community resource for standardized 	
+  multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
+  https://doi.org/10.1038/s41592-023-01846-7. Accessed December 15, 2025.
+datatable:
+  - omap-35-brain-cell-dive.csv
+  - omap-35-brain-cell-dive.xlsx
+references:
+  - https://doi.org/10.1073/pnas.1300136110
+  - https://doi.org/10.17504/protocols.io.bpwumpew
+  - https://doi.org/10.17504/protocols.io.bpv6mn9e
+  - https://doi.org/10.48539/HBM849.ZMHS.766
+  - https://doi.org/10.5281/zenodo.17037632

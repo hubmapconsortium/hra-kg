@@ -1,0 +1,65 @@
+title: 2D Liver Lobule Functional Tissue Unit (FTU) for Liver
+description: |-
+  This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the ASCT+B Table [Liver v1.1](https://doi.org/10.48539/HBM456.SLDZ.399). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology* (Ovalle, Nahirney, and Netter 2021; *Junqueira’s Basic Histology Text & Atlas* Mescher 2024; *Human Microscopic Anatomy* Krstić 1991; and *Histology: A Text and Atlas* Wojciech Pawlina and Michael H. Ross 2019)
+  were referenced. Measurements were taken from (Hall et al. 2017; Gray, Gray, and Lewis 1918; Krebs, Neville, and Vacanti 2007). Uberon describes this FTU as follows: "The polygonal structure of the liver that consists of hepatocytes radiating outward from a hepatic vein."
+
+  **Bibliography**:
+
+  * Gray, Henry, Henry Gray, and Warren H Lewis. 1918. Anatomy of the Human Body. Philadelphia,: *Lea & Febiger*,. https://doi.org/10.5962/bhl.title.20311.
+  * Hall, Andrew, Claudia Covelli, Roberta Manuguerra, Tu Vinh Luong, Elena Buzzetti, Emmanuel Tsochatzis, Massimo Pinzani, and Amar Paul Dhillon. 2017. “Transaminase Abnormalities and Adaptations of the Liver Lobule Manifest at Specific Cut-Offs of Steatosis.” *Scientific Reports* 7 (1): 40977. https://doi.org/10.1038/srep40977.
+  * Krebs, Nicholas J., Craig Neville, and Joseph P. Vacanti. 2007. “Cellular Transplants for Liver Diseases.” In Cellular Transplantation, 215–40. *Elsevier*. https://doi.org/10.1016/B978-012369415-7/50013-2.
+  * Krstić, Radivoj V. 1991. Human Microscopic Anatomy. Berlin, Heidelberg: *Springe*. https://doi.org/10.1007/978-3-662-02676-2.
+  * Mescher, Anthony L. 2024. Junqueira’s Basic Histology: Text and Atlas. Seventeenth edition. McGraw Hill Lange. New York, NY: *McGraw Hill*.
+  * Ovalle, William K., Patrick C. Nahirney, and Frank H. Netter. 2021. Netter’s Essential Histology: With Correlated Histopathology. Third edition. Philadelphia, PA: *Elsevier*.
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Anna Maria Masci
+    firstName: Anna
+    lastName: Masci
+    orcid: 0000-0003-1940-6740
+  - fullName: Tim Kendall
+    firstName: Tim
+    lastName: Kendall
+    orcid: 0000-0002-4174-2786
+  - fullName: Ayako Suzuki
+    firstName: Ayako
+    lastName: Suzuki
+    orcid: 0000-0003-1824-1067
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM637.XDHL.997
+doi: https://doi.org/10.48539/HBM637.XDHL.997
+citation: >-
+  Bajema, Rachel. 2025. 2D Liver Lobule Functional Tissue Unit (FTU) for Liver, v1.4.
+  https://doi.org/10.48539/HBM637.XDHL.997. Accessed on December 15, 2025.
+citationOverall: >-
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.
+datatable:
+  - 2d-ftu-liver-liver-lobule.svg
+  - 2d-ftu-liver-liver-lobule.png
+  - 2d-ftu-liver-liver-lobule.ai
+  - crosswalk.csv
+references:
+  - https://doi.org/10.5962/bhl.title.20311
+  - https://doi.org/10.48539/HBM456.SLDZ.399
+  - https://doi.org/10.1038/srep40977
+  - https://doi.org/10.1016/B978-012369415-7/50013-2
+  - https://doi.org/10.1007/978-3-662-02676-2

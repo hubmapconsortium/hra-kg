@@ -18,7 +18,11 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
-externalReviewers: []
+externalReviewers:
+  - fullName: Carlos Simon
+    firstName: Carlos
+    lastName: Simon
+    orcid: 0000-0003-0902-9531 
 creation_date: "2022-05-06"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

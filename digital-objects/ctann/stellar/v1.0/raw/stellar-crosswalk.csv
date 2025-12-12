@@ -2,14 +2,14 @@ Crosswalk of STELLAR annotated cells to Cell Ontology,,,,,,
 ,,,,,,
 Author Name(s):,John Hickey,,,,,
 Author ORCID(s):,0000-0001-5675-3974,,,,,
-Reviewer(s):,John Hickey; Bruce Herr II; Katy Borner,,,,,
-Reviewer ORCID(s):,0000-0001-5675-3974; 0000-0002-6703-7647; 0000-0002-3321-6137,,,,,
+Reviewer(s):,"John Hickey, Bruce Herr II, Katy Borner, Jie Zheng, Nicole Vasilevsky",,,,,
+Reviewer ORCID(s):,"0000-0001-5675-3974, 0000-0002-6703-7647, 0000-0002-3321-6137, 0000-0002-2999-0103, 0000-0001-5208-3432",,,,,
 General Publication(s):,,,,,,
-Data DOI:,,,,,,
-Date:,"September 4, 2025",,,,,
+Data DOI:,https://doi.org/10.48539/HBM554.JQLD.949,,,,,
+Date:,"December 15, 2025",,,,,
 Version number:,v1.0,,,,,
 Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
-Intestine,UBERON:0000160,smooth muscle,STELLAR:0000001,smooth muscle cell,CL:0000192,skos:exactMatch
+Intestine,UBERON:0000160,smooth muscle,STELLAR:0000001,enteric smooth muscle cell,CL:0002504,skos:exactMatch
 Intestine,UBERON:0000160,stromal cell,STELLAR:0000002,stromal cell,CL:0000499,skos:exactMatch
 Intestine,UBERON:0000160,endothelial cell,STELLAR:0000003,endothelial cell,CL:0000115,skos:exactMatch
 Intestine,UBERON:0000160,neuron,STELLAR:0000004,neuron,CL:0000540,skos:exactMatch
@@ -22,15 +22,15 @@ Intestine,UBERON:0000160,"CD4-positive, alpha-beta T cell",STELLAR:0000010,"CD4-
 Intestine,UBERON:0000160,B cell,STELLAR:0000011,B cell,CL:0000236,skos:exactMatch
 Intestine,UBERON:0000160,dendritic cell,STELLAR:0000012,dendritic cell,CL:0000451,skos:exactMatch
 Intestine,UBERON:0000160,inflammatory macrophage,STELLAR:0000013,inflammatory macrophage,CL:0000863,skos:exactMatch
-Intestine,UBERON:0000160,neutrophil,STELLAR:0000014,neutrophil,CL:0000775,skos:narrowMatch
+Intestine,UBERON:0000160,neutrophil,STELLAR:0000014,neutrophil,CL:0000775,skos:exactMatch
 Intestine,UBERON:0000160,CD7-positive lymphoid progenitor cell,STELLAR:0000015,CD7-positive lymphoid progenitor cell,CL:0001028,skos:exactMatch
 Intestine,UBERON:0000160,natural killer cell,STELLAR:0000016,natural killer cell,CL:0000623,skos:exactMatch
 Intestine,UBERON:0000160,enterocyte,STELLAR:0000017,enterocyte,CL:0000584,skos:exactMatch
 Intestine,UBERON:0000160,goblet cell,STELLAR:0000018,goblet cell,CL:0000160,skos:exactMatch
-Intestine,UBERON:0000160,cycling TA,STELLAR:0000019,transit amplifying cell,CL:0009010,skos:narrowMatch
-Intestine,UBERON:0000160,CD66+ Enterocyte,STELLAR:0000020,enterocyte,CL:0000584,skos:narrowMatch
-Intestine,UBERON:0000160,TA,STELLAR:0000021,transit amplifying cell,CL:0009010,skos:narrowMatch
-Intestine,UBERON:0000160,MUC1+ Enterocyte,STELLAR:0000022,enterocyte,CL:0000584,skos:narrowMatch
+Intestine,UBERON:0000160,cycling TA,STELLAR:0000019,transit amplifying cell:cycling,CL:0009010,skos:narrowMatch
+Intestine,UBERON:0000160,CD66+ Enterocyte,STELLAR:0000020,enterocyte:CD66+,CL:0000584,skos:narrowMatch
+Intestine,UBERON:0000160,TA,STELLAR:0000021,transit amplifying cell,CL:0009010,skos:exactMatch
+Intestine,UBERON:0000160,MUC1+ Enterocyte,STELLAR:0000022,enterocyte:MUC1,CL:0000584,skos:narrowMatch
 Intestine,UBERON:0000160,paneth,STELLAR:0000023,paneth cell,CL:0000510,skos:exactMatch
 Intestine,UBERON:0000160,neuroendocrine,STELLAR:0000024,neuroendocrine cell,CL:0000165,skos:exactMatch
-Intestine,UBERON:0000160,CD57+ Enterocyte,STELLAR:0000025,enterocyte,CL:0000584,skos:narrowMatch
+Intestine,UBERON:0000160,CD57+ Enterocyte,STELLAR:0000025,enterocyte:CD57,CL:0000584,skos:narrowMatch

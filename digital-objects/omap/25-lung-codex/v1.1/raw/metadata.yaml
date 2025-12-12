@@ -1,0 +1,102 @@
+title: >-
+  OMAP-25: Expanded Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with CODEX
+description: |-
+  OMAP-25 was developed for Multiplexed Immunofluorescence (MxIF) imaging of human formalin-fixed paraffin-embedded
+  (FFPE) lung sections using the Akoya Biosciences Phenocycler-Fusion platform (Purkerson, Pryhuber, Colon, et al.
+  2025a). This panel includes 45 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation.
+  OMAP-25 provides spatial context for airway, vasculature, and alveolar structures, identifying approximately 40 out of
+  72 key epithelial, endothelial, and immune cell types defined in the ASCT+B lung table v1.2 (Pryhuber 2021). While the
+  panel offers broad coverage of lung cell types, it does not yet identify capillary type 1 and capillary type 2
+  endothelial cells, eosinophils/basophils, fibroblasts/pericytes, chondrocytes, or NK cells due to ongoing development
+  of antibody-oligonucleotide conjugates with sufficient specificity for these markers. Protein targets were detected
+  using barcode-conjugated antibodies either sourced directly from Akoya Biosciences or produced via custom conjugation
+  using Akoya’s antibody conjugation kit (Cat# 232195). Tissue sections underwent antigen retrieval in AR9 Buffer
+  (Akoya, PN#AR9001KT) using a pressure cooker for 20 minutes, along with autofluorescence quenching. For optimal
+  imaging of proximal lung tissues containing large airway and vascular features, antibodies targeting extracellular
+  matrix, endothelium, and vascular smooth muscle should be imaged within the first five cycles to minimize structural
+  degradation. Pan markers (e.g., PanCK, ACTA2) can be reserved for later cycles. Image analysis was performed using a
+  combination of segmentation tools, vascular and airway feature annotation, and export of masks and annotations, as
+  described in (Purkerson, Pryhuber, Colon, et al. 2025b). The antibody validation protocol is available in a separate
+  reference (Purkerson, Pryhuber, Huyck, et al. 2025).
+
+  **Bibliography:**
+
+  * Pryhuber, Gloria. 2021. “Lung (v1.2) Graph Data, v1.2.” https://lod.humanatlas.io/asct-b/lung/v1.2/.
+  * Purkerson, Jeffrey, Gloria S. Pryhuber, Luis Colon, and Heidie Huyck. 2025a. “813.1 Multiplexed Immunofluorescence Phenocycler-Fusion® Imaging of FFPE Lung Sections.” https://www.protocols.io/view/813-1-multiplexed-immunofluorescence-phenocycler-f-dt3j6qkn.
+  * Purkerson, Jeffrey, Gloria S. Pryhuber, Luis Colon, and Heidie Huyck. 2025b. “813.1 Multiplexed Immunofluorescence Phenocycler-Fusion® Imaging of FFPE Lung Sections.” https://www.protocols.io/view/813-1-multiplexed-immunofluorescence-phenocycler-f-dt3j6qkn.
+  * Purkerson, Jeffrey, Gloria S. Pryhuber, Heidie Huyck, and Gail Deutsch. 2025. “812.2 Lung FFPE Multiplexed Immunofluorescence Phenocycler-Fusion® Antibody Validation Protocol.” https://www.protocols.io/view/812-2-lung-ffpe-multiplexed-immunofluorescence-phe-dqjn5ume.
+creators:
+  - fullName: Jeffrey M. Purkerson
+    firstName: Jeffrey M.
+    lastName: Purkerson
+    orcid: 0000-0001-7636-4992
+  - fullName: Gloria S. Pryhuber
+    firstName: Gloria S.
+    lastName: Pryhuber
+    orcid: 0000-0002-9185-3994
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Liz McDonough
+    firstName: Liz
+    lastName: McDonough
+    orcid: 0000-0001-7524-8260
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+hubmapId: HBM497.LJTV.953
+doi: https://doi.org/10.48539/HBM497.LJTV.953
+citation: >-
+  Purkerson, Jeffrey M.,	and Gloria S. Pryhuber.	
+  2025.	"OMAP-25: Expanded Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with CODEX, v1.1."	
+  https://doi.org/10.48539/HBM497.LJTV.953.	Accessed December 15, 2025.
+citationOverall: >-
+  Quardokus, E. M.,	D. C. Saunders,	E. McDonough,	J. W. Hickey,	C. Werlein,	C. Surrette,	
+  P. Rajbhandari,	A. M. Casals,	H. Tian,	L. Lowery,	E. K. Neumann,	F. Björklund,	
+  T. V. Neelakantan,	J. Croteau,	A. E. Wiblin,	J. Fisher,	A. J. Livengood,	K. G. Dowell,	
+  J. C. Silverstein,	J. M. Spraggins,	G. S. Pryhuber,	G. Deutsch,	F. Ginty,	
+  G. P. Nolan,	S. Melov,	D. Jonigk,	M. A. Caldwell,	I. S. Vlachos,	W. Muller,	
+  N. Gehlenborg,	B. R. Stockwell,	E. Lundberg,	M. P. Snyder,	R. N. Germain,	
+  J. M. Camarillo,	N. L. Kelleher,	K. Börner,	and A. J. Radtke.	
+  2023.	"Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging."	
+  *Nature Methods*	20 (8):	1174–78.	https://doi.org/10.1038/s41592-023-01846-7.	Accessed June 15, 2025.
+datatable:
+  - omap-25-lung-codex.csv
+  - omap-25-lung-codex.xlsx
+references:
+  - https://doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3
+  - https://doi.org/10.17504/protocols.io.rm7vzkm14vx1/v1
+  - https://doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3
+  - https://doi.org/10.48539/HBM396.QVLQ.449

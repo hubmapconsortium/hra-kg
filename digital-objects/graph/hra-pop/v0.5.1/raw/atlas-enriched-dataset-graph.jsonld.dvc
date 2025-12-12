@@ -1,0 +1,5 @@
+outs:
+- md5: 44b0c6d7041f67a869d68a8ccfb6fb3e
+  size: 84059517
+  hash: md5
+  path: atlas-enriched-dataset-graph.jsonld

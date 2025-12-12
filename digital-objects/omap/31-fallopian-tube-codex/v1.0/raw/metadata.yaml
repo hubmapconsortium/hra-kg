@@ -1,0 +1,71 @@
+title: >-
+  OMAP-31: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Fallopian Tube with CODEX
+description: |-
+  OMAP-31 was designed for imaging of formalin-fixed, paraffin-embedded (FFPE) human fallopian tube by CO-Detection by indEXing (CODEX) (https://doi.org/10.1038/s41596-021-00556-8). Containing 40 antibodies and the nuclear marker DAPI, this OMAP provides spatial context for 47 anatomical structures and 15 cell types defined in the ASCT+B Fallopian Tube v1.4 (https://doi.org/10.48539/HBM582.QBPD.334). It also facilitates identification of basement membrane and extracellular matrix components. Marker selection was guided by single-cell and single-nucleus RNA-seq datasets as well as expert review. OMAP-31 is one of the first OMAPs for the human female reproductive system but targets cell types shared across other organs (e.g., endothelial, smooth muscle, stromal, resident immune) and shares many antibody clones with other FFPE CODEX OMAPs: OMAP-16 (lung) (https://doi.org/10.48539/HBM397.PHBH.975), OMAP-32 (uterus), and OMAP-33 (ovary). This OMAP does not contain markers for Langerhans cells or plasma cells. OMAP-31 is appropriate for reproductive-age and postmenopausal samples. Panel design and validation were performed on the PhenoCycler Fusion system (Akoya Biosciences). Antibodies targeting ACTA2 (clone EPR5368), CADPS, CDKN2A, DNALI1, ENG, EPCAM, FOXJ1, FUT4, KLRC1, LGALS14, MCAM, PAX8, PGR, RUNX3, and VWF were conjugated in-house using custom conjugation kits (Akoya Biosciences). Antigen retrieval was conducted using AR9 buffer (Akoya Biosciences). A representative dataset is forthcoming on the HuBMAP portal.
+
+creators:
+  - fullName: Alexander Cabrera
+    firstName: Alexander
+    lastName: Cabrera
+    orcid: 0009-0007-0189-026X
+  - fullName: Jean Rosario
+    firstName: Jean
+    lastName: Rosario
+    orcid: 0000-0002-6116-5058
+  - fullName: Kathleen O’Neill
+    firstName: Kathleen
+    lastName: O’Neill
+    orcid: 0000-0003-1980-6840
+project_leads:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+  - fullName: Neil Kelleher
+    firstName: Neil
+    lastName: Kelleher
+    orcid: 0000-0002-8815-3372
+reviewers:
+  - fullName: Diane C. Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Cancer Institute
+    awardNumber: UH3 CA246635
+hubmapId: HBM595.QVWW.767
+doi: https://doi.org/10.48539/HBM595.QVWW.767
+citation: >-
+  Alexander Cabrera, Jean Rosario, Kathleen O’Neill. OMAP-31: Organ Mapping Antibody Panel 
+  (OMAP) for Multiplexed Antibody-Based Imaging of Human Fallopian Tube with CODEX, v.1.0 
+  https://doi.org/10.48539/HBM595.QVWW.767 Accessed December 15, 2025.
+
+citationOverall: >-
+  Quardokus EM, Saunders DC, McDonough E, Hickey JW, Werlein C, Surrette C, Rajbhandari 	
+  P,Casals AM, Tian H, Lowery L, Neumann EK, Björklund F, Neelakantan TV, Croteau J, Wiblin 
+  AE,Fisher J, Livengood AJ, Dowell KG, Silverstein JC, Spraggins JM, Pryhuber GS, Deutsch G, 	
+  Ginty F, Nolan GP, Melov S, Jonigk D, Caldwell MA, Vlachos IS, Muller W, Gehlenborg N, 
+  Stockwell BR,Lundberg E, Snyder MP, Germain RN, Camarillo JM, Kelleher NL, Börner K, 	
+  Radtke AJ. Organ Mapping Antibody Panels: a community resource for standardized 	
+  multiplexed tissue imaging. Nat Methods. 2023 Aug;20(8):1174–8, 
+  https://doi.org/10.1038/s41592-023-01846-7. Accessed December 15, 2025.
+datatable:
+  - omap-31-fallopian-tube-codex.csv
+  - omap-31-fallopian-tube-codex.xlsx
+references:
+  - https://doi.org/10.1038/s41596-021-00556-8
+  - https://doi.org/10.48539/HBM582.QBPD.334
+  - https://doi.org/10.48539/HBM397.PHBH.975

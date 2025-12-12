@@ -1,0 +1,5 @@
+outs:
+- md5: 5ba77ad2cd5fdab834a953967d0ff1a1
+  size: 149440651
+  hash: md5
+  path: hgnc.owl

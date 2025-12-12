@@ -1,0 +1,69 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Pancreas
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested pancreas structure of anatomical human body parts, the typology of cells, and biomarkers used to identify
+  cell types. The tables are authored and reviewed by an international team of experts. The pancreas ASCT+B table
+  delineates the organ's anatomical structures, including the head, body, tail, and lobular regions, and maps associated
+  cell types such as acinar, ductal, and various endocrine cells, along with their corresponding biomarkers. This
+  comprehensive mapping supports research into pancreatic biology and related medical conditions.
+creators:
+  - fullName: Martha Campbell-Thompson
+    firstName: Martha
+    lastName: Campbell-Thompson
+    orcid: 0000-0001-6878-1235
+  - fullName: Adel Eskaros
+    firstName: Adel
+    lastName: Eskaros
+    orcid: 0000-0001-9028-338X
+  - fullName: Diane Saunders
+    firstName: Diane
+    lastName: Saunders
+    orcid: 0000-0002-8849-6746
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Al Powers
+    firstName: Al
+    lastName: Powers
+    orcid: 0000-0003-1941-5786
+  - fullName: Clayton Mathews
+    firstName: Clayton
+    lastName: Mathews
+    orcid: 0000-0002-8817-6355
+  - fullName: Angela Kruse
+    firstName: Angela
+    lastName: Kruse
+    orcid: 0000-0001-8776-2769
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers:
+  - fullName: Diego Balboa
+    firstName: Diego
+    lastName: Balboa
+    orcid: 0000-0002-4784-5452
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM527.NDSX.792
+doi: https://doi.org/10.48539/HBM527.NDSX.792
+citation: >-
+  Campbell-Thompson, Martha,	Adel Eskaros,	and Diane Saunders.
+  2025.	"HuBMAP ASCT+B Tables. Pancreas v1.3."
+  https://doi.org/10.48539/HBM527.NDSX.792.	Accessed December 15, 2025.
+citationOverall: >-
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2025.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
+datatable:
+  - asct-b-vh-pancreas.csv

@@ -1,0 +1,51 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Mouth
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested anatomical structure of human body parts, the typology of cells, and biomarkers used to identify cell
+  types. The tables are authored and reviewed by an international team of experts. The Mouth ASCT+B table includes
+  detailed anatomical structures such as the gingiva, tongue, buccal mucosa, hard palate, floor of mouth, and major
+  salivary ducts, along with associated epithelial, stromal, vascular, immune, and neural cell types. This comprehensive
+  mapping supports research into oral epithelial differentiation, mucosal immune regulation, salivary gland biology, and
+  related medical conditions such as periodontitis, Sjögren’s disease, and head and neck cancer.
+creators:
+  - fullName: Kevin M. Byrd
+    firstName: Kevin M.
+    lastName: Byrd
+    orcid: 0000-0002-5565-0524
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Griffin M Weber
+    firstName: Griffin
+    lastName: Weber
+    orcid: 0000-0002-2597-881X
+externalReviewers: []
+creation_date: "2025-12-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+hubmapId: HBM632.GTVR.643
+doi: https://doi.org/10.48539/HBM632.GTVR.643
+citation: >-
+  Quardokus, Ellen M.
+  2025.	"HuBMAP ASCT+B Tables. Anatomical Systems, v1.1."
+  https://doi.org/10.48539/HBM632.GTVR.643.	Accessed December 15, 2025.
+citationOverall: >-
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2024.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2025.
+datatable:
+  - asct-b-vh-mouth.csv
