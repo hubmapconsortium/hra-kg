@@ -1,1 +1,6 @@
-SELECT ?s WHERE { { ?s ?p1 [] } UNION { [] ?p2 ?s FILTER (isIRI(?s)) } }
+SELECT DISTINCT ?s
+WHERE {
+  { ?s ?p1 [] FILTER (isIRI(?s)) }
+  UNION
+  { [] ?p2 ?s FILTER (isIRI(?s)) }
+}
