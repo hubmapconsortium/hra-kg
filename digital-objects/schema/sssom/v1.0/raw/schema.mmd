@@ -1,0 +1,116 @@
+erDiagram
+MappingSet {
+    uri mapping_set_id  
+    string mapping_set_version  
+    uriList mapping_set_source  
+    string mapping_set_title  
+    string mapping_set_description  
+    EntityReferenceList creator_id  
+    stringList creator_label  
+    uri license  
+    entity_type_enum subject_type  
+    EntityReference subject_source  
+    string subject_source_version  
+    entity_type_enum object_type  
+    EntityReference object_source  
+    string object_source_version  
+    entity_type_enum predicate_type  
+    uri mapping_provider  
+    string mapping_tool  
+    string mapping_tool_version  
+    date mapping_date  
+    date publication_date  
+    EntityReferenceList subject_match_field  
+    EntityReferenceList object_match_field  
+    EntityReferenceList subject_preprocessing  
+    EntityReferenceList object_preprocessing  
+    stringList see_also  
+    uri issue_tracker  
+    string other  
+    string comment  
+}
+Mapping {
+    EntityReference subject_id  
+    string subject_label  
+    string subject_category  
+    EntityReference predicate_id  
+    string predicate_label  
+    predicate_modifier_enum predicate_modifier  
+    EntityReference object_id  
+    string object_label  
+    string object_category  
+    EntityReference mapping_justification  
+    EntityReferenceList author_id  
+    stringList author_label  
+    EntityReferenceList reviewer_id  
+    stringList reviewer_label  
+    EntityReferenceList creator_id  
+    stringList creator_label  
+    uri license  
+    entity_type_enum subject_type  
+    EntityReference subject_source  
+    string subject_source_version  
+    entity_type_enum object_type  
+    EntityReference object_source  
+    string object_source_version  
+    entity_type_enum predicate_type  
+    uri mapping_provider  
+    EntityReference mapping_source  
+    mapping_cardinality_enum mapping_cardinality  
+    string mapping_tool  
+    string mapping_tool_version  
+    date mapping_date  
+    date publication_date  
+    double confidence  
+    EntityReferenceList curation_rule  
+    stringList curation_rule_text  
+    EntityReferenceList subject_match_field  
+    EntityReferenceList object_match_field  
+    stringList match_string  
+    EntityReferenceList subject_preprocessing  
+    EntityReferenceList object_preprocessing  
+    double similarity_score  
+    string similarity_measure  
+    stringList see_also  
+    EntityReference issue_tracker_item  
+    string other  
+    string comment  
+}
+MappingRegistry {
+    EntityReference mapping_registry_id  
+    string mapping_registry_title  
+    string mapping_registry_description  
+    uriList imports  
+    uri documentation  
+    uri homepage  
+    uri issue_tracker  
+}
+MappingSetReference {
+    uri mapping_set_id  
+    uri mirror_from  
+    double registry_confidence  
+    string mapping_set_group  
+    date last_updated  
+    string local_name  
+}
+Prefix {
+    ncname prefix_name  
+    uri prefix_url  
+}
+ExtensionDefinition {
+    ncname slot_name  
+    uriorcurie property  
+    uriorcurie type_hint  
+}
+Propagatable {
+    boolean propagated  
+}
+NoTermFound {
+
+}
+
+MappingSet ||--}o Prefix : "curie_map"
+MappingSet ||--}o Mapping : "mappings"
+MappingSet ||--}o ExtensionDefinition : "extension_definitions"
+MappingRegistry ||--}o MappingSetReference : "mapping_set_references"
+

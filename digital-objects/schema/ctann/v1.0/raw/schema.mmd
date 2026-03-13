@@ -1,0 +1,126 @@
+erDiagram
+Container {
+    uriorcurie iri  
+}
+CtAnnMappingSet {
+    uriorcurie id  
+    string label  
+    uri mapping_set_id  
+    string mapping_set_version  
+    uriList mapping_set_source  
+    string mapping_set_title  
+    string mapping_set_description  
+    EntityReferenceList creator_id  
+    stringList creator_label  
+    string license  
+    entity_type_enum subject_type  
+    EntityReference subject_source  
+    string subject_source_version  
+    entity_type_enum object_type  
+    EntityReference object_source  
+    string object_source_version  
+    entity_type_enum predicate_type  
+    uri mapping_provider  
+    string mapping_tool  
+    string mapping_tool_version  
+    date mapping_date  
+    date publication_date  
+    EntityReferenceList subject_match_field  
+    EntityReferenceList object_match_field  
+    EntityReferenceList subject_preprocessing  
+    EntityReferenceList object_preprocessing  
+    uri issue_tracker  
+    string other  
+    string comment  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+Prefix {
+    ncname prefix_name  
+    uri prefix_url  
+}
+CtAnnExtensionDefinition {
+    uriorcurie id  
+    string label  
+    ncname slot_name  
+    uriorcurie property  
+    uriorcurie type_hint  
+}
+CtAnnMapping {
+    uriorcurie id  
+    string label  
+    string ext_organ_level  
+    EntityReference subject_id  
+    string subject_label  
+    string subject_category  
+    EntityReference predicate_id  
+    string predicate_label  
+    predicate_modifier_enum predicate_modifier  
+    EntityReference object_id  
+    string object_label  
+    string object_category  
+    EntityReference mapping_justification  
+    EntityReferenceList author_id  
+    stringList author_label  
+    EntityReferenceList reviewer_id  
+    stringList reviewer_label  
+    EntityReferenceList creator_id  
+    stringList creator_label  
+    string license  
+    entity_type_enum subject_type  
+    EntityReference subject_source  
+    string subject_source_version  
+    entity_type_enum object_type  
+    EntityReference object_source  
+    string object_source_version  
+    entity_type_enum predicate_type  
+    uri mapping_provider  
+    EntityReference mapping_source  
+    mapping_cardinality_enum mapping_cardinality  
+    string mapping_tool  
+    string mapping_tool_version  
+    date mapping_date  
+    date publication_date  
+    double confidence  
+    EntityReferenceList curation_rule  
+    stringList curation_rule_text  
+    EntityReferenceList subject_match_field  
+    EntityReferenceList object_match_field  
+    stringList match_string  
+    EntityReferenceList subject_preprocessing  
+    EntityReferenceList object_preprocessing  
+    double similarity_score  
+    string similarity_measure  
+    EntityReference issue_tracker_item  
+    string other  
+    string comment  
+}
+AnatomicalStructureID {
+    uriorcurie id  
+}
+CtAnnMetadata {
+    string title  
+    string description  
+    date creation_date  
+    string version  
+    string license  
+    string publisher  
+}
+
+Container ||--|o CtAnnMetadata : "metadata"
+Container ||--|o CtAnnMappingSet : "data"
+CtAnnMappingSet ||--}o Named : "type_of"
+CtAnnMappingSet ||--}o CtAnnMapping : "mappings"
+CtAnnMappingSet ||--}o CtAnnExtensionDefinition : "extension_definitions"
+CtAnnMappingSet ||--}o Prefix : "curie_map"
+CtAnnMappingSet ||--|o Named : "see_also"
+CtAnnExtensionDefinition ||--}o Named : "type_of"
+CtAnnMapping ||--}o Named : "type_of"
+CtAnnMapping ||--|o AnatomicalStructureID : "ext_organ_id"
+CtAnnMapping ||--|o Named : "see_also"
+CtAnnMetadata ||--}o Named : "created_by"
+CtAnnMetadata ||--|o Named : "see_also"
+CtAnnMetadata ||--|o Named : "derived_from"
+

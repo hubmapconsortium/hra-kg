@@ -1,0 +1,23 @@
+erDiagram
+Container {
+    uriorcurie iri  
+    string data  
+}
+DigitalObjectMetadata {
+    string title  
+    string description  
+    date creation_date  
+    string version  
+    string license  
+    string publisher  
+}
+Named {
+    uriorcurie id  
+    string label  
+}
+
+Container ||--|o DigitalObjectMetadata : "metadata"
+DigitalObjectMetadata ||--}o Named : "created_by"
+DigitalObjectMetadata ||--|o Named : "see_also"
+DigitalObjectMetadata ||--|o Named : "derived_from"
+
