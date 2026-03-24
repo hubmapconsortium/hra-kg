@@ -1,0 +1,9 @@
+node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Ascending_Thin_Limb_Cell_1,Ascending_Thin_Limb_Cell,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,loop of Henle ascending limb thin segment,UBERON:0004193,Kidney,UBERON:0002113
+Ascending_Thin_Limb_Cell_2,Ascending_Thin_Limb_Cell,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,loop of Henle ascending limb thin segment,UBERON:0004193,Kidney,UBERON:0002113
+Ascending_Thin_Limb_Cell_3,Ascending_Thin_Limb_Cell,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,loop of Henle ascending limb thin segment,UBERON:0004193,Kidney,UBERON:0002113
+Ascending_Vasa_Recta_1,Ascending_Vasa_Recta,vasa recta ascending limb cell,CL:1001131,loop of Henle ascending limb thin segment,UBERON:0004193,Kidney,UBERON:0002113
+Ascending_Vasa_Recta_2,Ascending_Vasa_Recta,vasa recta ascending limb cell,CL:1001131,loop of Henle ascending limb thin segment,UBERON:0004193,Kidney,UBERON:0002113
+Ascending_Vasa_Recta_3,Ascending_Vasa_Recta,vasa recta ascending limb cell,CL:1001131,loop of Henle ascending limb thin segment,UBERON:0004193,Kidney,UBERON:0002113
+Ascending_Vasa_Recta_4,Ascending_Vasa_Recta,vasa recta ascending limb cell,CL:1001131,loop of Henle ascending limb thin segment,UBERON:0004193,Kidney,UBERON:0002113
+Ascending_Vasa_Recta_5,Ascending_Vasa_Recta,vasa recta ascending limb cell,CL:1001131,loop of Henle ascending limb thin segment,UBERON:0004193,Kidney,UBERON:0002113
