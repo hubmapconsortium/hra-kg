@@ -1,0 +1,13 @@
+title: LOINC Document Ontology
+description: |-
+  LOINC is a common language (a set of identifiers, names, and codes) for identifying health measurements, observations, and documents.
+
+  LOINC is a rich catalog of measurements, including laboratory tests, clinical measures like vital signs and anthropometric measures, standardized survey instruments, and more. LOINC also contains codes for collections of these items, such as panels, forms, and documents.
+
+  LOINC enables the exchange and aggregation of clinical results for care delivery, outcomes management, and research by providing a set of universal codes and structured names to unambiguously identify things you can measure or observe.
+creation_date: "2026-02-17"
+license: >-
+  This material contains content from LOINC (http://loinc.org). LOINC is copyright © Regenstrief Institute, Inc. and the Logical Observation Identifiers Names and Codes (LOINC) Committee and is available at no cost under the license at http://loinc.org/license. LOINC® is a registered United States trademark of Regenstrief Institute, Inc.
+datatable:
+  - loinc.owl
+  - LoincLicense_5.8.txt
