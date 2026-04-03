@@ -2,7 +2,6 @@ node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ
 Natural_Killer_Cell_1,Natural_Killer_Cell,natural killer cell,CL:0000623,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Natural_Killer_Cell_2,Natural_Killer_Cell,natural killer cell,CL:0000623,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Natural_Killer_Cell_3,Natural_Killer_Cell,natural killer cell,CL:0000623,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
-Natural_Killer_Cell_4,Natural_Killer_Cell,natural killer cell,CL:0000623,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Fibroblast_1,Fibroblast,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Fibroblast_2,Fibroblast,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Fibroblast_3,Fibroblast,fibroblast,CL:0000057,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
@@ -341,9 +340,6 @@ Enterocyte_299,Enterocyte,enterocyte,CL:0000584,intestinal villus,UBERON:0001213
 Enterocyte_300,Enterocyte,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Enterocyte_301,Enterocyte,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Enterocyte_302,Enterocyte,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
-Enterocyte_303,Enterocyte,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
-Enterocyte_304,Enterocyte,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
-Enterocyte_305,Enterocyte,enterocyte,CL:0000584,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Mast_Cell_1,Mast_Cell,mast cell,CL:0000097,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Mast_Cell_2,Mast_Cell,mast cell,CL:0000097,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Goblet_Cell_1,Goblet_Cell,mast cell,CL:0000097,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
@@ -622,7 +618,6 @@ B_Cell_156,B_Cell,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intes
 B_Cell_157,B_Cell,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 B_Cell_158,B_Cell,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 B_Cell_159,B_Cell,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
-B_Cell_160,B_Cell,B cell,CL:0000236,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Eosinophil_1,Eosinophil,eosinophil,CL:0000771,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Eosinophil_2,Eosinophil,eosinophil,CL:0000771,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108
 Eosinophil_3,Eosinophil,eosinophil,CL:0000771,intestinal villus,UBERON:0001213,Small Intestine,UBERON:0002108

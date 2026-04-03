@@ -1,5 +1,6 @@
 node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
-Myoepithelial_Cell,Myoepithelial_Cell,myoepithelial cell of sweat gland,CL:1000417,hair follicle,UBERON:0002073,Skin,UBERON:0002097
+Myoepithelial_Cell_P1,Myoepithelial_Cell,myoepithelial cell of sweat gland,CL:1000417,hair follicle,UBERON:0002073,Skin,UBERON:0002097
+Myoepithelial_Cell_P2,Myoepithelial_Cell,myoepithelial cell of sweat gland,CL:1000417,hair follicle,UBERON:0002073,Skin,UBERON:0002097
 Hair_Follicle_Melanocyte_1,Hair_Follicle_Melanocyte,hair follicle melanocyte,CL:0002483,hair follicle,UBERON:0002073,Skin,UBERON:0002097
 Hair_Follicle_Melanocyte_2,Hair_Follicle_Melanocyte,hair follicle melanocyte,CL:0002483,hair follicle,UBERON:0002073,Skin,UBERON:0002097
 Hair_Follicle_Melanocyte_3,Hair_Follicle_Melanocyte,hair follicle melanocyte,CL:0002483,hair follicle,UBERON:0002073,Skin,UBERON:0002097

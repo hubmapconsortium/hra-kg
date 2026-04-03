@@ -1,6 +1,6 @@
 title: 2D Parotid Gland Ducto-Acinar for Mouth
 description: |-
-  This functional tissue unit (FTU) illustration includes cell types related to the parotid gland ducto-acinar FTU in the ASCT+B Table [Mouth v1.0](link to table TBD). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology* (Ovalle and Nahirney 2021), *Junqueira’s Basic Histology Text & Atlas* (Mescher 2021), *Human Microscopic Anatomy* (Krstić 1994), *Histology: A Text and Atlas* (Ross et al. 2003), and *Netter’s Head and Neck Anatomy for Dentistry* (Norton and Willett 2025) were referenced. Uberon describes this FTU as follows: "The parotid gland is the largest of the salivary glands. It is found wrapped around the mandibular ramus, and it secretes saliva through Stensen's duct into the oral cavity, to facilitate mastication and swallowing." 
+  This functional tissue unit (FTU) illustration includes cell types related to the parotid gland ducto-acinar FTU in the ASCT+B Table [Mouth <>](<>). Multiple histology atlases, especially *Netter’s Essential Histology with Correlated Histopathology* (Ovalle and Nahirney 2021), *Junqueira’s Basic Histology Text & Atlas* (Mescher 2021), *Human Microscopic Anatomy* (Krstić 1994), *Histology: A Text and Atlas* (Ross et al. 2003), and *Netter’s Head and Neck Anatomy for Dentistry* (Norton and Willett 2025) were referenced. Uberon describes this FTU as follows: "The parotid gland is the largest of the salivary glands. It is found wrapped around the mandibular ramus, and it secretes saliva through Stensen's duct into the oral cavity, to facilitate mastication and swallowing." 
 
   **Bibliography**:
 
@@ -34,14 +34,14 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM722.GJVX.795
-# doi: https://doi.org/10.48539/HBM722.GJVX.795
+# hubmapId: HBM466.TLJQ.498
+# doi: https://doi.org/10.48539/HBM466.TLJQ.498
 # citation: >-
-#   Bajema, Rachel. 2025. Mouth, Parotid Gland Ducto-Acinar 2D FTU v.1.1. https://doi.org/10.48539/HBM722.GJVX.795.
-#   Accessed on December 15, 2025.
-citationOverall: >-
-  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
-  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2025.
+#   Bajema, Rachel. 2024. Mouth, Parotid Gland Ducto-Acinar 2D FTU v.1.0. https://doi.org/10.48539/HBM466.TLJQ.498.
+#   Accessed on June 15, 2025.
+# citationOverall: >-
+#   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2025. HuBMAP CCF 2D Reference
+#   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on June 15, 2025.
 datatable:
   - 2d-ftu-mouth-parotid-gland.svg
   - 2d-ftu-mouth-parotid-gland.png
