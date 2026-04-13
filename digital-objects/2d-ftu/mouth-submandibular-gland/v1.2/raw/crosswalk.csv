@@ -234,7 +234,7 @@ Basal_Ductal_Cell_2,Basal_Ductal_Cell,,,submandibular gland,UBERON:0001736,Mouth
 Basal_Ductal_Cell_3,Basal_Ductal_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
 Basal_Ductal_Cell_4,Basal_Ductal_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
 Basal_Ductal_Cell_5,Basal_Ductal_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Excretory_Ductal_Epithelial_Cell_1,Excretory_Ductal_Epithelial_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Excretory_Ductal_Epithelial_Cell_1,Excretory_Ductal_Epithelial_Cell,"Excretory ductal epithelial cell ",,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
 Excretory_Ductal_Epithelial_Cell_2,Excretory_Ductal_Epithelial_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
 Excretory_Ductal_Epithelial_Cell_3,Excretory_Ductal_Epithelial_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
 Excretory_Ductal_Epithelial_Cell_4,Excretory_Ductal_Epithelial_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
@@ -242,33 +242,33 @@ Excretory_Ductal_Epithelial_Cell_5,Excretory_Ductal_Epithelial_Cell,,,submandibu
 Excretory_Ductal_Epithelial_Cell_6,Excretory_Ductal_Epithelial_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
 Excretory_Ductal_Epithelial_Cell_7,Excretory_Ductal_Epithelial_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
 Excretory_Ductal_Epithelial_Cell_8,Excretory_Ductal_Epithelial_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_1,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_2,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_3,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_4,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_5,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_6,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_7,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_8,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_9,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_10,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_11,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_12,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_13,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_14,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_15,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_16,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_17,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_18,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_19,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_20,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_21,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_22,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_23,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_24,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_25,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_26,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
-Straited_Duct_Epithelial_Cell_27,Straited_Duct_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_1,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_2,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_3,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_4,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_5,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_6,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_7,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_8,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_9,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_10,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_11,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_12,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_13,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_14,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_15,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_16,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_17,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_18,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_19,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_20,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_21,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_22,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_23,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_24,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_25,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_26,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
+Striated_Ductal_Epithelial_Cell_27,Striated_Ductal_Epithelial_Cell,striated cell of salivary gland,CL:4052049,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
 Demilune_Acinar_Cell_1,Demilune_Acinar_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
 Demilune_Acinar_Cell_2,Demilune_Acinar_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165
 Demilune_Acinar_Cell_3,Demilune_Acinar_Cell,,,submandibular gland,UBERON:0001736,Mouth,UBERON:0000165

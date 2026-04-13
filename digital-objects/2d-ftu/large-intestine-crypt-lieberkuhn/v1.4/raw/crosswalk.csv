@@ -90,16 +90,16 @@ Goblet_Cell_11,Goblet_Cell,large intestine crypt goblet cell,CL:1000321,crypt of
 Absorptive_Cell_78,Absorptive_Cell,enterocyte of epithelium of large intestine,CL:0002071,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
 Absorptive_Cell_79,Absorptive_Cell,enterocyte of epithelium of large intestine,CL:0002071,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
 Absorptive_Cell_80,Absorptive_Cell,enterocyte of epithelium of large intestine,CL:0002071,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Enteroendocrine_Cell_1,Enteroendocrine_Cells,neuroendocrine cell,CL:0000165,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Epithelial_Stem_Cell_1,Epithelial_Stem_Cells,intestinal crypt stem cell of large intestine,CL:0009016,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Enteroendocrine_Cell_2,Enteroendocrine_Cells,neuroendocrine cell,CL:0000165,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Epithelial_Stem_Cell_2,Epithelial_Stem_Cells,intestinal crypt stem cell of large intestine,CL:0009016,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Enteroendocrine_Cell_3,Enteroendocrine_Cells,neuroendocrine cell,CL:0000165,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Epithelial_Stem_Cell_3,Epithelial_Stem_Cells,intestinal crypt stem cell of large intestine,CL:0009016,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Enteroendocrine_Cell_4,Enteroendocrine_Cells,neuroendocrine cell,CL:0000165,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Enteroendocrine_Cell_5,Enteroendocrine_Cells,neuroendocrine cell,CL:0000165,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Epithelial_Stem_Cell_4,Epithelial_Stem_Cells,intestinal crypt stem cell of large intestine,CL:0009016,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Epithelial_Stem_Cell_5,Epithelial_Stem_Cells,intestinal crypt stem cell of large intestine,CL:0009016,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Neuroendocrine_Cell_1,Neuroendocrine_Cell,neuroendocrine cell,CL:0000165,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Epithelial_Stem_Cell_1,Epithelial_Stem_Cell,intestinal crypt stem cell of large intestine,CL:0009016,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Neuroendocrine_Cell_2,Neuroendocrine_Cell,neuroendocrine cell,CL:0000165,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Epithelial_Stem_Cell_2,Epithelial_Stem_Cell,intestinal crypt stem cell of large intestine,CL:0009016,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Neuroendocrine_Cell_3,Neuroendocrine_Cell,neuroendocrine cell,CL:0000165,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Epithelial_Stem_Cell_3,Epithelial_Stem_Cell,intestinal crypt stem cell of large intestine,CL:0009016,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Neuroendocrine_Cell_4,Neuroendocrine_Cell,neuroendocrine cell,CL:0000165,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Neuroendocrine_Cell_5,Neuroendocrine_Cell,neuroendocrine cell,CL:0000165,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Epithelial_Stem_Cell_4,Epithelial_Stem_Cell,intestinal crypt stem cell of large intestine,CL:0009016,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Epithelial_Stem_Cell_5,Epithelial_Stem_Cell,intestinal crypt stem cell of large intestine,CL:0009016,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
 Absorptive_Cell_81,Absorptive_Cell,enterocyte of epithelium of large intestine,CL:0002071,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
 Goblet_Cell_12,Goblet_Cell,large intestine crypt goblet cell,CL:1000321,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
 Absorptive_Cell_82,Absorptive_Cell,enterocyte of epithelium of large intestine,CL:0002071,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
