@@ -1,20 +1,20 @@
 node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
-Cortical_Cortical_Collecting_Duct_AS,Cortical_Collecting_Duct,cortical collecting duct,UBERON:0004203,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_1,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_2,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_3,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_4,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_5,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_6,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_7,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_8,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_9,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_10,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_11,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_12,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_13,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_14,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
-Cortical_Cortical_Collecting_Duct_Cell_15,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_AS,Cortical_Collecting_Duct,cortical collecting duct,UBERON:0004203,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_1,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_2,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_3,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_4,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_5,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_6,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_7,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_8,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_9,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_10,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_11,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_12,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_13,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_14,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_15,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
 Proximal_Tubule_S3_AS_1,Proximal_Tubule_S3,proximal straight tubule,UBERON:0001290,nephron,UBERON:0001285,Kidney,UBERON:0002113
 Proximal_Tubule_S2_AS_1,Proximal_Tubule_S2,proximal convoluted tubule segment 2,UBERON:0004197,nephron,UBERON:0001285,Kidney,UBERON:0002113
 Proximal_Tubule_S3_AS_2,Proximal_Tubule_S3,proximal straight tubule,UBERON:0001290,nephron,UBERON:0001285,Kidney,UBERON:0002113
