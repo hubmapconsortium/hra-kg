@@ -2,7 +2,7 @@ node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ
 Goblet_Cell_1,Goblet_Cell,large intestine crypt goblet cell,CL:1000321,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
 Goblet_Cell_2,Goblet_Cell,large intestine crypt goblet cell,CL:1000321,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
 Absorptive_Cell_1,Absorptive_Cell,enterocyte of epithelium of large intestine,CL:0002071,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
-Absorptive_Cell_2,Absorptive_Cells,enterocyte of epithelium of large intestine,CL:0002071,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
+Absorptive_Cell_2,Absorptive_Cell,enterocyte of epithelium of large intestine,CL:0002071,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
 Goblet_Cell_3,Goblet_Cell,large intestine crypt goblet cell,CL:1000321,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
 Absorptive_Cell_3,Absorptive_Cell,enterocyte of epithelium of large intestine,CL:0002071,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
 Absorptive_Cell_4,Absorptive_Cell,enterocyte of epithelium of large intestine,CL:0002071,crypt of Lieberkuhn of large intestine,UBERON:0001984,Large Intestine,UBERON:0000059
