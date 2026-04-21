@@ -14,12 +14,12 @@ Plasmablast_3,Plasmablast,plasmablast,CL:0000980,white pulp of spleen,UBERON:000
 Neutrophil_1,Neutrophil,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
 Neutrophil_2,Neutrophil,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
 Neutrophil_3,Neutrophil,neutrophil,CL:0000775,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Tingible_Zone_Macrophage_1,Splenic_Tingible_Zone_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Tingible_Zone_Macrophage_2,Splenic_Tingible_Zone_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Tingible_Zone_Macrophage_3,Splenic_Tingible_Zone_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Tingible_Zone_Macrophage_4,Splenic_Tingible_Zone_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Tingible_Zone_Macrophage_5,Splenic_Tingible_Zone_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Splenic_Tingible_Zone_Macrophage_6,Splenic_Tingible_Zone_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_1,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_2,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_3,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_4,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_5,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_6,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
 Splenic_Marginal_Zone_Macrophage_1,Splenic_Marginal_Zone_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
 Splenic_Marginal_Zone_Macrophage_2,Splenic_Marginal_Zone_Macrophage,splenic white pulp macrophage,CL:0000876,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
 Marginal_Zone_1,Marginal_Zone,,,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
@@ -1047,7 +1047,6 @@ Inner_Pals_T_Cells_385,Inner_Pals_T_Cells,Inner PALS,,white pulp of spleen,UBERO
 Inner_Pals_T_Cells_386,Inner_Pals_T_Cells,Inner PALS,,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
 Inner_Pals_T_Cells_387,Inner_Pals_T_Cells,Inner PALS,,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
 Inner_Pals_T_Cells_388,Inner_Pals_T_Cells,Inner PALS,,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
-Inner_Pals_T_Cells_389,Inner_Pals_T_Cells,Inner PALS,,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
 Smooth_Muscle_Cell_1,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
 Smooth_Muscle_Cell_2,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
 Smooth_Muscle_Cell_3,Smooth_Muscle_Cell,smooth muscle cell,CL:0000192,white pulp of spleen,UBERON:0001959,Spleen,UBERON:0002106
