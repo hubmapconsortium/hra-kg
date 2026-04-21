@@ -1,0 +1,61 @@
+title: >-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Palatine tonsil
+description: |-
+  ''
+creators:
+  - fullName: Werner Müller
+    firstName: Werner
+    lastName: Müller
+    orcid: 0000-0002-1297-9725
+  - fullName: Silvia Rüberg
+    firstName: Silvia
+    lastName: Rüberg
+    orcid: 0009-0008-1003-987X
+  - fullName: Andreas Bosio
+    firstName: Andreas
+    lastName: Bosio
+    orcid: 0000-0001-9776-2535
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Andrea J. Radtke
+    firstName: Andrea
+    lastName: Radtke
+    orcid: 0000-0003-4379-8967
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers:
+  - fullName: Hamish King
+    firstName: Hamish
+    lastName: King
+    orcid: 0000-0001-5972-8926
+  - fullName: Kristen Wells
+    firstName: Kristen
+    lastName: Wells
+    orcid: 0000-0002-7466-8164
+creation_date: "2026-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM674.FKTS.997
+# doi: https://doi.org/10.48539/HBM674.FKTS.997
+# citation: >-
+#   Müller, Werner,	Silvia Rüberg,	and Andreas Bosio.	
+#   2024.	"HuBMAP ASCT+B Tables. Palatine Tonsil v1.1."	
+#   https://doi.org/10.48539/HBM674.FKTS.997.	Accessed June 15, 2024.
+citationOverall: >-
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2026.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2026.
+datatable:
+  - asct-b-vh-palatine-tonsil.csv
