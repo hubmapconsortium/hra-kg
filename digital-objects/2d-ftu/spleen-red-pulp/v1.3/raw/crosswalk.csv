@@ -6,12 +6,17 @@ Follicular_Dendritic_Cell_4,Follicular_Dendritic_Cell,follicular dendritic cell,
 Follicular_Dendritic_Cell_5,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Follicular_Dendritic_Cell_6,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Follicular_Dendritic_Cell_7,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
-plasmablast_1,plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
-plasmablast_2,plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
-plasmablast_3,plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_1,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_2,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_3,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_4,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_5,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_6,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Neutrophil_1,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Neutrophil_2,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Neutrophil_3,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Neutrophil_4,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Neutrophil_5,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Splenic_Tingible_Body_Macrophage_1,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Splenic_Tingible_Body_Macrophage_2,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Splenic_Tingible_Body_Macrophage_3,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
@@ -40,6 +45,7 @@ Dendritic_Cell_5,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of s
 Dendritic_Cell_6,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Dendritic_Cell_7,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Dendritic_Cell_8,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Dendritic_Cell_9,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 CD14_Positive_1,CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 CD14_Positive_2,CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 CD14_Positive_3,CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
@@ -54,8 +60,6 @@ Hematopoetic_Stem_Cell_6,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:000003
 Hematopoetic_Stem_Cell_7,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Hematopoetic_Stem_Cell_8,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Hematopoetic_Stem_Cell_9,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
-Neutrophil_4,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
-Neutrophil_5,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Reticular_Cell_Of_Splenic_Sinusoid_1,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Reticular_Cell_Of_Splenic_Sinusoid_2,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Reticular_Cell_Of_Splenic_Sinusoid_3,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
@@ -622,6 +626,7 @@ Germinal_Center_178,Germinal_Center,spleen germinal center,UBERON:0005196,red pu
 Germinal_Center_179,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Germinal_Center_180,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Germinal_Center_181,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_182,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Mantle_Zone_1,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Mantle_Zone_2,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Mantle_Zone_3,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
@@ -831,5 +836,3 @@ Mantle_Zone_206,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of sple
 Mantle_Zone_207,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Mantle_Zone_208,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
 Mantle_Zone_209,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
-Mantle_Zone_210,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
-Mantle_Zone_211,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106

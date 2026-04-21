@@ -23,9 +23,9 @@ digital-objects:
   - 2d-ftu/skin-epidermal-ridge/v1.3
   - 2d-ftu/skin-hair-follicle/v1.2
   - 2d-ftu/small-intestine-villus/v1.2
-  - 2d-ftu/spleen-red-pulp/v1.3
-  - 2d-ftu/spleen-white-pulp/v1.3
-  - 2d-ftu/thymus-thymus-lobule/v1.4
+  - 2d-ftu/spleen-red-pulp/v1.4
+  - 2d-ftu/spleen-white-pulp/v1.4
+  - 2d-ftu/thymus-thymus-lobule/v1.5
   - 2d-ftu/asct-b-2d-models-crosswalk/v1.6
   - asct-b/allen-brain/v1.8
   - asct-b/anatomical-systems/v1.2
