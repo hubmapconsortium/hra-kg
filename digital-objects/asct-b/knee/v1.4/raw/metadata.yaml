@@ -1,0 +1,58 @@
+title: Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Knee
+description: |-
+  Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables (https://humanatlas.io/asctb-tables) aim to capture
+  the nested knee structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell
+  types. The tables are authored and reviewed by an international team of experts. The Knee ASCT+B table provides a
+  structured representation of the knee joint's anatomical components, associated cell types, and relevant biomarkers.
+  It includes detailed mappings of structures such as the femur, tibia, patella, menisci, ligaments, and cartilage,
+  along with cell types like chondrocytes, fibroblasts, and synoviocytes.This comprehensive mapping supports research
+  into musculoskeletal biology and related medical conditions.
+creators:
+  - fullName: David Rowe
+    firstName: David
+    lastName: Rowe
+    orcid: 0000-0001-7852-7775
+  - fullName: Martin Lotz
+    firstName: Martin
+    lastName: Lotz
+    orcid: 0000-0002-6299-8799
+  - fullName: Peter Maye
+    firstName: Peter
+    lastName: Maye
+    orcid: 0000-0003-0098-4399
+  - fullName: Dong-Guk Shin
+    firstName: Dong-Guk
+    lastName: Shin
+    orcid: 0009-0004-4649-7363
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Ellen M. Quardokus
+    firstName: Ellen
+    lastName: Quardokus
+    orcid: 0000-0001-7655-4833
+externalReviewers: []
+creation_date: "2026-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM236.RGWW.943
+# doi: https://doi.org/10.48539/HBM236.RGWW.943
+# citation: >-
+#   Rowe, David,	Martin Lotz,	Peter Maye,	and Dong-Guk Shin.	
+#   2024.	"HuBMAP ASCT+B Tables. Knee v1.3."	
+#   https://doi.org/10.48539/HBM236.RGWW.943.	Accessed June 15, 2024.
+citationOverall: >-
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2026.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2026.
+datatable:
+  - asct-b-vh-knee.csv
