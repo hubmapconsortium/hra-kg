@@ -75,8 +75,8 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM328.HQFX.875
-doi: https://doi.org/10.48539/HBM328.HQFX.875
+# hubmapId: HBM328.HQFX.875
+# doi: https://doi.org/10.48539/HBM328.HQFX.875
 # citation: >-
 #   Jain, Sanjay,	M. Todd Valerius,	Yongqun He,	Tarek El-Achkar,	Michael Eadon,
 #   and Jeffrey Spraggins.
