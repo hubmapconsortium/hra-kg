@@ -1,71 +1,71 @@
 node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
-Fibroblasts_of_Villous_Mesenchyme_1,Fibroblasts_of_Villous_Mesenchyme,fibroblast of villous mesenchyme,CL:0002558,,,Placenta,UBERON:0001987
-Fibroblasts_of_Villous_Mesenchyme_2,Fibroblasts_of_Villous_Mesenchyme,fibroblast of villous mesenchyme,CL:0002558,,,Placenta,UBERON:0001987
-Fibroblasts_of_Villous_Mesenchyme_3,Fibroblasts_of_Villous_Mesenchyme,fibroblast of villous mesenchyme,CL:0002558,,,Placenta,UBERON:0001987
-Fibroblasts_of_Villous_Mesenchyme_4,Fibroblasts_of_Villous_Mesenchyme,fibroblast of villous mesenchyme,CL:0002558,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_1,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_2,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_3,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_4,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_5,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_6,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_7,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_8,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_9,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_10,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_11,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_12,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_13,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_14,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_15,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_16,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_17,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Placenta_Villus_Capillary_Endothelial_Cell_18,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,,,Placenta,UBERON:0001987
-Hofbauer_Cell_1,Hofbauer_Cell,Hofbauer cell,CL:3000001,,,Placenta,UBERON:0001987
-Hofbauer_Cell_2,Hofbauer_Cell,Hofbauer cell,CL:3000001,,,Placenta,UBERON:0001987
-Cytotrophoblast_Cell_1,Cytotrophoblast_Cell,mononuclear cytotrophoblast cell,CL:0000523,,,Placenta,UBERON:0001987
-Cytotrophoblast_Cell_2,Cytotrophoblast_Cell,mononuclear cytotrophoblast cell,CL:0000523,,,Placenta,UBERON:0001987
-Cytotrophoblast_Cell_3,Cytotrophoblast_Cell,mononuclear cytotrophoblast cell,CL:0000523,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_1,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_2,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_3,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_4,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_5,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_6,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_7,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_8,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_9,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_10,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_11,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_12,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_13,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_14,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_15,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_16,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_17,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_18,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_19,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_20,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_21,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_22,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_23,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_24,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_25,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_26,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_27,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_28,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_29,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_30,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_31,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_32,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_33,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Syncytiotrophoblast_Cell_34,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,,,Placenta,UBERON:0001987
-Pericyte_1,Pericyte,pericyte,CL:0000669,,,Placenta,UBERON:0001987
-Pericyte_2,Pericyte,pericyte,CL:0000669,,,Placenta,UBERON:0001987
-Pericyte_3,Pericyte,pericyte,CL:0000669,,,Placenta,UBERON:0001987
-Pericyte_4,Pericyte,pericyte,CL:0000669,,,Placenta,UBERON:0001987
-Pericyte_5,Pericyte,pericyte,CL:0000669,,,Placenta,UBERON:0001987
-Pericyte_6,Pericyte,pericyte,CL:0000669,,,Placenta,UBERON:0001987
-Pericyte_7,Pericyte,pericyte,CL:0000669,,,Placenta,UBERON:0001987
-Pericyte_8,Pericyte,pericyte,CL:0000669,,,Placenta,UBERON:0001987
-Pericyte_9,Pericyte,pericyte,CL:0000669,,,Placenta,UBERON:0001987
+Fibroblasts_of_Villous_Mesenchyme_1,Fibroblasts_of_Villous_Mesenchyme,fibroblast of villous mesenchyme,CL:0002558,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Fibroblasts_of_Villous_Mesenchyme_2,Fibroblasts_of_Villous_Mesenchyme,fibroblast of villous mesenchyme,CL:0002558,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Fibroblasts_of_Villous_Mesenchyme_3,Fibroblasts_of_Villous_Mesenchyme,fibroblast of villous mesenchyme,CL:0002558,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Fibroblasts_of_Villous_Mesenchyme_4,Fibroblasts_of_Villous_Mesenchyme,fibroblast of villous mesenchyme,CL:0002558,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_1,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_2,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_3,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_4,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_5,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_6,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_7,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_8,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_9,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_10,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_11,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_12,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_13,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_14,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_15,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_16,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_17,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Placenta_Villus_Capillary_Endothelial_Cell_18,Placenta_Villus_Capillary_Endothelial_Cell,placental villus capillary endothelial cell,CL:2000062,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Hofbauer_Cell_1,Hofbauer_Cell,Hofbauer cell,CL:3000001,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Hofbauer_Cell_2,Hofbauer_Cell,Hofbauer cell,CL:3000001,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Cytotrophoblast_Cell_1,Cytotrophoblast_Cell,mononuclear cytotrophoblast cell,CL:0000523,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Cytotrophoblast_Cell_2,Cytotrophoblast_Cell,mononuclear cytotrophoblast cell,CL:0000523,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Cytotrophoblast_Cell_3,Cytotrophoblast_Cell,mononuclear cytotrophoblast cell,CL:0000523,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_1,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_2,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_3,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_4,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_5,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_6,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_7,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_8,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_9,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_10,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_11,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_12,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_13,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_14,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_15,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_16,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_17,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_18,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_19,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_20,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_21,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_22,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_23,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_24,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_25,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_26,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_27,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_28,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_29,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_30,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_31,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_32,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_33,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Syncytiotrophoblast_Cell_34,Syncytiotrophoblast_Cell,syncytiotrophoblast cell,CL:0000525,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Pericyte_1,Pericyte,pericyte,CL:0000669,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Pericyte_2,Pericyte,pericyte,CL:0000669,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Pericyte_3,Pericyte,pericyte,CL:0000669,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Pericyte_4,Pericyte,pericyte,CL:0000669,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Pericyte_5,Pericyte,pericyte,CL:0000669,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Pericyte_6,Pericyte,pericyte,CL:0000669,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Pericyte_7,Pericyte,pericyte,CL:0000669,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Pericyte_8,Pericyte,pericyte,CL:0000669,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
+Pericyte_9,Pericyte,pericyte,CL:0000669,chorionic terminal villus,UBERON:8600030,Placenta,UBERON:0001987
