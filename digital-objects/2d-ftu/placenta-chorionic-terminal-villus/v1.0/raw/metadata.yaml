@@ -1,0 +1,64 @@
+title: 2D Chorionic Terminal Villus Functional Tissue Unit (FTU) for Placenta
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the chorionic terminal villus FTU in the ASCT+B Table [Placenta v1.3](<>). Multiple histology atlases, especially *Human Microscopic Anatomy* (Krstić 1991) and *Histology: A Text and Atlas* (Wojciech Pawlina and Michael H. Ross 2019) were referenced. Cell type and metrics were primarily defined from (Hu, McDonough, and Layton 2021; Layton and Layton 2019) and (Rasool et al. 2021). Uberon describes this FTU as follows: "The most distal part of a chorionic villus. A chorionic terminal villus is a grape-like structure characterized by a high degree of capillarization and highly dilated sinusoids. A terminal villus has less stroma and a discontinuous cytotrophoblast layer, and contains 4–6 fetal capillaries per cross section. It exhibits a diameter ranging from 40 to about 80 μm."
+
+  **Bibliography**:
+
+  * National Center for Biotechnology Information (NCBI). 2009. “Structure of the Placenta.” In Molecular Biology of Human Placenta, edited by Y. W. Loke and A. M. King. Bethesda, MD: NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK53256/
+  * F. M. Burton, N. B. Jauniaux, and J. C. Watson. 2019. “Three-dimensional morphological analysis of placental terminal villi.” Interface Focus 9 (5): 20190037. https://doi.org/10.1098/rsfs.2019.0037
+  * A. Sen, P. Kaufmann, and G. Schweikhart. 1979. “Classification of human placental villi. II. Morphometry.” Placenta 1 (3): 235–246. https://pubmed.ncbi.nlm.nih.gov/487408/
+  * A. Sen, P. Kaufmann, and G. Schweikhart. 1979. “Classification of human placental villi. I. Histology.” Placenta 1 (3): 225–234. https://pubmed.ncbi.nlm.nih.gov/487407/
+  * Wojciech Pawlina and Michael H. Ross. 2019. “Histology: A Text and Atlas: With Correlated Cell and Molecular Biology. Eighth Edition, 2018 Authors: Wojciech Pawlina; Michael H. Ross.” *Morphologia* 13 (4): 76–89. https://doi.org/10.26641/1997-9665.2019.4.76-89.
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Mana Parast
+    firstName: Sanjay
+    lastName: Jain
+    orcid: 0000-0003-2804-127X
+  - fullName: Matthias Kretzler
+    firstName: Matthias
+    lastName: Kretzler
+    orcid: 0000-0003-4064-0582
+  - fullName: M. Todd Valerius
+    firstName: M.
+    lastName: Valerius
+    orcid: 0000-0001-8143-9231
+externalReviewers: []
+creation_date: "2026-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM778.SHGJ.294
+# doi: https://doi.org/10.48539/HBM778.SHGJ.294
+# citation: >-
+#   Bajema, Rachel. 2023. 2D Reference Renal Corpuscle FTU for Kidney, v1.2. https://doi.org/10.48539/HBM778.SHGJ.294.
+#   Accessed on December 15, 2023.
+# citationOverall: >-
+#   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023. HuBMAP CCF 2D Reference
+#   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2023.
+datatable:
+  - 2d-ftu-placenta-chorionic-terminal-villus.svg
+  - 2d-ftu-placenta-chorionic-terminal-villus.png
+  - 2d-ftu-placenta-chorionic-terminal-villus.ai
+  - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM248.CBJV.556
+  - https://doi.org/10.1016/j.isci.2021.102667
+  - https://doi.org/10.1007/978-3-662-02676-2
+  - https://doi.org/10.1371/journal.pcbi.1006108
+  - https://doi.org/10.26641/1997-9665.2019.4.76-89
+  - https://doi.org/10.4103/NJCA.NJCA_72_21

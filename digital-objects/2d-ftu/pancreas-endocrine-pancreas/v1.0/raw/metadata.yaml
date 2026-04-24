@@ -1,0 +1,48 @@
+title: 2D Endocrine Pancreas FTU for Pancreas
+description: |-
+  This functional tissue unit (FTU) illustration includes cell types related to the islets of Langerhans of endocrine pancreas FTU in the ASCT+B Table [Pancreas <>](<>). Cell type and measurements were referenced from (Da Silva Xavier 2018). Uberon describes this FTU as follows: "The part of the pancreas that is part of the endocrine system and is made up of islet cells, which produce insulin, glucagon and somatostatin." 
+
+  **Bibliography**:
+
+  * Da Silva Xavier, Gabriela. 2018. “The Cells of the Islets of Langerhans.” *Journal of Clinical Medicine* 7 (3): 54. https://doi.org/10.3390/jcm7030054.
+creators:
+  - fullName: Rachel Bajema
+    firstName: Rachel
+    lastName: Bajema
+    orcid: 0000-0002-3775-8574
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers:
+  - fullName: Martha Campbell-Thompson
+    firstName: Martha
+    lastName: Campbell-Thompson
+    orcid: 0000-0001-6878-1235
+externalReviewers: []
+creation_date: "2026-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+# hubmapId: HBM637.SFSW.654
+# doi: https://doi.org/10.48539/HBM637.SFSW.654
+# citation: >-
+#   Bajema, Rachel. 2023. 2D Islets of Langerhans FTU for Pancreas, v1.2. https://doi.org/10.48539/HBM637.SFSW.654.
+#   Accessed on December 15, 2023.
+# citationOverall: >-
+#   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023. HuBMAP CCF 2D Reference
+#   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2023.
+datatable:
+  - 2d-ftu-pancreas-endocrine-pancreas.svg
+  - 2d-ftu-pancreas-endocrine-pancreas.png
+  - 2d-ftu-pancreas-endocrine-pancreas.ai
+  - crosswalk.csv
+references:
+  - https://doi.org/10.48539/HBM557.XHHV.557
+  - https://doi.org/10.3390/jcm7030054
