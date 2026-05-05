@@ -75,12 +75,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM952.HXMD.576
-# doi: https://doi.org/10.48539/HBM952.HXMD.576
-# citation: >-
-#   Jorgensen, Marda,	Andrea J. Radtke,	and Rebecca T. Beuschel.	
-#   2025.	"HuBMAP ASCT+B Tables. Spleen v1.5."	
-#   https://doi.org/10.48539/HBM952.HXMD.576.	Accessed June 15, 2025.
+hubmapId: HBM728.RXPP.245
+doi: https://doi.org/10.48539/HBM728.RXPP.245
+citation: >-
+  Jorgensen, Marda,	Andrea J. Radtke,	and Rebecca T. Beuschel.	
+  2026.	"HuBMAP ASCT+B Tables. Spleen v1.6."	
+  https://doi.org/10.48539/HBM728.RXPP.245.	Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	

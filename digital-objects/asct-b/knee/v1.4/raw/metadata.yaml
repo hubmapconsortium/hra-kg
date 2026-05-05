@@ -44,12 +44,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM236.RGWW.943
-# doi: https://doi.org/10.48539/HBM236.RGWW.943
-# citation: >-
-#   Rowe, David,	Martin Lotz,	Peter Maye,	and Dong-Guk Shin.	
-#   2024.	"HuBMAP ASCT+B Tables. Knee v1.3."	
-#   https://doi.org/10.48539/HBM236.RGWW.943.	Accessed June 15, 2024.
+hubmapId: HBM354.DWML.238
+doi: https://doi.org/10.48539/HBM354.DWML.238
+citation: >-
+  Rowe, David,	Martin Lotz,	Peter Maye,	and Dong-Guk Shin.	
+  2026.	"HuBMAP ASCT+B Tables. Knee v1.4."	
+  https://doi.org/10.48539/HBM354.DWML.238.	Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	

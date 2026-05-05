@@ -53,12 +53,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM887.JMLM.322
-# doi: https://doi.org/10.48539/HBM887.JMLM.322
-# citation: >-
-#   Parast, Mana,	Valentina Stanley,	and Scott A. Lindsay.	
-#   2024.	"HuBMAP ASCT+B Tables. Placenta Full Term v1.2."	
-#   https://doi.org/10.48539/HBM887.JMLM.322. Accessed June 15, 2024.
+hubmapId: HBM432.SLXD.763
+doi: https://doi.org/10.48539/HBM432.SLXD.763
+citation: >-
+  Parast, Mana,	Valentina Stanley,	and Scott A. Lindsay.	
+  2026.	"HuBMAP ASCT+B Tables. Placenta Full Term v1.3."	
+  https://doi.org/10.48539/HBM432.SLXD.763. Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	

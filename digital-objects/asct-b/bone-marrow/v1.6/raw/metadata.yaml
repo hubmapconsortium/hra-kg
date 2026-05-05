@@ -60,12 +60,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM699.BSQL.926
-# doi: https://doi.org/10.48539/HBM699.BSQL.926
-# citation: >-
-#   Haniffa, Muzlifah A.,	Laura Jardine,	and Sarah A. Teichmann.	
-#   2024.	"HuBMAP ASCT+B Tables. Bone Marrow v1.5."	
-#   https://doi.org/10.48539/HBM699.BSQL.926.	Accessed June 15, 2024.
+hubmapId: HBM885.LVBB.378
+doi: https://doi.org/10.48539/HBM885.LVBB.378
+citation: >-
+  Haniffa, Muzlifah A.,	Laura Jardine,	and Sarah A. Teichmann.	
+  2026.	"HuBMAP ASCT+B Tables. Bone Marrow v1.6."	
+  https://doi.org/10.48539/HBM885.LVBB.378.	Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen M.,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	

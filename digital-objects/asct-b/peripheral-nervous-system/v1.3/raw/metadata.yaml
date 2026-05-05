@@ -49,12 +49,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM596.SBGH.587
-# doi: https://doi.org/10.48539/HBM596.SBGH.587
-# citation: >-
-#   Ebrahimi, Nazanin,	Bernard de Bono,	Ilias Ziogas,	and Fahim Imam.	
-#   2024.	"HuBMAP ASCT+B Tables. Peripheral Nervous System v1.2."	
-#   https://doi.org/10.48539/HBM596.SBGH.587. Accessed June 15, 2024.
+hubmapId: HBM723.RQGG.438
+doi: https://doi.org/10.48539/HBM723.RQGG.438
+citation: >-
+  Ebrahimi, Nazanin,	Bernard de Bono,	Ilias Ziogas,	and Fahim Imam.	
+  2026.	"HuBMAP ASCT+B Tables. Peripheral Nervous System v1.3."	
+  https://doi.org/10.48539/HBM723.RQGG.438. Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	

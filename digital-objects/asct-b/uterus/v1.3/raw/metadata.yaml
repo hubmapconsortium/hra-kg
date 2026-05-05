@@ -42,12 +42,12 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM994.KXQS.423
-# doi: https://doi.org/10.48539/HBM994.KXQS.423
-# citation: >-
-#   O'Neill, Kathleen.	
-#   2025.	"HuBMAP ASCT+B Tables. Uterus v1.2."	
-#   https://doi.org/10.48539/HBM994.KXQS.423.	Accessed June 15, 2025.
+hubmapId: HBM696.RVWF.244
+doi: https://doi.org/10.48539/HBM696.RVWF.244
+citation: >-
+  O'Neill, Kathleen.	
+  2026.	"HuBMAP ASCT+B Tables. Uterus v1.3."	
+  https://doi.org/10.48539/HBM696.RVWF.244.	Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	

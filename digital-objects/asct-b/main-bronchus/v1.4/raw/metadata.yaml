@@ -58,12 +58,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM564.JKBW.989
-# doi: https://doi.org/10.48539/HBM564.JKBW.989
-# citation: >-
-#   Pryhuber, Gloria.	
-#   2024.	"HuBMAP ASCT+B Tables. Main Bronchus v1.3."	
-#   https://doi.org/10.48539/HBM564.JKBW.989. Accessed June 15, 2025.
+hubmapId: HBM295.WTKZ.986
+doi: https://doi.org/10.48539/HBM295.WTKZ.986
+citation: >-
+  Pryhuber, Gloria.	
+  2026.	"HuBMAP ASCT+B Tables. Main Bronchus v1.4."	
+  https://doi.org/10.48539/HBM295.WTKZ.986. Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	

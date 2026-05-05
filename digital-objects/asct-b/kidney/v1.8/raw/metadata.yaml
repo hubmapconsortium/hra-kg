@@ -75,16 +75,16 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM328.HQFX.875
-# doi: https://doi.org/10.48539/HBM328.HQFX.875
-# citation: >-
-#   Jain, Sanjay,	M. Todd Valerius,	Yongqun He,	Tarek El-Achkar,	Michael Eadon,
-#   and Jeffrey Spraggins.
-#   2025.	"HuBMAP ASCT+B Tables. Kidney v1.7."
-#   https://doi.org/10.48539/HBM328.HQFX.875.	Accessed December 15, 2025.
+hubmapId: HBM342.NFDL.535
+doi: https://doi.org/10.48539/HBM342.NFDL.535
+citation: >-
+  Jain, Sanjay,	M. Todd Valerius,	Yongqun He,	Tarek El-Achkar,	Michael Eadon,
+  and Jeffrey Spraggins.
+  2026.	"HuBMAP ASCT+B Tables. Kidney v1.8."
+  https://doi.org/10.48539/HBM342.NFDL.535.	Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	
-  https://humanatlas.io/asctb-tables.	Accessed December 15, 2026.
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2026.
 datatable:
   - asct-b-vh-kidney.csv

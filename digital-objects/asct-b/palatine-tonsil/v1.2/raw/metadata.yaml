@@ -47,12 +47,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM674.FKTS.997
-# doi: https://doi.org/10.48539/HBM674.FKTS.997
-# citation: >-
-#   Müller, Werner,	Silvia Rüberg,	and Andreas Bosio.	
-#   2024.	"HuBMAP ASCT+B Tables. Palatine Tonsil v1.1."	
-#   https://doi.org/10.48539/HBM674.FKTS.997.	Accessed June 15, 2024.
+hubmapId: HBM225.MFHR.293
+doi: https://doi.org/10.48539/HBM225.MFHR.293
+citation: >-
+  Müller, Werner,	Silvia Rüberg,	and Andreas Bosio.	
+  2026.	"HuBMAP ASCT+B Tables. Palatine Tonsil v1.2."	
+  https://doi.org/10.48539/HBM225.MFHR.293.	Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	
