@@ -51,15 +51,15 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM885.QSGJ.544
-doi: https://doi.org/10.48539/HBM885.QSGJ.544
-# citation: >-
-#   Lin, Shin,	Marc Halushka,	and Avinash Boppana.
-#   2025.	"HuBMAP ASCT+B Tables. Heart v1.6."
-#   https://doi.org/10.48539/HBM885.QSGJ.544.	Accessed December 15, 2025.
+hubmapId: HBM662.RRDP.687
+doi: https://doi.org/10.48539/HBM662.RRDP.687
+citation: >-
+  Lin, Shin,	Marc Halushka,	and Avinash Boppana.
+  2026.	"HuBMAP ASCT+B Tables. Heart v1.7."
+  https://doi.org/10.48539/HBM662.RRDP.687.	Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	
-  https://humanatlas.io/asctb-tables.	Accessed December 15, 2026.
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2026.
 datatable:
   - asct-b-vh-heart.csv

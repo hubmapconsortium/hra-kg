@@ -79,16 +79,16 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM739.NDCD.287
-# doi: https://doi.org/10.48539/HBM739.NDCD.287
-# citation: >-
-#   Ginty, Fiona,	Jonhan Ho,	Joel Sunshine,	and Arivarasan Karunamurthy.
-#   2025.	"HuBMAP ASCT+B Tables. Skin v1.6."
-#   https://doi.org/10.48539/HBM739.NDCD.287.	Accessed December 15, 2025.
+hubmapId: HBM539.LSRX.978
+doi: https://doi.org/10.48539/HBM539.LSRX.978
+citation: >-
+  Ginty, Fiona,	Jonhan Ho,	Joel Sunshine,	and Arivarasan Karunamurthy.
+  2026.	"HuBMAP ASCT+B Tables. Skin v1.6."
+  https://doi.org/10.48539/HBM539.LSRX.978.	Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	
-  https://humanatlas.io/asctb-tables.	Accessed December 15, 2026.
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2026.
 datatable:
   - asct-b-vh-skin.csv
 references:

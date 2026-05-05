@@ -52,15 +52,15 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM434.PWTV.897
-# doi: https://doi.org/10.48539/HBM434.PWTV.897
-# citation: >-
-#   Kruse, Angela,	Kevin Schey,	and Christine Curcio.	
-#   2024.	"HuBMAP ASCT+B Tables. Eye v1.4."	
-#   https://doi.org/10.48539/HBM434.PWTV.897.	Accessed December 15, 2024.
+hubmapId: HBM564.BKPQ.873
+doi: https://doi.org/10.48539/HBM564.BKPQ.873
+citation: >-
+  Kruse, Angela,	Kevin Schey,	and Christine Curcio.	
+  2026.	"HuBMAP ASCT+B Tables. Eye v1.4."	
+  https://doi.org/10.48539/HBM564.BKPQ.873.	Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	
-  https://humanatlas.io/asctb-tables.	Accessed December 15, 2026.
+  https://humanatlas.io/asctb-tables.	Accessed June 15, 2026.
 datatable:
   - asct-b-vh-eye.csv

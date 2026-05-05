@@ -66,12 +66,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM827.NKZG.839
-# doi: https://doi.org/10.48539/HBM827.NKZG.839
-# citation: >-
-#   Pryhuber, Gloria.	
-#   2024.	"HuBMAP ASCT+B Tables. Lung v1.5."	
-#   https://doi.org/10.48539/HBM827.NKZG.839.	Accessed June 15, 2024.
+hubmapId: HBM459.QMXK.379
+doi: https://doi.org/10.48539/HBM459.QMXK.379
+citation: >-
+  Pryhuber, Gloria.	
+  2026.	"HuBMAP ASCT+B Tables. Lung v1.6."	
+  https://doi.org/10.48539/HBM459.QMXK.379.	Accessed June 15, 2026.
 citationOverall: >-
   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
   2026.	"HuBMAP ASCT+B Tables."	
