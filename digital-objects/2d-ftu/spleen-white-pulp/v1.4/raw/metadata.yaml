@@ -29,7 +29,7 @@ reviewers:
     lastName: Brusko
     orcid: 0000-0002-4331-2202
 externalReviewers: []
-creation_date: "2024-12-15"
+creation_date: "2026-06-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -38,14 +38,14 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM559.FNBB.627
-doi: https://doi.org/10.48539/HBM559.FNBB.6273
+hubmapId: HBM538.PHWH.575
+doi: https://doi.org/10.48539/HBM538.PHWH.575
 citation: >-
-  Bajema, Rachel. 2024. 2D White Pulp Functional Tissue Unit (FTU) for Spleen v1.2. https://doi.org/10.48539/v. Accessed
-  on December 15, 2024.
+  Bajema, Rachel. 2026. 2D White Pulp Functional Tissue Unit (FTU) for Spleen v1.4. https://doi.org/10.48539/HBM538.PHWH.575. Accessed
+  on June 15, 2026.
 citationOverall: >-
-  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2024. HuBMAP CCF 2D Reference
-  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed December 15, 2024.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2026. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed June 15, 2026.
 datatable:
   - 2d-ftu-spleen-white-pulp.svg
   - 2d-ftu-spleen-white-pulp.png
