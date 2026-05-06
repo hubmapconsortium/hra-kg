@@ -1,11 +1,11 @@
-title: cell type annotations for deepcelltypes-HuBMAP
+title: cell type annotations for deepcelltypes
 description: |-
-  This crosswalk maps the cell type annotations from deepcelltypes-HuBMAP-v1.0 (Wang et al. 2024) to the latest revision
-  of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl  More information on
-  deepcelltypes-HuBMAP-v1.0 is available at https://github.com/hubmapconsortium/deepcelltypes-hubmap.
+  This crosswalk maps the cell type annotations from deepcelltypes (Wang et al. 2024) to the latest revision of Cell
+  Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl  More information on deepcelltype
+  is available at https://github.com/vanvalenlab/deepcell-types.
 
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
-  available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data.
+  available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
 
   **Bibliography:**
 
@@ -42,7 +42,7 @@ externalReviewers:
     firstName: Ross
     lastName: Barnowski
     orcid: 0009-0004-4184-8566
-creation_date: "2026-06-15"
+creation_date: "2025-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -51,14 +51,13 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM483.HZKD.494
-doi: https://doi.org/10.48539/HBM483.HZKD.494
+hubmapId: HBM525.CBGX.696
+doi: https://doi.org/10.48539/HBM525.CBGX.696
 citation: >-
   Puig-Barbe, Aleix.
-  2026.	"Crosswalk of Deepcelltypes-HuBMAP Annotated Cells to Cell Ontology, v1.1."
-  https://doi.org/10.48539/HBM483.HZKD.494.	Accessed June 15, 2026.
-citationOverall: >-
+  2025.	"Crosswalk of Deepcelltypes Annotated Cells to Cell Ontology, v1.1."
+  https://doi.org/10.48539/HBM525.CBGX.696.	Accessed December 15, 2025.
 datatable:
-  - deepcelltypes-hubmap-crosswalk.csv
+  - deepcelltypes-crosswalk.csv
 references:
   - https://doi.org/10.1101/2024.11.02.621624

@@ -21,15 +21,15 @@ publisher: HuBMAP
 funders:
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM344.KNDS.959
-# doi: https://doi.org/10.48539/HBM344.KNDS.959
-# citation: >-
-#   Heidi Schlehlein. 2025. *3D reference organ for omentum, Female v1.0.*
-#   [https://doi.org/10.48539/HBM344.KNDS.959](https://doi.org/10.48539/HBM344.KNDS.959). Accessed on December 15, 2025.
+hubmapId: HBM636.GWRW.698
+doi: https://doi.org/10.48539/HBM636.GWRW.698
+citation: >-
+  Heidi Schlehlein. 2026. *3D reference organ for omentum, Female v1.0.*
+  [https://doi.org/10.48539/HBM636.GWRW.698](https://doi.org/10.48539/HBM636.GWRW.698). Accessed on June 15, 2026.
 citationOverall: >-
   Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner.
-  2025. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 15,
-  2025.
+  2026. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on June 15,
+  2026.
 datatable:
   - 3d-vh-f-omentum.glb
   - crosswalk.csv
