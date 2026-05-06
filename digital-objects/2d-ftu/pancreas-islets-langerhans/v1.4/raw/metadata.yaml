@@ -21,7 +21,7 @@ reviewers:
     lastName: Campbell-Thompson
     orcid: 0000-0001-6878-1235
 externalReviewers: []
-creation_date: "2023-12-15"
+creation_date: "2026-06-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 publisher: HuBMAP
@@ -30,14 +30,14 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-hubmapId: HBM637.SFSW.654
-doi: https://doi.org/10.48539/HBM637.SFSW.654
+hubmapId: HBM354.HHRL.928
+doi: https://doi.org/10.48539/HBM354.HHRL.928
 citation: >-
-  Bajema, Rachel. 2023. 2D Islets of Langerhans FTU for Pancreas, v1.2. https://doi.org/10.48539/HBM637.SFSW.654.
-  Accessed on December 15, 2023.
+  Bajema, Rachel. 2026. 2D Islets of Langerhans FTU for Pancreas, v1.4. https://doi.org/10.48539/HBM354.HHRL.928.
+  Accessed on June 15, 2026.
 citationOverall: >-
-  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2023. HuBMAP CCF 2D Reference
-  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2023.
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2026. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on June 15, 2026.
 datatable:
   - 2d-ftu-pancreas-islets-langerhans.svg
   - 2d-ftu-pancreas-islets-langerhans.png

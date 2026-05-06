@@ -41,14 +41,14 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM724.KFSK.483
-# doi: https://doi.org/10.48539/HBM724.KFSK.483
-# citation: >-
-#   Bajema, Rachel. 2024. 2D Reference Outer Medullary Collecting Duct FTU for Kidney, v1.2.
-#   https://doi.org/10.48539/HBM724.KFSK.483) Accessed on December 15, 2024.
-# citationOverall: >-
-#   Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2024. HuBMAP CCF 2D Reference
-#   Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on December 15, 2024.
+hubmapId: HBM839.RVZB.668
+doi: https://doi.org/10.48539/HBM839.RVZB.668
+citation: >-
+  Bajema, Rachel. 2026. 2D Reference Outer Medullary Collecting Duct FTU for Kidney, v1.4.
+  https://doi.org/10.48539/HBM839.RVZB.668) Accessed on June 15, 2026.
+citationOverall: >-
+  Bajema, Rachel, Supriya Bidanta, Ellen Quardokus, Bruce W. Herr II, and Katy Börner. 2026. HuBMAP CCF 2D Reference
+  Object Library https://humanatlas.io/2d-ftu-illustrations. Accessed on June 15, 2026.
 datatable:
   - 2d-ftu-kidney-outer-medullary-collecting-duct.svg
   - 2d-ftu-kidney-outer-medullary-collecting-duct.png
