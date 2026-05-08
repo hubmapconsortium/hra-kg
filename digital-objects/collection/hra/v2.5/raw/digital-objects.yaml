@@ -67,16 +67,16 @@ digital-objects:
   - asct-b/uterus/v1.3
   - asct-b/blood-vasculature-organ-crosswalk/v1.6
   - asct-b/musculoskeletal-crosswalk/v1.1
-  - ctann/azimuth/v1.3
-  - ctann/celltypist/v1.2
+  - ctann/azimuth/v1.4
+  - ctann/celltypist/v1.3
   - ctann/deepcelltypes-hubmap/v1.1
-  - ctann/deepcelltypes/v1.1
+  - ctann/deepcelltypes/v1.2
   - ctann/frmatch/v1.0
-  - ctann/pan-human-azimuth/v1.1
-  - ctann/popv/v1.3
+  - ctann/pan-human-azimuth/v1.2
+  - ctann/popv/v1.4
   - ctann/ribca/v1.0
   - ctann/stellar/v1.0
-  - ctann/vccf/v1.1
+  - ctann/vccf/v1.2
   - millitome/uterus-female-upenn/v1.0
   - millitome/pancreas-male-vu/v1.0
   - millitome/pancreas-male-uf/v1.0
