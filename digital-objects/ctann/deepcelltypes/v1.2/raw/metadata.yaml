@@ -51,12 +51,12 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM525.CBGX.696
-# doi: https://doi.org/10.48539/HBM525.CBGX.696
-# citation: >-
-#   Puig-Barbe, Aleix.
-#   2025.	"Crosswalk of Deepcelltypes Annotated Cells to Cell Ontology, v1.1."
-#   https://doi.org/10.48539/HBM525.CBGX.696.	Accessed December 15, 2025.
+hubmapId: HBM325.BHPL.447
+doi: https://doi.org/10.48539/HBM325.BHPL.447
+citation: >-
+  Puig-Barbe, Aleix.
+  2026.	"Crosswalk of Deepcelltypes Annotated Cells to Cell Ontology, v1.2."
+  https://doi.org/10.48539/HBM325.BHPL.447.	Accessed June 15, 2026.
 datatable:
   - deepcelltypes-crosswalk.csv
 references:
