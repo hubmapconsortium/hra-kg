@@ -2,7 +2,7 @@
 source constants.sh
 set -ev
 
-VERSION=v2.4
+VERSION=v2.5
 export COLLECTIONS=$(do-processor list | grep "^collection/hra/${VERSION}" | sort);
 OUT=scratch/hra-asctb-json-releases
 
