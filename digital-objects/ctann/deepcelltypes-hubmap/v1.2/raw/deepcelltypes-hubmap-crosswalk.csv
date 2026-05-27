@@ -5,9 +5,9 @@ Author ORCID(s):,"0000-0001-6677-8489, 0000-0001-5208-3432",,,,,
 Reviewer(s):,"Bruce Herr II, Katy Borner, Jie Zheng",,,,,
 Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137, 0000-0002-2999-0103",,,,,
 General Publication(s):,https://doi.org/10.1101/2024.11.02.621624,,,,,
-Data DOI:,https://doi.org/10.48539/HBM927.RNDP.426,,,,,
-Date:,"December 15, 2025",,,,,
-Version number:,v1.1,,,,,
+Data DOI:,https://doi.org/10.48539/HBM483.HZKD.494,,,,,
+Date:,"June 15, 2026",,,,,
+Version number:,v1.2,,,,,
 Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
 body proper,UBERON:0013702,Acinar,DCTH:0000001,acinar cell,CL:0000622,skos:exactMatch
 body proper,UBERON:0013702,Astrocyte,DCTH:0000002,astrocyte,CL:0000127,skos:exactMatch
@@ -48,3 +48,5 @@ body proper,UBERON:0013702,Tcell,DCTH:0000036,T cell,CL:0000084,skos:exactMatch
 body proper,UBERON:0013702,TransitAmplifying,DCTH:0000037,transit amplifying cell,CL:0009010,skos:exactMatch
 body proper,UBERON:0013702,Treg,DCTH:0000038,regulatory T cell,CL:0000815,skos:exactMatch
 body proper,UBERON:0013702,Tumor,DCTH:0000039,neoplastic cell,CL:0001063,skos:exactMatch
+body proper,UBERON:0013702,Myeloid,DCTH:0000040,myeloid cell,CL:0000763,skos:exactMatch
+body proper,UBERON:0013702,GiantCell,DCTH:0000041,cell,CL:0000000,skos:narrowMatch

@@ -69,7 +69,7 @@ digital-objects:
   - asct-b/musculoskeletal-crosswalk/v1.1
   - ctann/azimuth/v1.4
   - ctann/celltypist/v1.3
-  - ctann/deepcelltypes-hubmap/v1.1
+  - ctann/deepcelltypes-hubmap/v1.2
   - ctann/deepcelltypes/v1.2
   - ctann/frmatch/v1.0
   - ctann/pan-human-azimuth/v1.2
