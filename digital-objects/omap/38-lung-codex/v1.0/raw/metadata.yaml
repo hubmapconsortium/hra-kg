@@ -2,7 +2,7 @@ title: >-
   OMAP-38: Expanded Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with CODEX
 description: |-
   OMAP-38 was designed for Multiplexed Immunofluorescent (MxIF) imaging of human FFPE lung sections utilizing Akoya’s 
-  Phenocycler-Fusion platform as described dx.doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3. The panel contains 
+  Phenocycler-Fusion platform as described [DOI:10.17504/protocols.io.6qpvr38dpvmk/v3](https://doi.org/10.17504/protocols.io.6qpvr38dpvmk/v3). The panel contains 
   35-antibodies and the nuclear stain, DAPI, for image alignment and nuclear segmentation. OMAP-38 provides spatial 
   context for airway, vasculature, alveolar, and extracellular matrix (ECM) features, and identifies approximately 28 
   of 72 key epithelial, endothelial, and immune cell types in the ASCT+B lung table v1.2. 
