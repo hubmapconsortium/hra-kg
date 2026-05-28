@@ -24,6 +24,10 @@ reviewers:
     firstName: Gloria
     lastName: Pryhuber
     orcid: 0000-0002-9185-3994
+  - fullName: Brigitte Gomperts
+    firstName: Brigitte
+    lastName: Gomperts
+    orcid: 0000-0002-1809-723X
 externalReviewers: []
 creation_date: "2026-06-15"
 license: >-
