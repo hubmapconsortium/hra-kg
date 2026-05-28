@@ -52,7 +52,10 @@ project_leads:
     firstName: Neil
     lastName: Kelleher
     orcid: 0000-0002-8815-3372
-  - orcid: 0000-0003-1495-9143
+  - fullName: Ronald N. Germain
+    firstName: Ronald
+    lastName: Germain
+    orcid: 0000-0003-1495-9143
 reviewers: []
 externalReviewers: []
 creation_date: '2026-06-15'
