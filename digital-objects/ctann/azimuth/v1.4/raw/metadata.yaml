@@ -27,10 +27,10 @@ creators:
     firstName: Deanne
     lastName: Taylor
     orcid: 0000-0002-3302-4610
-  # - fullName: Taha Mohseni Ahooyi
-  #   firstName: Taha
-  #   lastName: Ahooyi
-  #   orcid: XXXX
+  - fullName: Taha Mohseni Ahooyi
+    firstName: Taha
+    lastName: Ahooyi
+    orcid: 0000-0002-6066-391X
 project_leads:
   - fullName: Katy Börner
     firstName: Katy
