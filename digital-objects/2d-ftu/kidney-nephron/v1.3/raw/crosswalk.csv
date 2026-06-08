@@ -1,0 +1,151 @@
+node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Cortical_Collecting_Duct_AS,Cortical_Collecting_Duct,cortical collecting duct,UBERON:0004203,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_1,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_2,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_3,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_4,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_5,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_6,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_7,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_8,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_9,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_10,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_11,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_12,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_13,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_14,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Cortical_Collecting_Duct_Cell_15,Cortical_Collecting_Duct,kidney cortex collecting duct principal cell,CL:1000714,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S3_AS_1,Proximal_Tubule_S3,proximal straight tubule,UBERON:0001290,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S2_AS_1,Proximal_Tubule_S2,proximal convoluted tubule segment 2,UBERON:0004197,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S3_AS_2,Proximal_Tubule_S3,proximal straight tubule,UBERON:0001290,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S2_AS_1,Proximal_Tubule_S2,proximal convoluted tubule segment 2,UBERON:0004197,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_AS_1,Proximal_Tubule_S1,proximal convoluted tubule segment 1,UBERON:0004196,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_AS_2,Proximal_Tubule_S1,proximal convoluted tubule segment 1,UBERON:0004196,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_1,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_2,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_3,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_4,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_5,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_6,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_7,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_8,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_9,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_10,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_11,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_12,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_13,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Proximal_Tubule_S1_Cell_14,Proximal_Tubule_S1,epithelial cell of proximal tubule segment 1,CL:4030009,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_AS_1,Distal_Convoluted_Tubule,distal convoluted tubule,UBERON:0001292,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_AS_2,Distal_Convoluted_Tubule,distal convoluted tubule,UBERON:0001292,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_1,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_2,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_3,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_4,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_5,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_6,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_7,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_8,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_9,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_10,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_11,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_12,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_13,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_14,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_15,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Distal_Convoluted_Tubule_Cell_16,Distal_Convoluted_Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_AS_1,Connecting_Tubule,renal connecting tubule,UBERON:0005097,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_AS_2,Connecting_Tubule,renal connecting tubule,UBERON:0005097,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_1,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_2,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_3,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_4,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_5,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_6,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_7,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_8,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_9,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_10,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_11,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_12,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_13,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_14,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_15,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Connecting_Tubule_Cell_16,Connecting_Tubule,kidney connecting tubule epithelial cell,CL:1000768,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Macula_Densa_Cell_1,Macula_Densa,macula densa epithelial cell,CL:1000850,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Macula_Densa_Cell_2,Macula_Densa,macula densa epithelial cell,CL:1000850,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Macula_Densa_Cell_3,Macula_Densa,macula densa epithelial cell,CL:1000850,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Macula_Densa_Cell_4,Macula_Densa,macula densa epithelial cell,CL:1000850,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Macula_Densa_Cell_5,Macula_Densa,macula densa epithelial cell,CL:1000850,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Macula_Densa_Cell_6,Macula_Densa,macula densa epithelial cell,CL:1000850,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Macula_Densa_Cell_7,Macula_Densa,macula densa epithelial cell,CL:1000850,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Macula_Densa_Cell_8,Macula_Densa,macula densa epithelial cell,CL:1000850,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Macula_Densa_Cell_9,Macula_Densa,macula densa epithelial cell,CL:1000850,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_AS_1,Thick_Ascending_Limb_Of_Loop_Of_Henle,thick ascending limb of loop of Henle,UBERON:0001291,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_AS_2,Thick_Ascending_Limb_Of_Loop_Of_Henle,thick ascending limb of loop of Henle,UBERON:0001291,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_1,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_2,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_3,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_4,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_5,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_6,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_7,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_8,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_9,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_10,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_11,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_12,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_13,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_14,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_15,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_16,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_17,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_18,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_19,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_20,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_21,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_22,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_23,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_24,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_25,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Thick_Ascending_Limb_Of_Loop_Of_Henle_Cell_26,Thick_Ascending_Limb_Of_Loop_Of_Henle,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Ascending_Thin_Limb_Of_Loop_Of_Henle_AS_1,Ascending_Thin_Limb_Of_Loop_Of_Henle,loop of Henle ascending limb thin segment,UBERON:0004193,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Ascending_Thin_Limb_Of_Loop_Of_Henle_AS_2,Ascending_Thin_Limb_Of_Loop_Of_Henle,loop of Henle ascending limb thin segment,UBERON:0004193,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Ascending_Thin_Limb_Of_Loop_Of_Henle_Cell_1,Ascending_Thin_Limb_Of_Loop_Of_Henle,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Ascending_Thin_Limb_Of_Loop_Of_Henle_Cell_2,Ascending_Thin_Limb_Of_Loop_Of_Henle,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Descending_Thin_Limb_Of_Loop_Of_Henle_AS_1,Descending_Thin_Limb_Of_Loop_Of_Henle,descending thin limb,UBERON:0005096,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Descending_Thin_Limb_Of_Loop_Of_Henle_AS_2,Descending_Thin_Limb_Of_Loop_Of_Henle,descending thin limb,UBERON:0005096,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Descending_Thin_Limb_Of_Loop_Of_Henle_Cell_1,Descending_Thin_Limb_Of_Loop_Of_Henle,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Descending_Thin_Limb_Of_Loop_Of_Henle_Cell_2,Descending_Thin_Limb_Of_Loop_Of_Henle,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_1,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_2,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_3,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_4,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_5,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_6,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_7,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_8,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_9,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_10,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_11,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_12,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_13,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_14,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_Cell_15,Outer_Medullary_Collecting_Duct,kidney outer medulla collecting duct principal cell,CL:1000716,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Outer_Medullary_Collecting_Duct_AS,Outer_Medullary_Collecting_Duct,outer medullary collecting duct,UBERON:0004204,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_1,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_2,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_3,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_4,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_5,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_6,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_7,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_8,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_9,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_10,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_11,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_12,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_13,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_Cell_14,Inner_Medullary_Collecting_Duct,kidney inner medulla collecting duct principal cell,CL:1000718,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Inner_Medullary_Collecting_Duct_AS,Inner_Medullary_Collecting_Duct,inner medullary collecting duct,UBERON:0004205,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Renal_Corpuscle_1,Renal_Corpuscle,Renal Corpuscle,UBERON:0001229,nephron,UBERON:0001285,Kidney,UBERON:0002113
+Renal_Corpuscle_2,Renal_Corpuscle,Renal Corpuscle,UBERON:0001229,nephron,UBERON:0001285,Kidney,UBERON:0002113

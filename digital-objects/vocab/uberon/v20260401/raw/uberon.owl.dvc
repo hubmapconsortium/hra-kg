@@ -1,0 +1,5 @@
+outs:
+- md5: ed4e7ae558a6dfb98d3e62928d45d822
+  size: 97224372
+  hash: md5
+  path: uberon.owl

@@ -1,0 +1,5 @@
+outs:
+- md5: ef812fc7a977ba1b8a8fa4c5cdc1f3f7
+  size: 150372224
+  hash: md5
+  path: glomerulus.glb

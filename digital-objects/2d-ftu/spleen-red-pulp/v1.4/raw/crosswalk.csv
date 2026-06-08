@@ -1,0 +1,836 @@
+node_id,node_group,node_label,node_mapped_to,tissue_label,tissue_mapped_to,organ_label,organ_mapped_to
+Follicular_Dendritic_Cell_1,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_2,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_3,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_4,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_5,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_6,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Follicular_Dendritic_Cell_7,Follicular_Dendritic_Cell,follicular dendritic cell,CL:0000442,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_1,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_2,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_3,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_4,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_5,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Plasmablast_6,Plasmablast,plasmablast,CL:0000980,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Neutrophil_1,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Neutrophil_2,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Neutrophil_3,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Neutrophil_4,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Neutrophil_5,Neutrophil,neutrophil,CL:0000775,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_1,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_2,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_3,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_4,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_5,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Tingible_Body_Macrophage_6,Splenic_Tingible_Body_Macrophage,splenic tingible body macrophage,CL:0000877,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Marginal_Zone_Macrophage_1,Splenic_Marginal_Zone_Macrophage,splenic marginal zone macrophage,CL:0000872,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Marginal_Zone_Macrophage_2,Splenic_Marginal_Zone_Macrophage,splenic marginal zone macrophage,CL:0000872,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_1,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_2,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_3,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_4,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_5,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_6,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_7,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_8,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_9,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_10,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_11,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Splenic_Red_Pulp_Macrophage_12,Splenic_Red_Pulp_Macrophage,splenic red pulp macrophage,CL:0000874,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Dendritic_Cell_1,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Dendritic_Cell_2,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Dendritic_Cell_3,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Dendritic_Cell_4,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Dendritic_Cell_5,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Dendritic_Cell_6,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Dendritic_Cell_7,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Dendritic_Cell_8,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Dendritic_Cell_9,Dendritic_Cell,"dendritic cell, human",CL:0001056,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+CD14_Positive_1,CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+CD14_Positive_2,CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+CD14_Positive_3,CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+CD14_Positive_4,CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+CD14_Positive_5,CD14_Positive,"CD14-positive, CD16-low monocyte",CL:0001055,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Hematopoetic_Stem_Cell_1,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Hematopoetic_Stem_Cell_2,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Hematopoetic_Stem_Cell_3,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Hematopoetic_Stem_Cell_4,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Hematopoetic_Stem_Cell_5,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Hematopoetic_Stem_Cell_6,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Hematopoetic_Stem_Cell_7,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Hematopoetic_Stem_Cell_8,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Hematopoetic_Stem_Cell_9,Hematopoetic_Stem_Cell,hematopoetic stem cell,CL:0000037,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_1,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_2,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_3,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_4,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_5,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_6,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_7,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_8,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_9,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_10,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_11,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_12,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_13,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_14,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_15,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_16,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_17,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_18,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_19,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_20,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_21,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_22,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_23,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_24,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_25,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_26,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_27,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_28,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_29,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_30,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Reticular_Cell_Of_Splenic_Sinusoid_31,Reticular_Cell_Of_Splenic_Sinusoid,reticular cell of splenic sinusoid,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_1,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_2,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_3,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_4,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_5,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_6,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_7,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_8,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_9,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_10,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_11,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_12,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_13,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_14,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_15,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_16,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_17,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_18,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_19,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_20,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_21,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_22,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_23,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_24,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_25,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_26,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_27,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_28,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_29,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_30,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_31,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_32,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_33,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_34,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_35,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_36,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_37,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_38,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_39,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_40,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_41,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_42,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_43,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_44,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_45,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_46,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_47,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_48,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_49,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_50,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_51,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_52,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_53,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_54,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_55,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_56,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_57,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_58,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_59,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_60,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_61,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_62,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_63,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_64,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_65,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_66,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_67,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_68,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_69,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_70,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_71,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_72,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_73,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_74,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_75,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_76,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_77,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_78,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_79,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_80,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_81,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_82,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_83,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_84,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_85,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_86,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_87,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_88,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_89,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_90,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_91,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_92,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_93,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_94,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_95,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_96,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_97,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_98,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_99,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_100,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_101,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_102,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_103,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_104,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_105,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_106,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_107,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_108,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_109,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_110,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_111,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_112,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_113,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_114,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_115,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_116,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_117,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_118,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_119,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_120,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_121,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_122,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_123,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_124,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_125,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_126,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_127,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_128,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_129,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_130,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_131,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_132,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_133,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_134,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_135,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_136,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_137,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_138,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_139,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_140,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_141,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_142,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_143,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_144,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_145,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_146,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_147,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_148,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_149,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_150,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_151,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_152,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_153,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_154,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_155,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_156,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_157,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_158,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_159,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_160,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_161,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_162,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_163,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_164,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_165,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_166,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_167,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_168,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_169,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_170,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_171,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_172,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_173,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_174,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_175,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_176,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_177,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_178,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_179,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_180,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_181,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_182,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_183,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_184,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_185,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_186,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_187,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_188,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_189,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_190,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_191,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_192,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_193,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_194,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_195,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_196,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_197,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_198,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+B_cell_199,B_cell,B cell,CL:0000236,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_1,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_2,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_3,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_4,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_5,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_6,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_7,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_8,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_9,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_10,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_11,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_12,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_13,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_14,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_15,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_16,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_17,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_18,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_19,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_20,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_21,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_22,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_23,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_24,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_25,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_26,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_27,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_28,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_29,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_30,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_31,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_32,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_33,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_34,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_35,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_36,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_37,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_38,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_39,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_40,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_41,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_42,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_43,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_44,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_45,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_46,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_47,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_48,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_49,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_50,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_51,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_52,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_53,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_54,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_55,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_56,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_57,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_58,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_59,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_60,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_61,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_62,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_63,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_64,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_65,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_66,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_67,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_68,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_69,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_70,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_71,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_72,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_73,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_74,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_75,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_76,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_77,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_78,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_79,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_80,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_81,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_82,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_83,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_84,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_85,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_86,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_87,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_88,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_89,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_90,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_91,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_92,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_93,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_94,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_95,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_96,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_97,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_98,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_99,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_100,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_101,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_102,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_103,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_104,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_105,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_106,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_107,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_108,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_109,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_110,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_111,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_112,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_113,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_114,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_115,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_116,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_117,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_118,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_119,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_120,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_121,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_122,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_123,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_124,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_125,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_126,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_127,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_128,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_129,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_130,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_131,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_132,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_133,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_134,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_135,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_136,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_137,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_138,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_139,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_140,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_141,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_142,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_143,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_144,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_145,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_146,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_147,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_148,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_149,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_150,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_151,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_152,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_153,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Marginal_Zone_154,Marginal_Zone,,,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_1,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_2,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_3,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_4,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_5,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_6,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_7,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_8,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_9,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_10,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_11,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_12,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_13,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_14,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_15,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_16,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_17,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_18,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_19,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_20,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_21,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_22,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_23,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_24,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_25,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_26,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_27,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_28,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_29,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_30,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_31,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_32,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_33,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_34,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_35,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_36,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_37,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_38,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_39,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_40,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_41,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_42,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_43,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_44,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_45,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_46,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_47,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_48,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_49,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_50,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_51,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_52,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_53,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_54,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_55,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_56,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_57,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_58,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_59,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_60,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_61,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_62,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_63,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_64,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_65,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_66,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_67,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_68,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_69,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_70,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_71,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_72,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_73,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_74,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_75,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_76,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_77,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_78,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_79,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_80,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_81,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_82,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_83,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_84,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_85,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_86,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_87,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_88,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_89,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_90,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_91,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_92,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_93,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_94,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_95,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_96,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_97,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_98,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_99,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_100,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_101,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_102,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_103,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_104,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_105,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_106,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_107,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_108,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_109,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_110,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_111,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_112,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_113,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_114,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_115,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_116,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_117,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_118,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_119,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_120,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_121,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_122,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_123,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_124,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_125,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_126,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_127,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_128,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_129,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_130,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_131,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_132,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_133,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_134,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_135,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_136,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_137,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_138,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_139,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_140,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_141,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_142,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_143,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_144,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_145,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_146,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_147,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_148,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_149,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_150,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_151,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_152,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_153,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_154,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_155,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_156,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_157,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_158,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_159,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_160,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_161,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_162,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_163,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_164,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_165,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_166,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_167,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_168,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_169,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_170,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_171,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_172,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_173,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_174,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_175,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_176,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_177,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_178,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_179,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_180,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Germinal_Center_181,Germinal_Center,spleen germinal center,UBERON:0005196,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_1,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_2,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_3,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_4,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_5,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_6,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_7,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_8,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_9,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_10,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_11,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_12,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_13,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_14,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_15,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_16,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_17,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_18,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_19,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_20,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_21,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_22,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_23,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_24,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_25,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_26,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_27,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_28,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_29,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_30,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_31,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_32,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_33,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_34,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_35,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_36,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_37,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_38,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_39,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_40,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_41,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_42,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_43,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_44,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_45,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_46,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_47,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_48,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_49,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_50,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_51,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_52,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_53,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_54,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_55,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_56,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_57,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_58,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_59,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_60,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_61,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_62,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_63,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_64,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_65,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_66,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_67,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_68,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_69,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_70,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_71,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_72,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_73,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_74,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_75,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_76,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_77,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_78,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_79,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_80,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_81,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_82,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_83,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_84,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_85,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_86,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_87,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_88,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_89,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_90,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_91,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_92,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_93,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_94,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_95,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_96,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_97,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_98,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_99,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_100,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_101,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_102,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_103,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_104,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_105,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_106,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_107,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_108,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_109,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_110,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_111,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_112,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_113,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_114,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_115,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_116,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_117,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_118,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_119,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_120,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_121,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_122,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_123,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_124,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_125,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_126,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_127,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_128,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_129,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_130,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_131,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_132,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_133,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_134,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_135,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_136,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_137,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_138,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_139,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_140,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_141,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_142,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_143,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_144,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_145,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_146,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_147,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_148,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_149,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_150,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_151,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_152,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_153,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_154,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_155,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_156,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_157,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_158,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_159,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_160,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_161,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_162,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_163,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_164,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_165,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_166,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_167,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_168,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_169,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_170,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_171,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_172,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_173,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_174,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_175,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_176,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_177,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_178,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_179,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_180,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_181,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_182,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_183,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_184,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_185,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_186,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_187,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_188,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_189,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_190,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_191,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_192,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_193,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_194,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_195,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_196,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_197,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_198,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_199,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_200,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_201,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_202,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_203,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_204,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_205,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_206,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_207,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_208,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
+Mantle_Zone_209,Mantle_Zone,spleen B cell corona,UBERON:0010421,red pulp of spleen,UBERON:0001250,Spleen,UBERON:0002106
