@@ -1,0 +1,72 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ccf: <http://purl.org/ccf/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX schema: <http://schema.org/>
+PREFIX skin: <http://purl.obolibrary.org/obo/UBERON_0002097>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX HRA: <https://purl.humanatlas.io/collection/hra-api>
+PREFIX LOD: <https://lod.humanatlas.io>
+
+CONSTRUCT {
+  ?refOrgan a ccf:SpatialEntity ;
+    owl:sameAs ?latestRefOrgan ;
+    ccf:organ_owner_sex ?sex ;
+    ccf:representation_of ?organIri .
+  ?latestRefOrgan a ccf:SpatialEntity .
+
+  ?refOrganPlacement a ccf:SpatialPlacement ;
+    ccf:placement_for ?refOrgan ;
+    ccf:placement_relative_to ?latestRefOrgan ;
+    ccf:rotation_unit "degree" ;
+    ccf:scaling_unit "ratio" ;
+    ccf:translation_unit "millimeter" ;
+    ccf:x_rotation 0 ;
+    ccf:x_scaling 1 ;
+    ccf:x_translation 0 ;
+    ccf:y_rotation 0 ;
+    ccf:y_scaling 1 ;
+    ccf:y_translation 0 ;
+    ccf:z_rotation 0 ;
+    ccf:z_scaling 1 ;
+    ccf:z_translation 0 ;
+    dcterms:created ?date .
+}
+# SELECT DISTINCT ?latestRefOrgan ?refOrgan ?sex
+WHERE {
+  BIND(STRBEFORE(STR(NOW()), 'T') as ?date) 
+  GRAPH HRA: {
+    ?latestRefOrgan a ccf:SpatialEntity ;
+      ccf:has_reference_organ ?latestRefOrgan ;
+      ccf:representation_of ?representation_of ;
+      ccf:organ_owner_sex ?sex ;
+    .
+  }
+
+  GRAPH LOD: {        
+    [] a dcat:Dataset ;
+      schema:additionalType ?doType ;
+      schema:name ?doName ;
+      schema:version ?latestDoVersion ;
+      rdfs:seeAlso ?latestGraphPurlVersioned ;
+    .
+    FILTER(?doType = 'ref-organ')
+    BIND(IRI(CONCAT(STR(?latestGraphPurlVersioned), '#primary')) as ?latestRefOrgan)
+  }
+
+  GRAPH LOD: {
+    [] a dcat:Dataset ;
+      schema:additionalType ?doType ;
+      schema:name ?doName ;
+      schema:version ?doVersion ;
+      rdfs:seeAlso ?graphPurlVersioned .
+
+    FILTER(?doType = 'ref-organ')
+    BIND(IRI(CONCAT(STR(?graphPurlVersioned), '#primary')) as ?refOrgan)
+  }
+
+  FILTER(?doVersion != ?latestDoVersion)
+  BIND(IRI(CONCAT(STR(?graphPurlVersioned), '#', ?latestDoVersion, '_placement')) as ?refOrganPlacement)
+}

@@ -1,0 +1,26 @@
+PREFIX ccf: <http://purl.org/ccf/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX hint: <http://www.bigdata.com/queryHints#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX schema: <http://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX LOD: <https://lod.humanatlas.io>
+PREFIX HRA: <https://purl.humanatlas.io/collection/hra-api>
+PREFIX body: <http://purl.obolibrary.org/obo/UBERON_0013702>
+
+CONSTRUCT { ?iri dct:isReferencedBy ?purl . }
+WHERE {
+  GRAPH HRA: {
+    ?iri ccf:ccf_asctb_type [] .
+  }
+  GRAPH ?purl {
+    ?purl rdfs:seeAlso ?lod .
+    { ?iri ?pred1 [] . }
+    UNION
+    { [] ?pred2 ?iri . }
+  }
+}
