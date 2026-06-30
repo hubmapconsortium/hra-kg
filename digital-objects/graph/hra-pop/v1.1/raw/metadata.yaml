@@ -1,0 +1,91 @@
+title: HRApop
+description: |-
+
+  graph Digital Objects contain externally created Resource Description Framework (RDF, https://www.w3.org/RDF) graph
+  data that are useful for Human Reference Atlas use cases. This graph curates Human Reference Atlas Cell Type
+  Populations (HRApop) (Börner et al. 2025). More information is presented in a related paper (Bueckle et al. 2025).
+
+  **Bibliography:**
+
+  * Börner, Katy, Philip D. Blood, Jonathan C. Silverstein, Matthew Ruffalo, Rahul Satija, Sarah A. Teichmann, Gloria J. Pryhuber, et al. 2025. “Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage.” *Nature Methods*, March, 1–16. https://doi.org/10.1038/s41592-024-02563-5.
+  * Bueckle, Andreas, Bruce W. Herr II, Josef Hardi, Ellen M. Quardokus, Mark A. Musen, and Katy Börner. 2025. “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data.” bioRxiv. https://doi.org/10.1101/2024.12.22.630006.
+creators:
+  - fullName: Andreas Bueckle
+    firstName: Andreas
+    lastName: Bueckle
+    orcid: 0000-0002-8977-498X
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+  - fullName: Lu Chen
+    firstName: Lu
+    lastName: Chen
+    orcid: 0000-0001-5998-9317
+  - fullName: Daniel Bolin
+    firstName: Daniel
+    lastName: Bolin
+    orcid: 0000-0002-3803-2476
+  - fullName: Danial Qaurooni
+    firstName: Danial
+    lastName: Qaurooni
+    orcid: 0000-0001-6190-073X
+  - fullName: Michael Ginda
+    firstName: Michael
+    lastName: Ginda
+    orcid: 0000-0002-7500-8096
+  - fullName: Kristin Ardlie
+    firstName: Kristin
+    lastName: Ardlie
+    orcid: 0000-0003-4272-6283
+  - fullName: Fusheng Wang
+    firstName: Fusheng
+    lastName: Wang
+    orcid: 0000-0002-9369-9361
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers: []
+externalReviewers: []
+creation_date: "2025-06-15"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: U24CA268108
+  - funder: National Institutes of Health
+    awardNumber: U01CA242936
+  - funder: National Institutes of Health
+    awardNumber: U2CDK114886
+  - funder: National Institutes of Health
+    awardNumber: OT2OD030545
+# hubmapId:
+# doi:
+citation: >-
+  Bueckle, Andreas,	Lu Chen,	Bruce W. Herr II,	Daniel Bolin,	Danial Qaurooni,	
+  Michael Ginda,	Kristin Ardlie,	Fusheng Wang,	and Katy Börner.	
+  2025.	"Constructing and Using Cell Type Populations in the Human Reference Atlas."	
+  https://doi.org/TBD. Accessed June 15, 2025.
+citationOverall: >-
+  Bueckle, Andreas,	Lu Chen,	Bruce W. Herr II,	Daniel Bolin,	Danial Qaurooni,	
+  Michael Ginda,	Kristin Ardlie,	Fusheng Wang,	and Katy Börner.	
+  2025.	"Constructing and Using Cell Type Populations in the Human Reference Atlas."	
+  https://doi.org/TBD. Accessed June 15, 2025.
+datatable:
+  - atlas-enriched-dataset-graph.jsonld
+  - atlas-as-cell-summaries.jsonld
+  - corridors.zip
+references:
+  - https://doi.org/10.1038/s41592-024-02563-5
+  - https://doi.org/10.1101/2024.12.22.630006
