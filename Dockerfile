@@ -19,8 +19,6 @@ RUN mkdir /blazegraph \
 ENV BLAZEGRAPH_MEMORY=12G
 ENV BLAZEGRAPH_TIMEOUT=360000
 ENV BLAZEGRAPH_READONLY=false
-ENV BLAZEGRAPH_PORT=8081
-ENV NODE_ENV=production
 ENV PORT=8080
 
 ###### Add blazegraph-runner #####
@@ -36,7 +34,9 @@ ENV DB_URL=http://cdn-humanatlas-io.s3-website.us-east-2.amazonaws.com/digital-o
 
 RUN apt-get update && apt-get -y install cron bzip2
 
-COPY ./context/blazegraph.properties .
+RUN mkdir -p /data
+
+COPY ./context/blazegraph.properties /data/blazegraph.properties
 COPY ./context/sync.cron /etc/cron.d/sync.cron
 
 ADD ./context/readonly_cors.xml /blazegraph/readonly_cors.tmp.xml
@@ -46,7 +46,5 @@ ADD ./context/startup.sh /blazegraph/startup.sh
 RUN crontab /etc/cron.d/sync.cron
 
 COPY ./context/startup.sh ./context/sync.sh /
-
-RUN mkdir -p /data
 
 ENTRYPOINT [ "/startup.sh" ]
