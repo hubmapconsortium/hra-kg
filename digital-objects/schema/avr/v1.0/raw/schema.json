@@ -1,0 +1,391 @@
+{
+    "$defs": {
+        "Antibody": {
+            "additionalProperties": false,
+            "description": "An antibody subject to validation reporting.",
+            "properties": {
+                "antibody_hubmap_id": {
+                    "description": "HuBMAP identifier for the antibody.",
+                    "type": "string"
+                },
+                "antibody_uuid": {
+                    "description": "Universally unique identifier for the antibody.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "antigen_retrieval": {
+                    "description": "Antigen retrieval method used.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "author_orcids": {
+                    "description": "ORCID(s) of the author(s).",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": [
+                        "array",
+                        "null"
+                    ]
+                },
+                "avr_pdf": {
+                    "description": "Download URL for the validation report PDF.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "avr_pdf_filename": {
+                    "description": "Filename of the validation report PDF.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "avr_pdf_uuid": {
+                    "description": "UUID of the validation report PDF.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "catalog_number": {
+                    "description": "Vendor catalog number.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "cell_marker": {
+                    "description": "Cell marker information.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "clonality": {
+                    "description": "Clonality of the antibody (monoclonal or polyclonal).",
+                    "type": "string"
+                },
+                "clone_id": {
+                    "description": "Clone identifier for monoclonal antibodies.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "concentration_value": {
+                    "description": "Antibody concentration.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "conjugate": {
+                    "description": "Fluorescent or enzymatic conjugate.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "created_by_user_displayname": {
+                    "description": "Name of user who created this record.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "created_by_user_email": {
+                    "description": "Email of user who created this record.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "created_by_user_sub": {
+                    "description": "Subject identifier of user who created this record.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "cycle_number": {
+                    "description": "Cycle number in multi-cycle validation.",
+                    "type": [
+                        "integer",
+                        "null"
+                    ]
+                },
+                "dilution_factor": {
+                    "description": "Recommended dilution factor for use.",
+                    "type": [
+                        "integer",
+                        "null"
+                    ]
+                },
+                "fluorescent_reporter": {
+                    "description": "Fluorescent reporter used.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "group_uuid": {
+                    "description": "UUID of the group managing this record.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "hgnc_id": {
+                    "description": "HGNC gene identifier.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "host": {
+                    "description": "Host organism used to generate the antibody.",
+                    "type": "string"
+                },
+                "isotype": {
+                    "description": "Immunoglobulin isotype of the antibody.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "lot_number": {
+                    "description": "Lot number of the specific antibody batch.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "manuscript_doi": {
+                    "description": "DOI of associated manuscript.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "method": {
+                    "description": "Analytical method used in validation.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "next_version_id": {
+                    "description": "Identifier of next version if this has been superseded.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "omap": {
+                    "description": "OMAP (organ mapping anatomical project) identifier string, such as OMAP-14.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "omap_id": {
+                    "description": "Canonical versionless OMAP PURL resolved from the OMAP identifier.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "organ": {
+                    "description": "Organ or tissue type used in validation.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "organ_uberon_id": {
+                    "description": "UBERON identifier for the tissue/organ.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "previous_version_id": {
+                    "description": "Identifier of previous version if this is an update.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "previous_version_pdf_filename": {
+                    "description": "Filename of previous version PDF.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "previous_version_pdf_uuid": {
+                    "description": "UUID of previous version PDF.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "protocol_doi": {
+                    "description": "DOI of the experimental protocol.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "recombinant": {
+                    "description": "Whether the antibody is recombinant.",
+                    "type": [
+                        "boolean",
+                        "null"
+                    ]
+                },
+                "recommended": {
+                    "description": "Whether this antibody is recommended for use.",
+                    "type": "boolean"
+                },
+                "rrid": {
+                    "description": "Research Resource Identifier (RRID) for this antibody.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "segmentation_cell_membrane": {
+                    "description": "Cell membrane segmentation method.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "senescence_specific": {
+                    "description": "Whether the antibody is senescence-specific.",
+                    "type": [
+                        "boolean",
+                        "null"
+                    ]
+                },
+                "target_symbol": {
+                    "description": "Gene symbol (HGNC) of the antibody target.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "taxon": {
+                    "description": "Taxon information.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "tissue_preservation": {
+                    "description": "Method of tissue preservation.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "uniprot_accession_number": {
+                    "description": "UniProt accession number for the target protein.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "vendor_affiliation": {
+                    "description": "Vendor affiliation or alternative name.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                "vendor_name": {
+                    "description": "Name of the vendor/supplier.",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                }
+            },
+            "required": [
+                "antibody_hubmap_id",
+                "clonality",
+                "host",
+                "recommended"
+            ],
+            "title": "Antibody",
+            "type": "object"
+        },
+        "AntibodyValidationReportCollection": {
+            "additionalProperties": false,
+            "description": "A collection of Antibody Validation Reports.",
+            "properties": {
+                "antibodies": {
+                    "description": "List of antibodies in this collection.",
+                    "items": {
+                        "$ref": "#/$defs/Antibody"
+                    },
+                    "type": [
+                        "array",
+                        "null"
+                    ]
+                }
+            },
+            "title": "AntibodyValidationReportCollection",
+            "type": "object"
+        },
+        "ClonalityEnum": {
+            "description": "Clonality of antibody.",
+            "enum": [
+                "monoclonal",
+                "polyclonal"
+            ],
+            "title": "ClonalityEnum",
+            "type": "string"
+        },
+        "HostOrganism": {
+            "description": "Host organism for antibody generation.",
+            "enum": [
+                "Mouse",
+                "Rabbit",
+                "Goat",
+                "Human",
+                "Chicken",
+                "Sheep"
+            ],
+            "title": "HostOrganism",
+            "type": "string"
+        }
+    },
+    "$id": "https://purl.humanatlas.io/schema/avr",
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "additionalProperties": true,
+    "description": "A collection of Antibody Validation Reports.",
+    "metamodel_version": "1.11.0",
+    "properties": {
+        "antibodies": {
+            "description": "List of antibodies in this collection.",
+            "items": {
+                "$ref": "#/$defs/Antibody"
+            },
+            "type": [
+                "array",
+                "null"
+            ]
+        }
+    },
+    "title": "avro",
+    "type": "object",
+    "version": null
+}

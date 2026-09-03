@@ -1,0 +1,54 @@
+erDiagram
+Antibody {
+    string antibody_hubmap_id  
+    string antibody_uuid  
+    string antigen_retrieval  
+    ResourceIdentifierList author_orcids  
+    ResourceIdentifier avr_pdf  
+    string avr_pdf_filename  
+    string avr_pdf_uuid  
+    string catalog_number  
+    string cell_marker  
+    string clonality  
+    string clone_id  
+    string concentration_value  
+    string conjugate  
+    string created_by_user_displayname  
+    string created_by_user_email  
+    string created_by_user_sub  
+    integer cycle_number  
+    integer dilution_factor  
+    string fluorescent_reporter  
+    string group_uuid  
+    ResourceIdentifier hgnc_id  
+    string host  
+    string isotype  
+    string lot_number  
+    ResourceIdentifier manuscript_doi  
+    string method  
+    string next_version_id  
+    string omap  
+    ResourceIdentifier omap_id  
+    string organ  
+    ResourceIdentifier organ_uberon_id  
+    string previous_version_id  
+    string previous_version_pdf_filename  
+    string previous_version_pdf_uuid  
+    ResourceIdentifier protocol_doi  
+    boolean recombinant  
+    boolean recommended  
+    ResourceIdentifier rrid  
+    string segmentation_cell_membrane  
+    boolean senescence_specific  
+    string target_symbol  
+    string taxon  
+    string tissue_preservation  
+    ResourceIdentifier uniprot_accession_number  
+    string vendor_affiliation  
+    string vendor_name  
+}
+AntibodyValidationReportCollection {
+
+}
+
+AntibodyValidationReportCollection ||--}o Antibody : "antibodies"

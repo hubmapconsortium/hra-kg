@@ -1,0 +1,34 @@
+title: Antibody Validation Reports (AVR) schema
+description: |-
+  This schema defines a data model for Antibody Validation Reports (AVR).
+
+  **Bibliography:**
+
+  * TODO
+creators:
+  - fullName: Bruce W. Herr II
+    firstName: Bruce
+    lastName: Herr
+    orcid: 0000-0002-6703-7647
+project_leads:
+  - fullName: Katy Börner
+    firstName: Katy
+    lastName: Börner
+    orcid: 0000-0002-3321-6137
+reviewers: []
+creation_date: "2026-09-03"
+license: >-
+  Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+publisher: HuBMAP
+funders:
+  - funder: National Institutes of Health
+    awardNumber: OT2OD033756
+  - funder: National Institutes of Health
+    awardNumber: OT2OD026671
+datatable:
+  - schema.yaml
+  - schema.context.jsonld
+  - schema.json
+  - schema.mmd
+  - schema.png
+  - schema.svg

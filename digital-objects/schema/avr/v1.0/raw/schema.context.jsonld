@@ -1,0 +1,189 @@
+{
+   "@context": {
+      "xsd": "http://www.w3.org/2001/XMLSchema#",
+      "avr": "https://purl.humanatlas.io/graph/avr#",
+      "avro": "https://purl.humanatlas.io/schema/avr#",
+      "biolink": "https://w3id.org/biolink/vocab/",
+      "chebi": {
+         "@id": "http://purl.obolibrary.org/obo/CHEBI_",
+         "@prefix": true
+      },
+      "dcterms": "http://purl.org/dc/terms/",
+      "hgnc": "http://identifiers.org/hgnc/",
+      "identifiers": "https://identifiers.org/",
+      "linkml": "https://w3id.org/linkml/",
+      "obo": "http://purl.obolibrary.org/obo/",
+      "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+      "ro": {
+         "@id": "http://purl.obolibrary.org/obo/RO_",
+         "@prefix": true
+      },
+      "rrid": {
+         "@type": "rdfs:Resource",
+         "@id": "rrid"
+      },
+      "schema": "http://schema.org/",
+      "uberon": {
+         "@id": "http://purl.obolibrary.org/obo/UBERON_",
+         "@prefix": true
+      },
+      "uniprot": "http://purl.uniprot.org/uniprot/",
+      "@vocab": "https://purl.humanatlas.io/schema/avr#",
+      "antibody_hubmap_id": "@id",
+      "antibody_uuid": {
+         "@id": "antibody_uuid"
+      },
+      "antigen_retrieval": {
+         "@id": "antigen_retrieval"
+      },
+      "author_orcids": {
+         "@type": "rdfs:Resource",
+         "@id": "author_orcids"
+      },
+      "avr_pdf": {
+         "@type": "rdfs:Resource",
+         "@id": "avr_pdf"
+      },
+      "avr_pdf_filename": {
+         "@id": "avr_pdf_filename"
+      },
+      "avr_pdf_uuid": {
+         "@id": "avr_pdf_uuid"
+      },
+      "catalog_number": {
+         "@id": "catalog_number"
+      },
+      "cell_marker": {
+         "@id": "cell_marker"
+      },
+      "clonality": {
+         "@id": "clonality"
+      },
+      "clone_id": {
+         "@id": "clone_id"
+      },
+      "concentration_value": {
+         "@id": "concentration_value"
+      },
+      "conjugate": {
+         "@id": "conjugate"
+      },
+      "created_by_user_displayname": {
+         "@id": "created_by_user_displayname"
+      },
+      "created_by_user_email": {
+         "@id": "created_by_user_email"
+      },
+      "created_by_user_sub": {
+         "@id": "created_by_user_sub"
+      },
+      "cycle_number": {
+         "@type": "xsd:integer",
+         "@id": "cycle_number"
+      },
+      "dilution_factor": {
+         "@type": "xsd:integer",
+         "@id": "dilution_factor"
+      },
+      "fluorescent_reporter": {
+         "@id": "fluorescent_reporter"
+      },
+      "group_uuid": {
+         "@id": "group_uuid"
+      },
+      "hgnc_id": {
+         "@type": "rdfs:Resource",
+         "@id": "hgnc_id"
+      },
+      "host": {
+         "@id": "host"
+      },
+      "isotype": {
+         "@id": "isotype"
+      },
+      "lot_number": {
+         "@id": "lot_number"
+      },
+      "manuscript_doi": {
+         "@type": "rdfs:Resource",
+         "@id": "manuscript_doi"
+      },
+      "method": {
+         "@id": "method"
+      },
+      "next_version_id": {
+         "@id": "next_version_id"
+      },
+      "omap": {
+         "@id": "omap"
+      },
+      "omap_id": {
+         "@type": "rdfs:Resource",
+         "@id": "omap_id"
+      },
+      "organ": {
+         "@id": "organ"
+      },
+      "organ_uberon_id": {
+         "@type": "rdfs:Resource",
+         "@id": "organ_uberon_id"
+      },
+      "previous_version_id": {
+         "@id": "previous_version_id"
+      },
+      "previous_version_pdf_filename": {
+         "@id": "previous_version_pdf_filename"
+      },
+      "previous_version_pdf_uuid": {
+         "@id": "previous_version_pdf_uuid"
+      },
+      "protocol_doi": {
+         "@type": "rdfs:Resource",
+         "@id": "protocol_doi"
+      },
+      "recombinant": {
+         "@type": "xsd:boolean",
+         "@id": "recombinant"
+      },
+      "recommended": {
+         "@type": "xsd:boolean",
+         "@id": "recommended"
+      },
+      "segmentation_cell_membrane": {
+         "@id": "segmentation_cell_membrane"
+      },
+      "senescence_specific": {
+         "@type": "xsd:boolean",
+         "@id": "senescence_specific"
+      },
+      "target_symbol": {
+         "@id": "target_symbol"
+      },
+      "taxon": {
+         "@id": "taxon"
+      },
+      "tissue_preservation": {
+         "@id": "tissue_preservation"
+      },
+      "uniprot_accession_number": {
+         "@type": "rdfs:Resource",
+         "@id": "uniprot_accession_number"
+      },
+      "vendor_affiliation": {
+         "@id": "vendor_affiliation"
+      },
+      "vendor_name": {
+         "@id": "vendor_name"
+      },
+      "antibodies": {
+         "@type": "@id",
+         "@id": "antibodies"
+      },
+      "Antibody": {
+         "@id": "Antibody"
+      },
+      "AntibodyValidationReportCollection": {
+         "@id": "AntibodyValidationReportCollection"
+      }
+   }
+}

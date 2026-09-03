@@ -1,0 +1,415 @@
+id: https://purl.humanatlas.io/schema/avr
+name: avro
+title: Antibody Validation Report (AVR) Application Ontology
+description: LinkML schema for Antibody Validation Report (AVR) data.
+imports:
+  - linkml:types
+prefixes:
+  linkml:
+    prefix_prefix: linkml
+    prefix_reference: https://w3id.org/linkml/
+  biolink:
+    prefix_prefix: biolink
+    prefix_reference: https://w3id.org/biolink/vocab/
+  avro:
+    prefix_prefix: avro
+    prefix_reference: https://purl.humanatlas.io/schema/avr#
+  avr:
+    prefix_prefix: avr
+    prefix_reference: https://purl.humanatlas.io/graph/avr#
+  obo:
+    prefix_prefix: obo
+    prefix_reference: http://purl.obolibrary.org/obo/
+  hgnc:
+    prefix_prefix: hgnc
+    prefix_reference: http://identifiers.org/hgnc/
+  uniprot:
+    prefix_prefix: uniprot
+    prefix_reference: http://purl.uniprot.org/uniprot/
+  identifiers:
+    prefix_prefix: identifiers
+    prefix_reference: https://identifiers.org/
+  rrid:
+    prefix_prefix: rrid
+    prefix_reference: "https://identifiers.org/RRID:"
+  uberon:
+    prefix_prefix: uberon
+    prefix_reference: http://purl.obolibrary.org/obo/UBERON_
+  chebi:
+    prefix_prefix: chebi
+    prefix_reference: http://purl.obolibrary.org/obo/CHEBI_
+  ro:
+    prefix_prefix: ro
+    prefix_reference: http://purl.obolibrary.org/obo/RO_
+  dcterms:
+    prefix_prefix: dcterms
+    prefix_reference: http://purl.org/dc/terms/
+  schema:
+    prefix_prefix: schema
+    prefix_reference: http://schema.org/
+  rdfs:
+    prefix_prefix: rdfs
+    prefix_reference: http://www.w3.org/2000/01/rdf-schema#
+
+default_prefix: avro
+
+default_range: string
+
+classes:
+  AntibodyValidationReportCollection:
+    name: AntibodyValidationReportCollection
+    description: A collection of Antibody Validation Reports.
+    title: Antibody Validation Report Collection
+    from_schema: https://purl.humanatlas.io/schema/avr
+    tree_root: true
+    class_uri: avro:AntibodyValidationReportCollection
+    attributes:
+      antibodies:
+        name: antibodies
+        title: antibodies
+        description: List of antibodies in this collection.
+        range: Antibody
+        multivalued: true
+        inlined_as_list: true
+
+  Antibody:
+    name: Antibody
+    description: An antibody subject to validation reporting.
+    title: Antibody
+    from_schema: https://purl.humanatlas.io/schema/avr
+    class_uri: avro:Antibody
+    id_prefixes:
+      - avr
+    attributes:
+      antibody_hubmap_id:
+        name: antibody_hubmap_id
+        title: antibody hubmap identifier
+        description: HuBMAP identifier for the antibody.
+        slot_uri: avro:antibody_hubmap_id
+        identifier: true
+        range: string
+        required: true
+      antibody_uuid:
+        name: antibody_uuid
+        title: antibody uuid
+        description: Universally unique identifier for the antibody.
+        slot_uri: avro:antibody_uuid
+        range: string
+      target_symbol:
+        name: target_symbol
+        title: target symbol
+        description: Gene symbol (HGNC) of the antibody target.
+        slot_uri: avro:target_symbol
+        range: string
+      hgnc_id:
+        name: hgnc_id
+        title: HGNC identifier
+        description: HGNC gene identifier.
+        slot_uri: avro:hgnc_id
+        range: ResourceIdentifier
+      uniprot_accession_number:
+        name: uniprot_accession_number
+        title: UniProt accession number
+        description: UniProt accession number for the target protein.
+        slot_uri: avro:uniprot_accession_number
+        range: ResourceIdentifier
+      rrid:
+        name: rrid
+        title: RRID
+        description: Research Resource Identifier (RRID) for this antibody.
+        slot_uri: avro:rrid
+        range: ResourceIdentifier
+      clone_id:
+        name: clone_id
+        title: clone identifier
+        description: Clone identifier for monoclonal antibodies.
+        slot_uri: avro:clone_id
+        range: string
+      clonality:
+        name: clonality
+        title: clonality
+        description: Clonality of the antibody (monoclonal or polyclonal).
+        slot_uri: avro:clonality
+        range: string
+        required: true
+      host:
+        name: host
+        title: host
+        description: Host organism used to generate the antibody.
+        slot_uri: avro:host
+        range: string
+        required: true
+      isotype:
+        name: isotype
+        title: isotype
+        description: Immunoglobulin isotype of the antibody.
+        slot_uri: avro:isotype
+        range: string
+        examples:
+          - value: IgG1
+          - value: IgM
+          - value: IgG2a
+      vendor_name:
+        name: vendor_name
+        title: vendor name
+        description: Name of the vendor/supplier.
+        slot_uri: avro:vendor_name
+        range: string
+      vendor_affiliation:
+        name: vendor_affiliation
+        title: vendor affiliation
+        description: Vendor affiliation or alternative name.
+        slot_uri: avro:vendor_affiliation
+        range: string
+      catalog_number:
+        name: catalog_number
+        title: catalog number
+        description: Vendor catalog number.
+        slot_uri: avro:catalog_number
+        range: string
+      lot_number:
+        name: lot_number
+        title: lot number
+        description: Lot number of the specific antibody batch.
+        slot_uri: avro:lot_number
+        range: string
+      conjugate:
+        name: conjugate
+        title: conjugate
+        description: Fluorescent or enzymatic conjugate.
+        slot_uri: avro:conjugate
+        range: string
+        examples:
+          - value: FITC
+          - value: PE
+          - value: APC
+      concentration_value:
+        name: concentration_value
+        title: concentration value
+        description: Antibody concentration.
+        slot_uri: avro:concentration_value
+        range: string
+      recombinant:
+        name: recombinant
+        title: recombinant
+        description: Whether the antibody is recombinant.
+        slot_uri: avro:recombinant
+        range: boolean
+      senescence_specific:
+        name: senescence_specific
+        title: senescence-specific
+        description: Whether the antibody is senescence-specific.
+        slot_uri: avro:senescence_specific
+        range: boolean
+      recommended:
+        name: recommended
+        title: recommended
+        description: Whether this antibody is recommended for use.
+        slot_uri: avro:recommended
+        range: boolean
+        required: true
+      dilution_factor:
+        name: dilution_factor
+        title: dilution factor
+        description: Recommended dilution factor for use.
+        slot_uri: avro:dilution_factor
+        range: integer
+      method:
+        name: method
+        title: method
+        description: Analytical method used in validation.
+        slot_uri: avro:method
+        range: string
+        examples:
+          - value: MICS
+          - value: IHC
+          - value: Flow Cytometry
+      organ:
+        name: organ
+        title: organ
+        description: Organ or tissue type used in validation.
+        slot_uri: avro:organ
+        range: string
+      organ_uberon_id:
+        name: organ_uberon_id
+        title: organ UBERON identifier
+        description: UBERON identifier for the tissue/organ.
+        slot_uri: avro:organ_uberon_id
+        range: ResourceIdentifier
+      tissue_preservation:
+        name: tissue_preservation
+        title: tissue preservation
+        description: Method of tissue preservation.
+        slot_uri: avro:tissue_preservation
+        range: string
+        examples:
+          - value: 1% PFA fixed frozen
+          - value: Fresh
+      omap:
+        name: omap
+        title: OMAP identifier
+        description: OMAP (organ mapping anatomical project) identifier string, such as OMAP-14.
+        slot_uri: avro:omap
+        range: string
+      omap_id:
+        name: omap_id
+        title: OMAP PURL
+        description: Canonical versionless OMAP PURL resolved from the OMAP identifier.
+        slot_uri: avro:omap_id
+        range: ResourceIdentifier
+      cycle_number:
+        name: cycle_number
+        title: cycle number
+        description: Cycle number in multi-cycle validation.
+        slot_uri: avro:cycle_number
+        range: integer
+      antigen_retrieval:
+        name: antigen_retrieval
+        title: antigen retrieval
+        description: Antigen retrieval method used.
+        slot_uri: avro:antigen_retrieval
+        range: string
+      segmentation_cell_membrane:
+        name: segmentation_cell_membrane
+        title: segmentation cell membrane
+        description: Cell membrane segmentation method.
+        slot_uri: avro:segmentation_cell_membrane
+        range: string
+      cell_marker:
+        name: cell_marker
+        title: cell marker
+        description: Cell marker information.
+        slot_uri: avro:cell_marker
+        range: string
+      fluorescent_reporter:
+        name: fluorescent_reporter
+        title: fluorescent reporter
+        description: Fluorescent reporter used.
+        slot_uri: avro:fluorescent_reporter
+        range: string
+      taxon:
+        name: taxon
+        title: taxon
+        description: Taxon information.
+        slot_uri: avro:taxon
+        range: string
+      created_by_user_displayname:
+        name: created_by_user_displayname
+        title: created by user displayname
+        description: Name of user who created this record.
+        slot_uri: avro:created_by_user_displayname
+        range: string
+      created_by_user_email:
+        name: created_by_user_email
+        title: created by user email
+        description: Email of user who created this record.
+        slot_uri: avro:created_by_user_email
+        range: string
+      created_by_user_sub:
+        name: created_by_user_sub
+        title: created by user subject
+        description: Subject identifier of user who created this record.
+        slot_uri: avro:created_by_user_sub
+        range: string
+      group_uuid:
+        name: group_uuid
+        title: group uuid
+        description: UUID of the group managing this record.
+        slot_uri: avro:group_uuid
+        range: string
+      author_orcids:
+        name: author_orcids
+        title: author ORCIDs
+        description: ORCID(s) of the author(s).
+        slot_uri: avro:author_orcids
+        range: ResourceIdentifier
+        multivalued: true
+        inlined_as_list: true
+      manuscript_doi:
+        name: manuscript_doi
+        title: manuscript DOI
+        description: DOI of associated manuscript.
+        slot_uri: avro:manuscript_doi
+        range: ResourceIdentifier
+      protocol_doi:
+        name: protocol_doi
+        title: protocol DOI
+        description: DOI of the experimental protocol.
+        slot_uri: avro:protocol_doi
+        range: ResourceIdentifier
+      avr_pdf_filename:
+        name: avr_pdf_filename
+        title: AVR PDF filename
+        description: Filename of the validation report PDF.
+        slot_uri: avro:avr_pdf_filename
+        range: string
+      avr_pdf_uuid:
+        name: avr_pdf_uuid
+        title: AVR PDF UUID
+        description: UUID of the validation report PDF.
+        slot_uri: avro:avr_pdf_uuid
+        range: string
+      avr_pdf:
+        name: avr_pdf
+        title: AVR PDF URL
+        description: Download URL for the validation report PDF.
+        slot_uri: avro:avr_pdf
+        range: ResourceIdentifier
+      previous_version_id:
+        name: previous_version_id
+        title: previous version identifier
+        description: Identifier of previous version if this is an update.
+        slot_uri: avro:previous_version_id
+        range: string
+      previous_version_pdf_filename:
+        name: previous_version_pdf_filename
+        title: previous version PDF filename
+        description: Filename of previous version PDF.
+        slot_uri: avro:previous_version_pdf_filename
+        range: string
+      previous_version_pdf_uuid:
+        name: previous_version_pdf_uuid
+        title: previous version PDF UUID
+        description: UUID of previous version PDF.
+        slot_uri: avro:previous_version_pdf_uuid
+        range: string
+      next_version_id:
+        name: next_version_id
+        title: next version identifier
+        description: Identifier of next version if this has been superseded.
+        slot_uri: avro:next_version_id
+        range: string
+
+enums:
+  ClonalityEnum:
+    name: ClonalityEnum
+    description: Clonality of antibody.
+    permissible_values:
+      monoclonal:
+        description: Monoclonal antibody.
+      polyclonal:
+        description: Polyclonal antibody.
+
+  HostOrganism:
+    name: HostOrganism
+    description: Host organism for antibody generation.
+    permissible_values:
+      Mouse:
+        description: Mouse (Mus musculus).
+      Rabbit:
+        description: Rabbit (Oryctolagus cuniculus).
+      Goat:
+        description: Goat (Capra aegagrus hircus).
+      Human:
+        description: Human (Homo sapiens).
+      Chicken:
+        description: Chicken (Gallus gallus).
+      Sheep:
+        description: Sheep (Ovis aries).
+
+types:
+  ResourceIdentifier:
+    name: ResourceIdentifier
+    description: URI or CURIE used to identify a resource in RDF.
+    typeof: uriorcurie
+    uri: rdfs:Resource
