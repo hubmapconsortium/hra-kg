@@ -23,7 +23,7 @@ reviewers:
   - fullName: John Hickey
     firstName: John
     lastName: Hickey
-    orcid: 0000-0001-5675-3974
+    orcid: 0000-0001-9961-7673
   - fullName: Bruce W. Herr II
     firstName: Bruce
     lastName: Herr
@@ -44,7 +44,7 @@ externalReviewers:
   - fullName: John Hickey
     firstName: John
     lastName: Hickey
-    orcid: 0000-0001-5675-3974
+    orcid: 0000-0001-9961-7673
 creation_date: "2025-09-04"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
