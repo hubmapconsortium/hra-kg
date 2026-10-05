@@ -12,6 +12,7 @@ description: |-
   available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
 
   **Bibliography:**
+
   * Bueckle, Andreas, Bruce W. Herr II, Lu Chen, Daniel Bolin, Danial Qaurooni, Michael Ginda, Yashvardhan Jain, Aleix Puig-Barbe, Kristin Ardlie, Fusheng Wang, and Katy Börner. 2026. “Cell Type Populations for 3D Anatomical Structures of the Human Reference Atlas.” *Scientific Data* 13: 716. https://doi.org/10.1038/s41597-026-06642-4.
   * Ergen, Can, Galen Xing, Chenling Xu, Martin Kim, Michael Jayasuriya, Erin McGeever, Angela Oliveira Pisco, Aaron Streets, and Nir Yosef. 2024. “Consensus Prediction of Cell Type Labels in Single-Cell Data with popV.” *Nature Genetics*, November. https://doi.org/10.1038/s41588-024-01993-3.
   * Joo, SeoJeong, Kishor Dhaygude, Sofie Westerberg, Rainer Krebs, Maija Puhka, Emil Holmström, Simo Syrjälä, Antti I. Nykänen, and Karl Lemström. 2023. “Transcriptomic Landscape of Circulating Extracellular Vesicles in Heart Transplant Ischemia–Reperfusion.” *Genes* 14 (11): 2101. https://doi.org/10.3390/genes14112101.
@@ -65,4 +66,6 @@ citation: >-
 datatable:
   - popv-crosswalk.csv
 references:
+  - https://doi.org/10.1038/s41597-026-06642-4
   - https://doi.org/10.1038/s41588-024-01993-3
+  - https://doi.org/10.3390/genes14112101
