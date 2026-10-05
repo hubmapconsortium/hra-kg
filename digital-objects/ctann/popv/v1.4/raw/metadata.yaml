@@ -2,14 +2,19 @@ title: cell type annotations for popular Vote (popV)
 description: |-
   This crosswalk maps the cell type annotations from popular Vote, or popV (Ergen et al. 2024), to the latest revision
   of Cell Ontology Version IRI: http://purl.obolibrary.org/obo/cl/releases/2025-10-16/cl.owl. More information on popV
-  is available at https://github.com/YosefLab/popV.                                        
+  is available at https://github.com/YosefLab/popV. During crosswalk compilation for popV, it was discovered that popV 
+  assigns "hepatocytes" to cells in the heart. However, "hepatocytes" are primary functional cells of the liver. 
+  This has also been reported elsewhere (Joo et al., 2023). While this issue was present in v1.0 of the popV crosswalk (https://purl.humanatlas.io/ctann/popv/v1.0), 
+  it was removed in subsequent releases v1.1-1.4. popV is not used to annotate heart data at all as of HRApop v1.1 (see Bueckle et al., 2026 for HRApop v1.0). 
+                                        
                                   
   The Human Reference Atlas regularly adds new cell types to Cell Ontology; an overview and current numbers are
   available under "Ontologies Extended" at https://apps.humanatlas.io/dashboard/data. 
 
   **Bibliography:**
-
+  * Bueckle, Andreas, Bruce W. Herr II, Lu Chen, Daniel Bolin, Danial Qaurooni, Michael Ginda, Yashvardhan Jain, Aleix Puig-Barbe, Kristin Ardlie, Fusheng Wang, and Katy Börner. 2026. “Cell Type Populations for 3D Anatomical Structures of the Human Reference Atlas.” *Scientific Data* 13: 716. https://doi.org/10.1038/s41597-026-06642-4.
   * Ergen, Can, Galen Xing, Chenling Xu, Martin Kim, Michael Jayasuriya, Erin McGeever, Angela Oliveira Pisco, Aaron Streets, and Nir Yosef. 2024. “Consensus Prediction of Cell Type Labels in Single-Cell Data with popV.” *Nature Genetics*, November. https://doi.org/10.1038/s41588-024-01993-3.
+  * Joo, SeoJeong, Kishor Dhaygude, Sofie Westerberg, Rainer Krebs, Maija Puhka, Emil Holmström, Simo Syrjälä, Antti I. Nykänen, and Karl Lemström. 2023. “Transcriptomic Landscape of Circulating Extracellular Vesicles in Heart Transplant Ischemia–Reperfusion.” *Genes* 14 (11): 2101. https://doi.org/10.3390/genes14112101.
 creators:
   - fullName: Ellen M. Quardokus
     firstName: Ellen
