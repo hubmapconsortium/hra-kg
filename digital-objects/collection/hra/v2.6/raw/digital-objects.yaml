@@ -27,43 +27,44 @@ digital-objects:
   - 2d-ftu/thymus-thymus-lobule/v1.5
   - 2d-ftu/asct-b-2d-models-crosswalk/v1.7
   - 3d-ftu/glomerulus/v1.0
-  - asct-b/allen-brain/v1.9
-  - asct-b/anatomical-systems/v1.2
+  - asct-b/allen-brain/v1.10
+  - asct-b/anatomical-systems/v1.3
   - asct-b/blood-pelvis/v1.4
-  - asct-b/blood-vasculature/v1.10
+  - asct-b/blood-vasculature/v1.11
   - asct-b/bone-marrow/v1.7
-  - asct-b/eye/v1.5
-  - asct-b/fallopian-tube/v1.5
+  - asct-b/eye/v1.6
+  - asct-b/fallopian-tube/v1.6
   - asct-b/heart/v1.7
-  - asct-b/kidney/v1.8
+  - asct-b/kidney/v1.9
   - asct-b/knee/v1.4
   - asct-b/large-intestine/v1.5
-  - asct-b/liver/v1.5
+  - asct-b/liver/v1.6
   - asct-b/lung/v1.6
-  - asct-b/lymph-node/v1.5
-  - asct-b/lymph-vasculature/v1.5
+  - asct-b/lymph-node/v1.4
+  - asct-b/lymph-vasculature/v1.6
   - asct-b/lymph-vasculature-organ-crosswalk/v1.0
   - asct-b/main-bronchus/v1.4
   - asct-b/mouth/v1.3
   - asct-b/muscular-system/v1.4
-  - asct-b/ovary/v1.4
+  - asct-b/ovary/v1.5
   - asct-b/palatine-tonsil/v1.2
-  - asct-b/pancreas/v1.4
+  - asct-b/pancreas/v1.5
   - asct-b/pathway-crosswalk/v1.2
-  - asct-b/peripheral-nervous-system/v1.3
+  - asct-b/peripheral-nervous-system/v1.4
   - asct-b/peripheral-nervous-system-organ-crosswalk/v1.1
-  - asct-b/placenta/v1.3
-  - asct-b/prostate/v1.1
-  - asct-b/skeleton/v1.3
+  - asct-b/placenta/v1.4
+  - asct-b/prostate/v1.2
+  - asct-b/prostate-female/v1.0
+  - asct-b/skeleton/v1.4
   - asct-b/skin/v1.7
   - asct-b/small-intestine/v1.5
   - asct-b/spinal-cord/v1.1
-  - asct-b/spleen/v1.6
+  - asct-b/spleen/v1.7
   - asct-b/thymus/v1.5
   - asct-b/trachea/v1.1
-  - asct-b/ureter/v1.0
-  - asct-b/urinary-bladder/v1.0
-  - asct-b/uterus/v1.3
+  - asct-b/ureter/v1.1
+  - asct-b/urinary-bladder/v1.1
+  - asct-b/uterus/v1.4
   - asct-b/blood-vasculature-organ-crosswalk/v1.6
   - asct-b/musculoskeletal-crosswalk/v1.1
   - ctann/azimuth/v1.4

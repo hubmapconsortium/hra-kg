@@ -23,6 +23,10 @@ creators:
     firstName: Teri
     lastName: Longacre
     orcid: 0000-0002-0935-7300
+  - fullName: John Hickey
+    firstName: John
+    lastName: Hickey
+    orcid: 0000-0001-9961-7673
 project_leads:
   - fullName: Katy Börner
     firstName: Katy
@@ -37,6 +41,10 @@ reviewers:
     firstName: Supriya
     lastName: Bidanta
     orcid: 0000-0002-2142-983X
+  - fullName: Jie Zheng
+    firstName: Jie
+    lastName: Zheng
+    orcid: 0000-0002-2999-0103
 externalReviewers:
   - fullName: Katherine Garman
     firstName: Katherine
@@ -51,16 +59,10 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM556.MDSS.878
-# doi: https://doi.org/10.48539/HBM556.MDSS.878
-# citation: >-
-#   Longacre, Teri.
-#   2026.	"HuBMAP ASCT+B Tables. Small Intestine v1.4."
-#   https://doi.org/10.48539/HBM556.MDSS.878.	Accessed June 15, 2026.
-# citationOverall: >-
-#   Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
-#   2026.	"HuBMAP ASCT+B Tables."	
-#   https://humanatlas.io/asctb-tables.	Accessed June 15, 2026.
+citationOverall: >-
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2026.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2026.
 datatable:
   - asct-b-vh-small-intestine.csv
 references:

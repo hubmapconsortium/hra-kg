@@ -50,11 +50,19 @@ reviewers:
     firstName: Ellen
     lastName: Quardokus
     orcid: 0000-0001-7655-4833
+  - fullName: Jie Zheng
+    firstName: Jie
+    lastName: Zheng
+    orcid: 0000-0002-2999-0103
 externalReviewers:
   - fullName: Sean Bendall
     firstName: Sean
     lastName: Bendall
     orcid: 0000-0003-1341-2453
+  - fullName: Dongmei Li
+    firstName: Dongmei
+    lastName: Li
+    orcid: 0000-0001-9140-2483
 creation_date: "2026-12-15"
 license: >-
   Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
@@ -64,15 +72,9 @@ funders:
     awardNumber: OT2OD033756
   - funder: National Institutes of Health
     awardNumber: OT2OD026671
-# hubmapId: HBM885.LVBB.378
-# doi: https://doi.org/10.48539/HBM885.LVBB.378
-# citation: >-
-#   Haniffa, Muzlifah A.,	Laura Jardine,	and Sarah A. Teichmann.	
-#   2026.	"HuBMAP ASCT+B Tables. Bone Marrow v1.6."	
-#   https://doi.org/10.48539/HBM885.LVBB.378.	Accessed June 15, 2026.
-# citationOverall: >-
-#   Quardokus, Ellen M.,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
-#   2026.	"HuBMAP ASCT+B Tables."	
-#   https://humanatlas.io/asctb-tables.	Accessed June 15, 2026.
+citationOverall: >-
+  Quardokus, Ellen,	Bruce W. Herr II,	Lisel Record,	and Katy Börner.	
+  2026.	"HuBMAP ASCT+B Tables."	
+  https://humanatlas.io/asctb-tables.	Accessed December 15, 2026.
 datatable:
   - asct-b-vh-bone-marrow.csv
