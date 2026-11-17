@@ -11,9 +11,9 @@ digital-objects:
   - 2d-ftu/liver-liver-lobule/v1.5
   - 2d-ftu/lung-bronchial-submucosal-gland/v1.4
   - 2d-ftu/lung-pulmonary-alveolus/v1.5
-  - 2d-ftu/mouth-submandibular-gland/v1.2
-  - 2d-ftu/mouth-sublingual-gland/v1.2
-  - 2d-ftu/mouth-parotid-gland/v1.2
+  - 2d-ftu/mouth-submandibular-gland/v1.3
+  - 2d-ftu/mouth-sublingual-gland/v1.3
+  - 2d-ftu/mouth-parotid-gland/v1.3
   - 2d-ftu/placenta-chorionic-terminal-villus/v1.0
   - 2d-ftu/pancreas-endocrine-pancreas/v1.1
   - 2d-ftu/pancreas-exocrine-pancreas/v1.0
@@ -25,7 +25,7 @@ digital-objects:
   - 2d-ftu/spleen-red-pulp/v1.4
   - 2d-ftu/spleen-white-pulp/v1.4
   - 2d-ftu/thymus-thymus-lobule/v1.5
-  - 2d-ftu/asct-b-2d-models-crosswalk/v1.7
+  - 2d-ftu/asct-b-2d-models-crosswalk/v1.8
   - 3d-ftu/glomerulus/v1.0
   - asct-b/allen-brain/v1.10
   - asct-b/anatomical-systems/v1.3
