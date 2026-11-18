@@ -6,8 +6,8 @@ Reviewer(s):,"Bruce Herr II, Katy Börner, Jie Zheng",,,,,
 Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137, 0000-0002-2999-0103",,,,,
 General Publication(s):,,,,,,
 Data DOI:,https://doi.org/10.48539/HBM995.DHWH.798,,,,,
-Date:,"June 15, 2026",,,,,
-Version number:,v1.2,,,,,
+Date:,"December 15, 2026",,,,,
+Version number:,v1.3,,,,,
 Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
 body_proper,UBERON:0013702,Adipocyte,PAZ:0000001,adipocyte,CL:0000136,skos:exactMatch
 body_proper,UBERON:0013702,Doublet like cell,PAZ:0000002,cell:doublet like cell,CL:0000000,skos:narrowMatch

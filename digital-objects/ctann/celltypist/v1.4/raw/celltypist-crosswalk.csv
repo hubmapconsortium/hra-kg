@@ -6,8 +6,8 @@ Reviewer(s):,"Bruce Herr II, Katy Börner, Jie Zheng",,,,,
 Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137, 0000-0002-2999-0103",,,,,
 General Publication(s):,https://doi.org/10.48539/HBM877.ZTNJ.972,,,,,
 Data DOI:,https://doi.org/10.48539/HBM895.BTCC.766,,,,,
-Date:,"June 15, 2026",,,,,
-Version number:,v1.3,,,,,
+Date:,"December 15, 2026",,,,,
+Version number:,v1.4,,,,,
 Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
 blood_L1,UBERON:0000178,Age-associated B cells,CT:0000001,age-associated B cell,CL:4033094,skos:exactMatch
 blood_L1,UBERON:0000178,C1 non-classical monocytes,CT:0000002,non-classical monocyte:C1,CL:0000875,skos:narrowMatch

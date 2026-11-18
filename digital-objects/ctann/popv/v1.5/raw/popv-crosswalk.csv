@@ -6,8 +6,8 @@ Reviewer(s):,"Bruce Herr II, Katy Börner, Jie Zheng",,,,,
 Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137, 0000-0002-2999-0103",,,,,
 General Publication(s):,"https://github.com/YosefLab/PopV, 1.  Ergen C, Xing G, Xu C, Jayasuriya M, McGeever E, Pisco AO, Streets A, Yosef N. Consensus prediction of cell type labels with popV. bioRxiv [Internet]. 2023 Jan 1;2023.08.18.553912. Available from: http://biorxiv.org/content/early/2023/08/21/2023.08.18.553912.abstract",,,,,
 Data DOI:,https://doi.org/10.48539/HBM793.ZGVH.932,,,,,
-Date:,"June 15, 2026",,,,,
-Version number:,v1.4,,,,,
+Date:,"December 15, 2026",,,,,
+Version number:,v1.5,,,,,
 Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
 blood,UBERON:0000178,CD141-positive myeloid dendritic cell,PV:0000001,CD141-positive myeloid dendritic cell,CL:0002394,skos:exactMatch
 blood,UBERON:0000178,"CD4-positive, alpha-beta memory T cell",PV:0000002,"CD4-positive, alpha-beta memory T cell",CL:0000897,skos:exactMatch

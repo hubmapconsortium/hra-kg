@@ -6,8 +6,8 @@ Reviewer(s):,"John Hickey, Bruce Herr II, Katy Börner, Jie Zheng, Nicole Vasile
 Reviewer ORCID(s):,"0000-0001-5675-3974, 0000-0002-6703-7647, 0000-0002-3321-6137, 0000-0002-2999-0103, 0000-0001-5208-3432",,,,,
 General Publication(s):,,,,,,
 Data DOI:,https://doi.org/10.48539/HBM554.JQLD.949,,,,,
-Date:,"December 15, 2025",,,,,
-Version number:,v1.0,,,,,
+Date:,"December 15, 2026",,,,,
+Version number:,v1.1,,,,,
 Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match
 Intestine,UBERON:0000160,smooth muscle,STELLAR:0000001,enteric smooth muscle cell,CL:0002504,skos:exactMatch
 Intestine,UBERON:0000160,stromal cell,STELLAR:0000002,stromal cell,CL:0000499,skos:exactMatch

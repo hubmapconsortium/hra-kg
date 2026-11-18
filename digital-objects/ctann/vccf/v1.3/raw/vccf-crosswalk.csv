@@ -6,8 +6,8 @@ Reviewer(s):,"Bruce Herr II, Katy Börner, Jie Zheng",,,,,,
 Reviewer ORCID(s):,"0000-0002-6703-7647, 0000-0002-3321-6137, 0000-0002-2999-0103",,,,,,
 General Publication(s):,,,,,,,
 Data DOI:,https://doi.org/10.48539/HBM735.SZDD.772,,,,,
-Date:,"June 15, 2026",,,,,
-Version number:,v1.2,,,,,
+Date:,"December 15, 2026",,,,,
+Version number:,v1.3,,,,,
 Organ_Level,Organ_ID,Annotation_Label,Annotation_Label_ID,CL_Label,CL_ID,CL_Match,
 bonemarrow-codex-chop_L1,UBERON:0002371,mesenchymal cell,VCCF:0000001,mesenchymal cell,CL:0008019,skos:exactMatch,500
 bonemarrow-codex-chop_L1,UBERON:0002371,unknown cell,VCCF:0000002,cell:unknown,CL:0000000,skos:narrowMatch,101
